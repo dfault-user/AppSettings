@@ -11638,7 +11638,6 @@
         "FFlagTextChatAdjustMetadataConstraint": "True",
         "FFlagEnableSocialProfilePeekViewExposureEvents": "True",
         "FFlagScriptEditorMemoryLeaks": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagEnableNapIxpLayerExposure_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesign.2025Q3;1032022767;dev_controlled",
         "FFlagEnableNotApprovedPageV2_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesign.2025Q3;1032022767;dev_controlled",
         "FFlagMoveLightGridRecreate": "True",
@@ -11659,6 +11658,7 @@
         "FFlagPartyVoiceIdleTimeout2": "True",
         "DFFlagDecoupleExpandedAllowlistFromGmaSdkInit_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T22:20:29",
         "DFIntBatchWorkflowTelemetryEventThrottleHundredthsPercent": "1",
+        "FFlagEnableStylingAnalytics6": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12123,6 +12123,7 @@
         "FFlagFocusNavigationDefaultKeyboardFocusOff": "True",
         "FFlagRenderClusterOctree": "True",
         "DFFlagRenderFastClusterOcclusionCulling_Staged": "True;SteadyState;10;30;Revert;2025-08-18T22:14:00",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12576,7 +12577,6 @@
         "FFlagLuaAppLogGameAttributionError": "True",
         "FIntLuaAppGameAttributionErrorEventThrottleHundrethsPercent": "10000",
         "DFFlagFixWebViewGrayBar": "True",
-        "FFlagEnableStylingAnalytics6": "False",
         "DFIntStylingAnalyticsPostGameSessionEventHundredthsPercentage": "1000",
         "DFStringAllowedPublicFlags": "eyJTaWduYXR1cmUiOiJhNGIwNzc4ZmYxNzhjYTIxMzUyN2ZhMTEyMGMyYTY2ZTk4OWI4YjljMTRmMzc4ZTY3ZmE3NDc2Yzk0MTI5OWFiMjRiNmQ5NjE0NjA1YTY0OTg4NjE0M2QxZWU5NzJkN2JmMTA2NzgxNDE3YTk1YjQwZDZkYzlkODE3ZWYxYjkwNSIsIkFsbG93ZWQiOlsiREZGbGFnRGVidWdQYXVzZVZveGVsaXplciIsIkRGRmxhZ0RlYnVnUmVuZGVyRm9yY2VUZWNobm9sb2d5Vm94ZWwiLCJERkZsYWdEaXNhYmxlRFBJU2NhbGUiLCJERkZsYWdUZXh0dXJlUXVhbGl0eU92ZXJyaWRlRW5hYmxlZCIsIkRGSW50Q1NHTGV2ZWxPZkRldGFpbFN3aXRjaGluZ0Rpc3RhbmNlIiwiREZJbnRDU0dMZXZlbE9mRGV0YWlsU3dpdGNoaW5nRGlzdGFuY2VMMTIiLCJERkludENTR0xldmVsT2ZEZXRhaWxTd2l0Y2hpbmdEaXN0YW5jZUwyMyIsIkRGSW50Q1NHTGV2ZWxPZkRldGFpbFN3aXRjaGluZ0Rpc3RhbmNlTDM0IiwiREZJbnRDYW5IaWRlR3VpR3JvdXBJZCIsIkRGSW50RGVidWdGUk1RdWFsaXR5TGV2ZWxPdmVycmlkZSIsIkRGSW50VGFza1NjaGVkdWxlclRhcmdldEZwcyIsIkRGSW50VGV4dHVyZVF1YWxpdHlPdmVycmlkZSIsIkZGbGFnRGVidWdEaXNwbGF5RlBTIiwiRkZsYWdEZWJ1Z0ZvcmNlRnV0dXJlSXNCcmlnaHRQaGFzZTIiLCJGRmxhZ0RlYnVnR3JhcGhpY3NQcmVmZXJEM0QxMSIsIkZGbGFnRGVidWdHcmFwaGljc1ByZWZlckQzRDExRkwxMCIsIkZGbGFnRGVidWdHcmFwaGljc1ByZWZlck9wZW5HTCIsIkZGbGFnRGVidWdHcmFwaGljc1ByZWZlclZ1bGthbiIsIkZGbGFnRGVidWdTa3lHcmF5IiwiRkZsYWdEaXNhYmxlUG9zdEZ4IiwiRkZsYWdIYW5kbGVBbHRFbnRlckZ1bGxzY3JlZW5NYW51YWxseSIsIkZJbnREZWJ1Z0ZvcmNlTVNBQVNhbXBsZXMiLCJGSW50RlJNTWF4R3Jhc3NEaXN0YW5jZSIsIkZJbnRGUk1NaW5HcmFzc0Rpc3RhbmNlIiwiRkludEZvbnRTaXplUGFkZGluZyIsIkZJbnRGdWxsc2NyZWVuVGl0bGVCYXJUcmlnZ2VyRGVsYXlNaWxsaXMiLCJGSW50R3Jhc3NNb3ZlbWVudFJlZHVjZWRNb3Rpb25GYWN0b3IiLCJGSW50UmVuZGVyR3Jhc3NEZXRhaWxTdHJhbmRzIiwiRkludFJlbmRlclNoYWRvd0ludGVuc2l0eSIsIkZJbnRUZXJyYWluQXJyYXlTbGljZVNpemUiLCJGTG9nTmV0d29yayJdfQ==",
         "DFFlagRobloxTelemetryRemoveEphemeralStatsDualReport": "True",
@@ -12586,10 +12586,9 @@
         "FFlagVideoAllCapturesBlacklistForGPUs": "True",
         "DFFlagDebugSimEnableNewAlignTypeInitialization": "True",
         "FFlagDevHardwareVideoCaptureMaster3": "True",
-        "FFlagEnableStylingAnalytics6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1362405774;2025-08-18T21:21:36",
-        "FStringFlagRepoGitHashFastString": "43b17b146c58dd61b084d18c3279626b5a3ec629",
-        "DFStringFlagRepoGitHashDynamicString": "43b17b146c58dd61b084d18c3279626b5a3ec629",
-        "FStringFlipTimeStampFastString": "2025-08-18T22:24:42.336Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-18T22:24:42.336Z"
+        "FStringFlagRepoGitHashFastString": "2bd9391ca94aa9f52d1da83318060587d43d891b",
+        "DFStringFlagRepoGitHashDynamicString": "2bd9391ca94aa9f52d1da83318060587d43d891b",
+        "FStringFlipTimeStampFastString": "2025-08-18T22:29:04.857Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-18T22:29:04.857Z"
     }
 }

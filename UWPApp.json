@@ -11638,7 +11638,6 @@
         "FFlagTextChatAdjustMetadataConstraint": "True",
         "FFlagEnableSocialProfilePeekViewExposureEvents": "True",
         "FFlagScriptEditorMemoryLeaks": "True",
-        "FFlagEnableStylingAnalytics6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1362405774;2025-08-18T21:21:36",
         "FFlagEnableNapIxpLayerExposure_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesign.2025Q3;1032022767;dev_controlled",
         "FFlagEnableNotApprovedPageV2_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesign.2025Q3;1032022767;dev_controlled",
         "FFlagMoveLightGridRecreate": "True",
@@ -11659,6 +11658,7 @@
         "FFlagPartyVoiceIdleTimeout2": "True",
         "DFFlagDecoupleExpandedAllowlistFromGmaSdkInit_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T22:20:29",
         "DFIntBatchWorkflowTelemetryEventThrottleHundredthsPercent": "1",
+        "FFlagEnableStylingAnalytics6": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11960,9 +11960,9 @@
         "FFlagLuaAppScaleSearchBar": "True",
         "FFlagLuaAppSearchIconUnselectable": "True",
         "FFlagFocusNavigationDefaultKeyboardFocusOff": "True",
-        "FStringFlagRepoGitHashFastString": "43b17b146c58dd61b084d18c3279626b5a3ec629",
-        "DFStringFlagRepoGitHashDynamicString": "43b17b146c58dd61b084d18c3279626b5a3ec629",
-        "FStringFlipTimeStampFastString": "2025-08-18T22:24:42.336Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-18T22:24:42.336Z"
+        "FStringFlagRepoGitHashFastString": "2bd9391ca94aa9f52d1da83318060587d43d891b",
+        "DFStringFlagRepoGitHashDynamicString": "2bd9391ca94aa9f52d1da83318060587d43d891b",
+        "FStringFlipTimeStampFastString": "2025-08-18T22:29:04.857Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-18T22:29:04.857Z"
     }
 }

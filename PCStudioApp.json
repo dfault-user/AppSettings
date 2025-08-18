@@ -11638,7 +11638,6 @@
         "FFlagTextChatAdjustMetadataConstraint": "True",
         "FFlagEnableSocialProfilePeekViewExposureEvents": "True",
         "FFlagScriptEditorMemoryLeaks": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagEnableNapIxpLayerExposure_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesign.2025Q3;1032022767;dev_controlled",
         "FFlagEnableNotApprovedPageV2_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesign.2025Q3;1032022767;dev_controlled",
         "FFlagMoveLightGridRecreate": "True",
@@ -11650,7 +11649,7 @@
         "DFFlagInputActionSystem_AnalyticsEnabled_Counters_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T21:52:00",
         "FFlagLuaAppPymkFocusNavigation": "True",
         "FFlagVideoCaptureCustomThumbnailResolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T21:58:42",
-        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
         "FIntTexturePackUseACRHundredthPercent_Staged": "2000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1859500460;2025-08-18T22:00:05",
         "FFlagLuaAppDisableStickyBarEdp": "True",
         "FFlagEnableFriendsRenamingForAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;739839352;2025-08-18T22:00:56",
@@ -11659,6 +11658,8 @@
         "FFlagPartyVoiceIdleTimeout2": "True",
         "DFFlagDecoupleExpandedAllowlistFromGmaSdkInit_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T22:20:29",
         "DFIntBatchWorkflowTelemetryEventThrottleHundredthsPercent": "1",
+        "FFlagEnableStylingAnalytics6": "True",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13234,7 +13235,6 @@
         "FFlagLuauIceLess": "True",
         "FFlagExplorerFilterHasIncrementalSearch": "True",
         "FFlagLuauMissingFollowMappedGenericPacks": "True",
-        "FFlagEnableStylingAnalytics6": "True",
         "FFlagAddWindowsHandheldEmulator2": "True",
         "FFlagGrantAnimationPermissionsChangeCast": "True",
         "FFlagViewportDisplaySizeAPI2BetaFeature": "True",
@@ -13689,9 +13689,9 @@
         "FStringSocialCaptureIXPLayer": "Social.WindowsCapture",
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagToolboxFixInsertionAnalytics": "True",
-        "FStringFlagRepoGitHashFastString": "43b17b146c58dd61b084d18c3279626b5a3ec629",
-        "DFStringFlagRepoGitHashDynamicString": "43b17b146c58dd61b084d18c3279626b5a3ec629",
-        "FStringFlipTimeStampFastString": "2025-08-18T22:24:42.336Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-18T22:24:42.336Z"
+        "FStringFlagRepoGitHashFastString": "2bd9391ca94aa9f52d1da83318060587d43d891b",
+        "DFStringFlagRepoGitHashDynamicString": "2bd9391ca94aa9f52d1da83318060587d43d891b",
+        "FStringFlipTimeStampFastString": "2025-08-18T22:29:04.857Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-18T22:29:04.857Z"
     }
 }
