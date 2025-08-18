@@ -11546,7 +11546,7 @@
         "FFlagAXBackgroundSceneManagerRevamp3": "True",
         "FFlagVoiceRtcStatsEnabled8": "True",
         "FFlagVoiceRtcStatsEventIngestEnabled1": "True",
-        "FFlagTaperedAutoTangents": "False",
+        "FFlagTaperedAutoTangents": "True",
         "FFlagLuaAppHoldDetector": "True",
         "FFlagAXFixItemViewportErrors": "True",
         "DFFlagFixVideoCaptureRenderedAsImage": "True",
@@ -11634,8 +11634,6 @@
         "FIntVideoCaptureMaxShortSideThumbnail": "720",
         "FFlagStudioCloseTestInstanceOnNonSuccessOpen2": "True",
         "FFlagStudioMessageDispatcherWithExplicitStopSource": "True",
-        "FFlagMoveLightGridRecreate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T20:29:25",
-        "FFlagTaperedAutoTangents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T20:29:53",
         "DFFlagOverrideStrafingAnimations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T20:30:20",
         "FFlagStudioFireNonRepKeyEventOnStateChange": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -11652,6 +11650,9 @@
         "FFlagScriptEditorMemoryLeaks": "True",
         "DFIntBatchWorkflowTelemetryEventThrottleHundredthsPercent_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;793988978;2025-08-18T21:17:04",
         "AllowVideoPreRoll": "True",
+        "FFlagEnableNapIxpLayerExposure_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesign.2025Q3;1032022767;dev_controlled",
+        "FFlagEnableNotApprovedPageV2_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesign.2025Q3;1032022767;dev_controlled",
+        "FFlagMoveLightGridRecreate": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13655,9 +13656,9 @@
         "FIntWebBrowserPreloadSTM6221CleanupThresoldMB": "1000000",
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagToolboxFixInsertionAnalytics": "True",
-        "FStringFlagRepoGitHashFastString": "e6bb2a566ad6b63d9eaff99d20c25cd0d7aadf18",
-        "DFStringFlagRepoGitHashDynamicString": "e6bb2a566ad6b63d9eaff99d20c25cd0d7aadf18",
-        "FStringFlipTimeStampFastString": "2025-08-18T21:22:13.957Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-18T21:22:13.957Z"
+        "FStringFlagRepoGitHashFastString": "485adb870ca2c055479661fa71ccad171474ca42",
+        "DFStringFlagRepoGitHashDynamicString": "485adb870ca2c055479661fa71ccad171474ca42",
+        "FStringFlipTimeStampFastString": "2025-08-18T21:34:05.668Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-18T21:34:05.668Z"
     }
 }
