@@ -11634,10 +11634,7 @@
         "FIntVideoCaptureMaxShortSideThumbnail": "720",
         "FFlagStudioCloseTestInstanceOnNonSuccessOpen2": "True",
         "FFlagStudioMessageDispatcherWithExplicitStopSource": "True",
-        "DFFlagOverrideStrafingAnimations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T20:30:20",
         "FFlagStudioFireNonRepKeyEventOnStateChange": "True",
-        "FFlagGraphicsGLDoNotAllowGLSL2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T20:36:19",
-        "DFFlagRakNetReturnErrno_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T20:45:20",
         "FFlagStudioSetupUselessCode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T20:48:37",
         "FIntTexturePackUseACRHundredthPercent_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1859500460;2025-08-18T20:48:58",
         "FFlagLuaAppPymkFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1200710081;2025-08-18T20:51:16",
@@ -11653,6 +11650,10 @@
         "FFlagEnableNapIxpLayerExposure_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesign.2025Q3;1032022767;dev_controlled",
         "FFlagEnableNotApprovedPageV2_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesign.2025Q3;1032022767;dev_controlled",
         "FFlagMoveLightGridRecreate": "True",
+        "DFFlagOverrideStrafingAnimations": "True",
+        "FFlagGraphicsGLDoNotAllowGLSL2": "True",
+        "DFFlagHttpAddJitterToRetryAndLocalThrottle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T21:43:28",
+        "DFFlagRakNetReturnErrno": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11954,9 +11955,9 @@
         "FFlagLuaAppScaleSearchBar": "True",
         "FFlagLuaAppSearchIconUnselectable": "True",
         "FFlagFocusNavigationDefaultKeyboardFocusOff": "True",
-        "FStringFlagRepoGitHashFastString": "485adb870ca2c055479661fa71ccad171474ca42",
-        "DFStringFlagRepoGitHashDynamicString": "485adb870ca2c055479661fa71ccad171474ca42",
-        "FStringFlipTimeStampFastString": "2025-08-18T21:34:05.668Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-18T21:34:05.668Z"
+        "FStringFlagRepoGitHashFastString": "17df47781bcb5c37b99f65decf5c7d3db8a2e505",
+        "DFStringFlagRepoGitHashDynamicString": "17df47781bcb5c37b99f65decf5c7d3db8a2e505",
+        "FStringFlipTimeStampFastString": "2025-08-18T21:46:59.055Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-18T21:46:59.055Z"
     }
 }
