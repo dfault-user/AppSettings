@@ -11650,7 +11650,6 @@
         "FFlagAXUnifiedLoggingL2TagCheck": "True",
         "DFIntSessionReportCrashErrorPointsThrottleHundredthsPercent": "5000",
         "FFlagPartyVoiceIdleTimeout2": "True",
-        "CaptureCountersIntervalInMinutes": "5",
         "DFIntBatchWorkflowTelemetryEventThrottleHundredthsPercent": "1",
         "FFlagEnableStylingAnalytics6": "True",
         "FFlagPreferredInputAllowTransitionToTouch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T22:41:52",
@@ -11658,7 +11657,6 @@
         "DFFlagHttpAddJitterToRetryAndLocalThrottle": "True",
         "DFIntStylingAnalyticsPostGameSessionEventHundredthsPercentage_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T22:46:02",
         "AxisAdornmentGrabSize": "12",
-        "FFlagEnableDisconnectPartyVoiceIfNeeded_Staged": "True;SteadyState;10;30;Revert;2025-08-18T22:52:33",
         "FFlagFixBundleUploadInstancesUsed_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T22:56:34",
         "FFlagVideoCaptureCustomThumbnailResolution": "True",
         "FFlagStudioTasksFutureNotifyAll": "True",
@@ -11670,6 +11668,8 @@
         "DFFlagRbxStorageDropCacheErrorsEnable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T23:12:59",
         "DFIntRbxStorageDropCacheErrorsThreshold_Staged": "1000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T23:13:57",
         "FFlagWiresDontTrustReentrantAncestryChanges_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T23:19:40",
+        "DFFlagDecoupleExpandedAllowlistFromGmaSdkInit": "True",
+        "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
@@ -12325,7 +12325,6 @@
         "DFFlagBoneInstanceApi504": "True",
         "AndroidCookieHandlerInitializationTiming": "True",
         "FFlagVideoAdaptionByMemory4": "True",
-        "DFFlagDecoupleExpandedAllowlistFromGmaSdkInit": "True",
         "FFlagNewHapticService16": "True",
         "FIntReportSecondVEHundredthsPercent2": "10000",
         "FFlagUseAssetReadLogger": "True",
@@ -12552,9 +12551,9 @@
         "DisplayAliasOnFullscreenIntent": "true",
         "FFlagSimAeroUseNewKDTree": "True",
         "FFlagRenderClusterOctree": "True",
-        "FStringFlagRepoGitHashFastString": "3f92f57a6ea2fce49d2cd2fddbb9abcf0680d89a",
-        "DFStringFlagRepoGitHashDynamicString": "3f92f57a6ea2fce49d2cd2fddbb9abcf0680d89a",
-        "FStringFlipTimeStampFastString": "2025-08-18T23:22:42.174Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-18T23:22:42.174Z"
+        "FStringFlagRepoGitHashFastString": "f16210bfcac423940f0edc1f47ce108671f71292",
+        "DFStringFlagRepoGitHashDynamicString": "f16210bfcac423940f0edc1f47ce108671f71292",
+        "FStringFlipTimeStampFastString": "2025-08-18T23:28:00.494Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-18T23:28:00.494Z"
     }
 }
