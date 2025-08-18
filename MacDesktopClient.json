@@ -11637,9 +11637,7 @@
         "FFlagStudioFireNonRepKeyEventOnStateChange": "True",
         "FFlagTextChatAdjustMetadataConstraint": "True",
         "FFlagEnableSocialProfilePeekViewExposureEvents": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagScriptEditorMemoryLeaks": "True",
-        "DFIntBatchWorkflowTelemetryEventThrottleHundredthsPercent_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;793988978;2025-08-18T21:17:04",
         "AllowVideoPreRoll": "True",
         "FFlagEnableNapIxpLayerExposure_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesign.2025Q3;1032022767;dev_controlled",
         "FFlagEnableNotApprovedPageV2_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesign.2025Q3;1032022767;dev_controlled",
@@ -11658,6 +11656,10 @@
         "FFlagEnableFriendsRenamingForAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;739839352;2025-08-18T22:00:56",
         "FFlagAXUnifiedLoggingL2TagCheck": "True",
         "DFIntSessionReportCrashErrorPointsThrottleHundredthsPercent": "5000",
+        "FFlagPartyVoiceIdleTimeout2": "True",
+        "DFFlagDecoupleExpandedAllowlistFromGmaSdkInit_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T22:20:29",
+        "DFIntBatchWorkflowTelemetryEventThrottleHundredthsPercent": "1",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12060,7 +12062,6 @@
         "DFFlagHttpCurlPipeWaitEnabled2": "True",
         "FFlagAssetProviderFixMissingStats": "True",
         "FFlagFixUnifiedForceFieldOutline": "False",
-        "FFlagPartyVoiceIdleTimeout2": "True",
         "DFFlagSimCSGAddOperationTimeTelemetry": "True",
         "FFlagCoreScriptsMigrateFromLegacyCSVLoc3": "False",
         "FFlagUnivAppSkipLoadCoreScriptLoc": "False",
@@ -12511,9 +12512,9 @@
         "FFlagLuaAppScaleSearchBar": "True",
         "FFlagLuaAppSearchIconUnselectable": "True",
         "FFlagEnableStylingAnalytics6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1362405774;2025-08-18T21:21:36",
-        "FStringFlagRepoGitHashFastString": "1ee2ad7160ad28f3134f8002b13397a36b39a5b7",
-        "DFStringFlagRepoGitHashDynamicString": "1ee2ad7160ad28f3134f8002b13397a36b39a5b7",
-        "FStringFlipTimeStampFastString": "2025-08-18T22:19:05.396Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-18T22:19:05.396Z"
+        "FStringFlagRepoGitHashFastString": "43b17b146c58dd61b084d18c3279626b5a3ec629",
+        "DFStringFlagRepoGitHashDynamicString": "43b17b146c58dd61b084d18c3279626b5a3ec629",
+        "FStringFlipTimeStampFastString": "2025-08-18T22:24:42.336Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-18T22:24:42.336Z"
     }
 }
