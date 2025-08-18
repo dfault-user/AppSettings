@@ -11629,7 +11629,7 @@
         "FFlagCheckRenderMeshOOB6": "True",
         "FFlagRodeoImageRenderFix": "True",
         "DFFlagVideoCaptureWinOpenGLForceSoftware": "True",
-        "FIntTexturePackUseACRHundredthPercent": "500",
+        "FIntTexturePackUseACRHundredthPercent": "2000",
         "FIntVideoCaptureMaxLongSideThumbnail": "1280",
         "FIntVideoCaptureMaxShortSideThumbnail": "720",
         "FFlagStudioCloseTestInstanceOnNonSuccessOpen2": "True",
@@ -11646,9 +11646,6 @@
         "DFFlagRakNetReturnErrno": "True",
         "FFlagStudioSetupUselessCode": "True",
         "FFlagLuaAppPymkFocusNavigation": "True",
-        "FFlagVideoCaptureCustomThumbnailResolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T21:58:42",
-        "FFlagStudioTasksFutureNotifyAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T21:59:18",
-        "FIntTexturePackUseACRHundredthPercent_Staged": "2000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1859500460;2025-08-18T22:00:05",
         "FFlagLuaAppDisableStickyBarEdp": "True",
         "FFlagEnableFriendsRenamingForAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;739839352;2025-08-18T22:00:56",
         "FFlagAXUnifiedLoggingL2TagCheck": "True",
@@ -11663,6 +11660,9 @@
         "DFIntStylingAnalyticsPostGameSessionEventHundredthsPercentage_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T22:46:02",
         "DFFlagPerformanceControlPlayerConfigurerGuiServiceLifetimeFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T22:51:48",
         "FFlagEnableDisconnectPartyVoiceIfNeeded_Staged": "True;SteadyState;10;30;Revert;2025-08-18T22:52:33",
+        "FFlagFixBundleUploadInstancesUsed_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T22:56:34",
+        "FFlagVideoCaptureCustomThumbnailResolution": "True",
+        "FFlagStudioTasksFutureNotifyAll": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11964,9 +11964,9 @@
         "FFlagLuaAppScaleSearchBar": "True",
         "FFlagLuaAppSearchIconUnselectable": "True",
         "FFlagFocusNavigationDefaultKeyboardFocusOff": "True",
-        "FStringFlagRepoGitHashFastString": "8fcde33e42cdaf9f25266762206ceee0d6f1dfb3",
-        "DFStringFlagRepoGitHashDynamicString": "8fcde33e42cdaf9f25266762206ceee0d6f1dfb3",
-        "FStringFlipTimeStampFastString": "2025-08-18T22:57:48.660Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-18T22:57:48.660Z"
+        "FStringFlagRepoGitHashFastString": "ad56785c42e4e4e04758c5f36067ed342da47e1b",
+        "DFStringFlagRepoGitHashDynamicString": "ad56785c42e4e4e04758c5f36067ed342da47e1b",
+        "FStringFlipTimeStampFastString": "2025-08-18T23:01:46.541Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-18T23:01:46.541Z"
     }
 }
