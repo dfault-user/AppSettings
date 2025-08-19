@@ -11656,7 +11656,6 @@
         "FFlagVideoCaptureCustomThumbnailResolution": "True",
         "FFlagStudioTasksFutureNotifyAll": "True",
         "FFlagEnableFriendsRenamingForAll": "True",
-        "FFlagWiresDontTrustReentrantAncestryChanges_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T23:19:40",
         "DFFlagDecoupleExpandedAllowlistFromGmaSdkInit": "False",
         "FFlagAXFixCameraManagerInitialization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;792292145;2025-08-18T23:40:31",
         "FFlagCASTouchButtonsUsePreferredInput": "True",
@@ -11670,6 +11669,7 @@
         "FFlagReportAbuseThankYouPageGamepadEnable": "True",
         "DFFlagRbxStorageDropCacheErrorsEnable": "True",
         "DFIntRbxStorageDropCacheErrorsThreshold": "1000000",
+        "FFlagWiresDontTrustReentrantAncestryChanges": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12025,9 +12025,9 @@
         "FFlagLuaAppSearchIconUnselectable": "True",
         "FFlagSimAeroUseNewKDTree": "True",
         "FFlagRenderClusterOctree": "True",
-        "FStringFlagRepoGitHashFastString": "44cb750f2cdbed8b6a07717d3fb17c13a66c27e5",
-        "DFStringFlagRepoGitHashDynamicString": "44cb750f2cdbed8b6a07717d3fb17c13a66c27e5",
-        "FStringFlipTimeStampFastString": "2025-08-19T00:21:31.402Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-19T00:21:31.402Z"
+        "FStringFlagRepoGitHashFastString": "cf02de38579e694b8fcb3c5f4fb9870d67c4af03",
+        "DFStringFlagRepoGitHashDynamicString": "cf02de38579e694b8fcb3c5f4fb9870d67c4af03",
+        "FStringFlipTimeStampFastString": "2025-08-19T00:27:34.277Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-19T00:27:34.277Z"
     }
 }
