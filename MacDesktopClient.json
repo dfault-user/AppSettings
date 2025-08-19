@@ -11629,7 +11629,7 @@
         "FFlagCheckRenderMeshOOB6": "True",
         "FFlagRodeoImageRenderFix": "True",
         "DFFlagVideoCaptureWinOpenGLForceSoftware": "True",
-        "FIntTexturePackUseACRHundredthPercent": "2000",
+        "FIntTexturePackUseACRHundredthPercent": "5000",
         "FIntVideoCaptureMaxLongSideThumbnail": "1280",
         "FIntVideoCaptureMaxShortSideThumbnail": "720",
         "FFlagStudioCloseTestInstanceOnNonSuccessOpen2": "True",
@@ -11655,8 +11655,6 @@
         "DFFlagHttpAddJitterToRetryAndLocalThrottle": "True",
         "FFlagVideoCaptureCustomThumbnailResolution": "True",
         "FFlagStudioTasksFutureNotifyAll": "True",
-        "FIntTexturePackUseACRHundredthPercent_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1859500460;2025-08-18T23:03:29",
-        "FFlagUploadContactsAddSource_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2092885013;2025-08-18T23:04:43",
         "FFlagEnableFriendsRenamingForAll": "True",
         "FFlagReportAbuseThankYouPageGamepadEnable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T23:08:11",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -11671,6 +11669,7 @@
         "DFFlagPerformanceControlPlayerConfigurerGuiServiceLifetimeFix": "True",
         "FFlagReportGameServerInitializationSuccessAsV2Counter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T23:57:51",
         "FFlagFixBundleUploadInstancesUsed": "True",
+        "FFlagUploadContactsAddSource": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
@@ -12518,9 +12517,9 @@
         "DFFlagRobloxTelemetryRemoveEphemeralStatsDualReport": "True",
         "FFlagLuaAppScaleSearchBar": "True",
         "FFlagLuaAppSearchIconUnselectable": "True",
-        "FStringFlagRepoGitHashFastString": "91823e6ca4ae5c27f0f3dd4128f35db8547d0728",
-        "DFStringFlagRepoGitHashDynamicString": "91823e6ca4ae5c27f0f3dd4128f35db8547d0728",
-        "FStringFlipTimeStampFastString": "2025-08-19T00:01:54.249Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-19T00:01:54.249Z"
+        "FStringFlagRepoGitHashFastString": "4d31568a51111ab7317a9ffdff956c091dd2153f",
+        "DFStringFlagRepoGitHashDynamicString": "4d31568a51111ab7317a9ffdff956c091dd2153f",
+        "FStringFlipTimeStampFastString": "2025-08-19T00:07:58.166Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-19T00:07:58.166Z"
     }
 }
