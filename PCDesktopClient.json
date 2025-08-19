@@ -11656,10 +11656,8 @@
         "FFlagVideoCaptureCustomThumbnailResolution": "True",
         "FFlagStudioTasksFutureNotifyAll": "True",
         "FFlagEnableFriendsRenamingForAll": "True",
-        "FFlagReportAbuseThankYouPageGamepadEnable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T23:08:11",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "AllowVideoPreRoll": "True",
-        "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagWiresDontTrustReentrantAncestryChanges_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T23:19:40",
         "DFFlagDecoupleExpandedAllowlistFromGmaSdkInit": "False",
         "FFlagAXFixCameraManagerInitialization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;792292145;2025-08-18T23:40:31",
@@ -11670,6 +11668,9 @@
         "FFlagReportGameServerInitializationSuccessAsV2Counter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T23:57:51",
         "FFlagFixBundleUploadInstancesUsed": "True",
         "FFlagUploadContactsAddSource": "True",
+        "DFFlagFileCacheFixAllKeys": "True",
+        "FFlagReportAbuseThankYouPageGamepadEnable": "True",
+        "FFlagFixLooksSecondaryLayerApdativeScrolling": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
@@ -12106,7 +12107,6 @@
         "DFFlagAsyncGalleryRetrieval": "True",
         "FFlagFixContentProviderAPIsForAssetProvider": "False",
         "FFlagAlwaysAllowUIDragDetectorInNonMainWindows": "True",
-        "DFFlagFileCacheFixAllKeys": "True",
         "FFlagStandardOutputUseRuntimeMutex": "True",
         "FFlagVoiceConnectionApiEnableInitializeAudioSinkOnDMThreadFix": "True",
         "FFlagMigrateLCMToComponentManager5": "True",
@@ -12592,9 +12592,9 @@
         "DFFlagDebugSimEnableNewAlignTypeInitialization": "True",
         "FFlagDevHardwareVideoCaptureMaster3": "True",
         "FFlagEnableUpdatedCaptureControls_v9_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;297746880;2025-08-18T23:26:45",
-        "FStringFlagRepoGitHashFastString": "4d31568a51111ab7317a9ffdff956c091dd2153f",
-        "DFStringFlagRepoGitHashDynamicString": "4d31568a51111ab7317a9ffdff956c091dd2153f",
-        "FStringFlipTimeStampFastString": "2025-08-19T00:07:58.166Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-19T00:07:58.166Z"
+        "FStringFlagRepoGitHashFastString": "aacca3ea29d410a7ea43191ef32feadbfe4801b0",
+        "DFStringFlagRepoGitHashDynamicString": "aacca3ea29d410a7ea43191ef32feadbfe4801b0",
+        "FStringFlipTimeStampFastString": "2025-08-19T00:14:52.807Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-19T00:14:52.807Z"
     }
 }
