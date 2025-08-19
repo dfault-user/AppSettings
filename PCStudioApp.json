@@ -2041,7 +2041,7 @@
         "FFlagNewCameraControlsBetaFeature": "True",
         "DFIntReportAUMPAnalyticsPercentageHundredths": "100",
         "FFlagLuaAppEnableToastNotifications4": "True",
-        "FStringStudioEmergencyMessageV4": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjgyLjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=",
+        "FStringStudioEmergencyMessageV4": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjgzLjU0NS42ODYwODcwIiwKICAgICJwbGF0Zm9ybXMiOiBbIldpbmRvd3MiLCAiTWFjIl0sCiAgICAibWVzc2FnZSI6e30sCiAgICAic2h1dGRvd24iOnRydWUKfQ==",
         "FFlagToolboxAddCreationsFilterToListView": "True",
         "DFIntHttpServiceAggregateBandwidthReportThrottleHundredthsPercentage": "1",
         "DFIntHttpServiceBandwidthReportThrottleHundredthsPercentage": "1",
@@ -11661,7 +11661,6 @@
         "FFlagPreferredInputAllowTransitionToTouch": "True",
         "DFIntStylingAnalyticsPostGameSessionEventHundredthsPercentage": "1000",
         "DFFlagPerformanceControlPlayerConfigurerGuiServiceLifetimeFix": "True",
-        "FFlagReportGameServerInitializationSuccessAsV2Counter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T23:57:51",
         "FFlagFixBundleUploadInstancesUsed": "True",
         "FFlagUploadContactsAddSource": "True",
         "DFFlagFileCacheFixAllKeys": "True",
@@ -11670,6 +11669,7 @@
         "DFIntRbxStorageDropCacheErrorsThreshold": "100000",
         "FFlagWiresDontTrustReentrantAncestryChanges": "True",
         "FFlagAXFixCameraManagerInitialization": "True",
+        "FFlagReportGameServerInitializationSuccessAsV2Counter": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13293,7 +13293,6 @@
         "FFlagTerrainOneTouch": "True",
         "FFlagLuauDoNotBlockOnStuckTypeFunctions": "True",
         "FFlagRenderClusterOctree": "True",
-        "FStringStudioEmergencyMessageV4_Staged": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjgzLjU0NS42ODYwODcwIiwKICAgICJwbGF0Zm9ybXMiOiBbIldpbmRvd3MiLCAiTWFjIl0sCiAgICAibWVzc2FnZSI6e30sCiAgICAic2h1dGRvd24iOnRydWUKfQ==;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T23:58:41",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13698,9 +13697,9 @@
         "FStringSocialCaptureIXPLayer": "Social.WindowsCapture",
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagToolboxFixInsertionAnalytics": "True",
-        "FStringFlagRepoGitHashFastString": "6c118f902fb09dfe2236d88a31cf34a3a83ce10f",
-        "DFStringFlagRepoGitHashDynamicString": "6c118f902fb09dfe2236d88a31cf34a3a83ce10f",
-        "FStringFlipTimeStampFastString": "2025-08-19T00:58:19.413Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-19T00:58:19.413Z"
+        "FStringFlagRepoGitHashFastString": "eeaa0083ed724d00b2ec16a3d140bf7118765ef2",
+        "DFStringFlagRepoGitHashDynamicString": "eeaa0083ed724d00b2ec16a3d140bf7118765ef2",
+        "FStringFlipTimeStampFastString": "2025-08-19T01:12:30.508Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-19T01:12:30.508Z"
     }
 }
