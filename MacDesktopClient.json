@@ -11653,7 +11653,6 @@
         "DFIntBatchWorkflowTelemetryEventThrottleHundredthsPercent": "1",
         "FFlagEnableStylingAnalytics6": "True",
         "DFFlagHttpAddJitterToRetryAndLocalThrottle": "True",
-        "DFFlagPerformanceControlPlayerConfigurerGuiServiceLifetimeFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T22:51:48",
         "FFlagFixBundleUploadInstancesUsed_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-18T22:56:34",
         "FFlagVideoCaptureCustomThumbnailResolution": "True",
         "FFlagStudioTasksFutureNotifyAll": "True",
@@ -11670,6 +11669,7 @@
         "FFlagCASTouchButtonsUsePreferredInput": "True",
         "FFlagPreferredInputAllowTransitionToTouch": "True",
         "DFIntStylingAnalyticsPostGameSessionEventHundredthsPercentage": "1000",
+        "DFFlagPerformanceControlPlayerConfigurerGuiServiceLifetimeFix": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
@@ -12517,9 +12517,9 @@
         "DFFlagRobloxTelemetryRemoveEphemeralStatsDualReport": "True",
         "FFlagLuaAppScaleSearchBar": "True",
         "FFlagLuaAppSearchIconUnselectable": "True",
-        "FStringFlagRepoGitHashFastString": "542dba91372e44228c915815e4026a2632787171",
-        "DFStringFlagRepoGitHashDynamicString": "542dba91372e44228c915815e4026a2632787171",
-        "FStringFlipTimeStampFastString": "2025-08-18T23:54:34.517Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-18T23:54:34.517Z"
+        "FStringFlagRepoGitHashFastString": "5f48f1c68f1bbf4e3a6d4a6c1a8cfed8c5b003e9",
+        "DFStringFlagRepoGitHashDynamicString": "5f48f1c68f1bbf4e3a6d4a6c1a8cfed8c5b003e9",
+        "FStringFlipTimeStampFastString": "2025-08-18T23:59:29.684Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-18T23:59:29.684Z"
     }
 }
