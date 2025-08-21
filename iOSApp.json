@@ -11798,7 +11798,6 @@
         "FStringDeprecateSystemPrimaryAndSecondaryButtonABTest_LayerName": "PlayerApp.Authentication.Styling",
         "DFIntProductIdProductInfoCacheLifetimeSeconds_PlaceFilter": "3300;109983668079237;96342491571673;128762245270197;119602771011506;120148879522453;73226809349189",
         "DFFlagSeverAnalyticsAppDependency": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagAIDiffMessageFixChangeSummaryLabel": "True",
         "FFlagAIDiffMessage1": "True",
         "FFlagActivityFeedDisableWhenInvisible": "True",
@@ -11814,6 +11813,9 @@
         "FFlagLargeTextPurchasePromptFix4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;68919505;2025-08-21T20:51:39",
         "FFlagVideoAndroidReleaseEncoderWindow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-21T21:02:28",
         "FFlagLuaAppTopBarHeightScaling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1864655644;2025-08-21T21:03:47",
+        "DFFlagVideoReportEarlyServiceShutdown_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-21T21:07:14",
+        "FFlagRemoveCanUploadContacts": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12441,7 +12443,6 @@
         "FIntUpsellSuggestionsAPIMaxPackagesV2": "1",
         "FFlagEnableDeviceIntegrityTokenRetries": "False",
         "FFlagFFlagEnableCallingLogoutOnResetIXP": "False",
-        "FFlagRemoveCanUploadContacts": "True",
         "FFlagAXCatalogItemCardFooterBackendDriven": "False",
         "DFStringIosDeprecationMinUpgrade": "13",
         "DFFlagWebRtcOpusComplexityEnabled_IXP": "1;Portal.RTC_WebRtcOpusComplexityV2-1748881496;RTC_WebRtcOpusComplexityV2;1936056086;flagbank",
@@ -12671,9 +12672,9 @@
         "FFlagAssetProviderCancelAPI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;712738728;2025-08-21T20:26:26",
         "FIntPartyVoiceUndeafenDelayMS": "50",
         "FFlagLuaAppEdpAudioManufacturerDeny": "True",
-        "FStringFlagRepoGitHashFastString": "472d97291e17c22475db0550855f3e4cdccda3b3",
-        "DFStringFlagRepoGitHashDynamicString": "472d97291e17c22475db0550855f3e4cdccda3b3",
-        "FStringFlipTimeStampFastString": "2025-08-21T21:07:28.279Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-21T21:07:28.279Z"
+        "FStringFlagRepoGitHashFastString": "5ee1189769894c5a529d5c0377215fefeb6fc73d",
+        "DFStringFlagRepoGitHashDynamicString": "5ee1189769894c5a529d5c0377215fefeb6fc73d",
+        "FStringFlipTimeStampFastString": "2025-08-21T21:11:41.743Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-21T21:11:41.743Z"
     }
 }
