@@ -11530,6 +11530,8 @@
         "DFIntProductIdProductInfoCacheLifetimeSeconds_PlaceFilter": "7200;109983668079237;96342491571673;128762245270197;119602771011506;120148879522453;73226809349189",
         "FFlagProfilePlatformEnableSendPlayedTogetherContextToProfilePlatformService_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T15:56:54",
         "FFlagSimRemoveBodyGravity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T16:03:42",
+        "DFFlagRemoveUnusedKtxMetadata_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T16:13:40",
+        "FFlagEnableNSEEventReporter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T16:15:53",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11830,9 +11832,9 @@
         "FFlagLuaAppSearchIconUnselectable": "True",
         "FFlagFocusNavigationDefaultKeyboardFocusOff": "True",
         "FFlagLuaAppUseNumberForScalingTypes": "True",
-        "FStringFlagRepoGitHashFastString": "38c83aeff969ce819bce1ca9ff3fbe6d8b417e89",
-        "DFStringFlagRepoGitHashDynamicString": "38c83aeff969ce819bce1ca9ff3fbe6d8b417e89",
-        "FStringFlipTimeStampFastString": "2025-08-25T16:04:18.999Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T16:04:18.999Z"
+        "FStringFlagRepoGitHashFastString": "6e27f7e0643a8655e1663e8c4d82f0176d3999a1",
+        "DFStringFlagRepoGitHashDynamicString": "6e27f7e0643a8655e1663e8c4d82f0176d3999a1",
+        "FStringFlipTimeStampFastString": "2025-08-25T16:17:24.343Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T16:17:24.343Z"
     }
 }
