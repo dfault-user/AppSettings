@@ -11529,7 +11529,6 @@
         "FFlagLoadInternalPluginsSetting": "True",
         "FFlagEnableLeaveGameUpsellEntrypoint_IXP": "1;ExperienceChat.Performance;FFlagEnableLeaveGameUpsellEntrypoint;90111814;flagbank",
         "FFlagProfilePlatformEnableSendPlayedTogetherContextToProfilePlatformService": "True",
-        "FFlagProfilePlatformEnablePlayedTogetherContextFrequentExperienceName_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T17:07:45",
         "DFFlagRemoveUnusedKtxMetadata": "True",
         "FFlagWebBrowserEnablePreInitializeSuspend_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T17:17:59",
         "FFlagEnableMemoryFillTestIos_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1664997613;2025-08-25T17:19:28",
@@ -11555,6 +11554,7 @@
         "AxisAdornmentGrabSize": "12",
         "FFlagEnablePreferredTextSizeGuiService": "True",
         "FFlagEnableLuaAppSessionWithError2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T18:08:07",
+        "FFlagProfilePlatformEnablePlayedTogetherContextFrequentExperienceName": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13563,9 +13563,9 @@
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagToolboxFixInsertionAnalytics": "True",
         "FFlagLiveAnimationUpdateSupport": "True",
-        "FStringFlagRepoGitHashFastString": "752536a00332575b5633520e9bd812103241d28f",
-        "DFStringFlagRepoGitHashDynamicString": "752536a00332575b5633520e9bd812103241d28f",
-        "FStringFlipTimeStampFastString": "2025-08-25T18:10:33.092Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T18:10:33.092Z"
+        "FStringFlagRepoGitHashFastString": "e2aaf7c352ba318a04963468dc06b25d746d3350",
+        "DFStringFlagRepoGitHashDynamicString": "e2aaf7c352ba318a04963468dc06b25d746d3350",
+        "FStringFlipTimeStampFastString": "2025-08-25T18:13:10.265Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T18:13:10.265Z"
     }
 }
