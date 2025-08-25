@@ -11542,7 +11542,6 @@
         "FFlagRemoveDuplicateCapturesEntrypointActivatedLogs": "True",
         "FFlagWinSkipLuaUpdateForBackgroundDownload": "True",
         "DFFlagCaptureStorageGetKeyNullCheck": "True",
-        "DFFlagSimDcdTaskSpecialMeshFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T17:49:04",
         "FFlagHideCursorForNonMouseUsers": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnablePreferredTextSizeGuiService": "True",
@@ -11564,6 +11563,7 @@
         "FFlagEditableMeshBinaryStringConstructorThrowOnError": "True",
         "FFlagUIBloxFixAlertCloseCursor": "True",
         "DFFlagInstanceStyledChangedPublicSecurity": "True",
+        "DFFlagSimDcdTaskSpecialMeshFix": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
@@ -11992,7 +11992,7 @@
         "FFlagLuaAppEdpAudioManufacturerDeny": "True",
         "DFFlagRenderFastClusterOcclusionCulling": "False",
         "DFFlagMicroProfilerNetworkPlugin2": "True",
-        "FFlagGalleryStopGap": "False",
+        "FFlagGalleryStopGap": "True",
         "DFFlagRbxStorageReportDbFileSize": "True",
         "DFIntSQLiteFullChkpointMaxReport": "3",
         "DFIntSQLiteLockedChkpointMaxReport": "2",
@@ -12004,7 +12004,6 @@
         "FFlagAttributesAndTagsCLI1578072": "True",
         "FFlagMoveAttachmentAncestryEvents": "True",
         "FFlagSimAeroRemovePackedCentroidNormalData": "True",
-        "FFlagGalleryStopGap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T17:48:56",
         "FFlagDeprecateProfilingRequests_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T18:19:37",
         "FFlagAddUILessMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2128588076;2025-08-25T18:30:19",
         "AllowVideoPreRoll": "True",
@@ -12426,9 +12425,9 @@
         "FIntPartyVoiceUndeafenDelayMS": "50",
         "FFlagLuaAppBootcampIntroUABOOTCAMP98": "True",
         "FFlagLuaAppBootcampIntroUABOOTCAMP93": "True",
-        "FStringFlagRepoGitHashFastString": "1c442681eec326894363e2affc63bc55e1526103",
-        "DFStringFlagRepoGitHashDynamicString": "1c442681eec326894363e2affc63bc55e1526103",
-        "FStringFlipTimeStampFastString": "2025-08-25T18:46:23.849Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T18:46:23.849Z"
+        "FStringFlagRepoGitHashFastString": "7e586bb20b88df08b91050abd561890156072cc7",
+        "DFStringFlagRepoGitHashDynamicString": "7e586bb20b88df08b91050abd561890156072cc7",
+        "FStringFlipTimeStampFastString": "2025-08-25T18:51:56.537Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T18:51:56.537Z"
     }
 }
