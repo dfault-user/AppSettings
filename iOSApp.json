@@ -11547,6 +11547,8 @@
         "FFlagProfilePlatformEnablePlayedTogetherContextFrequentExperienceName_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T17:07:45",
         "DFFlagRemoveUnusedKtxMetadata": "True",
         "FFlagWebBrowserEnablePreInitializeSuspend_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T17:17:59",
+        "FFlagEnableMemoryFillTestIos_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1664997613;2025-08-25T17:19:28",
+        "FFlagFixMemoryFillTestCleanupForIos_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1664997613;2025-08-25T17:19:28",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12401,9 +12403,9 @@
         "FFlagLuaAppEdpAudioManufacturerDeny": "True",
         "FFlagLuaAppFixEdpMediaGalleryJank": "True",
         "FFlagLuaAppEdpMediaGalleryUseRbxThumb": "True",
-        "FStringFlagRepoGitHashFastString": "a2fca6a93382054b6531fb5d2ec7723d9da25a6e",
-        "DFStringFlagRepoGitHashDynamicString": "a2fca6a93382054b6531fb5d2ec7723d9da25a6e",
-        "FStringFlipTimeStampFastString": "2025-08-25T17:19:18.615Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T17:19:18.615Z"
+        "FStringFlagRepoGitHashFastString": "b79df4d9dda30e51b1f4b799badf0347fcf70352",
+        "DFStringFlagRepoGitHashDynamicString": "b79df4d9dda30e51b1f4b799badf0347fcf70352",
+        "FStringFlipTimeStampFastString": "2025-08-25T17:21:51.235Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T17:21:51.235Z"
     }
 }

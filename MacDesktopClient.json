@@ -11546,6 +11546,9 @@
         "FFlagEnablePreferredTextSizeGuiService_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2134468777;2025-08-25T17:04:30",
         "FFlagProfilePlatformEnablePlayedTogetherContextFrequentExperienceName_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T17:07:45",
         "DFFlagRemoveUnusedKtxMetadata": "True",
+        "FFlagWebBrowserEnablePreInitializeSuspend_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T17:17:59",
+        "FFlagEnableMemoryFillTestIos_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1664997613;2025-08-25T17:19:28",
+        "FFlagFixMemoryFillTestCleanupForIos_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1664997613;2025-08-25T17:19:28",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12407,9 +12410,9 @@
         "FIntPartyVoiceUndeafenDelayMS": "50",
         "FFlagLuaAppBootcampIntroUABOOTCAMP98": "True",
         "FFlagLuaAppBootcampIntroUABOOTCAMP93": "True",
-        "FStringFlagRepoGitHashFastString": "da2e1b7e0e5bec6f07387c07aa8e41319f0df3c0",
-        "DFStringFlagRepoGitHashDynamicString": "da2e1b7e0e5bec6f07387c07aa8e41319f0df3c0",
-        "FStringFlipTimeStampFastString": "2025-08-25T17:17:32.366Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T17:17:32.366Z"
+        "FStringFlagRepoGitHashFastString": "b79df4d9dda30e51b1f4b799badf0347fcf70352",
+        "DFStringFlagRepoGitHashDynamicString": "b79df4d9dda30e51b1f4b799badf0347fcf70352",
+        "FStringFlipTimeStampFastString": "2025-08-25T17:21:51.235Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T17:21:51.235Z"
     }
 }
