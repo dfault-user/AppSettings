@@ -11564,7 +11564,6 @@
         "FFlagTouchInputServiceTouchPinch": "True",
         "FFlagTouchInputServiceTouchRotate": "True",
         "FFlagTouchInputServiceTouchTap": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableStylingEverywhere_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T19:52:54",
         "SkipReportingIsolatedProcessAsInferredCrash": "true",
         "GmaSdkClickoutUi2": "true",
@@ -11576,7 +11575,8 @@
         "AxisAdornmentGrabSize": "12",
         "AllowVideoPreRoll": "True",
         "FFlagPerformanceControlLinearUtility_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:39:28",
-        "FFlagEnableAdsMouseUnlock": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagSimRemoveBodyGravity": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13195,6 +13195,7 @@
         "FFlagLuauLimitDynamicConstraintSolving3": "True",
         "FFlagEnableRibbonTour_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T19:51:10",
         "FFlagAssetExportDontGenerateDecalGeometryWithoutTextures_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;810118007;2025-08-25T20:35:57",
+        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -13555,7 +13556,6 @@
         "FFlagGetHumanoidDescriptionUpdatesV2A": "True",
         "FFlagTCModalsUIPolish": "True",
         "FFlagUnivAppSkipLoadCoreScriptLoc2": "True",
-        "FFlagSimRemoveBodyGravity": "True",
         "DFFlagMicroProfilerLimitStrings": "True",
         "DFFlagMicroProfilerVerticalBounds": "True",
         "FFlagLuauParametrizedAttributeSyntax": "False",
@@ -13609,9 +13609,9 @@
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagToolboxFixInsertionAnalytics": "True",
         "FFlagLiveAnimationUpdateSupport": "True",
-        "FStringFlagRepoGitHashFastString": "6690505cc4a38d39723a2f343168cc0573c4018b",
-        "DFStringFlagRepoGitHashDynamicString": "6690505cc4a38d39723a2f343168cc0573c4018b",
-        "FStringFlipTimeStampFastString": "2025-08-25T20:45:15.198Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T20:45:15.198Z"
+        "FStringFlagRepoGitHashFastString": "9cec3a10c001b1c81aa6369a8ebeda18a4995913",
+        "DFStringFlagRepoGitHashDynamicString": "9cec3a10c001b1c81aa6369a8ebeda18a4995913",
+        "FStringFlipTimeStampFastString": "2025-08-25T20:48:53.164Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T20:48:53.164Z"
     }
 }
