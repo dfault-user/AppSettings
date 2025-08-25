@@ -11449,7 +11449,7 @@
         "DFFlagEnableReportAdClickCTAEventExtraBoolField": "True",
         "FFlagExtendedMetricsOnPlacePublishPackage": "True",
         "FFlagUseRuntimeMutexClientQoSImpl": "True",
-        "FFlagUIPageLayoutProperBounds": "True",
+        "FFlagUIPageLayoutProperBounds": "False",
         "FFlagBootcampCLI163626": "True",
         "FFlagEnableAdsLifecycleManagerCallNativeAdsProtocol": "True",
         "DFIntAdsLifecycleStateTransitionEventThrottleHundrethsPercent": "10000",
@@ -11569,8 +11569,6 @@
         "DFFlagHttpServiceRequestTimeout": "True",
         "FFlagDifferentiateStreamedOut": "True",
         "DFFlagExtractNSExceptionInformation": "True",
-        "FFlagUIPageLayoutProperBounds_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:23:51",
-        "FFlagMoveCSGOperationsToPlugin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:24:21",
         "FFlagOpenScriptDocOptionsLua_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:33:19",
         "FFlagPerformanceControlLinearUtility_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:39:28",
         "AllowVideoPreRoll": "True",
@@ -11591,6 +11589,7 @@
         "FFlagAvatarSettingsAvatarTypeFallback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;200230963;2025-08-25T21:21:38",
         "FFlagAvatarSettingsFixMainOrdering_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;200230963;2025-08-25T21:21:38",
         "FFlagAvatarSettingsStaleStateFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;200230963;2025-08-25T21:21:38",
+        "FFlagMoveCSGOperationsToPlugin": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12442,9 +12441,9 @@
         "FFlagLuaAppEdpAudioManufacturerDeny": "True",
         "FFlagLuaAppFixEdpMediaGalleryJank": "True",
         "FFlagLuaAppEdpMediaGalleryUseRbxThumb": "True",
-        "FStringFlagRepoGitHashFastString": "82b7e45a8b640ea07fa5a1086490076af283cf44",
-        "DFStringFlagRepoGitHashDynamicString": "82b7e45a8b640ea07fa5a1086490076af283cf44",
-        "FStringFlipTimeStampFastString": "2025-08-25T21:26:30.409Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T21:26:30.409Z"
+        "FStringFlagRepoGitHashFastString": "474f08866959ff352beb8b02ca95513dcb6a83ce",
+        "DFStringFlagRepoGitHashDynamicString": "474f08866959ff352beb8b02ca95513dcb6a83ce",
+        "FStringFlipTimeStampFastString": "2025-08-25T21:29:38.742Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T21:29:38.742Z"
     }
 }
