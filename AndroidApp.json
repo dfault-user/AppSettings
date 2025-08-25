@@ -11581,7 +11581,6 @@
         "FFlagStudioDeleteStyleDefaultInstancesConfirmation": "True",
         "FFlagStudioInsertObjectWidgetAddStyleRelatedChildren2": "True",
         "FFlagStudioInsertObjectWidgetResetStyledProperties": "True",
-        "FFlagStyleEditorUITab2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T22:11:55",
         "DFFlagEnableAdAvailabilityUseNoFill": "True",
         "FFlagEnablePreferredTextSizeScale": "True",
         "FFlagEnablePreferredTextSizeSettingInMenus2": "True",
@@ -11606,6 +11605,8 @@
         "FFlagTelemetryDataReArchTransmission9_IXP": "1;Portal.client_telemetry_batch_consumer-1756163029;client_telemetry_batch_consumer;719846070;flagbank",
         "DFFlagUwpMigrationDialogAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T23:06:04",
         "FFlagUwpMigrationGuaranteedTelemetery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T23:06:32",
+        "FFlagStyleEditorUITab2": "True",
+        "FFlagIsSquadCoordinationExperienceJoinExperimentExposureEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T23:16:45",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
@@ -12483,7 +12484,6 @@
         "DFFlagRbxStorageReportDbFileSize": "True",
         "FFlagAddCountersToMissingComponentsAndLabels": "True",
         "SetFastFollowTelemetryThrottle100HundredthsPercent": "True",
-        "FFlagEnableCacheDirSizeTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T22:15:03",
         "DFFlagVideoAdaptionByScreenSizeForMomentsOnly": "True",
         "DFIntMinimumDisplayAreaMM2ForMaximumQuality": "9500",
         "FIntEnableCacheDirSizeTelemetryHundredthPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T22:24:51",
@@ -12491,9 +12491,10 @@
         "DFIntSQLiteFullChkpointMaxReport": "3",
         "DFIntSQLiteLockedChkpointMaxReport": "2",
         "FFlagSimRemoveIMoving": "True",
-        "FStringFlagRepoGitHashFastString": "54d0995048f85c5c33cd856e5da1bed01c6dfc50",
-        "DFStringFlagRepoGitHashDynamicString": "54d0995048f85c5c33cd856e5da1bed01c6dfc50",
-        "FStringFlipTimeStampFastString": "2025-08-25T23:12:40.478Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T23:12:40.478Z"
+        "FFlagEnableCacheDirSizeTelemetry": "True",
+        "FStringFlagRepoGitHashFastString": "848fba6744e1674809fb5764bb60864495fffefa",
+        "DFStringFlagRepoGitHashDynamicString": "848fba6744e1674809fb5764bb60864495fffefa",
+        "FStringFlipTimeStampFastString": "2025-08-25T23:18:36.731Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T23:18:36.731Z"
     }
 }
