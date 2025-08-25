@@ -11564,7 +11564,6 @@
         "FFlagTouchInputServiceTouchPinch": "True",
         "FFlagTouchInputServiceTouchRotate": "True",
         "FFlagTouchInputServiceTouchTap": "True",
-        "FFlagEnableStylingEverywhere_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T19:52:54",
         "SkipReportingIsolatedProcessAsInferredCrash": "true",
         "GmaSdkClickoutUi2": "true",
         "DFFlagHttpServiceRequestTimeout": "True",
@@ -11577,6 +11576,7 @@
         "FFlagPerformanceControlLinearUtility_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:39:28",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagSimRemoveBodyGravity": "True",
+        "FFlagEnableStylingEverywhere": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13193,8 +13193,8 @@
         "FFlagRibbonBetaIxpExperimentation2": "True",
         "FFlagCodeAssistExperimentUsingDefaultValueIfNoSpecified": "True",
         "FFlagLuauLimitDynamicConstraintSolving3": "True",
-        "FFlagEnableRibbonTour_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T19:51:10",
         "FFlagAssetExportDontGenerateDecalGeometryWithoutTextures_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;810118007;2025-08-25T20:35:57",
+        "FFlagEnableRibbonTour": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13586,9 +13586,9 @@
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagToolboxFixInsertionAnalytics": "True",
         "FFlagLiveAnimationUpdateSupport": "True",
-        "FStringFlagRepoGitHashFastString": "82b69670bc63c3bd66078565166fe4b76ee672d9",
-        "DFStringFlagRepoGitHashDynamicString": "82b69670bc63c3bd66078565166fe4b76ee672d9",
-        "FStringFlipTimeStampFastString": "2025-08-25T20:54:32.352Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T20:54:32.352Z"
+        "FStringFlagRepoGitHashFastString": "4efc09e12a5c4ce4dd02e4ace478c5231f4054a5",
+        "DFStringFlagRepoGitHashDynamicString": "4efc09e12a5c4ce4dd02e4ace478c5231f4054a5",
+        "FStringFlipTimeStampFastString": "2025-08-25T20:57:38.444Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T20:57:38.444Z"
     }
 }
