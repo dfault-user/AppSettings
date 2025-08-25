@@ -11527,9 +11527,6 @@
         "DFFlagLocalVideoSessionTracking": "True",
         "FFlagBoneDataSOA": "True",
         "FFlagLoadInternalPluginsSetting": "True",
-        "FFlagRemoveDuplicateCapturesEntrypointActivatedLogs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T16:35:28",
-        "FFlagCapturesAddSharePromptVideoLog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T16:38:20",
-        "FFlagWinSkipLuaUpdateForBackgroundDownload_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T16:38:48",
         "DFFlagCaptureStorageGetKeyNullCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T16:42:09",
         "FFlagEnableLeaveGameUpsellEntrypoint_IXP": "1;ExperienceChat.Performance;FFlagEnableLeaveGameUpsellEntrypoint;90111814;flagbank",
         "FFlagHideCursorForNonMouseUsers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T16:49:16",
@@ -11549,6 +11546,10 @@
         "FFlagWebBrowserSTM6363FixHangsEnabled": "True",
         "FFlagWebBrowserSTM6363NullGuardEnabled": "True",
         "FFlagCapturesAddBulkManagerShareVideoLog": "True",
+        "FFlagCapturesAddSharePromptVideoLog": "True",
+        "FFlagRemoveDuplicateCapturesEntrypointActivatedLogs": "True",
+        "FFlagWinSkipLuaUpdateForBackgroundDownload": "True",
+        "FFlagEditableMeshBinaryStringConstructorThrowOnError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;470145635;2025-08-25T17:41:54",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12426,9 +12427,9 @@
         "FStringAndroidScreenDensityManufacturerFilter_Staged": "HUAWEI;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1949131956;2025-08-25T17:06:30",
         "DFFlagSmoothClusterGrassOcclusionCullingTest": "True",
         "FFlagAttributesAndTagsCLI1578072": "True",
-        "FStringFlagRepoGitHashFastString": "2633580ea1993d02975d4dec5c3e9d615a5a1f6c",
-        "DFStringFlagRepoGitHashDynamicString": "2633580ea1993d02975d4dec5c3e9d615a5a1f6c",
-        "FStringFlipTimeStampFastString": "2025-08-25T17:39:08.543Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T17:39:08.543Z"
+        "FStringFlagRepoGitHashFastString": "cf39643949ff0f7ff65fd0bf054efc05a78fd348",
+        "DFStringFlagRepoGitHashDynamicString": "cf39643949ff0f7ff65fd0bf054efc05a78fd348",
+        "FStringFlipTimeStampFastString": "2025-08-25T17:44:17.005Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T17:44:17.005Z"
     }
 }
