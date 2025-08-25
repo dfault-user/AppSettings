@@ -11569,7 +11569,6 @@
         "DFFlagHttpServiceRequestTimeout": "True",
         "FFlagDifferentiateStreamedOut": "True",
         "DFFlagExtractNSExceptionInformation": "True",
-        "FFlagOpenScriptDocOptionsLua_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:33:19",
         "FFlagPerformanceControlLinearUtility_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:39:28",
         "FFlagCoreScriptsMigrateFromLegacyCSVLoc4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:43:50",
         "FFlagSimRemoveBodyGravity": "True",
@@ -12475,9 +12474,10 @@
         "DFIntMinimumDisplayAreaMM2ForMaximumQuality_Staged": "9500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;423035805;2025-08-25T21:12:04",
         "DFIntSQLiteLockedChkpointMaxReport_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:30:52",
         "DFIntSQLiteFullChkpointMaxReport_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:31:49",
-        "FStringFlagRepoGitHashFastString": "135d986cda8d227776943b1f76e3b6ca1a1cb349",
-        "DFStringFlagRepoGitHashDynamicString": "135d986cda8d227776943b1f76e3b6ca1a1cb349",
-        "FStringFlipTimeStampFastString": "2025-08-25T21:36:54.347Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T21:36:54.347Z"
+        "SetFastFollowTelemetryThrottle100HundredthsPercent": "True",
+        "FStringFlagRepoGitHashFastString": "ad4927cab9198b0ce2feaac12aa4cd7704c58e0f",
+        "DFStringFlagRepoGitHashDynamicString": "ad4927cab9198b0ce2feaac12aa4cd7704c58e0f",
+        "FStringFlipTimeStampFastString": "2025-08-25T21:39:05.258Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T21:39:05.258Z"
     }
 }
