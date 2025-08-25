@@ -11600,7 +11600,6 @@
         "DFFlagTidyProfiler": "True",
         "FFlagPreloadDocumentationWithoutLanguageService_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T22:56:31",
         "FIntLuauSolverConstraintLimit_Staged": "1500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T22:57:40",
-        "FFlagTelemetryDataReArchTransmission9_Staged": "True;SteadyState;10;30;Revert;true;719846070;2025-08-25T23:04:28",
         "FFlagTelemetryDataReArchTransmission9_IXP": "1;Portal.client_telemetry_batch_consumer-1756163029;client_telemetry_batch_consumer;719846070;flagbank",
         "DFFlagUwpMigrationDialogAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T23:06:04",
         "FFlagUwpMigrationGuaranteedTelemetery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T23:06:32",
@@ -11902,9 +11901,10 @@
         "FFlagLuaAppSearchIconUnselectable": "True",
         "FFlagFocusNavigationDefaultKeyboardFocusOff": "True",
         "FFlagLuaAppUseNumberForScalingTypes": "True",
-        "FStringFlagRepoGitHashFastString": "8be430fea2d64c8de941aea43ddeab8df05e15e2",
-        "DFStringFlagRepoGitHashDynamicString": "8be430fea2d64c8de941aea43ddeab8df05e15e2",
-        "FStringFlipTimeStampFastString": "2025-08-25T23:37:35.846Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T23:37:35.846Z"
+        "FFlagUnivAppSkipLoadCoreScriptLoc2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T23:36:21",
+        "FStringFlagRepoGitHashFastString": "d76af3db387dbf7922ceeeb14ae7f98509449ad8",
+        "DFStringFlagRepoGitHashDynamicString": "d76af3db387dbf7922ceeeb14ae7f98509449ad8",
+        "FStringFlipTimeStampFastString": "2025-08-25T23:38:13.007Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T23:38:13.007Z"
     }
 }
