@@ -11362,7 +11362,7 @@
         "DFFlagRbxStorageDropCacheErrorsEnable": "True",
         "DFIntRbxStorageDropCacheErrorsThreshold": "100000",
         "FFlagWiresDontTrustReentrantAncestryChanges": "True",
-        "FFlagAXFixCameraManagerInitialization": "True",
+        "FFlagAXFixCameraManagerInitialization": "False",
         "FFlagReportGameServerInitializationSuccessAsV2Counter": "True",
         "OpenGLES2DeprecationPhase3": "2",
         "DFFlagEnableModifiedAudioTelemetry": "True",
@@ -11572,8 +11572,6 @@
         "FFlagSimRemoveBodyGravity": "True",
         "FFlagEnableStylingEverywhere": "True",
         "MoveExitReasonHandlingOutOfInitHelper": "true",
-        "FFlagFixRevampDropdownString_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:17:02",
-        "FFlagAXFixCameraManagerInitialization_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:19:15",
         "FFlagEnableStyleEditor": "True",
         "FFlagAvatarSettingsAvatarTypeFallback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;200230963;2025-08-25T21:21:38",
         "FFlagAvatarSettingsFixMainOrdering_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;200230963;2025-08-25T21:21:38",
@@ -11598,6 +11596,8 @@
         "DFFlagEnableAdAvailabilityUseNoFill": "True",
         "FFlagEnablePreferredTextSizeScale": "True",
         "FFlagEnablePreferredTextSizeSettingInMenus2": "True",
+        "FFlagFixRevampDropdownString": "True",
+        "FStringRewardedVideoAdsUniverseIdAllowlist_Staged": ";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T22:22:50",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12461,9 +12461,9 @@
         "FIntPartyVoiceUndeafenDelayMS": "50",
         "FFlagLuaAppBootcampIntroUABOOTCAMP98": "True",
         "FFlagLuaAppBootcampIntroUABOOTCAMP93": "True",
-        "FStringFlagRepoGitHashFastString": "ddbc87f01cc3b949c6dbd96ea90e590f1a306258",
-        "DFStringFlagRepoGitHashDynamicString": "ddbc87f01cc3b949c6dbd96ea90e590f1a306258",
-        "FStringFlipTimeStampFastString": "2025-08-25T22:17:18.175Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T22:17:18.175Z"
+        "FStringFlagRepoGitHashFastString": "11a54894069d97a2f879388380ee259c890d880e",
+        "DFStringFlagRepoGitHashDynamicString": "11a54894069d97a2f879388380ee259c890d880e",
+        "FStringFlipTimeStampFastString": "2025-08-25T22:27:27.253Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T22:27:27.253Z"
     }
 }
