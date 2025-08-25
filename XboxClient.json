@@ -11569,7 +11569,6 @@
         "DFFlagHttpServiceRequestTimeout": "True",
         "FFlagDifferentiateStreamedOut": "True",
         "DFFlagExtractNSExceptionInformation": "True",
-        "FFlagCoreScriptsMigrateFromLegacyCSVLoc4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:43:50",
         "FFlagSimRemoveBodyGravity": "True",
         "FFlagEnableStylingEverywhere": "True",
         "FFlagUpdateConnectionErrorLoc_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:57:55",
@@ -11593,6 +11592,7 @@
         "FFlagPerformanceControlLinearUtility": "True",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V2;194505212;flagbank",
         "DFFlagAssetCacheRbxStorageImplForwardReadFromPendingWrite_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:43:33",
+        "FFlagCoreScriptsMigrateFromLegacyCSVLoc4": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11950,9 +11950,9 @@
         "DFFlagRbxStorageReportDbFileSize": "True",
         "DFIntSQLiteLockedChkpointMaxReport_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:30:52",
         "DFIntSQLiteFullChkpointMaxReport_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:31:49",
-        "FStringFlagRepoGitHashFastString": "2da7c69e08886d909a803b47c659422545f775a8",
-        "DFStringFlagRepoGitHashDynamicString": "2da7c69e08886d909a803b47c659422545f775a8",
-        "FStringFlipTimeStampFastString": "2025-08-25T21:46:29.761Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T21:46:29.761Z"
+        "FStringFlagRepoGitHashFastString": "b0a060cced38b41235e3abeea2e5598cee6a32eb",
+        "DFStringFlagRepoGitHashDynamicString": "b0a060cced38b41235e3abeea2e5598cee6a32eb",
+        "FStringFlipTimeStampFastString": "2025-08-25T21:49:24.142Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T21:49:24.142Z"
     }
 }
