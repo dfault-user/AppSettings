@@ -11558,6 +11558,12 @@
         "FFlagEnableMemoryFillTestIos": "True",
         "FFlagFixMemoryFillTestCleanupForIos": "True",
         "FFlagAvatarGenerationSelfieConsent": "True",
+        "FFlagTouchInputServiceFixesPanLongpress_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;557711986;2025-08-25T18:38:24",
+        "FFlagTouchInputServiceTouchLongPress_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;557711986;2025-08-25T18:38:24",
+        "FFlagTouchInputServiceTouchPan_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;557711986;2025-08-25T18:38:24",
+        "FFlagTouchInputServiceTouchPinch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;557711986;2025-08-25T18:38:24",
+        "FFlagTouchInputServiceTouchRotate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;557711986;2025-08-25T18:38:24",
+        "FFlagTouchInputServiceTouchTap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;557711986;2025-08-25T18:38:24",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12437,9 +12443,10 @@
         "FStringAndroidScreenDensityManufacturerFilter": "HUAWEI",
         "FFlagRenderFixULGlassLQAlpha_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T18:31:14",
         "FFlagAddCountersToMissingComponentsAndLabels_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;374496095;2025-08-25T18:35:31",
-        "FStringFlagRepoGitHashFastString": "45b8fc1d5c647c39af5744e95a81296302cc5340",
-        "DFStringFlagRepoGitHashDynamicString": "45b8fc1d5c647c39af5744e95a81296302cc5340",
-        "FStringFlipTimeStampFastString": "2025-08-25T18:38:05.694Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T18:38:05.694Z"
+        "DFFlagRbxStorageReportDbFileSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T18:38:03",
+        "FStringFlagRepoGitHashFastString": "d94d894590e3b718382a65c34112bd5837c1a5c7",
+        "DFStringFlagRepoGitHashDynamicString": "d94d894590e3b718382a65c34112bd5837c1a5c7",
+        "FStringFlipTimeStampFastString": "2025-08-25T18:39:50.671Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T18:39:50.671Z"
     }
 }
