@@ -11590,6 +11590,7 @@
         "FFlagAvatarSettingsStaleStateFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;200230963;2025-08-25T21:21:38",
         "FFlagMoveCSGOperationsToPlugin": "True",
         "FFlagHideFriendingNotifsForOSA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1209071484;2025-08-25T21:31:29",
+        "FStringSquadCoordinationExperienceJoinExperimentLayer_Staged": "Party.Coordination.ExperienceJoin2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:32:30",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11947,9 +11948,10 @@
         "DFFlagRbxStorageReportDbFileSize": "True",
         "DFFlagInitializeAssetProvider_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T20:34:09",
         "DFIntSQLiteLockedChkpointMaxReport_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:30:52",
-        "FStringFlagRepoGitHashFastString": "90fd855b3888dc7a5fdfb7dd5bba7e1c6a92acc6",
-        "DFStringFlagRepoGitHashDynamicString": "90fd855b3888dc7a5fdfb7dd5bba7e1c6a92acc6",
-        "FStringFlipTimeStampFastString": "2025-08-25T21:33:30.049Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T21:33:30.049Z"
+        "DFIntSQLiteFullChkpointMaxReport_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T21:31:49",
+        "FStringFlagRepoGitHashFastString": "8910f96239d43040b0999ba83f4c927a145d9d6f",
+        "DFStringFlagRepoGitHashDynamicString": "8910f96239d43040b0999ba83f4c927a145d9d6f",
+        "FStringFlipTimeStampFastString": "2025-08-25T21:34:07.878Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T21:34:07.878Z"
     }
 }
