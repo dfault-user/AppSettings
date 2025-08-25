@@ -11565,6 +11565,8 @@
         "FFlagLuaAppEnableLoggingSeverity": "True",
         "FFlagEnableLuaAppSessionWithError2": "True",
         "DFFlagExtractNSExceptionInformation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T19:11:44",
+        "DFFlagHttpServiceRequestTimeout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T19:12:22",
+        "FFlagAXCameraManagerErrorsEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T19:12:59",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
@@ -12493,9 +12495,9 @@
         "DFIntBatchWorkflowRefreshMaxWaitMs": "120",
         "DFIntBatchWorkflowRefreshMinWaitMs": "30",
         "FFlagAssetProviderAssetCacheUseRBXStorageImpl2": "True",
-        "FStringFlagRepoGitHashFastString": "f3246cf356f3e6fa7285cd4e64c4475bad5ca672",
-        "DFStringFlagRepoGitHashDynamicString": "f3246cf356f3e6fa7285cd4e64c4475bad5ca672",
-        "FStringFlipTimeStampFastString": "2025-08-25T19:14:00.404Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T19:14:00.404Z"
+        "FStringFlagRepoGitHashFastString": "f381d7bbbc2fef0f2ce6ccf14c938f3e3a9c02af",
+        "DFStringFlagRepoGitHashDynamicString": "f381d7bbbc2fef0f2ce6ccf14c938f3e3a9c02af",
+        "FStringFlipTimeStampFastString": "2025-08-25T19:19:16.206Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T19:19:16.206Z"
     }
 }
