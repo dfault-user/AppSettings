@@ -11532,6 +11532,9 @@
         "DFFlagRemoveUnusedKtxMetadata_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T16:13:40",
         "FFlagEnableNSEEventReporter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T16:15:53",
         "FFlagStudioWithUiContextRemoveCancelWatcher2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T16:17:26",
+        "FFlagWebBrowserEnablePreInitialize3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;355310374;2025-08-25T16:25:16",
+        "FFlagWebBrowserPreloadSTM6221Enabled3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;355310374;2025-08-25T16:25:16",
+        "FFlagWebBrowserSTM6332FixPreInitializeCrashEnabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;355310374;2025-08-25T16:25:16",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12463,9 +12466,9 @@
         "DFIntBatchWorkflowRefreshMaxBatchSize": "256",
         "DFIntBatchWorkflowRefreshMaxWaitMs": "120",
         "DFIntBatchWorkflowRefreshMinWaitMs": "30",
-        "FStringFlagRepoGitHashFastString": "f2ed7bb5adc32e3f4e55b2414726816a1f1a195a",
-        "DFStringFlagRepoGitHashDynamicString": "f2ed7bb5adc32e3f4e55b2414726816a1f1a195a",
-        "FStringFlipTimeStampFastString": "2025-08-25T16:22:50.892Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-25T16:22:50.892Z"
+        "FStringFlagRepoGitHashFastString": "1959d47e4faa2dd5fa5e33faec793743bb15134c",
+        "DFStringFlagRepoGitHashDynamicString": "1959d47e4faa2dd5fa5e33faec793743bb15134c",
+        "FStringFlipTimeStampFastString": "2025-08-25T16:26:36.640Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-25T16:26:36.640Z"
     }
 }
