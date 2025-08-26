@@ -11644,6 +11644,7 @@
         "FFlagExportWithSettings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;967772260;2025-08-26T22:48:39",
         "FFlagFixMacCommandToolClick": "True",
         "DFFlagRakNetEnsureAckSendLoopIsFinite_Staged": "True;SteadyState;10;30;Revert;2025-08-26T23:24:23",
+        "FFlagAllFmodDevicesUseSameRecording_Staged": "False;SteadyState;10;30;Revert;2025-08-26T23:27:48",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12530,12 +12531,12 @@
         "FIntPartyVoiceUndeafenDelayMS": "50",
         "FFlagFixAutoSyncContacts": "True",
         "DFIntReportBasePlayerGuiClassUsageTelemetryHundredthsPercent": "10",
-        "FFlagFixVulkanGetSwapChainSizeCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T22:24:28",
         "FFlagRbxLogRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T23:07:02",
         "DFFlagRbxLogCatchExceptions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T23:08:07",
-        "FStringFlagRepoGitHashFastString": "3e0cd1055b2bcd2b5f4a7f0b2e0ef31883792486",
-        "DFStringFlagRepoGitHashDynamicString": "3e0cd1055b2bcd2b5f4a7f0b2e0ef31883792486",
-        "FStringFlipTimeStampFastString": "2025-08-26T23:26:55.499Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-26T23:26:55.499Z"
+        "FFlagFixVulkanGetSwapChainSizeCrash": "True",
+        "FStringFlagRepoGitHashFastString": "4af7d29917b01acd15c86705a453865645bb58fd",
+        "DFStringFlagRepoGitHashDynamicString": "4af7d29917b01acd15c86705a453865645bb58fd",
+        "FStringFlipTimeStampFastString": "2025-08-26T23:31:09.549Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-26T23:31:09.549Z"
     }
 }
