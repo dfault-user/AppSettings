@@ -10009,7 +10009,6 @@
         "FFlagFriendsRenameInfoModal_v4": "True",
         "FFlagTCBannerTelemetryEvents": "True",
         "FFlagLuaAppEnableLazyStackRouter": "True",
-        "FFlagAndroidTestNativeFlagBoolean_IXP": "1;Portal.TestNativeFlags-1751406174;TestNativeFlags;598940881;flagbank",
         "FFlagAvatarPreviewerDisableAutosetupEstimatedTime": "True",
         "FFlagDebugAvatarAutosetupProgressPercentLabel": "True",
         "EnableDOMStorageWebview": "true",
@@ -11639,7 +11638,6 @@
         "FFlagToolboxFixInsertionAnalytics": "True",
         "FFlagFixMacCommandHeldKeyUpEvents": "True",
         "FFlagFixMacCommandToolClick_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T22:12:02",
-        "FFlagEnableAdsLifecycleManager_Staged": "True;SteadyState;10;30;Revert;2025-08-26T22:34:01",
         "FFlagUseDynamicStrokePositioning_PlaceFilter": "True;131417955248832",
         "FFlagVideoBaseSourceAddCallbackForLoad": "True",
         "FFlagUseScaledStrokes_PlaceFilter": "True;131417955248832",
@@ -12001,9 +11999,11 @@
         "FFlagAXMigrateSceneGamepadHandlerInputBindings2": "True",
         "FFlagUnivAppSkipLoadCoreScriptLoc2": "True",
         "FFlagConsoleMouseLockCenter": "True",
-        "FStringFlagRepoGitHashFastString": "d639e7e0a436793c643138117807a74a0964619a",
-        "DFStringFlagRepoGitHashDynamicString": "d639e7e0a436793c643138117807a74a0964619a",
-        "FStringFlipTimeStampFastString": "2025-08-26T23:01:51.474Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-26T23:01:51.474Z"
+        "FFlagRbxLogRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T23:07:02",
+        "DFFlagRbxLogCatchExceptions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T23:08:07",
+        "FStringFlagRepoGitHashFastString": "0e4190073d1112f2130e33d26ee846a732899391",
+        "DFStringFlagRepoGitHashDynamicString": "0e4190073d1112f2130e33d26ee846a732899391",
+        "FStringFlipTimeStampFastString": "2025-08-26T23:11:42.994Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-26T23:11:42.994Z"
     }
 }
