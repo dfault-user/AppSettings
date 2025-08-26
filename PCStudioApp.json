@@ -11617,7 +11617,6 @@
         "FFlagAppChatRefactorTelemetryConfigs": "True",
         "FFlagAppChatRemoveUnfilteredThreadsEligibility": "True",
         "FFlagRemoveDiscoverabilityModal": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagUGCValidateNoExtraInstsInCurveAnim": "True",
         "DFFlagSkipManualAudioDuckingForAndroid_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T19:07:32",
         "FFlagUGCValidateCurveAnimChildFix": "True",
@@ -11629,6 +11628,7 @@
         "FFlagAXCatalogReactPerfIXPEnabledV3": "True",
         "FFlagAXFixCatalogRefreshRenderingV2": "True",
         "FFlagExpChatUseVoiceParticipantsStore2_IXP": "1;ExperienceChat.Performance;FFlagExpChatUseVoiceParticipantsStore2;125421786;flagbank",
+        "DFFlagBlanketFSExceptCatch": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13255,6 +13255,7 @@
         "DFIntHttpServiceMaxSseClients": "4",
         "FFlagVerifySetAncestorOptimization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T19:41:43",
         "FFlagKnowledgeTutorialsAvoidHanging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;829746062;2025-08-26T19:42:21",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13511,7 +13512,6 @@
         "FIntRenderDx11LowEndCoreCount": "1",
         "FFlagAXUnifiedLoggingImpressions2": "True",
         "FFlagAXEnableAccessoryAdjustmentDuringTryOn2": "False",
-        "DFFlagBlanketFSExceptCatch": "True",
         "DFIntDataPingTraceReportThrottleSec": "60",
         "DFIntReportCharHashDescriptionLCEventsThrottleHundrethsPercent": "100",
         "FFlagUITextureUseDynamicRenderSettings": "False",
@@ -13667,9 +13667,9 @@
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagToolboxFixInsertionAnalytics": "True",
         "FFlagLiveAnimationUpdateSupport": "True",
-        "FStringFlagRepoGitHashFastString": "c9db83f417d683d9f0f2bf88a973c658062bbed1",
-        "DFStringFlagRepoGitHashDynamicString": "c9db83f417d683d9f0f2bf88a973c658062bbed1",
-        "FStringFlipTimeStampFastString": "2025-08-26T19:52:14.468Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-26T19:52:14.468Z"
+        "FStringFlagRepoGitHashFastString": "a64697f132be2714bc782dd52e65f74545910da7",
+        "DFStringFlagRepoGitHashDynamicString": "a64697f132be2714bc782dd52e65f74545910da7",
+        "FStringFlipTimeStampFastString": "2025-08-26T19:58:01.394Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-26T19:58:01.394Z"
     }
 }

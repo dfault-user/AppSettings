@@ -11617,7 +11617,6 @@
         "FFlagAppChatRefactorTelemetryConfigs": "True",
         "FFlagAppChatRemoveUnfilteredThreadsEligibility": "True",
         "FFlagRemoveDiscoverabilityModal": "True",
-        "DFFlagBlanketFSExceptCatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T18:54:15",
         "FFlagUGCValidateNoExtraInstsInCurveAnim": "True",
         "DFFlagSkipManualAudioDuckingForAndroid_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T19:07:32",
         "FFlagUGCValidateCurveAnimChildFix": "True",
@@ -11629,6 +11628,7 @@
         "FFlagAXCatalogReactPerfIXPEnabledV3": "True",
         "FFlagAXFixCatalogRefreshRenderingV2": "True",
         "FFlagExpChatUseVoiceParticipantsStore2_IXP": "1;ExperienceChat.Performance;FFlagExpChatUseVoiceParticipantsStore2;125421786;flagbank",
+        "DFFlagBlanketFSExceptCatch": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12474,9 +12474,10 @@
         "FFlagLuaAppEdpAudioManufacturerDeny": "True",
         "FFlagLuaAppFixEdpMediaGalleryJank": "True",
         "FFlagLuaAppEdpMediaGalleryUseRbxThumb": "True",
-        "FStringFlagRepoGitHashFastString": "c9db83f417d683d9f0f2bf88a973c658062bbed1",
-        "DFStringFlagRepoGitHashDynamicString": "c9db83f417d683d9f0f2bf88a973c658062bbed1",
-        "FStringFlipTimeStampFastString": "2025-08-26T19:52:14.468Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-26T19:52:14.468Z"
+        "FFlagFixAutoSyncContacts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T19:56:12",
+        "FStringFlagRepoGitHashFastString": "a64697f132be2714bc782dd52e65f74545910da7",
+        "DFStringFlagRepoGitHashDynamicString": "a64697f132be2714bc782dd52e65f74545910da7",
+        "FStringFlipTimeStampFastString": "2025-08-26T19:58:01.394Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-26T19:58:01.394Z"
     }
 }
