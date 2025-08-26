@@ -13250,6 +13250,7 @@
         "DFIntWebStreamClientRequestTimeoutMs": "1800000",
         "DFIntHttpServiceMaxSseClients_Staged": "4;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T18:35:02",
         "FFlagCinSetDefaultCreator2": "True",
+        "FFlagPluginErrorReportingIgnoreSomeErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T19:00:01",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13662,9 +13663,9 @@
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagToolboxFixInsertionAnalytics": "True",
         "FFlagLiveAnimationUpdateSupport": "True",
-        "FStringFlagRepoGitHashFastString": "77450ce821242a0fa5505116d15c0eae28ae73d5",
-        "DFStringFlagRepoGitHashDynamicString": "77450ce821242a0fa5505116d15c0eae28ae73d5",
-        "FStringFlipTimeStampFastString": "2025-08-26T18:57:47.286Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-26T18:57:47.286Z"
+        "FStringFlagRepoGitHashFastString": "30e1e2c62ca536cacb00d0af6e1c682a559d2c04",
+        "DFStringFlagRepoGitHashDynamicString": "30e1e2c62ca536cacb00d0af6e1c682a559d2c04",
+        "FStringFlipTimeStampFastString": "2025-08-26T19:01:05.853Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-26T19:01:05.853Z"
     }
 }
