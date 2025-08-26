@@ -11595,7 +11595,6 @@
         "DFFlagTidyProfiler": "True",
         "FFlagTelemetryDataReArchTransmission9_IXP": "1;Portal.client_telemetry_batch_consumer-1756163029;client_telemetry_batch_consumer;719846070;flagbank",
         "FFlagStyleEditorUITab2": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagLuaAppScaleSearchBar": "True",
         "FFlagLuaAppSearchIconUnselectable": "True",
         "FFlagUseRuntimeMutexFileMeshDataScratch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-25T23:50:43",
@@ -11606,6 +11605,8 @@
         "DFFlagUwpMigrationDialogAnalytics": "True",
         "FFlagUwpMigrationGuaranteedTelemetery": "True",
         "FFlagIsSquadCoordinationExperienceJoinExperimentExposureEnabled": "True",
+        "DFFlagHttpCurlPipeWaitEnabled2": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12439,7 +12440,6 @@
         "FFlagEnablePurchaseFlowUUIDMigration": "True",
         "FFlagDisableVideoIneligiblePerformanceExposureLogging": "True",
         "DFFlagRvCodecCleanupInDestructor": "True",
-        "DFFlagHttpCurlPipeWaitEnabled2": "True",
         "DFFlagHttpCurlHttp2Enabled2": "True",
         "FFlagWriteBodyToFile2": "True",
         "FIntPerformanceControlLmkdMaxMemBufferSize": "30",
@@ -12492,9 +12492,9 @@
         "DFIntCacheDirSizeThrottleHundredthsPercent": "10000",
         "FFlagVideoAdaptionByScreenSizeThenHarmony": "True",
         "FFlagUnivAppSkipLoadCoreScriptLoc2": "True",
-        "FStringFlagRepoGitHashFastString": "7d78dd00df054bfae58db381a95c61ced74b9489",
-        "DFStringFlagRepoGitHashDynamicString": "7d78dd00df054bfae58db381a95c61ced74b9489",
-        "FStringFlipTimeStampFastString": "2025-08-26T00:42:28.169Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-26T00:42:28.169Z"
+        "FStringFlagRepoGitHashFastString": "98b13930e96c2a7ebdc1186708fc1699721cfb30",
+        "DFStringFlagRepoGitHashDynamicString": "98b13930e96c2a7ebdc1186708fc1699721cfb30",
+        "FStringFlipTimeStampFastString": "2025-08-26T00:51:53.140Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-26T00:51:53.140Z"
     }
 }
