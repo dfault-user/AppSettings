@@ -11612,7 +11612,6 @@
         "FFlagRenderSmoothClusterFixAsyncMeshCrash": "True",
         "FFlagAddCountersToMissingComponentsAndLabels": "True",
         "FFlagStudioDoNotLoadCoreScriptsOutsidePlaySolo1": "True",
-        "FFlagUGCValidateNoExtraInstsInCurveAnim_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1376358909;2025-08-26T18:05:03",
         "FFlagUGCValidateNoScriptsInCurveAnim_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1639753154;2025-08-26T18:06:43",
         "FFlagUGCValidateCurveAnimChildFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1455683481;2025-08-26T18:07:48",
         "DFFlagEnableReportAdProgressWithGmaAdTypeAndEtc_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T18:10:28",
@@ -11627,6 +11626,8 @@
         "FFlagAppChatRemoveUnfilteredThreadsEligibility": "True",
         "FFlagRemoveDiscoverabilityModal": "True",
         "DFFlagBlanketFSExceptCatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T18:54:15",
+        "FFlagUGCValidateNoExtraInstsInCurveAnim": "True",
+        "DFFlagSkipManualAudioDuckingForAndroid_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T19:07:32",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12472,9 +12473,9 @@
         "FFlagLuaAppEdpAudioManufacturerDeny": "True",
         "FFlagLuaAppFixEdpMediaGalleryJank": "True",
         "FFlagLuaAppEdpMediaGalleryUseRbxThumb": "True",
-        "FStringFlagRepoGitHashFastString": "ccdf6e3f26caaeec13027964d5559e34180fc725",
-        "DFStringFlagRepoGitHashDynamicString": "ccdf6e3f26caaeec13027964d5559e34180fc725",
-        "FStringFlipTimeStampFastString": "2025-08-26T19:05:56.706Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-26T19:05:56.706Z"
+        "FStringFlagRepoGitHashFastString": "f1484d723fea8cb61ed92805738398205d0036d2",
+        "DFStringFlagRepoGitHashDynamicString": "f1484d723fea8cb61ed92805738398205d0036d2",
+        "FStringFlipTimeStampFastString": "2025-08-26T19:08:54.333Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-26T19:08:54.333Z"
     }
 }
