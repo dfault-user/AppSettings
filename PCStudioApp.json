@@ -13266,11 +13266,11 @@
         "FFlagPluginErrorReportingIgnoreSomeErrors": "True",
         "FFlagVerifySetAncestorOptimization": "True",
         "FFlagKnowledgeTutorialsAvoidHanging": "True",
-        "FFlagRbxLogRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T23:07:02",
-        "FFlagInternalExportUseSharedPointerExport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T23:09:00",
         "DFFlagEnableHttpStreaming": "True",
         "FFlagAvoidInlineGhostTextAfterTab": "True",
         "FFlagAsyncGltfExport3": "True",
+        "FFlagRbxLogRefactor": "True",
+        "FFlagInternalExportUseSharedPointerExport": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13652,8 +13652,8 @@
         "DFLogBootcampCLI164914Log": "6",
         "FFlagEnableDesktopUILessMode_IXP": "1;Experience.Menu.UILess.Exposure;User.ExperienceMenuUILessExposure.UILessMode3;981580002;dev_controlled",
         "FIntAddUILessModeVariant_IXP": "1;Experience.Menu.UILess.Exposure;User.ExperienceMenuUILessExposure.UILessMode3;981580002;dev_controlled",
-        "DFFlagRbxLogCatchExceptions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-26T23:08:07",
         "FFlagFixVulkanGetSwapChainSizeCrash": "True",
+        "DFFlagRbxLogCatchExceptions": "True",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -13685,9 +13685,9 @@
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagLiveAnimationUpdateSupport": "True",
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
-        "FStringFlagRepoGitHashFastString": "dd06da17c9dc322e08441f9797260ff4b9214d13",
-        "DFStringFlagRepoGitHashDynamicString": "dd06da17c9dc322e08441f9797260ff4b9214d13",
-        "FStringFlipTimeStampFastString": "2025-08-27T00:10:07.516Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T00:10:07.516Z"
+        "FStringFlagRepoGitHashFastString": "853af75c07c0d50b711adbd98dbf3c6eb41a7463",
+        "DFStringFlagRepoGitHashDynamicString": "853af75c07c0d50b711adbd98dbf3c6eb41a7463",
+        "FStringFlipTimeStampFastString": "2025-08-27T00:12:00.076Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T00:12:00.076Z"
     }
 }
