@@ -11118,7 +11118,7 @@
         "FFlagUseConfigurableReconnectWait": "True",
         "DFFlagRenderUnifyTextureFallbacks": "True",
         "DFFlagFileCacheHaltRename": "True",
-        "FFlagEnableKnowledgeTutorials2": "False",
+        "FFlagEnableKnowledgeTutorials2": "True",
         "FFlagLuaStartPageTutorialInfoTile": "True",
         "FFlagUgcValidationImproveTextureSizeErrorMessages": "True",
         "FFlagAXEnableCarouselItemsBasedOnFrameSize": "True",
@@ -11647,8 +11647,6 @@
         "FFlagFocusNavigationDefaultKeyboardFocusOff": "True",
         "FFlagLuauForInProvidesRecommendations": "True",
         "FFlagLuauFragmentAutocompleteTracksRValueRefinements": "True",
-        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
-        "FFlagEnableKnowledgeTutorials2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;683504133;2025-08-27T17:42:32",
         "FFlagEnableBackgroundTask_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T17:48:36",
         "DFFlagReplaceStoXWithStrToX_AppBridge_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T17:49:34",
         "FFlagOverrideKeyboardAndMouseAvailabilityFromDM_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T17:54:09",
@@ -11661,6 +11659,8 @@
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsLifecycleManager": "True",
         "FFlagCapturesPromptShareWithVideoEnabled": "True",
+        "FFlagReportStaticFlagsVersionCounter": "True",
+        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -11705,7 +11705,6 @@
         "FFlagUAppBlockPageDisableLogOutFromGUAC": "True",
         "FFlagUAppBlockPageResponsiveLayout": "True",
         "DFFlagFixMigrateAvatarTelemetryToDurationLogger3": "True",
-        "FFlagReportStaticFlagsVersionCounter": "True",
         "FFlagAXItemDetails3DPreviewEnabled": "True",
         "FFlagAXItemDetailsScrollingEnabledCallback": "True",
         "DFFlagTeamCreatePlaceUploadSendCompressedRollout2": "True",
@@ -12516,9 +12515,9 @@
         "FIntPartyVoiceUndeafenDelayMS": "50",
         "FFlagLuaAppBootcampIntroUABOOTCAMP98": "True",
         "FFlagLuaAppBootcampIntroUABOOTCAMP93": "True",
-        "FStringFlagRepoGitHashFastString": "df96609516cf5333c2a7de8850e29cc8eda72cc3",
-        "DFStringFlagRepoGitHashDynamicString": "df96609516cf5333c2a7de8850e29cc8eda72cc3",
-        "FStringFlipTimeStampFastString": "2025-08-27T18:37:16.786Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T18:37:16.786Z"
+        "FStringFlagRepoGitHashFastString": "bda28d5b32c3695ab9021965a71a20744a00ec07",
+        "DFStringFlagRepoGitHashDynamicString": "bda28d5b32c3695ab9021965a71a20744a00ec07",
+        "FStringFlipTimeStampFastString": "2025-08-27T18:46:28.879Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T18:46:28.879Z"
     }
 }
