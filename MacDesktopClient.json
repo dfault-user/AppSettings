@@ -11665,7 +11665,6 @@
         "FFlagCapturesVideoCTAEnabledForAll_v3": "True",
         "FFlagCapturesVideoCTAExperimentEnabled_v5": "True",
         "FFlagEnableUpdatedCaptureControls_v9": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagUserPreferredInputPlayerScripts2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T21:57:19",
         "DFFlagAddMoreInfoToReentrancyErrors": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -11675,6 +11674,10 @@
         "FFlagNativeDialogManager_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T22:29:24",
         "FFlagStudioAlwaysGraphics": "True",
         "FFlagStudioFixBadRenderModes": "True",
+        "FFlagEnablePartyNudgeAfterJoin2_Staged": "True;SteadyState;10;30;Revert;2025-08-27T22:47:15",
+        "DFFlagCCSD9568_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T22:47:58",
+        "FFlagCapturesVideoCaptureFailedToastEnabled_v3": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
@@ -12019,7 +12022,6 @@
         "FFlagSessionAppEventsHandlerRuntimeMutex2": "True",
         "FFlagPerformanceControlUsesRuntime2": "True",
         "DFIntPathfindingEstimatedNavmeshCountThrottleHundrethsPercentPoints": "500",
-        "FFlagCapturesVideoCaptureFailedToastEnabled_v3": "True",
         "DFFlagCLI112079BallBlockNarrowPhaseRefactor": "True",
         "DFIntHttpThrottlingQualifyingResponseThrottle": "10",
         "DFIntGetFullNameParseDepthLimit": "1000",
@@ -12533,9 +12535,9 @@
         "FFlagLuaAppBootcampIntroUABOOTCAMP98": "True",
         "FFlagLuaAppBootcampIntroUABOOTCAMP93": "True",
         "DFFlagAeroReduceReducedMeshAllocations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T22:00:07",
-        "FStringFlagRepoGitHashFastString": "a9beeb60ec776670961dee110c38368fadb37f33",
-        "DFStringFlagRepoGitHashDynamicString": "a9beeb60ec776670961dee110c38368fadb37f33",
-        "FStringFlipTimeStampFastString": "2025-08-27T22:47:10.393Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T22:47:10.393Z"
+        "FStringFlagRepoGitHashFastString": "517ede50c6a23fbe15b057bcd46bc3b2dc1fe342",
+        "DFStringFlagRepoGitHashDynamicString": "517ede50c6a23fbe15b057bcd46bc3b2dc1fe342",
+        "FStringFlipTimeStampFastString": "2025-08-27T22:52:35.379Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T22:52:35.379Z"
     }
 }
