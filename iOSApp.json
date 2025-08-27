@@ -11652,6 +11652,7 @@
         "FFlagContentWriteBinaryXml_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T17:31:29",
         "FFlagCapturesPromptShareWithVideoEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;99388125;2025-08-27T17:35:09",
         "AllowVideoPreRoll": "True",
+        "FFlagEnableKnowledgeTutorials2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;683504133;2025-08-27T17:42:32",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12502,9 +12503,11 @@
         "FFlagRefactorPeoplePage5_IXP": "1;Experience.Menu;User.ExperienceMenu.ReactPeoplePage.Mobile;1951626196;flagbank",
         "FFlagSimAeroRemovePackedCentroidNormalData": "True",
         "FFlagCapturesSetVideoContentToNoneOnUnmount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;344046045;2025-08-27T17:09:00",
-        "FStringFlagRepoGitHashFastString": "f1141bb3b8d8c118cda662c92c0b37792d6d12be",
-        "DFStringFlagRepoGitHashDynamicString": "f1141bb3b8d8c118cda662c92c0b37792d6d12be",
-        "FStringFlipTimeStampFastString": "2025-08-27T17:43:14.915Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T17:43:14.915Z"
+        "FFlagCapturesVideoCaptureLoggingEnabled_v3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1518270653;2025-08-27T17:42:15",
+        "DFFlagSimSolverOptimizeSleepForceCaching_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T17:44:23",
+        "FStringFlagRepoGitHashFastString": "3b2fe759577d10d43c6c76a4cffa6180852c8329",
+        "DFStringFlagRepoGitHashDynamicString": "3b2fe759577d10d43c6c76a4cffa6180852c8329",
+        "FStringFlipTimeStampFastString": "2025-08-27T17:47:07.825Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T17:47:07.825Z"
     }
 }
