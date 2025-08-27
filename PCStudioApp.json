@@ -4567,8 +4567,6 @@
         "FFlagDisableBuiltinAGC": "True",
         "FFlagDisableBuiltinNS": "True",
         "FFlagAuthRefactorConsoleDisclaimerText": "False",
-        "DFFlagSolverStateReplicatedOnly2": "False",
-        "DFFlagSolverStateReplicatedOnly2_PlaceFilter": "False;6604198805;11814147110",
         "FFlagPromisifyVoiceRequests": "True",
         "FFlagDeeplinkTelemetryCounters": "True",
         "FFlagSetEngineContextScopeInDataModelJob": "True",
@@ -11663,6 +11661,8 @@
         "FFlagLuaAppEdpMediaGalleryUseRbxThumb": "True",
         "FFlagLuaAppFixEdpMediaGalleryJank": "True",
         "FFlagStrokeGradientsDontAffectParent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T19:35:31",
+        "FFlagCLI165167Lua_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T19:41:44",
+        "DFFlagChatServiceCompatibilityForAll4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;679044496;2025-08-27T19:42:53",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13699,9 +13699,9 @@
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagLiveAnimationUpdateSupport": "True",
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
-        "FStringFlagRepoGitHashFastString": "8042313d5a1ade4f07c18c72b3021a6e85d09fc5",
-        "DFStringFlagRepoGitHashDynamicString": "8042313d5a1ade4f07c18c72b3021a6e85d09fc5",
-        "FStringFlipTimeStampFastString": "2025-08-27T19:41:23.857Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T19:41:23.857Z"
+        "FStringFlagRepoGitHashFastString": "070cfc13b8aef3ce5323d9b8e22bd864ce0d0586",
+        "DFStringFlagRepoGitHashDynamicString": "070cfc13b8aef3ce5323d9b8e22bd864ce0d0586",
+        "FStringFlipTimeStampFastString": "2025-08-27T19:45:02.959Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T19:45:02.959Z"
     }
 }
