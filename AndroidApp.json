@@ -11667,6 +11667,8 @@
         "FFlagCLI165167Lua": "True",
         "AllowVideoPreRoll": "True",
         "FFlagEnableNewAssistant_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T21:06:20",
+        "FFlagStudioAlwaysGraphics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T21:31:35",
+        "FFlagStudioFixBadRenderModes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T21:32:14",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12559,9 +12561,9 @@
         "DFFlagSimSolverOptimizeSleepForceCaching": "True",
         "FStringPowerVRWhitelistHQShaders": ".*:PowerVR D-Series DXT-48-1536 MC1",
         "DFFlagTeleportReconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T21:22:47",
-        "FStringFlagRepoGitHashFastString": "3a82f67459b9b45216f67ea65b1ae42c8d1cca95",
-        "DFStringFlagRepoGitHashDynamicString": "3a82f67459b9b45216f67ea65b1ae42c8d1cca95",
-        "FStringFlipTimeStampFastString": "2025-08-27T21:30:50.237Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T21:30:50.237Z"
+        "FStringFlagRepoGitHashFastString": "ab8095a57a4979fb835069ebb18726fcd2e53e0c",
+        "DFStringFlagRepoGitHashDynamicString": "ab8095a57a4979fb835069ebb18726fcd2e53e0c",
+        "FStringFlipTimeStampFastString": "2025-08-27T21:34:16.826Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T21:34:16.826Z"
     }
 }
