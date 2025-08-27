@@ -11667,7 +11667,6 @@
         "FFlagEnableUpdatedCaptureControls_v9": "True",
         "DFFlagAddMoreInfoToReentrancyErrors": "True",
         "FFlagEnableNewAssistant": "True",
-        "FFlagNativeDialogManager_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T22:29:24",
         "FFlagStudioAlwaysGraphics": "True",
         "FFlagStudioFixBadRenderModes": "True",
         "DFFlagCCSD9568_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T22:47:58",
@@ -11677,6 +11676,7 @@
         "DFFlagSimSolverOptimizeSleepForceCaching": "True",
         "DFFlagSimCSG4FixCoplanarSimplification": "True",
         "DFFlagSimClosedVoxelFastSplit": "True",
+        "FFlagNativeDialogManager": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12117,12 +12117,12 @@
         "FFlagCapturesSetVideoContentToNoneOnUnmount": "True",
         "FFlagCapturesVideoCaptureLoggingEnabled_v3": "True",
         "DFFlagTeleportReconnect": "True",
-        "FFlagRealtimeScopesAssertInsteadOfCrashing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T22:29:29",
         "FFlagGraphicsTextureCopy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T22:31:16",
         "FFlagCLI165167_Client": "True",
         "FFlagAXFixUnifiedWidgetAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T23:09:26",
         "FFlagReconnectToSameServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T23:09:36",
         "DFFlagAssetProviderMorePointsFields": "True",
+        "FFlagRealtimeScopesAssertInsteadOfCrashing": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12537,9 +12537,9 @@
         "FFlagLuaAppBootcampIntroUABOOTCAMP98": "True",
         "FFlagLuaAppBootcampIntroUABOOTCAMP93": "True",
         "DFFlagAeroReduceReducedMeshAllocations": "True",
-        "FStringFlagRepoGitHashFastString": "b560bc18392727b1cef20338aafc8e006ce9069f",
-        "DFStringFlagRepoGitHashDynamicString": "b560bc18392727b1cef20338aafc8e006ce9069f",
-        "FStringFlipTimeStampFastString": "2025-08-27T23:32:03.232Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T23:32:03.232Z"
+        "FStringFlagRepoGitHashFastString": "acd5e3db183a0217ebf733f09162131e8b0f84b2",
+        "DFStringFlagRepoGitHashDynamicString": "acd5e3db183a0217ebf733f09162131e8b0f84b2",
+        "FStringFlipTimeStampFastString": "2025-08-27T23:45:14.932Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T23:45:14.932Z"
     }
 }
