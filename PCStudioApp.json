@@ -11678,6 +11678,7 @@
         "FFlagNativeDialogManager": "True",
         "FFlagUseRuntimeMutexInsteadOfRbxMutexDataModel_Staged": "True;SteadyState;10;30;Revert;2025-08-27T23:45:17",
         "DFFlagCCSD9568": "True",
+        "FFlagEnableLuaAppSessionWithError2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T23:52:40",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13316,7 +13317,6 @@
         "FFlagStudioEnableAsyncComponentSafeConnect2": "True",
         "FFlagStudioPluginWidgetsUseSafeThisCapturer": "True",
         "FFlagManageCollaboratorsIxpEnabled": "True",
-        "FFlagCollab8953_EnableLikelyCollaboratorPrefetchExperimentV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T22:52:14",
         "FFlagLuauReduceSetTypeStackPressure_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T22:58:25",
         "FFlagReconnectToSameServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T23:09:36",
         "FFlagEnableIXPForNewAssistant2": "True",
@@ -13325,6 +13325,7 @@
         "FFlagExportAddMissedPermissionPass": "True",
         "FFlagInternalExportCheckPermissions": "True",
         "FFlagLuauAllowMixedTables": "True",
+        "FFlagCollab8953_EnableLikelyCollaboratorPrefetchExperimentV2": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13739,9 +13740,9 @@
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagLiveAnimationUpdateSupport": "True",
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
-        "FStringFlagRepoGitHashFastString": "21815119ead34ae5ceadf84335d0416004a5b655",
-        "DFStringFlagRepoGitHashDynamicString": "21815119ead34ae5ceadf84335d0416004a5b655",
-        "FStringFlipTimeStampFastString": "2025-08-27T23:52:46.420Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T23:52:46.420Z"
+        "FStringFlagRepoGitHashFastString": "9efbf346ca7e3cba7cd83653ac958baff36a4931",
+        "DFStringFlagRepoGitHashDynamicString": "9efbf346ca7e3cba7cd83653ac958baff36a4931",
+        "FStringFlipTimeStampFastString": "2025-08-27T23:57:21.742Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T23:57:21.742Z"
     }
 }
