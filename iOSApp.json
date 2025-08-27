@@ -11452,7 +11452,7 @@
         "FFlagBootcampCLI163626": "True",
         "FFlagEnableAdsLifecycleManagerCallNativeAdsProtocol": "True",
         "DFIntAdsLifecycleStateTransitionEventThrottleHundrethsPercent": "10000",
-        "DFIntAdsLifecycleStateTransitionSessionThrottleHundrethsPercent": "10000",
+        "DFIntAdsLifecycleStateTransitionSessionThrottleHundrethsPercent": "100",
         "FFlagAddNavigationToTryOnPageForCurrentlyWearing_IXP": "1;Social.ProfileCurrentlyWearingClickThrough;Social.ProfileCurrentlyWearingClickThrough.NavigateCWToTryonPage-2;2079529386;flagbank",
         "FIntPerformanceTelemetryGlobalThrottleHundredthsPercent": "10",
         "DFFlagInitTombstoneAfterBlockingFetch": "False",
@@ -11643,13 +11643,14 @@
         "FFlagFixUpscaledFixedTextStroke_PlaceFilter": "True;131417955248832",
         "FFlagFixMacCommandToolClick": "True",
         "FFlagExportWithSettings": "True",
-        "DFIntAdsLifecycleStateTransitionSessionThrottleHundrethsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T16:34:34",
         "FFlagMicroprofilerGuiVisibilityFireSignal": "True",
         "FFlagFocusNavigationDefaultKeyboardFocusOff": "True",
         "FFlagLuauForInProvidesRecommendations": "True",
         "FFlagLuauFragmentAutocompleteTracksRValueRefinements": "True",
         "FFlagOverrideKeyboardAndMouseAvailabilityFromDM_Staged": "True;SteadyState;10;30;Revert;2025-08-27T17:15:46",
         "FFlagEnableAdsLifecycleManager_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T17:23:33",
+        "FFlagContentWriteBinaryXml_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T17:31:29",
+        "FFlagCapturesPromptShareWithVideoEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;99388125;2025-08-27T17:35:09",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12501,9 +12502,9 @@
         "FFlagRefactorPeoplePage5_IXP": "1;Experience.Menu;User.ExperienceMenu.ReactPeoplePage.Mobile;1951626196;flagbank",
         "FFlagSimAeroRemovePackedCentroidNormalData": "True",
         "FFlagCapturesSetVideoContentToNoneOnUnmount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;344046045;2025-08-27T17:09:00",
-        "FStringFlagRepoGitHashFastString": "5b6ab2c6b53fa8b2fbd9ad9921c0f9469dab9396",
-        "DFStringFlagRepoGitHashDynamicString": "5b6ab2c6b53fa8b2fbd9ad9921c0f9469dab9396",
-        "FStringFlipTimeStampFastString": "2025-08-27T17:28:26.327Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T17:28:26.327Z"
+        "FStringFlagRepoGitHashFastString": "4eec95ef49a23475224024635d53f07ec9563362",
+        "DFStringFlagRepoGitHashDynamicString": "4eec95ef49a23475224024635d53f07ec9563362",
+        "FStringFlipTimeStampFastString": "2025-08-27T17:39:19.186Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T17:39:19.186Z"
     }
 }
