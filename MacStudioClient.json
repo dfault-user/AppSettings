@@ -11647,8 +11647,6 @@
         "FFlagFocusNavigationDefaultKeyboardFocusOff": "True",
         "FFlagLuauForInProvidesRecommendations": "True",
         "FFlagLuauFragmentAutocompleteTracksRValueRefinements": "True",
-        "FFlagEnableAdsMouseUnlock": "True",
-        "FFlagLuaAppFixEdpMaturityConsoleFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T18:18:52",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsLifecycleManager": "True",
@@ -11662,6 +11660,8 @@
         "FFlagLuaAppOmniSduiPcall": "True",
         "FIntReactSchedulerMinFrameRate_IXP": "1;UIEcosystem.User;Experience.React.DeferredScheduler.Many4;1683628987;flagbank",
         "AllowVideoPreRoll": "True",
+        "FFlagLuaAppEdpAudioManufacturerDeny": "True",
+        "FFlagLuaAppFixEdpMaturityConsoleFocus": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13287,6 +13287,7 @@
         "FFlagAsyncGltfExport3": "True",
         "FFlagRbxLogRefactor": "True",
         "FFlagInternalExportUseSharedPointerExport": "True",
+        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "DFFlagEnableFdTracking": "True",
@@ -13617,7 +13618,6 @@
         "DFFlagMicroProfilerVerticalBounds": "True",
         "FFlagLuauParametrizedAttributeSyntax": "False",
         "DFFlagVoiceFixBracesInBraces2": "True",
-        "FFlagLuaAppEdpAudioManufacturerDeny": "True",
         "DFFlagRenderFastClusterOcclusionCulling": "False",
         "DFFlagMicroProfilerNetworkPlugin2": "True",
         "FFlagGalleryStopGap": "True",
@@ -13674,9 +13674,9 @@
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagLiveAnimationUpdateSupport": "True",
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
-        "FStringFlagRepoGitHashFastString": "5224a6c39ebf295cb915a513b18c7a1d914841ae",
-        "DFStringFlagRepoGitHashDynamicString": "5224a6c39ebf295cb915a513b18c7a1d914841ae",
-        "FStringFlipTimeStampFastString": "2025-08-27T19:18:10.402Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T19:18:10.402Z"
+        "FStringFlagRepoGitHashFastString": "ed5142bcddf39a578831b4ec83ba25e01eadf641",
+        "DFStringFlagRepoGitHashDynamicString": "ed5142bcddf39a578831b4ec83ba25e01eadf641",
+        "FStringFlipTimeStampFastString": "2025-08-27T19:21:33.387Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T19:21:33.387Z"
     }
 }
