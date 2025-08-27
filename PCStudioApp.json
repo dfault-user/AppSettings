@@ -13292,8 +13292,6 @@
         "FFlagAsyncGltfExport3": "True",
         "FFlagRbxLogRefactor": "True",
         "FFlagInternalExportUseSharedPointerExport": "True",
-        "FFlagDisableDeletingTerrainWeldsForTeamCreateClient_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T20:51:21",
-        "FFlagFixGameSettingsLabelRegression_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T20:52:15",
         "FFlagEnableMultiEditTool_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T20:56:27",
         "FFlagEnableUserCodeAssistAcCompatibleExperiment2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T20:58:56",
         "FFlagStudioTasksFutureShareMutexes": "True",
@@ -13311,6 +13309,8 @@
         "FFlagGameSettingsPlayabilityWarning": "True",
         "FFlagGameSettingsPlayabilityWarningBefore30Sept": "True",
         "FFlagDevFrameworkMarkdownCommonMarkCompliance": "True",
+        "FFlagFixGameSettingsLabelRegression": "True",
+        "FFlagDisableDeletingTerrainWeldsForTeamCreateClient": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13722,9 +13722,9 @@
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagLiveAnimationUpdateSupport": "True",
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
-        "FStringFlagRepoGitHashFastString": "5afb72bb15ecef40de96bc42c3fef7654581b077",
-        "DFStringFlagRepoGitHashDynamicString": "5afb72bb15ecef40de96bc42c3fef7654581b077",
-        "FStringFlipTimeStampFastString": "2025-08-27T21:52:10.715Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T21:52:10.715Z"
+        "FStringFlagRepoGitHashFastString": "56529ee6473c26b0affaa4a1b53ddbec29fff229",
+        "DFStringFlagRepoGitHashDynamicString": "56529ee6473c26b0affaa4a1b53ddbec29fff229",
+        "FStringFlipTimeStampFastString": "2025-08-27T22:01:35.742Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T22:01:35.742Z"
     }
 }
