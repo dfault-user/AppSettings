@@ -11673,6 +11673,7 @@
         "DFFlagSimSolverOptimizeSleepForceCaching_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T22:06:55",
         "FFlagEnableNewAssistant": "True",
         "DFFlagSimClosedVoxelFastSplit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T22:25:08",
+        "DFFlagSimCSG4FixCoplanarSimplification_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T22:25:53",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12027,11 +12028,11 @@
         "FFlagConsoleMouseLockCenter": "True",
         "DFFlagRbxLogCatchExceptions": "True",
         "FFlagRbxLogRefactor": "True",
-        "DFFlagTeleportReconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T21:22:47",
         "DFIntAssetProviderCallbackExecutorThreadCount": "2",
-        "FStringFlagRepoGitHashFastString": "789f43bae9c46ea2b97a453fe6bc277f4b63720b",
-        "DFStringFlagRepoGitHashDynamicString": "789f43bae9c46ea2b97a453fe6bc277f4b63720b",
-        "FStringFlipTimeStampFastString": "2025-08-27T22:27:15.279Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T22:27:15.279Z"
+        "DFFlagTeleportReconnect": "True",
+        "FStringFlagRepoGitHashFastString": "470552bf3ff16f6dac8828cc0344bd8477afda93",
+        "DFStringFlagRepoGitHashDynamicString": "470552bf3ff16f6dac8828cc0344bd8477afda93",
+        "FStringFlipTimeStampFastString": "2025-08-27T22:30:47.180Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T22:30:47.180Z"
     }
 }
