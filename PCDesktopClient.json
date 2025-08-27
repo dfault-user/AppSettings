@@ -11647,7 +11647,6 @@
         "FFlagFocusNavigationDefaultKeyboardFocusOff": "True",
         "FFlagLuauForInProvidesRecommendations": "True",
         "FFlagLuauFragmentAutocompleteTracksRValueRefinements": "True",
-        "FFlagLuaAppOmniSduiPcall_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T18:13:59",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagLuaAppFixEdpMaturityConsoleFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-27T18:18:52",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -11660,6 +11659,8 @@
         "FFlagOverrideKeyboardAndMouseAvailabilityFromDM": "True",
         "FFlagDisableReconnectsForRootedKicks": "True",
         "DFFlagEnableReportClickOutAdClickCTAEvent": "True",
+        "FFlagLuaAppOmniSduiPcall": "True",
+        "FIntReactSchedulerMinFrameRate_IXP": "1;UIEcosystem.User;Experience.React.DeferredScheduler.Many4;1683628987;flagbank",
         "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12580,9 +12581,9 @@
         "FFlagAssetProviderAssetCacheUseRBXStorageImpl2": "True",
         "FFlagTerrainOneTouch": "True",
         "FFlagEnableWindowsOnScreenKeyboardController1_IXP": "1;Portal.WindowsOnScreenKeyboard-1756316805;WindowsOnScreenKeyboard;718462679;flagbank",
-        "FStringFlagRepoGitHashFastString": "e4d60fc93f5eb32dcd0d2b53870e61080bc49377",
-        "DFStringFlagRepoGitHashDynamicString": "e4d60fc93f5eb32dcd0d2b53870e61080bc49377",
-        "FStringFlipTimeStampFastString": "2025-08-27T19:12:11.081Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-27T19:12:11.081Z"
+        "FStringFlagRepoGitHashFastString": "bbb1321fadc62844550cb409ce36236fb9042ee2",
+        "DFStringFlagRepoGitHashDynamicString": "bbb1321fadc62844550cb409ce36236fb9042ee2",
+        "FStringFlipTimeStampFastString": "2025-08-27T19:17:04.856Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-27T19:17:04.856Z"
     }
 }
