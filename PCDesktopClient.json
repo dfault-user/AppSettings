@@ -11676,9 +11676,8 @@
         "DFFlagSimClosedVoxelFastSplit": "True",
         "FFlagNativeDialogManager": "True",
         "DFFlagCCSD9568": "True",
-        "FFlagTranscoderVariableDimension_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T16:08:43",
         "FFlagLuaAppGamesPagePreloadingDisabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1919069057;2025-08-28T16:25:46",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableNSEEventReporter_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T16:30:13",
         "FFlagRenderFixULGlassLQAlpha_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T16:39:16",
         "FFlagAddRMTile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;170303693;2025-08-28T16:48:45",
@@ -11690,8 +11689,10 @@
         "FFlagUGCValidateIncorrectNumericalData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;891241817;2025-08-28T17:00:53",
         "FFlagAppNavNewRail": "True",
         "FFlagFixFlipbookCheck": "True",
+        "FFlagRenderViewResetEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:06:46",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
-        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagTranscoderVariableDimension": "True",
         "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12615,9 +12616,9 @@
         "FFlagAssetProviderAssetCacheUseRBXStorageImpl2": "True",
         "FFlagTerrainOneTouch": "True",
         "FFlagEnableWindowsOnScreenKeyboardController1_IXP": "1;Portal.WindowsOnScreenKeyboard-1756316805;WindowsOnScreenKeyboard;718462679;flagbank",
-        "FStringFlagRepoGitHashFastString": "bbfeb2d24e7e820a32cf157b2b15098aeaa50481",
-        "DFStringFlagRepoGitHashDynamicString": "bbfeb2d24e7e820a32cf157b2b15098aeaa50481",
-        "FStringFlipTimeStampFastString": "2025-08-28T17:09:27.051Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T17:09:27.051Z"
+        "FStringFlagRepoGitHashFastString": "eaf8dd31f15c08b93980a3af3fa6861405ed3f12",
+        "DFStringFlagRepoGitHashDynamicString": "eaf8dd31f15c08b93980a3af3fa6861405ed3f12",
+        "FStringFlipTimeStampFastString": "2025-08-28T17:12:33.851Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T17:12:33.851Z"
     }
 }
