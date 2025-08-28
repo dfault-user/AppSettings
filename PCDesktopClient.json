@@ -11676,7 +11676,6 @@
         "DFFlagSimClosedVoxelFastSplit": "True",
         "FFlagNativeDialogManager": "True",
         "DFFlagCCSD9568": "True",
-        "FFlagFixFlipbookCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T16:05:47",
         "FFlagTranscoderVariableDimension_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T16:08:43",
         "FFlagLuaAppGamesPagePreloadingDisabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1919069057;2025-08-28T16:25:46",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -11690,6 +11689,7 @@
         "FFlagUGCValidateNoTagsInCurveAnimations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;324761023;2025-08-28T17:00:08",
         "FFlagUGCValidateIncorrectNumericalData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;891241817;2025-08-28T17:00:53",
         "FFlagAppNavNewRail": "True",
+        "FFlagFixFlipbookCheck": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
@@ -12161,6 +12161,7 @@
         "FFlagAXFixUnifiedWidgetAnalytics": "True",
         "FFlagLuaAppStopSpammingBacktraceExpCache_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;49357327;2025-08-28T16:20:49",
         "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:00:58",
+        "DFFlagCLI166009_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:06:32",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12614,9 +12615,9 @@
         "FFlagAssetProviderAssetCacheUseRBXStorageImpl2": "True",
         "FFlagTerrainOneTouch": "True",
         "FFlagEnableWindowsOnScreenKeyboardController1_IXP": "1;Portal.WindowsOnScreenKeyboard-1756316805;WindowsOnScreenKeyboard;718462679;flagbank",
-        "FStringFlagRepoGitHashFastString": "0e383f54514771a0d1289c0f2d7503fa2d409bfe",
-        "DFStringFlagRepoGitHashDynamicString": "0e383f54514771a0d1289c0f2d7503fa2d409bfe",
-        "FStringFlipTimeStampFastString": "2025-08-28T17:07:36.741Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T17:07:36.741Z"
+        "FStringFlagRepoGitHashFastString": "bbfeb2d24e7e820a32cf157b2b15098aeaa50481",
+        "DFStringFlagRepoGitHashDynamicString": "bbfeb2d24e7e820a32cf157b2b15098aeaa50481",
+        "FStringFlipTimeStampFastString": "2025-08-28T17:09:27.051Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T17:09:27.051Z"
     }
 }
