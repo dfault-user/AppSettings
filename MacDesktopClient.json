@@ -11465,7 +11465,7 @@
         "DFFlagReportAndroidOSVersion": "True",
         "DFFlagReportRuppMissingTlvTransportCore": "True",
         "DFFlagStyleRuleFixChangedOnDeserialize": "True",
-        "DFIntPathfindingMultipleNavMeshPreAgentBucketType": "2",
+        "DFIntPathfindingMultipleNavMeshPreAgentBucketType": "1",
         "FFlagVideoCaptureUseRbxStorageAndThumbnail4": "True",
         "DFFlagConfigServiceRemoveConflict": "True",
         "FFlagUseRuntimeMutexAppSecurityInstance": "True",
@@ -11721,7 +11721,6 @@
         "FFlagSecretsEditorImprovement": "True",
         "FFlagFixConsecutiveMultiTextEditEdgeCase": "True",
         "FFlagVoiceChatClientRebootOperationEnabled": "True",
-        "DFIntPathfindingMultipleNavMeshPreAgentBucketType_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T20:58:06",
         "FFlagLeaveSquadIfChatDisabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T21:00:26",
         "FFlagEnablePartyNudgeAfterJoin2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T21:01:42",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -12610,9 +12609,10 @@
         "DFFlagAeroReduceReducedMeshAllocations": "True",
         "FFlagExpChatUseAdorneeStoreV4_IXP": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV4-1756405212321;726159443;flagbank",
         "DFStringLoadTestName": "get_product_info_load_test_simple",
-        "FStringFlagRepoGitHashFastString": "ab8765a38a060d9b8669780625cdb7a6fa1f9139",
-        "DFStringFlagRepoGitHashDynamicString": "ab8765a38a060d9b8669780625cdb7a6fa1f9139",
-        "FStringFlipTimeStampFastString": "2025-08-28T22:01:41.072Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T22:01:41.072Z"
+        "FIntNativePurchaseRobuxPageWrapperStatThrottlingPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T22:00:19",
+        "FStringFlagRepoGitHashFastString": "74b38926c3db3e363617f57f12ef2f5720ebcff3",
+        "DFStringFlagRepoGitHashDynamicString": "74b38926c3db3e363617f57f12ef2f5720ebcff3",
+        "FStringFlipTimeStampFastString": "2025-08-28T22:02:18.750Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T22:02:18.750Z"
     }
 }
