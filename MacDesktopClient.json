@@ -11722,6 +11722,7 @@
         "FFlagVoiceChatClientRebootOperationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T19:48:25",
         "DFIntSQLiteLockedChkpointMaxReport": "2",
         "FFlagFixUnifiedForceFieldOutline2": "True",
+        "FFlagUseRuntimeMutexInsteadOfRbxMutexDataModel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T20:10:48",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12591,10 +12592,10 @@
         "FFlagLuaAppBootcampIntroUABOOTCAMP93": "True",
         "DFFlagAeroReduceReducedMeshAllocations": "True",
         "FFlagExpChatUseAdorneeStoreV4_IXP": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV4-1756405212321;726159443;flagbank",
-        "DFStringLoadTestName_Staged": "get_product_info_load_test_simple;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1731926092;2025-08-28T19:06:57",
-        "FStringFlagRepoGitHashFastString": "a52d5aaf5480679d85690befb9ddd9e38431dd10",
-        "DFStringFlagRepoGitHashDynamicString": "a52d5aaf5480679d85690befb9ddd9e38431dd10",
-        "FStringFlipTimeStampFastString": "2025-08-28T20:10:24.840Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T20:10:24.840Z"
+        "DFStringLoadTestName": "get_product_info_load_test_simple",
+        "FStringFlagRepoGitHashFastString": "02c64da2315604971696058e3d21d1010c7fd270",
+        "DFStringFlagRepoGitHashDynamicString": "02c64da2315604971696058e3d21d1010c7fd270",
+        "FStringFlipTimeStampFastString": "2025-08-28T20:15:14.236Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T20:15:14.236Z"
     }
 }
