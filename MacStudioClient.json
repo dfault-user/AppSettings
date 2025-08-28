@@ -11721,7 +11721,6 @@
         "FFlagSecretsEditorImprovement": "True",
         "FFlagFixConsecutiveMultiTextEditEdgeCase": "True",
         "FFlagVoiceChatClientRebootOperationEnabled": "True",
-        "FFlagHttpLockWakeWorkerThread2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1094644330;2025-08-28T20:53:01",
         "DFIntPathfindingMultipleNavMeshPreAgentBucketType_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T20:58:06",
         "FFlagLeaveSquadIfChatDisabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T21:00:26",
         "FFlagEnablePartyNudgeAfterJoin2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T21:01:42",
@@ -11735,6 +11734,7 @@
         "DFFlagRbxStorageCleanupBeforeCleanup": "True",
         "FFlagUseRuntimeMutexLibraryStateFacet_Staged": "True;SteadyState;10;30;Revert;2025-08-28T21:46:13",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagHttpLockWakeWorkerThread2": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13760,10 +13760,10 @@
         "DFFlagEnableScreenshotUploadOnce": "True",
         "DFFlagIgnoreParam": "True",
         "DFFlagScreenshotScreening": "True",
-        "FFlagEnableSocialCarouselForAllV4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T20:54:06",
         "FFlagSimAeroNewNewtonLogging": "True",
         "FFlagVoiceChatFixSeamlessVoiceIntegration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;468265856;2025-08-28T21:34:46",
         "DFFlagEnableFeatureTimeoutMigration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T21:40:31",
+        "FFlagEnableSocialCarouselForAllV4": "True",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -13799,9 +13799,9 @@
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
-        "FStringFlagRepoGitHashFastString": "acf127c1171d6737877098ab53841cab391b98bf",
-        "DFStringFlagRepoGitHashDynamicString": "acf127c1171d6737877098ab53841cab391b98bf",
-        "FStringFlipTimeStampFastString": "2025-08-28T21:56:45.382Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T21:56:45.382Z"
+        "FStringFlagRepoGitHashFastString": "9546ae046af25753de4904ef9d13a3ff196574a8",
+        "DFStringFlagRepoGitHashDynamicString": "9546ae046af25753de4904ef9d13a3ff196574a8",
+        "FStringFlipTimeStampFastString": "2025-08-28T21:58:01.196Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T21:58:01.196Z"
     }
 }
