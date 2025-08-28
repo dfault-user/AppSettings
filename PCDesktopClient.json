@@ -11680,8 +11680,6 @@
         "FFlagFixFlipbookCheck": "True",
         "FFlagTranscoderVariableDimension": "True",
         "FFlagUnivAppSkipLoadCoreScriptLoc2": "True",
-        "DFFlagUseFasterRayCast3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:36:41",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagRenderFixULGlassLQAlpha": "True",
         "FStringUGCValidateMaxAnimationMovement": "50",
         "FFlagAddRMTile": "True",
@@ -11716,6 +11714,11 @@
         "DFFlagSimEditablePermissionCheckHttpErrorLogging2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T18:36:05",
         "AllowVideoPreRoll": "True",
         "FFlagEnableDevicePreferenceTitleOverlap2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T18:38:30",
+        "FFlagVoiceChatEmptyMuteFeedIdsInSubOp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T18:39:03",
+        "FFlagVoiceChatEnableVoiceFailedUI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T18:39:40",
+        "DFFlagEnableBasePlayerGuiClassUsageTelemetry": "True",
+        "DFFlagUseFasterRayCast3": "True",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableWidgetSeeAllButtonUseBackButtonV1": "True",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12088,7 +12091,6 @@
         "DFFlagLimitGetFullNameParseDepth": "True",
         "FFlagExpChatTargetTextChannelNeverNone": "True",
         "FFlagExpChatUseUpdatedChannelBarVisible": "True",
-        "DFFlagEnableBasePlayerGuiClassUsageTelemetry": "True",
         "FFlagLuaAppUseGameTileImageHelpers": "True",
         "FFlagLuaAppUseRatingFormatHelper2": "True",
         "FFlagSwapAppGameTileAndSduiGameTileInRFY": "True",
@@ -12644,9 +12646,9 @@
         "FFlagTerrainOneTouch": "True",
         "FFlagEnableWindowsOnScreenKeyboardController1_IXP": "1;Portal.WindowsOnScreenKeyboard-1756316805;WindowsOnScreenKeyboard;718462679;flagbank",
         "FFlagExpChatUseAdorneeStoreV4_IXP": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV4-1756405212321;726159443;flagbank",
-        "FStringFlagRepoGitHashFastString": "a2e3523bbbec6aa32f7a9cb65c41c51746039e3b",
-        "DFStringFlagRepoGitHashDynamicString": "a2e3523bbbec6aa32f7a9cb65c41c51746039e3b",
-        "FStringFlipTimeStampFastString": "2025-08-28T18:41:36.297Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T18:41:36.297Z"
+        "FStringFlagRepoGitHashFastString": "f10e5e53e92957696f376c5eea79a4eace095be8",
+        "DFStringFlagRepoGitHashDynamicString": "f10e5e53e92957696f376c5eea79a4eace095be8",
+        "FStringFlipTimeStampFastString": "2025-08-28T18:43:39.393Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T18:43:39.393Z"
     }
 }
