@@ -11679,7 +11679,6 @@
         "FFlagAppNavNewRail": "True",
         "FFlagFixFlipbookCheck": "True",
         "FFlagTranscoderVariableDimension": "True",
-        "DFFlagRbxStorageReportDbFileSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:27:14",
         "FFlagUnivAppSkipLoadCoreScriptLoc2": "True",
         "AllowVideoPreRoll": "True",
         "DFFlagUseFasterRayCast3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:36:41",
@@ -11710,6 +11709,9 @@
         "DFFlagEnableCorescriptRetrieval2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T18:22:13",
         "DFFlagEnableCaptureUpload_PlaceFilter": "True;133158022557590;131039090936858;103445510946559;77362637584345;118171263682820;113264304314057;119524072047648;92758961278039",
         "DFFlagSendPidToCrashHandler_Staged": "True;SteadyState;10;30;Revert;2025-08-28T18:26:11",
+        "FFlagEnableRecommendationParameterCheck_PlaceFilter": "True;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;106376719367261;133917534752598;131039090936858;133158022557590;119524072047648;118171263682820;113264304314057;77362637584345;92758961278039",
+        "FFlagFoundationSliderDirectionalInputSupport2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T18:30:46",
+        "DFFlagRbxStorageReportDbFileSize": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12562,9 +12564,10 @@
         "FFlagLuaAppFixSLPFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1417094133;2025-08-28T18:03:29",
         "FFlagLuaAppJoinEventShortcutEdp2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;393810703;2025-08-28T18:15:59",
         "FFlagEnableCapturesGalleryRetrievalCoreScript_v3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T18:20:34",
-        "FStringFlagRepoGitHashFastString": "7d2e633ebf5d595ff365461841d81e96a1cf72b2",
-        "DFStringFlagRepoGitHashDynamicString": "7d2e633ebf5d595ff365461841d81e96a1cf72b2",
-        "FStringFlipTimeStampFastString": "2025-08-28T18:27:25.628Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T18:27:25.628Z"
+        "FFlagExpChatUseAdorneeStoreV4_IXP": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV4-1756405212321;726159443;flagbank",
+        "FStringFlagRepoGitHashFastString": "29739a8ca85f9303d68d3b27f92327df6e6329ba",
+        "DFStringFlagRepoGitHashDynamicString": "29739a8ca85f9303d68d3b27f92327df6e6329ba",
+        "FStringFlipTimeStampFastString": "2025-08-28T18:33:30.612Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T18:33:30.612Z"
     }
 }
