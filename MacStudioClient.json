@@ -11678,7 +11678,7 @@
         "DFFlagCCSD9568": "True",
         "FFlagTranscoderVariableDimension_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T16:08:43",
         "FFlagLuaAppGamesPagePreloadingDisabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1919069057;2025-08-28T16:25:46",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagEnableAdsMouseUnlock": "True",
         "FFlagEnableNSEEventReporter_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T16:30:13",
         "FFlagRenderFixULGlassLQAlpha_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T16:39:16",
         "FFlagAddRMTile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;170303693;2025-08-28T16:48:45",
@@ -11691,6 +11691,8 @@
         "FFlagAppNavNewRail": "True",
         "FFlagFixFlipbookCheck": "True",
         "FFlagRenderViewResetEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:06:46",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -13339,8 +13341,6 @@
         "FFlagLuauCodeGenDirectBtest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:02:06",
         "FFlagStudioChannelInAboutDialog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:01:11",
         "DFFlagEnableWebStreamClientInStudio2": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
-        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "DFFlagEnableFdTracking": "True",
@@ -13732,9 +13732,9 @@
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagLiveAnimationUpdateSupport": "True",
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
-        "FStringFlagRepoGitHashFastString": "8889a2fd5fd8de39ad0fba156afef7b39a7bd79c",
-        "DFStringFlagRepoGitHashDynamicString": "8889a2fd5fd8de39ad0fba156afef7b39a7bd79c",
-        "FStringFlipTimeStampFastString": "2025-08-28T17:09:43.318Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T17:09:43.318Z"
+        "FStringFlagRepoGitHashFastString": "8bc84b20163e2c5ac247a53fb3026e6cf024a2e4",
+        "DFStringFlagRepoGitHashDynamicString": "8bc84b20163e2c5ac247a53fb3026e6cf024a2e4",
+        "FStringFlipTimeStampFastString": "2025-08-28T17:11:53.371Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T17:11:53.371Z"
     }
 }
