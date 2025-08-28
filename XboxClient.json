@@ -11676,9 +11676,6 @@
         "DFFlagSimClosedVoxelFastSplit": "True",
         "FFlagNativeDialogManager": "True",
         "DFFlagCCSD9568": "True",
-        "FFlagUGCValidateDuplicatesInAnimation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1428165879;2025-08-28T16:58:22",
-        "FFlagUGCValidateLimitMaxTotalInstances_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;396497875;2025-08-28T16:59:21",
-        "FFlagUGCValidateNoTagsInCurveAnimations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;324761023;2025-08-28T17:00:08",
         "FFlagUGCValidateIncorrectNumericalData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;891241817;2025-08-28T17:00:53",
         "FFlagAppNavNewRail": "True",
         "FFlagFixFlipbookCheck": "True",
@@ -11696,6 +11693,11 @@
         "FFlagAddRMTile": "True",
         "DFFlagCaptureServiceFixHttpErrorHandling": "True",
         "FFlagForEachRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:56:51",
+        "FFlagUGCValidateDuplicatesInAnimation": "True",
+        "FFlagUGCValidateLimitMaxTotalInstances": "True",
+        "FFlagUGCValidateNoTagsInCurveAnimations": "True",
+        "FFlagIEAvatarAutoSetupRemoveInternalJobId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T18:00:38",
+        "FFlagEnableKnowledgeTutorials2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;683504133;2025-08-28T18:01:58",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12052,9 +12054,9 @@
         "DFFlagTeleportReconnect": "True",
         "FFlagReconnectToSameServer": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:00:58",
-        "FStringFlagRepoGitHashFastString": "816d5ed81689eb9ecf460f07baff2dfc17592520",
-        "DFStringFlagRepoGitHashDynamicString": "816d5ed81689eb9ecf460f07baff2dfc17592520",
-        "FStringFlipTimeStampFastString": "2025-08-28T18:01:44.250Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T18:01:44.250Z"
+        "FStringFlagRepoGitHashFastString": "3cfacf033bc9edf9fdfa1a2d16bd4f9a717cfbe4",
+        "DFStringFlagRepoGitHashDynamicString": "3cfacf033bc9edf9fdfa1a2d16bd4f9a717cfbe4",
+        "FStringFlipTimeStampFastString": "2025-08-28T18:03:43.694Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T18:03:43.694Z"
     }
 }
