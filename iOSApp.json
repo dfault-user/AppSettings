@@ -11729,6 +11729,7 @@
         "FFlagFixConsecutiveMultiTextEditEdgeCase": "True",
         "FFlagVoiceChatClientRebootOperationEnabled": "True",
         "FFlagHttpLockWakeWorkerThread2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1094644330;2025-08-28T20:53:01",
+        "DFIntPathfindingMultipleNavMeshPreAgentBucketType_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T20:58:06",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12579,9 +12580,10 @@
         "FFlagLuaAppChartsHandheldFixes": "True",
         "FFlagLuaAppFixSLPFocus": "True",
         "FFlagLuaAppJoinEventShortcutEdp2": "True",
-        "FStringFlagRepoGitHashFastString": "c81bb2b7fb58c09df0468e27de50d1bcd44d217b",
-        "DFStringFlagRepoGitHashDynamicString": "c81bb2b7fb58c09df0468e27de50d1bcd44d217b",
-        "FStringFlipTimeStampFastString": "2025-08-28T20:53:51.988Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T20:53:51.988Z"
+        "FFlagEnableSocialCarouselForAllV4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T20:54:06",
+        "FStringFlagRepoGitHashFastString": "39e74e8b1eeb0c9bb28bc4e7aae5e250a2306e6c",
+        "DFStringFlagRepoGitHashDynamicString": "39e74e8b1eeb0c9bb28bc4e7aae5e250a2306e6c",
+        "FStringFlipTimeStampFastString": "2025-08-28T20:59:55.776Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T20:59:55.776Z"
     }
 }

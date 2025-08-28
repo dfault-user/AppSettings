@@ -11729,6 +11729,7 @@
         "FFlagFixConsecutiveMultiTextEditEdgeCase": "True",
         "FFlagVoiceChatClientRebootOperationEnabled": "True",
         "FFlagHttpLockWakeWorkerThread2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1094644330;2025-08-28T20:53:01",
+        "DFIntPathfindingMultipleNavMeshPreAgentBucketType_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T20:58:06",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12665,9 +12666,10 @@
         "FFlagEnableWindowsOnScreenKeyboardController1_IXP": "1;Portal.WindowsOnScreenKeyboard-1756316805;WindowsOnScreenKeyboard;718462679;flagbank",
         "FFlagExpChatUseAdorneeStoreV4_IXP": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV4-1756405212321;726159443;flagbank",
         "DFStringLoadTestName": "get_product_info_load_test_simple",
-        "FStringFlagRepoGitHashFastString": "c81bb2b7fb58c09df0468e27de50d1bcd44d217b",
-        "DFStringFlagRepoGitHashDynamicString": "c81bb2b7fb58c09df0468e27de50d1bcd44d217b",
-        "FStringFlipTimeStampFastString": "2025-08-28T20:53:51.988Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T20:53:51.988Z"
+        "FFlagEnableSocialCarouselForAllV4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T20:54:06",
+        "FStringFlagRepoGitHashFastString": "39e74e8b1eeb0c9bb28bc4e7aae5e250a2306e6c",
+        "DFStringFlagRepoGitHashDynamicString": "39e74e8b1eeb0c9bb28bc4e7aae5e250a2306e6c",
+        "FStringFlipTimeStampFastString": "2025-08-28T20:59:55.776Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T20:59:55.776Z"
     }
 }
