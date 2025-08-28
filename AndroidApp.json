@@ -11714,8 +11714,6 @@
         "FFlagVoiceChatEnableVoiceFailedUI": "True",
         "FFlagDevHardwareVideoCaptureMaster3": "True",
         "DFFlagSimEditablePermissionCheckHttpErrorLogging2": "True",
-        "FFlagFixConsecutiveMultiTextEditEdgeCase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T19:45:40",
-        "FFlagVoiceChatClientRebootOperationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T19:48:25",
         "DFIntSQLiteLockedChkpointMaxReport": "2",
         "FFlagFixUnifiedForceFieldOutline2": "True",
         "FFlagUseRuntimeMutexInsteadOfRbxMutexDataModel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T20:10:48",
@@ -11728,6 +11726,9 @@
         "DFFlagSessionTrackingCrashHandlerStateHistory_Staged": "True;SteadyState;10;30;Revert;2025-08-28T20:44:05",
         "DFFlagRbxStorageCleanupBeforeCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T20:44:24",
         "FFlagSecretsEditorImprovement": "True",
+        "FFlagFixConsecutiveMultiTextEditEdgeCase": "True",
+        "FFlagVoiceChatClientRebootOperationEnabled": "True",
+        "FFlagHttpLockWakeWorkerThread2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1094644330;2025-08-28T20:53:01",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -12616,9 +12617,9 @@
         "FFlagReconnectToSameServer": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetry": "True",
         "FFlagGetSwapChainSizeSupportBiggerSize": "True",
-        "FStringFlagRepoGitHashFastString": "9363e91fbec607f00da7076201e963405714da4c",
-        "DFStringFlagRepoGitHashDynamicString": "9363e91fbec607f00da7076201e963405714da4c",
-        "FStringFlipTimeStampFastString": "2025-08-28T20:50:17.553Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T20:50:17.553Z"
+        "FStringFlagRepoGitHashFastString": "c81bb2b7fb58c09df0468e27de50d1bcd44d217b",
+        "DFStringFlagRepoGitHashDynamicString": "c81bb2b7fb58c09df0468e27de50d1bcd44d217b",
+        "FStringFlipTimeStampFastString": "2025-08-28T20:53:51.988Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T20:53:51.988Z"
     }
 }
