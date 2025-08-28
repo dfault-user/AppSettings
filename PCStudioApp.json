@@ -11693,6 +11693,8 @@
         "FFlagEnableAdsMouseUnlock": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagTranscoderVariableDimension": "True",
+        "FFlagUsePublicIngestUrlFunction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:12:27",
+        "FFlagWindowsClientCrashReporterStartEarly_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:14:29",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -13342,6 +13344,7 @@
         "FFlagStudioChannelInAboutDialog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:01:11",
         "DFFlagEnableWebStreamClientInStudio2": "True",
         "FStringPluginHangNativeDialogIxpLayer_Staged": "Studio.Scripting.PluginHang.CreatorId;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:10:13",
+        "FFlagPluginHangMonitorExperimentation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:13:07",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -13756,9 +13759,11 @@
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagLiveAnimationUpdateSupport": "True",
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
-        "FStringFlagRepoGitHashFastString": "eaf8dd31f15c08b93980a3af3fa6861405ed3f12",
-        "DFStringFlagRepoGitHashDynamicString": "eaf8dd31f15c08b93980a3af3fa6861405ed3f12",
-        "FStringFlipTimeStampFastString": "2025-08-28T17:12:33.851Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T17:12:33.851Z"
+        "FFlagPlayerEmulatorButtonAlwaysClickable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1556988684;2025-08-28T17:12:04",
+        "FFlagEmulatorButtonNewActionReg_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:13:17",
+        "FStringFlagRepoGitHashFastString": "3fbdc210a584e6827f371e2afab89600f693d99c",
+        "DFStringFlagRepoGitHashDynamicString": "3fbdc210a584e6827f371e2afab89600f693d99c",
+        "FStringFlipTimeStampFastString": "2025-08-28T17:15:25.429Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T17:15:25.429Z"
     }
 }
