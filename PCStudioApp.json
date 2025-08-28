@@ -11707,6 +11707,8 @@
         "FFlagWindowsClientCrashReporterStartEarly": "True",
         "FFlagUsePublicIngestUrlFunction": "True",
         "AllowVideoPreRoll": "True",
+        "DFFlagEnableCorescriptRetrieval2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T18:22:13",
+        "DFFlagEnableCaptureUpload_PlaceFilter": "True;133158022557590;131039090936858;103445510946559;77362637584345;118171263682820;113264304314057;119524072047648;92758961278039",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -13349,7 +13351,6 @@
         "DFFlagCheckedWaitForChild": "True",
         "FFlagLuauTypeFunNoScopeMapRef": "True",
         "DFFlagEnableWebStreamClientInStudio2": "True",
-        "FFlagStudioUseDisconnectionHandler2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:18:08",
         "FFlagSTUDIOPLAT39990_FlagEditorOverrideCancel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T17:37:54",
         "FFlagGltfExportBetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1741448311;2025-08-28T18:02:02",
         "FFlagLuauCodeGenDirectBtest": "True",
@@ -13358,6 +13359,7 @@
         "FStringPluginHangNativeDialogIxpLayer": "Studio.Scripting.PluginHang.CreatorId",
         "DFFlagStylingDeletedStyleSheetCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T18:14:14",
         "FFlagPluginHangMonitorExperimentation": "True",
+        "FFlagStudioUseDisconnectionHandler2": "True",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
@@ -13778,9 +13780,9 @@
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
-        "FStringFlagRepoGitHashFastString": "658731d8a39cb9ff9ec9e28f8c63429fad179785",
-        "DFStringFlagRepoGitHashDynamicString": "658731d8a39cb9ff9ec9e28f8c63429fad179785",
-        "FStringFlipTimeStampFastString": "2025-08-28T18:20:14.546Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T18:20:14.546Z"
+        "FStringFlagRepoGitHashFastString": "e267bd7e5c33b42ad3d2f9f89941b762224d261f",
+        "DFStringFlagRepoGitHashDynamicString": "e267bd7e5c33b42ad3d2f9f89941b762224d261f",
+        "FStringFlipTimeStampFastString": "2025-08-28T18:25:17.646Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T18:25:17.646Z"
     }
 }
