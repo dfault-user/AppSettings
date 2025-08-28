@@ -1051,7 +1051,7 @@
         "DFFlagReportNetworkFilterPlayerParentFilterException2": "True",
         "DFIntReportSyncWriteCachePhaseHundredthsPercentage": "0",
         "DFIntTeleportValidationErrorInfluxHundredthsPercentage_PlaceFilter": "10000;3457390032;3457448093;3457448851;3457450743;3457451234;3672148589;3868481088;3977717765;4643696705;4772999002;4814481449;4850170542;4961498342;4999652894;5111071793;5137901430;5313457830;5540847396;5828555934;6013613570;6373914573;6403132918;6668795671;6799068388;7358507741;7476018236;7601163515;9565953804",
-        "DFIntTeleportClientNetworkErrorInfluxHundredthsPercentage_PlaceFilter": "10000;83187482771397;108533757090220;123516946198836",
+        "DFIntTeleportClientNetworkErrorInfluxHundredthsPercentage_PlaceFilter": "100;83187482771397;108533757090220;123516946198836",
         "DFIntLogTeleportBlockedHundredthsPercentage": "500",
         "DFIntLogTeleportBlockedHundredthsPercentage_PlaceFilter": "10000;3457390032;3457448093;3457448851;3457450743;3457451234;3672148589;3868481088;3977717765;4643696705;4772999002;4814481449;4850170542;4961498342;4999652894;5111071793;5137901430;5313457830;5540847396;5828555934;6013613570;6373914573;6403132918;6668795671;6799068388;7358507741;7476018236;7601163515;9565953804",
         "DFIntLogTeleportOutOfRetryFailurePerTenThousand": "10000",
@@ -12168,6 +12168,7 @@
         "DFFlagDataStoreGetKeyVersionInfoRdbFlag_PlaceFilter": "True;16101250253;18412633979",
         "DFFlagDataStoreEnableRdbAshTraffic_PlaceFilter": "True;18412633979;16101250253",
         "DFStringDataStoreRdbShadowTrafficRolloutConfig_PlaceFilter": "5564402127:10000,6241394935:10000;16101250253;18412633979",
+        "DFFlagDataStoreEnableRdbShadowTraffic_PlaceFilter": "True;16101250253;18412633979",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12584,9 +12585,9 @@
         "DFFlagAeroReduceReducedMeshAllocations": "True",
         "FFlagExpChatUseAdorneeStoreV4_IXP": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV4-1756405212321;726159443;flagbank",
         "DFStringLoadTestName_Staged": "get_product_info_load_test_simple;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1731926092;2025-08-28T19:06:57",
-        "FStringFlagRepoGitHashFastString": "5a3f6fb8ad2477f2659f1a31a55f04ecf88130e4",
-        "DFStringFlagRepoGitHashDynamicString": "5a3f6fb8ad2477f2659f1a31a55f04ecf88130e4",
-        "FStringFlipTimeStampFastString": "2025-08-28T19:41:52.688Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T19:41:52.688Z"
+        "FStringFlagRepoGitHashFastString": "680389fec43fa87fa5cb44365d8fb55a9f56355f",
+        "DFStringFlagRepoGitHashDynamicString": "680389fec43fa87fa5cb44365d8fb55a9f56355f",
+        "FStringFlipTimeStampFastString": "2025-08-28T19:45:25.327Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T19:45:25.327Z"
     }
 }
