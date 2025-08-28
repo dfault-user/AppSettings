@@ -11568,8 +11568,6 @@
         "FFlagEnablePartyNudgeAfterJoin2": "True",
         "FFlagLeaveSquadIfChatDisabled": "True",
         "DFFlagTeleportReconnect": "True",
-        "AllowVideoPreRoll": "True",
-        "DFIntAdOpportunityEventThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T22:37:16",
         "FFlagEnableAdOpportunityTracker4_PlaceFilter": "True;130739873848552;129230994638464;98118902024430;95656979989750;91733245171139;90346996348563;73708914208963;71683821699644;70454767164205;72890674951157;77638307191108;82710350236919;85265340826775;92626170235541;104548429314536;121928784820997;132935874487897;4639625707;6856061811;17267897726;18161998932;116355587227251;124195929639441;78904674093211;82409742911040;84713361590575;110160996639128;6793972085;9865722832;17385597709;124502262701729",
         "DFFlagSessionTrackingCrashHandlerStateHistory": "True",
         "FFlagUIPageLayoutVirtualCursor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1634123145;2025-08-28T22:49:25",
@@ -11579,6 +11577,10 @@
         "DFFlagVideoConfigurableGopSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T23:25:45",
         "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T23:29:24",
         "FFlagUseRuntimeMutexLibraryStateFacet": "True",
+        "DFIntAdOpportunityEventThrottleHundrethsPercent": "10000",
+        "FFlagUseRbxstorageInGallery": "True",
+        "FFlagUseRuntimeMutexMemoryCategoriesFacet_Staged": "True;SteadyState;10;30;Revert;2025-08-28T23:43:24",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12209,7 +12211,6 @@
         "FFlagAXUnifiedLoggingClicks5": "True",
         "FFlagUseMediaPlayerInCarousel_v2": "True",
         "FFlagUseRbxStorageInCapturesCommon": "True",
-        "FFlagUseRbxstorageInGallery": "True",
         "DFFlagUseAssetProvider6": "True",
         "FFlagEnableSeamlessVoiceV2v2": "True",
         "FFlagSeamlessVoiceV2JoinVoiceToast": "True",
@@ -12430,9 +12431,9 @@
         "DFFlagMicroProfilerNetworkPlugin2": "True",
         "FFlagCapturesVideoDeleteAsync": "True",
         "FFlagUseNewPlayerList3_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerList;1311422581;flagbank",
-        "FStringFlagRepoGitHashFastString": "084e9dbbc0f92670ff408e4d2139e7a48c97271e",
-        "DFStringFlagRepoGitHashDynamicString": "084e9dbbc0f92670ff408e4d2139e7a48c97271e",
-        "FStringFlipTimeStampFastString": "2025-08-28T23:40:38.480Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T23:40:38.480Z"
+        "FStringFlagRepoGitHashFastString": "b561e1d715be0e3e37a458005a98976e4a02559c",
+        "DFStringFlagRepoGitHashDynamicString": "b561e1d715be0e3e37a458005a98976e4a02559c",
+        "FStringFlipTimeStampFastString": "2025-08-28T23:47:26.653Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T23:47:26.653Z"
     }
 }
