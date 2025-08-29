@@ -11581,8 +11581,6 @@
         "DFFlagVideoConfigurableGopSize": "True",
         "FFlagRenderClusterOctree": "True",
         "FFlagAudioPlayerVolumeFix2": "True",
-        "DFIntVoiceChatPeerConnectionFailedTelemetryThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T17:35:53",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagConsoleVoiceRegisterIxpEnabled": "True",
         "FFlagExpChatUnibarThumbstickNavigate": "True",
         "FFlagExpChatRemoveMessagesFromAppContainer_IXP": "1;ExperienceChat.Performance;FFlagExpChatRemoveMessagesFromAppContainer-1756488207734;878331096;flagbank",
@@ -11595,6 +11593,9 @@
         "FFlagLuauSolverAgnosticStringification_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:23:00",
         "DFFlagVoiceChatSendPeerConnectionFailedTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:35:11",
         "FFlagStreamingRetainSelectionIgnoreWorkspace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:38:01",
+        "DFFlagRefactorAvatarRulesUtil": "True",
+        "DFIntVoiceChatPeerConnectionFailedTelemetryThrottleHundredthsPercent": "10000",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -11989,7 +11990,6 @@
         "FFlagEnableCreatePartyInChatMoreMenuExperimentation2": "True",
         "DFFlagSimCSG4UseOperationGraphEvaluateNewAsync3": "False",
         "FFlagReadAppChatFetchingVariable": "True",
-        "DFFlagRefactorAvatarRulesUtil": "True",
         "FFlagCLI1533232": "True",
         "FFlagWHAM1890": "True",
         "FFlagAXCategoryUnifiedLogging": "True",
@@ -12051,6 +12051,7 @@
         "FFlagEndDragOnEnabledFalse": "True",
         "FFlagUIDragDetectorCancelDragOnMenuOpen": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;134284788;2025-08-29T18:12:53",
+        "FFlagRecordCevJoinAttemptIdInObserverSetup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:40:53",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12471,9 +12472,9 @@
         "FFlagNativePurchaseRobuxPageWrapperEnableTelemetry": "True",
         "FFlagLuaAppAgeRecommendationsMinimumAge2": "True",
         "FFlagLuaAppLogGameAttributionError_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1027376305;2025-08-29T18:35:26",
-        "FStringFlagRepoGitHashFastString": "1c12309c9d720a11dd38417d2d8c4abc5b85369e",
-        "DFStringFlagRepoGitHashDynamicString": "1c12309c9d720a11dd38417d2d8c4abc5b85369e",
-        "FStringFlipTimeStampFastString": "2025-08-29T18:40:17.262Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-29T18:40:17.262Z"
+        "FStringFlagRepoGitHashFastString": "7ea38bdbec7fb4374ec31da813f131faea2628f3",
+        "DFStringFlagRepoGitHashDynamicString": "7ea38bdbec7fb4374ec31da813f131faea2628f3",
+        "FStringFlipTimeStampFastString": "2025-08-29T18:42:47.938Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-29T18:42:47.938Z"
     }
 }
