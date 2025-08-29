@@ -11483,7 +11483,7 @@
         "FFlagCapturesPromptShareWithVideoEnabled": "True",
         "FFlagReportStaticFlagsVersionCounter": "True",
         "DFFlagReplaceStoXWithStrToX_AppBridge": "True",
-        "FFlagEnableBackgroundTask": "True",
+        "FFlagEnableBackgroundTask": "False",
         "FFlagOverrideKeyboardAndMouseAvailabilityFromDM": "True",
         "FFlagDisableReconnectsForRootedKicks": "True",
         "DFFlagEnableReportClickOutAdClickCTAEvent": "True",
@@ -11580,7 +11580,6 @@
         "DFFlagPlaceLauncherHttpResponseTelemetry": "True",
         "DFFlagVideoConfigurableGopSize": "True",
         "FFlagRenderClusterOctree": "True",
-        "FFlagEnableBackgroundTask_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T17:18:02",
         "FFlagAudioPlayerVolumeFix2": "True",
         "DFIntVoiceChatPeerConnectionFailedTelemetryThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T17:35:53",
         "DFFlagRefactorAvatarRulesUtil_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T17:37:19",
@@ -12463,9 +12462,9 @@
         "FFlagScreenshotsigning": "True",
         "DFFlagMicroProfilerNetworkPlugin2": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;134284788;2025-08-29T18:12:53",
-        "FStringFlagRepoGitHashFastString": "29566e8bc1b2b75573f6228003667b41f4bedffa",
-        "DFStringFlagRepoGitHashDynamicString": "29566e8bc1b2b75573f6228003667b41f4bedffa",
-        "FStringFlipTimeStampFastString": "2025-08-29T18:15:43.379Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-29T18:15:43.379Z"
+        "FStringFlagRepoGitHashFastString": "e99a886879e3b938c3260b83c22531da6c9590a0",
+        "DFStringFlagRepoGitHashDynamicString": "e99a886879e3b938c3260b83c22531da6c9590a0",
+        "FStringFlipTimeStampFastString": "2025-08-29T18:21:49.548Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-29T18:21:49.548Z"
     }
 }
