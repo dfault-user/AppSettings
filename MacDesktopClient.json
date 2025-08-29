@@ -11581,6 +11581,7 @@
         "FFlagUseRuntimeMutexMemoryCategoriesFacet_Staged": "True;SteadyState;10;30;Revert;2025-08-28T23:43:24",
         "DFFlagAllowDisablingSTFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T23:48:20",
         "FFlagUIPageLayoutVirtualCursor": "True",
+        "FFlagLuaAppGamesPagePreloadingDisabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1543647631;2025-08-28T23:56:44",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12456,12 +12457,12 @@
         "DFFlagAeroReduceReducedMeshAllocations": "True",
         "FFlagExpChatUseAdorneeStoreV4_IXP": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV4-1756405212321;726159443;flagbank",
         "DFStringLoadTestName": "get_product_info_load_test_simple",
-        "FFlagNativePurchaseRobuxPageWrapperEnableTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-28T22:51:15",
         "FIntNativePurchaseRobuxPageWrapperStatThrottlingPercentage": "100",
         "FFlagUseNewPlayerList3_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerList;1311422581;flagbank",
-        "FStringFlagRepoGitHashFastString": "3faf5ec3f28ac06dac590799825e3893807fdb5f",
-        "DFStringFlagRepoGitHashDynamicString": "3faf5ec3f28ac06dac590799825e3893807fdb5f",
-        "FStringFlipTimeStampFastString": "2025-08-28T23:56:17.324Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-28T23:56:17.324Z"
+        "FFlagNativePurchaseRobuxPageWrapperEnableTelemetry": "True",
+        "FStringFlagRepoGitHashFastString": "7bcb01f5c92c9d417636883425782e65e2bc12b9",
+        "DFStringFlagRepoGitHashDynamicString": "7bcb01f5c92c9d417636883425782e65e2bc12b9",
+        "FStringFlipTimeStampFastString": "2025-08-28T23:59:20.136Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-28T23:59:20.136Z"
     }
 }
