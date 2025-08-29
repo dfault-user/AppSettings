@@ -11579,12 +11579,13 @@
         "FFlagUIPageLayoutVirtualCursor": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetry": "True",
         "DFFlagVideoConfigurableGopSize": "True",
-        "AxisAdornmentGrabSize": "12",
         "FFlagAudioPlayerVolumeFix2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T16:27:59",
         "FFlagConsoleVoiceRegisterIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T16:39:30",
         "FFlagExpChatUnibarThumbstickNavigate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T16:40:02",
         "AllowVideoPreRoll": "True",
         "FFlagRenderClusterOctree": "True",
+        "FFlagExpChatRemoveMessagesFromAppContainer_IXP": "1;ExperienceChat.Performance;FFlagExpChatRemoveMessagesFromAppContainer;878331096;flagbank",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -12455,9 +12456,9 @@
         "FFlagScreenshotsigning": "True",
         "DFFlagMicroProfilerNetworkPlugin2": "True",
         "FFlagCorrectGuiStateMouseDown_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;28400385;2025-08-29T16:34:33",
-        "FStringFlagRepoGitHashFastString": "eb4887498f27265c515a68c0f2f5a478b69b84e8",
-        "DFStringFlagRepoGitHashDynamicString": "eb4887498f27265c515a68c0f2f5a478b69b84e8",
-        "FStringFlipTimeStampFastString": "2025-08-29T16:52:51.859Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-29T16:52:51.859Z"
+        "FStringFlagRepoGitHashFastString": "200d1d0796f01303d57010d5c10d2eedae28408f",
+        "DFStringFlagRepoGitHashDynamicString": "200d1d0796f01303d57010d5c10d2eedae28408f",
+        "FStringFlipTimeStampFastString": "2025-08-29T17:12:00.317Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-29T17:12:00.317Z"
     }
 }
