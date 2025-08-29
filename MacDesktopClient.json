@@ -11584,7 +11584,6 @@
         "FFlagConsoleVoiceRegisterIxpEnabled": "True",
         "FFlagExpChatUnibarThumbstickNavigate": "True",
         "FFlagExpChatRemoveMessagesFromAppContainer_IXP": "1;ExperienceChat.Performance;FFlagExpChatRemoveMessagesFromAppContainer-1756488207734;878331096;flagbank",
-        "DFFlagVoiceChatSendPeerConnectionFailedTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:35:11",
         "FFlagStreamingRetainSelectionIgnoreWorkspace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:38:01",
         "DFFlagRefactorAvatarRulesUtil": "True",
         "DFIntVoiceChatPeerConnectionFailedTelemetryThrottleHundredthsPercent": "10000",
@@ -11593,6 +11592,7 @@
         "FFlagLuauParseIncompleteInterpStringsWithLocation": "True",
         "FFlagLuauPopulateSelfTypesInFragment": "True",
         "FFlagLuauSolverAgnosticStringification": "True",
+        "DFFlagVoiceChatSendPeerConnectionFailedTelemetry": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12473,9 +12473,9 @@
         "FFlagNativePurchaseRobuxPageWrapperEnableTelemetry": "True",
         "FFlagLuaAppAgeRecommendationsMinimumAge2": "True",
         "FFlagLuaAppLogGameAttributionError_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1027376305;2025-08-29T18:35:26",
-        "FStringFlagRepoGitHashFastString": "4fd76952f76dfc1652c963dccd36136ab3cc0cda",
-        "DFStringFlagRepoGitHashDynamicString": "4fd76952f76dfc1652c963dccd36136ab3cc0cda",
-        "FStringFlipTimeStampFastString": "2025-08-29T19:27:05.318Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-29T19:27:05.318Z"
+        "FStringFlagRepoGitHashFastString": "d24af8cbc67cfede71227eb84210ceb5aed8e334",
+        "DFStringFlagRepoGitHashDynamicString": "d24af8cbc67cfede71227eb84210ceb5aed8e334",
+        "FStringFlipTimeStampFastString": "2025-08-29T19:38:27.696Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-29T19:38:27.696Z"
     }
 }

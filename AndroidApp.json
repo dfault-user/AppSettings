@@ -11584,7 +11584,6 @@
         "FFlagConsoleVoiceRegisterIxpEnabled": "True",
         "FFlagExpChatUnibarThumbstickNavigate": "True",
         "FFlagExpChatRemoveMessagesFromAppContainer_IXP": "1;ExperienceChat.Performance;FFlagExpChatRemoveMessagesFromAppContainer-1756488207734;878331096;flagbank",
-        "DFFlagVoiceChatSendPeerConnectionFailedTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:35:11",
         "FFlagStreamingRetainSelectionIgnoreWorkspace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:38:01",
         "DFFlagRefactorAvatarRulesUtil": "True",
         "DFIntVoiceChatPeerConnectionFailedTelemetryThrottleHundredthsPercent": "10000",
@@ -11593,6 +11592,7 @@
         "FFlagLuauParseIncompleteInterpStringsWithLocation": "True",
         "FFlagLuauPopulateSelfTypesInFragment": "True",
         "FFlagLuauSolverAgnosticStringification": "True",
+        "DFFlagVoiceChatSendPeerConnectionFailedTelemetry": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12464,9 +12464,9 @@
         "FFlagGetSwapChainSizeSupportBiggerSize": "True",
         "FFlagScreenshotsigning": "True",
         "DFFlagMicroProfilerNetworkPlugin2": "True",
-        "FStringFlagRepoGitHashFastString": "4361beca5b7dc019026899f5fead8a5735b3df58",
-        "DFStringFlagRepoGitHashDynamicString": "4361beca5b7dc019026899f5fead8a5735b3df58",
-        "FStringFlipTimeStampFastString": "2025-08-29T19:23:02.732Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-29T19:23:02.732Z"
+        "FStringFlagRepoGitHashFastString": "d24af8cbc67cfede71227eb84210ceb5aed8e334",
+        "DFStringFlagRepoGitHashDynamicString": "d24af8cbc67cfede71227eb84210ceb5aed8e334",
+        "FStringFlipTimeStampFastString": "2025-08-29T19:38:27.696Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-29T19:38:27.696Z"
     }
 }
