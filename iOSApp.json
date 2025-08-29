@@ -11586,13 +11586,13 @@
         "FFlagExpChatRemoveMessagesFromAppContainer_IXP": "1;ExperienceChat.Performance;FFlagExpChatRemoveMessagesFromAppContainer-1756488207734;878331096;flagbank",
         "DFFlagRefactorAvatarRulesUtil": "True",
         "DFIntVoiceChatPeerConnectionFailedTelemetryThrottleHundredthsPercent": "10000",
-        "DFFlagCLI148167_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:42:30",
         "FFlagLuauNewNonStrictReportsOneIndexedErrors": "True",
         "FFlagLuauParseIncompleteInterpStringsWithLocation": "True",
         "FFlagLuauPopulateSelfTypesInFragment": "True",
         "FFlagLuauSolverAgnosticStringification": "True",
         "DFFlagVoiceChatSendPeerConnectionFailedTelemetry": "True",
         "FFlagStreamingRetainSelectionIgnoreWorkspace": "True",
+        "DFFlagCLI148167": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12445,12 +12445,12 @@
         "FFlagCapturesVideoDeleteAsync": "True",
         "FFlagEnableRoactNetworkingForChallengeInteception": "True",
         "FFlagLuaAppAgeRecommendationsMinimumAge2": "True",
-        "FFlagRecordCevJoinAttemptIdInObserverSetup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:40:53",
         "FStringFStringTimeoutLoadingLocalPlayerInBackgroundDM_Staged": "EnableManualRetry;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:48:00",
         "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds_Staged": "15;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:59:37",
-        "FStringFlagRepoGitHashFastString": "9d86f63cd9e2233bb24a7f8cbdb66733a4af3316",
-        "DFStringFlagRepoGitHashDynamicString": "9d86f63cd9e2233bb24a7f8cbdb66733a4af3316",
-        "FStringFlipTimeStampFastString": "2025-08-29T19:42:04.790Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-29T19:42:04.790Z"
+        "FFlagRecordCevJoinAttemptIdInObserverSetup": "True",
+        "FStringFlagRepoGitHashFastString": "1b399602a9e6faadd8c194477c4ecbb49e1fd8fe",
+        "DFStringFlagRepoGitHashDynamicString": "1b399602a9e6faadd8c194477c4ecbb49e1fd8fe",
+        "FStringFlipTimeStampFastString": "2025-08-29T19:47:22.307Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-29T19:47:22.307Z"
     }
 }
