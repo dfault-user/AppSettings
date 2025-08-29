@@ -11584,7 +11584,6 @@
         "FFlagConsoleVoiceRegisterIxpEnabled": "True",
         "FFlagExpChatUnibarThumbstickNavigate": "True",
         "FFlagExpChatRemoveMessagesFromAppContainer_IXP": "1;ExperienceChat.Performance;FFlagExpChatRemoveMessagesFromAppContainer-1756488207734;878331096;flagbank",
-        "FFlagLuauSolverAgnosticStringification_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:23:00",
         "DFFlagVoiceChatSendPeerConnectionFailedTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:35:11",
         "FFlagStreamingRetainSelectionIgnoreWorkspace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:38:01",
         "DFFlagRefactorAvatarRulesUtil": "True",
@@ -11593,6 +11592,7 @@
         "FFlagLuauNewNonStrictReportsOneIndexedErrors": "True",
         "FFlagLuauParseIncompleteInterpStringsWithLocation": "True",
         "FFlagLuauPopulateSelfTypesInFragment": "True",
+        "FFlagLuauSolverAgnosticStringification": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11886,9 +11886,9 @@
         "DFFlagRobloxTelemetryRemoveEphemeralStatsDualReport": "True",
         "FFlagRbxLogRefactor": "True",
         "DFFlagMicroProfilerNetworkPlugin2": "True",
-        "FStringFlagRepoGitHashFastString": "4361beca5b7dc019026899f5fead8a5735b3df58",
-        "DFStringFlagRepoGitHashDynamicString": "4361beca5b7dc019026899f5fead8a5735b3df58",
-        "FStringFlipTimeStampFastString": "2025-08-29T19:23:02.732Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-29T19:23:02.732Z"
+        "FStringFlagRepoGitHashFastString": "4fd76952f76dfc1652c963dccd36136ab3cc0cda",
+        "DFStringFlagRepoGitHashDynamicString": "4fd76952f76dfc1652c963dccd36136ab3cc0cda",
+        "FStringFlipTimeStampFastString": "2025-08-29T19:27:05.318Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-29T19:27:05.318Z"
     }
 }
