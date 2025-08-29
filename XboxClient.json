@@ -11596,6 +11596,7 @@
         "DFFlagRefactorAvatarRulesUtil": "True",
         "DFIntVoiceChatPeerConnectionFailedTelemetryThrottleHundredthsPercent": "10000",
         "DFFlagCLI148167_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:42:30",
+        "FFlagNetworkSchemaVersionClientBit_Staged": "True;SteadyState;10;30;Revert;2025-08-29T18:46:32",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -11949,9 +11950,9 @@
         "DFFlagMicroProfilerNetworkPlugin2": "True",
         "FFlagNotificationsComplianceShouldRestrictStream": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;134284788;2025-08-29T18:12:53",
-        "FStringFlagRepoGitHashFastString": "598d49345337b533918af0114c58444e119fbdfc",
-        "DFStringFlagRepoGitHashDynamicString": "598d49345337b533918af0114c58444e119fbdfc",
-        "FStringFlipTimeStampFastString": "2025-08-29T18:47:26.581Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-29T18:47:26.581Z"
+        "FStringFlagRepoGitHashFastString": "dac8acf84042d00c6ab5e1a88ba21288308a15ae",
+        "DFStringFlagRepoGitHashDynamicString": "dac8acf84042d00c6ab5e1a88ba21288308a15ae",
+        "FStringFlipTimeStampFastString": "2025-08-29T18:49:29.924Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-29T18:49:29.924Z"
     }
 }
