@@ -11584,7 +11584,6 @@
         "FFlagConsoleVoiceRegisterIxpEnabled": "True",
         "FFlagExpChatUnibarThumbstickNavigate": "True",
         "FFlagExpChatRemoveMessagesFromAppContainer_IXP": "1;ExperienceChat.Performance;FFlagExpChatRemoveMessagesFromAppContainer-1756488207734;878331096;flagbank",
-        "FFlagStreamingRetainSelectionIgnoreWorkspace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:38:01",
         "DFFlagRefactorAvatarRulesUtil": "True",
         "DFIntVoiceChatPeerConnectionFailedTelemetryThrottleHundredthsPercent": "10000",
         "DFFlagCLI148167_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-08-29T18:42:30",
@@ -11593,6 +11592,7 @@
         "FFlagLuauPopulateSelfTypesInFragment": "True",
         "FFlagLuauSolverAgnosticStringification": "True",
         "DFFlagVoiceChatSendPeerConnectionFailedTelemetry": "True",
+        "FFlagStreamingRetainSelectionIgnoreWorkspace": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12514,7 +12514,7 @@
         "FFlagDisableVideoIneligiblePerformanceExposureLogging": "True",
         "FFlagMovePrerender": "False",
         "FFlagLuaAppSortDeeplinkFix": "True",
-        "FFlagLuaAppLogGameAttributionError": "True",
+        "FFlagLuaAppLogGameAttributionError": "False",
         "FIntLuaAppGameAttributionErrorEventThrottleHundrethsPercent": "10000",
         "DFFlagFixWebViewGrayBar": "True",
         "DFStringAllowedPublicFlags": "eyJTaWduYXR1cmUiOiJhNGIwNzc4ZmYxNzhjYTIxMzUyN2ZhMTEyMGMyYTY2ZTk4OWI4YjljMTRmMzc4ZTY3ZmE3NDc2Yzk0MTI5OWFiMjRiNmQ5NjE0NjA1YTY0OTg4NjE0M2QxZWU5NzJkN2JmMTA2NzgxNDE3YTk1YjQwZDZkYzlkODE3ZWYxYjkwNSIsIkFsbG93ZWQiOlsiREZGbGFnRGVidWdQYXVzZVZveGVsaXplciIsIkRGRmxhZ0RlYnVnUmVuZGVyRm9yY2VUZWNobm9sb2d5Vm94ZWwiLCJERkZsYWdEaXNhYmxlRFBJU2NhbGUiLCJERkZsYWdUZXh0dXJlUXVhbGl0eU92ZXJyaWRlRW5hYmxlZCIsIkRGSW50Q1NHTGV2ZWxPZkRldGFpbFN3aXRjaGluZ0Rpc3RhbmNlIiwiREZJbnRDU0dMZXZlbE9mRGV0YWlsU3dpdGNoaW5nRGlzdGFuY2VMMTIiLCJERkludENTR0xldmVsT2ZEZXRhaWxTd2l0Y2hpbmdEaXN0YW5jZUwyMyIsIkRGSW50Q1NHTGV2ZWxPZkRldGFpbFN3aXRjaGluZ0Rpc3RhbmNlTDM0IiwiREZJbnRDYW5IaWRlR3VpR3JvdXBJZCIsIkRGSW50RGVidWdGUk1RdWFsaXR5TGV2ZWxPdmVycmlkZSIsIkRGSW50VGFza1NjaGVkdWxlclRhcmdldEZwcyIsIkRGSW50VGV4dHVyZVF1YWxpdHlPdmVycmlkZSIsIkZGbGFnRGVidWdEaXNwbGF5RlBTIiwiRkZsYWdEZWJ1Z0ZvcmNlRnV0dXJlSXNCcmlnaHRQaGFzZTIiLCJGRmxhZ0RlYnVnR3JhcGhpY3NQcmVmZXJEM0QxMSIsIkZGbGFnRGVidWdHcmFwaGljc1ByZWZlckQzRDExRkwxMCIsIkZGbGFnRGVidWdHcmFwaGljc1ByZWZlck9wZW5HTCIsIkZGbGFnRGVidWdHcmFwaGljc1ByZWZlclZ1bGthbiIsIkZGbGFnRGVidWdTa3lHcmF5IiwiRkZsYWdEaXNhYmxlUG9zdEZ4IiwiRkZsYWdIYW5kbGVBbHRFbnRlckZ1bGxzY3JlZW5NYW51YWxseSIsIkZJbnREZWJ1Z0ZvcmNlTVNBQVNhbXBsZXMiLCJGSW50RlJNTWF4R3Jhc3NEaXN0YW5jZSIsIkZJbnRGUk1NaW5HcmFzc0Rpc3RhbmNlIiwiRkludEZvbnRTaXplUGFkZGluZyIsIkZJbnRGdWxsc2NyZWVuVGl0bGVCYXJUcmlnZ2VyRGVsYXlNaWxsaXMiLCJGSW50R3Jhc3NNb3ZlbWVudFJlZHVjZWRNb3Rpb25GYWN0b3IiLCJGSW50UmVuZGVyR3Jhc3NEZXRhaWxTdHJhbmRzIiwiRkludFJlbmRlclNoYWRvd0ludGVuc2l0eSIsIkZJbnRUZXJyYWluQXJyYXlTbGljZVNpemUiLCJGTG9nTmV0d29yayJdfQ==",
@@ -12536,10 +12536,9 @@
         "FIntNativePurchaseRobuxPageWrapperStatThrottlingPercentage": "100",
         "FFlagNativePurchaseRobuxPageWrapperEnableTelemetry": "True",
         "FFlagLuaAppAgeRecommendationsMinimumAge2": "True",
-        "FFlagLuaAppLogGameAttributionError_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1027376305;2025-08-29T18:35:26",
-        "FStringFlagRepoGitHashFastString": "d24af8cbc67cfede71227eb84210ceb5aed8e334",
-        "DFStringFlagRepoGitHashDynamicString": "d24af8cbc67cfede71227eb84210ceb5aed8e334",
-        "FStringFlipTimeStampFastString": "2025-08-29T19:38:27.696Z",
-        "DFStringFlipTimeStampDynamicString": "2025-08-29T19:38:27.696Z"
+        "FStringFlagRepoGitHashFastString": "9d86f63cd9e2233bb24a7f8cbdb66733a4af3316",
+        "DFStringFlagRepoGitHashDynamicString": "9d86f63cd9e2233bb24a7f8cbdb66733a4af3316",
+        "FStringFlipTimeStampFastString": "2025-08-29T19:42:04.790Z",
+        "DFStringFlipTimeStampDynamicString": "2025-08-29T19:42:04.790Z"
     }
 }
