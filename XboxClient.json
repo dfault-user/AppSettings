@@ -1556,7 +1556,7 @@
         "FIntCoordinatorPlannerStepsPerIteration": "6",
         "FIntPerformanceControlDualSurfaceExpectedMemorySavingsKB": "150000",
         "FFlagRemoveRbxCrashForMissingGlyphRenderer": "True",
-        "FIntSelfViewProfileDiscoverabilityUpsellRolloutEnabled": "100",
+        "FIntSelfViewProfileDiscoverabilityUpsellRolloutEnabled": "0",
         "DFIntQoSErrorPerMyriad": "10000",
         "FStringDiscoverabilityUpsellNonPrefillDiscoverableUserIdsWhitelist": "4550203835,4550206534,4550228121,4550230306,4550232514,4550234780,4550237509,4550240048,4550242395,4550244710,4550246517,4550248441,4550253019,4550255240,4550257809,4550260686,4560261567,4560263974",
         "FFlagCOLLAB3465DeprecatedDisconnectDialogTelemetry": "True",
@@ -11600,7 +11600,6 @@
         "FFlagAcousticSimulationRemoveBloomFilter": "True",
         "FFlagMoveAttachmentAncestryEvents": "True",
         "FFlagEnableReactSessionMetrics2": "True",
-        "FIntSelfViewProfileDiscoverabilityUpsellRolloutEnabled_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T17:58:04",
         "FFlagCheckNSStringUTF8StringNull": "True",
         "FIntReactSessionSummaryEventThrottleHunderedthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;433553848;2025-09-02T18:11:09",
         "FFlagApolloUseDeviceNameOverride_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T18:13:36",
@@ -11614,6 +11613,7 @@
         "FFlagDontLayoutInvisibleGuiObjects2_PlaceFilter": "True;96309513808458;93694807637613",
         "FFlagRemoveDeadTweens": "True",
         "FFlagAXItemDetailsIxpExposure2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T18:55:39",
+        "FFlagRobloxTelemetryPreventEmptyString_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T19:00:11",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11969,9 +11969,9 @@
         "DFFlagMicroProfilerNetworkPlugin2": "True",
         "FFlagNotificationsComplianceShouldRestrictStream": "True",
         "FFlagGraphicsTextureCopy": "True",
-        "FStringFlagRepoGitHashFastString": "206ca3c7a4c2706cefbb4eec9f788de59b00d648",
-        "DFStringFlagRepoGitHashDynamicString": "206ca3c7a4c2706cefbb4eec9f788de59b00d648",
-        "FStringFlipTimeStampFastString": "2025-09-02T19:01:25.508Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-02T19:01:25.508Z"
+        "FStringFlagRepoGitHashFastString": "c58b467d7097ac3e85ffd2e7d8e4a38f2f3dac14",
+        "DFStringFlagRepoGitHashDynamicString": "c58b467d7097ac3e85ffd2e7d8e4a38f2f3dac14",
+        "FStringFlipTimeStampFastString": "2025-09-02T19:02:55.284Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-02T19:02:55.284Z"
     }
 }
