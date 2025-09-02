@@ -11593,9 +11593,6 @@
         "DFFlagVoiceChatSendPeerConnectionFailedTelemetry": "True",
         "FFlagStreamingRetainSelectionIgnoreWorkspace": "True",
         "DFFlagCLI148167": "True",
-        "FFlagAcousticSimulationRemoveBloomFilter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T16:42:18",
-        "FFlagMoveAttachmentAncestryEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T16:42:36",
-        "FFlagEnableReactSessionMetrics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1337448624;2025-09-02T16:43:46",
         "DFIntAssetModerationtatusPollingPeriodInSeconds_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;887540857;2025-09-02T16:54:41",
         "FFlagCheckNSStringUTF8StringNull_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T16:55:27",
         "FFlagGraphicsGLDoNotAllowGLES2": "True",
@@ -11607,6 +11604,9 @@
         "FIntFCSkeletonIgnoreUnusedPartsMode3_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T17:32:52",
         "FFlagRenderVFXMoveBoundingBoxUpdates": "True",
         "FFlagSocialTabBarSwitchNavUseContext2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T17:43:18",
+        "FFlagAcousticSimulationRemoveBloomFilter": "True",
+        "FFlagMoveAttachmentAncestryEvents": "True",
+        "FFlagEnableReactSessionMetrics2": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11905,9 +11905,9 @@
         "FFlagRemoveProfileModuleImports_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1786773155;2025-09-02T17:33:18",
         "FFlagProfilePlatformAddNewToast_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2068362394;2025-09-02T17:33:51",
         "FFlagEditDisplayNameModalUseOldToast_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;184523625;2025-09-02T17:34:16",
-        "FStringFlagRepoGitHashFastString": "0b3ee0fdce27e57aa103682179a07dcb71f430cc",
-        "DFStringFlagRepoGitHashDynamicString": "0b3ee0fdce27e57aa103682179a07dcb71f430cc",
-        "FStringFlipTimeStampFastString": "2025-09-02T17:44:36.001Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-02T17:44:36.001Z"
+        "FStringFlagRepoGitHashFastString": "7c6608316efbcb4c21a39c2c8dff64c3d8d4a014",
+        "DFStringFlagRepoGitHashDynamicString": "7c6608316efbcb4c21a39c2c8dff64c3d8d4a014",
+        "FStringFlipTimeStampFastString": "2025-09-02T17:48:00.832Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-02T17:48:00.832Z"
     }
 }
