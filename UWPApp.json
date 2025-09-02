@@ -11597,7 +11597,6 @@
         "DFFlagTextChatTelemetryVolumeCommandsTriggered2": "True",
         "DFFlagAddSupportedVectorInstructionsSessionTracking": "True",
         "FFlagVideoCaptureStopOnAppHide2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T17:31:49",
-        "FIntFCSkeletonIgnoreUnusedPartsMode3_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T17:32:52",
         "FFlagRenderVFXMoveBoundingBoxUpdates": "True",
         "FFlagSocialTabBarSwitchNavUseContext2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T17:43:18",
         "FFlagAcousticSimulationRemoveBloomFilter": "True",
@@ -11611,6 +11610,8 @@
         "FFlagSolverV2UseExtentsInsteadOfSpatialFlag3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T18:19:46",
         "FFlagUseNewThumbnailingEnvironment3": "True",
         "FFlagNetworkSchemaVersionClientBit": "True",
+        "FFlagAttachmentsButDetached2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T18:34:59",
+        "FIntFCSkeletonIgnoreUnusedPartsMode3": "3",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11909,9 +11910,10 @@
         "FFlagRemoveProfileModuleImports_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1786773155;2025-09-02T17:33:18",
         "FFlagProfilePlatformAddNewToast_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2068362394;2025-09-02T17:33:51",
         "FFlagEditDisplayNameModalUseOldToast_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;184523625;2025-09-02T17:34:16",
-        "FStringFlagRepoGitHashFastString": "b8aba899cd1f832ed9a037288f81af32ec6866f7",
-        "DFStringFlagRepoGitHashDynamicString": "b8aba899cd1f832ed9a037288f81af32ec6866f7",
-        "FStringFlipTimeStampFastString": "2025-09-02T18:33:45.169Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-02T18:33:45.169Z"
+        "FFlagEditDisplayNameModalUseOldToast": "True",
+        "FStringFlagRepoGitHashFastString": "6d6153cd1fc01217e0720f483446741a66556561",
+        "DFStringFlagRepoGitHashDynamicString": "6d6153cd1fc01217e0720f483446741a66556561",
+        "FStringFlipTimeStampFastString": "2025-09-02T18:37:20.502Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-02T18:37:20.502Z"
     }
 }
