@@ -11593,7 +11593,6 @@
         "DFFlagVoiceChatSendPeerConnectionFailedTelemetry": "True",
         "FFlagStreamingRetainSelectionIgnoreWorkspace": "True",
         "DFFlagCLI148167": "True",
-        "FFlagRenderVFXMoveBoundingBoxUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T16:38:12",
         "FFlagAcousticSimulationRemoveBloomFilter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T16:42:18",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagEnableReactSessionMetrics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1337448624;2025-09-02T16:43:46",
@@ -11606,6 +11605,7 @@
         "FFlagNetworkSchemaVersionClientBit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T17:23:47",
         "FFlagVideoCaptureStopOnAppHide2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T17:31:49",
         "FIntFCSkeletonIgnoreUnusedPartsMode3_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T17:32:52",
+        "FFlagRenderVFXMoveBoundingBoxUpdates": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13226,7 +13226,7 @@
         "FFlagUGCValidateRestrictAnimationMovementCurvesFix": "True",
         "DFFlagStylingDeletedStyleSheetCrash": "True",
         "DFFlagDataStoreGetKeyVersionInfoRdbFlag_PlaceFilter": "True;16101250253;18412633979;16146832113",
-        "DFFlagDataStoreEnableRdbAshTraffic_PlaceFilter": "True;18412633979;16101250253",
+        "DFFlagDataStoreEnableRdbAshTraffic_PlaceFilter": "True;18412633979;16101250253;16146832113",
         "FFlagStudioPluginTimeoutExemptions": "False",
         "FFlagStudioTimeoutBuiltInPlugins": "False",
         "FFlagStudioTimeoutUserPlugins": "False",
@@ -13656,9 +13656,9 @@
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
-        "FStringFlagRepoGitHashFastString": "e63054711a27f54a2e1b18c9cf8153be7aab1b97",
-        "DFStringFlagRepoGitHashDynamicString": "e63054711a27f54a2e1b18c9cf8153be7aab1b97",
-        "FStringFlipTimeStampFastString": "2025-09-02T17:40:47.843Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-02T17:40:47.843Z"
+        "FStringFlagRepoGitHashFastString": "40427155873c57a929a6de5be2d0b73caaefc4ea",
+        "DFStringFlagRepoGitHashDynamicString": "40427155873c57a929a6de5be2d0b73caaefc4ea",
+        "FStringFlipTimeStampFastString": "2025-09-02T17:43:07.462Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-02T17:43:07.462Z"
     }
 }
