@@ -12477,17 +12477,17 @@
         "FFlagRemoveAppPageProfilePeekView": "True",
         "FFlagRemoveProfileIXPTest": "True",
         "FFlagRemoveProfileModuleImports": "True",
-        "FFlagLuaAppMitigatePopoverPressedOutsideBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T18:55:02",
-        "FFlagLuaAppSupportNewDefaultDialogBehavior_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T18:55:17",
         "FFlagFixCheckboxFeedbackFormModalTermsOfUseWebView_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T18:57:06",
         "FFlagFixProvideFeedbackToastPositioning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T18:57:36",
         "FFlagExplicitFeedbackAddNetworkingErrorToast_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T18:58:11",
         "FFlagFeedbackFormDynamicAbuseReporting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T18:58:59",
         "FIntNativePurchaseRobuxPageWrapperStatThrottlingPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;657385794;2025-09-02T19:36:13",
         "FFlagNativePurchaseRobuxPageWrapperEnableTelemetry_Staged": "True;SteadyState;10;30;Revert;true;1533499394;2025-09-02T19:39:55",
-        "FStringFlagRepoGitHashFastString": "2e09bc108c3dd535456b02a29ea0f5d8859e6ad9",
-        "DFStringFlagRepoGitHashDynamicString": "2e09bc108c3dd535456b02a29ea0f5d8859e6ad9",
-        "FStringFlipTimeStampFastString": "2025-09-02T19:53:06.548Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-02T19:53:06.548Z"
+        "FFlagLuaAppMitigatePopoverPressedOutsideBug": "True",
+        "FFlagLuaAppSupportNewDefaultDialogBehavior": "True",
+        "FStringFlagRepoGitHashFastString": "3387b4dfdc0075058ab870f436f7dcdaf087cbdd",
+        "DFStringFlagRepoGitHashDynamicString": "3387b4dfdc0075058ab870f436f7dcdaf087cbdd",
+        "FStringFlipTimeStampFastString": "2025-09-02T20:01:45.835Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-02T20:01:45.835Z"
     }
 }
