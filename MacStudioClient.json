@@ -11604,6 +11604,7 @@
         "DFFlagAddSupportedVectorInstructionsSessionTracking": "True",
         "FFlagUseNewThumbnailingEnvironment3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T17:21:47",
         "FFlagNetworkSchemaVersionClientBit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T17:23:47",
+        "FFlagVideoCaptureStopOnAppHide2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T17:31:49",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13614,6 +13615,8 @@
         "FStringFStringTimeoutLoadingLocalPlayerInBackgroundDM": "EnableManualRetry",
         "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds": "15",
         "FFlagGraphicsTextureCopy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T16:45:42",
+        "FFlagRemoveProfileIXPTest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;797932940;2025-09-02T17:32:06",
+        "FFlagRemoveAppPageProfilePeekView_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;520758237;2025-09-02T17:32:45",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -13649,9 +13652,9 @@
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
-        "FStringFlagRepoGitHashFastString": "39c83992e1d7529eb7d09379b708ee0eb57c136f",
-        "DFStringFlagRepoGitHashDynamicString": "39c83992e1d7529eb7d09379b708ee0eb57c136f",
-        "FStringFlipTimeStampFastString": "2025-09-02T17:30:02.625Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-02T17:30:02.625Z"
+        "FStringFlagRepoGitHashFastString": "89f8cb5aee2e373a18c674ef200e6ee5132a417e",
+        "DFStringFlagRepoGitHashDynamicString": "89f8cb5aee2e373a18c674ef200e6ee5132a417e",
+        "FStringFlipTimeStampFastString": "2025-09-02T17:35:32.089Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-02T17:35:32.089Z"
     }
 }
