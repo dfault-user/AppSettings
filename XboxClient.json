@@ -11599,6 +11599,9 @@
         "DFFlagAddSupportedVectorInstructionsSessionTracking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T16:13:25",
         "DFIntCaptureVideoBitsPerPixelTimesThousand_Staged": "76;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T16:14:14",
         "FFlagRenderVFXMoveBoundingBoxUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T16:38:12",
+        "FFlagAcousticSimulationRemoveBloomFilter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T16:42:18",
+        "FFlagMoveAttachmentAncestryEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T16:42:36",
+        "FFlagEnableReactSessionMetrics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1337448624;2025-09-02T16:43:46",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11954,9 +11957,9 @@
         "DFFlagMicroProfilerNetworkPlugin2": "True",
         "FFlagNotificationsComplianceShouldRestrictStream": "True",
         "FFlagDebugDisableCodegen_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-02T16:40:13",
-        "FStringFlagRepoGitHashFastString": "b6c4d220623755d25e9c809c898564718a71eb81",
-        "DFStringFlagRepoGitHashDynamicString": "b6c4d220623755d25e9c809c898564718a71eb81",
-        "FStringFlipTimeStampFastString": "2025-09-02T16:42:02.575Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-02T16:42:02.575Z"
+        "FStringFlagRepoGitHashFastString": "191375a3af20d9bf41e6a40900cb50a61d4f3705",
+        "DFStringFlagRepoGitHashDynamicString": "191375a3af20d9bf41e6a40900cb50a61d4f3705",
+        "FStringFlipTimeStampFastString": "2025-09-02T16:44:47.027Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-02T16:44:47.027Z"
     }
 }
