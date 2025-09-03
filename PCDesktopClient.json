@@ -11626,7 +11626,6 @@
         "FFlagSafetyRCCTelemetrySafer": "True",
         "FFlagUseRuntimeMutexNetworkSecurityChannel": "True",
         "FFlagFixCarouselTileSizeScaling": "True",
-        "FFlagFixAutoSyncContacts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T17:52:31",
         "FFlagFixHasDecalsForEditableImage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;879404864;2025-09-03T17:58:03",
         "FFlagEnableLuaAppSessionWithError2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T17:58:37",
         "FFlagProfilePlatformStoresLimitOnFrontend_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T17:59:26",
@@ -11644,6 +11643,7 @@
         "FFlagUndoRedoTextBox": "True",
         "FFlagAssetProviderFixMissingStats": "True",
         "DFFlagRenderEmitterOcclusionCulling": "True",
+        "FFlagFixAutoSyncContacts": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12597,9 +12597,9 @@
         "FFlagNativePurchaseRobuxPageWrapperEnableTelemetry": "True",
         "FFlagLuaAppAgeRecommendationsMinimumAge2": "True",
         "FFlagTrackBtidSessionChange3": "True",
-        "FStringFlagRepoGitHashFastString": "ea8c7a2983aeff8813972ef6ec955fbf5d6c2f4c",
-        "DFStringFlagRepoGitHashDynamicString": "ea8c7a2983aeff8813972ef6ec955fbf5d6c2f4c",
-        "FStringFlipTimeStampFastString": "2025-09-03T18:52:12.084Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-03T18:52:12.084Z"
+        "FStringFlagRepoGitHashFastString": "dbf64e0db327a9c677a59b89aff345d7548c8a0e",
+        "DFStringFlagRepoGitHashDynamicString": "dbf64e0db327a9c677a59b89aff345d7548c8a0e",
+        "FStringFlipTimeStampFastString": "2025-09-03T18:57:19.252Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-03T18:57:19.252Z"
     }
 }
