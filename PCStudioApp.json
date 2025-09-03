@@ -11625,8 +11625,6 @@
         "FFlagVisualizationModesAddContextStack": "True",
         "FFlagSafetyRCCTelemetrySafer": "True",
         "FFlagUseRuntimeMutexNetworkSecurityChannel": "True",
-        "DFFlagRenderEmitterOcclusionCulling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T17:49:50",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagFixCarouselTileSizeScaling": "True",
         "FFlagFixAutoSyncContacts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T17:52:31",
         "FFlagFixHasDecalsForEditableImage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;879404864;2025-09-03T17:58:03",
@@ -11644,6 +11642,8 @@
         "FFlagRemoveProfileIXPTest": "True",
         "FFlagRemoveProfileModuleImports": "True",
         "FFlagUndoRedoTextBox": "True",
+        "FFlagAssetProviderFixMissingStats": "True",
+        "DFFlagRenderEmitterOcclusionCulling": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13288,6 +13288,7 @@
         "FFlagAvatarSettingsAddTelemetry": "True",
         "FFlagStudioTeamTestAction2": "True",
         "FFlagStudioTeamTestAction2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1519163727;2025-09-03T18:08:40",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13614,7 +13615,6 @@
         "DFFlagProductInfoBatchingResponseValidationAnalyticsEnabled2": "True",
         "FFlagExperienceStateCaptureSelectionBugFix": "True",
         "FFlagAXFixAvatarsTabPurchaseLogging": "True",
-        "FFlagAssetProviderFixMissingStats": "True",
         "FFlagFixUnifiedForceFieldOutline": "False",
         "FFlagCoreScriptsMigrateFromLegacyCSVLoc3": "False",
         "FFlagUnivAppSkipLoadCoreScriptLoc": "False",
@@ -13727,9 +13727,9 @@
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
-        "FStringFlagRepoGitHashFastString": "981b6d01fa9af45e9b1849a77c325cfb05ff7c46",
-        "DFStringFlagRepoGitHashDynamicString": "981b6d01fa9af45e9b1849a77c325cfb05ff7c46",
-        "FStringFlipTimeStampFastString": "2025-09-03T18:43:54.254Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-03T18:43:54.254Z"
+        "FStringFlagRepoGitHashFastString": "ea8c7a2983aeff8813972ef6ec955fbf5d6c2f4c",
+        "DFStringFlagRepoGitHashDynamicString": "ea8c7a2983aeff8813972ef6ec955fbf5d6c2f4c",
+        "FStringFlipTimeStampFastString": "2025-09-03T18:52:12.084Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-03T18:52:12.084Z"
     }
 }
