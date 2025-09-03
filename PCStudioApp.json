@@ -11660,7 +11660,7 @@
         "FFlagSwapAppGameTileAndSduiGameTileInRFY": "True",
         "FFlagAvatarChatDelayModelDelivery": "True",
         "FFlagUseRuntimeMutexRequestDataInQueue": "True",
-        "FFlagUseRuntimeMutexRvHttpClient_Staged": "True;SteadyState;10;30;Revert;2025-09-03T22:30:38",
+        "FFlagUseRuntimeMutexRvHttpClient_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T23:02:36",
         "FFlagEnableSignupCheckboxExperiment": "True",
         "FFlagEnableWindowsOnScreenKeyboardController1": "True",
         "FIntOnScreenKeyboardPaddingInPixels": "20",
@@ -13758,9 +13758,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T22:49:56",
-        "FStringFlagRepoGitHashFastString": "e0d17765809a645992adde343969bbfb64a95b34",
-        "DFStringFlagRepoGitHashDynamicString": "e0d17765809a645992adde343969bbfb64a95b34",
-        "FStringFlipTimeStampFastString": "2025-09-03T23:03:37.703Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-03T23:03:37.703Z"
+        "FStringFlagRepoGitHashFastString": "2529c48369a654e16f887975b558824afc77a623",
+        "DFStringFlagRepoGitHashDynamicString": "2529c48369a654e16f887975b558824afc77a623",
+        "FStringFlipTimeStampFastString": "2025-09-03T23:05:12.664Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-03T23:05:12.664Z"
     }
 }
