@@ -11644,7 +11644,6 @@
         "FFlagInGameAssetReportUKOSA": "True",
         "FFlagUKOSAUpdatedCopy": "True",
         "FFlagExpChatGuacChatDisabledReason_PlaceFilter": "True;9709838535;18111211747;18137291076;72888887992401;116123087468287",
-        "DFFlagFixPartParentedToCharacterModel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T20:24:58",
         "DFFlagVoiceFixBracesInBraces2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T20:35:19",
         "AxisAdornmentGrabSize": "12",
         "AllowVideoPreRoll": "True",
@@ -11660,6 +11659,7 @@
         "FFlagAXMarketplaceBackButtonV2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.BackButtonToX;1543005829;dev_controlled",
         "FFlagAXMarketplaceBackButtonV2LogExposure_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.BackButtonToX;1543005829;dev_controlled",
         "FFlagUseRuntimeMutexRequestDataInQueue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:14:13",
+        "DFFlagFixPartParentedToCharacterModel": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
         "DFFlagLockViolationInstanceCrash": "False",
@@ -12518,12 +12518,12 @@
         "FFlagSimGeometrySamplingReduceHeapAllocations": "True",
         "FFlagAddSearchSourceTC": "True",
         "FFlagTCBanner18PlusText": "True",
-        "FFlagEnableSocialProofUserList_4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T20:21:03",
         "FFlagEnableDisplaySizeiOS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T20:54:14",
         "FFlagEnableUserListModule_2": "True",
-        "FStringFlagRepoGitHashFastString": "63afde69258965562b1658a186cbecebbf3cf138",
-        "DFStringFlagRepoGitHashDynamicString": "63afde69258965562b1658a186cbecebbf3cf138",
-        "FStringFlipTimeStampFastString": "2025-09-03T21:25:59.969Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-03T21:25:59.969Z"
+        "FFlagEnableSocialProofUserList_4": "True",
+        "FStringFlagRepoGitHashFastString": "77804e5be334be2e3df55379ffa1de808c537e19",
+        "DFStringFlagRepoGitHashDynamicString": "77804e5be334be2e3df55379ffa1de808c537e19",
+        "FStringFlipTimeStampFastString": "2025-09-03T21:29:18.408Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-03T21:29:18.408Z"
     }
 }
