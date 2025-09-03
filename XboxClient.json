@@ -11653,7 +11653,6 @@
         "DFFlagVoiceFixBracesInBraces2": "True",
         "FFlagEnableCapturesGalleryRetrievalCoreScript_v3": "True",
         "FFlagCapturesVideoDeleteAsync": "True",
-        "FFlagEnableWindowsOnScreenKeyboardController1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:43:52",
         "FFlagAssetProviderFixCdnBytesStat": "True",
         "FIntOnScreenKeyboardPaddingInPixels_Staged": "20;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:58:12",
         "FIntOnScreenKeyboardTextBoxFocusReleaseDelayMs_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:58:50",
@@ -11665,6 +11664,7 @@
         "FFlagUseRuntimeMutexRequestDataInQueue": "True",
         "FFlagUseRuntimeMutexRvHttpClient_Staged": "True;SteadyState;10;30;Revert;2025-09-03T22:30:38",
         "FFlagEnableSignupCheckboxExperiment": "True",
+        "FFlagEnableWindowsOnScreenKeyboardController1": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12020,9 +12020,9 @@
         "FFlagNotificationsComplianceShouldRestrictStream": "True",
         "FFlagGraphicsTextureCopy": "True",
         "DFFlagEnableFeatureTimeoutMigration": "True",
-        "FStringFlagRepoGitHashFastString": "64e33702f4ab211cdf496be8ab88209900b86718",
-        "DFStringFlagRepoGitHashDynamicString": "64e33702f4ab211cdf496be8ab88209900b86718",
-        "FStringFlipTimeStampFastString": "2025-09-03T22:48:29.023Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-03T22:48:29.023Z"
+        "FStringFlagRepoGitHashFastString": "32e463df87b639cdaba03d8849456494ac1866fd",
+        "DFStringFlagRepoGitHashDynamicString": "32e463df87b639cdaba03d8849456494ac1866fd",
+        "FStringFlipTimeStampFastString": "2025-09-03T22:59:39.513Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-03T22:59:39.513Z"
     }
 }
