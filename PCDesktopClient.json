@@ -10101,8 +10101,6 @@
         "FFlagStudioPreloadBuilderMono": "True",
         "FFlagFixNullPtrCrashInLoadImageBuffer": "True",
         "FFlagLoadTexturesWithReadOnlySharedBuffer": "True",
-        "FFlagFlagRolloutTestStaticBool42_IXP": "1;Engine.Productivity.FFlagIntegrationTesting;Engine.Productivity.FFlagIntegrationTesting.SRMTest2;180244295;flagbank",
-        "FFlagFlagRolloutTestStaticBool43_IXP": "1;Engine.Productivity.FFlagIntegrationTesting;Engine.Productivity.FFlagIntegrationTesting.SRMTest2;180244295;flagbank",
         "FFlagMacUnifyKeyCodeMapping_IXP": "1;Portal.MacUnifyKeyCodeMapping-1752599684;MacUnifyKeyCodeMapping;965638851;flagbank",
         "DFFlagSafetyServiceScreenshotAMC": "True",
         "FFlagAppChatTrustedCommsTransition_v2": "True",
@@ -12155,7 +12153,6 @@
         "FFlagFixProvideFeedbackToastPositioning": "True",
         "FFlagEnableExplicitFeedbackForRFY2": "True",
         "DFFlagRobloxTelemetryAddAppBuildVariantToPoints": "True",
-        "FFlagUseFallbackWindowsDPI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T22:06:03",
         "FFlagStopRecursiveUpdateLayout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1022923180;2025-09-03T22:17:07",
         "DFIntLoadTestParticipationPerMillionUsers": "10000",
         "DFIntRobloxTelemetryLoadTestEndThrottleHundredthsPercent": "10000",
@@ -12169,6 +12166,7 @@
         "FFlagDynamicTranslationNumberParameterizationEnabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T22:59:06",
         "FFlagMigrateLCMToComponentManager6": "True",
         "DFFlagLoadTestingEnabled2_PlaceFilter": "True;121864768012064",
+        "FFlagUseFallbackWindowsDPI": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12628,9 +12626,9 @@
         "FFlagTrackBtidSessionChange3": "True",
         "FFlagFixUIRayGoingThruExistingVerts3": "True",
         "DFFlagSaferCharInputHandling_Staged": "True;SteadyState;10;30;Revert;2025-09-03T22:59:26",
-        "FStringFlagRepoGitHashFastString": "b5ea69f482ec022907ed1a23787e227f5ae0abcf",
-        "DFStringFlagRepoGitHashDynamicString": "b5ea69f482ec022907ed1a23787e227f5ae0abcf",
-        "FStringFlipTimeStampFastString": "2025-09-03T23:10:37.921Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-03T23:10:37.921Z"
+        "FStringFlagRepoGitHashFastString": "ead9d1b33e851639980467e3636b5fdb67b014c6",
+        "DFStringFlagRepoGitHashDynamicString": "ead9d1b33e851639980467e3636b5fdb67b014c6",
+        "FStringFlipTimeStampFastString": "2025-09-03T23:16:45.913Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-03T23:16:45.913Z"
     }
 }
