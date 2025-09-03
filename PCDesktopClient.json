@@ -11663,6 +11663,8 @@
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableWindowsOnScreenKeyboardController1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:43:52",
         "FFlagAssetProviderFixCdnBytesStat": "True",
+        "FIntOnScreenKeyboardPaddingInPixels_Staged": "20;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:58:12",
+        "FIntOnScreenKeyboardTextBoxFocusReleaseDelayMs_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:58:50",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "FFlagVoxelGridFixUpsample": "True",
@@ -12616,9 +12618,9 @@
         "FFlagLuaAppAgeRecommendationsMinimumAge2": "True",
         "FFlagTrackBtidSessionChange3": "True",
         "FFlagFixUIRayGoingThruExistingVerts3": "True",
-        "FStringFlagRepoGitHashFastString": "9bb5fcf4189b08b8d6701f20fd99eb4407375f0d",
-        "DFStringFlagRepoGitHashDynamicString": "9bb5fcf4189b08b8d6701f20fd99eb4407375f0d",
-        "FStringFlipTimeStampFastString": "2025-09-03T22:01:26.217Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-03T22:01:26.217Z"
+        "FStringFlagRepoGitHashFastString": "83417198d59f6457e32cff9f4bddd150ba002140",
+        "DFStringFlagRepoGitHashDynamicString": "83417198d59f6457e32cff9f4bddd150ba002140",
+        "FStringFlipTimeStampFastString": "2025-09-03T22:02:46.533Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-03T22:02:46.533Z"
     }
 }
