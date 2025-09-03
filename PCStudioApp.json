@@ -11646,7 +11646,6 @@
         "FFlagExpChatGuacChatDisabledReason_PlaceFilter": "True;9709838535;18111211747;18137291076;72888887992401;116123087468287",
         "FFlagFFlagAppChatMoveMainComponent": "True",
         "FFlagSocialLibrariesSelectableAlertViewShim": "True",
-        "FFlagAssetProviderFixCdnBytesStat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T20:46:48",
         "FFlagEnableRoactNetworkingForChallengeInteception": "True",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagAvatarChatDelayModelDelivery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:03:05",
@@ -11663,6 +11662,7 @@
         "FFlagCapturesVideoDeleteAsync": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableWindowsOnScreenKeyboardController1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:43:52",
+        "FFlagAssetProviderFixCdnBytesStat": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13711,6 +13711,8 @@
         "DFIntRobloxTelemetryLoadTestStartThrottleHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1710580110;2025-09-03T21:23:01",
         "DFStringLoadTestArguments_Staged": "2000|1000|3354034695:1,3378205021:2,2678578371:3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1710580110;2025-09-03T21:23:01",
         "DFStringLoadTestingUniverseId_Staged": "6701277882;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1710580110;2025-09-03T21:23:01",
+        "FFlagMigrateLCMToComponentManager6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:53:10",
+        "FIntMigrateLCMToComponentManagerHundredthPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:54:27",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -13743,9 +13745,9 @@
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
-        "FStringFlagRepoGitHashFastString": "9f74cc952adeac52d3d6ea6d6dab3f5898952fd8",
-        "DFStringFlagRepoGitHashDynamicString": "9f74cc952adeac52d3d6ea6d6dab3f5898952fd8",
-        "FStringFlipTimeStampFastString": "2025-09-03T21:52:02.833Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-03T21:52:02.833Z"
+        "FStringFlagRepoGitHashFastString": "5f65388ec07ea09596abaf4bc60514dc75c9ca4f",
+        "DFStringFlagRepoGitHashDynamicString": "5f65388ec07ea09596abaf4bc60514dc75c9ca4f",
+        "FStringFlipTimeStampFastString": "2025-09-03T21:57:11.568Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-03T21:57:11.568Z"
     }
 }
