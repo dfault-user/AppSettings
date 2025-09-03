@@ -11625,7 +11625,6 @@
         "FFlagVisualizationModesAddContextStack": "True",
         "FFlagSafetyRCCTelemetrySafer": "True",
         "FFlagUseRuntimeMutexNetworkSecurityChannel": "True",
-        "FFlagEnableSocialCarouselForAllV4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T16:56:56",
         "FFlagRemoveProfileIXPTest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1892892437;2025-09-03T17:24:13",
         "FFlagRemoveAppPageProfilePeekView_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;436745308;2025-09-03T17:24:41",
         "FFlagRemoveProfileModuleImports_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;794716572;2025-09-03T17:24:53",
@@ -11639,6 +11638,7 @@
         "FFlagFixHasDecalsForEditableImage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;879404864;2025-09-03T17:58:03",
         "FFlagEnableLuaAppSessionWithError2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T17:58:37",
         "FFlagProfilePlatformStoresLimitOnFrontend_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T17:59:26",
+        "FFlagEnableSocialCarouselForAllV4": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12514,12 +12514,12 @@
         "FFlagGraphicsRequireConstantBuffers": "True",
         "FFlagNativePurchaseRobuxPageWrapperEnableTelemetry": "True",
         "FFlagRealtimeScopesAssertInsteadOfCrashing": "True",
-        "FFlagSimGeometrySamplingReduceHeapAllocations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T16:58:52",
         "DFFlagCLI166502f": "True",
         "DFIntCLI166502p": "3",
-        "FStringFlagRepoGitHashFastString": "94657349a7d3128c4a1f0cb1d2b94f5cbb079784",
-        "DFStringFlagRepoGitHashDynamicString": "94657349a7d3128c4a1f0cb1d2b94f5cbb079784",
-        "FStringFlipTimeStampFastString": "2025-09-03T18:00:29.759Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-03T18:00:29.759Z"
+        "FFlagSimGeometrySamplingReduceHeapAllocations": "True",
+        "FStringFlagRepoGitHashFastString": "9ac26e7a8d982dd7587b6145aa1470a63b33d70f",
+        "DFStringFlagRepoGitHashDynamicString": "9ac26e7a8d982dd7587b6145aa1470a63b33d70f",
+        "FStringFlipTimeStampFastString": "2025-09-03T18:03:17.647Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-03T18:03:17.647Z"
     }
 }
