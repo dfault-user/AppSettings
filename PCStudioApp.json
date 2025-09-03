@@ -11652,10 +11652,11 @@
         "FFlagSocialLibrariesSelectableAlertViewShim": "True",
         "FFlagAssetProviderFixCdnBytesStat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T20:46:48",
         "FFlagEnableRoactNetworkingForChallengeInteception": "True",
-        "FFlagVoxelGridFixTerrainRegionWater": "True",
+        "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
         "FFlagAvatarChatDelayModelDelivery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:03:05",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
+        "FFlagVoxelGridFixTerrainRegionWater": "True",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13300,7 +13301,6 @@
         "FFlagAvatarSettingsAddTelemetry": "True",
         "FFlagStudioTeamTestAction2": "False",
         "DFFlagEnableFeatureTimeoutMigration": "True",
-        "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
         "FFlagVoxelGridFixRegionChanged": "True",
         "FFlagGameBasicSettingsFramerateCap5": "True",
         "FFlagVoiceChatFixRejoin": "True",
@@ -13732,9 +13732,9 @@
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
-        "FStringFlagRepoGitHashFastString": "f06b674c2499457e42f657807e3fa3ac66ba6ff5",
-        "DFStringFlagRepoGitHashDynamicString": "f06b674c2499457e42f657807e3fa3ac66ba6ff5",
-        "FStringFlipTimeStampFastString": "2025-09-03T21:07:34.217Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-03T21:07:34.217Z"
+        "FStringFlagRepoGitHashFastString": "05be468ceba1f9cecdf6700a878bfe2611c8e16a",
+        "DFStringFlagRepoGitHashDynamicString": "05be468ceba1f9cecdf6700a878bfe2611c8e16a",
+        "FStringFlipTimeStampFastString": "2025-09-03T21:07:50.419Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-03T21:07:50.419Z"
     }
 }
