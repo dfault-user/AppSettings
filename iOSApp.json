@@ -11652,10 +11652,11 @@
         "FFlagSocialLibrariesSelectableAlertViewShim": "True",
         "FFlagAssetProviderFixCdnBytesStat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T20:46:48",
         "FFlagEnableRoactNetworkingForChallengeInteception": "True",
-        "CaptureCountersIntervalInMinutes": "5",
+        "DFFlagEnableRemoteProfiling": "True",
+        "FFlagAvatarChatDelayModelDelivery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:03:05",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
-        "DFFlagEnableRemoteProfiling": "True",
+        "CaptureCountersIntervalInMinutes": "5",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
         "DFFlagLockViolationInstanceCrash": "False",
@@ -12517,9 +12518,9 @@
         "FFlagEnableUserListModule_2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T20:12:04",
         "FFlagEnableSocialProofUserList_4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T20:21:03",
         "FFlagEnableDisplaySizeiOS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T20:54:14",
-        "FStringFlagRepoGitHashFastString": "d719718f59dc15b805cd732bb37aaf6711508521",
-        "DFStringFlagRepoGitHashDynamicString": "d719718f59dc15b805cd732bb37aaf6711508521",
-        "FStringFlipTimeStampFastString": "2025-09-03T20:58:22.539Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-03T20:58:22.539Z"
+        "FStringFlagRepoGitHashFastString": "05be468ceba1f9cecdf6700a878bfe2611c8e16a",
+        "DFStringFlagRepoGitHashDynamicString": "05be468ceba1f9cecdf6700a878bfe2611c8e16a",
+        "FStringFlipTimeStampFastString": "2025-09-03T21:07:50.419Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-03T21:07:50.419Z"
     }
 }
