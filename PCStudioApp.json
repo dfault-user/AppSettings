@@ -11135,8 +11135,8 @@
         "FFlagResetNativeAdsExecutor": "True",
         "DFFlagAudioSpeechToTextCleanUpEncode": "True",
         "DFFlagMRFNonPartFix": "True",
-        "DFFlagEnableLinkSharing_PlaceFilter": "True;133158022557590;131039090936858;103445510946559;77362637584345;118171263682820;113264304314057;119524072047648;92758961278039",
-        "FFlagEnableLinkSharingEvent_PlaceFilter": "True;133158022557590;131039090936858;103445510946559;77362637584345;118171263682820;113264304314057;119524072047648;92758961278039",
+        "DFFlagEnableLinkSharing_PlaceFilter": "True;133158022557590;131039090936858;103445510946559;77362637584345;118171263682820;113264304314057;119524072047648;92758961278039;133917534752598",
+        "FFlagEnableLinkSharingEvent_PlaceFilter": "True;133158022557590;131039090936858;103445510946559;77362637584345;118171263682820;113264304314057;119524072047648;92758961278039;133917534752598",
         "FFlagEnableModifiedPropertyLuaApis": "True",
         "FFlagStyleEditorPreviewIncorrectClass": "True",
         "FFlagTexturePackUseACR4": "True",
@@ -11441,7 +11441,7 @@
         "FFlagToolboxRetryReloadFailures2": "False",
         "FFlagRenderSmoothClusterFixAsyncMeshCrash": "True",
         "FFlagAddCountersToMissingComponentsAndLabels": "True",
-        "FFlagStudioDoNotLoadCoreScriptsOutsidePlaySolo1": "True",
+        "FFlagStudioDoNotLoadCoreScriptsOutsidePlaySolo1": "False",
         "FFlagAudioPlayerTimelineAlignment": "True",
         "FFlagLuaAppGlobalMusicPlayback3": "True",
         "FFlagAppChatRefactorTelemetryConfigs": "True",
@@ -13309,7 +13309,6 @@
         "FFlagAvatarSettingsAddTelemetry": "True",
         "FFlagStudioTeamTestAction2": "False",
         "DFFlagEnableFeatureTimeoutMigration": "True",
-        "FFlagStudioDoNotLoadCoreScriptsOutsidePlaySolo1_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-03T21:08:41",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13748,9 +13747,9 @@
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
-        "FStringFlagRepoGitHashFastString": "408f6804206c1bf545dd6ebf3224f3012ee940a5",
-        "DFStringFlagRepoGitHashDynamicString": "408f6804206c1bf545dd6ebf3224f3012ee940a5",
-        "FStringFlipTimeStampFastString": "2025-09-03T22:12:07.536Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-03T22:12:07.536Z"
+        "FStringFlagRepoGitHashFastString": "38bb19e2ea8655b93a731f1af958f339f7c2461d",
+        "DFStringFlagRepoGitHashDynamicString": "38bb19e2ea8655b93a731f1af958f339f7c2461d",
+        "FStringFlipTimeStampFastString": "2025-09-03T22:15:11.590Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-03T22:15:11.590Z"
     }
 }
