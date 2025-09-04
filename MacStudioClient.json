@@ -13335,6 +13335,7 @@
         "FFlagExplorerNestedFolderHang_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T17:43:39",
         "FFlagRemoveSpecialCasesFromFacsExport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T17:44:04",
         "DFIntVoiceWebrtcIceInActiveTimeoutMs_Staged": "30000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T17:47:35",
+        "FLogSignalRNotification": "0",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13717,7 +13718,6 @@
         "DFStringLoadTestArguments_Staged": "\"\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;486636778;2025-09-04T17:16:48",
         "FFlagSimOptimizeBodyMass": "True",
         "DFStringLoadTestingUniverseId_Staged": "\"\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1339362686;2025-09-04T17:40:03",
-        "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
         "DFLogTrackHttpRequest": "0",
@@ -13753,9 +13753,10 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "7f59cf2ba15912822a1f58cdd2edd01ed46540eb",
-        "DFStringFlagRepoGitHashDynamicString": "7f59cf2ba15912822a1f58cdd2edd01ed46540eb",
-        "FStringFlipTimeStampFastString": "2025-09-04T17:59:29.679Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T17:59:29.679Z"
+        "FFlagEnableRibbonTour_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1033773743;2025-09-04T17:58:01",
+        "FStringFlagRepoGitHashFastString": "bd96bacf2fa60f690d452b5bfdc358fb316a3e15",
+        "DFStringFlagRepoGitHashDynamicString": "bd96bacf2fa60f690d452b5bfdc358fb316a3e15",
+        "FStringFlipTimeStampFastString": "2025-09-04T17:59:46.413Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T17:59:46.413Z"
     }
 }
