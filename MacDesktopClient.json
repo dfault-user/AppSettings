@@ -11683,6 +11683,8 @@
         "FFlagEnableSoundSessionTelemetry5_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:09:52",
         "FFlagISoundGroupImplEnabled": "True",
         "FFlagAmrFixDependencyPerms_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:13:58",
+        "FFlagOpenUserLuaProfileFromItemPage_V2_Staged": "True;SteadyState;10;30;Revert;true;1458178670;2025-09-04T18:14:35",
+        "FFlagOpenUserLuaProfileFromItemPage_V2_IXP": "1;Portal.Open_User_Lua_Profile_From_Item_Details_Page_V2-1757009637;Open_User_Lua_Profile_From_Item_Details_Page_V2;1458178670;dev_controlled",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12064,7 +12066,7 @@
         "FFlagStandardOutputUseRuntimeMutex": "True",
         "FFlagVoiceConnectionApiEnableInitializeAudioSinkOnDMThreadFix": "True",
         "FFlagMigrateLCMToComponentManager5": "False",
-        "FIntMigrateLCMToComponentManagerHundredthPercent": "1000",
+        "FIntMigrateLCMToComponentManagerHundredthPercent": "10000",
         "FFlagRobloxTelemetryEnableTestMetrics_V0": "True",
         "FFlagAXAvatarsTabIXP1": "True",
         "FFlagNewUpsellModalExperimentForDesktopV2": "True",
@@ -12151,7 +12153,6 @@
         "FFlagPlayerListPersistVisibility_IXP": "1;Experience.Menu;User.Experience.Menu.PlayerListPersistentVisibility;775889394;flagbank",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData": "True",
         "FFlagSmoothClusterDelayOccMeshActivation": "True",
-        "FIntMigrateLCMToComponentManagerHundredthPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T17:12:55",
         "DFStringLoadTestArguments_Staged": "\"\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;486636778;2025-09-04T17:16:48",
         "FFlagSimOptimizeBodyMass": "True",
         "DFStringLoadTestingUniverseId_Staged": "\"\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1339362686;2025-09-04T17:40:03",
@@ -12579,9 +12580,9 @@
         "FFlagTrackBtidSessionChange3": "True",
         "FFlagFixUIRayGoingThruExistingVerts3": "True",
         "DFStringLoadTestName_Staged": ";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1731926092;2025-09-04T17:16:08",
-        "FStringFlagRepoGitHashFastString": "344501df70339c138d4fa67c2ab77285f017af8e",
-        "DFStringFlagRepoGitHashDynamicString": "344501df70339c138d4fa67c2ab77285f017af8e",
-        "FStringFlipTimeStampFastString": "2025-09-04T18:15:29.022Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T18:15:29.022Z"
+        "FStringFlagRepoGitHashFastString": "3869bf838fd69f1006bff2131d3afdadf571a67d",
+        "DFStringFlagRepoGitHashDynamicString": "3869bf838fd69f1006bff2131d3afdadf571a67d",
+        "FStringFlipTimeStampFastString": "2025-09-04T18:15:46.223Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T18:15:46.223Z"
     }
 }

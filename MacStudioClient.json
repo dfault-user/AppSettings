@@ -13646,7 +13646,7 @@
         "FFlagStandardOutputUseRuntimeMutex": "True",
         "FFlagVoiceConnectionApiEnableInitializeAudioSinkOnDMThreadFix": "True",
         "FFlagMigrateLCMToComponentManager5": "False",
-        "FIntMigrateLCMToComponentManagerHundredthPercent": "1000",
+        "FIntMigrateLCMToComponentManagerHundredthPercent": "10000",
         "FFlagRobloxTelemetryEnableTestMetrics_V0": "True",
         "FFlagAXAvatarsTabIXP1": "True",
         "FFlagNewUpsellModalExperimentForDesktopV2": "True",
@@ -13721,7 +13721,6 @@
         "FFlagPlayerListPersistVisibility_IXP": "1;Experience.Menu;User.Experience.Menu.PlayerListPersistentVisibility;775889394;flagbank",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData": "True",
         "FFlagSmoothClusterDelayOccMeshActivation": "True",
-        "FIntMigrateLCMToComponentManagerHundredthPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T17:12:55",
         "DFStringLoadTestArguments_Staged": "\"\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;486636778;2025-09-04T17:16:48",
         "FFlagSimOptimizeBodyMass": "True",
         "DFStringLoadTestingUniverseId_Staged": "\"\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1339362686;2025-09-04T17:40:03",
@@ -13761,9 +13760,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "3869bf838fd69f1006bff2131d3afdadf571a67d",
-        "DFStringFlagRepoGitHashDynamicString": "3869bf838fd69f1006bff2131d3afdadf571a67d",
-        "FStringFlipTimeStampFastString": "2025-09-04T18:15:46.223Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T18:15:46.223Z"
+        "FStringFlagRepoGitHashFastString": "b65e45336757dd918ef6cfca35ddc307b8c16933",
+        "DFStringFlagRepoGitHashDynamicString": "b65e45336757dd918ef6cfca35ddc307b8c16933",
+        "FStringFlipTimeStampFastString": "2025-09-04T18:17:27.987Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T18:17:27.987Z"
     }
 }

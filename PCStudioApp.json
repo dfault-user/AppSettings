@@ -11683,6 +11683,8 @@
         "FFlagEnableSoundSessionTelemetry5_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:09:52",
         "FFlagISoundGroupImplEnabled": "True",
         "FFlagAmrFixDependencyPerms_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:13:58",
+        "FFlagOpenUserLuaProfileFromItemPage_V2_Staged": "True;SteadyState;10;30;Revert;true;1458178670;2025-09-04T18:14:35",
+        "FFlagOpenUserLuaProfileFromItemPage_V2_IXP": "1;Portal.Open_User_Lua_Profile_From_Item_Details_Page_V2-1757009637;Open_User_Lua_Profile_From_Item_Details_Page_V2;1458178670;dev_controlled",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13671,7 +13673,7 @@
         "FFlagStandardOutputUseRuntimeMutex": "True",
         "FFlagVoiceConnectionApiEnableInitializeAudioSinkOnDMThreadFix": "True",
         "FFlagMigrateLCMToComponentManager5": "False",
-        "FIntMigrateLCMToComponentManagerHundredthPercent": "1000",
+        "FIntMigrateLCMToComponentManagerHundredthPercent": "10000",
         "FFlagRobloxTelemetryEnableTestMetrics_V0": "True",
         "FFlagAXAvatarsTabIXP1": "True",
         "FFlagNewUpsellModalExperimentForDesktopV2": "True",
@@ -13749,7 +13751,6 @@
         "FFlagDynamicTranslationNumberParameterizationEnabled2": "True",
         "FFlagPlayerListPersistVisibility_IXP": "1;Experience.Menu;User.Experience.Menu.PlayerListPersistentVisibility;775889394;flagbank",
         "FFlagSmoothClusterDelayOccMeshActivation": "True",
-        "FIntMigrateLCMToComponentManagerHundredthPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T17:12:55",
         "DFStringLoadTestArguments_Staged": "\"\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;486636778;2025-09-04T17:16:48",
         "FFlagSimOptimizeBodyMass": "True",
         "DFStringLoadTestingUniverseId_Staged": "\"\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1339362686;2025-09-04T17:40:03",
@@ -13786,9 +13787,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "344501df70339c138d4fa67c2ab77285f017af8e",
-        "DFStringFlagRepoGitHashDynamicString": "344501df70339c138d4fa67c2ab77285f017af8e",
-        "FStringFlipTimeStampFastString": "2025-09-04T18:15:29.022Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T18:15:29.022Z"
+        "FStringFlagRepoGitHashFastString": "b65e45336757dd918ef6cfca35ddc307b8c16933",
+        "DFStringFlagRepoGitHashDynamicString": "b65e45336757dd918ef6cfca35ddc307b8c16933",
+        "FStringFlipTimeStampFastString": "2025-09-04T18:17:27.987Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T18:17:27.987Z"
     }
 }
