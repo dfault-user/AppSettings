@@ -11524,11 +11524,12 @@
         "DFLogRakNetConnectTrace_DataCenterFilter": "Verbose,9;525",
         "DFFlagRefactorSwimControllerMaxForces": "True",
         "DFFlagRefactorLevitationConstraintConstants": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagCommercePurchaseAppNoRenderV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T22:34:23",
         "FFlagUseRuntimeMutexSchedulerFacet_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T22:35:39",
         "FFlagUGCValidateRestrictAnimationMovementCurvesFix": "True",
         "DFFlagCLI127767_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1540943625;2025-09-04T22:44:02",
+        "FFlagSimOptimizeBodyMass": "True",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -11993,7 +11994,6 @@
         "FFlagPlayerListPersistVisibility_IXP": "1;Experience.Menu;User.Experience.Menu.PlayerListPersistentVisibility;775889394;flagbank",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData": "True",
         "FFlagSmoothClusterDelayOccMeshActivation": "True",
-        "FFlagSimOptimizeBodyMass": "True",
         "FFlagVoiceWebrtcIceInActiveTimeoutEnable": "True",
         "DFIntVoiceWebrtcIceInActiveTimeoutMs": "30000",
         "DFFlagFixCapturesBulkSave": "True",
@@ -12434,11 +12434,11 @@
         "FFlagFixUIRayGoingThruExistingVerts3": "True",
         "FFlagPrecomputeDeformVertices_PlaceFilter": "True;120148879522453;73226809349189;119602771011506",
         "FFlagMTLDeviceReportGetVideoMemoryInfoAsMiB": "True",
-        "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage_Staged": "97;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T22:07:53",
         "FFlagEnableLogBackgroundDMLocalPlayerTimeoutLogs": "True",
-        "FStringFlagRepoGitHashFastString": "b1af4f12963042ccd26dcbe970f0b735e93c525a",
-        "DFStringFlagRepoGitHashDynamicString": "b1af4f12963042ccd26dcbe970f0b735e93c525a",
-        "FStringFlipTimeStampFastString": "2025-09-04T23:12:34.920Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T23:12:34.920Z"
+        "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage": "97",
+        "FStringFlagRepoGitHashFastString": "fb3edc341aea0c9278a10c42f8db46e4eda80f87",
+        "DFStringFlagRepoGitHashDynamicString": "fb3edc341aea0c9278a10c42f8db46e4eda80f87",
+        "FStringFlipTimeStampFastString": "2025-09-04T23:17:35.205Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T23:17:35.205Z"
     }
 }
