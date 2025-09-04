@@ -11673,8 +11673,6 @@
         "FFlagSimGeometrySamplingReduceHeapAllocations": "True",
         "FFlagAddTelemetryToInitialPages": "True",
         "FIntApiFetchExperienceDetailsPageThrottlingHundredthsPercent": "1000",
-        "FFlagEnableSimpleBadUtterances_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:04:53",
-        "FFlagCLI165167_Client_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:05:06",
         "FFlagEnableSoundSessionTelemetry5_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:09:52",
         "FFlagISoundGroupImplEnabled": "True",
         "FFlagAmrFixDependencyPerms_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:13:58",
@@ -11686,6 +11684,8 @@
         "FFlagAXMigrateMainNavigationToFunctionalReactNoSlots": "True",
         "FFlagAXMigrateNavigationFrameToFunctionalReactNoSlots": "True",
         "FFlagISoundEffectImplEnabled": "True",
+        "FFlagCLI165167_Client": "True",
+        "FFlagEnableSimpleBadUtterances": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11983,9 +11983,9 @@
         "FFlagFixProvideFeedbackToastPositioning": "True",
         "FFlagEnableExplicitFeedbackForRFY2": "True",
         "FFlagExpChatGuacChatDisabledReason": "True",
-        "FStringFlagRepoGitHashFastString": "657d2c05a72503aa142f3a0a8f7664d01d05eeb5",
-        "DFStringFlagRepoGitHashDynamicString": "657d2c05a72503aa142f3a0a8f7664d01d05eeb5",
-        "FStringFlipTimeStampFastString": "2025-09-04T19:02:48.353Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T19:02:48.353Z"
+        "FStringFlagRepoGitHashFastString": "4a5abc8f42496e27b979cc53b80f62fb85c02213",
+        "DFStringFlagRepoGitHashDynamicString": "4a5abc8f42496e27b979cc53b80f62fb85c02213",
+        "FStringFlipTimeStampFastString": "2025-09-04T19:07:32.912Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T19:07:32.912Z"
     }
 }
