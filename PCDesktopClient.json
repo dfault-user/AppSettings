@@ -11687,6 +11687,7 @@
         "FFlagNewFindAllReplaceAll2BetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T19:34:46",
         "FStringStudioEmergencyMessageV4_Staged": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjg4LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T20:07:18",
         "FFlagPasskeyUpsellEnabled1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T20:27:59",
+        "FFlagEnableSmoothingGroupVertexAveraging_PlaceFilter": "False;120148879522453;73226809349189;119602771011506",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12190,10 +12191,10 @@
         "FFlagVoiceWebrtcIceInActiveTimeoutEnable": "True",
         "DFIntVoiceWebrtcIceInActiveTimeoutMs": "30000",
         "DFFlagFixCapturesBulkSave": "True",
-        "FFlagExactPathCalculation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1104245595;2025-09-04T19:26:39",
-        "FFlagGamepadSurfaceGuiCorrections_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1929956259;2025-09-04T19:27:26",
         "DFFlagSessionTrackingPlaceVersionField": "True",
         "FFlagLuaAppEdpOnlyEnableFmodIfVideo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T20:01:04",
+        "FFlagExactPathCalculation": "True",
+        "FFlagGamepadSurfaceGuiCorrections": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12655,9 +12656,9 @@
         "DFFlagSaferCharInputHandling": "False",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData": "True",
         "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T20:15:34",
-        "FStringFlagRepoGitHashFastString": "5f44c035adf1cdcafcead828e2bab8f6370945a8",
-        "DFStringFlagRepoGitHashDynamicString": "5f44c035adf1cdcafcead828e2bab8f6370945a8",
-        "FStringFlipTimeStampFastString": "2025-09-04T20:30:03.132Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T20:30:03.132Z"
+        "FStringFlagRepoGitHashFastString": "8242ae2ba0213ba0f596b3d841b915421c60423e",
+        "DFStringFlagRepoGitHashDynamicString": "8242ae2ba0213ba0f596b3d841b915421c60423e",
+        "FStringFlipTimeStampFastString": "2025-09-04T20:32:17.478Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T20:32:17.478Z"
     }
 }
