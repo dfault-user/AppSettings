@@ -13143,7 +13143,7 @@
         "FFlagLuauIncludeBreakContinueStatements": "True",
         "FFlagCreationDBDeprecationCleanup": "True",
         "FFlagAvatarSettingsAddTelemetry": "True",
-        "FFlagStudioTeamTestAction2": "False",
+        "FFlagStudioTeamTestAction2": "True",
         "DFFlagEnableFeatureTimeoutMigration": "True",
         "FFlagStudioDeviceEmulatorDisplaySizeInitialization": "True",
         "FFlagSwapMouseButtons": "True",
@@ -13164,8 +13164,6 @@
         "FFlagUseGroupsUserCanCreateAssetsForInsteadOfCanManage": "True",
         "FFlagEnableIXPForNewAssistant3": "True",
         "FFlagStandaloneDmLoadBuilderIcon": "True",
-        "FFlagCinFixShouldImportBulkApplyPlugin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1526143970;2025-09-04T22:17:13",
-        "FFlagStudioTeamTestAction2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T22:18:31",
         "FFlagLuauRawGetHandlesNil_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T22:37:20",
         "FFlagLuauSuggestHotComments_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T22:38:19",
         "FFlagUGCValidateStopNaNsInfsInAnimationKeys": "True",
@@ -13173,6 +13171,7 @@
         "FFlagEditablePolicyCheckRetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T22:58:31",
         "FFlagAllowTreatmentUsersToEnrollIntoNewRibbon": "True",
         "FFlagTeamTestPerformanceTelemetry1": "True",
+        "FFlagCinFixShouldImportBulkApplyPlugin": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13594,7 +13593,7 @@
         "DFStringLoadTestingUniverseId_PlaceFilter": "6701277882;121864768012064",
         "DFFlagLoadTestingEnabled2_PlaceFilter": "True;121864768012064",
         "FFlagLuaAppEdpMediaGalleryVideoAudioFix2": "True",
-        "FFlagAXAvatarsTabErrorCounter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T22:19:24",
+        "FFlagAXAvatarsTabErrorCounter": "True",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -13628,9 +13627,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "a5fbbd1de113ba43a2031c79da2386425d531b2a",
-        "DFStringFlagRepoGitHashDynamicString": "a5fbbd1de113ba43a2031c79da2386425d531b2a",
-        "FStringFlipTimeStampFastString": "2025-09-04T23:21:36.253Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T23:21:36.253Z"
+        "FStringFlagRepoGitHashFastString": "4857b2bc1cefa01b652eeaf8dfee641b92bd80e5",
+        "DFStringFlagRepoGitHashDynamicString": "4857b2bc1cefa01b652eeaf8dfee641b92bd80e5",
+        "FStringFlipTimeStampFastString": "2025-09-04T23:22:42.989Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T23:22:42.989Z"
     }
 }
