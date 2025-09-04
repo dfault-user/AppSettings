@@ -11670,10 +11670,10 @@
         "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds": "15",
         "FStringFStringTimeoutLoadingLocalPlayerInBackgroundDM": "EnableManualRetry",
         "FFlagLuaAppProcessGameSocialLinks": "True",
-        "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T15:58:09",
         "AllowVideoPreRoll": "True",
         "FFlagAddTelemetryToInitialPages_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:52:29",
         "FIntApiFetchExperienceDetailsPageThrottlingHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:55:32",
+        "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12534,10 +12534,10 @@
         "FFlagEnableSocialProofOnItemDetails": "True",
         "FFlagPassTextAlignmentRelevancyInfo": "True",
         "FFlagExpChatGuacChatDisabledReason": "True",
-        "FFlagLuaAppEdpBackendV2LogMissingFetchEventData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T15:56:21",
-        "FStringFlagRepoGitHashFastString": "75e5ec5abc1ceb0f33a98bed72c32cd4aee8a3af",
-        "DFStringFlagRepoGitHashDynamicString": "75e5ec5abc1ceb0f33a98bed72c32cd4aee8a3af",
-        "FStringFlipTimeStampFastString": "2025-09-04T17:01:02.012Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T17:01:02.012Z"
+        "FFlagLuaAppEdpBackendV2LogMissingFetchEventData": "True",
+        "FStringFlagRepoGitHashFastString": "ad1a43d2a83f5b8306a0ee2fb423f1b1291d3a8d",
+        "DFStringFlagRepoGitHashDynamicString": "ad1a43d2a83f5b8306a0ee2fb423f1b1291d3a8d",
+        "FStringFlipTimeStampFastString": "2025-09-04T17:02:19.297Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T17:02:19.297Z"
     }
 }
