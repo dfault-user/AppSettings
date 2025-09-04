@@ -11674,6 +11674,7 @@
         "FFlagAddTelemetryToInitialPages_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:52:29",
         "FIntApiFetchExperienceDetailsPageThrottlingHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:55:32",
         "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure": "True",
+        "FFlagISoundGroupImplEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T17:08:05",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12141,7 +12142,6 @@
         "FFlagFixUniverseConfigurationRequestOrdering": "True",
         "FFlagDynamicTranslationNumberParameterizationEnabled2": "True",
         "FFlagExpChatGuacChatDisabledReason": "True",
-        "FFlagSmoothClusterDelayOccMeshActivation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:02:13",
         "DFIntLoadTestParticipationPerMillionUsers_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2145416502;2025-09-04T16:10:29",
         "DFIntLoadTestStartTimeUnix_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2145416502;2025-09-04T16:10:29",
         "DFIntRobloxTelemetryLoadTestEndThrottleHundredthsPercent_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2145416502;2025-09-04T16:10:29",
@@ -12150,6 +12150,7 @@
         "FFlagVoiceWebrtcIceInActiveTimeoutEnable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:39:30",
         "FFlagPlayerListPersistVisibility_IXP": "1;Experience.Menu;User.Experience.Menu.PlayerListPersistentVisibility;775889394;flagbank",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData": "True",
+        "FFlagSmoothClusterDelayOccMeshActivation": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12571,9 +12572,9 @@
         "FFlagLuaAppAgeRecommendationsMinimumAge2": "True",
         "FFlagTrackBtidSessionChange3": "True",
         "FFlagFixUIRayGoingThruExistingVerts3": "True",
-        "FStringFlagRepoGitHashFastString": "d90a1ace8a93a17cadaf22b0bee203bb9851f139",
-        "DFStringFlagRepoGitHashDynamicString": "d90a1ace8a93a17cadaf22b0bee203bb9851f139",
-        "FStringFlipTimeStampFastString": "2025-09-04T17:04:22.972Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T17:04:22.972Z"
+        "FStringFlagRepoGitHashFastString": "e44da71a2f2a8b3913340d80e52341dc1369fb55",
+        "DFStringFlagRepoGitHashDynamicString": "e44da71a2f2a8b3913340d80e52341dc1369fb55",
+        "FStringFlipTimeStampFastString": "2025-09-04T17:10:27.377Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T17:10:27.377Z"
     }
 }
