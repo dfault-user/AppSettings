@@ -2343,7 +2343,7 @@
         "FFlagShrinkReportMenuForVisibility": "True",
         "DFFlagEngineAPICloudProcessingServiceMasterSwitch": "True",
         "DFFlagDataModelCookieCLI84135": "True",
-        "FFlagEnableSoundSessionTelemetry5": "True",
+        "FFlagEnableSoundSessionTelemetry5": "False",
         "FLogLifecycleManager": "Info",
         "DFFlagEnableProfilingForDefaultAsyncFlush": "True",
         "FFlagVoiceChatSendInitialBatchEmpty": "True",
@@ -11673,7 +11673,6 @@
         "FFlagSimGeometrySamplingReduceHeapAllocations": "True",
         "FFlagAddTelemetryToInitialPages": "True",
         "FIntApiFetchExperienceDetailsPageThrottlingHundredthsPercent": "1000",
-        "FFlagEnableSoundSessionTelemetry5_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:09:52",
         "FFlagISoundGroupImplEnabled": "True",
         "FFlagAmrFixDependencyPerms_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T18:13:58",
         "FFlagOpenUserLuaProfileFromItemPage_V2_IXP": "1;Portal.Open_User_Lua_Profile_From_Item_Details_Page_V2-1757009637;Open_User_Lua_Profile_From_Item_Details_Page_V2;1458178670;dev_controlled",
@@ -12650,9 +12649,9 @@
         "FFlagFixUIRayGoingThruExistingVerts3": "True",
         "DFFlagSaferCharInputHandling": "False",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData": "True",
-        "FStringFlagRepoGitHashFastString": "4a5abc8f42496e27b979cc53b80f62fb85c02213",
-        "DFStringFlagRepoGitHashDynamicString": "4a5abc8f42496e27b979cc53b80f62fb85c02213",
-        "FStringFlipTimeStampFastString": "2025-09-04T19:07:32.912Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T19:07:32.912Z"
+        "FStringFlagRepoGitHashFastString": "461de48a81c34f53145c66d186496a3761277956",
+        "DFStringFlagRepoGitHashDynamicString": "461de48a81c34f53145c66d186496a3761277956",
+        "FStringFlipTimeStampFastString": "2025-09-04T19:11:49.784Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T19:11:49.784Z"
     }
 }
