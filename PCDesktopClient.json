@@ -10859,8 +10859,6 @@
         "FFlagSimUpgradeSolidMesh15": "True",
         "DFFlagSignCaptureMetadata2": "True",
         "FFlagEnableEscapingTextFieldsIos": "True",
-        "FFlagOpenUserLuaProfileFromItemPage_IXP": "1;AvatarMarketplace.UA.AXItemDetails3DPreview;open-user-lua-profile-from-item-page;1436019201;flagbank",
-        "FFlagOpenUserLuaProfileFromEDP_IXP": "1;PlayerApp.GameDetailsPage.Exposure;open-user-lua-profile-EDP-V2;1464786570;flagbank",
         "GmaSdkRewardedUiExperiment": "true",
         "DFFlagSimCheckInvalidAeroAssembliesAwake2": "True",
         "DFIntSQLiteWalErrorMaxReport": "2",
@@ -11675,6 +11673,8 @@
         "FIntApiFetchExperienceDetailsPageThrottlingHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:55:32",
         "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure": "True",
         "FFlagISoundGroupImplEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T17:08:05",
+        "FFlagOpenUserLuaProfileFromEDP_V2_Staged": "True;SteadyState;10;30;Revert;true;1704549671;2025-09-04T17:18:48",
+        "FFlagOpenUserLuaProfileFromEDP_V2_IXP": "1;Portal.OpenUserLuaProfileFromEDP_V3-1757006083;OpenUserLuaProfileFromEDP_V3;1704549671;dev_controlled",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12641,9 +12641,9 @@
         "DFFlagSaferCharInputHandling": "False",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData": "True",
         "DFStringLoadTestName_Staged": ";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1731926092;2025-09-04T17:16:08",
-        "FStringFlagRepoGitHashFastString": "3f52d3783098485ae74b068c94f177ab592bb44e",
-        "DFStringFlagRepoGitHashDynamicString": "3f52d3783098485ae74b068c94f177ab592bb44e",
-        "FStringFlipTimeStampFastString": "2025-09-04T17:20:24.294Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T17:20:24.294Z"
+        "FStringFlagRepoGitHashFastString": "85997bf769241c9b26a1cd703305f763208dd86e",
+        "DFStringFlagRepoGitHashDynamicString": "85997bf769241c9b26a1cd703305f763208dd86e",
+        "FStringFlipTimeStampFastString": "2025-09-04T17:23:18.188Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T17:23:18.188Z"
     }
 }
