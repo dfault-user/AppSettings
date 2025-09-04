@@ -11673,6 +11673,7 @@
         "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T15:58:09",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagAddTelemetryToInitialPages_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:52:29",
+        "FIntApiFetchExperienceDetailsPageThrottlingHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:55:32",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13324,6 +13325,7 @@
         "FFlagExpChatGuacChatDisabledReason": "True",
         "FFlagRibbonBetaNewUserExperiment_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:19:44",
         "FFlagVoiceWebrtcIceInActiveTimeoutEnable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:39:30",
+        "FLogSignalRNotification": "0",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13708,7 +13710,6 @@
         "DFIntRobloxTelemetryLoadTestEndThrottleHundredthsPercent_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2145416502;2025-09-04T16:10:29",
         "DFIntRobloxTelemetryLoadTestStartThrottleHundredthsPercent_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2145416502;2025-09-04T16:10:29",
         "FFlagSimOptimizeBodyMass_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:17:28",
-        "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
         "DFLogTrackHttpRequest": "0",
@@ -13744,9 +13745,10 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "1ccb1af0163f8095e8a6944e33c089de899bf507",
-        "DFStringFlagRepoGitHashDynamicString": "1ccb1af0163f8095e8a6944e33c089de899bf507",
-        "FStringFlipTimeStampFastString": "2025-09-04T16:54:35.162Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-04T16:54:35.162Z"
+        "FFlagEnableRibbonTour_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-04T16:54:34",
+        "FStringFlagRepoGitHashFastString": "12f67e497bd1db1bf98124bb1300500325975831",
+        "DFStringFlagRepoGitHashDynamicString": "12f67e497bd1db1bf98124bb1300500325975831",
+        "FStringFlipTimeStampFastString": "2025-09-04T16:56:44.947Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-04T16:56:44.947Z"
     }
 }
