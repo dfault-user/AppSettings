@@ -11563,6 +11563,8 @@
         "FFlagAmrFixDependencyPerms_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:35:36",
         "FFlagLuauSubtypingGenericsDoesntUseVariance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:35:47",
         "FFlagImproveRSVPPromptCompletedEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:35:54",
+        "FFlagRSVPPromptDontUsePortal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;320774010;2025-09-08T17:39:03",
+        "FFlagNoRequireUIContextForActionActivate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:40:22",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12427,9 +12429,9 @@
         "FFlagAXAvatarsTabErrorCounter": "True",
         "DFIntRbxStorageAvailableDiskSpaceTriggerMB_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T16:54:37",
         "FIntRbxStorageMinMemoryRequirementMB_Staged": "3250;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T16:59:59",
-        "FStringFlagRepoGitHashFastString": "195dd973fd8b696efa1a68efdcdedd1751812fed",
-        "DFStringFlagRepoGitHashDynamicString": "195dd973fd8b696efa1a68efdcdedd1751812fed",
-        "FStringFlipTimeStampFastString": "2025-09-08T17:39:04.479Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T17:39:04.479Z"
+        "FStringFlagRepoGitHashFastString": "fd17cdc671c1cf2dd853734f74feacf203f2a388",
+        "DFStringFlagRepoGitHashDynamicString": "fd17cdc671c1cf2dd853734f74feacf203f2a388",
+        "FStringFlipTimeStampFastString": "2025-09-08T17:41:41.260Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T17:41:41.260Z"
     }
 }
