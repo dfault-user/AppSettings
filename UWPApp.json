@@ -11541,7 +11541,6 @@
         "FFlagFlagRolloutTestStaticBool4": "False",
         "DFIntProductIdProductInfoCacheLifetimeSeconds_PlaceFilter": "21600;109983668079237;96342491571673;128762245270197;119602771011506;120148879522453;73226809349189;126884695634066;91867617264223;92172729639703;111261310905721;140398800602847;72448243468680;76010444151560;88043432908614;129432912780453;104538457589939",
         "DFFlagCleanupTeleportImplMethod_PlaceFilter": "True;16199276101;88139382814890",
-        "DFFlagCleanupTeleportImplMethod_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T16:23:57",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.5.All.Platforms;137851750;dev_controlled",
         "FFlagStudioCheckNoOrderInfoCloudEdit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T16:39:56",
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.5.All.Platforms;2034967467;dev_controlled",
@@ -11554,6 +11553,9 @@
         "FFlagPartyVoiceMuteScopeFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:18:13",
         "FFlagDisableWarningWhenScriptDisabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:21:38",
         "FFlagLine3DCorrectZIndex2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:22:09",
+        "FFlagFoundationFixScrollViewTags_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1015896625;2025-09-08T17:23:51",
+        "FFlagFoundationStyleTagsStyleSheetAttributes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1015896625;2025-09-08T17:23:51",
+        "DFFlagCleanupTeleportImplMethod": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -11852,9 +11854,9 @@
         "FFlagGamepadSurfaceGuiCorrections": "True",
         "FFlagEnableLogBackgroundDMLocalPlayerTimeoutLogs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T16:54:09",
         "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T16:55:18",
-        "FStringFlagRepoGitHashFastString": "ef7c1c5d8879e48b779aa8a737ab61bfdc341388",
-        "DFStringFlagRepoGitHashDynamicString": "ef7c1c5d8879e48b779aa8a737ab61bfdc341388",
-        "FStringFlipTimeStampFastString": "2025-09-08T17:23:53.426Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T17:23:53.426Z"
+        "FStringFlagRepoGitHashFastString": "343e479064aa986d6b1fda6870d2f8dda1a9ecfc",
+        "DFStringFlagRepoGitHashDynamicString": "343e479064aa986d6b1fda6870d2f8dda1a9ecfc",
+        "FStringFlipTimeStampFastString": "2025-09-08T17:27:12.735Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T17:27:12.735Z"
     }
 }
