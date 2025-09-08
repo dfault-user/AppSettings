@@ -11550,6 +11550,8 @@
         "DFFlagHttpStreamingCbStats": "True",
         "FFlagEnableNativeiOSFeatureNavigationTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:09:50",
         "FFlagAudioReferenceOutputAlwaysOn_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:13:12",
+        "FFlagSettingsHubRemoveTouchEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:18:00",
+        "FFlagEnableAdsMouseUnlock": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13191,7 +13193,6 @@
         "FFlagLuauRawGetHandlesNil": "True",
         "FFlagLuauSuggestHotComments": "True",
         "FFlagStudioLaunchTeamTestFromEdge_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T16:48:31",
-        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -13638,9 +13639,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "f86d4341bcee6ea70466c18ee9089d91f3098eb9",
-        "DFStringFlagRepoGitHashDynamicString": "f86d4341bcee6ea70466c18ee9089d91f3098eb9",
-        "FStringFlipTimeStampFastString": "2025-09-08T17:18:53.909Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T17:18:53.909Z"
+        "FStringFlagRepoGitHashFastString": "4b47142d19877dd40263696c7342e53c3967ee63",
+        "DFStringFlagRepoGitHashDynamicString": "4b47142d19877dd40263696c7342e53c3967ee63",
+        "FStringFlipTimeStampFastString": "2025-09-08T17:20:26.404Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T17:20:26.404Z"
     }
 }
