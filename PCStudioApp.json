@@ -11572,6 +11572,7 @@
         "DFIntUwpMigrationDialogAnalyticsThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:53:55",
         "FFlagRibbonRemoveLayeredButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:56:26",
         "DFFlagSOHugeFastCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:57:21",
+        "FFlagDebugLuaAppValidateProps": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -13623,7 +13624,6 @@
         "FFlagLuaAppEdpMediaGalleryVideoAudioFix2": "True",
         "FFlagAXAvatarsTabErrorCounter": "True",
         "FFlagSimAeroGeometryUseOptimizations": "True",
-        "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
         "FLogCloseDataModel": "6",
@@ -13656,9 +13656,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "a8f9feae49a2149c5dff5eef98b3bc0e1b94402e",
-        "DFStringFlagRepoGitHashDynamicString": "a8f9feae49a2149c5dff5eef98b3bc0e1b94402e",
-        "FStringFlipTimeStampFastString": "2025-09-08T17:59:40.231Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T17:59:40.231Z"
+        "FStringFlagRepoGitHashFastString": "cc0b9830eb17f39d365972f2dbaa2457270790bb",
+        "DFStringFlagRepoGitHashDynamicString": "cc0b9830eb17f39d365972f2dbaa2457270790bb",
+        "FStringFlipTimeStampFastString": "2025-09-08T17:59:56.978Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T17:59:56.978Z"
     }
 }
