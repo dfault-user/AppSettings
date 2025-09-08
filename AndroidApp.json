@@ -11590,7 +11590,6 @@
         "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;628580178;2025-09-08T21:30:28",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;628580178;2025-09-08T21:30:28",
         "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;628580178;2025-09-08T21:30:28",
-        "AllowVideoPreRoll": "True",
         "FFlagRCCCheckReplicatorJDIv2NoOrderInfoCloudEdit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T21:35:58",
         "FFlagToolboxDontSendRestrictedUserTable": "True",
         "FFlagUGCValidateAccessoriesRCCOwnership2": "True",
@@ -11600,6 +11599,7 @@
         "FFlagLuaAppJoinEventShortcutEdp2": "True",
         "DFFlagAssetProviderMorePointsFields": "True",
         "FFlagThirdPartyUserGetOnSet": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12484,9 +12484,9 @@
         "FIntRbxStorageMinMemoryRequirementMB": "4000",
         "DFFlagUserInputServiceDeviceMotionAnalytics2": "True",
         "DFIntDeviceMotionAnalyticsThrottleHundrethsPercent": "1",
-        "FStringFlagRepoGitHashFastString": "30e6076b6ac59021e07c542a93c3d576724b9835",
-        "DFStringFlagRepoGitHashDynamicString": "30e6076b6ac59021e07c542a93c3d576724b9835",
-        "FStringFlipTimeStampFastString": "2025-09-08T22:04:49.340Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T22:04:49.340Z"
+        "FStringFlagRepoGitHashFastString": "0fb18704dfc383a65580c73999896ec775926c6c",
+        "DFStringFlagRepoGitHashDynamicString": "0fb18704dfc383a65580c73999896ec775926c6c",
+        "FStringFlipTimeStampFastString": "2025-09-08T22:09:28.745Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T22:09:28.745Z"
     }
 }
