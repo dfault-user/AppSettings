@@ -11547,8 +11547,6 @@
         "DFFlagCleanupTeleportImplMethod": "True",
         "FFlagUIBloxUseFoundationButtonInGame_IXP": "1;UIEcosystem.User.Migration;Foundation.Migration.Button.InExperience;1897561605;flagbank",
         "FFlagStudioCheckNoOrderInfoCloudEdit": "True",
-        "FFlagMakeIsTypeLogicWorkForObject_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:52:07",
-        "DFIntUwpMigrationDialogAnalyticsThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:53:55",
         "FFlagRibbonRemoveLayeredButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:56:26",
         "DFFlagSOHugeFastCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:57:21",
         "FFlagSBT4744ReportAutoSetupAvatarTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:57:25",
@@ -11583,6 +11581,8 @@
         "FFlagReactIsProtectedTypeOf": "True",
         "DFFlagHttpThrottlingGetEntryCleanup2": "True",
         "FFlagDevFrameworkPermissionsRequestFix": "True",
+        "DFIntUwpMigrationDialogAnalyticsThrottleHundrethsPercent": "10000",
+        "FFlagMakeIsTypeLogicWorkForObject": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11882,9 +11882,9 @@
         "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage": "10",
         "FFlagEnableLogBackgroundDMLocalPlayerTimeoutLogs": "True",
         "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T18:48:39",
-        "FStringFlagRepoGitHashFastString": "f24725f2bea6ff98bff9d0da4d5818698d5cabf7",
-        "DFStringFlagRepoGitHashDynamicString": "f24725f2bea6ff98bff9d0da4d5818698d5cabf7",
-        "FStringFlipTimeStampFastString": "2025-09-08T18:52:26.091Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T18:52:26.091Z"
+        "FStringFlagRepoGitHashFastString": "77da24bf26056a0e0eea6d7414a238630cefc361",
+        "DFStringFlagRepoGitHashDynamicString": "77da24bf26056a0e0eea6d7414a238630cefc361",
+        "FStringFlipTimeStampFastString": "2025-09-08T18:57:19.367Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T18:57:19.367Z"
     }
 }
