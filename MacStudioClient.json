@@ -11572,11 +11572,12 @@
         "FLogSignalRNotification": "0",
         "FFlagGamepadSurfaceGuiCorrections": "True",
         "FFlagEditableMeshUseCorrectMimeType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T18:04:04",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableNativeiOSFeatureNavigationTelemetry2": "True",
         "FFlagUGCValidationFixBannedNamesTypo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T18:11:20",
-        "FFlagEnableAdsMouseUnlock": "True",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "FFlagAudioReferenceOutputAlwaysOn": "True",
+        "FFlagEnableAdsMouseUnlock": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -13217,7 +13218,8 @@
         "FFlagStudioLaunchTeamTestFromEdge": "True",
         "FFlagStudioPanelsAllowScreenOverflow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:56:48",
         "FFlagRibbonFixQuickOpenAttachment_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:57:15",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
+        "FFlagRefactorBodyAttachmentOrientationsCheck2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T18:16:32",
+        "FFlagCrashReportStudioStreaming_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T18:18:28",
         "DFFlagEnableFdTracking": "True",
         "FFlagIncreaseFileDescriptorLimit": "True",
         "FFlagVoxelGridFixUpsample": "True",
@@ -13631,9 +13633,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "2670861f167dd9680064a698b29227c5f9daf7c6",
-        "DFStringFlagRepoGitHashDynamicString": "2670861f167dd9680064a698b29227c5f9daf7c6",
-        "FStringFlipTimeStampFastString": "2025-09-08T18:19:32.740Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T18:19:32.740Z"
+        "FStringFlagRepoGitHashFastString": "51ed65c40090499a6980396243a182dc172ebd92",
+        "DFStringFlagRepoGitHashDynamicString": "51ed65c40090499a6980396243a182dc172ebd92",
+        "FStringFlipTimeStampFastString": "2025-09-08T18:20:31.102Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T18:20:31.102Z"
     }
 }
