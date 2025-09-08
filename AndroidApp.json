@@ -11548,7 +11548,6 @@
         "FFlagUIBloxUseFoundationButtonInGame_IXP": "1;UIEcosystem.User.Migration;Foundation.Migration.Button.InExperience;1897561605;flagbank",
         "FFlagStudioCheckNoOrderInfoCloudEdit": "True",
         "FFlagGamepadSurfaceGuiCorrections": "True",
-        "DFFlagMicroProfilerLimitStrings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T18:09:33",
         "FFlagEnableNativeiOSFeatureNavigationTelemetry2": "True",
         "FFlagUGCValidationFixBannedNamesTypo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T18:11:20",
         "DFFlagMicroProfilerVerticalBounds_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T18:15:38",
@@ -11583,6 +11582,7 @@
         "FFlagSBT4744ReportAutoSetupAvatarTelemetry": "True",
         "FFlagRibbonRemoveLayeredButton": "True",
         "FFlagEditableMeshUseCorrectMimeType": "True",
+        "DFFlagMicroProfilerLimitStrings": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12466,10 +12466,10 @@
         "SystemThemeHandleConfigurationChange": "True",
         "EnableLeaveAppDialog": "true",
         "FIntRbxStorageMinMemoryRequirementMB": "4000",
-        "DFFlagUserInputServiceDeviceMotionAnalytics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T18:08:32",
-        "FStringFlagRepoGitHashFastString": "1b5ac79de780ad1e503d08763fc2932e66522712",
-        "DFStringFlagRepoGitHashDynamicString": "1b5ac79de780ad1e503d08763fc2932e66522712",
-        "FStringFlipTimeStampFastString": "2025-09-08T19:08:43.648Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T19:08:43.648Z"
+        "DFFlagUserInputServiceDeviceMotionAnalytics2": "True",
+        "FStringFlagRepoGitHashFastString": "dec2267e3b4637c3cf6dcca589491f2934a7f483",
+        "DFStringFlagRepoGitHashDynamicString": "dec2267e3b4637c3cf6dcca589491f2934a7f483",
+        "FStringFlipTimeStampFastString": "2025-09-08T19:12:14.044Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T19:12:14.044Z"
     }
 }
