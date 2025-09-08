@@ -5309,7 +5309,7 @@
         "DFFlagEnableSessionEventsForEditableImage": "True",
         "DFIntEditableImageInitLoggingHundredthsPercentage": "10000",
         "DFFlagSimEditableIsFixedSizeFix": "True",
-        "DFIntRbxStorageAvailableDiskSpaceTriggerMB": "512",
+        "DFIntRbxStorageAvailableDiskSpaceTriggerMB": "100",
         "DFFlagSimEditableMeshFixVertexNormalConversion": "True",
         "FFlagEditableMeshStudioBetaEnabled": "True",
         "FFlagEditableImageMeshBetaFeature": "False",
@@ -11570,6 +11570,9 @@
         "FFlagReactIsProtectedTypeOf_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:47:05",
         "FFlagMakeIsTypeLogicWorkForObject_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:52:07",
         "DFIntUwpMigrationDialogAnalyticsThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:53:55",
+        "FFlagRibbonRemoveLayeredButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:56:26",
+        "DFFlagSOHugeFastCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:57:21",
+        "FFlagSBT4744ReportAutoSetupAvatarTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:57:25",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12448,15 +12451,14 @@
         "FFlagGamepadSurfaceGuiCorrections": "True",
         "FFlagPrecomputeDeformVertices_PlaceFilter": "True;120148879522453;73226809349189;119602771011506",
         "DFFlagCLI166515_IXP": "1;Portal.AAC_Priority-1756922507;AAC_Empty_Response;1610249722;flagbank",
-        "DFIntRbxStorageAvailableDiskSpaceTriggerMB_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T16:54:37",
         "FIntRbxStorageMinMemoryRequirementMB_Staged": "4000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:02:39",
         "EnableAndroidSystemTheme2": "True",
         "SystemThemeBackgroundInit": "True",
         "SystemThemeHandleConfigurationChange": "True",
         "DFFlagDecoupleExpandedAllowlistFromGmaSdkInit_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:50:28",
-        "FStringFlagRepoGitHashFastString": "e746611cf461abedb96715970a36e721ead0deb6",
-        "DFStringFlagRepoGitHashDynamicString": "e746611cf461abedb96715970a36e721ead0deb6",
-        "FStringFlipTimeStampFastString": "2025-09-08T17:55:18.325Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T17:55:18.325Z"
+        "FStringFlagRepoGitHashFastString": "cc0b9830eb17f39d365972f2dbaa2457270790bb",
+        "DFStringFlagRepoGitHashDynamicString": "cc0b9830eb17f39d365972f2dbaa2457270790bb",
+        "FStringFlipTimeStampFastString": "2025-09-08T17:59:56.978Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T17:59:56.978Z"
     }
 }
