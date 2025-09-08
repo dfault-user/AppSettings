@@ -11545,10 +11545,6 @@
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.5.All.Platforms;2034967467;dev_controlled",
         "DFFlagHttpSslDistrust0415252": "True",
         "DFFlagHttpStreamingCbStats": "True",
-        "FFlagDisableWarningWhenScriptDisabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:21:38",
-        "FFlagLine3DCorrectZIndex2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:22:09",
-        "FFlagFoundationFixScrollViewTags_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1015896625;2025-09-08T17:23:51",
-        "FFlagFoundationStyleTagsStyleSheetAttributes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1015896625;2025-09-08T17:23:51",
         "DFFlagCleanupTeleportImplMethod": "True",
         "FFlagAssetPermissionsApiUseRequestsField_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T17:26:10",
         "FFlagUIBloxUseFoundationButtonInGame_IXP": "1;UIEcosystem.User.Migration;Foundation.Migration.Button.InExperience;1897561605;flagbank",
@@ -11581,6 +11577,11 @@
         "FFlagSettingsHubRemoveTouchEnabled": "True",
         "FFlagEnableNativeiOSFeatureNavigationTelemetry2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T18:21:31",
         "FFlagLuauTypeFunNoScopeMapRef_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T18:23:46",
+        "FFlagFoundationFixScrollViewTags": "True",
+        "FFlagFoundationStyleTagsStyleSheetAttributes": "True",
+        "FFlagLine3DCorrectZIndex2": "True",
+        "FFlagDisableWarningWhenScriptDisabled": "True",
+        "FFlagAXCategoryById2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T18:26:18",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11879,9 +11880,9 @@
         "FFlagExpChatGuacChatDisabledReason": "True",
         "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage": "10",
         "FFlagEnableLogBackgroundDMLocalPlayerTimeoutLogs": "True",
-        "FStringFlagRepoGitHashFastString": "269e90424568b051e203947878e0ebb07466172b",
-        "DFStringFlagRepoGitHashDynamicString": "269e90424568b051e203947878e0ebb07466172b",
-        "FStringFlipTimeStampFastString": "2025-09-08T18:24:53.804Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T18:24:53.804Z"
+        "FStringFlagRepoGitHashFastString": "4bac7d34a3e50b74284adc230269a231a26a724a",
+        "DFStringFlagRepoGitHashDynamicString": "4bac7d34a3e50b74284adc230269a231a26a724a",
+        "FStringFlipTimeStampFastString": "2025-09-08T18:29:29.536Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T18:29:29.536Z"
     }
 }
