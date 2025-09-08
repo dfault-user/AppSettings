@@ -11599,6 +11599,7 @@
         "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;628580178;2025-09-08T21:30:28",
         "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;628580178;2025-09-08T21:30:28",
         "AllowVideoPreRoll": "True",
+        "FFlagRCCCheckReplicatorJDIv2NoOrderInfoCloudEdit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T21:35:58",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12483,9 +12484,9 @@
         "FIntRbxStorageMinMemoryRequirementMB": "4000",
         "DFFlagUserInputServiceDeviceMotionAnalytics2": "True",
         "DFIntDeviceMotionAnalyticsThrottleHundrethsPercent": "1",
-        "FStringFlagRepoGitHashFastString": "d33d8fbb021d914536d56c53602598617c41d41a",
-        "DFStringFlagRepoGitHashDynamicString": "d33d8fbb021d914536d56c53602598617c41d41a",
-        "FStringFlipTimeStampFastString": "2025-09-08T21:35:21.234Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T21:35:21.234Z"
+        "FStringFlagRepoGitHashFastString": "0d757be2a66b37a89cad90e42e3068b9c7a1ca9d",
+        "DFStringFlagRepoGitHashDynamicString": "0d757be2a66b37a89cad90e42e3068b9c7a1ca9d",
+        "FStringFlipTimeStampFastString": "2025-09-08T21:38:58.605Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T21:38:58.605Z"
     }
 }
