@@ -11598,6 +11598,7 @@
         "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;628580178;2025-09-08T21:30:28",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;628580178;2025-09-08T21:30:28",
         "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;628580178;2025-09-08T21:30:28",
+        "FFlagRealtimeScopesAssertInsteadOfCrashing_Staged": "True;SteadyState;10;30;Revert;2025-09-08T21:33:57",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11896,9 +11897,9 @@
         "FFlagExpChatGuacChatDisabledReason": "True",
         "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage": "100",
         "FFlagEnableLogBackgroundDMLocalPlayerTimeoutLogs": "True",
-        "FStringFlagRepoGitHashFastString": "9f10692ee2792ff428661802fdcee6f545425447",
-        "DFStringFlagRepoGitHashDynamicString": "9f10692ee2792ff428661802fdcee6f545425447",
-        "FStringFlipTimeStampFastString": "2025-09-08T21:33:14.750Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T21:33:14.750Z"
+        "FStringFlagRepoGitHashFastString": "d33d8fbb021d914536d56c53602598617c41d41a",
+        "DFStringFlagRepoGitHashDynamicString": "d33d8fbb021d914536d56c53602598617c41d41a",
+        "FStringFlipTimeStampFastString": "2025-09-08T21:35:21.234Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T21:35:21.234Z"
     }
 }

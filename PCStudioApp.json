@@ -11590,7 +11590,7 @@
         "FFlagFixNameBadgeSelectionCursor": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
+        "FFlagVoxelGridFixUpsample": "True",
         "FFlagThirdPartyUserGetOnSet_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T20:48:34",
         "DFFlagRemoveLocalThrottleConfigTable": "True",
         "DFIntCreatorConfigProviderPollPeriodMilliseconds_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T21:29:49",
@@ -11598,6 +11598,7 @@
         "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;628580178;2025-09-08T21:30:28",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;628580178;2025-09-08T21:30:28",
         "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;628580178;2025-09-08T21:30:28",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13241,7 +13242,6 @@
         "FFlagLuauCodeGenBetterBytecodeAnalysis": "True",
         "FFlagLuauInferActualIfElseExprType2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-08T21:04:34",
         "DFFlagTextChatHandleChatted": "True",
-        "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
         "FFlagVoxelGridFixRegionChanged": "True",
@@ -13686,9 +13686,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "9f10692ee2792ff428661802fdcee6f545425447",
-        "DFStringFlagRepoGitHashDynamicString": "9f10692ee2792ff428661802fdcee6f545425447",
-        "FStringFlipTimeStampFastString": "2025-09-08T21:33:14.750Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-08T21:33:14.750Z"
+        "FStringFlagRepoGitHashFastString": "d33d8fbb021d914536d56c53602598617c41d41a",
+        "DFStringFlagRepoGitHashDynamicString": "d33d8fbb021d914536d56c53602598617c41d41a",
+        "FStringFlipTimeStampFastString": "2025-09-08T21:35:21.234Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-08T21:35:21.234Z"
     }
 }
