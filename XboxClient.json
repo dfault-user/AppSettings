@@ -11624,6 +11624,7 @@
         "FFlagAXMigrateEquipSlotsInputBindingsToRoactGamepad2": "True",
         "DFFlagVideoCreateRenderBufferUpToVectorSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T18:16:40",
         "FFlagAXMigrateEditEmotesPageInputBindingsToFocusNavigation": "True",
+        "FFlagPurchasePromptAppConditionalFocusNavigation_Staged": "True;SteadyState;10;30;Revert;2025-09-09T18:33:36",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -11982,12 +11983,13 @@
         "FFlagStopRecursiveUpdateLayout": "True",
         "FFlagLuaAppEventDetailsFocusNav": "True",
         "FFlagSurfaceLightFixWideAngleShadows": "True",
-        "FFlagAXAdjustmentFullscreenFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T17:34:50",
         "FFlagEnableUserListModule_2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T18:09:55",
         "FFlagEnableSocialProofOnItemDetails_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T18:32:02",
-        "FStringFlagRepoGitHashFastString": "8ccc5ed044c7cfdf7252931c7b6072f82dcf8f3f",
-        "DFStringFlagRepoGitHashDynamicString": "8ccc5ed044c7cfdf7252931c7b6072f82dcf8f3f",
-        "FStringFlipTimeStampFastString": "2025-09-09T18:33:45.328Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-09T18:33:45.328Z"
+        "FFlagEnableSocialProofOnItemDetailsRoactGamepadNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T18:33:39",
+        "FFlagAXAdjustmentFullscreenFix": "True",
+        "FStringFlagRepoGitHashFastString": "bd605bdedddd0b96ba92bfd3db2ca54385f92624",
+        "DFStringFlagRepoGitHashDynamicString": "bd605bdedddd0b96ba92bfd3db2ca54385f92624",
+        "FStringFlipTimeStampFastString": "2025-09-09T18:37:37.986Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-09T18:37:37.986Z"
     }
 }
