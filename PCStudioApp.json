@@ -1285,7 +1285,7 @@
         "FFlagLuaAppEnableCredentialsProtocol": "True",
         "DFIntAbuseReportV1Percentage": "0",
         "FFlagLuaFlagVoiceChatDisableSubscribeRetryForMultistream": "False",
-        "FFlagAddClosePlaceEvents": "True",
+        "FFlagAddClosePlaceEvents": "False",
         "FFlagLuaAppFixMessageBusUnsubscribe": "True",
         "FFlagLCQualityHoleThresholdChange": "True",
         "DFIntPathfindingStatsPerRequestThrottleHundrethsPercentEIPerSession": "10000",
@@ -11626,9 +11626,6 @@
         "FFlagAXMigrateSceneGamepadHandlerInputBindings2": "True",
         "DFFlagSolverV2LetClientInitInOM": "True",
         "FFlagGameSettingsRemoveTextTransparency": "True",
-        "FFlagAddClosePlaceEvents_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;181989260;2025-09-09T21:06:19",
-        "FFlagAXRemoveBodyShapePageGamepadBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T21:08:15",
-        "FFlagAXRemoveCommunityAvatarEntryMenuGamepadBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T21:09:24",
         "FFlagAXRemoveCreateOrUpdateOutfitMenuGamepadBindings2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T21:15:38",
         "FFlagLuaAppAgeRecommendationsMinimumAge2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T21:24:14",
         "FStringCreatorSubtitleNavigationExperimentLayer_Staged": "PlayerApp.GameDetailsPage.Exposure;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T21:27:08",
@@ -11639,6 +11636,8 @@
         "FFlagVerifySetAncestorOptimization": "True",
         "DFFlagEnableAmpV2CanUseInExperienceChat2": "True",
         "FFlagUsePageSideMarginUniversalityFixEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T22:04:57",
+        "FFlagAXRemoveBodyShapePageGamepadBindings": "True",
+        "FFlagAXRemoveCommunityAvatarEntryMenuGamepadBindings": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13731,9 +13730,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "69be19837d7d5d228198685e18a79bb982970a7f",
-        "DFStringFlagRepoGitHashDynamicString": "69be19837d7d5d228198685e18a79bb982970a7f",
-        "FStringFlipTimeStampFastString": "2025-09-09T22:08:01.584Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-09T22:08:01.584Z"
+        "FStringFlagRepoGitHashFastString": "7114227e7a95ff42ba38de100fcc7592dc68e609",
+        "DFStringFlagRepoGitHashDynamicString": "7114227e7a95ff42ba38de100fcc7592dc68e609",
+        "FStringFlipTimeStampFastString": "2025-09-09T22:13:17.508Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-09T22:13:17.508Z"
     }
 }
