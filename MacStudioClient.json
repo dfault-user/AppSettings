@@ -11606,7 +11606,6 @@
         "FFlagIgnoreParentAudioOcclusion": "True",
         "DFFlagDebugDrawEngineContext": "True",
         "DFFlagDebugDrawEnable": "True",
-        "FFlagEnableAdsMouseUnlock": "True",
         "AxisAdornmentGrabSize": "12",
         "FFlagForceControllerChangeAxisValue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:30:43",
         "FFlagFmodMainChannelGroupFighting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:37:15",
@@ -11617,6 +11616,7 @@
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagAXMigrateEquipSlotsInputBindingsToRoactGamepad2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T17:13:22",
         "FFlagAXMigrateEditEmotesPageInputBindingsToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T17:15:45",
+        "FFlagGraphicsTextureCopy": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13259,6 +13259,7 @@
         "FFlagLuauInferActualIfElseExprType2": "True",
         "FFlagFixConstraintScaleChangeCrash2": "True",
         "FFlagEnableAssetDependencyGrantEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:31:22",
+        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "DFFlagEnableFdTracking": "True",
@@ -13540,7 +13541,6 @@
         "FFlagBootcampCLI160984": "True",
         "FFlagVideoAsyncStream3_IXP": "1;Portal.VideoStrand-1753407167;VideoStrand;1210184318;flagbank",
         "DFFlagRobloxTelemetryEnableSenderCallback": "True",
-        "FFlagGraphicsTextureCopy": "True",
         "FFlagVideoMacCleanupPixelBuffers": "True",
         "FFlagAXAvatarsTabIXP": "False",
         "DFFlagRbxStorageOldCacheNoCreate": "True",
@@ -13678,9 +13678,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "9b60d180456091a33fa6fe79f3152a50c4df43e7",
-        "DFStringFlagRepoGitHashDynamicString": "9b60d180456091a33fa6fe79f3152a50c4df43e7",
-        "FStringFlipTimeStampFastString": "2025-09-09T17:17:12.874Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-09T17:17:12.874Z"
+        "FStringFlagRepoGitHashFastString": "a16c2f20699cc1eb76327e426d148165d0facf02",
+        "DFStringFlagRepoGitHashDynamicString": "a16c2f20699cc1eb76327e426d148165d0facf02",
+        "FStringFlipTimeStampFastString": "2025-09-09T17:18:35.045Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-09T17:18:35.045Z"
     }
 }

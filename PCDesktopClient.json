@@ -11606,7 +11606,6 @@
         "FFlagIgnoreParentAudioOcclusion": "True",
         "DFFlagDebugDrawEngineContext": "True",
         "DFFlagDebugDrawEnable": "True",
-        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagLuauCodeGenDirectBtest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:23:29",
         "FFlagForceControllerChangeAxisValue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:30:43",
         "FFlagFmodMainChannelGroupFighting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:37:15",
@@ -11617,6 +11616,8 @@
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagAXMigrateEquipSlotsInputBindingsToRoactGamepad2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T17:13:22",
         "FFlagAXMigrateEditEmotesPageInputBindingsToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T17:15:45",
+        "FFlagGraphicsTextureCopy": "True",
+        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -11994,7 +11995,6 @@
         "FFlagNewUpsellModalExperimentForDesktop": "False",
         "FFlagUseNewRobloxIconInNotifications": "True",
         "FFlagVideoAsyncStream3_IXP": "1;Portal.VideoStrand-1753407167;VideoStrand;1210184318;flagbank",
-        "FFlagGraphicsTextureCopy": "True",
         "DFIntReportBasePlayerGuiClassUsageTelemetryHundredthsPercent": "10",
         "DFFlagRobloxTelemetryEnableSenderCallback": "True",
         "FFlagVideoCaptureXbox_IXP": "1;Social.WindowsCapture;VideoCaptureEngine.WindowsUserCapture.V1;305444884;flagbank",
@@ -12588,9 +12588,9 @@
         "FFlagEnableLogBackgroundDMLocalPlayerTimeoutLogs": "True",
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "True",
         "FFlagLuaAppScaleToastPadding": "True",
-        "FStringFlagRepoGitHashFastString": "9b60d180456091a33fa6fe79f3152a50c4df43e7",
-        "DFStringFlagRepoGitHashDynamicString": "9b60d180456091a33fa6fe79f3152a50c4df43e7",
-        "FStringFlipTimeStampFastString": "2025-09-09T17:17:12.874Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-09T17:17:12.874Z"
+        "FStringFlagRepoGitHashFastString": "a16c2f20699cc1eb76327e426d148165d0facf02",
+        "DFStringFlagRepoGitHashDynamicString": "a16c2f20699cc1eb76327e426d148165d0facf02",
+        "FStringFlipTimeStampFastString": "2025-09-09T17:18:35.045Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-09T17:18:35.045Z"
     }
 }
