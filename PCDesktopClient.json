@@ -11626,7 +11626,6 @@
         "FFlagAXMigrateSceneGamepadHandlerInputBindings2": "True",
         "DFFlagSolverV2LetClientInitInOM": "True",
         "FFlagGameSettingsRemoveTextTransparency": "True",
-        "AllowVideoPreRoll": "True",
         "FStringCreatorSubtitleNavigationExperimentLayer_Staged": "PlayerApp.GameDetailsPage.Exposure;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T21:27:08",
         "FFlagStreamJobDeferredInstanceSetType": "True",
         "DFFlagDefaultRuppHeaderServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T21:42:11",
@@ -11638,6 +11637,7 @@
         "FFlagAXRemoveBodyShapePageGamepadBindings": "True",
         "FFlagAXRemoveCommunityAvatarEntryMenuGamepadBindings": "True",
         "FFlagAXRemoveCreateOrUpdateOutfitMenuGamepadBindings2": "True",
+        "FFlagLuaAppAgeRecommendationsMinimumAge2": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12144,6 +12144,7 @@
         "DFIntInstanceReflectionLimitReportHundredthsPercentage": "100",
         "FFlagLuaAppEventDetailsFocusNav": "True",
         "FFlagAXAdjustmentFullscreenFix": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12597,7 +12598,6 @@
         "DFStringLoadTestName": "",
         "FIntNativePurchaseRobuxPageWrapperStatThrottlingPercentage": "100",
         "FFlagNativePurchaseRobuxPageWrapperEnableTelemetry": "True",
-        "FFlagLuaAppAgeRecommendationsMinimumAge2": "True",
         "FFlagTrackBtidSessionChange3": "True",
         "FFlagFixUIRayGoingThruExistingVerts3": "True",
         "DFFlagSaferCharInputHandling": "False",
@@ -12609,11 +12609,11 @@
         "FFlagEnableUserListModule_2": "True",
         "FFlagEnableSocialProofOnItemDetails": "True",
         "FFlagEnableSocialProofOnItemDetailsRoactGamepadNavigation": "True",
-        "DFFlagInitTombstoneAfterBlockingFetch2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T21:24:56",
         "FFlagLuaAppUseContentMaturityUpsellMapping_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T21:37:19",
-        "FStringFlagRepoGitHashFastString": "8fe14fe1fd794a60ce7fac97d1cea61c87d82870",
-        "DFStringFlagRepoGitHashDynamicString": "8fe14fe1fd794a60ce7fac97d1cea61c87d82870",
-        "FStringFlipTimeStampFastString": "2025-09-09T22:27:23.570Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-09T22:27:23.570Z"
+        "DFFlagInitTombstoneAfterBlockingFetch2": "True",
+        "FStringFlagRepoGitHashFastString": "15f0e1f50a3903bd8204fefa2e3b94c629b07765",
+        "DFStringFlagRepoGitHashDynamicString": "15f0e1f50a3903bd8204fefa2e3b94c629b07765",
+        "FStringFlipTimeStampFastString": "2025-09-09T22:32:33.531Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-09T22:32:33.531Z"
     }
 }
