@@ -11627,9 +11627,6 @@
         "DFFlagSolverV2LetClientInitInOM": "True",
         "FFlagGameSettingsRemoveTextTransparency": "True",
         "FFlagStreamJobDeferredInstanceSetType": "True",
-        "DFFlagDefaultRuppHeaderServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T21:42:11",
-        "FFlagAXRemoveHeadRefinementPageGamepadBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T21:43:31",
-        "FFlagAXRemoveAvatarSwitcherPageGamepadBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T21:45:01",
         "FFlagVerifySetAncestorOptimization": "True",
         "DFFlagEnableAmpV2CanUseInExperienceChat2": "True",
         "FFlagUsePageSideMarginUniversalityFixEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T22:04:57",
@@ -11642,6 +11639,8 @@
         "AllowVideoPreRoll": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagAXMigrateItemOwnershipSellPagesInputBindingsToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T22:44:21",
+        "DFFlagDefaultRuppHeaderServer": "True",
+        "FFlagAXRemoveHeadRefinementPageGamepadBindings": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13227,7 +13226,7 @@
         "FFlagStudioPluginTimeoutExemptions": "False",
         "FFlagStudioTimeoutBuiltInPlugins": "False",
         "FFlagStudioTimeoutUserPlugins": "False",
-        "DFStringDataStoreRdbShadowTrafficRolloutConfig_PlaceFilter": "5564402127:10000,6241394935:10000,5578556129:20,1686885941:0;16101250253;18412633979;16146832113;4924922222",
+        "DFStringDataStoreRdbShadowTrafficRolloutConfig_PlaceFilter": "5564402127:10000,6241394935:10000,5578556129:0,1686885941:0;16101250253;18412633979;16146832113;4924922222",
         "DFFlagDataStoreEnableRdbShadowTraffic_PlaceFilter": "True;16101250253;18412633979;16146832113;4924922222",
         "FFlagStudioFixDockWidgetPanelDtorCrash": "True",
         "FFlagStudioAddFlagsLoadedAssert": "True",
@@ -13737,9 +13736,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "00d9a789520458ffacaa82103fffcd635d82e58f",
-        "DFStringFlagRepoGitHashDynamicString": "00d9a789520458ffacaa82103fffcd635d82e58f",
-        "FStringFlipTimeStampFastString": "2025-09-09T22:49:11.026Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-09T22:49:11.026Z"
+        "FStringFlagRepoGitHashFastString": "77612ea770fb951f3466aa1bb64129d283d3a8bf",
+        "DFStringFlagRepoGitHashDynamicString": "77612ea770fb951f3466aa1bb64129d283d3a8bf",
+        "FStringFlipTimeStampFastString": "2025-09-09T22:52:40.079Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-09T22:52:40.079Z"
     }
 }
