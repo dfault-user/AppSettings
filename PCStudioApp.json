@@ -11613,13 +11613,11 @@
         "FFlagRealtimeScopesAssertInsteadOfCrashing": "True",
         "FFlagAXRemoveAvatarSwitcherPageGamepadBindings": "True",
         "FFlagCreationDBDeprecationCleanup": "True",
-        "DFFlagDebugStylingWarnDeprecatedPressedSelector_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T18:01:06",
         "FFlagSuggestionsFrameHorizontalPadding_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2004462190;2025-09-09T18:11:37",
         "DFFlagCLI166009": "True",
         "FFlagAXMigrateEquipSlotsInputBindingsToRoactGamepad2": "True",
         "DFFlagVideoCreateRenderBufferUpToVectorSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T18:16:40",
         "FFlagAXMigrateEditEmotesPageInputBindingsToFocusNavigation": "True",
-        "FFlagPurchasePromptAppConditionalFocusNavigation_Staged": "True;SteadyState;10;30;Revert;2025-09-09T18:33:36",
         "FFlagAXMigrateSceneGamepadHandlerInputBindings2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T18:37:03",
         "FFlagDynamicTranslationNumberParameterizationEnabled2": "True",
         "DFFlagShowRobloxTranslationsEnablesDynamicTranslation": "True",
@@ -11628,6 +11626,7 @@
         "FFlagGameSettingsRemoveTextTransparency_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T18:50:38",
         "DFFlagSolverV2LetClientInitInOM_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T18:53:36",
         "FFlagReduceJointListSize3": "True",
+        "DFFlagDebugStylingWarnDeprecatedPressedSelector": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13274,6 +13273,7 @@
         "FFlagOverrideStreamRadii2": "True",
         "FFlagToolboxUseAssetDependencyGrantEvent2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T18:38:57",
         "FFlagLuauExplicitSkipBoundTypes": "True",
+        "FFlagAmrUseAssetAccessController2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T19:05:44",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13720,9 +13720,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "574504b73eaee4fee8f2e11e5dba3f19ab36bed4",
-        "DFStringFlagRepoGitHashDynamicString": "574504b73eaee4fee8f2e11e5dba3f19ab36bed4",
-        "FStringFlipTimeStampFastString": "2025-09-09T18:56:35.952Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-09T18:56:35.952Z"
+        "FStringFlagRepoGitHashFastString": "fc6927abd2961790c85748ba8225194901958fb2",
+        "DFStringFlagRepoGitHashDynamicString": "fc6927abd2961790c85748ba8225194901958fb2",
+        "FStringFlipTimeStampFastString": "2025-09-09T19:07:23.035Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-09T19:07:23.035Z"
     }
 }
