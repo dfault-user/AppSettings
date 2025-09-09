@@ -11614,6 +11614,7 @@
         "AllowVideoPreRoll": "True",
         "FFlagAXRemoveAvatarSwitcherPageGamepadBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:53:20",
         "FFlagCreationDBDeprecationCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:58:32",
+        "FFlagUseRuntimeMutexSoftwareOcclusion_Staged": "True;SteadyState;10;30;Revert;2025-09-09T17:05:36",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -12499,9 +12500,9 @@
         "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
         "FFlagSimAeroGeometryUseOptimizations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:27:28",
         "DFFlagDecoupleExpandedAllowlistFromGmaSdkInit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:30:21",
-        "FStringFlagRepoGitHashFastString": "a2af997613a2a9e3abed7539ca12abe8db3faf96",
-        "DFStringFlagRepoGitHashDynamicString": "a2af997613a2a9e3abed7539ca12abe8db3faf96",
-        "FStringFlipTimeStampFastString": "2025-09-09T17:01:55.703Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-09T17:01:55.703Z"
+        "FStringFlagRepoGitHashFastString": "a3a954ff6d91df7d8bcae7c30b42af2b25e5488d",
+        "DFStringFlagRepoGitHashDynamicString": "a3a954ff6d91df7d8bcae7c30b42af2b25e5488d",
+        "FStringFlipTimeStampFastString": "2025-09-09T17:08:39.263Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-09T17:08:39.263Z"
     }
 }
