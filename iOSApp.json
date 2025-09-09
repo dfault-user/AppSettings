@@ -11614,6 +11614,8 @@
         "FFlagAXRemoveAvatarSwitcherPageGamepadBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:53:20",
         "FFlagCreationDBDeprecationCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:58:32",
         "FFlagUseRuntimeMutexSoftwareOcclusion_Staged": "True;SteadyState;10;30;Revert;2025-09-09T17:05:36",
+        "DFFlagCLI166009_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T17:12:11",
+        "FFlagAXMigrateEquipSlotsInputBindingsToRoactGamepad2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T17:13:22",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12478,9 +12480,9 @@
         "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
         "FFlagLuaAppEventDetailsFocusNav": "True",
         "FFlagSimAeroGeometryUseOptimizations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:27:28",
-        "FStringFlagRepoGitHashFastString": "1129aeae3ab38f8fa2d9238b52854c3ff9f35d8d",
-        "DFStringFlagRepoGitHashDynamicString": "1129aeae3ab38f8fa2d9238b52854c3ff9f35d8d",
-        "FStringFlipTimeStampFastString": "2025-09-09T17:13:51.851Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-09T17:13:51.851Z"
+        "FStringFlagRepoGitHashFastString": "d880b978ca324f7d6f8012edb81936d3ee88aca0",
+        "DFStringFlagRepoGitHashDynamicString": "d880b978ca324f7d6f8012edb81936d3ee88aca0",
+        "FStringFlipTimeStampFastString": "2025-09-09T17:15:29.018Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-09T17:15:29.018Z"
     }
 }
