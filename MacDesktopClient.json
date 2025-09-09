@@ -11606,11 +11606,12 @@
         "FFlagIgnoreParentAudioOcclusion": "True",
         "DFFlagDebugDrawEngineContext": "True",
         "DFFlagDebugDrawEnable": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagLuauCodeGenDirectBtest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:23:29",
         "FFlagFmodFallbackAaudioToOpensl_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:25:48",
         "FFlagForceControllerChangeAxisValue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:30:43",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
+        "FFlagFmodMainChannelGroupFighting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T16:37:15",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12513,9 +12514,9 @@
         "FFlagEnableLogBackgroundDMLocalPlayerTimeoutLogs": "True",
         "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage": "0",
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "True",
-        "FStringFlagRepoGitHashFastString": "4afded40454ef539dc4db630312a47d8e96b4f8d",
-        "DFStringFlagRepoGitHashDynamicString": "4afded40454ef539dc4db630312a47d8e96b4f8d",
-        "FStringFlipTimeStampFastString": "2025-09-09T16:32:53.409Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-09T16:32:53.409Z"
+        "FStringFlagRepoGitHashFastString": "c24ba7c5bbff404f0b7807962d7f57cf701924ed",
+        "DFStringFlagRepoGitHashDynamicString": "c24ba7c5bbff404f0b7807962d7f57cf701924ed",
+        "FStringFlipTimeStampFastString": "2025-09-09T16:39:21.818Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-09T16:39:21.818Z"
     }
 }
