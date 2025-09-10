@@ -11678,8 +11678,6 @@
         "FFlagAXMigrateItemDetailsFullToFocusNavigation": "True",
         "FFlagAXMigrateUpdateOutfitPageToFocusNavigation": "True",
         "FIntVoiceChatSdpCompressionMode": "2",
-        "FFlagAXMigrateProfilePictureEditorFinalPageToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:43:06",
-        "FFlagAXMigrateSearchBarToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:43:54",
         "FFlagEnableSocialProofOnItemDetailsRoactGamepadNavigation": "True",
         "FFlagEnableSocialProofUserList_4": "True",
         "FFlagEnableUserListModule_2": "True",
@@ -11692,6 +11690,8 @@
         "FFlagUseRuntimeMutexSkinTransferRegistry": "True",
         "FFlagEnableChatMicPerfBinding_IXP": "1;ExperienceChat.Performance;FFlagEnableChatMicPerfBinding;1740143267;flagbank",
         "FFlagAXMigrateProfilePictureEditorCameraPageToFocusNavigation": "True",
+        "FFlagAXMigrateProfilePictureEditorFinalPageToFocusNavigation": "True",
+        "FFlagAXMigrateSearchBarToFocusNavigation": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12607,9 +12607,9 @@
         "DFFlagInitTombstoneAfterBlockingFetch2": "False",
         "FFlagLuaAppUseContentMaturityUpsellMapping": "True",
         "FFlagReportBatchedRaycastTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "e7cb3c74d15c9feb215fe464bc81c942041fd6e6",
-        "DFStringFlagRepoGitHashDynamicString": "e7cb3c74d15c9feb215fe464bc81c942041fd6e6",
-        "FStringFlipTimeStampFastString": "2025-09-10T23:47:48.444Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T23:47:48.444Z"
+        "FStringFlagRepoGitHashFastString": "df8614319f9c6e27c6db7d212f1bf01419b51217",
+        "DFStringFlagRepoGitHashDynamicString": "df8614319f9c6e27c6db7d212f1bf01419b51217",
+        "FStringFlipTimeStampFastString": "2025-09-10T23:51:24.833Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T23:51:24.833Z"
     }
 }
