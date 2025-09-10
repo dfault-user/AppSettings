@@ -11636,8 +11636,6 @@
         "FStringCreatorSubtitleNavigationExperimentLayer": "PlayerApp.GameDetailsPage.Exposure",
         "DFFlagDefaultRuppHeaderServer": "True",
         "FFlagAXRemoveHeadRefinementPageGamepadBindings": "True",
-        "FFlagAXMigrateRecommendedItemsGridToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T22:52:09",
-        "FFlagAXRemoveSellPageAndChildrenGamepadBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T22:54:57",
         "FFlagAXMigrateTabBarMainNavigationToFocusNavigation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T22:57:39",
         "FFlagAssetUploadDirectUploadMesh_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T22:59:51",
         "FFlagNativeAdsProtocolDisconnectOnLeave2": "True",
@@ -11650,6 +11648,9 @@
         "FFlagAddDeferredThreadsToPerfData": "True",
         "FFlagRbxLogRefactor": "True",
         "FFlagAXMigrateItemOwnershipSellPagesInputBindingsToFocusNavigation": "True",
+        "FFlagAXMigrateRecommendedItemsGridToFocusNavigation": "True",
+        "FFlagAXRemoveSellPageAndChildrenGamepadBindings": "True",
+        "DFFlagColliderAudioCanCollide_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-09T23:59:13",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12619,9 +12620,9 @@
         "FFlagEnableSocialProofOnItemDetailsRoactGamepadNavigation": "True",
         "DFFlagInitTombstoneAfterBlockingFetch2": "True",
         "FFlagLuaAppUseContentMaturityUpsellMapping": "True",
-        "FStringFlagRepoGitHashFastString": "b09d979d616bd55aa0e8bbd4e8384e7b7184d790",
-        "DFStringFlagRepoGitHashDynamicString": "b09d979d616bd55aa0e8bbd4e8384e7b7184d790",
-        "FStringFlipTimeStampFastString": "2025-09-09T23:57:46.040Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-09T23:57:46.040Z"
+        "FStringFlagRepoGitHashFastString": "dc43ed39339e7b576beb0b36626698c4816f7dec",
+        "DFStringFlagRepoGitHashDynamicString": "dc43ed39339e7b576beb0b36626698c4816f7dec",
+        "FStringFlipTimeStampFastString": "2025-09-10T00:02:22.627Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T00:02:22.627Z"
     }
 }
