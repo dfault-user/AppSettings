@@ -12548,7 +12548,6 @@
         "FFlagSystemThemeLuaEnabled9_IXP": "1;ConsumerPlatforms.SystemTheme;ConsumerPlatforms.SystemThemeAvailable.2-noNotif.Android;1678690474;flagbank",
         "FFlagLoadRawBytecodeWithHashKey": "True",
         "FFlagEnableCreatorSubtitleNavigation_v2_IXP": "1;PlayerApp.GameDetailsPage.Exposure;App_EDP_Creator_Subtitle_Linking_To_Profile_V1;1531928792;flagbank",
-        "FFlagAXMigratePeekViewToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T17:55:23",
         "EnableCachedNativeFlag": "true",
         "FFlagRbxStorageReportWalFileSize": "True",
         "EnableDeviceNameInPushRegister": "True",
@@ -12556,9 +12555,11 @@
         "FFlagGetHumanoidDescriptionUpdatesV2D": "True",
         "FFlagAXMigratePurchasePromptInteractiveToFocusNavigation2": "True",
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
-        "FStringFlagRepoGitHashFastString": "c21ea2672a78850f6f329a17cbb17a4f7459a00e",
-        "DFStringFlagRepoGitHashDynamicString": "c21ea2672a78850f6f329a17cbb17a4f7459a00e",
-        "FStringFlipTimeStampFastString": "2025-09-10T19:01:46.351Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T19:01:46.351Z"
+        "FFlagAXMigratePeekViewToFocusNavigation": "True",
+        "FFlagLoadRawBytecodeWithHashKey_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T19:01:08",
+        "FStringFlagRepoGitHashFastString": "5845c5fdeed9d265f8ecaf12f2d512998997d966",
+        "DFStringFlagRepoGitHashDynamicString": "5845c5fdeed9d265f8ecaf12f2d512998997d966",
+        "FStringFlipTimeStampFastString": "2025-09-10T19:03:26.421Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T19:03:26.421Z"
     }
 }
