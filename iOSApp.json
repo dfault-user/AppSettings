@@ -11673,6 +11673,9 @@
         "DFFlagMRFMoveUpdate": "True",
         "FFlagPurchasePromptAppConditionalFocusNavigation": "True",
         "FFlagLuauVariadicAnyPackShouldBeErrorSuppressing": "True",
+        "FFlagEnableMoreMenuPopoverFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T20:46:03",
+        "FFlagSquadDisableJoinButtonSameInstance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T20:46:29",
+        "FFlagAlwaysCloseMoreMenuOnActivate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T20:46:57",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12549,9 +12552,9 @@
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagRuntimeEnabled8_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T20:38:51",
-        "FStringFlagRepoGitHashFastString": "59e5b33f225794ccd3121efe963b4a261b275fde",
-        "DFStringFlagRepoGitHashDynamicString": "59e5b33f225794ccd3121efe963b4a261b275fde",
-        "FStringFlipTimeStampFastString": "2025-09-10T20:49:30.956Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T20:49:30.956Z"
+        "FStringFlagRepoGitHashFastString": "ff8f174407dc17b0f17c2d49f769f22253e0787a",
+        "DFStringFlagRepoGitHashDynamicString": "ff8f174407dc17b0f17c2d49f769f22253e0787a",
+        "FStringFlipTimeStampFastString": "2025-09-10T20:51:33.717Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T20:51:33.717Z"
     }
 }
