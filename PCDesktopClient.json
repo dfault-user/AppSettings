@@ -11679,6 +11679,7 @@
         "FIntVoiceChatSdpCompressionMode_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:31:24",
         "DFFlagSimSolverReserveForReducedEdgesNoAllocCheck": "True",
         "AllowVideoPreRoll": "True",
+        "FFlagEnableSocialProofUserList_4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:44:23",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12188,6 +12189,7 @@
         "FFlagLuauCodeGenUnassignedBcTargetAbort_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:13:13",
         "FFlagRenderDeviceDummyAndroidDefaultUseGLES3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:28:56",
         "FFlagRbxStorageFindAndRemoveOrphanedFiles_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:41:32",
+        "FFlagLuauCodeGenRegAutoSpillA64_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:42:39",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12656,9 +12658,9 @@
         "FFlagLuaAppUseContentMaturityUpsellMapping": "True",
         "FFlagVoiceConnectionApiEnableTearDownPeerConnectionFactoryOnSignalingThread": "True",
         "FFlagReportBatchedRaycastTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "9d0016493e1093c3f4b694411d629e27184a8c84",
-        "DFStringFlagRepoGitHashDynamicString": "9d0016493e1093c3f4b694411d629e27184a8c84",
-        "FStringFlipTimeStampFastString": "2025-09-10T21:44:54.890Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T21:44:54.890Z"
+        "FStringFlagRepoGitHashFastString": "e7f0cda4ee60885b803eb2a4ddab74eb4ec9a645",
+        "DFStringFlagRepoGitHashDynamicString": "e7f0cda4ee60885b803eb2a4ddab74eb4ec9a645",
+        "FStringFlipTimeStampFastString": "2025-09-10T21:47:24.868Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T21:47:24.868Z"
     }
 }
