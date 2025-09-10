@@ -13355,8 +13355,6 @@
         "FFlagLuauNumericUnaryOpsDontProduceNegationRefinements": "True",
         "FFlagCanReplicateAudioVideoContentPropertiesServer": "True",
         "DFFlagVoxelHastefulHullTesting": "True",
-        "FFlagFixMissingAnimRigDataBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:28:39",
-        "FFlagStudioUnsavedPlaceGrantPermissions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:33:08",
         "FFlagStudioTeamTestAction3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:42:10",
         "FFlagSkipOverridenDiffProperties_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:52:13",
         "FFlagAACShareUniverseAccessToAssetsAsync": "True",
@@ -13365,6 +13363,8 @@
         "FFlagAnnotationsUseStateCallbacks": "True",
         "FFlagLuauSubtypingGenericPacksDoesntUseVariance": "True",
         "FIntAICOAcceptCountToDisableTooltip_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T23:26:47",
+        "FFlagFixMissingAnimRigDataBug": "True",
+        "FFlagStudioUnsavedPlaceGrantPermissions": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13818,9 +13818,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "4d82ef99d7788cfcfe92a54abd54f406af4fc5e6",
-        "DFStringFlagRepoGitHashDynamicString": "4d82ef99d7788cfcfe92a54abd54f406af4fc5e6",
-        "FStringFlipTimeStampFastString": "2025-09-10T23:33:53.379Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T23:33:53.379Z"
+        "FStringFlagRepoGitHashFastString": "93375b22fde3dbfa38608424adb1d2eee1a4d5e6",
+        "DFStringFlagRepoGitHashDynamicString": "93375b22fde3dbfa38608424adb1d2eee1a4d5e6",
+        "FStringFlipTimeStampFastString": "2025-09-10T23:37:37.986Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T23:37:37.986Z"
     }
 }
