@@ -11670,7 +11670,6 @@
         "FFlagChatLineReportingFocusFixesEnabled": "True",
         "FFlagTextBoxFocusEnterPressedFix": "True",
         "FFlagRemoveMeInParent": "False",
-        "FIntVoiceChatSdpCompressionMode_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:31:24",
         "DFFlagSimSolverReserveForReducedEdgesNoAllocCheck": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11688,6 +11687,8 @@
         "FFlagAXMigrateManageOutfitPageInputBindingsToFocusNavigation3": "True",
         "FFlagAXMigrateItemDetailsFullToFocusNavigation": "True",
         "FFlagAXMigrateUpdateOutfitPageToFocusNavigation": "True",
+        "FIntVoiceChatSdpCompressionMode": "2",
+        "FFlagAXMigrateProfilePictureEditorCameraPageToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:37:49",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -12562,9 +12563,9 @@
         "FFlagReportBatchedRaycastTelemetry": "True",
         "FFlagAXBulkPurchaseAppCloseButtonPosition": "True",
         "DFFlagUserInputServiceDeviceMotionAnalytics2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:17:22",
-        "FStringFlagRepoGitHashFastString": "09805fbdee7d06d0fa263eee1dce7aa9a8ac96ea",
-        "DFStringFlagRepoGitHashDynamicString": "09805fbdee7d06d0fa263eee1dce7aa9a8ac96ea",
-        "FStringFlipTimeStampFastString": "2025-09-10T22:34:14.068Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T22:34:14.068Z"
+        "FStringFlagRepoGitHashFastString": "46ea2084fb7358c06a1c6e2f92d4b374b3749c66",
+        "DFStringFlagRepoGitHashDynamicString": "46ea2084fb7358c06a1c6e2f92d4b374b3749c66",
+        "FStringFlipTimeStampFastString": "2025-09-10T22:39:51.192Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T22:39:51.192Z"
     }
 }
