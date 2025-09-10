@@ -11663,7 +11663,6 @@
         "FFlagAXMigrateLayeredClothingSortPageToFocusNavigation2": "True",
         "FFlagAXMigrateSortAndFiltersScreenInputBindingsToFocusNavigation": "True",
         "DFFlagBugfixCLI128681": "True",
-        "DFFlagSimSolverReserveForReducedEdgesNoAllocCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T20:34:49",
         "DFFlagMRFMoveUpdate": "True",
         "FFlagPurchasePromptAppConditionalFocusNavigation": "True",
         "FFlagLuauVariadicAnyPackShouldBeErrorSuppressing": "True",
@@ -11678,6 +11677,7 @@
         "FFlagAXMigrateItemDetailsFullToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:19:07",
         "FFlagRemoveMeInParent": "True",
         "FIntVoiceChatSdpCompressionMode_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:31:24",
+        "DFFlagSimSolverReserveForReducedEdgesNoAllocCheck": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12586,9 +12586,9 @@
         "DFFlagInitTombstoneAfterBlockingFetch2": "False",
         "FFlagLuaAppUseContentMaturityUpsellMapping": "True",
         "FFlagReportBatchedRaycastTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "4df7d9c073488641bf90a4b6574deeda17dc01fd",
-        "DFStringFlagRepoGitHashDynamicString": "4df7d9c073488641bf90a4b6574deeda17dc01fd",
-        "FStringFlipTimeStampFastString": "2025-09-10T21:34:24.914Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T21:34:24.914Z"
+        "FStringFlagRepoGitHashFastString": "9703dd9d1309e853f72995468e9c71066f856339",
+        "DFStringFlagRepoGitHashDynamicString": "9703dd9d1309e853f72995468e9c71066f856339",
+        "FStringFlipTimeStampFastString": "2025-09-10T21:38:13.124Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T21:38:13.124Z"
     }
 }
