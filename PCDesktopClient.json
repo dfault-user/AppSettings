@@ -9001,7 +9001,7 @@
         "FFlagRenameFriendsToConnectionsFriendsPage": "True",
         "FFlagPCGDKCredentialsProtocolImpl": "True",
         "FStringGraphicsClampInstanceDataInShaderGLESAllowList": "Adreno \\(TM\\) 30\\d",
-        "FStringGraphicsDisableCloudsForVendorGPUDriver": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*",
+        "FStringGraphicsDisableCloudsForVendorGPUDriver": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*|Intel HD Graphics 3000:.*",
         "DFIntInstanceBadConstructor_Limit": "1",
         "FFlagEnableBillingTabHideLogic": "False",
         "FFlagSeeMoreCurrentlyWearingCompact_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.DynamicSizingCurrentlyWearing;1172960240;dev_controlled",
@@ -11674,7 +11674,6 @@
         "FFlagAlwaysCloseMoreMenuOnActivate": "True",
         "FFlagEnableMoreMenuPopoverFix": "True",
         "FFlagSquadDisableJoinButtonSameInstance": "True",
-        "FStringGraphicsDisableCloudsForVendorGPUDriver_Staged": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*|Intel HD Graphics 3000:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:59:36",
         "FStringAppChatNewChatInputBarIxpLayer_Staged": "Social.AppChat;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:04:30",
         "DFFlagAeroReduceReducedMeshAllocations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:04:35",
         "DFFlagSimReportV2MemoryTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:06:00",
@@ -12674,9 +12673,9 @@
         "FFlagLuaAppUseContentMaturityUpsellMapping": "True",
         "FFlagVoiceConnectionApiEnableTearDownPeerConnectionFactoryOnSignalingThread": "True",
         "FFlagReportBatchedRaycastTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "f40042b0716731b54dd27426eb422384ff83b7ea",
-        "DFStringFlagRepoGitHashDynamicString": "f40042b0716731b54dd27426eb422384ff83b7ea",
-        "FStringFlipTimeStampFastString": "2025-09-10T23:03:25.139Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T23:03:25.139Z"
+        "FStringFlagRepoGitHashFastString": "a507f99cff7b92c3130120a01c01a8f42d3740e4",
+        "DFStringFlagRepoGitHashDynamicString": "a507f99cff7b92c3130120a01c01a8f42d3740e4",
+        "FStringFlipTimeStampFastString": "2025-09-10T23:04:12.345Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T23:04:12.345Z"
     }
 }
