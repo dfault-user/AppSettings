@@ -11653,6 +11653,8 @@
         "DFFlagColliderAudioCanCollide": "True",
         "AllowVideoPreRoll": "True",
         "FFlagAvatarSettingsAddAdditionalTelemetryFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:01:16",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagIgnoreKeyboardEventsWhenTBFocused2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:04:23",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13302,7 +13304,6 @@
         "DFIntVoxelHastefulTestingHunPerc": "1",
         "DFIntVoxelTelemEventHundredthsPercentage": "10000",
         "DFIntVoxelTestingMaxVertices": "2000",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13716,9 +13717,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "22ab5102aed23e5c2271e8ccdbb4952217396420",
-        "DFStringFlagRepoGitHashDynamicString": "22ab5102aed23e5c2271e8ccdbb4952217396420",
-        "FStringFlipTimeStampFastString": "2025-09-10T16:03:02.273Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T16:03:02.273Z"
+        "FStringFlagRepoGitHashFastString": "d394ffab61e2fb39aac908316e7aac38f1795652",
+        "DFStringFlagRepoGitHashDynamicString": "d394ffab61e2fb39aac908316e7aac38f1795652",
+        "FStringFlipTimeStampFastString": "2025-09-10T16:05:58.180Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T16:05:58.180Z"
     }
 }
