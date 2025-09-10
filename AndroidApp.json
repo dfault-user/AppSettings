@@ -11672,7 +11672,7 @@
         "FFlagTextBoxFocusEnterPressedFix": "True",
         "FFlagAXMigrateUpdateOutfitPageToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:16:59",
         "FFlagAXMigrateItemDetailsFullToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:19:07",
-        "FFlagRemoveMeInParent": "True",
+        "FFlagRemoveMeInParent": "False",
         "FIntVoiceChatSdpCompressionMode_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:31:24",
         "DFFlagSimSolverReserveForReducedEdgesNoAllocCheck": "True",
         "FFlagEnableUserListModule_2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:42:01",
@@ -11686,6 +11686,8 @@
         "AxisAdornmentGrabSize": "12",
         "FStringAppChatNewChatInputBarIxpLayer_Staged": "Social.AppChat;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:04:30",
         "AllowVideoPreRoll": "True",
+        "DFFlagSimReportV2MemoryTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:06:00",
+        "FFlagUseRuntimeMutexSkinTransferRegistry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:07:50",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -12581,9 +12583,10 @@
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "True",
         "FStringGraphicsGLReportExtensions_Staged": "GL_EXT_copy_image|GL_OES_get_program_binary;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:58:18",
         "FFlagAXBulkPurchaseAppCloseButtonPosition": "True",
-        "FStringFlagRepoGitHashFastString": "25c656d0008d9246f492358f1330940376f4e9bd",
-        "DFStringFlagRepoGitHashDynamicString": "25c656d0008d9246f492358f1330940376f4e9bd",
-        "FStringFlipTimeStampFastString": "2025-09-10T22:11:38.861Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T22:11:38.861Z"
+        "FStringGraphicsVulkanPVRMTBlacklist": "5776728;6070602;6133110;6133109",
+        "FStringFlagRepoGitHashFastString": "bcc16d1e1cad9e2bf09ea7067aca8d1b7410f6c0",
+        "DFStringFlagRepoGitHashDynamicString": "bcc16d1e1cad9e2bf09ea7067aca8d1b7410f6c0",
+        "FStringFlipTimeStampFastString": "2025-09-10T22:13:35.914Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T22:13:35.914Z"
     }
 }

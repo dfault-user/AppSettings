@@ -11672,7 +11672,7 @@
         "FFlagTextBoxFocusEnterPressedFix": "True",
         "FFlagAXMigrateUpdateOutfitPageToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:16:59",
         "FFlagAXMigrateItemDetailsFullToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:19:07",
-        "FFlagRemoveMeInParent": "True",
+        "FFlagRemoveMeInParent": "False",
         "FIntVoiceChatSdpCompressionMode_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:31:24",
         "DFFlagSimSolverReserveForReducedEdgesNoAllocCheck": "True",
         "FFlagEnableUserListModule_2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:42:01",
@@ -11686,6 +11686,8 @@
         "FStringGraphicsDisableCloudsForVendorGPUDriver_Staged": "PowerVR Rogue GE8300:OpenGL ES 3\\.2 build 1\\.11@5516664|Adreno \\(TM\\) 30\\d:OpenGL.*|Intel HD Graphics 3000:.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:59:36",
         "FStringAppChatNewChatInputBarIxpLayer_Staged": "Social.AppChat;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:04:30",
         "DFFlagAeroReduceReducedMeshAllocations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:04:35",
+        "DFFlagSimReportV2MemoryTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:06:00",
+        "FFlagUseRuntimeMutexSkinTransferRegistry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:07:50",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13738,6 +13740,7 @@
         "FFlagFixStudioDisplaySizeFallback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:51:10",
         "FFlagFixUnifiedDRSGlassAndForcefield_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:53:08",
         "FFlagDisableCloudsAndroidAndMac_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:53:40",
+        "FFlagGraphicsAllDevicesRequireConstantBuffers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:09:20",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -13773,9 +13776,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "25c656d0008d9246f492358f1330940376f4e9bd",
-        "DFStringFlagRepoGitHashDynamicString": "25c656d0008d9246f492358f1330940376f4e9bd",
-        "FStringFlipTimeStampFastString": "2025-09-10T22:11:38.861Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T22:11:38.861Z"
+        "FStringFlagRepoGitHashFastString": "bcc16d1e1cad9e2bf09ea7067aca8d1b7410f6c0",
+        "DFStringFlagRepoGitHashDynamicString": "bcc16d1e1cad9e2bf09ea7067aca8d1b7410f6c0",
+        "FStringFlipTimeStampFastString": "2025-09-10T22:13:35.914Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T22:13:35.914Z"
     }
 }
