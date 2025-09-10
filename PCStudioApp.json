@@ -11655,11 +11655,12 @@
         "FFlagAvatarSettingsAddAdditionalTelemetryFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:01:16",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagIgnoreKeyboardEventsWhenTBFocused2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:04:23",
-        "FFlagEnableAdsMouseUnlock": "True",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "FFlagAvatarSettingsSlowerR6Climb_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:06:31",
         "FFlagUwpMigrationGuaranteedTelemetery_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:10:14",
         "DFFlagReportRuppDeserializationFailureTransportCoreReset_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:11:24",
         "DFFlagSimSolverFixAnchoredGS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:12:10",
+        "FFlagEnableAdsMouseUnlock": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13310,7 +13311,6 @@
         "DFIntVoxelTelemEventHundredthsPercentage": "10000",
         "DFIntVoxelTestingMaxVertices": "2000",
         "FFlagLuauFragmentAutocompleteTakesInnermostRefinement_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:09:17",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -13751,9 +13751,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "a0ed40bffdc6107a3deaaefc6ac97c12cf617ca1",
-        "DFStringFlagRepoGitHashDynamicString": "a0ed40bffdc6107a3deaaefc6ac97c12cf617ca1",
-        "FStringFlipTimeStampFastString": "2025-09-10T16:13:25.444Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T16:13:25.444Z"
+        "FStringFlagRepoGitHashFastString": "23f1a8f9d9b55afc897f24db0f97fa184c369df1",
+        "DFStringFlagRepoGitHashDynamicString": "23f1a8f9d9b55afc897f24db0f97fa184c369df1",
+        "FStringFlipTimeStampFastString": "2025-09-10T16:13:42.294Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T16:13:42.294Z"
     }
 }
