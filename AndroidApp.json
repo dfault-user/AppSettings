@@ -11658,6 +11658,9 @@
         "DFFlagLogRakNetStoppedProduction1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:05:15",
         "FFlagAvatarSettingsSlowerR6Climb_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:06:31",
         "FFlagUwpMigrationGuaranteedTelemetery_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:10:14",
+        "DFFlagReportRuppDeserializationFailureTransportCoreReset_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:11:24",
+        "DFFlagSimSolverFixAnchoredGS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:12:10",
+        "DFFlagAddDCTransportCoreReports_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T16:12:26",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12543,9 +12546,9 @@
         "FFlagSystemThemeLuaEnabled9_IXP": "1;ConsumerPlatforms.SystemTheme;ConsumerPlatforms.SystemThemeAvailable.2-noNotif.Android;1678690474;flagbank",
         "FFlagSimAeroGeometryUseOptimizations": "True",
         "FFlagLoadRawBytecodeWithHashKey": "True",
-        "FStringFlagRepoGitHashFastString": "166c3024f6002fe4ff166a16c00acc87fbbadb33",
-        "DFStringFlagRepoGitHashDynamicString": "166c3024f6002fe4ff166a16c00acc87fbbadb33",
-        "FStringFlipTimeStampFastString": "2025-09-10T16:11:53.509Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T16:11:53.509Z"
+        "FStringFlagRepoGitHashFastString": "23f1a8f9d9b55afc897f24db0f97fa184c369df1",
+        "DFStringFlagRepoGitHashDynamicString": "23f1a8f9d9b55afc897f24db0f97fa184c369df1",
+        "FStringFlipTimeStampFastString": "2025-09-10T16:13:42.294Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T16:13:42.294Z"
     }
 }
