@@ -11678,7 +11678,6 @@
         "FFlagAXMigrateItemDetailsFullToFocusNavigation": "True",
         "FFlagAXMigrateUpdateOutfitPageToFocusNavigation": "True",
         "FIntVoiceChatSdpCompressionMode": "2",
-        "FFlagAXMigrateProfilePictureEditorCameraPageToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:37:49",
         "FFlagAXMigrateProfilePictureEditorFinalPageToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:43:06",
         "FFlagAXMigrateSearchBarToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:43:54",
         "FFlagEnableSocialProofOnItemDetailsRoactGamepadNavigation": "True",
@@ -11689,10 +11688,10 @@
         "FFlagEnableSocialProofOnItemDetails": "True",
         "FStringAppChatNewChatInputBarIxpLayer": "Social.AppChat",
         "DFFlagAeroReduceReducedMeshAllocations": "True",
-        "FFlagUseRuntimeMutexStreamTransactionMessageSender_Staged": "True;SteadyState;10;30;Revert;2025-09-10T23:10:07",
         "DFFlagSimReportV2MemoryTelemetry": "True",
         "FFlagUseRuntimeMutexSkinTransferRegistry": "True",
         "FFlagEnableChatMicPerfBinding_IXP": "1;ExperienceChat.Performance;FFlagEnableChatMicPerfBinding;1740143267;flagbank",
+        "FFlagAXMigrateProfilePictureEditorCameraPageToFocusNavigation": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12181,6 +12180,7 @@
         "FFlagDynamicTranslationTokenizationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;224456262;2025-09-10T23:38:39",
         "FFlagDynamicTranslationTokenizedNumberParameterizationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;224456262;2025-09-10T23:38:39",
         "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;224456262;2025-09-10T23:38:39",
+        "FFlagFixAPModerationEviction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T23:40:31",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12607,9 +12607,9 @@
         "DFFlagInitTombstoneAfterBlockingFetch2": "False",
         "FFlagLuaAppUseContentMaturityUpsellMapping": "True",
         "FFlagReportBatchedRaycastTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "2fe9a52a2f47eb18cf91fd8015caed63143be0be",
-        "DFStringFlagRepoGitHashDynamicString": "2fe9a52a2f47eb18cf91fd8015caed63143be0be",
-        "FStringFlipTimeStampFastString": "2025-09-10T23:42:14.229Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T23:42:14.229Z"
+        "FStringFlagRepoGitHashFastString": "07e45828a10e8d890f442e4eeef0652de3663690",
+        "DFStringFlagRepoGitHashDynamicString": "07e45828a10e8d890f442e4eeef0652de3663690",
+        "FStringFlipTimeStampFastString": "2025-09-10T23:47:24.662Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T23:47:24.662Z"
     }
 }
