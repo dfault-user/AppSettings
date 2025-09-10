@@ -11669,8 +11669,6 @@
         "DFFlagJoinDataItemEarlyReturnAllocation": "True",
         "FFlagChatLineReportingFocusFixesEnabled": "True",
         "FFlagTextBoxFocusEnterPressedFix": "True",
-        "FFlagAXMigrateUpdateOutfitPageToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:16:59",
-        "FFlagAXMigrateItemDetailsFullToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:19:07",
         "FFlagRemoveMeInParent": "False",
         "FIntVoiceChatSdpCompressionMode_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T21:31:24",
         "DFFlagSimSolverReserveForReducedEdgesNoAllocCheck": "True",
@@ -11688,6 +11686,8 @@
         "DFFlagSimReportV2MemoryTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:06:00",
         "FFlagUseRuntimeMutexSkinTransferRegistry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:07:50",
         "FFlagAXMigrateManageOutfitPageInputBindingsToFocusNavigation3": "True",
+        "FFlagAXMigrateItemDetailsFullToFocusNavigation": "True",
+        "FFlagAXMigrateUpdateOutfitPageToFocusNavigation": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13778,9 +13778,9 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "FStringFlagRepoGitHashFastString": "7d0fd14924d4254cc0da8be5b7e6a00153e7f50c",
-        "DFStringFlagRepoGitHashDynamicString": "7d0fd14924d4254cc0da8be5b7e6a00153e7f50c",
-        "FStringFlipTimeStampFastString": "2025-09-10T22:27:54.536Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T22:27:54.536Z"
+        "FStringFlagRepoGitHashFastString": "faa005b9bb9a95f26355d2f0b06d9ea839b164bd",
+        "DFStringFlagRepoGitHashDynamicString": "faa005b9bb9a95f26355d2f0b06d9ea839b164bd",
+        "FStringFlipTimeStampFastString": "2025-09-10T22:28:18.776Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T22:28:18.776Z"
     }
 }
