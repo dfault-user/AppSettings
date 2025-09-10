@@ -11663,6 +11663,8 @@
         "FFlagAXMigrateLayeredClothingSortPageToFocusNavigation2": "True",
         "FFlagAXMigrateSortAndFiltersScreenInputBindingsToFocusNavigation": "True",
         "DFFlagBugfixCLI128681": "True",
+        "DFFlagMRFMoveUpdate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T19:40:21",
+        "FFlagLuauVariadicAnyPackShouldBeErrorSuppressing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T19:40:56",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12540,9 +12542,9 @@
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagLoadRawBytecodeWithHashKey_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T19:01:08",
         "DFIntRuntimeConcurrency_Staged": "6;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T19:30:58",
-        "FStringFlagRepoGitHashFastString": "2d319d4b469279fe6e9e76c745ccdab19dfa0177",
-        "DFStringFlagRepoGitHashDynamicString": "2d319d4b469279fe6e9e76c745ccdab19dfa0177",
-        "FStringFlipTimeStampFastString": "2025-09-10T19:41:57.674Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T19:41:57.674Z"
+        "FStringFlagRepoGitHashFastString": "f9c04ede54edfd2ead5e31037a8789c0d3ff93f2",
+        "DFStringFlagRepoGitHashDynamicString": "f9c04ede54edfd2ead5e31037a8789c0d3ff93f2",
+        "FStringFlipTimeStampFastString": "2025-09-10T19:42:39.392Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T19:42:39.392Z"
     }
 }
