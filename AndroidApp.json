@@ -12476,7 +12476,6 @@
         "FStringPerformanceControlIXPFlagsExposureManufacturerCheckCsv_IXP": "1;HarmonyExposure;HarmonyExposure.BoostedOomProbabilityMemoryEffectValue.Motorola.V4.Flags;1314332976;dev_controlled",
         "DFIntPerformanceControlEventIngestHundredthPercentageSent_IXP": "1;HarmonyExposure;HarmonyExposure.BoostedOomProbabilityMemoryEffectValue.Motorola.V4.Flags;1314332976;dev_controlled",
         "DFIntPerformanceControlPointsHundredthPercentageSent_IXP": "1;HarmonyExposure;HarmonyExposure.BoostedOomProbabilityMemoryEffectValue.Motorola.V4.Flags;1314332976;dev_controlled",
-        "FFlagPerformanceControlOomProbabilityTunableSelection_IXP": "1;HarmonyExposure;HarmonyExposure.BoostedOomProbabilityMemoryEffectValue.Motorola.V4.Flags;1314332976;dev_controlled",
         "FIntPerformanceControlOomProbabilityBlendHundredthsPercent_IXP": "1;HarmonyExposure;HarmonyExposure.BoostedOomProbabilityMemoryEffectValue.Motorola.V4.Flags;1314332976;dev_controlled",
         "FIntPerformanceControlUsedMemBlendHundredthsPercent_IXP": "1;HarmonyExposure;HarmonyExposure.BoostedOomProbabilityMemoryEffectValue.Motorola.V4.Flags;1314332976;dev_controlled",
         "FStringPerformanceControlBoostedOomModelMemoryCurveThresholdCsv_IXP": "1;HarmonyExposure;HarmonyExposure.BoostedOomProbabilityMemoryEffectValue.Motorola.V4.Flags;1314332976;dev_controlled",
@@ -12569,7 +12568,7 @@
         "SystemThemeHandleConfigurationChange": "True",
         "EnableLeaveAppDialog": "true",
         "FIntRbxStorageMinMemoryRequirementMB": "4000",
-        "DFFlagUserInputServiceDeviceMotionAnalytics2": "True",
+        "DFFlagUserInputServiceDeviceMotionAnalytics2": "False",
         "DFIntDeviceMotionAnalyticsThrottleHundrethsPercent": "0",
         "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
         "FFlagEnableDevicePreferenceLayoutUpdate2_IXP": "1;ConsumerPlatforms.SystemTheme;ConsumerPlatforms.SystemThemeAvailable.2-noNotif.Android;1678690474;flagbank",
@@ -12589,10 +12588,9 @@
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "True",
         "FFlagAXBulkPurchaseAppCloseButtonPosition": "True",
         "FStringGraphicsVulkanPVRMTBlacklist": "5776728;6070602;6133110;6133109",
-        "DFFlagUserInputServiceDeviceMotionAnalytics2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:17:22",
-        "FStringFlagRepoGitHashFastString": "672ce7932bb1d0de8a891215fcb8e8805b214564",
-        "DFStringFlagRepoGitHashDynamicString": "672ce7932bb1d0de8a891215fcb8e8805b214564",
-        "FStringFlipTimeStampFastString": "2025-09-10T23:18:27.115Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T23:18:27.115Z"
+        "FStringFlagRepoGitHashFastString": "4a387c3b25dfca98597b493260402491fb12a550",
+        "DFStringFlagRepoGitHashDynamicString": "4a387c3b25dfca98597b493260402491fb12a550",
+        "FStringFlipTimeStampFastString": "2025-09-10T23:21:35.813Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-10T23:21:35.813Z"
     }
 }
