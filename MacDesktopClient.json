@@ -11682,7 +11682,6 @@
         "FFlagEnableSocialProofUserList_4": "True",
         "FFlagEnableUserListModule_2": "True",
         "FFlagAXMigrateItemDetailsInputBindingsToFocusNavigation": "True",
-        "FFlagOpenVngTosForVngRobuxUpsell_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;397683135;2025-09-10T22:51:27",
         "FFlagEnableSocialProofOnItemDetails": "True",
         "FStringAppChatNewChatInputBarIxpLayer": "Social.AppChat",
         "DFFlagAeroReduceReducedMeshAllocations": "True",
@@ -11693,6 +11692,8 @@
         "FFlagAXMigrateProfilePictureEditorFinalPageToFocusNavigation": "True",
         "FFlagAXMigrateSearchBarToFocusNavigation": "True",
         "DFIntBatchAssetDeliverySendReasonThrottleHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T23:48:53",
+        "FFlagOpenVngTosForVngRobuxUpsell": "True",
+        "AllowVideoPreRoll": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12172,7 +12173,6 @@
         "FFlagRbxStorageFindAndRemoveOrphanedFiles": "True",
         "FFlagRbxStorageRemoveLargeWal": "True",
         "FFlagLuauCodeGenRegAutoSpillA64": "True",
-        "DFFlagVoiceSdpSendCompressionRatioTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T22:54:24",
         "FFlagDisableCloudsAndroidAndMac": "True",
         "FFlagFixUnifiedDRSGlassAndForcefield": "True",
         "FFlagFixStudioDisplaySizeFallback": "True",
@@ -12182,7 +12182,7 @@
         "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;224456262;2025-09-10T23:38:39",
         "FFlagFixAPModerationEviction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-10T23:40:31",
         "DFFlagRbxStorageNewProcessHitList": "True",
-        "AllowVideoPreRoll": "True",
+        "DFFlagVoiceSdpSendCompressionRatioTelemetry": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12608,9 +12608,9 @@
         "DFFlagInitTombstoneAfterBlockingFetch2": "False",
         "FFlagLuaAppUseContentMaturityUpsellMapping": "True",
         "FFlagReportBatchedRaycastTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "b165d1631f5b81af9b78f9ca82796372973798b2",
-        "DFStringFlagRepoGitHashDynamicString": "b165d1631f5b81af9b78f9ca82796372973798b2",
-        "FStringFlipTimeStampFastString": "2025-09-10T23:56:12.108Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-10T23:56:12.108Z"
+        "FStringFlagRepoGitHashFastString": "54888969a3b2c4348b312522cba924bc60538f7a",
+        "DFStringFlagRepoGitHashDynamicString": "54888969a3b2c4348b312522cba924bc60538f7a",
+        "FStringFlipTimeStampFastString": "2025-09-11T00:02:45.722Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T00:02:45.722Z"
     }
 }
