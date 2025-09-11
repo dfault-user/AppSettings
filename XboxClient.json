@@ -11474,7 +11474,7 @@
         "FFlagFixCdsduiGridScrollingFrameRef": "False",
         "FFlagFixCdsduiRFYGridItemsPerRowLogic": "False",
         "FFlagSwapAppGameTileAndSduiGameTileInRFY": "True",
-        "FFlagAvatarChatDelayModelDelivery": "True",
+        "FFlagAvatarChatDelayModelDelivery": "False",
         "FFlagUseRuntimeMutexRequestDataInQueue": "True",
         "FFlagEnableSignupCheckboxExperiment": "True",
         "FFlagEnableWindowsOnScreenKeyboardController1": "True",
@@ -11695,10 +11695,6 @@
         "DFIntBatchAssetDeliverySendReasonThrottleHundredthsPercent": "1000",
         "DFFlagAvatarUseBatchedRaycasts2_IXP": "1;Portal.Engine.Physics.BatchedRaycasts-1757608746;Engine.Physics.BatchedRaycasts;1240916778;flagbank",
         "FFlagUseMediaPickerProtocolV2_2": "True",
-        "FFlagAvatarChatDelayModelDelivery_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:05:39",
-        "FFlagSongbirdReplaceUIBloxWithFoundation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:05:49",
-        "FFlagAXMigrateCatalogSearchToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:05:51",
-        "FFlagMusicPlayerHiddenByDefault_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:06:47",
         "FFlagEnableThermalStatusDuringTTI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:17:54",
         "FFlagProfileTelemetryUsesRuntime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:18:11",
         "DFFlagDisableHttpCacheV1Stats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:18:49",
@@ -11722,6 +11718,9 @@
         "FFlagCapturesVideoBulkManagerStopGap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T18:02:55",
         "FFlagUseRuntimeMutexRvHttpClient_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T18:04:58",
         "FFlagAXMigrateTitleDropDownInputBindingsToFocusNavigation3": "True",
+        "FFlagMusicPlayerHiddenByDefault": "True",
+        "FFlagSongbirdReplaceUIBloxWithFoundation": "True",
+        "FFlagAXMigrateCatalogSearchToFocusNavigation": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12086,9 +12085,9 @@
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagEditablePolicyCheckRetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:40:58",
-        "FStringFlagRepoGitHashFastString": "1ba271f1d77710ca9445849614038a300daca552",
-        "DFStringFlagRepoGitHashDynamicString": "1ba271f1d77710ca9445849614038a300daca552",
-        "FStringFlipTimeStampFastString": "2025-09-11T18:11:29.004Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T18:11:29.004Z"
+        "FStringFlagRepoGitHashFastString": "3c6558be4855588a217f98a579cfe1bf5cb68a66",
+        "DFStringFlagRepoGitHashDynamicString": "3c6558be4855588a217f98a579cfe1bf5cb68a66",
+        "FStringFlipTimeStampFastString": "2025-09-11T18:12:24.420Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T18:12:24.420Z"
     }
 }
