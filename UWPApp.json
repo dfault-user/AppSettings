@@ -9403,7 +9403,7 @@
         "DFFlagRobloxTelemetryAddOTAVersionAsTag": "True",
         "DFFlagDoNotSkipMipsBasedOnSystemMemoryPS": "True",
         "FFlagAddFriendsUserTileHeightFix": "True",
-        "DFIntJoinLimitWin32x64": "686",
+        "DFIntJoinLimitWin32x64": "688",
         "FFlagAXCatalogItemCardFooterBackendDriven2": "False",
         "FFlagEnablePreferredTextSizeSecurityContext": "True",
         "DFFlagChatLineAbuseReportFixSortOrderEnabled": "True",
@@ -11723,7 +11723,6 @@
         "FLogPlaceDataDownloadUtil": "Info,6",
         "FFlagAboutAppInformation": "True",
         "FFlagUseRuntimeMutexStreamTransactionMessageTransport": "True",
-        "DFIntJoinLimitWin32x64_Staged": "688;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;366482982;2025-09-11T20:56:17",
         "FFlagSmoothClusterUseTaskQueueHelper": "True",
         "DFFlagRetransmitPins_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:12:03",
         "DFFlagEnablePlaceFileUploadTempstoreS3Bucket_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:14:27",
@@ -11742,6 +11741,8 @@
         "FFlagAXFixColorAdjustmentQuickButtonSize": "True",
         "FFlagLargeReplicatorRead5_Staged": "True;SteadyState;10;30;Revert;2025-09-11T21:53:14",
         "FFlagUseRuntimeMutexUserApiCollector_Staged": "True;SteadyState;10;30;Revert;2025-09-11T22:00:41",
+        "DFFlagMeshImportWildMeshSimplifier_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:02:02",
+        "DFFlagUADFDisableImportLoD_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:02:28",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12042,9 +12043,9 @@
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "False",
-        "FStringFlagRepoGitHashFastString": "df20429250084077682ef07396363e2953768810",
-        "DFStringFlagRepoGitHashDynamicString": "df20429250084077682ef07396363e2953768810",
-        "FStringFlipTimeStampFastString": "2025-09-11T22:03:25.413Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T22:03:25.413Z"
+        "FStringFlagRepoGitHashFastString": "245819786618a8833d10341203794489c174116c",
+        "DFStringFlagRepoGitHashDynamicString": "245819786618a8833d10341203794489c174116c",
+        "FStringFlipTimeStampFastString": "2025-09-11T22:04:50.619Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T22:04:50.619Z"
     }
 }
