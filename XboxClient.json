@@ -11610,7 +11610,6 @@
         "FFlagUseRuntimeMutexStreamTransactionMessageTransport": "True",
         "FFlagSmoothClusterUseTaskQueueHelper": "True",
         "FFlagReactIsolatedGlobalsEnabled": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagAXColorAdjustmentPageShouldHaveCurrentColorSelected": "True",
         "FFlagAXFixColorAdjustmentGamepadSupport": "True",
         "FFlagAXFixColorAdjustmentQuickButtonSize": "True",
@@ -11634,6 +11633,8 @@
         "DFFlagRccReportNetStackPort": "True",
         "DFFlagRuppTokenGenerationTransportCore": "True",
         "FFlagFixProximityPromptRadialProgressGap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:46:36",
+        "FFlagAXFixFlickerOnColorAdjustmentPageEntry": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -11912,7 +11913,6 @@
         "FFlagHttpRbxStorageInitOnly5": "True",
         "FFlagCheckForTCSMigration_PlaceFilter": "True;97907604952329;100416697650493;140020255467604;81527297895754;97053926302352;72888887992401;114188702067756;122546802658972",
         "FFlagDragDetectorSetClickedPartNullInDragEnd": "True",
-        "FFlagAXFixFlickerOnColorAdjustmentPageEntry": "True",
         "FIntAXLooksImageZoom": "1125",
         "FFlagLuaAppSignUpColorExperiment2": "True",
         "FFlagAXColorAdjustmentButtonShouldAccountForTryOns": "True",
@@ -11992,9 +11992,9 @@
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagEditablePolicyCheckRetry": "True",
         "DFFlagSQLiteCacheReportSizeMismatch": "True",
-        "FStringFlagRepoGitHashFastString": "dc650a0f0b7816075dca53b9e46105a4071d4177",
-        "DFStringFlagRepoGitHashDynamicString": "dc650a0f0b7816075dca53b9e46105a4071d4177",
-        "FStringFlipTimeStampFastString": "2025-09-11T22:52:31.113Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T22:52:31.113Z"
+        "FStringFlagRepoGitHashFastString": "261961c393d5ae68e570af9cbc28bfd48d20994c",
+        "DFStringFlagRepoGitHashDynamicString": "261961c393d5ae68e570af9cbc28bfd48d20994c",
+        "FStringFlipTimeStampFastString": "2025-09-11T22:55:47.460Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T22:55:47.460Z"
     }
 }
