@@ -11610,6 +11610,7 @@
         "FFlagUseRuntimeMutexStreamTransactionMessageTransport": "True",
         "FFlagSmoothClusterUseTaskQueueHelper": "True",
         "FFlagReactIsolatedGlobalsEnabled": "True",
+        "DFFlagRuppTokenGenerationTransportCore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:44:16",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagAXColorAdjustmentPageShouldHaveCurrentColorSelected": "True",
         "FFlagAXFixColorAdjustmentGamepadSupport": "True",
@@ -11632,7 +11633,6 @@
         "FFlagEnablePhoto2Avatar8_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:42:12",
         "DFFlagClientReceiveNetStackPortAndToken": "True",
         "DFFlagRccReportNetStackPort": "True",
-        "DFFlagRuppTokenGenerationTransportCore": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13752,9 +13752,9 @@
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
-        "FStringFlagRepoGitHashFastString": "6c9660fb00e8d37f6353bf81547045afe5508846",
-        "DFStringFlagRepoGitHashDynamicString": "6c9660fb00e8d37f6353bf81547045afe5508846",
-        "FStringFlipTimeStampFastString": "2025-09-11T22:47:38.448Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T22:47:38.448Z"
+        "FStringFlagRepoGitHashFastString": "e404a2fedd83966851330ed81dbaa0ca248c2748",
+        "DFStringFlagRepoGitHashDynamicString": "e404a2fedd83966851330ed81dbaa0ca248c2748",
+        "FStringFlipTimeStampFastString": "2025-09-11T22:47:14.979Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T22:47:14.979Z"
     }
 }
