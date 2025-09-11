@@ -11480,7 +11480,7 @@
         "FFlagEnableWindowsOnScreenKeyboardController1": "True",
         "FIntOnScreenKeyboardPaddingInPixels": "20",
         "FIntOnScreenKeyboardTextBoxFocusReleaseDelayMs": "1000",
-        "FFlagUseRuntimeMutexRvHttpClient": "True",
+        "FFlagUseRuntimeMutexRvHttpClient": "False",
         "FFlagBootcampCLI161528": "True",
         "FFlagLuaAppEdpFetchLatencyTracking": "True",
         "FFlagEnableDisplaySize9": "True",
@@ -11705,8 +11705,6 @@
         "FFlagNetworkReflectionTypeObjectUseReflectionTypeInstanceGuid": "True",
         "FFlagEnableMediaLibraryPickerCameraSource": "True",
         "FFlagEnableMediaLibraryPickerCameraSourceMacFailureCallback": "True",
-        "AllowVideoPreRoll": "True",
-        "FFlagUseRuntimeMutexRvHttpClient_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T18:04:58",
         "FFlagAXMigrateTitleDropDownInputBindingsToFocusNavigation3": "True",
         "FFlagMusicPlayerHiddenByDefault": "True",
         "FFlagSongbirdReplaceUIBloxWithFoundation": "True",
@@ -11722,6 +11720,8 @@
         "FFlagIOSSupportReloadDevelopmentConfigSignal": "True",
         "FFlagEnableBranchConfigurationSignalTrigger": "True",
         "FFlagCapturesRemoveVideoDetectionEarlyOut": "True",
+        "FFlagCapturesVideoBulkManagerStopGap": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12546,7 +12546,6 @@
         "FFlagNewPeoplePageIcons4_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile;1951626196;flagbank",
         "FFlagRefactorPeoplePage5_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile;1951626196;flagbank",
         "FFlagCapturesVideoCaptureLoggingEnabled_v3": "True",
-        "FFlagCapturesVideoBulkManagerStopGap": "True",
         "FFlagCapturesVideoSupportLegacyVideos": "True",
         "FFlagAXFixUnifiedWidgetAnalytics": "True",
         "FFlagExpChatUseAdorneeStoreV4_IXP": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV4-1756405212321;726159443;flagbank",
@@ -12594,9 +12593,9 @@
         "FFlagCapturesPromptShareImageFixEnabled": "True",
         "FFlagCapturesRemoveShareCapturePromptGetCaptureSizeCall": "True",
         "FFlagCapturesVideoShareToastEventsFixEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "5a46645ad4242d945d44806bc8586b55e8a2d084",
-        "DFStringFlagRepoGitHashDynamicString": "5a46645ad4242d945d44806bc8586b55e8a2d084",
-        "FStringFlipTimeStampFastString": "2025-09-11T19:02:44.122Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T19:02:44.122Z"
+        "FStringFlagRepoGitHashFastString": "0c2d27d3594048e5868dfd7c72e67647a0cb6d5a",
+        "DFStringFlagRepoGitHashDynamicString": "0c2d27d3594048e5868dfd7c72e67647a0cb6d5a",
+        "FStringFlipTimeStampFastString": "2025-09-11T19:09:31.529Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T19:09:31.529Z"
     }
 }
