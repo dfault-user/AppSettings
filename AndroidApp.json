@@ -11713,6 +11713,8 @@
         "FFlagProfileTelemetryUsesRuntime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:18:11",
         "DFFlagDisableHttpCacheV1Stats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:18:49",
         "FFlagVoiceRtcStatsUseSamplingInsteadOfInterval_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:22:24",
+        "FFlagEndDragOnEnabledFalse_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:37:15",
+        "FFlagUIDragDetectorCancelDragOnMenuOpen_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:37:37",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12607,9 +12609,9 @@
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperimentV4;1248549746;flagbank",
         "FFlagTCBannerUIPolish_1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:15:32",
         "DFFlagRbxstorageHTTPUseMemoryTrackingForEnforcingSysRam": "True",
-        "FStringFlagRepoGitHashFastString": "c90c74bf83574fc5556a6196003e49a0d4e71dd3",
-        "DFStringFlagRepoGitHashDynamicString": "c90c74bf83574fc5556a6196003e49a0d4e71dd3",
-        "FStringFlipTimeStampFastString": "2025-09-11T17:32:36.873Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T17:32:36.873Z"
+        "FStringFlagRepoGitHashFastString": "e2cb86b45ec52b85de565db13f16b39321cc81a0",
+        "DFStringFlagRepoGitHashDynamicString": "e2cb86b45ec52b85de565db13f16b39321cc81a0",
+        "FStringFlipTimeStampFastString": "2025-09-11T17:39:51.759Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T17:39:51.759Z"
     }
 }

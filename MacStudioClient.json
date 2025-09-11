@@ -11713,6 +11713,7 @@
         "FFlagProfileTelemetryUsesRuntime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:18:11",
         "DFFlagDisableHttpCacheV1Stats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:18:49",
         "FFlagVoiceRtcStatsUseSamplingInsteadOfInterval_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:22:24",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13390,7 +13391,6 @@
         "FFlagAimMeshUploadTimeMakeTriCountLabelsBools": "True",
         "FFlagEnableAimMeshSimplifyAnalytics": "True",
         "FFlagLuauNoConstraintGenRecursionLimitIce_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:15:33",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13790,6 +13790,7 @@
         "FFlagTCBannerUIPolish_1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:15:32",
         "FFlagCapturesRemoveShareCapturePromptGetCaptureSizeCall_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:25:19",
         "FFlagVideoCaptureFinalizeTimeout2": "True",
+        "FFlagCapturesVideoShareToastEventsFixEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:36:56",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -13826,9 +13827,9 @@
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:01:54",
-        "FStringFlagRepoGitHashFastString": "c90c74bf83574fc5556a6196003e49a0d4e71dd3",
-        "DFStringFlagRepoGitHashDynamicString": "c90c74bf83574fc5556a6196003e49a0d4e71dd3",
-        "FStringFlipTimeStampFastString": "2025-09-11T17:32:36.873Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T17:32:36.873Z"
+        "FStringFlagRepoGitHashFastString": "ff4ee9fd1c34cf0221d0d01f3c427281b564b162",
+        "DFStringFlagRepoGitHashDynamicString": "ff4ee9fd1c34cf0221d0d01f3c427281b564b162",
+        "FStringFlipTimeStampFastString": "2025-09-11T17:39:30.208Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T17:39:30.208Z"
     }
 }
