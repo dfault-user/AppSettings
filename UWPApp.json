@@ -11256,7 +11256,7 @@
         "DFIntAssetModerationtatusPollingPeriodInSeconds": "5",
         "FFlagSecretsEditorImprovement": "True",
         "FFlagFixConsecutiveMultiTextEditEdgeCase": "True",
-        "FFlagVoiceChatClientRebootOperationEnabled": "True",
+        "FFlagVoiceChatClientRebootOperationEnabled": "False",
         "FFlagUseRuntimeMutexInsteadOfRbxMutexDataModel": "True",
         "FFlagFixBulkPurchaseInputPerf": "True",
         "DFFlagVideoAdaptionByScreenSizeForMomentsOnly": "True",
@@ -11616,7 +11616,6 @@
         "DFFlagEnablePlaceFileUploadTempstoreS3Bucket": "True",
         "DFFlagRetransmitPins": "True",
         "FFlagTCBannerUIPolish_1": "True",
-        "FFlagDmLockFixForTimerServiceCreate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:22:01",
         "FIntOcclusionSettingsMaxIterations": "4500",
         "FIntOcclusionSettingsMinIterations": "149",
         "FFlagTextGenerationApi": "True",
@@ -11639,6 +11638,7 @@
         "FFlagAXEnableRecolorableBodiesDuringTryOn": "True",
         "DFFlagStylingDeletedStyleSheetCrash": "True",
         "DFFlagWfhThickness": "True",
+        "FFlagDmLockFixForTimerServiceCreate": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11936,9 +11936,9 @@
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "False",
-        "FStringFlagRepoGitHashFastString": "da7aba5ed703e34b0aeb902c1cd98bcb97003ea3",
-        "DFStringFlagRepoGitHashDynamicString": "da7aba5ed703e34b0aeb902c1cd98bcb97003ea3",
-        "FStringFlipTimeStampFastString": "2025-09-11T23:23:58.747Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T23:23:58.747Z"
+        "FStringFlagRepoGitHashFastString": "929ebbde1ca7d169301d3e2f34db34e1a5c4cb28",
+        "DFStringFlagRepoGitHashDynamicString": "929ebbde1ca7d169301d3e2f34db34e1a5c4cb28",
+        "FStringFlipTimeStampFastString": "2025-09-11T23:30:24.284Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T23:30:24.284Z"
     }
 }
