@@ -11610,9 +11610,6 @@
         "FFlagUseRuntimeMutexStreamTransactionMessageTransport": "True",
         "FFlagSmoothClusterUseTaskQueueHelper": "True",
         "FFlagReactIsolatedGlobalsEnabled": "True",
-        "DFFlagClientReceiveNetStackPortAndToken_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:43:10",
-        "DFFlagRccReportNetStackPort_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:43:25",
-        "DFFlagRuppTokenGenerationTransportCore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:44:16",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagAXColorAdjustmentPageShouldHaveCurrentColorSelected": "True",
         "FFlagAXFixColorAdjustmentGamepadSupport": "True",
@@ -11633,6 +11630,9 @@
         "DFIntVoiceRtcStatsEventIngestThrottleHundredthsPercent": "1000",
         "FFlagWriteFileMeshToChunks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:41:47",
         "FFlagEnablePhoto2Avatar8_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:42:12",
+        "DFFlagClientReceiveNetStackPortAndToken": "True",
+        "DFFlagRccReportNetStackPort": "True",
+        "DFFlagRuppTokenGenerationTransportCore": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12120,6 +12120,8 @@
         "DFFlagTextGenerationAdvancedProperties": "True",
         "FFlagRemoveDeprecatedSavePlaceAsync_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:19:44",
         "DFFlagProductInfoClientSideHttpThrottlingRetryEnabled_PlaceFilter": "True;15582821022;15582823307;111661204337143;14368557094;13772394625;15185247558;16331598816;15144787112;16581648071;16456370330",
+        "FFlagDeltaFactoryCloneJobId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2021302423;2025-09-11T22:45:39",
+        "FFlagExperienceStateCaptureExperienceChatSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2021302423;2025-09-11T22:45:39",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12544,9 +12546,9 @@
         "FFlagReportBatchedRaycastTelemetry": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagEditablePolicyCheckRetry": "True",
-        "FStringFlagRepoGitHashFastString": "0a33d6a07365d7268425812fbc53126eddf6c4da",
-        "DFStringFlagRepoGitHashDynamicString": "0a33d6a07365d7268425812fbc53126eddf6c4da",
-        "FStringFlipTimeStampFastString": "2025-09-11T22:45:57.155Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T22:45:57.155Z"
+        "FStringFlagRepoGitHashFastString": "6c9660fb00e8d37f6353bf81547045afe5508846",
+        "DFStringFlagRepoGitHashDynamicString": "6c9660fb00e8d37f6353bf81547045afe5508846",
+        "FStringFlipTimeStampFastString": "2025-09-11T22:47:38.448Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T22:47:38.448Z"
     }
 }
