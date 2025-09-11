@@ -11695,6 +11695,8 @@
         "DFIntBatchAssetDeliverySendReasonThrottleHundredthsPercent": "1000",
         "DFFlagAvatarUseBatchedRaycasts2_Staged": "True;SteadyState;10;60;Revert;false;1240916778;2025-09-11T16:39:40",
         "DFFlagAvatarUseBatchedRaycasts2_IXP": "1;Portal.Engine.Physics.BatchedRaycasts-1757608746;Engine.Physics.BatchedRaycasts;1240916778;flagbank",
+        "FFlagProfileTelemetryUsesRuntime_Staged": "True;SteadyState;10;30;Revert;2025-09-11T16:41:11",
+        "FFlagCrashpadIncludeIndirectMemoryFixesB_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T16:43:45",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11999,9 +12001,9 @@
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "False",
-        "FStringFlagRepoGitHashFastString": "6a4f60f75b41265fc5a4adaf50346951ded163d4",
-        "DFStringFlagRepoGitHashDynamicString": "6a4f60f75b41265fc5a4adaf50346951ded163d4",
-        "FStringFlipTimeStampFastString": "2025-09-11T16:41:36.502Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T16:41:36.502Z"
+        "FStringFlagRepoGitHashFastString": "89f5a595a2bfcb45a4c0530b223d588c74afaa26",
+        "DFStringFlagRepoGitHashDynamicString": "89f5a595a2bfcb45a4c0530b223d588c74afaa26",
+        "FStringFlipTimeStampFastString": "2025-09-11T16:45:31.145Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T16:45:31.145Z"
     }
 }
