@@ -11728,8 +11728,8 @@
         "FFlagEnableSocialProofOnItemDetailsRoactGamepadNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T20:36:37",
         "FFlagEnableSocialProofUserList_4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T20:37:00",
         "AllowVideoPreRoll": "True",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
-        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntJoinLimitWin32x64_Staged": "688;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;366482982;2025-09-11T20:56:17",
         "FFlagSmoothClusterUseTaskQueueHelper": "True",
         "DFFlagRetransmitPins_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:12:03",
@@ -11737,6 +11737,7 @@
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FIntOcclusionSettingsMinIterations_Staged": "149;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:22:33",
         "FIntOcclusionSettingsMaxIterations_Staged": "4500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:22:58",
+        "FFlagEnableAdsMouseUnlock": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13421,7 +13422,6 @@
         "FFlagLuauCacheDuplicateHasPropConstraints": "True",
         "FFlagLuauInitializeDefaultGenericParamsAtProgramPoint": "True",
         "FFlagGamepadEmulatorDeviceSpecificNotifs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:21:51",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
@@ -13879,9 +13879,9 @@
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
-        "FStringFlagRepoGitHashFastString": "7e9381a5e0b1a85360ce3a501a3cbed50f23a564",
-        "DFStringFlagRepoGitHashDynamicString": "7e9381a5e0b1a85360ce3a501a3cbed50f23a564",
-        "FStringFlipTimeStampFastString": "2025-09-11T21:25:52.374Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T21:25:52.374Z"
+        "FStringFlagRepoGitHashFastString": "12dc8cb6d4409213977ff1bc962d13adf0bc4b42",
+        "DFStringFlagRepoGitHashDynamicString": "12dc8cb6d4409213977ff1bc962d13adf0bc4b42",
+        "FStringFlipTimeStampFastString": "2025-09-11T21:32:22.724Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T21:32:22.724Z"
     }
 }
