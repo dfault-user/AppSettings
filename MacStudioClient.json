@@ -11695,7 +11695,6 @@
         "DFIntBatchAssetDeliverySendReasonThrottleHundredthsPercent": "1000",
         "DFFlagAvatarUseBatchedRaycasts2_IXP": "1;Portal.Engine.Physics.BatchedRaycasts-1757608746;Engine.Physics.BatchedRaycasts;1240916778;flagbank",
         "FFlagUseMediaPickerProtocolV2_2": "True",
-        "FFlagAXMigrateTitleDropDownInputBindingsToFocusNavigation3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:00:56",
         "FFlagAvatarChatDelayModelDelivery_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:05:39",
         "FFlagSongbirdReplaceUIBloxWithFoundation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:05:49",
         "FFlagAXMigrateCatalogSearchToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:05:51",
@@ -11722,6 +11721,7 @@
         "FFlagEnableMediaLibraryPickerCameraSourceMacFailureCallback": "True",
         "FFlagCapturesVideoBulkManagerStopGap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T18:02:55",
         "FFlagUseRuntimeMutexRvHttpClient_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T18:04:58",
+        "FFlagAXMigrateTitleDropDownInputBindingsToFocusNavigation3": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13280,7 +13280,7 @@
         "FFlagEnableMultiEditTool": "True",
         "FFlagEnableUserCodeAssistAcCompatibleExperiment2": "True",
         "FFlagEnableReadFileTool": "True",
-        "FFlagDontShowGhostTextTooltips": "False",
+        "FFlagDontShowGhostTextTooltips": "True",
         "FFlagStudioFixTerrainColoursIcons": "True",
         "FFlagStudioEnableAsyncComponentSafeConnect2": "True",
         "FFlagStudioPluginWidgetsUseSafeThisCapturer": "True",
@@ -13394,7 +13394,6 @@
         "FFlagFixInlineClearGhostTextCrash": "True",
         "FFlagCrashReportStudioStreaming2": "True",
         "FIntAICOAcceptCountToDisableTooltip": "30",
-        "FFlagDontShowGhostTextTooltips_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:02:56",
         "FFlagAimMeshUploadTimeMakeTriCountLabelsBools": "True",
         "FFlagEnableAimMeshSimplifyAnalytics": "True",
         "FFlagLuauNoConstraintGenRecursionLimitIce_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:15:33",
@@ -13834,10 +13833,10 @@
         "FFlagEmulatorButtonNewActionReg": "True",
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
-        "DFFlagConvexDecompCompressionAnalytics690_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:01:54",
-        "FStringFlagRepoGitHashFastString": "7484be4132e6f8950b9008b6007525f799051249",
-        "DFStringFlagRepoGitHashDynamicString": "7484be4132e6f8950b9008b6007525f799051249",
-        "FStringFlipTimeStampFastString": "2025-09-11T18:06:36.202Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T18:06:36.202Z"
+        "DFFlagConvexDecompCompressionAnalytics690": "True",
+        "FStringFlagRepoGitHashFastString": "72cde7360c48c66ae33c7814b8b827b905898beb",
+        "DFStringFlagRepoGitHashDynamicString": "72cde7360c48c66ae33c7814b8b827b905898beb",
+        "FStringFlipTimeStampFastString": "2025-09-11T18:09:26.352Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T18:09:26.352Z"
     }
 }
