@@ -11485,7 +11485,7 @@
         "FFlagLuaAppEdpFetchLatencyTracking": "True",
         "FFlagEnableDisplaySize9": "True",
         "FFlagRecordCevJoinAttemptIdInObserverSetup": "True",
-        "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds": "15",
+        "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds": "25",
         "FStringFStringTimeoutLoadingLocalPlayerInBackgroundDM": "EnableManualRetry",
         "FFlagLuaAppProcessGameSocialLinks": "True",
         "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure": "True",
@@ -11718,7 +11718,6 @@
         "FFlagEnableBranchConfigurationSignalTrigger": "True",
         "FFlagCapturesRemoveVideoDetectionEarlyOut": "True",
         "FFlagCapturesVideoBulkManagerStopGap": "True",
-        "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds_Staged": "25;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T19:07:05",
         "AllowVideoPreRoll": "True",
         "FFlagStudioPanelsManagerHide": "True",
         "FFlagGameSettingsRemoveMouseButton1Event": "True",
@@ -12027,9 +12026,9 @@
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "False",
-        "FStringFlagRepoGitHashFastString": "fc5f96938ac78f1a3ecaa00b75859aadd99574e6",
-        "DFStringFlagRepoGitHashDynamicString": "fc5f96938ac78f1a3ecaa00b75859aadd99574e6",
-        "FStringFlipTimeStampFastString": "2025-09-11T20:12:14.023Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T20:12:14.023Z"
+        "FStringFlagRepoGitHashFastString": "27d6434eabc0ea57f0634299391deb567b742779",
+        "DFStringFlagRepoGitHashDynamicString": "27d6434eabc0ea57f0634299391deb567b742779",
+        "FStringFlipTimeStampFastString": "2025-09-11T20:17:03.392Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T20:17:03.392Z"
     }
 }
