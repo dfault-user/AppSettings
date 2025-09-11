@@ -11609,8 +11609,6 @@
         "FFlagAboutAppInformation": "True",
         "FFlagUseRuntimeMutexStreamTransactionMessageTransport": "True",
         "FFlagSmoothClusterUseTaskQueueHelper": "True",
-        "FIntOcclusionSettingsMinIterations_Staged": "149;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:22:33",
-        "FIntOcclusionSettingsMaxIterations_Staged": "4500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:22:58",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagReactIsolatedGlobalsEnabled": "True",
         "DFIntVoiceRtcStatsEventIngestThrottleHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:35:32",
@@ -11621,7 +11619,6 @@
         "FFlagAXColorAdjustmentPageShouldHaveCurrentColorSelected": "True",
         "FFlagAXFixColorAdjustmentGamepadSupport": "True",
         "FFlagAXFixColorAdjustmentQuickButtonSize": "True",
-        "FFlagLargeReplicatorRead5_Staged": "True;SteadyState;10;30;Revert;2025-09-11T21:53:14",
         "FFlagUseRuntimeMutexUserApiCollector_Staged": "True;SteadyState;10;30;Revert;2025-09-11T22:00:41",
         "DFFlagMeshImportWildMeshSimplifier_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:02:02",
         "DFFlagUADFDisableImportLoD_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:02:28",
@@ -11633,6 +11630,8 @@
         "DFFlagWfhThickness_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:19:54",
         "FFlagTCBannerUIPolish_1": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
+        "FIntOcclusionSettingsMaxIterations": "4500",
+        "FIntOcclusionSettingsMinIterations": "149",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -12543,9 +12542,9 @@
         "FFlagReportBatchedRaycastTelemetry": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagEditablePolicyCheckRetry": "True",
-        "FStringFlagRepoGitHashFastString": "a153974a495e90d7994cc373829560eaaebc96ec",
-        "DFStringFlagRepoGitHashDynamicString": "a153974a495e90d7994cc373829560eaaebc96ec",
-        "FStringFlipTimeStampFastString": "2025-09-11T22:24:52.074Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T22:24:52.074Z"
+        "FStringFlagRepoGitHashFastString": "4fcdb39dcab9f5a1ce51145e3ebac10bb49e958f",
+        "DFStringFlagRepoGitHashDynamicString": "4fcdb39dcab9f5a1ce51145e3ebac10bb49e958f",
+        "FStringFlipTimeStampFastString": "2025-09-11T22:31:39.925Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T22:31:39.925Z"
     }
 }
