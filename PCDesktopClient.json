@@ -12230,10 +12230,11 @@
         "FFlagDynamicTranslationTokenizedNumberParameterizationEnabled": "True",
         "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled": "True",
         "FFlagFixAPModerationEviction": "True",
-        "FFlagVideoCaptureFinalizeTimeout2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T16:20:26",
         "FFlagRenderClusterOctreeFixAlwaysOnTop": "True",
         "DFFlagCaptureFixBitrateOverflow": "True",
         "FFlagTCBannerUIPolish_1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:15:32",
+        "FFlagCapturesRemoveShareCapturePromptGetCaptureSizeCall_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:25:19",
+        "FFlagVideoCaptureFinalizeTimeout2": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12698,9 +12699,9 @@
         "FFlagVoiceConnectionApiEnableTearDownPeerConnectionFactoryOnSignalingThread": "True",
         "FFlagReportBatchedRaycastTelemetry": "True",
         "DFFlagConvexDecompCompressionAnalytics690_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:01:54",
-        "FStringFlagRepoGitHashFastString": "46b1af25817c4ea6cc340f710aa06b6e7cdc47c6",
-        "DFStringFlagRepoGitHashDynamicString": "46b1af25817c4ea6cc340f710aa06b6e7cdc47c6",
-        "FStringFlipTimeStampFastString": "2025-09-11T17:26:12.475Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T17:26:12.475Z"
+        "FStringFlagRepoGitHashFastString": "ebe7e44c2a83fe7f1599e44c1b1886b7eab57cd9",
+        "DFStringFlagRepoGitHashDynamicString": "ebe7e44c2a83fe7f1599e44c1b1886b7eab57cd9",
+        "FStringFlipTimeStampFastString": "2025-09-11T17:28:51.315Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T17:28:51.315Z"
     }
 }
