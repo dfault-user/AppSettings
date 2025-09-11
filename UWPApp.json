@@ -10650,7 +10650,7 @@
         "FFlagUseConfigurableReconnectWait": "True",
         "DFFlagRenderUnifyTextureFallbacks": "True",
         "DFFlagFileCacheHaltRename": "True",
-        "FFlagEnableKnowledgeTutorials2": "False",
+        "FFlagEnableKnowledgeTutorials2": "True",
         "FFlagLuaStartPageTutorialInfoTile": "True",
         "FFlagUgcValidationImproveTextureSizeErrorMessages": "True",
         "FFlagAXEnableCarouselItemsBasedOnFrameSize": "True",
@@ -11613,9 +11613,6 @@
         "FFlagAXColorAdjustmentPageShouldHaveCurrentColorSelected": "True",
         "FFlagAXFixColorAdjustmentGamepadSupport": "True",
         "FFlagAXFixColorAdjustmentQuickButtonSize": "True",
-        "DFFlagMeshImportWildMeshSimplifier_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:02:02",
-        "DFFlagUADFDisableImportLoD_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:02:28",
-        "FFlagEnableKnowledgeTutorials2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;683504133;2025-09-11T22:04:33",
         "AllowVideoPreRoll": "True",
         "DFFlagStylingDeletedStyleSheetCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T22:14:37",
         "DFFlagEnablePlaceFileUploadTempstoreS3Bucket": "True",
@@ -11639,6 +11636,8 @@
         "FFlagAppChatNewChatInputBar2_IXP": "1;Social.AppChat;AppChat.NewChatInputBar;1798109022;dev_controlled",
         "FFlagAppChatNewChatInputBarIxpEnabled_Staged": "True;SteadyState;10;60;Revert;true;1798109022;2025-09-11T23:04:15",
         "FFlagAppChatNewChatInputBarIxpEnabled_IXP": "1;Social.AppChat;AppChat.NewChatInputBar;1798109022;dev_controlled",
+        "DFFlagMeshImportWildMeshSimplifier": "True",
+        "DFFlagUADFDisableImportLoD": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -11936,9 +11935,9 @@
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "False",
-        "FStringFlagRepoGitHashFastString": "75a7b9c6f1f915a12e3c31c246481371507efe95",
-        "DFStringFlagRepoGitHashDynamicString": "75a7b9c6f1f915a12e3c31c246481371507efe95",
-        "FStringFlipTimeStampFastString": "2025-09-11T23:06:48.798Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T23:06:48.798Z"
+        "FStringFlagRepoGitHashFastString": "d558536bd71dd07f58330cadc2c86b77019f9171",
+        "DFStringFlagRepoGitHashDynamicString": "d558536bd71dd07f58330cadc2c86b77019f9171",
+        "FStringFlipTimeStampFastString": "2025-09-11T23:11:51.290Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T23:11:51.290Z"
     }
 }
