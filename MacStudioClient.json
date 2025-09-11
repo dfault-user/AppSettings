@@ -11695,7 +11695,6 @@
         "DFIntBatchAssetDeliverySendReasonThrottleHundredthsPercent": "1000",
         "DFFlagAvatarUseBatchedRaycasts2_Staged": "True;SteadyState;10;60;Revert;false;1240916778;2025-09-11T16:39:40",
         "DFFlagAvatarUseBatchedRaycasts2_IXP": "1;Portal.Engine.Physics.BatchedRaycasts-1757608746;Engine.Physics.BatchedRaycasts;1240916778;flagbank",
-        "FFlagProfileTelemetryUsesRuntime_Staged": "True;SteadyState;10;30;Revert;2025-09-11T16:41:11",
         "FFlagCrashpadIncludeIndirectMemoryFixesB_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T16:43:45",
         "FFlagLuaAppUseContentMaturityUpsellMapping_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T16:44:17",
         "FFlagCrashpadIncludeIndirectMemoryFixesA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T16:44:21",
@@ -13781,9 +13780,10 @@
         "FFlagDynamicTranslationTokenizedNumberParameterizationEnabled": "True",
         "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled": "True",
         "FFlagFixAPModerationEviction": "True",
-        "DFFlagCaptureFixBitrateOverflow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T16:10:35",
         "FFlagVideoCaptureFinalizeTimeout2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T16:20:26",
         "FFlagRenderClusterOctreeFixAlwaysOnTop": "True",
+        "DFFlagCaptureFixBitrateOverflow": "True",
+        "FFlagTCBannerUIPolish_1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:15:32",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -13820,9 +13820,9 @@
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:01:54",
-        "FStringFlagRepoGitHashFastString": "8503fe70bb2a21119827c7b67173cd2e587746f4",
-        "DFStringFlagRepoGitHashDynamicString": "8503fe70bb2a21119827c7b67173cd2e587746f4",
-        "FStringFlipTimeStampFastString": "2025-09-11T17:11:55.191Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T17:11:55.191Z"
+        "FStringFlagRepoGitHashFastString": "60b212aca82da76aed102bdb08b8e2c18e9f5dcc",
+        "DFStringFlagRepoGitHashDynamicString": "60b212aca82da76aed102bdb08b8e2c18e9f5dcc",
+        "FStringFlipTimeStampFastString": "2025-09-11T17:17:23.532Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T17:17:23.532Z"
     }
 }
