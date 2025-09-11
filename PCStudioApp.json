@@ -11707,6 +11707,9 @@
         "FFlagUseMediaPickerProtocolV2_2": "True",
         "FFlagAXMigrateTitleDropDownInputBindingsToFocusNavigation3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:00:56",
         "FFlagAvatarChatDelayModelDelivery_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:05:39",
+        "FFlagSongbirdReplaceUIBloxWithFoundation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:05:49",
+        "FFlagAXMigrateCatalogSearchToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:05:51",
+        "FFlagMusicPlayerHiddenByDefault_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:06:47",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13379,10 +13382,10 @@
         "FFlagFixInlineClearGhostTextCrash": "True",
         "FFlagCrashReportStudioStreaming2": "True",
         "FIntAICOAcceptCountToDisableTooltip": "30",
-        "FFlagAimMeshUploadTimeMakeTriCountLabelsBools_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T16:03:50",
-        "FFlagEnableAimMeshSimplifyAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T16:04:21",
         "FFlagDebugDisableLocalUGCValidation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T16:57:32",
         "FFlagDontShowGhostTextTooltips_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:02:56",
+        "FFlagAimMeshUploadTimeMakeTriCountLabelsBools": "True",
+        "FFlagEnableAimMeshSimplifyAnalytics": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -13841,9 +13844,9 @@
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T17:01:54",
-        "FStringFlagRepoGitHashFastString": "4471ce65062c5c676e35895a2057697a6b1ea67a",
-        "DFStringFlagRepoGitHashDynamicString": "4471ce65062c5c676e35895a2057697a6b1ea67a",
-        "FStringFlipTimeStampFastString": "2025-09-11T17:07:28.136Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T17:07:28.136Z"
+        "FStringFlagRepoGitHashFastString": "9653efee64170156465f7a655b56be4b331ac3ce",
+        "DFStringFlagRepoGitHashDynamicString": "9653efee64170156465f7a655b56be4b331ac3ce",
+        "FStringFlipTimeStampFastString": "2025-09-11T17:08:56.654Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T17:08:56.654Z"
     }
 }
