@@ -11723,12 +11723,9 @@
         "FLogPlaceDataDownloadUtil": "Info,6",
         "FFlagAboutAppInformation": "True",
         "FFlagUseRuntimeMutexStreamTransactionMessageTransport": "True",
+        "FFlagAXColorAdjustmentPageShouldHaveCurrentColorSelected_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T20:47:07",
         "AxisAdornmentGrabSize": "12",
         "AllowVideoPreRoll": "True",
-        "FFlagEnableSocialProofUserList_4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T20:37:00",
-        "FFlagAXColorAdjustmentPageShouldHaveCurrentColorSelected_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T20:47:07",
-        "CaptureQTStudioCountersEnabled": "True",
-        "CaptureCountersIntervalInMinutes": "5",
         "DFIntJoinLimitWin32x64_Staged": "688;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;366482982;2025-09-11T20:56:17",
         "FFlagSmoothClusterUseTaskQueueHelper": "True",
         "DFFlagRetransmitPins_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:12:03",
@@ -11739,6 +11736,10 @@
         "FFlagTextGenerationApi_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:29:15",
         "FFlagReactIsolatedGlobalsEnabled": "True",
         "DFIntVoiceRtcStatsEventIngestThrottleHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:35:32",
+        "DFFlagClientReceiveNetStackPortAndToken_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:43:10",
+        "DFFlagRccReportNetStackPort_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-11T21:43:25",
+        "CaptureCountersIntervalInMinutes": "5",
+        "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -12037,9 +12038,9 @@
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "False",
-        "FStringFlagRepoGitHashFastString": "a311539d8df471fbd4b3e8f4b01203e5c40885a9",
-        "DFStringFlagRepoGitHashDynamicString": "a311539d8df471fbd4b3e8f4b01203e5c40885a9",
-        "FStringFlipTimeStampFastString": "2025-09-11T21:39:43.518Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-11T21:39:43.518Z"
+        "FStringFlagRepoGitHashFastString": "f3059c932d61ff7e5bec32dc78b918a27dc3bf26",
+        "DFStringFlagRepoGitHashDynamicString": "f3059c932d61ff7e5bec32dc78b918a27dc3bf26",
+        "FStringFlipTimeStampFastString": "2025-09-11T21:44:51.400Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-11T21:44:51.400Z"
     }
 }
