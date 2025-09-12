@@ -2273,7 +2273,7 @@
         "DFIntScreenGuiSafeAreaPropertiesAnalyticsEventIngest_ReportHundredthsPercent": "5000",
         "DisablePauseSessionInCall2": "True",
         "FStringToolboxAssetConfigDisabledVideoSharingLearnMoreLink": "https://create.roblox.com/docs/ui/video-assets#video-asset-privacy-system",
-        "FIntCloudTestFetchTimeoutSeconds": "30",
+        "FIntCloudTestFetchTimeoutSeconds": "40",
         "DFIntVoiceChatMaxRoundsOfWaitForBlocklistLoad": "600",
         "DFIntWebRtcStackMaximumSizeKB": "128",
         "FFlagUserVRVehicleCamera": "False",
@@ -11638,7 +11638,6 @@
         "FFlagUseRuntimeMutexUserApiCollector": "True",
         "FIntAssistantProcessEventTimeoutMS": "120000",
         "FFlagRenderTestWaitForProcessingAsyncMeshTasks": "True",
-        "FIntCloudTestFetchTimeoutSeconds_Staged": "40;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-12T17:15:44",
         "FIntNewFindAllReplaceAll2BetaFeatureRolloutPercent": "10",
         "FFlagUwpMigrationGuaranteedTelemetery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-12T17:29:59",
         "FFlagEnableRecommendationParameterCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-12T17:54:18",
@@ -12003,9 +12002,9 @@
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagEditablePolicyCheckRetry": "True",
         "DFFlagSQLiteCacheReportSizeMismatch": "True",
-        "FStringFlagRepoGitHashFastString": "2407425d2cfd2060e116fa61076445521062e85d",
-        "DFStringFlagRepoGitHashDynamicString": "2407425d2cfd2060e116fa61076445521062e85d",
-        "FStringFlipTimeStampFastString": "2025-09-12T18:18:31.219Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-12T18:18:31.219Z"
+        "FStringFlagRepoGitHashFastString": "59753cc5839c6775b3fdf9fd3d3f2b4df6fd790d",
+        "DFStringFlagRepoGitHashDynamicString": "59753cc5839c6775b3fdf9fd3d3f2b4df6fd790d",
+        "FStringFlipTimeStampFastString": "2025-09-12T18:22:38.766Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-12T18:22:38.766Z"
     }
 }
