@@ -11643,10 +11643,9 @@
         "FFlagUGCValidateStopNaNsInfsInCalculatedData": "True",
         "FFlagIEAvatarAutoSetupClientError": "True",
         "FFlagEnablePhoto2Avatar7": "True",
-        "DFIntProductIdProductInfoCacheLifetimeSeconds_PlaceFilter": "21600;109983668079237;96342491571673;128762245270197;119602771011506;120148879522453;73226809349189;126884695634066;91867617264223;92172729639703;111261310905721;140398800602847;72448243468680;76010444151560;88043432908614;129432912780453;104538457589939",
         "FFlagAddFriendsRemoveTooltip": "True",
         "DFFlagAvatarUseBatchedRaycasts2_IXP": "1;Engine.Physics.BatchedRaycasts.Layer1;Engine.Physics.BatchedRaycasts.V4;1240916778;flagbank",
-        "FFlagIntroLocalUserCEVEligibleLoadState": "True",
+        "FFlagIntroLocalUserCEVEligibleLoadState": "False",
         "FFlagCapturesPromptShareImageFixEnabled": "True",
         "DFFlagUsePreferredLayerOrder": "True",
         "FFlagRefreshAuthSessionAfterLanguageChange": "True",
@@ -11666,8 +11665,6 @@
         "FFlagUwpMigrationDialog1": "True",
         "FFlagEnableLoginV2ForcedUsernameOverride2": "True",
         "FFlagStreamingMetricsEnabler": "True",
-        "FFlagIntroLocalUserCEVEligibleLoadState_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T21:56:48",
-        "FFlagEnablePartyNudgeNotification2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T21:57:23",
         "FFlagFlagRolloutTestStaticBool47_IXP": "1;Portal.SRMFix-1757973874;SRMFix;496810607;flagbank",
         "FFlagFlagRolloutTestStaticBool48_IXP": "1;Portal.SRMFix-1757973874;SRMFix;496810607;flagbank",
         "FFlagCLI157130": "True",
@@ -11683,6 +11680,7 @@
         "FFlagUseNewPlayerList3_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerList;1196207538;flagbank",
         "FFlagPurchasePromptPriceShouldUseProductInfoPrice2": "True",
         "FFlagUseRuntimeMutexWrapLayeredDeformer_Staged": "True;SteadyState;10;30;Revert;2025-09-15T22:56:03",
+        "FFlagEnablePartyNudgeNotification2": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12669,9 +12667,9 @@
         "FFlagEditablePolicyCheckRetry": "True",
         "DFFlagEnableAdsLifecycleErrorEvent": "True",
         "FFlagLuaAppGamepadHoldToast2": "True",
-        "FStringFlagRepoGitHashFastString": "e63f275d636031265a179bec6f84dfa9d73d3f04",
-        "DFStringFlagRepoGitHashDynamicString": "e63f275d636031265a179bec6f84dfa9d73d3f04",
-        "FStringFlipTimeStampFastString": "2025-09-15T23:02:01.109Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-15T23:02:01.109Z"
+        "FStringFlagRepoGitHashFastString": "5876d6963f9c91fe6c40096ff30631fa263a6255",
+        "DFStringFlagRepoGitHashDynamicString": "5876d6963f9c91fe6c40096ff30631fa263a6255",
+        "FStringFlipTimeStampFastString": "2025-09-15T23:04:30.230Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-15T23:04:30.230Z"
     }
 }
