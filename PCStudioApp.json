@@ -11663,7 +11663,6 @@
         "FFlagPreserveDpiOnSoftReset": "True",
         "FFlagEnableAuthsecImageUpdate": "True",
         "FFlagAmrFixOpenUsePermissions": "True",
-        "FFlagCLI157130_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T21:01:56",
         "FFlagUwpMigrationDialog1": "True",
         "FFlagEnableAccountCarouselEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T21:12:04",
         "DFFlagStyleRuleFixPropInconsistencies_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1530197683;2025-09-15T21:13:36",
@@ -11676,6 +11675,7 @@
         "FFlagFlagRolloutTestStaticBool47_IXP": "1;Portal.SRMFix-1757973874;SRMFix;496810607;flagbank",
         "FFlagFlagRolloutTestStaticBool48_Staged": "True;SteadyState;10;30;Revert;true;496810607;2025-09-15T22:05:15",
         "FFlagFlagRolloutTestStaticBool48_IXP": "1;Portal.SRMFix-1757973874;SRMFix;496810607;flagbank",
+        "FFlagCLI157130": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13812,9 +13812,9 @@
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
-        "FStringFlagRepoGitHashFastString": "b8048b4e9dec63c0737b35e7d7e2a8271e54ec70",
-        "DFStringFlagRepoGitHashDynamicString": "b8048b4e9dec63c0737b35e7d7e2a8271e54ec70",
-        "FStringFlipTimeStampFastString": "2025-09-15T22:07:19.868Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-15T22:07:19.868Z"
+        "FStringFlagRepoGitHashFastString": "3e37dd139742c67fae11740f1b9952f247da21f5",
+        "DFStringFlagRepoGitHashDynamicString": "3e37dd139742c67fae11740f1b9952f247da21f5",
+        "FStringFlipTimeStampFastString": "2025-09-15T22:11:19.168Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-15T22:11:19.168Z"
     }
 }
