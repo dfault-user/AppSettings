@@ -11664,7 +11664,6 @@
         "FFlagEnableAuthsecImageUpdate": "True",
         "FFlagAmrFixOpenUsePermissions": "True",
         "FFlagUwpMigrationDialog1": "True",
-        "FFlagPurchasePromptPriceShouldUseProductInfoPrice2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T21:40:30",
         "FFlagEnableLoginV2ForcedUsernameOverride2": "True",
         "FFlagStreamingMetricsEnabler": "True",
         "FFlagIntroLocalUserCEVEligibleLoadState_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T21:56:48",
@@ -11682,6 +11681,7 @@
         "FFlagFixLeaderboardStatSortTypeMismatch_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerList;1196207538;flagbank",
         "FFlagMoveNewPlayerListDividers_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerList;1196207538;flagbank",
         "FFlagUseNewPlayerList3_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerList;1196207538;flagbank",
+        "FFlagPurchasePromptPriceShouldUseProductInfoPrice2": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12577,9 +12577,9 @@
         "DFFlagEnableAdsLifecycleErrorEvent": "True",
         "FFlagFixAPModerationEviction": "True",
         "AndroidHapticProtocolUpdateStateWithJNI": "true",
-        "FStringFlagRepoGitHashFastString": "359e76e3340632b1c3549d28503b21d86af91ff4",
-        "DFStringFlagRepoGitHashDynamicString": "359e76e3340632b1c3549d28503b21d86af91ff4",
-        "FStringFlipTimeStampFastString": "2025-09-15T22:46:20.115Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-15T22:46:20.115Z"
+        "FStringFlagRepoGitHashFastString": "57e1f808cb203c6a49556418fb4046af85ee52f0",
+        "DFStringFlagRepoGitHashDynamicString": "57e1f808cb203c6a49556418fb4046af85ee52f0",
+        "FStringFlipTimeStampFastString": "2025-09-15T22:48:48.068Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-15T22:48:48.068Z"
     }
 }
