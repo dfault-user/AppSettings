@@ -11654,8 +11654,6 @@
         "FFlagCapturesVideoShareToastEventsFixEnabled": "True",
         "FFlagCapturesVideoCaptureLoggingEnabled_v3": "True",
         "FFlagHideCloseButtonEdp": "True",
-        "FFlagIxpControllerRefactorTreatmentStorage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T19:00:21",
-        "FFlagPreserveDpiOnSoftReset_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T19:00:31",
         "FFlagEnableRecordSignOut": "True",
         "FFlagAddFriendsRemoveFriendsCountCalls": "True",
         "DFIntStreamingMetricsCollectorUEThrottleHP": "10",
@@ -11663,6 +11661,9 @@
         "FFlagAmrFixOpenUsePermissions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;681545021;2025-09-15T19:59:06",
         "FFlagEnableAuthsecImageUpdate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T19:59:53",
         "FFlagSTUDIOPLAT39990_FlagEditorOverrideCancel": "True",
+        "FFlagUwpMigrationDialog1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T20:02:22",
+        "FFlagIxpControllerRefactorTreatmentStorage": "True",
+        "FFlagPreserveDpiOnSoftReset": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13334,6 +13335,7 @@
         "FFlagRemoveParseCommandLineOptionsRobloxMainWindow2": "True",
         "FFlagRemoveReportSaveOrPublishEventFromRobloxMainWindow2": "True",
         "FFlagRemoveSendStartupAnalyticsFromRobloxMainWindow": "True",
+        "FFlagStyleEditorShowPseudoPreview_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-15T20:08:32",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13774,9 +13776,9 @@
         "FFlagPlayerEmulatorButtonAlwaysClickable": "True",
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
-        "FStringFlagRepoGitHashFastString": "42ffee275ffc6ae6c3f8727eb4d8e1487f0dbf54",
-        "DFStringFlagRepoGitHashDynamicString": "42ffee275ffc6ae6c3f8727eb4d8e1487f0dbf54",
-        "FStringFlipTimeStampFastString": "2025-09-15T20:06:12.093Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-15T20:06:12.093Z"
+        "FStringFlagRepoGitHashFastString": "38756c91ca3c56567c1f97ab5f30ec0f4e43ffdf",
+        "DFStringFlagRepoGitHashDynamicString": "38756c91ca3c56567c1f97ab5f30ec0f4e43ffdf",
+        "FStringFlipTimeStampFastString": "2025-09-15T20:09:47.343Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-15T20:09:47.343Z"
     }
 }
