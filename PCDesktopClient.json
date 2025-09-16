@@ -11690,6 +11690,7 @@
         "DFFlagMRFNonStreamingError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T16:45:02",
         "FFlagAccountPickerEnableUIBloxButtons_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T16:56:53",
         "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-16T16:57:24",
+        "DFFlagGetIsEligibleToSDKBeforeIxp_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1586358081;2025-09-16T16:57:37",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12112,7 +12113,7 @@
         "FFlagGetSwapChainSizeSupportBiggerSize": "True",
         "DFFlagDataStoreGetKeyVersionInfoRdbFlag_PlaceFilter": "True;16101250253;18412633979;16146832113;4924922222;126884695634066",
         "DFFlagDataStoreEnableRdbAshTraffic_PlaceFilter": "True;18412633979;16101250253;16146832113;4924922222;126884695634066",
-        "DFStringDataStoreRdbShadowTrafficRolloutConfig_PlaceFilter": "5564402127:10000,6241394935:10000,5578556129:0,1686885941:0,7436755782:950;16101250253;18412633979;16146832113;4924922222;126884695634066",
+        "DFStringDataStoreRdbShadowTrafficRolloutConfig_PlaceFilter": "5564402127:10000,6241394935:10000,5578556129:0,1686885941:0,7436755782:1000;16101250253;18412633979;16146832113;4924922222;126884695634066",
         "DFFlagDataStoreEnableRdbShadowTraffic_PlaceFilter": "True;16101250253;18412633979;16146832113;4924922222;126884695634066",
         "FFlagSimAeroNewNewtonLogging": "True",
         "DFFlagEnableFeatureTimeoutMigration": "True",
@@ -12677,9 +12678,9 @@
         "FFlagEditablePolicyCheckRetry": "True",
         "DFFlagEnableAdsLifecycleErrorEvent": "True",
         "FFlagLuaAppGamepadHoldToast2": "True",
-        "FStringFlagRepoGitHashFastString": "f0ea0023c1055bd4501bf8eff0c7c08ea0c67137",
-        "DFStringFlagRepoGitHashDynamicString": "f0ea0023c1055bd4501bf8eff0c7c08ea0c67137",
-        "FStringFlipTimeStampFastString": "2025-09-16T16:59:11.819Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T16:59:11.819Z"
+        "FStringFlagRepoGitHashFastString": "d736ccdc5d58716468143e981706ba67505e96ae",
+        "DFStringFlagRepoGitHashDynamicString": "d736ccdc5d58716468143e981706ba67505e96ae",
+        "FStringFlipTimeStampFastString": "2025-09-16T17:00:50.127Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T17:00:50.127Z"
     }
 }
