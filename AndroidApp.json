@@ -11693,7 +11693,7 @@
         "FFlagRemovePeekViewScrimBorder": "True",
         "FFlagAXDoNotUnrenderQuickMenuRobuxButtons": "True",
         "FFlagDisableCloudsAndroidAndMac": "True",
-        "FFlagPPVEnabledOnConsole": "True",
+        "FFlagPPVEnabledOnConsole": "False",
         "FFlagLargeReplicatorEnabled9": "True",
         "DFFlagZoomToExtentsApi": "True",
         "FFlagIASMousePosition2": "True",
@@ -11704,8 +11704,6 @@
         "FFlagAppChatTelemetryPlacement": "True",
         "FFlagAXUpdateSlotBasedEditorToastAndPrompts": "True",
         "FFlagFixToggleMenuIconForTheFive": "True",
-        "FFlagPPVEnabledOnConsole_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:28:22",
-        "DFFlagResetGraphicBuffersAfterEncoder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:28:26",
         "FFlagSimDcdFixRaceCondition_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:37:02",
         "FFlagSwitchProductPurchaseContainerErrorPromptV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:38:36",
         "FFlagLuaAppEventDetailsFocusNav_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;346418493;2025-09-16T20:39:35",
@@ -11722,6 +11720,10 @@
         "FFlagSwitchToGeneralEconomicRestrictionTemplate": "True",
         "AllowVideoPreRoll": "True",
         "FFlagAXMoveCameraZoomRadiusToConstants": "True",
+        "FFlagLuauEmplaceNotPushBack_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T21:29:19",
+        "FFlagLuauNoScopeShallNotSubsumeAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T21:29:48",
+        "DFFlagResetGraphicBuffersAfterEncoder": "True",
+        "DFFlagVideoCaptureIgnoreRenderFramesAfterFree_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T21:30:10",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -12621,9 +12623,9 @@
         "FFlagIASMouseFix": "True",
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
-        "FStringFlagRepoGitHashFastString": "d59773f0bff5199ea8d31bdcd9d032b46729f720",
-        "DFStringFlagRepoGitHashDynamicString": "d59773f0bff5199ea8d31bdcd9d032b46729f720",
-        "FStringFlipTimeStampFastString": "2025-09-16T21:29:19.311Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T21:29:19.311Z"
+        "FStringFlagRepoGitHashFastString": "007f916a2c197fd95f313b110cc6255491ce7830",
+        "DFStringFlagRepoGitHashDynamicString": "007f916a2c197fd95f313b110cc6255491ce7830",
+        "FStringFlipTimeStampFastString": "2025-09-16T21:33:17.038Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T21:33:17.038Z"
     }
 }
