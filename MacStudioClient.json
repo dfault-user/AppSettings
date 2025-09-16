@@ -11721,6 +11721,7 @@
         "DFFlagEnableGmaAppPromoAd2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T21:16:59",
         "FFlagLuaAppContainerShouldRestoreFocus": "True",
         "FFlagSwitchToGeneralEconomicRestrictionTemplate": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13402,7 +13403,6 @@
         "FFlagLuauRemoveGenericErrorForParams": "True",
         "FFlagCinKeepOriginalMesh3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:31:39",
         "FFlagGameSettingsAllowInsertFreeAssets2": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13805,6 +13805,7 @@
         "FLogGameJoinUtil": "6",
         "DFFlagInstanceReflectionLimitWarning": "True",
         "DFFlagRenderTrailCullingFix": "True",
+        "DFFlagHttpCurlHttp2Enabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;753290528;2025-09-16T21:21:24",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -13842,9 +13843,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "a7a180fd4e21ec5943878f81ea7e4a84c62f128b",
-        "DFStringFlagRepoGitHashDynamicString": "a7a180fd4e21ec5943878f81ea7e4a84c62f128b",
-        "FStringFlipTimeStampFastString": "2025-09-16T21:23:45.341Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T21:23:45.341Z"
+        "FStringFlagRepoGitHashFastString": "dba6b88d2ac9a3e4d3c8151bbcb3f9af45f447cc",
+        "DFStringFlagRepoGitHashDynamicString": "dba6b88d2ac9a3e4d3c8151bbcb3f9af45f447cc",
+        "FStringFlipTimeStampFastString": "2025-09-16T21:25:30.581Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T21:25:30.581Z"
     }
 }
