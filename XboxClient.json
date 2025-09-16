@@ -11688,6 +11688,9 @@
         "DFFlagAllowInsertFreeAssets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T16:31:25",
         "FFlagUGCValidateNoDoubleRoots_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2060416001;2025-09-16T16:42:09",
         "DFFlagMRFNonStreamingError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T16:45:02",
+        "FFlagAccountPickerEnableUIBloxButtons_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T16:56:53",
+        "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-16T16:57:24",
+        "DFFlagGetIsEligibleToSDKBeforeIxp_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1586358081;2025-09-16T16:57:37",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12047,9 +12050,9 @@
         "FFlagEditablePolicyCheckRetry": "True",
         "DFFlagSQLiteCacheReportSizeMismatch": "True",
         "FFlagRbxStorageFindAndRemoveOrphanedFiles": "True",
-        "FStringFlagRepoGitHashFastString": "b3c20e16df896b3454f1370d099c049a82ae0b6a",
-        "DFStringFlagRepoGitHashDynamicString": "b3c20e16df896b3454f1370d099c049a82ae0b6a",
-        "FStringFlipTimeStampFastString": "2025-09-16T16:57:21.204Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T16:57:21.204Z"
+        "FStringFlagRepoGitHashFastString": "eded39940a1a17075919bd94c4bec88130fcd4d5",
+        "DFStringFlagRepoGitHashDynamicString": "eded39940a1a17075919bd94c4bec88130fcd4d5",
+        "FStringFlipTimeStampFastString": "2025-09-16T16:59:35.185Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T16:59:35.185Z"
     }
 }
