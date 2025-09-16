@@ -11480,7 +11480,7 @@
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
         "DFIntTextChatCommandClientSentThrottlePermyriad": "10",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad": "10",
-        "DFIntTextChatMessageClientSendingThrottlePermyriad": "50",
+        "DFIntTextChatMessageClientSendingThrottlePermyriad": "100",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
         "DFFlagISRPerfPass_PlaceFilter": "True;189707",
         "FFlagISREarlyFilterAnimatedJoints_PlaceFilter": "True;189707",
@@ -11690,7 +11690,6 @@
         "FFlagAccountPickerEnableUIBloxButtons": "True",
         "FFlagEnableLoginV1ForcedUsernameOverride": "True",
         "FFlagAppChatFixNavigatorRemounting4": "True",
-        "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-16T18:32:04",
         "FFlagRemovePeekViewScrimBorder": "True",
         "DFFlagEnableReportAppPromoAdClickCTAEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T18:36:35",
         "FFlagAXDoNotUnrenderQuickMenuRobuxButtons": "True",
@@ -12603,9 +12602,9 @@
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1057211224;2025-09-16T18:50:54",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1057211224;2025-09-16T18:50:54",
         "FFlagIASMouseFix": "True",
-        "FStringFlagRepoGitHashFastString": "49a97e4887f0c518a82cde8267f46fcb81560770",
-        "DFStringFlagRepoGitHashDynamicString": "49a97e4887f0c518a82cde8267f46fcb81560770",
-        "FStringFlipTimeStampFastString": "2025-09-16T19:30:28.694Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T19:30:28.694Z"
+        "FStringFlagRepoGitHashFastString": "d08faea967c0b27038a7b922e096649c9e96a868",
+        "DFStringFlagRepoGitHashDynamicString": "d08faea967c0b27038a7b922e096649c9e96a868",
+        "FStringFlipTimeStampFastString": "2025-09-16T19:36:20.137Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T19:36:20.137Z"
     }
 }
