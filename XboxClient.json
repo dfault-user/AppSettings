@@ -11717,7 +11717,6 @@
         "FFlagEnableEconomicRestrictionPromptEDP": "True",
         "DFFlagVideoPlaybackManagerEarlyReset": "True",
         "FFlagVideoHandleEarlyServiceShutdown_IXP": "1;Portal.VideoPlaybackManagerWithEarlyServiceShutdownHandling-1758059695;VideoPlaybackManagerWithEarlyServiceShutdownHandling;141700402;flagbank",
-        "FFlagEngineContextPluginLoad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T21:56:36",
         "FFlagRemoveUpdatePromptChild": "True",
         "DFFlagSerializerBinaryRemoveStreamAllocs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T22:07:02",
         "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-16T22:11:31",
@@ -11734,6 +11733,7 @@
         "FFlagAddUrlRegexMatchingForAsset_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T22:45:10",
         "FFlagEnableEconomicRestrictionInPurchasePrompt": "True",
         "FFlagEnablePartyNudgeNotification2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T22:51:59",
+        "FFlagEngineContextPluginLoad": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12095,9 +12095,9 @@
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
         "FFlagRbxStorageRemoveLargeWal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T22:34:41",
-        "FStringFlagRepoGitHashFastString": "80b60b2f3f6da46c19500389e7f5ae1de9881a11",
-        "DFStringFlagRepoGitHashDynamicString": "80b60b2f3f6da46c19500389e7f5ae1de9881a11",
-        "FStringFlipTimeStampFastString": "2025-09-16T22:58:44.500Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T22:58:44.500Z"
+        "FStringFlagRepoGitHashFastString": "0e3fa79504b2575b4ee95ac22d1cfac6326724cc",
+        "DFStringFlagRepoGitHashDynamicString": "0e3fa79504b2575b4ee95ac22d1cfac6326724cc",
+        "FStringFlipTimeStampFastString": "2025-09-16T23:05:57.310Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T23:05:57.310Z"
     }
 }
