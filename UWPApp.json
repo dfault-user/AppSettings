@@ -11687,8 +11687,6 @@
         "DFFlagAllowInsertFreeAssets": "True",
         "FFlagUGCValidateNoDoubleRoots": "True",
         "DFFlagMRFNonStreamingError": "True",
-        "FFlagPPVEnabledOnConsole_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T17:47:32",
-        "FFlagDisableCloudsAndroidAndMac_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T17:49:19",
         "FFlagLargeReplicatorEnabled9_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T18:00:03",
         "FFlagAccountPickerEnableUIBloxButtons": "True",
         "FFlagEnableLoginV1ForcedUsernameOverride": "True",
@@ -11700,6 +11698,8 @@
         "FFlagRemovePeekViewScrimBorder": "True",
         "DFFlagEnableReportAppPromoAdClickCTAEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T18:36:35",
         "FFlagAXDoNotUnrenderQuickMenuRobuxButtons": "True",
+        "FFlagDisableCloudsAndroidAndMac": "True",
+        "FFlagPPVEnabledOnConsole": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -11999,9 +11999,9 @@
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "False",
         "DFFlagRobloxTelemetryEnableSenderCallback2": "True",
         "FFlagLuaAppGamepadHoldToast2": "True",
-        "FStringFlagRepoGitHashFastString": "b17315d6adf56da59d598bfdcdecea360cb69410",
-        "DFStringFlagRepoGitHashDynamicString": "b17315d6adf56da59d598bfdcdecea360cb69410",
-        "FStringFlipTimeStampFastString": "2025-09-16T18:50:09.901Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T18:50:09.901Z"
+        "FStringFlagRepoGitHashFastString": "6c0a2e66dbb1c25068e379158d593ef04bf3d0f1",
+        "DFStringFlagRepoGitHashDynamicString": "6c0a2e66dbb1c25068e379158d593ef04bf3d0f1",
+        "FStringFlipTimeStampFastString": "2025-09-16T18:52:53.309Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T18:52:53.309Z"
     }
 }
