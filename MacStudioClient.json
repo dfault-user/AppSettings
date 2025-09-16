@@ -11704,7 +11704,6 @@
         "FFlagAppChatTelemetryPlacement": "True",
         "FFlagAXUpdateSlotBasedEditorToastAndPrompts": "True",
         "FFlagFixToggleMenuIconForTheFive": "True",
-        "FFlagAXMoveCameraZoomRadiusToConstants_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:25:00",
         "FFlagPPVEnabledOnConsole_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:28:22",
         "DFFlagResetGraphicBuffersAfterEncoder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:28:26",
         "AllowVideoPreRoll": "True",
@@ -11722,6 +11721,7 @@
         "FFlagLuaAppContainerShouldRestoreFocus": "True",
         "FFlagSwitchToGeneralEconomicRestrictionTemplate": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
+        "FFlagAXMoveCameraZoomRadiusToConstants": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13843,9 +13843,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "dba6b88d2ac9a3e4d3c8151bbcb3f9af45f447cc",
-        "DFStringFlagRepoGitHashDynamicString": "dba6b88d2ac9a3e4d3c8151bbcb3f9af45f447cc",
-        "FStringFlipTimeStampFastString": "2025-09-16T21:25:30.581Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T21:25:30.581Z"
+        "FStringFlagRepoGitHashFastString": "d59773f0bff5199ea8d31bdcd9d032b46729f720",
+        "DFStringFlagRepoGitHashDynamicString": "d59773f0bff5199ea8d31bdcd9d032b46729f720",
+        "FStringFlipTimeStampFastString": "2025-09-16T21:29:19.311Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T21:29:19.311Z"
     }
 }
