@@ -11700,7 +11700,6 @@
         "FFlagIASResponseCurve": "True",
         "FFlagAddFriendsUnifySomeUIConsole_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T19:36:57",
         "DFFlagEnableReportAppPromoAdClickCTAEvent": "True",
-        "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-16T19:54:15",
         "FFlagFFlagEnableMutexOnGenericChallengeInterceptorMount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:06:01",
         "FFlagAppChatLandingModalFixBugs": "True",
         "FFlagAppChatModalTelemetryUseDefault": "True",
@@ -11711,6 +11710,8 @@
         "FFlagLuaAppContainerShouldRestoreFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1940147768;2025-09-16T20:19:59",
         "FFlagFixToggleMenuIconForTheFive": "True",
         "FFlagAXMoveCameraZoomRadiusToConstants_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:25:00",
+        "FFlagPPVEnabledOnConsole_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:28:22",
+        "DFFlagResetGraphicBuffersAfterEncoder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:28:26",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12577,9 +12578,9 @@
         "FFlagRefactorPeoplePage6_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
         "FFlagRenderPeoplePageOnTabSwitch_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
         "FFlagAXAvatarWearAfterPurchaseBypassLimits2": "True",
-        "FStringFlagRepoGitHashFastString": "887b1c7164c043465e90260fe924f0361a274cb5",
-        "DFStringFlagRepoGitHashDynamicString": "887b1c7164c043465e90260fe924f0361a274cb5",
-        "FStringFlipTimeStampFastString": "2025-09-16T20:27:05.673Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T20:27:05.673Z"
+        "FStringFlagRepoGitHashFastString": "08109c2bb2b94d62f002c7807dfc71252fbbdb41",
+        "DFStringFlagRepoGitHashDynamicString": "08109c2bb2b94d62f002c7807dfc71252fbbdb41",
+        "FStringFlipTimeStampFastString": "2025-09-16T20:31:43.725Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T20:31:43.725Z"
     }
 }
