@@ -11703,8 +11703,6 @@
         "FFlagAppChatModalTelemetryUseDefault": "True",
         "FFlagAppChatTelemetryPlacement": "True",
         "FFlagAXUpdateSlotBasedEditorToastAndPrompts": "True",
-        "FFlagSwitchToGeneralEconomicRestrictionTemplate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:19:05",
-        "FFlagLuaAppContainerShouldRestoreFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1940147768;2025-09-16T20:19:59",
         "FFlagFixToggleMenuIconForTheFive": "True",
         "FFlagAXMoveCameraZoomRadiusToConstants_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:25:00",
         "FFlagPPVEnabledOnConsole_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T20:28:22",
@@ -11721,6 +11719,8 @@
         "FFlagFFlagEnableMutexOnGenericChallengeInterceptorMount": "True",
         "DFFlagSimAdaptiveUseNewVelocityCriteria_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T21:15:00",
         "DFFlagEnableGmaAppPromoAd2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T21:16:59",
+        "FFlagLuaAppContainerShouldRestoreFocus": "True",
+        "FFlagSwitchToGeneralEconomicRestrictionTemplate": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13842,9 +13842,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "d11d97ee116cd856b184c7a71064912573c5bfa9",
-        "DFStringFlagRepoGitHashDynamicString": "d11d97ee116cd856b184c7a71064912573c5bfa9",
-        "FStringFlipTimeStampFastString": "2025-09-16T21:19:46.936Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T21:19:46.936Z"
+        "FStringFlagRepoGitHashFastString": "a7a180fd4e21ec5943878f81ea7e4a84c62f128b",
+        "DFStringFlagRepoGitHashDynamicString": "a7a180fd4e21ec5943878f81ea7e4a84c62f128b",
+        "FStringFlipTimeStampFastString": "2025-09-16T21:23:45.341Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T21:23:45.341Z"
     }
 }
