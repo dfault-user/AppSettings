@@ -11690,8 +11690,6 @@
         "FFlagAccountPickerEnableUIBloxButtons": "True",
         "FFlagEnableLoginV1ForcedUsernameOverride": "True",
         "FFlagAppChatFixNavigatorRemounting4": "True",
-        "FFlagIASResponseCurve_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T18:21:00",
-        "FFlagIASMousePosition2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T18:22:56",
         "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-16T18:32:04",
         "FFlagRemovePeekViewScrimBorder": "True",
         "DFFlagEnableReportAppPromoAdClickCTAEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T18:36:35",
@@ -11702,6 +11700,8 @@
         "FFlagAXUpdateSlotBasedEditorToastAndPrompts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T19:09:42",
         "DFFlagZoomToExtentsApi": "True",
         "FFlagFixToggleMenuIconForTheFive_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T19:18:29",
+        "FFlagIASMousePosition2": "True",
+        "FFlagIASResponseCurve": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12001,9 +12001,9 @@
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "False",
         "DFFlagRobloxTelemetryEnableSenderCallback2": "True",
         "FFlagLuaAppGamepadHoldToast2": "True",
-        "FStringFlagRepoGitHashFastString": "4bb87f53c2120f0e2de58c1f26adce64e0d66a6b",
-        "DFStringFlagRepoGitHashDynamicString": "4bb87f53c2120f0e2de58c1f26adce64e0d66a6b",
-        "FStringFlipTimeStampFastString": "2025-09-16T19:23:09.574Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T19:23:09.574Z"
+        "FStringFlagRepoGitHashFastString": "f743316f461da181a9945d72cb7b137c8f0b38a8",
+        "DFStringFlagRepoGitHashDynamicString": "f743316f461da181a9945d72cb7b137c8f0b38a8",
+        "FStringFlipTimeStampFastString": "2025-09-16T19:28:13.988Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T19:28:13.988Z"
     }
 }
