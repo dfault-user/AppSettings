@@ -11728,6 +11728,7 @@
         "FFlagVideoPlaybackManager2_Staged": "True;SteadyState;10;30;Revert;true;141700402;2025-09-16T21:55:36",
         "FFlagVideoHandleEarlyServiceShutdown_Staged": "True;SteadyState;10;30;Revert;true;141700402;2025-09-16T21:55:36",
         "FFlagVideoHandleEarlyServiceShutdown_IXP": "1;Portal.VideoPlaybackManagerWithEarlyServiceShutdownHandling-1758059695;VideoPlaybackManagerWithEarlyServiceShutdownHandling;141700402;flagbank",
+        "FFlagEngineContextPluginLoad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T21:56:36",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12649,9 +12650,9 @@
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
         "DFStringAllowedPublicFlags_Staged": "eyJTaWduYXR1cmUiOiJkY2FhYTRlYjQ5NGQwOWYyOGRiZjdkMWEzOGY5ZjhlYTJmNjRjNzdjZTg4N2MwNzIwYzc1ZTYyMzY3OGQ2MDVhMmJkYmRmMTc0MDQyNGU3NTk5M2U5NjY0YWM0ZDRlNTk2NTg1Y2IyZjNmMzZiM2JmYjQ4YThiODgxYzg3N2EwZiIsIkFsbG93ZWQiOlsiREZGbGFnRGVidWdQYXVzZVZveGVsaXplciIsIkRGRmxhZ0Rpc2FibGVEUElTY2FsZSIsIkRGRmxhZ1RleHR1cmVRdWFsaXR5T3ZlcnJpZGVFbmFibGVkIiwiREZJbnRDU0dMZXZlbE9mRGV0YWlsU3dpdGNoaW5nRGlzdGFuY2UiLCJERkludENTR0xldmVsT2ZEZXRhaWxTd2l0Y2hpbmdEaXN0YW5jZUwxMiIsIkRGSW50Q1NHTGV2ZWxPZkRldGFpbFN3aXRjaGluZ0Rpc3RhbmNlTDIzIiwiREZJbnRDU0dMZXZlbE9mRGV0YWlsU3dpdGNoaW5nRGlzdGFuY2VMMzQiLCJERkludENhbkhpZGVHdWlHcm91cElkIiwiREZJbnREZWJ1Z0ZSTVF1YWxpdHlMZXZlbE92ZXJyaWRlIiwiREZJbnRUYXNrU2NoZWR1bGVyVGFyZ2V0RnBzIiwiREZJbnRUZXh0dXJlUXVhbGl0eU92ZXJyaWRlIiwiRkZsYWdEZWJ1Z0Rpc3BsYXlGUFMiLCJGRmxhZ0RlYnVnR3JhcGhpY3NQcmVmZXJEM0QxMSIsIkZGbGFnRGVidWdHcmFwaGljc1ByZWZlckQzRDExRkwxMCIsIkZGbGFnRGVidWdHcmFwaGljc1ByZWZlck9wZW5HTCIsIkZGbGFnRGVidWdHcmFwaGljc1ByZWZlclZ1bGthbiIsIkZGbGFnRGVidWdTa3lHcmF5IiwiRkZsYWdIYW5kbGVBbHRFbnRlckZ1bGxzY3JlZW5NYW51YWxseSIsIkZJbnREZWJ1Z0ZvcmNlTVNBQVNhbXBsZXMiLCJGSW50RlJNTWF4R3Jhc3NEaXN0YW5jZSIsIkZJbnRGUk1NaW5HcmFzc0Rpc3RhbmNlIiwiRkludEZvbnRTaXplUGFkZGluZyIsIkZJbnRGdWxsc2NyZWVuVGl0bGVCYXJUcmlnZ2VyRGVsYXlNaWxsaXMiLCJGSW50R3Jhc3NNb3ZlbWVudFJlZHVjZWRNb3Rpb25GYWN0b3IiLCJGSW50VGVycmFpbkFycmF5U2xpY2VTaXplIiwiRkxvZ05ldHdvcmsiXX0=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;574803540;2025-09-16T21:54:28",
-        "FStringFlagRepoGitHashFastString": "8df01a2b09b8210c3fcbc421c76cf174da08ca4c",
-        "DFStringFlagRepoGitHashDynamicString": "8df01a2b09b8210c3fcbc421c76cf174da08ca4c",
-        "FStringFlipTimeStampFastString": "2025-09-16T21:58:48.628Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T21:58:48.628Z"
+        "FStringFlagRepoGitHashFastString": "0d4b65bdd8d69633486f5e842175d1ef0cedac24",
+        "DFStringFlagRepoGitHashDynamicString": "0d4b65bdd8d69633486f5e842175d1ef0cedac24",
+        "FStringFlipTimeStampFastString": "2025-09-16T22:01:20.082Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T22:01:20.082Z"
     }
 }

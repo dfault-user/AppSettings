@@ -11728,6 +11728,7 @@
         "FFlagVideoPlaybackManager2_Staged": "True;SteadyState;10;30;Revert;true;141700402;2025-09-16T21:55:36",
         "FFlagVideoHandleEarlyServiceShutdown_Staged": "True;SteadyState;10;30;Revert;true;141700402;2025-09-16T21:55:36",
         "FFlagVideoHandleEarlyServiceShutdown_IXP": "1;Portal.VideoPlaybackManagerWithEarlyServiceShutdownHandling-1758059695;VideoPlaybackManagerWithEarlyServiceShutdownHandling;141700402;flagbank",
+        "FFlagEngineContextPluginLoad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T21:56:36",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12088,9 +12089,9 @@
         "FFlagIASMouseFix": "True",
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "8df01a2b09b8210c3fcbc421c76cf174da08ca4c",
-        "DFStringFlagRepoGitHashDynamicString": "8df01a2b09b8210c3fcbc421c76cf174da08ca4c",
-        "FStringFlipTimeStampFastString": "2025-09-16T21:58:48.628Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T21:58:48.628Z"
+        "FStringFlagRepoGitHashFastString": "0d4b65bdd8d69633486f5e842175d1ef0cedac24",
+        "DFStringFlagRepoGitHashDynamicString": "0d4b65bdd8d69633486f5e842175d1ef0cedac24",
+        "FStringFlipTimeStampFastString": "2025-09-16T22:01:20.082Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T22:01:20.082Z"
     }
 }
