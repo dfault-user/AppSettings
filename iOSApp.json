@@ -11691,7 +11691,6 @@
         "FFlagEnableLoginV1ForcedUsernameOverride": "True",
         "FFlagAppChatFixNavigatorRemounting4": "True",
         "FFlagRemovePeekViewScrimBorder": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagAXDoNotUnrenderQuickMenuRobuxButtons": "True",
         "FFlagDisableCloudsAndroidAndMac": "True",
         "FFlagPPVEnabledOnConsole": "True",
@@ -11702,6 +11701,8 @@
         "FFlagIASMousePosition2": "True",
         "FFlagIASResponseCurve": "True",
         "FFlagAddFriendsUnifySomeUIConsole_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-16T19:36:57",
+        "DFFlagEnableReportAppPromoAdClickCTAEvent": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12338,7 +12339,6 @@
         "FFlagInvestigateZeroViewport": "False",
         "DFFlagEnableGmaAppPromoAd2": "True",
         "DFFlagEnableStoreKitCountryCode": "True",
-        "DFFlagEnableReportAppPromoAdClickCTAEvent": "True",
         "FFlagEnablePaymentSessionForIOSRobuxPurchase": "True",
         "FFlagEnableJoinVoiceVrTelemetry": "True",
         "FIntUpsellSuggestionsAPIMaxPackagesV3": "2",
@@ -12568,9 +12568,9 @@
         "FFlagRefactorPeoplePage6_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
         "FFlagRenderPeoplePageOnTabSwitch_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
         "FFlagAXAvatarWearAfterPurchaseBypassLimits2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1001330807;2025-09-16T19:03:07",
-        "FStringFlagRepoGitHashFastString": "ab804ac88abedd802efe95961aefb9a66b4be9b2",
-        "DFStringFlagRepoGitHashDynamicString": "ab804ac88abedd802efe95961aefb9a66b4be9b2",
-        "FStringFlipTimeStampFastString": "2025-09-16T19:39:10.128Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-16T19:39:10.128Z"
+        "FStringFlagRepoGitHashFastString": "5e96e0343017d110eb5024f3202ecb0f5b7f7415",
+        "DFStringFlagRepoGitHashDynamicString": "5e96e0343017d110eb5024f3202ecb0f5b7f7415",
+        "FStringFlipTimeStampFastString": "2025-09-16T19:43:03.507Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-16T19:43:03.507Z"
     }
 }
