@@ -11732,7 +11732,6 @@
         "FFlagPackageVersionTranslatePublishError": "True",
         "FFlagParseAdditionalModelUploadErrorMessage": "True",
         "FFlagToolboxRemoveAssetConfigAudioPermissionCheck": "True",
-        "DFFlagFixFetchAssetWithFormatExceptions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:27:41",
         "DFFlagHttpServiceUseNewTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:40:32",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagDoNotUseDeprecatedSetType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:46:52",
@@ -11768,6 +11767,7 @@
         "FFlagLuauSuggestHotComments": "True",
         "DFFlagRbxStorageNewProcessHitList": "True",
         "FFlagRbxStorageFindAndRemoveOrphanedFiles": "True",
+        "DFFlagFixFetchAssetWithFormatExceptions": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13897,9 +13897,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "2e2c8ddb792cb8463eea1386ee6e03b9f96ebd92",
-        "DFStringFlagRepoGitHashDynamicString": "2e2c8ddb792cb8463eea1386ee6e03b9f96ebd92",
-        "FStringFlipTimeStampFastString": "2025-09-17T17:28:11.949Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T17:28:11.949Z"
+        "FStringFlagRepoGitHashFastString": "93f3f9292106fc7268330b4529d2a90a3f12e21c",
+        "DFStringFlagRepoGitHashDynamicString": "93f3f9292106fc7268330b4529d2a90a3f12e21c",
+        "FStringFlipTimeStampFastString": "2025-09-17T17:32:30.682Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T17:32:30.682Z"
     }
 }
