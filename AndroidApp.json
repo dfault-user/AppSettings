@@ -11789,8 +11789,6 @@
         "FFlagFixSquadLobbyBannersMicPermsLocaleKey": "True",
         "FFlagPartySocialCarouselChangesEnabled": "True",
         "FFlagEnableiOSExternalKeyboards_IXP": "1;Portal.IXP_Exp_Name_FFlagEnableiOSExternalKeyboards-1758141313;IXP_Exp_Name_FFlagEnableiOSExternalKeyboards;1788124380;flagbank",
-        "FFlagFoundationNumberInputDisabledStrokeTransparency_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;826576518;2025-09-17T20:51:09",
-        "FFlagFoundationNumberInputIncrementClamp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;826576518;2025-09-17T20:51:09",
         "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-17T20:55:39",
         "FFlagUseNilSignalAsDefault": "True",
         "DFFlagRetainTemporaryIDtoScreenshotCaptureLink": "True",
@@ -11816,6 +11814,8 @@
         "FFlagAXMigrateVerticalClothingListToFocusNavigation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T21:33:50",
         "FFlagFoundationFixImageSlice": "True",
         "FFlagFoundationSkeletonNewReducedTransparencyPulse": "True",
+        "FFlagFoundationNumberInputIncrementClamp": "True",
+        "FFlagFoundationNumberInputDisabledStrokeTransparency": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12713,9 +12713,9 @@
         "FFlagLuaAppEnableAndroidPushUpsell": "True",
         "FFlagLuaEnableShowUpsellMethod2": "True",
         "EnableFastFollowLoginTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "9e5b5a665ad4e0588336e2a53af06825dd521192",
-        "DFStringFlagRepoGitHashDynamicString": "9e5b5a665ad4e0588336e2a53af06825dd521192",
-        "FStringFlipTimeStampFastString": "2025-09-17T21:57:14.272Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T21:57:14.272Z"
+        "FStringFlagRepoGitHashFastString": "e1f53173ea5c1a814abece1ec82af6a991d1f81e",
+        "DFStringFlagRepoGitHashDynamicString": "e1f53173ea5c1a814abece1ec82af6a991d1f81e",
+        "FStringFlipTimeStampFastString": "2025-09-17T21:59:22.637Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T21:59:22.637Z"
     }
 }
