@@ -11755,7 +11755,6 @@
         "FFlagSurfaceLightFixWideAngleShadows": "True",
         "DFFlagEnableContextForGenerateList_PlaceFilter": "True;106376719367261;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;133917534752598;131039090936858;133158022557590;119524072047648;118171263682820;113264304314057;77362637584345;92758961278039",
         "DFFlagEnableGenerateRecommendationItemListFromRcc2_PlaceFilter": "True;106376719367261;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;133917534752598;131039090936858;133158022557590;119524072047648;118171263682820;113264304314057;77362637584345;92758961278039",
-        "AllowVideoPreRoll": "True",
         "FFlagLuaAppLogFooterMetadata": "True",
         "FFlagFixScrollingFrameUICorner": "True",
         "FFlagEnableAndroidCTAClickLogging2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:18:40",
@@ -11771,7 +11770,7 @@
         "FFlagAXMigrateMakeBackButtonToFocusNavigation3": "True",
         "FFlagAXMigrateOutfitDetailsPeekViewToFocusNavigation": "True",
         "FFlagAXMigrateProfilePictureEditorEmotesPageToFocusNavigation": "True",
-        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
         "FFlagGraphicsVulkanBlacklistIDs2": "True",
         "DFFlagSimClampInertiaOnRead3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:32:23",
         "FFlagEngineVoiceUseGeneralIxpLayers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:33:03",
@@ -11787,6 +11786,8 @@
         "FFlagFocusRootCleanSelectedObject": "True",
         "DFFlagParseRecItemFromLib": "True",
         "FFlagAXMigrateLookDetailsPeekViewToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:56:57",
+        "DFFlagCLI112079BallBlockNarrowPhaseRefactor": "True",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12525,7 +12526,6 @@
         "FFlagEnableIOSSavePasswordModalJitterFix3": "True",
         "DFFlagEnableIosRewardTimerUIExperiment": "True",
         "DFIntVideoCaptureBlockOnLowMemThresholdMB": "460",
-        "DFFlagCLI112079BallBlockNarrowPhaseRefactor": "True",
         "DFIntHttpThrottlingQualifyingResponseThrottle": "10",
         "DFFlagAddCountryCodeMetrics": "True",
         "DFIntGetFullNameParseDepthLimit": "1000",
@@ -12651,9 +12651,9 @@
         "DFFlagRbxstorageHTTPUseMemoryTrackingForEnforcingSysRam": "True",
         "FFlagRbxStorageFCinCache": "True",
         "DFFlagRbxstorageHTTPDontInitInterfaceGatedOnSysRam": "True",
-        "FStringFlagRepoGitHashFastString": "7bbc8dd4397753136ba477ecbc96ab382d37fc75",
-        "DFStringFlagRepoGitHashDynamicString": "7bbc8dd4397753136ba477ecbc96ab382d37fc75",
-        "FStringFlipTimeStampFastString": "2025-09-17T19:09:50.961Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T19:09:50.961Z"
+        "FStringFlagRepoGitHashFastString": "aba2d3b848705e3deae17779ba90b18403420319",
+        "DFStringFlagRepoGitHashDynamicString": "aba2d3b848705e3deae17779ba90b18403420319",
+        "FStringFlipTimeStampFastString": "2025-09-17T19:11:42.191Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T19:11:42.191Z"
     }
 }

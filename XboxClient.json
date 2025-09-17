@@ -11755,7 +11755,6 @@
         "FFlagSurfaceLightFixWideAngleShadows": "True",
         "DFFlagEnableContextForGenerateList_PlaceFilter": "True;106376719367261;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;133917534752598;131039090936858;133158022557590;119524072047648;118171263682820;113264304314057;77362637584345;92758961278039",
         "DFFlagEnableGenerateRecommendationItemListFromRcc2_PlaceFilter": "True;106376719367261;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;133917534752598;131039090936858;133158022557590;119524072047648;118171263682820;113264304314057;77362637584345;92758961278039",
-        "AllowVideoPreRoll": "True",
         "FFlagLuaAppLogFooterMetadata": "True",
         "FFlagFixScrollingFrameUICorner": "True",
         "FFlagEnableAndroidCTAClickLogging2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:18:40",
@@ -11787,6 +11786,8 @@
         "FFlagFocusRootCleanSelectedObject": "True",
         "DFFlagParseRecItemFromLib": "True",
         "FFlagAXMigrateLookDetailsPeekViewToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:56:57",
+        "DFFlagCLI112079BallBlockNarrowPhaseRefactor": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12102,7 +12103,6 @@
         "FFlagSessionAppEventsHandlerRuntimeMutex2": "True",
         "FFlagPerformanceControlUsesRuntime2": "True",
         "FFlagLuaAppMigrateGameTileFixConsoleMetadataText": "True",
-        "DFFlagCLI112079BallBlockNarrowPhaseRefactor": "True",
         "DFIntHttpThrottlingQualifyingResponseThrottle": "10",
         "DFIntGetFullNameParseDepthLimit": "1000",
         "FFlagRenameFriendsToConnectionsWebviewHeading": "True",
@@ -12142,9 +12142,9 @@
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
         "FFlagRbxStorageRemoveLargeWal": "True",
-        "FStringFlagRepoGitHashFastString": "a218f36abde6a15c6c554b1b509149f3ec0d244a",
-        "DFStringFlagRepoGitHashDynamicString": "a218f36abde6a15c6c554b1b509149f3ec0d244a",
-        "FStringFlipTimeStampFastString": "2025-09-17T19:04:12.965Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T19:04:12.965Z"
+        "FStringFlagRepoGitHashFastString": "aba2d3b848705e3deae17779ba90b18403420319",
+        "DFStringFlagRepoGitHashDynamicString": "aba2d3b848705e3deae17779ba90b18403420319",
+        "FStringFlipTimeStampFastString": "2025-09-17T19:11:42.191Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T19:11:42.191Z"
     }
 }
