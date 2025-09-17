@@ -11732,7 +11732,6 @@
         "FFlagPackageVersionTranslatePublishError": "True",
         "FFlagParseAdditionalModelUploadErrorMessage": "True",
         "FFlagToolboxRemoveAssetConfigAudioPermissionCheck": "True",
-        "DFFlagHttpServiceUseNewTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:40:32",
         "FFlagEnableAdsMouseUnlock": "True",
         "FFlagDoNotUseDeprecatedSetType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:46:52",
         "FFlagDisableHQShadersOnLowendGLMac_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:46:54",
@@ -11769,6 +11768,7 @@
         "FFlagRbxStorageFindAndRemoveOrphanedFiles": "True",
         "DFFlagFixFetchAssetWithFormatExceptions": "True",
         "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-17T17:35:28",
+        "DFFlagHttpServiceUseNewTelemetry2": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
         "FFlagVoxelGridFixRegionChanged": "True",
@@ -12752,9 +12752,9 @@
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
         "DFFlagCheckedWaitForChild": "True",
         "DFFlagDoNotPushTooHard": "True",
-        "FStringFlagRepoGitHashFastString": "f95651ea7d1f7aad5562f8469e0011e27ab862a8",
-        "DFStringFlagRepoGitHashDynamicString": "f95651ea7d1f7aad5562f8469e0011e27ab862a8",
-        "FStringFlipTimeStampFastString": "2025-09-17T17:37:51.843Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T17:37:51.843Z"
+        "FStringFlagRepoGitHashFastString": "54e87443c5e747e02d4425460c10411abc32fb1a",
+        "DFStringFlagRepoGitHashDynamicString": "54e87443c5e747e02d4425460c10411abc32fb1a",
+        "FStringFlipTimeStampFastString": "2025-09-17T17:43:46.543Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T17:43:46.543Z"
     }
 }
