@@ -11780,6 +11780,8 @@
         "FFlagGraphicsVulkanBlacklistIDs2": "True",
         "DFFlagSimClampInertiaOnRead3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:32:23",
         "FFlagEngineVoiceUseGeneralIxpLayers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:33:03",
+        "DFFlagRVideoResetLastFrameSentInternal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:33:58",
+        "DFFlagVideoCheckIsPreparedForResolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:34:41",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12675,9 +12677,11 @@
         "FFlagRbxStorageRemoveLargeWal": "True",
         "FStringGraphicsVulkanHQShadersBlacklist": "OnePlus DE2118:Adreno (TM) 619|OPPO CPH2195:Adreno (TM) 619|OPPO OPG02:Adreno (TM) 619|OPPO CPH2197:Adreno (TM) 619",
         "FFlagHttpUseRbxStorage10": "True",
-        "FStringFlagRepoGitHashFastString": "f8616561326cad7f17b5a52e0316c457a6334cdf",
-        "DFStringFlagRepoGitHashDynamicString": "f8616561326cad7f17b5a52e0316c457a6334cdf",
-        "FStringFlipTimeStampFastString": "2025-09-17T18:35:30.544Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T18:35:30.544Z"
+        "FFlagLuaAppEnableAndroidPushUpsell_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2047445474;2025-09-17T18:33:35",
+        "FFlagLuaEnableShowUpsellMethod2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2047445474;2025-09-17T18:33:35",
+        "FStringFlagRepoGitHashFastString": "68f049d006d363f38ed35f8133c44262a34d4c44",
+        "DFStringFlagRepoGitHashDynamicString": "68f049d006d363f38ed35f8133c44262a34d4c44",
+        "FStringFlipTimeStampFastString": "2025-09-17T18:37:28.565Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T18:37:28.565Z"
     }
 }
