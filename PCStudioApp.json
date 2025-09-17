@@ -9864,7 +9864,7 @@
         "DFFlagEnableNewThumbnailingEnvironmentApi": "True",
         "DFFlagAddKtxTranscodedWidthHeight": "False",
         "FIntTextureUseACRHundredthPercent": "10000",
-        "FFlagSetTouchEnabledForTouchscreen": "True",
+        "FFlagSetTouchEnabledForTouchscreen": "False",
         "FFlagRCCScriptsValidateEmoteAnimation": "True",
         "FFlagAccessoryThumbnailingFetchMeshPartAccessories": "True",
         "FFlagTouchscreenUseTabTipKeyboard": "True",
@@ -11794,7 +11794,6 @@
         "FFlagLightOcclusionCull": "True",
         "FFlagLuaAppScaleCollectionSideMargin": "True",
         "DFFlagRemoveCaptureSavedSignal": "True",
-        "FFlagSetTouchEnabledForTouchscreen_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T21:15:52",
         "FFlagWebBrowserWinAddFlowIdentifierToErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T21:23:11",
         "FFlagEnableEconomicRestrictionInAppGamePassV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T21:30:58",
         "FFlagFoundationRemoveSelectionCursorHeartbeat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1382568104;2025-09-17T21:31:16",
@@ -13904,10 +13903,11 @@
         "DFFlagVideoWinEncodeUseComPtrForSw": "True",
         "FFlagVideoWinHwEncoderFirstSampleMarker": "True",
         "FFlagVideoCaptureXbox": "True",
-        "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T21:16:36",
         "FFlagAXUnifiedLoggingValidation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T21:30:11",
         "FFlagAXAvatarsTabNoItemsFound_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T21:30:51",
         "DFFlagLoadTestingEnabled3_PlaceFilter": "True;121864768012064",
+        "FFlagShowPbrInfoRow2_Staged": "True;SteadyState;10;30;Revert;2025-09-17T22:19:31",
+        "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -13942,9 +13942,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "82241abb5319b53663a3c1621c9760dff653d761",
-        "DFStringFlagRepoGitHashDynamicString": "82241abb5319b53663a3c1621c9760dff653d761",
-        "FStringFlipTimeStampFastString": "2025-09-17T22:20:45.969Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T22:20:45.969Z"
+        "FStringFlagRepoGitHashFastString": "a3800e868d3ce1f4c4f2d627c272f8461c101456",
+        "DFStringFlagRepoGitHashDynamicString": "a3800e868d3ce1f4c4f2d627c272f8461c101456",
+        "FStringFlipTimeStampFastString": "2025-09-17T22:24:48.640Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T22:24:48.640Z"
     }
 }
