@@ -11736,6 +11736,9 @@
         "FFlagFixWinWatcherUnknownEventCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;525576136;2025-09-17T16:15:01",
         "FFlagImproveWinWatcherPerformance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;525576136;2025-09-17T16:15:01",
         "DFFlagCaptureFixBitrateOverflow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:17:12",
+        "DFFlagDisableVideoEncodeForMetaQuest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:17:53",
+        "FFlagFileSyncNormalizeLineEndings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:18:30",
+        "FFlagVideoCaptureFinalizeTimeout2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:18:26",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12035,9 +12038,9 @@
         "DFFlagRobloxTelemetryEnableSenderCallback2": "True",
         "FFlagLuaAppGamepadHoldToast2": "True",
         "FFlagUwpMigrationDialogHelpLink": "True",
-        "FStringFlagRepoGitHashFastString": "41a0dde0f4d4914587211f0a9a9e78239cca43d7",
-        "DFStringFlagRepoGitHashDynamicString": "41a0dde0f4d4914587211f0a9a9e78239cca43d7",
-        "FStringFlipTimeStampFastString": "2025-09-17T16:19:39.569Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T16:19:39.569Z"
+        "FStringFlagRepoGitHashFastString": "9ffeb313a5807450a93854d0cec27f52bfcc7982",
+        "DFStringFlagRepoGitHashDynamicString": "9ffeb313a5807450a93854d0cec27f52bfcc7982",
+        "FStringFlipTimeStampFastString": "2025-09-17T16:21:15.386Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T16:21:15.386Z"
     }
 }
