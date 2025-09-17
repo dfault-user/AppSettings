@@ -11817,6 +11817,7 @@
         "FFlagEnableEconomicRestrictionInAppGamePassV3": "True",
         "FFlagFoundationRemoveSelectionCursorHeartbeat": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;403033901;2025-09-17T22:54:40",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12289,7 +12290,6 @@
         "DFFlagRenderTrailCullingFix": "True",
         "FFlagIASMouseFix": "True",
         "DFFlagLoadTestingEnabled3_PlaceFilter": "True;121864768012064",
-        "FFlagShowPbrInfoRow2_Staged": "True;SteadyState;10;30;Revert;2025-09-17T22:19:31",
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
         "FFlagAXUnifiedLoggingValidation": "True",
         "DFIntLoadTestStartTimeUnix_PlaceFilter": "1758149100;121864768012064",
@@ -12723,9 +12723,10 @@
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
         "DFFlagCheckedWaitForChild": "True",
         "DFFlagDoNotPushTooHard": "True",
-        "FStringFlagRepoGitHashFastString": "ecdec557bf7510c9dad5583c901397b3742796f9",
-        "DFStringFlagRepoGitHashDynamicString": "ecdec557bf7510c9dad5583c901397b3742796f9",
-        "FStringFlipTimeStampFastString": "2025-09-17T22:47:53.068Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T22:47:53.068Z"
+        "DFFlagEnableFeatureTimeoutListeners2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T22:54:07",
+        "FStringFlagRepoGitHashFastString": "4dd42e7817023fda34acb0d15314f4ee9b666469",
+        "DFStringFlagRepoGitHashDynamicString": "4dd42e7817023fda34acb0d15314f4ee9b666469",
+        "FStringFlipTimeStampFastString": "2025-09-17T22:57:41.894Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T22:57:41.894Z"
     }
 }
