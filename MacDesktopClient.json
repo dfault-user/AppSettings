@@ -11782,7 +11782,6 @@
         "DFFlagVideoCheckIsPreparedForResolution": "True",
         "FFlagEngineVoiceUseGeneralIxpLayers": "True",
         "FFlagForeverAloneServiceRemoval2": "True",
-        "FFlagUseNilSignalAsDefault_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T19:54:58",
         "FFlagLuauRawGetHandlesNil": "True",
         "FFlagAXMigrateSystemSliderToFoundationSlider2": "True",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;403033901;2025-09-17T19:56:18",
@@ -11797,9 +11796,12 @@
         "FFlagEnableiOSExternalKeyboards_Staged": "True;SteadyState;10;30;Revert;true;1788124380;2025-09-17T20:35:56",
         "FFlagEnableiOSExternalKeyboards_IXP": "1;Portal.IXP_Exp_Name_FFlagEnableiOSExternalKeyboards-1758141313;IXP_Exp_Name_FFlagEnableiOSExternalKeyboards;1788124380;flagbank",
         "DFFlagWriteFlagCacheAfterFlagFetch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T20:40:39",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
-        "FFlagFoundationFixImageSlice_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1680389058;2025-09-17T20:49:58",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagFoundationFixImageSlice_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1680389058;2025-09-17T20:49:58",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
+        "FFlagFoundationNumberInputIncrementClamp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;826576518;2025-09-17T20:51:09",
+        "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-17T20:55:39",
+        "FFlagUseNilSignalAsDefault": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12704,9 +12706,9 @@
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
         "DFFlagCheckedWaitForChild": "True",
         "DFFlagDoNotPushTooHard": "True",
-        "FStringFlagRepoGitHashFastString": "8e21fa175e5e41df0c89e7644d13b94848ad36f1",
-        "DFStringFlagRepoGitHashDynamicString": "8e21fa175e5e41df0c89e7644d13b94848ad36f1",
-        "FStringFlipTimeStampFastString": "2025-09-17T20:57:38.210Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T20:57:38.210Z"
+        "FStringFlagRepoGitHashFastString": "c542e3adfa0eb03c7c7ddc17ee1b938977ce4c4c",
+        "DFStringFlagRepoGitHashDynamicString": "c542e3adfa0eb03c7c7ddc17ee1b938977ce4c4c",
+        "FStringFlipTimeStampFastString": "2025-09-17T20:58:49.790Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T20:58:49.790Z"
     }
 }
