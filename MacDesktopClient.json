@@ -11752,8 +11752,6 @@
         "FFlagRenderDeviceDummyAndroidDefaultUseGLES3": "True",
         "FFlagDoNotUseDeprecatedSetType": "True",
         "FFlagDeinitRecordingWhenMutedV2Fix": "True",
-        "DFFlagParseRecItemFromLib_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T17:52:47",
-        "FFlagFocusRootCleanSelectedObject_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1154008784;2025-09-17T17:55:01",
         "FFlagSurfaceLightFixWideAngleShadows": "True",
         "DFFlagEnableContextForGenerateList_PlaceFilter": "True;106376719367261;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;133917534752598;131039090936858;133158022557590;119524072047648;118171263682820;113264304314057;77362637584345;92758961278039",
         "DFFlagEnableGenerateRecommendationItemListFromRcc2_PlaceFilter": "True;106376719367261;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;133917534752598;131039090936858;133158022557590;119524072047648;118171263682820;113264304314057;77362637584345;92758961278039",
@@ -11786,6 +11784,9 @@
         "DFFlagParseRecCustomTags": "True",
         "FFlagAXMigrateSystemSliderToFoundationSlider2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:55:05",
         "FFlagAXMigrateTwoAxisSliderToContainer2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:56:02",
+        "FFlagFocusRootCleanSelectedObject": "True",
+        "DFFlagParseRecItemFromLib": "True",
+        "FFlagAXMigrateLookDetailsPeekViewToFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:56:57",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12694,9 +12695,9 @@
         "DFFlagCheckedWaitForChild": "True",
         "DFFlagDoNotPushTooHard": "True",
         "DFIntConvexDecompCompressionSelector_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:16:21",
-        "FStringFlagRepoGitHashFastString": "e99aff50997cd90a3aefcf5fc8a9762d1278adeb",
-        "DFStringFlagRepoGitHashDynamicString": "e99aff50997cd90a3aefcf5fc8a9762d1278adeb",
-        "FStringFlipTimeStampFastString": "2025-09-17T18:57:40.385Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T18:57:40.385Z"
+        "FStringFlagRepoGitHashFastString": "5677c3c27aaee7d7967e6d4f9f93a2e6c6fb1232",
+        "DFStringFlagRepoGitHashDynamicString": "5677c3c27aaee7d7967e6d4f9f93a2e6c6fb1232",
+        "FStringFlipTimeStampFastString": "2025-09-17T19:00:59.170Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T19:00:59.170Z"
     }
 }
