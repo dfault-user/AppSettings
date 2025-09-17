@@ -11745,8 +11745,6 @@
         "FFlagRbxStorageFindAndRemoveOrphanedFiles": "True",
         "DFFlagFixFetchAssetWithFormatExceptions": "True",
         "DFFlagHttpServiceUseNewTelemetry2": "True",
-        "FFlagIOSUseMachExceptionRbxAssert_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T17:48:27",
-        "DFFlagParseRecCustomTags_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T17:50:33",
         "FFlagDisableHQShadersOnLowendGLMac": "True",
         "FFlagFixUnifiedDRSGlassAndForcefield": "True",
         "FFlagGraphicsAllDevicesRequireConstantBuffers": "True",
@@ -11784,6 +11782,10 @@
         "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "7000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-17T18:41:18",
         "FFlagForeverAloneServiceRemoval2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;965108906;2025-09-17T18:43:22",
         "FFlagLuauRawGetHandlesNil_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:50:12",
+        "FFlagIOSUseMachExceptionRbxAssert": "True",
+        "DFFlagParseRecCustomTags": "True",
+        "FFlagAXMigrateSystemSliderToFoundationSlider2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:55:05",
+        "FFlagAXMigrateTwoAxisSliderToContainer2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:56:02",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12692,9 +12694,9 @@
         "DFFlagCheckedWaitForChild": "True",
         "DFFlagDoNotPushTooHard": "True",
         "DFIntConvexDecompCompressionSelector_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:16:21",
-        "FStringFlagRepoGitHashFastString": "e6dd5cd370c01800a37e9dba532ca65154a96523",
-        "DFStringFlagRepoGitHashDynamicString": "e6dd5cd370c01800a37e9dba532ca65154a96523",
-        "FStringFlipTimeStampFastString": "2025-09-17T18:53:32.520Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T18:53:32.520Z"
+        "FStringFlagRepoGitHashFastString": "e99aff50997cd90a3aefcf5fc8a9762d1278adeb",
+        "DFStringFlagRepoGitHashDynamicString": "e99aff50997cd90a3aefcf5fc8a9762d1278adeb",
+        "FStringFlipTimeStampFastString": "2025-09-17T18:57:40.385Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T18:57:40.385Z"
     }
 }
