@@ -11732,6 +11732,9 @@
         "FFlagPackageVersionTranslatePublishError": "True",
         "FFlagParseAdditionalModelUploadErrorMessage": "True",
         "FFlagToolboxRemoveAssetConfigAudioPermissionCheck": "True",
+        "FFlagFixWinWatcherShutdown2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;525576136;2025-09-17T16:15:01",
+        "FFlagFixWinWatcherUnknownEventCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;525576136;2025-09-17T16:15:01",
+        "FFlagImproveWinWatcherPerformance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;525576136;2025-09-17T16:15:01",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12725,9 +12728,9 @@
         "FFlagLuaAppGamepadHoldToast2": "True",
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
-        "FStringFlagRepoGitHashFastString": "f768fdb6ecb6c3b38002cde8152ef5b29e564e03",
-        "DFStringFlagRepoGitHashDynamicString": "f768fdb6ecb6c3b38002cde8152ef5b29e564e03",
-        "FStringFlipTimeStampFastString": "2025-09-17T16:14:56.437Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T16:14:56.437Z"
+        "FStringFlagRepoGitHashFastString": "97c042b1acdd913fb41adc8c74f25503dac46cb0",
+        "DFStringFlagRepoGitHashDynamicString": "97c042b1acdd913fb41adc8c74f25503dac46cb0",
+        "FStringFlipTimeStampFastString": "2025-09-17T16:16:43.375Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T16:16:43.375Z"
     }
 }
