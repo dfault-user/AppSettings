@@ -11770,10 +11770,6 @@
         "FFlagAXMigrateOutfitDetailsPeekViewToFocusNavigation": "True",
         "FFlagAXMigrateProfilePictureEditorEmotesPageToFocusNavigation": "True",
         "FFlagGraphicsVulkanBlacklistIDs2": "True",
-        "DFFlagSimClampInertiaOnRead3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:32:23",
-        "FFlagEngineVoiceUseGeneralIxpLayers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:33:03",
-        "DFFlagRVideoResetLastFrameSentInternal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:33:58",
-        "DFFlagVideoCheckIsPreparedForResolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:34:41",
         "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "7000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-17T18:41:18",
         "FFlagForeverAloneServiceRemoval2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;965108906;2025-09-17T18:43:22",
         "FFlagLuauRawGetHandlesNil_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:50:12",
@@ -11789,6 +11785,10 @@
         "FFlagPartySocialCarouselChangesEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T19:15:57",
         "FFlagEnableAndroidCTAClickLogging2": "True",
         "FFlagPartyVoiceDisallowIXPLayerExposureOnInit": "True",
+        "DFFlagSimClampInertiaOnRead3": "True",
+        "DFFlagRVideoResetLastFrameSentInternal": "True",
+        "DFFlagVideoCheckIsPreparedForResolution": "True",
+        "FFlagEngineVoiceUseGeneralIxpLayers": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12653,9 +12653,9 @@
         "DFFlagRbxstorageHTTPUseMemoryTrackingForEnforcingSysRam": "True",
         "FFlagRbxStorageFCinCache": "True",
         "DFFlagRbxstorageHTTPDontInitInterfaceGatedOnSysRam": "True",
-        "FStringFlagRepoGitHashFastString": "051819708b333318a0a4ef83bc23fb74d9bc9790",
-        "DFStringFlagRepoGitHashDynamicString": "051819708b333318a0a4ef83bc23fb74d9bc9790",
-        "FStringFlipTimeStampFastString": "2025-09-17T19:31:41.070Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T19:31:41.070Z"
+        "FStringFlagRepoGitHashFastString": "649cae1c05b2a38873b0ad05beea949b51e8cb72",
+        "DFStringFlagRepoGitHashDynamicString": "649cae1c05b2a38873b0ad05beea949b51e8cb72",
+        "FStringFlipTimeStampFastString": "2025-09-17T19:37:45.094Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T19:37:45.094Z"
     }
 }
