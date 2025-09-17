@@ -11735,8 +11735,6 @@
         "FFlagFixWinWatcherShutdown2": "True",
         "FFlagFixWinWatcherUnknownEventCrash": "True",
         "FFlagImproveWinWatcherPerformance": "True",
-        "FFlagSmoothClusterGrassOcclusionCulling2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T17:16:22",
-        "DFFlagSmoothClusterGrassOcclusionCullingTest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T17:18:03",
         "EnableAndroidCTAClickLoggingIsolatedProcess": "true",
         "FFlagFileSyncNormalizeLineEndings": "True",
         "DFFlagCaptureFixBitrateOverflow": "True",
@@ -11776,6 +11774,9 @@
         "AllowVideoPreRoll": "True",
         "FFlagLuaAppLogFooterMetadata": "True",
         "FFlagFixScrollingFrameUICorner": "True",
+        "FFlagEnableAndroidCTAClickLogging2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:18:40",
+        "DFFlagSmoothClusterGrassOcclusionCullingTest": "True",
+        "FFlagSmoothClusterGrassOcclusionCulling2": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12074,9 +12075,9 @@
         "DFFlagRobloxTelemetryEnableSenderCallback2": "True",
         "FFlagLuaAppGamepadHoldToast2": "True",
         "FFlagUwpMigrationDialogHelpLink": "True",
-        "FStringFlagRepoGitHashFastString": "ccea5ea63af75082c4e428c7e7a2c832c6407268",
-        "DFStringFlagRepoGitHashDynamicString": "ccea5ea63af75082c4e428c7e7a2c832c6407268",
-        "FStringFlipTimeStampFastString": "2025-09-17T18:21:02.556Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T18:21:02.556Z"
+        "FStringFlagRepoGitHashFastString": "6bc41e6674c6d768dc276facd1e49aa0ede7ab7a",
+        "DFStringFlagRepoGitHashDynamicString": "6bc41e6674c6d768dc276facd1e49aa0ede7ab7a",
+        "FStringFlipTimeStampFastString": "2025-09-17T18:22:59.995Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T18:22:59.995Z"
     }
 }
