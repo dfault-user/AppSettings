@@ -11752,6 +11752,8 @@
         "FFlagDeinitRecordingWhenMutedV2Fix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:48:15",
         "FFlagGraphicsRequireConstantBuffers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:48:18",
         "CaptureCountersIntervalInMinutes": "5",
+        "FFlagFixScrollingFrameUICorner_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T17:09:03",
+        "FFlagLuaAppLogFooterMetadata_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T17:09:37",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -12111,9 +12113,9 @@
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
         "FFlagRbxStorageRemoveLargeWal": "True",
         "DFFlagRbxStorageNewProcessHitList": "True",
-        "FStringFlagRepoGitHashFastString": "24b25cf77f0e66f5d694cb582253e00004ded1f2",
-        "DFStringFlagRepoGitHashDynamicString": "24b25cf77f0e66f5d694cb582253e00004ded1f2",
-        "FStringFlipTimeStampFastString": "2025-09-17T17:05:18.572Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T17:05:18.572Z"
+        "FStringFlagRepoGitHashFastString": "caf16338e347c002eaafae262377b4f783fd1f59",
+        "DFStringFlagRepoGitHashDynamicString": "caf16338e347c002eaafae262377b4f783fd1f59",
+        "FStringFlipTimeStampFastString": "2025-09-17T17:11:44.885Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T17:11:44.885Z"
     }
 }
