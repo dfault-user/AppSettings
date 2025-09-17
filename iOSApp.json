@@ -11480,7 +11480,7 @@
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
         "DFIntTextChatCommandClientSentThrottlePermyriad": "10",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad": "100",
-        "DFIntTextChatMessageClientSendingThrottlePermyriad": "8500",
+        "DFIntTextChatMessageClientSendingThrottlePermyriad": "10000",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
         "DFFlagISRPerfPass_PlaceFilter": "True;189707",
         "FFlagISREarlyFilterAnimatedJoints_PlaceFilter": "True;189707",
@@ -11789,7 +11789,6 @@
         "FFlagFixSquadLobbyBannersMicPermsLocaleKey": "True",
         "FFlagPartySocialCarouselChangesEnabled": "True",
         "FFlagEnableiOSExternalKeyboards_IXP": "1;Portal.IXP_Exp_Name_FFlagEnableiOSExternalKeyboards-1758141313;IXP_Exp_Name_FFlagEnableiOSExternalKeyboards;1788124380;flagbank",
-        "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-17T20:55:39",
         "FFlagUseNilSignalAsDefault": "True",
         "DFFlagRetainTemporaryIDtoScreenshotCaptureLink": "True",
         "FFlagRbxStorageRemoveLargeWal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T21:07:54",
@@ -12681,9 +12680,10 @@
         "FFlagAXAvatarsTabNoItemsFound_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T21:30:51",
         "FFlagEnableMappedParametersSafer": "True",
         "FFlagPlayerSearchEnableOnlineFrequents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T21:50:17",
-        "FStringFlagRepoGitHashFastString": "ba0caa3b93ec9810c75b425cc6b5f1c9e5c01bcd",
-        "DFStringFlagRepoGitHashDynamicString": "ba0caa3b93ec9810c75b425cc6b5f1c9e5c01bcd",
-        "FStringFlipTimeStampFastString": "2025-09-17T22:01:26.267Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T22:01:26.267Z"
+        "FFlagFFlagAXRemoveCatalogCategoryNavKey1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T22:02:05",
+        "FStringFlagRepoGitHashFastString": "462bb1cc953a14b85dc09d9d2f43b110ea66b7ee",
+        "DFStringFlagRepoGitHashDynamicString": "462bb1cc953a14b85dc09d9d2f43b110ea66b7ee",
+        "FStringFlipTimeStampFastString": "2025-09-17T22:05:41.173Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T22:05:41.173Z"
     }
 }
