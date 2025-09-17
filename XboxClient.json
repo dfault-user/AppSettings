@@ -11802,6 +11802,10 @@
         "DFFlagRetainTemporaryIDtoScreenshotCaptureLink": "True",
         "AllowVideoPreRoll": "True",
         "FFlagUsePCGDKPaymentsProtocolCommonFunctions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T21:08:16",
+        "FFlagRbxStorageFixSetNull_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T21:08:35",
+        "FFlagFoundationChipSelectable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;121308233;2025-09-17T21:09:11",
+        "FFlagFoundationFixKnobStroke_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;121308233;2025-09-17T21:09:11",
+        "FFlagFoundationUpdateIconButtonSizes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;121308233;2025-09-17T21:09:11",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12156,9 +12160,9 @@
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
         "FFlagRbxStorageRemoveLargeWal": "True",
-        "FStringFlagRepoGitHashFastString": "522beb81918dd2541c98fd17bccd990e96bad0c1",
-        "DFStringFlagRepoGitHashDynamicString": "522beb81918dd2541c98fd17bccd990e96bad0c1",
-        "FStringFlipTimeStampFastString": "2025-09-17T21:09:54.060Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T21:09:54.060Z"
+        "FStringFlagRepoGitHashFastString": "5c94eb40ed91260ee4d86b073c40cba3fc974943",
+        "DFStringFlagRepoGitHashDynamicString": "5c94eb40ed91260ee4d86b073c40cba3fc974943",
+        "FStringFlipTimeStampFastString": "2025-09-17T21:11:35.310Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T21:11:35.310Z"
     }
 }
