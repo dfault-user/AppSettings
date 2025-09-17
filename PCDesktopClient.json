@@ -11752,6 +11752,8 @@
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "FFlagDeinitRecordingWhenMutedV2Fix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:48:15",
         "FFlagGraphicsRequireConstantBuffers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:48:18",
+        "DFFlagWebViewRedesignDesktop_Staged": "True;SteadyState;10;30;Revert;false;260368827;2025-09-17T16:52:05",
+        "DFFlagWebViewRedesignDesktop_IXP": "1;Portal.WebViewRedesign-1758127885;WebViewRedesign;260368827;flagbank",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
@@ -12740,9 +12742,9 @@
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
         "DFFlagCheckedWaitForChild_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1569968302;2025-09-17T16:34:01",
         "DFFlagDoNotPushTooHard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1569968302;2025-09-17T16:34:01",
-        "FStringFlagRepoGitHashFastString": "3f334e0e934a69ea2f7e04cd5e4aafcd4d9bfee4",
-        "DFStringFlagRepoGitHashDynamicString": "3f334e0e934a69ea2f7e04cd5e4aafcd4d9bfee4",
-        "FStringFlipTimeStampFastString": "2025-09-17T16:51:08.272Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T16:51:08.272Z"
+        "FStringFlagRepoGitHashFastString": "9634d602373ce0b2c24c7279f3e7ac55a3a2bc70",
+        "DFStringFlagRepoGitHashDynamicString": "9634d602373ce0b2c24c7279f3e7ac55a3a2bc70",
+        "FStringFlipTimeStampFastString": "2025-09-17T16:54:35.610Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T16:54:35.610Z"
     }
 }

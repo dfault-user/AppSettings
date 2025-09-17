@@ -11752,6 +11752,9 @@
         "FFlagFixUnifiedDRSGlassAndForcefield_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:47:33",
         "FFlagDeinitRecordingWhenMutedV2Fix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:48:15",
         "CatalogPromoAssetId": "-1",
+        "DFFlagWebViewRedesignDesktop_Staged": "True;SteadyState;10;30;Revert;false;260368827;2025-09-17T16:52:05",
+        "DFFlagWebViewRedesignDesktop_IXP": "1;Portal.WebViewRedesign-1758127885;WebViewRedesign;260368827;flagbank",
+        "FFlagSurfaceLightFixWideAngleShadows_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:53:04",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
         "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12650,9 +12653,9 @@
         "FStringGraphicsVulkanHQShadersBlacklist": "OnePlus DE2118:Adreno (TM) 619|OPPO CPH2195:Adreno (TM) 619|OPPO OPG02:Adreno (TM) 619|OPPO CPH2197:Adreno (TM) 619",
         "DFFlagRbxStorageNewProcessHitList": "True",
         "FFlagHttpUseRbxStorage10_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T16:17:38",
-        "FStringFlagRepoGitHashFastString": "3f334e0e934a69ea2f7e04cd5e4aafcd4d9bfee4",
-        "DFStringFlagRepoGitHashDynamicString": "3f334e0e934a69ea2f7e04cd5e4aafcd4d9bfee4",
-        "FStringFlipTimeStampFastString": "2025-09-17T16:51:08.272Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T16:51:08.272Z"
+        "FStringFlagRepoGitHashFastString": "9634d602373ce0b2c24c7279f3e7ac55a3a2bc70",
+        "DFStringFlagRepoGitHashDynamicString": "9634d602373ce0b2c24c7279f3e7ac55a3a2bc70",
+        "FStringFlipTimeStampFastString": "2025-09-17T16:54:35.610Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T16:54:35.610Z"
     }
 }
