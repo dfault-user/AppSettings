@@ -11769,7 +11769,6 @@
         "FFlagAXMigrateMakeBackButtonToFocusNavigation3": "True",
         "FFlagAXMigrateOutfitDetailsPeekViewToFocusNavigation": "True",
         "FFlagAXMigrateProfilePictureEditorEmotesPageToFocusNavigation": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagGraphicsVulkanBlacklistIDs2": "True",
         "DFFlagSimClampInertiaOnRead3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:32:23",
         "FFlagEngineVoiceUseGeneralIxpLayers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:33:03",
@@ -11789,6 +11788,7 @@
         "FFlagFixSquadLobbyBannersMicPermsLocaleKey_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T19:13:32",
         "FFlagPartySocialCarouselChangesEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T19:15:57",
         "FFlagEnableAndroidCTAClickLogging2": "True",
+        "FFlagPartyVoiceDisallowIXPLayerExposureOnInit": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12301,6 +12301,7 @@
         "FFlagVideoCaptureXbox": "True",
         "DFFlagRetainTemporaryIDtoScreenshotCaptureLink": "True",
         "FFlagRbxStorageFixSetNull": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12618,7 +12619,6 @@
         "FStringEdpPlayerFeedbackServiceRoute": "player-generated-reviews-service",
         "FFlagEnableCullLogsExperiment": "True",
         "DFFlagEnableMeshPreloading2": "True",
-        "FFlagPartyVoiceDisallowIXPLayerExposureOnInit": "True",
         "FFlagEnableGDKStorePurchase": "True",
         "FFlagFixRobuxBalanceNotUpdating": "True",
         "FFlagDisableStreamingTunableMemoryTracking_IXP": "1;Portal.FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;1249780813;flagbank",
@@ -12768,9 +12768,9 @@
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
         "DFFlagCheckedWaitForChild": "True",
         "DFFlagDoNotPushTooHard": "True",
-        "FStringFlagRepoGitHashFastString": "e5b90ad99b2a7ac007f3e50c3e891825c07038eb",
-        "DFStringFlagRepoGitHashDynamicString": "e5b90ad99b2a7ac007f3e50c3e891825c07038eb",
-        "FStringFlipTimeStampFastString": "2025-09-17T19:22:43.398Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T19:22:43.398Z"
+        "FStringFlagRepoGitHashFastString": "051819708b333318a0a4ef83bc23fb74d9bc9790",
+        "DFStringFlagRepoGitHashDynamicString": "051819708b333318a0a4ef83bc23fb74d9bc9790",
+        "FStringFlipTimeStampFastString": "2025-09-17T19:31:41.070Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T19:31:41.070Z"
     }
 }
