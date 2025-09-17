@@ -11770,10 +11770,8 @@
         "FFlagAXMigrateOutfitDetailsPeekViewToFocusNavigation": "True",
         "FFlagAXMigrateProfilePictureEditorEmotesPageToFocusNavigation": "True",
         "FFlagGraphicsVulkanBlacklistIDs2": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagIOSUseMachExceptionRbxAssert": "False",
         "DFFlagParseRecCustomTags": "True",
-        "FFlagAXMigrateSystemSliderToFoundationSlider2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:55:05",
         "FFlagAXMigrateTwoAxisSliderToContainer2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T18:56:02",
         "FFlagFocusRootCleanSelectedObject": "True",
         "DFFlagParseRecItemFromLib": "True",
@@ -11790,6 +11788,10 @@
         "FFlagForeverAloneServiceRemoval2": "True",
         "DFIntTextChatMessageClientSendingThrottlePermyriad_Staged": "8500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;548280596;2025-09-17T19:48:06",
         "FFlagUseNilSignalAsDefault_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T19:54:58",
+        "FFlagLuauRawGetHandlesNil": "True",
+        "FFlagAXMigrateSystemSliderToFoundationSlider2": "True",
+        "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;403033901;2025-09-17T19:56:18",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13379,7 +13381,6 @@
         "FFlagAllowTreatmentUsersToEnrollIntoNewRibbon": "True",
         "FFlagTeamTestPerformanceTelemetry1": "True",
         "FFlagCinFixShouldImportBulkApplyPlugin": "True",
-        "FFlagLuauRawGetHandlesNil": "True",
         "FFlagStudioLaunchTeamTestFromEdge": "True",
         "FFlagRibbonFixQuickOpenAttachment": "True",
         "FFlagStudioPanelsAllowScreenOverflow": "True",
@@ -13916,9 +13917,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "4f77723ca665f678f2aa93f0e674e167afcb654a",
-        "DFStringFlagRepoGitHashDynamicString": "4f77723ca665f678f2aa93f0e674e167afcb654a",
-        "FStringFlipTimeStampFastString": "2025-09-17T19:57:10.920Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T19:57:10.920Z"
+        "FStringFlagRepoGitHashFastString": "54fed6b277083a293cd9cbdf06976ed5f6408f81",
+        "DFStringFlagRepoGitHashDynamicString": "54fed6b277083a293cd9cbdf06976ed5f6408f81",
+        "FStringFlipTimeStampFastString": "2025-09-17T19:59:20.701Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-17T19:59:20.701Z"
     }
 }
