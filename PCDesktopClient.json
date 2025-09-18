@@ -11475,7 +11475,7 @@
         "AndroidEnalbeDisplaySizeInMillimeters": "true",
         "DFIntCreatorConfigProviderPollPeriodMilliseconds": "10000",
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
-        "DFIntTextChatCommandClientSentThrottlePermyriad": "10",
+        "DFIntTextChatCommandClientSentThrottlePermyriad": "100",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad": "10000",
         "DFIntTextChatMessageClientSendingThrottlePermyriad": "10000",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
@@ -11868,9 +11868,6 @@
         "FFlagSduiDismissDialogAction": "True",
         "FFlagStudioFixStandalonePluginUnloadingAsync3": "True",
         "FFlagFixUniverseConfigurationRequestOrdering": "True",
-        "FFlagShowSocialContextToastToAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:36:16",
-        "FFlagEnableFAECancellationAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:36:59",
-        "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-18T22:37:03",
         "FFlagCleanUpMouseWrapMode": "True",
         "FFlagAvatarSettingsAvatarTypeFix": "True",
         "DFFlagEnableGenerateRecommendationItemListFromRcc2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:48:33",
@@ -11881,6 +11878,8 @@
         "DFFlagEnableUpdateClientFeatureTimeoutListener2": "True",
         "FFlagAXMigrateEmoteMenuFromRoactGamepad": "True",
         "DFFlagVideoSandboxPreviewVideos": "True",
+        "FFlagEnableFAECancellationAnalytics": "True",
+        "FFlagShowSocialContextToastToAll": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12866,9 +12865,9 @@
         "FFlagLuaAppGamepadHoldToast2": "True",
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
-        "FStringFlagRepoGitHashFastString": "2106533ee2219bd906ca32ef37b3a1abd28d9418",
-        "DFStringFlagRepoGitHashDynamicString": "2106533ee2219bd906ca32ef37b3a1abd28d9418",
-        "FStringFlipTimeStampFastString": "2025-09-18T23:40:03.852Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T23:40:03.852Z"
+        "FStringFlagRepoGitHashFastString": "358cb03527a79d0d7bef6aaac707498b27053b77",
+        "DFStringFlagRepoGitHashDynamicString": "358cb03527a79d0d7bef6aaac707498b27053b77",
+        "FStringFlipTimeStampFastString": "2025-09-18T23:46:04.613Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T23:46:04.613Z"
     }
 }
