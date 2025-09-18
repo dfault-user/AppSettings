@@ -11848,6 +11848,7 @@
         "FFlagFallbackPlaceIdParamEnabledForAll": "True",
         "FStringGraphicsVulkanHQShadersBlacklist": "OnePlus DE2118:Adreno.*619|OPPO CPH2195:Adreno.*619|OPPO OPG02:Adreno.*619|OPPO CPH2197:Adreno.*619",
         "FFlagFixMissingAnimRigDataBug": "True",
+        "FFlagAddFriendsUse10ftUiCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T19:31:08",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13919,12 +13920,12 @@
         "FFlagPlayerSearchEnableOnlineFrequents": "True",
         "FFlagLuaAppFixPlayButtonDefaultLaunchSource": "True",
         "FFlagUIBloxEnableActionBarButtonOverride": "True",
-        "FFlagVoiceChatPublishMuteOnPublishSuccess_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T18:25:45",
         "FFlagProductInfoBatchingCoalescingEnabled_PlaceFilter": "True;121864768012064",
-        "DFIntProductInfoBatchingMaxSize_PlaceFilter": "1;79546208627805;126509999114328",
+        "DFIntProductInfoBatchingMaxSize_PlaceFilter": "1;126884695634066",
         "FFlagFixPopMouseIcon": "True",
         "DFFlagVideoMp4DoNotWriteTrackIfEmpty_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T19:18:44",
         "FFlagLuaAppUnifyPlayButtonAllSurfacesIxp": "True",
+        "FFlagVoiceChatPublishMuteOnPublishSuccess": "True",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -13962,9 +13963,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "3d5043afcbebd1814b80788790be13cffe6c6513",
-        "DFStringFlagRepoGitHashDynamicString": "3d5043afcbebd1814b80788790be13cffe6c6513",
-        "FStringFlipTimeStampFastString": "2025-09-18T19:27:47.292Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T19:27:47.292Z"
+        "FStringFlagRepoGitHashFastString": "4750544a3654094079cbe2fc23c9631d9448e207",
+        "DFStringFlagRepoGitHashDynamicString": "4750544a3654094079cbe2fc23c9631d9448e207",
+        "FStringFlipTimeStampFastString": "2025-09-18T19:33:48.049Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T19:33:48.049Z"
     }
 }
