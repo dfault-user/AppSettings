@@ -11815,8 +11815,6 @@
         "FFlagVoiceChatPeerAudioSinkRejoinFix": "True",
         "DFFlagWebViewRedesignDesktop_IXP": "1;Portal.WebViewRedesign-1758213465;WebViewRedesign;260368827;flagbank",
         "FFlagDevFrameworkFixInputBackground": "True",
-        "FFlagStylingAnalyticsFixClientUpdateCountBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:06:48",
-        "CaptureCountersIntervalInMinutes": "5",
         "FFlagRefactorCorescriptsTenFootInterface_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1939165240;2025-09-18T17:12:07",
         "FFlagAXMigrateCatalogItemCardInputBindingsToFocusNavigation5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:16:04",
         "FFlagAXMigrateAvatarEditorPageInputBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:19:21",
@@ -11846,6 +11844,9 @@
         "FFlagActionableSocialContextToastEnabledForAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:54:20",
         "FStringGraphicsVulkanHQShadersBlacklist_Staged": "OnePlus DE2118:Adreno.*619|OPPO CPH2195:Adreno.*619|OPPO OPG02:Adreno.*619|OPPO CPH2197:Adreno.*619;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:57:19",
         "AllowVideoPreRoll": "True",
+        "FFlagVoiceWebrtcIceInActiveTimeoutEnable": "True",
+        "FFlagStylingAnalyticsFixClientUpdateCountBug": "True",
+        "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -13417,7 +13418,6 @@
         "FFlagKillDropperAction": "True",
         "FFlagExpChatGuacChatDisabledReason": "True",
         "FFlagRibbonBetaNewUserExperiment": "False",
-        "FFlagVoiceWebrtcIceInActiveTimeoutEnable": "True",
         "FFlagEditablePolicyCheckRetry": "True",
         "FStringRibbonBetaDateCutoff": "2025-08-26T00:00:00Z",
         "DFFlagFixJointOffsetDriftForStudioStreaming": "True",
@@ -13987,9 +13987,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "f5ccae6b393f6723f2b658ad0fc711ae7fa75c59",
-        "DFStringFlagRepoGitHashDynamicString": "f5ccae6b393f6723f2b658ad0fc711ae7fa75c59",
-        "FStringFlipTimeStampFastString": "2025-09-18T18:12:41.547Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T18:12:41.547Z"
+        "FStringFlagRepoGitHashFastString": "7e4074efc444a3c44ad8ca23e0efa49e18e3dd96",
+        "DFStringFlagRepoGitHashDynamicString": "7e4074efc444a3c44ad8ca23e0efa49e18e3dd96",
+        "FStringFlipTimeStampFastString": "2025-09-18T18:15:40.007Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T18:15:40.007Z"
     }
 }
