@@ -11479,7 +11479,7 @@
         "DFIntCreatorConfigProviderPollPeriodMilliseconds": "10000",
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
         "DFIntTextChatCommandClientSentThrottlePermyriad": "10",
-        "DFIntTextChatMessageClientReceivedThrottlePermyriad": "500",
+        "DFIntTextChatMessageClientReceivedThrottlePermyriad": "1000",
         "DFIntTextChatMessageClientSendingThrottlePermyriad": "10000",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
         "DFFlagISRPerfPass_PlaceFilter": "True;189707",
@@ -11816,8 +11816,6 @@
         "FFlagAssetProviderSeparateBatchDelayToggle2": "True",
         "DFFlagVoiceSdpSendCompressionRatioTelemetry": "True",
         "FFlagVoiceChatPeerAudioSinkRejoinFix": "True",
-        "FFlagUGCValidateBodyPartsSkinnedToR15_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:18:48",
-        "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;403033901;2025-09-18T16:19:27",
         "FFlagGiftCardSourceRefOverride_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:26:32",
         "FFlagLightOcclusionCull_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:29:23",
         "FFlagUGCIsValidR15AnimationRigCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;468302386;2025-09-18T16:36:03",
@@ -11830,6 +11828,9 @@
         "FFlagRefactorCorescriptsTenFootInterface_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1939165240;2025-09-18T17:12:07",
         "FFlagAXMigrateCatalogItemCardInputBindingsToFocusNavigation5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:16:04",
         "FFlagAXMigrateAvatarEditorPageInputBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:19:21",
+        "FFlagAXMigrateCatalogPageInputBindings2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:19:50",
+        "FFlagAXMigrateAvatarEditorItemCardInputBindingsToFocusNavigation3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:20:16",
+        "FFlagUGCValidateBodyPartsSkinnedToR15": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12701,9 +12702,9 @@
         "FFlagEnableMoreDeviceIDMetadataCached_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:29:08",
         "FFlagPlayerSearchEnableOnlineFrequents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:38:25",
         "FFlagLuaAppFixPlayButtonDefaultLaunchSource_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:46:57",
-        "FStringFlagRepoGitHashFastString": "aece8cbb6342ba227580f8e54cd45a3a767d37f9",
-        "DFStringFlagRepoGitHashDynamicString": "aece8cbb6342ba227580f8e54cd45a3a767d37f9",
-        "FStringFlipTimeStampFastString": "2025-09-18T17:21:56.321Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T17:21:56.321Z"
+        "FStringFlagRepoGitHashFastString": "99cce061782a4cec5b41668c704ccfc15d1326f4",
+        "DFStringFlagRepoGitHashDynamicString": "99cce061782a4cec5b41668c704ccfc15d1326f4",
+        "FStringFlipTimeStampFastString": "2025-09-18T17:23:47.272Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T17:23:47.272Z"
     }
 }
