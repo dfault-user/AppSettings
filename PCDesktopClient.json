@@ -11826,6 +11826,7 @@
         "DFFlagWebViewRedesignDesktop_Staged": "True;SteadyState;10;30;Revert;false;260368827;2025-09-18T16:38:22",
         "DFFlagWebViewRedesignDesktop_IXP": "1;Portal.WebViewRedesign-1758213465;WebViewRedesign;260368827;flagbank",
         "FFlagUGCValidateSingleAnimationRigData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;862229848;2025-09-18T16:41:59",
+        "FStringIxpNewLayersForRegistration_Staged": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2,AvatarExperience.UA.ActionBarView,Universality.MorePage,UniversalApp.MoreLayout.Exposure,Experience.Menu.Settings.Exposure,PlayerApp.HomePage.UX.TileLayer,Social.FriendsCarouselAddFriendsEntry,Social.PartyRollout,PlayerApp.HomePage.UX.WholePageRanking,Social.PartyVoice,PlatformExcellence.Consoles.Features,ProfileQRCodeScannerLayer,AvatarExperience.UA.SearchView,Social.ViewFriendSortInGameFriends,Social.AppChat,Social.CommunityProfileView,UIEcosystem.User,InExperience.Performance,CreatorSuccess.VirtualEvents,ContactImporter.DevicePermissionNeededModal.Exposure,PlayerApp.ConsoleAndVR.HomePage.UX.TileLayer,PlayerApp.Homepage.Serving.SDUI,Experience.Menu.VR,UIEcosystem.User.Migration,User.Communication.ConsoleVoice,Social.RM,Party.Coordination.ExperienceJoin2,PlayerApp.GameDetailsPage.Exposure;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:44:01",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12341,6 +12342,8 @@
         "FFlagVoiceSendPeerConnectionSuccessOnDisconnected": "True",
         "DFFlagTeleportReconnect3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:31:12",
         "FFlagPlayerSearchEnableOnlineFrequents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:38:25",
+        "FFlagUIBloxEnableActionBarButtonOverride_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:46:07",
+        "FFlagLuaAppFixPlayButtonDefaultLaunchSource_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:46:57",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12808,9 +12811,9 @@
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
         "DFFlagCheckedWaitForChild": "True",
         "DFFlagDoNotPushTooHard": "True",
-        "FStringFlagRepoGitHashFastString": "880baa9207e2628ad4a4fc5b3f1816be3032edb0",
-        "DFStringFlagRepoGitHashDynamicString": "880baa9207e2628ad4a4fc5b3f1816be3032edb0",
-        "FStringFlipTimeStampFastString": "2025-09-18T16:44:50.931Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T16:44:50.931Z"
+        "FStringFlagRepoGitHashFastString": "6a6075412d769045821d4a8ccd247ef3446fcfa8",
+        "DFStringFlagRepoGitHashDynamicString": "6a6075412d769045821d4a8ccd247ef3446fcfa8",
+        "FStringFlipTimeStampFastString": "2025-09-18T16:48:43.166Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T16:48:43.166Z"
     }
 }
