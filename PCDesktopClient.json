@@ -11866,8 +11866,6 @@
         "FFlagUwpMigrationDialogIxp": "True",
         "FFlagAXScrollingFramesShouldAnimateOnFocus3": "True",
         "FFlagSduiDismissDialogAction": "True",
-        "FFlagAXMigrateEmoteMenuFromRoactGamepad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:16:33",
-        "DFFlagEnableUpdateClientFeatureTimeoutListener2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:17:30",
         "FFlagAXBackgroundSceneManagerRevamp3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:30:39",
         "FFlagStudioFixStandalonePluginUnloadingAsync3": "True",
         "FFlagFixUniverseConfigurationRequestOrdering": "True",
@@ -11882,6 +11880,8 @@
         "FFlagLuaAppEdpOnlyEnableFmodIfVideo": "True",
         "DFFlagFixImageContentInvalid_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T23:15:23",
         "FFlagLuauNoConstraintGenRecursionLimitIce": "True",
+        "DFFlagEnableUpdateClientFeatureTimeoutListener2": "True",
+        "FFlagAXMigrateEmoteMenuFromRoactGamepad": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12392,7 +12392,7 @@
         "FFlagFixPopMouseIcon": "True",
         "FFlagLuaAppUnifyPlayButtonAllSurfacesIxp": "True",
         "FFlagVoiceChatPublishMuteOnPublishSuccess": "True",
-        "DFIntLoadTestStartTimeUnix_PlaceFilter": "1758238800;126884695634066",
+        "DFIntLoadTestStartTimeUnix_PlaceFilter": "1;126884695634066",
         "DFFlagVideoMp4DoNotWriteTrackIfEmpty": "True",
         "FFlagUGCValidateRelativeSkinningTransfer2": "True",
         "FFlagAudioApiBucketedChannelGroups": "True",
@@ -12402,6 +12402,7 @@
         "FFlagSduiDialogComponent4": "True",
         "FFlagSduiSingleItemCollectionAutomaticSizeProp": "True",
         "FFlagLuaAppsServerTriggeredModals_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:20:18",
+        "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T23:24:10",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12866,9 +12867,9 @@
         "FFlagLuaAppGamepadHoldToast2": "True",
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
-        "FStringFlagRepoGitHashFastString": "450d82598b3ccca77f58382bbf94d9ecc1983258",
-        "DFStringFlagRepoGitHashDynamicString": "450d82598b3ccca77f58382bbf94d9ecc1983258",
-        "FStringFlipTimeStampFastString": "2025-09-18T23:21:36.174Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T23:21:36.174Z"
+        "FStringFlagRepoGitHashFastString": "f777ffa74496b4ebf179dc6f1679095d90bb55bc",
+        "DFStringFlagRepoGitHashDynamicString": "f777ffa74496b4ebf179dc6f1679095d90bb55bc",
+        "FStringFlipTimeStampFastString": "2025-09-18T23:26:39.795Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T23:26:39.795Z"
     }
 }
