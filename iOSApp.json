@@ -11870,8 +11870,6 @@
         "FFlagFixUniverseConfigurationRequestOrdering": "True",
         "FFlagCleanUpMouseWrapMode": "True",
         "FFlagAvatarSettingsAvatarTypeFix": "True",
-        "DFFlagEnableGenerateRecommendationItemListFromRcc2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:48:33",
-        "DFFlagEnableContextForGenerateList_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:50:16",
         "FFlagLuaAppEdpOnlyEnableFmodIfVideo": "True",
         "DFFlagFixImageContentInvalid_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T23:15:23",
         "FFlagLuauNoConstraintGenRecursionLimitIce": "True",
@@ -11880,6 +11878,8 @@
         "DFFlagVideoSandboxPreviewVideos": "True",
         "FFlagEnableFAECancellationAnalytics": "True",
         "FFlagShowSocialContextToastToAll": "True",
+        "DFFlagEnableContextForGenerateList": "True",
+        "DFFlagEnableGenerateRecommendationItemListFromRcc2": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12754,9 +12754,9 @@
         "FFlagEnableNSENotifSettingLogging": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:56:50",
         "FFlagEnableCVSUrlForOtaPatch": "True",
-        "FStringFlagRepoGitHashFastString": "9890113c5e07a68e5a6e46c660a6e3974f3ead6f",
-        "DFStringFlagRepoGitHashDynamicString": "9890113c5e07a68e5a6e46c660a6e3974f3ead6f",
-        "FStringFlipTimeStampFastString": "2025-09-18T23:52:00.754Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T23:52:00.754Z"
+        "FStringFlagRepoGitHashFastString": "c994cebe699affee1fc440476fb17bbd03cad229",
+        "DFStringFlagRepoGitHashDynamicString": "c994cebe699affee1fc440476fb17bbd03cad229",
+        "FStringFlipTimeStampFastString": "2025-09-18T23:54:06.490Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T23:54:06.490Z"
     }
 }
