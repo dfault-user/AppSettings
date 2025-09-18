@@ -11817,10 +11817,6 @@
         "FFlagDevFrameworkFixInputBackground": "True",
         "FFlagUGCValidateBodyPartsSkinnedToR15": "True",
         "FFlagGiftCardSourceRefOverride": "True",
-        "DFFlagLuauXpcallContNoYield_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:32:19",
-        "FFlagExpChatTransparentFocusSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:32:51",
-        "DFFlagLuauXpcallContErrorHandling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:33:41",
-        "DFFlagSessionTrackingPlaceVersionField_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:33:45",
         "FFlagLuauCodeGenBetterBytecodeAnalysis_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:35:27",
         "FFlagUGCIsValidR15AnimationRigCheck": "True",
         "FFlagUGCValidateSingleAnimationRigData": "True",
@@ -11846,6 +11842,12 @@
         "DFFlagGcInParallelTelemetryFix": "True",
         "DFFlagInstanceReflectReporting": "True",
         "DFFlagDoNotPushTooHard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T18:33:35",
+        "DFFlagCheckedWaitForChild_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T18:35:04",
+        "FFlagExpChatTransparentFocusSupport": "True",
+        "DFFlagSessionTrackingPlaceVersionField": "True",
+        "DFFlagLuauXpcallContErrorHandling": "True",
+        "DFFlagLuauXpcallContNoYield": "True",
+        "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;403033901;2025-09-18T18:36:28",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12717,9 +12719,9 @@
         "FFlagEnableMoreDeviceIDMetadataCached": "True",
         "FFlagLuaAppFixPlayButtonDefaultLaunchSource": "True",
         "FFlagLuaAppUnifyPlayButtonAllSurfacesIxp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T18:24:45",
-        "FStringFlagRepoGitHashFastString": "8587cb9fd22163153332811b71448ef86df51504",
-        "DFStringFlagRepoGitHashDynamicString": "8587cb9fd22163153332811b71448ef86df51504",
-        "FStringFlipTimeStampFastString": "2025-09-18T18:37:35.782Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T18:37:35.782Z"
+        "FStringFlagRepoGitHashFastString": "c44de29a92f50cea64ab7180c6f4f567394f52f7",
+        "DFStringFlagRepoGitHashDynamicString": "c44de29a92f50cea64ab7180c6f4f567394f52f7",
+        "FStringFlipTimeStampFastString": "2025-09-18T18:39:01.745Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T18:39:01.745Z"
     }
 }
