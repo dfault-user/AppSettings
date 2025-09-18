@@ -11479,7 +11479,7 @@
         "DFIntCreatorConfigProviderPollPeriodMilliseconds": "10000",
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
         "DFIntTextChatCommandClientSentThrottlePermyriad": "10",
-        "DFIntTextChatMessageClientReceivedThrottlePermyriad": "100",
+        "DFIntTextChatMessageClientReceivedThrottlePermyriad": "500",
         "DFIntTextChatMessageClientSendingThrottlePermyriad": "10000",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
         "DFFlagISRPerfPass_PlaceFilter": "True;189707",
@@ -11814,7 +11814,6 @@
         "FFlagAXMigrateVerticalClothingListToFocusNavigation2": "True",
         "FFlagEnableEconomicRestrictionInAppGamePassV3": "True",
         "FFlagFoundationRemoveSelectionCursorHeartbeat": "True",
-        "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;403033901;2025-09-17T22:54:40",
         "DFFlagDoNotResumeTooHard": "True",
         "FFlagSwitchProductPurchaseContainerErrorPromptV2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-17T23:10:09",
         "FFlagAssetProviderSeparateBatchDelayToggle2": "True",
@@ -12174,9 +12173,9 @@
         "FFlagIASMouseFix": "True",
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "082544de93c4b89e7257d9dd811981f0b3a8ed59",
-        "DFStringFlagRepoGitHashDynamicString": "082544de93c4b89e7257d9dd811981f0b3a8ed59",
-        "FStringFlipTimeStampFastString": "2025-09-17T23:47:58.803Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-17T23:47:58.803Z"
+        "FStringFlagRepoGitHashFastString": "68f22b92e5f072ed7d8399b70c4adce1a19931d9",
+        "DFStringFlagRepoGitHashDynamicString": "68f22b92e5f072ed7d8399b70c4adce1a19931d9",
+        "FStringFlipTimeStampFastString": "2025-09-18T00:00:27.425Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T00:00:27.425Z"
     }
 }
