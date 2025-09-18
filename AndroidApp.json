@@ -11834,8 +11834,6 @@
         "DFFlagChangeServiceUseFind": "True",
         "DFFlagGcInParallelTelemetryFix": "True",
         "DFFlagInstanceReflectReporting": "True",
-        "DFFlagDoNotPushTooHard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T18:33:35",
-        "DFFlagCheckedWaitForChild_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T18:35:04",
         "FFlagExpChatTransparentFocusSupport": "True",
         "DFFlagSessionTrackingPlaceVersionField": "True",
         "DFFlagLuauXpcallContErrorHandling": "True",
@@ -11849,6 +11847,8 @@
         "FStringGraphicsVulkanHQShadersBlacklist": "OnePlus DE2118:Adreno (TM) 619|OPPO CPH2195:Adreno (TM) 619|OPPO OPG02:Adreno (TM) 619|OPPO CPH2197:Adreno (TM) 619",
         "FFlagFixMissingAnimRigDataBug": "True",
         "FFlagAddFriendsUse10ftUiCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T19:31:08",
+        "DFFlagCheckedWaitForChild": "True",
+        "DFFlagDoNotPushTooHard": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12745,11 +12745,11 @@
         "FFlagLuaEnableShowUpsellMethod2": "True",
         "EnableFastFollowLoginTelemetry": "True",
         "FFlagRbxStorageFileCachePerm2": "False",
-        "FFlagAddRedeemTile2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T18:31:23",
         "FIntOcclusionWorkerThreadCount_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T19:05:58",
-        "FStringFlagRepoGitHashFastString": "4750544a3654094079cbe2fc23c9631d9448e207",
-        "DFStringFlagRepoGitHashDynamicString": "4750544a3654094079cbe2fc23c9631d9448e207",
-        "FStringFlipTimeStampFastString": "2025-09-18T19:33:48.049Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T19:33:48.049Z"
+        "FFlagAddRedeemTile2": "True",
+        "FStringFlagRepoGitHashFastString": "b9478755f603ba1cc634b22680d9d9808da4ed45",
+        "DFStringFlagRepoGitHashDynamicString": "b9478755f603ba1cc634b22680d9d9808da4ed45",
+        "FStringFlipTimeStampFastString": "2025-09-18T19:37:22.949Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T19:37:22.949Z"
     }
 }
