@@ -11819,8 +11819,6 @@
         "FFlagGiftCardSourceRefOverride": "True",
         "FFlagUGCIsValidR15AnimationRigCheck": "True",
         "FFlagUGCValidateSingleAnimationRigData": "True",
-        "FStringGraphicsVulkanHQShadersBlacklist_Staged": "OnePlus DE2118:Adreno.*619|OPPO CPH2195:Adreno.*619|OPPO OPG02:Adreno.*619|OPPO CPH2197:Adreno.*619;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:57:19",
-        "FFlagFixMissingAnimRigDataBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:57:26",
         "FFlagVoiceWebrtcIceInActiveTimeoutEnable": "True",
         "FFlagStylingAnalyticsFixClientUpdateCountBug": "True",
         "FFlagRefactorCorescriptsTenFootInterface": "True",
@@ -11849,6 +11847,8 @@
         "DFFlagFixJoinLeavePartyDevAPILog": "True",
         "FFlagActionableSocialContextToastEnabledForAll": "True",
         "FFlagFallbackPlaceIdParamEnabledForAll": "True",
+        "FStringGraphicsVulkanHQShadersBlacklist": "OnePlus DE2118:Adreno.*619|OPPO CPH2195:Adreno.*619|OPPO OPG02:Adreno.*619|OPPO CPH2197:Adreno.*619",
+        "FFlagFixMissingAnimRigDataBug": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12146,9 +12146,9 @@
         "DFFlagRobloxTelemetryEnableSenderCallback2": "True",
         "FFlagLuaAppGamepadHoldToast2": "True",
         "FFlagUwpMigrationDialogHelpLink": "True",
-        "FStringFlagRepoGitHashFastString": "dd8d722490da234321f614a3be8b28b44e145d34",
-        "DFStringFlagRepoGitHashDynamicString": "dd8d722490da234321f614a3be8b28b44e145d34",
-        "FStringFlipTimeStampFastString": "2025-09-18T18:56:46.766Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T18:56:46.766Z"
+        "FStringFlagRepoGitHashFastString": "7cbaf659d15dbdfacb7e07828941e5984acd7a4a",
+        "DFStringFlagRepoGitHashDynamicString": "7cbaf659d15dbdfacb7e07828941e5984acd7a4a",
+        "FStringFlipTimeStampFastString": "2025-09-18T19:02:48.776Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T19:02:48.776Z"
     }
 }

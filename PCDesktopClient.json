@@ -11819,8 +11819,6 @@
         "FFlagGiftCardSourceRefOverride": "True",
         "FFlagUGCIsValidR15AnimationRigCheck": "True",
         "FFlagUGCValidateSingleAnimationRigData": "True",
-        "FStringGraphicsVulkanHQShadersBlacklist_Staged": "OnePlus DE2118:Adreno.*619|OPPO CPH2195:Adreno.*619|OPPO OPG02:Adreno.*619|OPPO CPH2197:Adreno.*619;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:57:19",
-        "FFlagFixMissingAnimRigDataBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:57:26",
         "FFlagVoiceWebrtcIceInActiveTimeoutEnable": "True",
         "FFlagStylingAnalyticsFixClientUpdateCountBug": "True",
         "FFlagRefactorCorescriptsTenFootInterface": "True",
@@ -11849,6 +11847,8 @@
         "DFFlagFixJoinLeavePartyDevAPILog": "True",
         "FFlagActionableSocialContextToastEnabledForAll": "True",
         "FFlagFallbackPlaceIdParamEnabledForAll": "True",
+        "FStringGraphicsVulkanHQShadersBlacklist": "OnePlus DE2118:Adreno.*619|OPPO CPH2195:Adreno.*619|OPPO OPG02:Adreno.*619|OPPO CPH2197:Adreno.*619",
+        "FFlagFixMissingAnimRigDataBug": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12267,7 +12267,7 @@
         "FFlagGetSwapChainSizeSupportBiggerSize": "True",
         "DFFlagDataStoreGetKeyVersionInfoRdbFlag_PlaceFilter": "True;16101250253;18412633979;16146832113;4924922222;126884695634066",
         "DFFlagDataStoreEnableRdbAshTraffic_PlaceFilter": "True;18412633979;16101250253;16146832113;4924922222;126884695634066",
-        "DFStringDataStoreRdbShadowTrafficRolloutConfig_PlaceFilter": "5564402127:10000,6241394935:10000,5578556129:0,1686885941:0,7436755782:10000;16101250253;18412633979;16146832113;4924922222;126884695634066",
+        "DFStringDataStoreRdbShadowTrafficRolloutConfig_PlaceFilter": "5564402127:10000,6241394935:10000,5578556129:0,1686885941:0,7436755782:1000;16101250253;18412633979;16146832113;4924922222;126884695634066",
         "DFFlagDataStoreEnableRdbShadowTraffic_PlaceFilter": "True;16101250253;18412633979;16146832113;4924922222;126884695634066",
         "FFlagSimAeroNewNewtonLogging": "True",
         "DFFlagEnableFeatureTimeoutMigration": "True",
@@ -12829,9 +12829,9 @@
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
         "DFFlagCheckedWaitForChild": "True",
         "DFFlagDoNotPushTooHard": "True",
-        "FStringFlagRepoGitHashFastString": "dd8d722490da234321f614a3be8b28b44e145d34",
-        "DFStringFlagRepoGitHashDynamicString": "dd8d722490da234321f614a3be8b28b44e145d34",
-        "FStringFlipTimeStampFastString": "2025-09-18T18:56:46.766Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T18:56:46.766Z"
+        "FStringFlagRepoGitHashFastString": "7cbaf659d15dbdfacb7e07828941e5984acd7a4a",
+        "DFStringFlagRepoGitHashDynamicString": "7cbaf659d15dbdfacb7e07828941e5984acd7a4a",
+        "FStringFlipTimeStampFastString": "2025-09-18T19:02:48.776Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T19:02:48.776Z"
     }
 }
