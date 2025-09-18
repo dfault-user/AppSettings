@@ -11862,7 +11862,6 @@
         "DFFlagEnableFeatureTimeoutListeners2": "True",
         "FFlagAXMigrateResellersInputBindingsToRoactGamepad": "True",
         "FFlagAXMigrateAXToGlobalAutofocus7": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FIntUwpMigrationDialogIxpLoadingTimeoutMs": "6000",
         "FFlagUwpMigrationDialogIxp": "True",
         "FFlagAXScrollingFramesShouldAnimateOnFocus3": "True",
@@ -11882,6 +11881,8 @@
         "FFlagAvatarSettingsAvatarTypeFix": "True",
         "DFFlagEnableGenerateRecommendationItemListFromRcc2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:48:33",
         "DFFlagEnableContextForGenerateList_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:50:16",
+        "FFlagLuaAppEdpOnlyEnableFmodIfVideo": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12328,7 +12329,6 @@
         "FFlagPlayerListPersistVisibility_IXP": "1;Experience.Menu;User.Experience.Menu.PlayerListPersistentVisibility;775889394;flagbank",
         "DFIntVoiceWebrtcIceInActiveTimeoutMs": "30000",
         "FFlagPrecomputeDeformVertices_PlaceFilter": "True;120148879522453;73226809349189;119602771011506",
-        "FFlagLuaAppEdpOnlyEnableFmodIfVideo": "True",
         "DFStringLoadTestArguments_PlaceFilter": "0|1|3269033223:1,3269033336:1,3269033529:1,3269339904:1,3269339905:1,3269339909:1,3269339912:1,3269339918:1,3269339922:1,3269339919:1,3269339923:1,3269339921:1;126884695634066",
         "DFStringLoadTestName_PlaceFilter": "get_product_info_load_test_simple;126884695634066",
         "DFStringLoadTestingUniverseId_PlaceFilter": "7436755782;126884695634066",
@@ -12867,9 +12867,9 @@
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
         "FFlagLiveAnimationUpdateSupport_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:01:22",
-        "FStringFlagRepoGitHashFastString": "80d9de4dace1b1fa12ed77c3d725d702778cba6e",
-        "DFStringFlagRepoGitHashDynamicString": "80d9de4dace1b1fa12ed77c3d725d702778cba6e",
-        "FStringFlipTimeStampFastString": "2025-09-18T23:01:25.764Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T23:01:25.764Z"
+        "FStringFlagRepoGitHashFastString": "9a1f51526a9326492e433a876b3457be03e83b9e",
+        "DFStringFlagRepoGitHashDynamicString": "9a1f51526a9326492e433a876b3457be03e83b9e",
+        "FStringFlipTimeStampFastString": "2025-09-18T23:07:39.321Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T23:07:39.321Z"
     }
 }
