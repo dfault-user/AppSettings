@@ -13519,8 +13519,6 @@
         "FFlagEmitInProcessTeamTestSuccessTelemetry": "True",
         "FFlagTeamTestSendTraceIdOnStart": "True",
         "FFlagAddExplainCodetoMCPAssistant": "True",
-        "FIntUGCValidateMaxSensibleBinaryStringLength_Staged": "15000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;22345289;2025-09-18T16:52:49",
-        "FFlagLuauFixNilRightPad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:52:52",
         "FFlagStudioInProcessTeamTest3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;63045644;2025-09-18T17:14:00",
         "FFlagToolboxUseItemDetailForPreviews_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:35:56",
         "FFlagAmrFixNextGenColors": "True",
@@ -13529,6 +13527,8 @@
         "FFlaggetFFlagToolboxEnableDataSharingForAssets": "True",
         "FFlagAICOLessAggressiveTooltip_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:51:58",
         "FFlagUGCValidatePropertiesSensible_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;160210569;2025-09-18T17:54:49",
+        "FIntUGCValidateMaxSensibleBinaryStringLength": "15000",
+        "FFlagLuauFixNilRightPad": "True",
         "FFlagVoxelGridFixRegionChanged": "True",
         "FFlagGameBasicSettingsFramerateCap5": "True",
         "FFlagVoiceChatFixRejoin": "True",
@@ -13984,9 +13984,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "cc796c2c6d3842e4f633c458170f1fd679d87189",
-        "DFStringFlagRepoGitHashDynamicString": "cc796c2c6d3842e4f633c458170f1fd679d87189",
-        "FStringFlipTimeStampFastString": "2025-09-18T17:57:40.389Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T17:57:40.389Z"
+        "FStringFlagRepoGitHashFastString": "8723633661ff64e77d817acbb8fbeec32f55862b",
+        "DFStringFlagRepoGitHashDynamicString": "8723633661ff64e77d817acbb8fbeec32f55862b",
+        "FStringFlipTimeStampFastString": "2025-09-18T17:58:03.499Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T17:58:03.499Z"
     }
 }
