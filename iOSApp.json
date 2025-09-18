@@ -11815,7 +11815,6 @@
         "FFlagAssetProviderSeparateBatchDelayToggle2": "True",
         "DFFlagVoiceSdpSendCompressionRatioTelemetry": "True",
         "FFlagVoiceChatPeerAudioSinkRejoinFix": "True",
-        "FFlagUGCIsValidR15AnimationRigCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;468302386;2025-09-18T16:36:03",
         "DFFlagWebViewRedesignDesktop_IXP": "1;Portal.WebViewRedesign-1758213465;WebViewRedesign;260368827;flagbank",
         "FFlagUGCValidateSingleAnimationRigData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;862229848;2025-09-18T16:41:59",
         "FStringIxpNewLayersForRegistration_Staged": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2,AvatarExperience.UA.ActionBarView,Universality.MorePage,UniversalApp.MoreLayout.Exposure,Experience.Menu.Settings.Exposure,PlayerApp.HomePage.UX.TileLayer,Social.FriendsCarouselAddFriendsEntry,Social.PartyRollout,PlayerApp.HomePage.UX.WholePageRanking,Social.PartyVoice,PlatformExcellence.Consoles.Features,ProfileQRCodeScannerLayer,AvatarExperience.UA.SearchView,Social.ViewFriendSortInGameFriends,Social.AppChat,Social.CommunityProfileView,UIEcosystem.User,InExperience.Performance,CreatorSuccess.VirtualEvents,ContactImporter.DevicePermissionNeededModal.Exposure,PlayerApp.ConsoleAndVR.HomePage.UX.TileLayer,PlayerApp.Homepage.Serving.SDUI,Experience.Menu.VR,UIEcosystem.User.Migration,User.Communication.ConsoleVoice,Social.RM,Party.Coordination.ExperienceJoin2,PlayerApp.GameDetailsPage.Exposure;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:44:01",
@@ -11843,6 +11842,7 @@
         "DFFlagLuauXpcallContErrorHandling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:33:41",
         "DFFlagSessionTrackingPlaceVersionField_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:33:45",
         "FFlagLuauCodeGenBetterBytecodeAnalysis_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:35:27",
+        "FFlagUGCIsValidR15AnimationRigCheck": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12711,12 +12711,11 @@
         "FFlagRbxStorageFileCachePerm2": "False",
         "FFlagAXCategoryById3": "True",
         "FFlagShowPbrInfoRow2": "True",
-        "FFlagPlayerSearchEnableOnlineFrequents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:38:25",
         "FFlagLuaAppFixPlayButtonDefaultLaunchSource_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:46:57",
         "FFlagEnableMoreDeviceIDMetadataCached": "True",
-        "FStringFlagRepoGitHashFastString": "2565caa8eb33e08bf6392c7bac5cf86c7f0668b4",
-        "DFStringFlagRepoGitHashDynamicString": "2565caa8eb33e08bf6392c7bac5cf86c7f0668b4",
-        "FStringFlipTimeStampFastString": "2025-09-18T17:39:43.245Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T17:39:43.245Z"
+        "FStringFlagRepoGitHashFastString": "f2a2a03060178e93cffb933b64c9b4c56d8a0f97",
+        "DFStringFlagRepoGitHashDynamicString": "f2a2a03060178e93cffb933b64c9b4c56d8a0f97",
+        "FStringFlipTimeStampFastString": "2025-09-18T17:43:12.852Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T17:43:12.852Z"
     }
 }
