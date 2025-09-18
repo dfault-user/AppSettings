@@ -11476,7 +11476,7 @@
         "DFIntCreatorConfigProviderPollPeriodMilliseconds": "10000",
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
         "DFIntTextChatCommandClientSentThrottlePermyriad": "10",
-        "DFIntTextChatMessageClientReceivedThrottlePermyriad": "3000",
+        "DFIntTextChatMessageClientReceivedThrottlePermyriad": "5000",
         "DFIntTextChatMessageClientSendingThrottlePermyriad": "10000",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
         "DFFlagISRPerfPass_PlaceFilter": "True;189707",
@@ -11838,7 +11838,6 @@
         "DFFlagSessionTrackingPlaceVersionField": "True",
         "DFFlagLuauXpcallContErrorHandling": "True",
         "DFFlagLuauXpcallContNoYield": "True",
-        "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;403033901;2025-09-18T18:36:28",
         "FFlagLuauCodeGenBetterBytecodeAnalysis": "True",
         "FFlagObjectExportDuplicationFix": "True",
         "DFFlagFixJoinLeavePartyDevAPILog": "True",
@@ -12830,9 +12829,9 @@
         "FFlagLuaAppGamepadHoldToast2": "True",
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
-        "FStringFlagRepoGitHashFastString": "b9478755f603ba1cc634b22680d9d9808da4ed45",
-        "DFStringFlagRepoGitHashDynamicString": "b9478755f603ba1cc634b22680d9d9808da4ed45",
-        "FStringFlipTimeStampFastString": "2025-09-18T19:37:22.949Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T19:37:22.949Z"
+        "FStringFlagRepoGitHashFastString": "cde5f7a3f9e5978d801feb32d0dea1190b5fec6c",
+        "DFStringFlagRepoGitHashDynamicString": "cde5f7a3f9e5978d801feb32d0dea1190b5fec6c",
+        "FStringFlipTimeStampFastString": "2025-09-18T19:42:53.805Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T19:42:53.805Z"
     }
 }
