@@ -11824,6 +11824,8 @@
         "FFlagGiftCardSourceRefOverride_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:26:32",
         "FFlagLightOcclusionCull_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:29:23",
         "FFlagUGCIsValidR15AnimationRigCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;468302386;2025-09-18T16:36:03",
+        "DFFlagWebViewRedesignDesktop_Staged": "True;SteadyState;10;30;Revert;false;260368827;2025-09-18T16:38:22",
+        "DFFlagWebViewRedesignDesktop_IXP": "1;Portal.WebViewRedesign-1758213465;WebViewRedesign;260368827;flagbank",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12694,9 +12696,10 @@
         "FFlagShowPbrInfoRow2": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:25:27",
         "FFlagEnableMoreDeviceIDMetadataCached_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:29:08",
-        "FStringFlagRepoGitHashFastString": "c7edcb2809352b16aa9076ff77ea399ae54105a5",
-        "DFStringFlagRepoGitHashDynamicString": "c7edcb2809352b16aa9076ff77ea399ae54105a5",
-        "FStringFlipTimeStampFastString": "2025-09-18T16:36:43.567Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T16:36:43.567Z"
+        "FFlagPlayerSearchEnableOnlineFrequents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T16:38:25",
+        "FStringFlagRepoGitHashFastString": "7d818a0da966c4bd8dd781396bd7803a3c850bcb",
+        "DFStringFlagRepoGitHashDynamicString": "7d818a0da966c4bd8dd781396bd7803a3c850bcb",
+        "FStringFlipTimeStampFastString": "2025-09-18T16:41:49.404Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T16:41:49.404Z"
     }
 }
