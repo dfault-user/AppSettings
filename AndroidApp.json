@@ -11476,7 +11476,7 @@
         "DFIntCreatorConfigProviderPollPeriodMilliseconds": "10000",
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
         "DFIntTextChatCommandClientSentThrottlePermyriad": "10",
-        "DFIntTextChatMessageClientReceivedThrottlePermyriad": "9000",
+        "DFIntTextChatMessageClientReceivedThrottlePermyriad": "10000",
         "DFIntTextChatMessageClientSendingThrottlePermyriad": "10000",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
         "DFFlagISRPerfPass_PlaceFilter": "True;189707",
@@ -11865,8 +11865,6 @@
         "FIntUwpMigrationDialogIxpLoadingTimeoutMs": "6000",
         "FFlagUwpMigrationDialogIxp": "True",
         "FFlagAXScrollingFramesShouldAnimateOnFocus3": "True",
-        "DFIntTextChatMessageClientReceivedThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;403033901;2025-09-18T22:11:31",
-        "FFlagLuauNoConstraintGenRecursionLimitIce_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:13:20",
         "FFlagSduiDismissDialogAction": "True",
         "FFlagAXMigrateEmoteMenuFromRoactGamepad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:16:33",
         "DFFlagEnableUpdateClientFeatureTimeoutListener2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:17:30",
@@ -11882,6 +11880,8 @@
         "DFFlagEnableGenerateRecommendationItemListFromRcc2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:48:33",
         "DFFlagEnableContextForGenerateList_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:50:16",
         "FFlagLuaAppEdpOnlyEnableFmodIfVideo": "True",
+        "DFFlagFixImageContentInvalid_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T23:15:23",
+        "FFlagLuauNoConstraintGenRecursionLimitIce": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12780,11 +12780,11 @@
         "FFlagRbxStorageFileCachePerm2": "False",
         "FFlagAddRedeemTile2": "True",
         "FIntOcclusionWorkerThreadCount": "2",
-        "FFlagEnableCVSUrlForOtaPatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:11:07",
         "FIntEnableCVSUrlForOtaPatchPercentage_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T22:56:50",
-        "FStringFlagRepoGitHashFastString": "11eb3e88f9ba5d504f92a5140575a15b65673526",
-        "DFStringFlagRepoGitHashDynamicString": "11eb3e88f9ba5d504f92a5140575a15b65673526",
-        "FStringFlipTimeStampFastString": "2025-09-18T23:16:33.531Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T23:16:33.531Z"
+        "FFlagEnableCVSUrlForOtaPatch": "True",
+        "FStringFlagRepoGitHashFastString": "450d82598b3ccca77f58382bbf94d9ecc1983258",
+        "DFStringFlagRepoGitHashDynamicString": "450d82598b3ccca77f58382bbf94d9ecc1983258",
+        "FStringFlipTimeStampFastString": "2025-09-18T23:21:36.174Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T23:21:36.174Z"
     }
 }
