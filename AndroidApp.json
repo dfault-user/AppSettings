@@ -11423,7 +11423,6 @@
         "FFlagFlagRolloutTestStaticBool4": "False",
         "DFFlagCleanupTeleportImplMethod_PlaceFilter": "True;16199276101;88139382814890",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.5.All.Platforms;137851750;dev_controlled",
-        "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Rollout.5.All.Platforms;2034967467;dev_controlled",
         "DFFlagHttpSslDistrust0415252": "True",
         "DFFlagHttpStreamingCbStats": "True",
         "DFFlagCleanupTeleportImplMethod": "True",
@@ -11831,6 +11830,7 @@
         "FFlagAXMigrateCatalogPageInputBindings2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:19:50",
         "FFlagAXMigrateAvatarEditorItemCardInputBindingsToFocusNavigation3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:20:16",
         "FFlagUGCValidateBodyPartsSkinnedToR15": "True",
+        "DFFlagUseFasterRayCast4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-18T17:21:12",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12729,9 +12729,9 @@
         "FFlagLuaEnableShowUpsellMethod2": "True",
         "EnableFastFollowLoginTelemetry": "True",
         "FFlagRbxStorageFileCachePerm2": "False",
-        "FStringFlagRepoGitHashFastString": "99cce061782a4cec5b41668c704ccfc15d1326f4",
-        "DFStringFlagRepoGitHashDynamicString": "99cce061782a4cec5b41668c704ccfc15d1326f4",
-        "FStringFlipTimeStampFastString": "2025-09-18T17:23:47.272Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-18T17:23:47.272Z"
+        "FStringFlagRepoGitHashFastString": "5923b21cd1a9056ed8a661691e7daae2388ba9f3",
+        "DFStringFlagRepoGitHashDynamicString": "5923b21cd1a9056ed8a661691e7daae2388ba9f3",
+        "FStringFlipTimeStampFastString": "2025-09-18T17:25:29.177Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-18T17:25:29.177Z"
     }
 }
