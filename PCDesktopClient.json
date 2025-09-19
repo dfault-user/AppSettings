@@ -11894,6 +11894,8 @@
         "FFlagVideoGamePreviewSessionTracking": "True",
         "FFlagEnableProfilePlatformDualCta_v5": "true",
         "DFIntJoinLimitWin32x64_Staged": "691;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T18:51:52",
+        "FFlagStudioFixStandalonePluginUnloadingAsync3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;542480316;2025-09-19T18:53:15",
+        "FFlagStudioUseUIThread_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;542480316;2025-09-19T18:53:15",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12875,9 +12877,9 @@
         "FFlagLuaAppGamepadHoldToast2": "True",
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
-        "FStringFlagRepoGitHashFastString": "9f824241e3258a75a8cca284ee5ffb0875253e36",
-        "DFStringFlagRepoGitHashDynamicString": "9f824241e3258a75a8cca284ee5ffb0875253e36",
-        "FStringFlipTimeStampFastString": "2025-09-19T18:53:31.255Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-19T18:53:31.255Z"
+        "FStringFlagRepoGitHashFastString": "662feee8eaa5802f59b4352bae1f504493a521ad",
+        "DFStringFlagRepoGitHashDynamicString": "662feee8eaa5802f59b4352bae1f504493a521ad",
+        "FStringFlipTimeStampFastString": "2025-09-19T18:55:47.170Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-19T18:55:47.170Z"
     }
 }
