@@ -11885,13 +11885,12 @@
         "FFlagEnableCVSUrlForOtaPatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T17:25:04",
         "DFFlagSkipSavingEmptyCapture_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T17:30:42",
         "DFFlagRemoveTemporaryScreenshotFilePresave_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1245574316;2025-09-19T17:31:48",
-        "FFlagEnableAdsMouseUnlock": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagStudioUseUIThread_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T17:34:02",
         "FFlagVideoGamePreviewSessionTracking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T17:42:06",
         "FFlagEnableProfilePlatformDualCta_v5_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;893002828;2025-09-19T17:46:21",
         "DFFlagEditableMeshFastClusterSkipLoD_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T17:52:15",
         "FFlagUITextureRendererUseNewRenderPath": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagNetworkInterface_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T18:24:43",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
@@ -13582,6 +13581,7 @@
         "FFlagLuauSubtypingUnionsAndIntersectionsInGenericBounds": "True",
         "FFlagLuauSubtypingReportGenericBoundMismatches2": "True",
         "FFlagCreateCagesOnAssetDm_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T18:12:38",
+        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -14042,9 +14042,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "3ac791f330cb972f91efb18ed3c9055e6678a622",
-        "DFStringFlagRepoGitHashDynamicString": "3ac791f330cb972f91efb18ed3c9055e6678a622",
-        "FStringFlipTimeStampFastString": "2025-09-19T18:27:33.043Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-19T18:27:33.043Z"
+        "FStringFlagRepoGitHashFastString": "250c3f26c7c037cfb01316543f9908d2050c1acf",
+        "DFStringFlagRepoGitHashDynamicString": "250c3f26c7c037cfb01316543f9908d2050c1acf",
+        "FStringFlipTimeStampFastString": "2025-09-19T18:27:54.938Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-19T18:27:54.938Z"
     }
 }
