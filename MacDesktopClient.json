@@ -12375,6 +12375,7 @@
         "FIntServerTriggeredModalTrafficPercent": "1",
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
+        "FIntServerTriggeredModalTrafficPercent_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1408480884;2025-09-19T18:05:03",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12799,9 +12800,9 @@
         "FFlagEditablePolicyCheckRetry": "True",
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "ec80c1acab5777fc288aa826ae39d8afc3873f0c",
-        "DFStringFlagRepoGitHashDynamicString": "ec80c1acab5777fc288aa826ae39d8afc3873f0c",
-        "FStringFlipTimeStampFastString": "2025-09-19T18:03:30.516Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-19T18:03:30.516Z"
+        "FStringFlagRepoGitHashFastString": "1cfcdbb87abf99abe9793fb0100b762c7c0a877b",
+        "DFStringFlagRepoGitHashDynamicString": "1cfcdbb87abf99abe9793fb0100b762c7c0a877b",
+        "FStringFlipTimeStampFastString": "2025-09-19T18:06:02.010Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-19T18:06:02.010Z"
     }
 }
