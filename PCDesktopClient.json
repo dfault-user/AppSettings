@@ -11473,7 +11473,7 @@
         "AndroidEnalbeDisplaySizeInMillimeters": "true",
         "DFIntCreatorConfigProviderPollPeriodMilliseconds": "10000",
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
-        "DFIntTextChatCommandClientSentThrottlePermyriad": "100",
+        "DFIntTextChatCommandClientSentThrottlePermyriad": "1000",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad": "10000",
         "DFIntTextChatMessageClientSendingThrottlePermyriad": "10000",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
@@ -11881,8 +11881,6 @@
         "FFlagFCSkeletonIgnoreUnusedPartsCheckFaceControls": "True",
         "FFlagRenderClusterOctreeFixAlwaysOnTop": "True",
         "DFFlagEnableCancelTouchesOnGameViewControllerDisappear": "True",
-        "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-19T17:22:48",
-        "FFlagEnableCVSUrlForOtaPatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T17:25:04",
         "DFFlagSkipSavingEmptyCapture_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T17:30:42",
         "DFFlagRemoveTemporaryScreenshotFilePresave_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1245574316;2025-09-19T17:31:48",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -11892,6 +11890,7 @@
         "DFFlagEditableMeshFastClusterSkipLoD_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T17:52:15",
         "FFlagUITextureRendererUseNewRenderPath": "True",
         "FFlagNetworkInterface_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-19T18:24:43",
+        "FFlagEnableCVSUrlForOtaPatch": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12873,9 +12872,9 @@
         "FFlagLuaAppGamepadHoldToast2": "True",
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
-        "FStringFlagRepoGitHashFastString": "250c3f26c7c037cfb01316543f9908d2050c1acf",
-        "DFStringFlagRepoGitHashDynamicString": "250c3f26c7c037cfb01316543f9908d2050c1acf",
-        "FStringFlipTimeStampFastString": "2025-09-19T18:27:54.938Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-19T18:27:54.938Z"
+        "FStringFlagRepoGitHashFastString": "843336bcb0bd30277af4eebf94cf3dbec4e177be",
+        "DFStringFlagRepoGitHashDynamicString": "843336bcb0bd30277af4eebf94cf3dbec4e177be",
+        "FStringFlipTimeStampFastString": "2025-09-19T18:29:50.413Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-19T18:29:50.413Z"
     }
 }
