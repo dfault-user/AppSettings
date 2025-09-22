@@ -11944,8 +11944,6 @@
         "FFlagEnableClientSettingAPIInProduction_IXP": "1;Portal.StudioOtaWithCVS-1758579436;StudioOtaWithCVS;1148121372;flagbank",
         "FFlagUseClientSettingAPI_IXP": "1;Portal.StudioOtaWithCVS-1758579436;StudioOtaWithCVS;1148121372;flagbank",
         "FFlagEnableConfirmButtonIconOnPlaystation": "True",
-        "FFlagDisableRejoinGroupIdDoubleRead_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T22:27:01",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagAXFixManageOutfitPageFocusLostBehind": "True",
         "FFlagAXMigrateCommunityAvatarEntryButtonToLocalRef": "True",
         "FFlagPlayerSearchEnableOnlineFrequents": "True",
@@ -11959,6 +11957,10 @@
         "DFFlagAudioSpeechToTextRequireVoiceChat2": "True",
         "FFlagAXSavePreviousPageFromQuickMenu": "True",
         "FFlagReverbAbsorptionFieldFileFormat_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;116846991;2025-09-22T23:26:47",
+        "FFlagCoreComponentManagerEmitAssetDMKeyTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T23:29:01",
+        "FFlagLuaAppsServerTriggeredModals": "True",
+        "FFlagDisableRejoinGroupIdDoubleRead": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12459,7 +12461,6 @@
         "FFlagUGCValidateRelativeSkinningTransfer2": "True",
         "FFlagAudioApiBucketedChannelGroups": "True",
         "FFlagAXMigrateItemDetailsContainerInputBindingsToFocusNavigation2": "True",
-        "FFlagLuaAppsServerTriggeredModals": "True",
         "FStringLuaOTATag": "Release",
         "FIntServerTriggeredModalTrafficPercent": "75",
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
@@ -12946,9 +12947,9 @@
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
-        "FStringFlagRepoGitHashFastString": "f64bf6ff9285e3b8a3b36f50c82a3fa037f2c013",
-        "DFStringFlagRepoGitHashDynamicString": "f64bf6ff9285e3b8a3b36f50c82a3fa037f2c013",
-        "FStringFlipTimeStampFastString": "2025-09-22T23:29:10.006Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T23:29:10.006Z"
+        "FStringFlagRepoGitHashFastString": "971b86aeb1eab46697e0cd4fb7b318e8a5c34971",
+        "DFStringFlagRepoGitHashDynamicString": "971b86aeb1eab46697e0cd4fb7b318e8a5c34971",
+        "FStringFlipTimeStampFastString": "2025-09-22T23:32:28.161Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T23:32:28.161Z"
     }
 }
