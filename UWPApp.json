@@ -11901,8 +11901,6 @@
         "FFlagEnableAppChatFocusableFixes2": "True",
         "DFFlagRenderTrailCullingFix": "True",
         "FFlagSelfieConsentDontMountUnused": "True",
-        "DFFlagMoveOctreeChecks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T18:36:02",
-        "FFlagFallbackGenericAbuseReporting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T18:37:40",
         "FFlagSelfieConsentDialogDontUsePortal": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
@@ -11932,6 +11930,8 @@
         "FFlagAXQuickButtonsFrameShouldAlwaysExist_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T19:30:41",
         "FFlagScreenshotsigning": "True",
         "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "2000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-22T19:37:42",
+        "FFlagFallbackGenericAbuseReporting": "True",
+        "DFFlagMoveOctreeChecks": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12231,9 +12231,9 @@
         "FFlagLuaAppSupportEmptyStringFooterMetadata": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
         "FFlagAddFriendsEmptyStateUpdate": "True",
-        "FStringFlagRepoGitHashFastString": "42b7f8c02cdd733f70d87290d12fa0210318e671",
-        "DFStringFlagRepoGitHashDynamicString": "42b7f8c02cdd733f70d87290d12fa0210318e671",
-        "FStringFlipTimeStampFastString": "2025-09-22T19:38:54.729Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T19:38:54.729Z"
+        "FStringFlagRepoGitHashFastString": "8ddee34ec559ef22d72e199f7d2a2f7b4d6a1cbf",
+        "DFStringFlagRepoGitHashDynamicString": "8ddee34ec559ef22d72e199f7d2a2f7b4d6a1cbf",
+        "FStringFlipTimeStampFastString": "2025-09-22T19:44:07.814Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T19:44:07.814Z"
     }
 }
