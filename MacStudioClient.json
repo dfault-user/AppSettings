@@ -11944,8 +11944,6 @@
         "FFlagEnableClientSettingAPIInProduction_IXP": "1;Portal.StudioOtaWithCVS-1758579436;StudioOtaWithCVS;1148121372;flagbank",
         "FFlagUseClientSettingAPI_IXP": "1;Portal.StudioOtaWithCVS-1758579436;StudioOtaWithCVS;1148121372;flagbank",
         "FFlagEnableConfirmButtonIconOnPlaystation": "True",
-        "DFFlagAudioSpeechToTextRequireVoiceChat2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T22:23:13",
-        "FFlagAXSavePreviousPageFromQuickMenu_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T22:24:40",
         "FFlagDisableRejoinGroupIdDoubleRead_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T22:27:01",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagAXFixManageOutfitPageFocusLostBehind": "True",
@@ -11958,6 +11956,8 @@
         "FFlagEnableSpatialUIScalingFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T23:08:28",
         "FFlagUIBloxTruncateExperienceTileMetadataTextFooter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1782197123;2025-09-22T23:16:11",
         "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "7000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-22T23:19:33",
+        "DFFlagAudioSpeechToTextRequireVoiceChat2": "True",
+        "FFlagAXSavePreviousPageFromQuickMenu": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14092,9 +14092,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "69170b5992eda563df2511f3ff904a46ea0d4247",
-        "DFStringFlagRepoGitHashDynamicString": "69170b5992eda563df2511f3ff904a46ea0d4247",
-        "FStringFlipTimeStampFastString": "2025-09-22T23:22:55.647Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T23:22:55.647Z"
+        "FStringFlagRepoGitHashFastString": "b791fb0e8548c4732b048b967678c8c1c6f227d1",
+        "DFStringFlagRepoGitHashDynamicString": "b791fb0e8548c4732b048b967678c8c1c6f227d1",
+        "FStringFlipTimeStampFastString": "2025-09-22T23:27:15.615Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T23:27:15.615Z"
     }
 }
