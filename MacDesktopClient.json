@@ -11932,6 +11932,8 @@
         "FFlagLuaAppShowAgeRatingWithPlayButtonOnTileHoverWithHiddenMetadata": "True",
         "DFFlagISRAdjustMtu": "True",
         "DFFlagInferredCrashReportToBacktraceRegister_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:07:27",
+        "FFlagReverbAbsorptionField_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:08:34",
+        "FFlagReverbAbsorptionFieldFileFormat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:09:15",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12424,6 +12426,7 @@
         "FFlagMigrateEmptyResultsViewToFoundation": "True",
         "FFlagAddFriendsEmptyStateUpdate": "True",
         "DFFlagCLI169073": "True",
+        "FIntServerTriggeredModalTrafficPercent_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1408480884;2025-09-22T20:08:57",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12851,9 +12854,9 @@
         "FFlagLuaAppAddSchemaFieldsToGameClicks": "True",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
-        "FStringFlagRepoGitHashFastString": "59f4e16bda644f952dd2b1da995138ac0f2f0106",
-        "DFStringFlagRepoGitHashDynamicString": "59f4e16bda644f952dd2b1da995138ac0f2f0106",
-        "FStringFlipTimeStampFastString": "2025-09-22T20:11:47.623Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T20:11:47.623Z"
+        "FStringFlagRepoGitHashFastString": "fefbff4ae60bd61e30b4d82f84c30a4aec483250",
+        "DFStringFlagRepoGitHashDynamicString": "fefbff4ae60bd61e30b4d82f84c30a4aec483250",
+        "FStringFlipTimeStampFastString": "2025-09-22T20:12:52.938Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T20:12:52.938Z"
     }
 }
