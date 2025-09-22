@@ -11898,6 +11898,8 @@
         "FFlagAXMigrateResellersCardToAutofocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T16:34:41",
         "FFlagInitializeAutocompleteOnlyIfEnabledV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T16:52:00",
         "FFlagLuauOccursCheckInCommit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:10:29",
+        "FFlagEnableAppChatFocusableFixes2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:26:21",
+        "DFFlagRenderTrailCullingFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:27:54",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12775,9 +12777,10 @@
         "FFlagLuaAppAddSchemaFieldsToGameClicks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T16:51:57",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T16:57:21",
         "FFlagSmoothClusterOcclusionCulling2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:21:42",
-        "FStringFlagRepoGitHashFastString": "799d7bbec069c3f9988ea67ffa848a385754cda4",
-        "DFStringFlagRepoGitHashDynamicString": "799d7bbec069c3f9988ea67ffa848a385754cda4",
-        "FStringFlipTimeStampFastString": "2025-09-22T17:27:55.964Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T17:27:55.964Z"
+        "FFlagLuaAppShowAgeRatingWithPlayButtonOnTileHoverWithHiddenMetadata_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:26:07",
+        "FStringFlagRepoGitHashFastString": "2995b90ae1c02b86ce657c7217eb84ee3a663430",
+        "DFStringFlagRepoGitHashDynamicString": "2995b90ae1c02b86ce657c7217eb84ee3a663430",
+        "FStringFlipTimeStampFastString": "2025-09-22T17:29:10.767Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T17:29:10.767Z"
     }
 }
