@@ -11473,7 +11473,7 @@
         "AndroidEnalbeDisplaySizeInMillimeters": "true",
         "DFIntCreatorConfigProviderPollPeriodMilliseconds": "10000",
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
-        "DFIntTextChatCommandClientSentThrottlePermyriad": "2000",
+        "DFIntTextChatCommandClientSentThrottlePermyriad": "4000",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad": "10000",
         "DFIntTextChatMessageClientSendingThrottlePermyriad": "10000",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
@@ -11930,7 +11930,6 @@
         "FFlagAXMigrateItemDetailsFullToAutoFocus": "True",
         "FFlagAXUseDefaultFocusHandlerInFocusedWidgetTopContent": "True",
         "FFlagAXQuickButtonsFrameShouldAlwaysExist": "True",
-        "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "4000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-22T20:53:27",
         "FFlagEnableNoiseReductionForAudioDeviceInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:57:44",
         "FFlagEnableAutomaticGainControlForAudioDeviceInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:58:13",
         "FFlagCustomDspBaseSupportsSidechain_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T21:07:41",
@@ -12826,9 +12825,9 @@
         "FFlagAddFriendsEmptyStateUpdate": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T21:27:23",
         "FFlagAXDisableGamepadPanning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T21:50:17",
-        "FStringFlagRepoGitHashFastString": "4c84df550e3168bebba15fd6a14549f3c223ed12",
-        "DFStringFlagRepoGitHashDynamicString": "4c84df550e3168bebba15fd6a14549f3c223ed12",
-        "FStringFlipTimeStampFastString": "2025-09-22T21:53:21.024Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T21:53:21.024Z"
+        "FStringFlagRepoGitHashFastString": "6fd10912bd334b7a2239b95dd5d1e338293f6c6c",
+        "DFStringFlagRepoGitHashDynamicString": "6fd10912bd334b7a2239b95dd5d1e338293f6c6c",
+        "FStringFlipTimeStampFastString": "2025-09-22T22:01:30.337Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T22:01:30.337Z"
     }
 }
