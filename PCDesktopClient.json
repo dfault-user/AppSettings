@@ -11892,7 +11892,6 @@
         "FFlagNetworkInterface": "True",
         "FFlagIsrMainMetrics": "True",
         "FFlagLrMainMetrics": "True",
-        "FFlagLuauOccursCheckInCommit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:10:29",
         "FFlagEnableAppChatFocusableFixes2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:26:21",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAppNavGamepadRemoval": "True",
@@ -11913,6 +11912,7 @@
         "DFFlagRbxStorageRemoveOldCacheSkipEmpty_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T18:02:26",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagAXEnableItemDetailsTryOnPage2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T18:07:42",
+        "FFlagLuauOccursCheckInCommit": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12906,9 +12906,9 @@
         "FFlagLuaAppAddSchemaFieldsToGameClicks": "True",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T18:01:12",
-        "FStringFlagRepoGitHashFastString": "56c5c5bb13275ff64326472bfa38ceb0f3c216ce",
-        "DFStringFlagRepoGitHashDynamicString": "56c5c5bb13275ff64326472bfa38ceb0f3c216ce",
-        "FStringFlipTimeStampFastString": "2025-09-22T18:13:16.479Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T18:13:16.479Z"
+        "FStringFlagRepoGitHashFastString": "4bb34c609768b9cf38e85f063eccd5db72d2cb3e",
+        "DFStringFlagRepoGitHashDynamicString": "4bb34c609768b9cf38e85f063eccd5db72d2cb3e",
+        "FStringFlipTimeStampFastString": "2025-09-22T18:17:00.857Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T18:17:00.857Z"
     }
 }
