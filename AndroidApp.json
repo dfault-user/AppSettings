@@ -11930,8 +11930,6 @@
         "FFlagAXMigrateItemDetailsFullToAutoFocus": "True",
         "FFlagAXUseDefaultFocusHandlerInFocusedWidgetTopContent": "True",
         "FFlagAXQuickButtonsFrameShouldAlwaysExist": "True",
-        "FFlagSduiSingleItemCollectionAutomaticSizeProp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;655057004;2025-09-22T20:47:43",
-        "FFlagCreateConnectionInternalEarlierServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:47:48",
         "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "4000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-22T20:53:27",
         "FFlagEnableNoiseReductionForAudioDeviceInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:57:44",
         "FFlagEnableAutomaticGainControlForAudioDeviceInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:58:13",
@@ -11948,6 +11946,8 @@
         "FFlagPlayerSearchEnableOnlineFrequents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T21:37:48",
         "FFlagSduiDialogComponent4": "True",
         "FStringTextureTranscodeFidelityETC_Staged": "EAA=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T21:41:49",
+        "FFlagSduiSingleItemCollectionAutomaticSizeProp": "True",
+        "FFlagCreateConnectionInternalEarlierServer": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12853,9 +12853,10 @@
         "FFlagMigrateEmptyResultsViewToFoundation": "True",
         "FFlagAddFriendsEmptyStateUpdate": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T21:27:23",
-        "FStringFlagRepoGitHashFastString": "1de4b9dcc3bb93107f6967bc7a47e3c1cf982261",
-        "DFStringFlagRepoGitHashDynamicString": "1de4b9dcc3bb93107f6967bc7a47e3c1cf982261",
-        "FStringFlipTimeStampFastString": "2025-09-22T21:47:46.469Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T21:47:46.469Z"
+        "FFlagAXDisableGamepadPanning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T21:50:17",
+        "FStringFlagRepoGitHashFastString": "4c84df550e3168bebba15fd6a14549f3c223ed12",
+        "DFStringFlagRepoGitHashDynamicString": "4c84df550e3168bebba15fd6a14549f3c223ed12",
+        "FStringFlipTimeStampFastString": "2025-09-22T21:53:21.024Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T21:53:21.024Z"
     }
 }
