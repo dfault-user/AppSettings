@@ -11473,7 +11473,7 @@
         "AndroidEnalbeDisplaySizeInMillimeters": "true",
         "DFIntCreatorConfigProviderPollPeriodMilliseconds": "10000",
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
-        "DFIntTextChatCommandClientSentThrottlePermyriad": "4000",
+        "DFIntTextChatCommandClientSentThrottlePermyriad": "6000",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad": "10000",
         "DFIntTextChatMessageClientSendingThrottlePermyriad": "10000",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
@@ -11940,8 +11940,6 @@
         "FFlagCreateConnectionInternalEarlierServer": "True",
         "FFlagEnableAutomaticGainControlForAudioDeviceInput": "True",
         "FFlagEnableNoiseReductionForAudioDeviceInput": "True",
-        "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "6000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-22T22:03:39",
-        "FFlagAXAddOverlayFocusHandlerToPurchaseLookPrompt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T22:05:26",
         "FFlagCustomDspBaseSupportsSidechain": "True",
         "FFlagEnableClientSettingAPIInProduction_IXP": "1;Portal.StudioOtaWithCVS-1758579436;StudioOtaWithCVS;1148121372;flagbank",
         "FFlagUseClientSettingAPI_IXP": "1;Portal.StudioOtaWithCVS-1758579436;StudioOtaWithCVS;1148121372;flagbank",
@@ -11956,6 +11954,8 @@
         "FFlagAXMigrateQuickButtonsToGlobalAutoFocus": "True",
         "FStringTextureTranscodeFidelityETC": "EAA=",
         "FFlagAXFixFocusNavigationShiftingWidgetList_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T22:50:57",
+        "FFlagAXAddOverlayFocusHandlerToPurchaseLookPrompt": "True",
+        "FFlagEnableSpatialUIScalingFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T23:08:28",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12310,9 +12310,9 @@
         "FStringLuaOTATag": "Release",
         "FFlagEnableConsoleExpControlsIXPV4": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
-        "FStringFlagRepoGitHashFastString": "bc2df170b3fe114150c6e23f3a70b2609a501a41",
-        "DFStringFlagRepoGitHashDynamicString": "bc2df170b3fe114150c6e23f3a70b2609a501a41",
-        "FStringFlipTimeStampFastString": "2025-09-22T23:01:40.003Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T23:01:40.003Z"
+        "FStringFlagRepoGitHashFastString": "86c61a058d30b7d2e17e7f29d10aac3027203837",
+        "DFStringFlagRepoGitHashDynamicString": "86c61a058d30b7d2e17e7f29d10aac3027203837",
+        "FStringFlipTimeStampFastString": "2025-09-22T23:12:04.580Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T23:12:04.580Z"
     }
 }
