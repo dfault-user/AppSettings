@@ -11263,7 +11263,7 @@
         "FFlagEnablePartyNudgeAfterJoin2": "True",
         "FFlagLeaveSquadIfChatDisabled": "True",
         "DFFlagTeleportReconnect": "False",
-        "FFlagEnableAdOpportunityTracker4_PlaceFilter": "True;130739873848552;129230994638464;98118902024430;95656979989750;91733245171139;90346996348563;73708914208963;71683821699644;70454767164205;72890674951157;77638307191108;82710350236919;85265340826775;92626170235541;104548429314536;121928784820997;132935874487897;4639625707;6856061811;17267897726;18161998932;116355587227251;124195929639441;78904674093211;82409742911040;84713361590575;110160996639128;6793972085;9865722832;17385597709;124502262701729;6035872082;18126510175;71874690745115;117398147513099;12011504191;18126498684;136907445582634;139242311442282;12355337193;13771457545;14195703130;15385224902;75453361115735",
+        "FFlagEnableAdOpportunityTracker4_PlaceFilter": "True;130739873848552;129230994638464;98118902024430;95656979989750;91733245171139;90346996348563;73708914208963;71683821699644;70454767164205;72890674951157;77638307191108;82710350236919;85265340826775;92626170235541;104548429314536;121928784820997;132935874487897;4639625707;6856061811;17267897726;18161998932;116355587227251;124195929639441;78904674093211;82409742911040;84713361590575;110160996639128;6793972085;9865722832;17385597709;124502262701729;6035872082;18126510175;71874690745115;117398147513099;12011504191;18126498684;136907445582634;139242311442282;12355337193;13771457545;14195703130;15385224902;75453361115735;17625359962",
         "DFFlagSessionTrackingCrashHandlerStateHistory": "True",
         "FFlagVideoAdaptionByScreenSizeThenHarmony": "False",
         "FFlagCorrectGuiStateMouseDown": "True",
@@ -11912,6 +11912,7 @@
         "FFlagAXAddStyleToItemCardPriceLine_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1831779387;2025-09-22T18:01:49",
         "DFFlagRbxStorageRemoveOldCacheSkipEmpty_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T18:02:26",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagAXEnableItemDetailsTryOnPage2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T18:07:42",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12434,6 +12435,7 @@
         "DFFlagSolverV2CleanupPendingModelStreamingModeModels": "True",
         "FIntServerTriggeredModalTrafficPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1408480884;2025-09-22T17:38:46",
         "FFlagSolverV2RefactorReplicationStateUpdate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:50:06",
+        "FFlagMigrateEmptyResultsViewToFoundation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T18:06:44",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12903,9 +12905,9 @@
         "FFlagLuaAppAddSchemaFieldsToGameClicks": "True",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T18:01:12",
-        "FStringFlagRepoGitHashFastString": "dd140cd672d260d4e50170a242e0aedc8ede798b",
-        "DFStringFlagRepoGitHashDynamicString": "dd140cd672d260d4e50170a242e0aedc8ede798b",
-        "FStringFlipTimeStampFastString": "2025-09-22T18:07:31.369Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T18:07:31.369Z"
+        "FStringFlagRepoGitHashFastString": "906c8224ffa9d84732c6416a723063024d2a54d0",
+        "DFStringFlagRepoGitHashDynamicString": "906c8224ffa9d84732c6416a723063024d2a54d0",
+        "FStringFlipTimeStampFastString": "2025-09-22T18:09:47.611Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T18:09:47.611Z"
     }
 }
