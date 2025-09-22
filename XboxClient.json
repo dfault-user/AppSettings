@@ -11949,6 +11949,10 @@
         "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "6000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-22T22:03:39",
         "FFlagAXAddOverlayFocusHandlerToPurchaseLookPrompt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T22:05:26",
         "FFlagCustomDspBaseSupportsSidechain": "True",
+        "FFlagEnableClientSettingAPIInProduction_Staged": "True;SteadyState;10;30;Revert;true;1148121372;2025-09-22T22:17:56",
+        "FFlagEnableClientSettingAPIInProduction_IXP": "1;Portal.StudioOtaWithCVS-1758579436;StudioOtaWithCVS;1148121372;flagbank",
+        "FFlagUseClientSettingAPI_Staged": "True;SteadyState;10;30;Revert;true;1148121372;2025-09-22T22:17:56",
+        "FFlagUseClientSettingAPI_IXP": "1;Portal.StudioOtaWithCVS-1758579436;StudioOtaWithCVS;1148121372;flagbank",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12303,9 +12307,9 @@
         "FStringLuaOTATag": "Release",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T21:27:23",
         "FFlagEnableConsoleExpControlsIXPV4": "True",
-        "FStringFlagRepoGitHashFastString": "884a62b6235a8c121fe8a7d380de045355405f99",
-        "DFStringFlagRepoGitHashDynamicString": "884a62b6235a8c121fe8a7d380de045355405f99",
-        "FStringFlipTimeStampFastString": "2025-09-22T22:16:22.712Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T22:16:22.712Z"
+        "FStringFlagRepoGitHashFastString": "aa91920faf4aa3f2f4c509748d4f31f6a7102a08",
+        "DFStringFlagRepoGitHashDynamicString": "aa91920faf4aa3f2f4c509748d4f31f6a7102a08",
+        "FStringFlipTimeStampFastString": "2025-09-22T22:21:56.793Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T22:21:56.793Z"
     }
 }
