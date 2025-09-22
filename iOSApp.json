@@ -11892,14 +11892,16 @@
         "FFlagNetworkInterface": "True",
         "FFlagIsrMainMetrics": "True",
         "FFlagLrMainMetrics": "True",
-        "FFlagFFlagFixLayeredSorting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T16:33:08",
-        "FFlagAXFixBuyActionBarNotAppearing2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T16:33:49",
-        "FFlagAXMigrateResellersCardToAutofocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T16:34:41",
         "FFlagInitializeAutocompleteOnlyIfEnabledV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T16:52:00",
         "FFlagLuauOccursCheckInCommit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:10:29",
         "FFlagEnableAppChatFocusableFixes2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:26:21",
         "DFFlagRenderTrailCullingFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:27:54",
         "FFlagEnableAppNavGamepadRemoval": "True",
+        "FFlagSelfieConsentDontMountUnused_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:34:03",
+        "FFlagSelfieConsentDialogDontUsePortal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:35:14",
+        "FFlagAXFixBuyActionBarNotAppearing2": "True",
+        "FFlagAXMigrateResellersCardToAutofocus": "True",
+        "FFlagFFlagFixLayeredSorting": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12779,9 +12781,9 @@
         "FFlagSmoothClusterOcclusionCulling2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:21:42",
         "FFlagLuaAppShowAgeRatingWithPlayButtonOnTileHoverWithHiddenMetadata_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:26:07",
         "FFlagLuaAppSupportEmptyStringFooterMetadata_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T17:28:14",
-        "FStringFlagRepoGitHashFastString": "2f5b32944a5f1ac670eb97ac458a9abf95f8474d",
-        "DFStringFlagRepoGitHashDynamicString": "2f5b32944a5f1ac670eb97ac458a9abf95f8474d",
-        "FStringFlipTimeStampFastString": "2025-09-22T17:32:38.434Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T17:32:38.434Z"
+        "FStringFlagRepoGitHashFastString": "186c9a6512598111285158aea166b6b39499a6b3",
+        "DFStringFlagRepoGitHashDynamicString": "186c9a6512598111285158aea166b6b39499a6b3",
+        "FStringFlipTimeStampFastString": "2025-09-22T17:37:15.082Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T17:37:15.082Z"
     }
 }
