@@ -11939,6 +11939,8 @@
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagCreateConnectionInternalEarlierServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:47:48",
+        "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:52:17",
+        "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "4000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-22T20:53:27",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
@@ -12926,9 +12928,9 @@
         "FFlagLuaAppAddSchemaFieldsToGameClicks": "True",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
-        "FStringFlagRepoGitHashFastString": "3daca669ba4745c38b477f247691f414b37d9782",
-        "DFStringFlagRepoGitHashDynamicString": "3daca669ba4745c38b477f247691f414b37d9782",
-        "FStringFlipTimeStampFastString": "2025-09-22T20:51:37.344Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T20:51:37.344Z"
+        "FStringFlagRepoGitHashFastString": "b459cc107576f59cf7e059aa7d7fb6adda7da27a",
+        "DFStringFlagRepoGitHashDynamicString": "b459cc107576f59cf7e059aa7d7fb6adda7da27a",
+        "FStringFlipTimeStampFastString": "2025-09-22T20:57:20.266Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T20:57:20.266Z"
     }
 }
