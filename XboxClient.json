@@ -11941,6 +11941,8 @@
         "FFlagCreateConnectionInternalEarlierServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:47:48",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:52:17",
         "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "4000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-22T20:53:27",
+        "FFlagEnableNoiseReductionForAudioDeviceInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:57:44",
+        "FFlagEnableAutomaticGainControlForAudioDeviceInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-22T20:58:13",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12293,9 +12295,9 @@
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
         "FStringLuaOTATag": "Release",
-        "FStringFlagRepoGitHashFastString": "b459cc107576f59cf7e059aa7d7fb6adda7da27a",
-        "DFStringFlagRepoGitHashDynamicString": "b459cc107576f59cf7e059aa7d7fb6adda7da27a",
-        "FStringFlipTimeStampFastString": "2025-09-22T20:57:20.266Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-22T20:57:20.266Z"
+        "FStringFlagRepoGitHashFastString": "247dbb3b0273ec008133d27827a441de40c02116",
+        "DFStringFlagRepoGitHashDynamicString": "247dbb3b0273ec008133d27827a441de40c02116",
+        "FStringFlipTimeStampFastString": "2025-09-22T21:01:40.951Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-22T21:01:40.951Z"
     }
 }
