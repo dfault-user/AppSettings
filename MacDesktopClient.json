@@ -11957,9 +11957,6 @@
         "FFlagUIBloxTruncateExperienceTileMetadataTextFooter": "True",
         "FFlagCoreComponentManagerEmitAssetDMKeyTelemetry": "True",
         "FIntServerTriggeredModalTrafficPercent": "100",
-        "FFlagExtendLightRangeTo120HideRolloutPropertyAndEnable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1332787586;2025-09-23T16:14:11",
-        "FFlagExtendedLightRangesFixDirtyCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1332787586;2025-09-23T16:14:11",
-        "FFlagIncreaseEffectiveLightGridRadius_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1332787586;2025-09-23T16:14:11",
         "FFlagFixBlurryImages_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;949470110;2025-09-23T16:18:12",
         "FFlagFoundationPseudoChildSelectors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T16:26:19",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
@@ -11974,8 +11971,12 @@
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagCorrectGuiStateMouseDownAndroid_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;504183509;2025-09-23T17:12:25",
         "FFlagCachelessPluginLoading2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:13:37",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
+        "FFlagExtendLightRangeTo120HideRolloutPropertyAndEnable": "True",
+        "FFlagExtendedLightRangesFixDirtyCrash": "True",
+        "FFlagIncreaseEffectiveLightGridRadius": "True",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagAXDoNotUnrenderQuickMenuRobuxButtons_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:17:58",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -12884,9 +12885,9 @@
         "FFlagLuaAppAddSchemaFieldsToGameClicks": "True",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
-        "FStringFlagRepoGitHashFastString": "e11ef36c9be50da37125f41a6ef9ef9789423fdf",
-        "DFStringFlagRepoGitHashDynamicString": "e11ef36c9be50da37125f41a6ef9ef9789423fdf",
-        "FStringFlipTimeStampFastString": "2025-09-23T17:17:23.335Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T17:17:23.335Z"
+        "FStringFlagRepoGitHashFastString": "eb61ea8e13c7a105c93e2d1151cd4a8671c2cbbf",
+        "DFStringFlagRepoGitHashDynamicString": "eb61ea8e13c7a105c93e2d1151cd4a8671c2cbbf",
+        "FStringFlipTimeStampFastString": "2025-09-23T17:19:47.556Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T17:19:47.556Z"
     }
 }
