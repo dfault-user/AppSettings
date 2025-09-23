@@ -11981,9 +11981,6 @@
         "FFlagAppChatConversationOverlayRefactor": "True",
         "FFlagAppChatIllustrationsUpdate": "True",
         "FFlagAddFriendsEmptyStateUpdate": "True",
-        "FFlagAXCatalogCategoryPillsShowAllCategory_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:40:24",
-        "FFlagAXCategoryPillAnimationsUserMotionSettings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:40:39",
-        "FFlagAXDisableCategoryPillsOnCatalogSearch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:44:33",
         "FFlagUIBloxFixModalBottomSheetSelectable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:50:28",
         "FFlagChatIntegrationFixShortcut_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:50:57",
         "FFlagCommunicationsFixLastInputMode": "True",
@@ -11993,7 +11990,6 @@
         "FFlagAXMigrateItemDetailsContainerInputBindingsToFocusNavigation2": "True",
         "FFlagBuyActionBarShouldNotUnrenderInFullscreenMode": "True",
         "FFlagAXRemoveTryOnManagerAvatarScreen_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:03:03",
-        "DFFlagAndroidDebugHeapTelemetry_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:10:46",
         "FFlagAXCategoryPillColorAnimation": "True",
         "FFlagAXCategoryPillPositionAnimation": "True",
         "FFlagAXCategoryPillPadding": "True",
@@ -12005,6 +12001,9 @@
         "DFFlagCLI157269_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:28:06",
         "DFIntISRInstanceBlockTimeoutWorldSteps_Staged": "2400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:31:08",
         "FFlagFixIntervalStatStartSamplingThisUse_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:38:57",
+        "FFlagAXCatalogCategoryPillsShowAllCategory": "True",
+        "FFlagAXCategoryPillAnimationsUserMotionSettings": "True",
+        "FFlagAXDisableCategoryPillsOnCatalogSearch": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12914,9 +12913,9 @@
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
-        "FStringFlagRepoGitHashFastString": "b6a5564a254dc204a972a480da16a7e989622645",
-        "DFStringFlagRepoGitHashDynamicString": "b6a5564a254dc204a972a480da16a7e989622645",
-        "FStringFlipTimeStampFastString": "2025-09-23T19:40:47.931Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:40:47.931Z"
+        "FStringFlagRepoGitHashFastString": "6ff93168d9ac3acf987b56ac03de93c9c485cca3",
+        "DFStringFlagRepoGitHashDynamicString": "6ff93168d9ac3acf987b56ac03de93c9c485cca3",
+        "FStringFlipTimeStampFastString": "2025-09-23T19:47:41.971Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:47:41.971Z"
     }
 }
