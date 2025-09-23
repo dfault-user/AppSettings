@@ -12003,6 +12003,7 @@
         "FFlagFixHapticWaveformReplication": "True",
         "FFlagFixIntervalStatsSynchronization_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:26:17",
         "AllowVideoPreRoll": "True",
+        "DFIntISRInstanceBlockTimeoutWorldSteps_Staged": "2400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:31:08",
         "CatalogPromoAssetId": "-1",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
         "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
@@ -12909,9 +12910,9 @@
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
         "DFFlagWrapDeformerReportTelemetryStat2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:14:48",
         "EnablePasskeysForGalaxyBuild": "true",
-        "FStringFlagRepoGitHashFastString": "e03926828642e810d3b8fb0899d4e666c0cf94fc",
-        "DFStringFlagRepoGitHashDynamicString": "e03926828642e810d3b8fb0899d4e666c0cf94fc",
-        "FStringFlipTimeStampFastString": "2025-09-23T19:31:31.460Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:31:31.460Z"
+        "FStringFlagRepoGitHashFastString": "f784df5bc1af047d29d584f4ee48d73876d050d7",
+        "DFStringFlagRepoGitHashDynamicString": "f784df5bc1af047d29d584f4ee48d73876d050d7",
+        "FStringFlipTimeStampFastString": "2025-09-23T19:33:43.662Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:33:43.662Z"
     }
 }

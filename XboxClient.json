@@ -12003,6 +12003,7 @@
         "FFlagFixHapticWaveformReplication": "True",
         "FFlagFixIntervalStatsSynchronization_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:26:17",
         "DFFlagCLI157269_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:28:06",
+        "DFIntISRInstanceBlockTimeoutWorldSteps_Staged": "2400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:31:08",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12357,9 +12358,9 @@
         "FFlagEnableConsoleExpControlsIXPV4": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
         "DFFlagTeleportReconnect3": "True",
-        "FStringFlagRepoGitHashFastString": "e03926828642e810d3b8fb0899d4e666c0cf94fc",
-        "DFStringFlagRepoGitHashDynamicString": "e03926828642e810d3b8fb0899d4e666c0cf94fc",
-        "FStringFlipTimeStampFastString": "2025-09-23T19:31:31.460Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:31:31.460Z"
+        "FStringFlagRepoGitHashFastString": "f784df5bc1af047d29d584f4ee48d73876d050d7",
+        "DFStringFlagRepoGitHashDynamicString": "f784df5bc1af047d29d584f4ee48d73876d050d7",
+        "FStringFlipTimeStampFastString": "2025-09-23T19:33:43.662Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:33:43.662Z"
     }
 }

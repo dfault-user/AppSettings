@@ -12003,6 +12003,7 @@
         "FFlagFixHapticWaveformReplication": "True",
         "FFlagFixIntervalStatsSynchronization_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:26:17",
         "DFFlagCLI157269_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:28:06",
+        "DFIntISRInstanceBlockTimeoutWorldSteps_Staged": "2400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:31:08",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12304,9 +12305,9 @@
         "FFlagAXDisableGamepadPanning": "True",
         "DFFlagTeleportReconnect3": "True",
         "DFFlagWrapDeformerReportTelemetryStat2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:14:48",
-        "FStringFlagRepoGitHashFastString": "e03926828642e810d3b8fb0899d4e666c0cf94fc",
-        "DFStringFlagRepoGitHashDynamicString": "e03926828642e810d3b8fb0899d4e666c0cf94fc",
-        "FStringFlipTimeStampFastString": "2025-09-23T19:31:31.460Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:31:31.460Z"
+        "FStringFlagRepoGitHashFastString": "2f4b8c76b0d11e8aae78b3b913622d53ab89bc42",
+        "DFStringFlagRepoGitHashDynamicString": "2f4b8c76b0d11e8aae78b3b913622d53ab89bc42",
+        "FStringFlipTimeStampFastString": "2025-09-23T19:33:26.950Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:33:26.950Z"
     }
 }
