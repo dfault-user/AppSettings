@@ -11966,11 +11966,7 @@
         "FFlagFoundationPseudoChildSelectors": "True",
         "FFlagEnableAudioSpeechToText_PlaceFilter": "True;9938675423;13167650112;9005367667;78959878729166;582016015;7422332971;112433694682350;122586268974155;109845637820158;6306263293;125866476610270;112278540120784;8356562067;134382395125163;8067158534;72526143593091;1135730696;136647839294023;131102898348000;126680609644023;124667932046810;84658226947466;91742697259696;110380497456799;96740030343643;6022383883;94466637694620;109757326876041;116894808521724;2768379856;2534724415;75034828826232;135628461339789",
         "FStringLuaOTATag": "Release",
-        "FFlagUIEditorActionURI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:55:44",
         "FFlagLuaAppAddSchemaFieldsToGameClicks": "True",
-        "FFlagColorPickerUseGridLayout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:57:46",
-        "FFlagAXMigrateItemDetailsContainerInputBindingsToFocusNavigation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:58:46",
-        "FFlagBuyActionBarShouldNotUnrenderInFullscreenMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:59:33",
         "FStringTutorialUpsellPlaceId": "110558303662903",
         "DFIntAcousticSimulationForegroundCost": "100",
         "FIntOcclusionSolverInitialMaxSearchIterations": "400",
@@ -11998,6 +11994,11 @@
         "FFlagChatIntegrationFixShortcut_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:50:57",
         "FFlagCommunicationsFixLastInputMode": "True",
         "FFlagReCacheIconsOnThemeChange": "True",
+        "FFlagColorPickerUseGridLayout": "True",
+        "FFlagUIEditorActionURI": "True",
+        "FFlagAXMigrateItemDetailsContainerInputBindingsToFocusNavigation2": "True",
+        "FFlagBuyActionBarShouldNotUnrenderInFullscreenMode": "True",
+        "FFlagAXRemoveTryOnManagerAvatarScreen_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:03:03",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12353,9 +12354,9 @@
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
         "DFFlagTeleportReconnect3": "True",
         "FFlagReconnectToSameServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:07:04",
-        "FStringFlagRepoGitHashFastString": "976451931c2208d065fdf46ccdb6e2afece29e9a",
-        "DFStringFlagRepoGitHashDynamicString": "976451931c2208d065fdf46ccdb6e2afece29e9a",
-        "FStringFlipTimeStampFastString": "2025-09-23T19:03:38.518Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:03:38.518Z"
+        "FStringFlagRepoGitHashFastString": "dd61b659dceadc3732afc940b6c7b16719465cb2",
+        "DFStringFlagRepoGitHashDynamicString": "dd61b659dceadc3732afc940b6c7b16719465cb2",
+        "FStringFlipTimeStampFastString": "2025-09-23T19:05:55.886Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:05:55.886Z"
     }
 }
