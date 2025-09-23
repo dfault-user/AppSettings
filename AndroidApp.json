@@ -11957,7 +11957,6 @@
         "FFlagUIBloxTruncateExperienceTileMetadataTextFooter": "True",
         "FFlagCoreComponentManagerEmitAssetDMKeyTelemetry": "True",
         "FIntServerTriggeredModalTrafficPercent": "25",
-        "CaptureCountersIntervalInMinutes": "5",
         "AxisAdornmentGrabSize": "12",
         "FFlagLuaAppAddSortDataToPymkCarouselClicks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T16:52:47",
         "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformEnableChipSocialRow;1703536934;dev_controlled",
@@ -11982,6 +11981,8 @@
         "FFlagFoundationPseudoChildSelectors": "True",
         "AllowVideoPreRoll": "True",
         "FFlagEnableAudioSpeechToText_PlaceFilter": "True;9938675423;13167650112;9005367667;78959878729166;582016015;7422332971;112433694682350;122586268974155;109845637820158;6306263293;125866476610270;112278540120784;8356562067;134382395125163;8067158534;72526143593091;1135730696;136647839294023;131102898348000;126680609644023;124667932046810;84658226947466;91742697259696;110380497456799;96740030343643;6022383883;94466637694620;109757326876041;116894808521724;2768379856;2534724415;75034828826232",
+        "FStringLuaOTATag": "Release",
+        "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
@@ -12876,7 +12877,6 @@
         "FFlagAddRedeemTile2": "True",
         "FIntOcclusionWorkerThreadCount": "2",
         "FIntEnableCVSUrlForOtaPatchPercentage": "5",
-        "FStringLuaOTATag": "Release",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Portal.Engine.Voice.ClientRewrite.Android.Crash.Investigation-1758306882;Engine.Voice.ClientRewrite.Android.Crash.Investigation;1259266197;flagbank",
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Portal.Engine.Voice.ClientRewrite.Android.Crash.Investigation-1758306882;Engine.Voice.ClientRewrite.Android.Crash.Investigation;1259266197;flagbank",
         "FFlagLuaAppAddSchemaFieldsToGameClicks": "True",
@@ -12892,9 +12892,9 @@
         "DFIntDiskUsageNegativeExperimenHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:07:41",
         "FFlagEnableNegativeDiskSizeExperiment_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:09:41",
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;796391450;2025-09-23T17:24:29",
-        "FStringFlagRepoGitHashFastString": "2c38d3c084088424953e540d289827c8d18df57e",
-        "DFStringFlagRepoGitHashDynamicString": "2c38d3c084088424953e540d289827c8d18df57e",
-        "FStringFlipTimeStampFastString": "2025-09-23T17:41:08.304Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T17:41:08.304Z"
+        "FStringFlagRepoGitHashFastString": "fb2577616e5d50969bd09f1a1420be04d91850fc",
+        "DFStringFlagRepoGitHashDynamicString": "fb2577616e5d50969bd09f1a1420be04d91850fc",
+        "FStringFlipTimeStampFastString": "2025-09-23T17:42:49.473Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T17:42:49.473Z"
     }
 }
