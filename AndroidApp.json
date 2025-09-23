@@ -11471,7 +11471,7 @@
         "AndroidEnalbeDisplaySizeInMillimeters": "true",
         "DFIntCreatorConfigProviderPollPeriodMilliseconds": "10000",
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
-        "DFIntTextChatCommandClientSentThrottlePermyriad": "7000",
+        "DFIntTextChatCommandClientSentThrottlePermyriad": "8500",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad": "10000",
         "DFIntTextChatMessageClientSendingThrottlePermyriad": "10000",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
@@ -11957,7 +11957,6 @@
         "FFlagUIBloxTruncateExperienceTileMetadataTextFooter": "True",
         "FFlagCoreComponentManagerEmitAssetDMKeyTelemetry": "True",
         "FIntServerTriggeredModalTrafficPercent": "25",
-        "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "8500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-23T16:09:04",
         "FFlagExtendLightRangeTo120HideRolloutPropertyAndEnable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1332787586;2025-09-23T16:14:11",
         "FFlagExtendedLightRangesFixDirtyCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1332787586;2025-09-23T16:14:11",
         "FFlagIncreaseEffectiveLightGridRadius_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1332787586;2025-09-23T16:14:11",
@@ -11970,6 +11969,8 @@
         "FStringTutorialUpsellPlaceId_Staged": "110558303662903;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:00:23",
         "FIntOcclusionSolverInitialMaxSearchIterations_Staged": "400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:03:02",
         "DFIntAcousticSimulationForegroundCost_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:03:24",
+        "FFlagVideoWinHwEncoderFirstSampleMarker_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:10:51",
+        "FixIsolatedGmaSdkCleanDisconnect": "true",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -12880,9 +12881,9 @@
         "FStringAvailableDiskLayer_Staged": "ConsumerPlatforms.DiskUsageLayer;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:05:56",
         "DFIntDiskUsageNegativeExperimenHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:07:41",
         "FFlagEnableNegativeDiskSizeExperiment_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:09:41",
-        "FStringFlagRepoGitHashFastString": "fe622014ce4679f4d17ed39244d35b03de4e21a2",
-        "DFStringFlagRepoGitHashDynamicString": "fe622014ce4679f4d17ed39244d35b03de4e21a2",
-        "FStringFlipTimeStampFastString": "2025-09-23T17:10:52.487Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T17:10:52.487Z"
+        "FStringFlagRepoGitHashFastString": "94c0d4097853f54f74db8d053981524c625a762d",
+        "DFStringFlagRepoGitHashDynamicString": "94c0d4097853f54f74db8d053981524c625a762d",
+        "FStringFlipTimeStampFastString": "2025-09-23T17:13:06.669Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T17:13:06.669Z"
     }
 }
