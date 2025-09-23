@@ -5360,7 +5360,7 @@
         "DFFlagFixIrradianceUpdateNew": "True",
         "FFlagUGCValidateConfigurableAssetTriangleLimits": "True",
         "FFlagUGCValidateFullBodyBoundsAvatarRules": "True",
-        "DFIntDataStoreFixedRequestLimit_PlaceFilter": "1000;132036971106755;116320071253307;104444073817863;130974645124952;126269503292148;102760804656802;4938510491;99909118998265;93984752687350;82104165360615;107544716231329;128198979773761;99740816493002;101550875254117;102156282238046;116556758117771;117521507220414;7950034111;113262343048127;139637286626339;123028864361262;132906756396708;99415473651988;126915065935516;88896625769071;75493254287809;99110643161236;116605021848414;78880563336454;78611602637625;132493759931413;127626589430786;110937580440810;124805644313664",
+        "DFIntDataStoreFixedRequestLimit_PlaceFilter": "1000;132036971106755;116320071253307;104444073817863;130974645124952;126269503292148;102760804656802;4938510491;99909118998265;93984752687350;82104165360615;107544716231329;128198979773761;99740816493002;101550875254117;102156282238046;116556758117771;117521507220414;7950034111;113262343048127;139637286626339;123028864361262;132906756396708;124805644313664",
         "FFlagRibbonConfigBetterErrorHandling": "True",
         "FFlagUpdateUITabLuaRibbon": "True",
         "FFlagUseTooltipSizeAttachmentFixes": "True",
@@ -11966,8 +11966,6 @@
         "FFlagFoundationPseudoChildSelectors": "True",
         "FFlagEnableAudioSpeechToText_PlaceFilter": "True;9938675423;13167650112;9005367667;78959878729166;582016015;7422332971;112433694682350;122586268974155;109845637820158;6306263293;125866476610270;112278540120784;8356562067;134382395125163;8067158534;72526143593091;1135730696;136647839294023;131102898348000;126680609644023;124667932046810;84658226947466;91742697259696;110380497456799;96740030343643;6022383883;94466637694620;109757326876041;116894808521724;2768379856;2534724415;75034828826232;135628461339789",
         "FStringLuaOTATag": "Release",
-        "FFlagCommunicationsFixLastInputMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:50:37",
-        "FFlagReCacheIconsOnThemeChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:54:34",
         "FFlagUIEditorActionURI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:55:44",
         "FFlagLuaAppAddSchemaFieldsToGameClicks": "True",
         "FFlagColorPickerUseGridLayout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:57:46",
@@ -11998,6 +11996,8 @@
         "FFlagAXDisableCategoryPillsOnCatalogSearch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:44:33",
         "FFlagUIBloxFixModalBottomSheetSelectable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:50:28",
         "FFlagChatIntegrationFixShortcut_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:50:57",
+        "FFlagCommunicationsFixLastInputMode": "True",
+        "FFlagReCacheIconsOnThemeChange": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14127,9 +14127,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "4737c8cf2c05bddc20bf9263e3b5e35ad1b97cc9",
-        "DFStringFlagRepoGitHashDynamicString": "4737c8cf2c05bddc20bf9263e3b5e35ad1b97cc9",
-        "FStringFlipTimeStampFastString": "2025-09-23T18:54:10.415Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T18:54:10.415Z"
+        "FStringFlagRepoGitHashFastString": "438e7ce9737697a34ab0ca87a8fb2dd0d8115dfe",
+        "DFStringFlagRepoGitHashDynamicString": "438e7ce9737697a34ab0ca87a8fb2dd0d8115dfe",
+        "FStringFlipTimeStampFastString": "2025-09-23T19:01:53.335Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:01:53.335Z"
     }
 }
