@@ -13691,6 +13691,7 @@
         "FFlagLuauUnfinishedRepeatAncestryFix": "True",
         "DFFlagTeleportReconnect3": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
+        "FFlagDebugLuaAppValidateProps": "True",
         "FFlagVoxelGridFixRegionChanged": "True",
         "FFlagGameBasicSettingsFramerateCap5": "True",
         "FFlagVoiceChatFixRejoin": "True",
@@ -14097,10 +14098,10 @@
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;167213392;flagbank",
         "DFIntLoadTestParticipationPerMillionUsers_PlaceFilter": "1000000;109983668079237",
-        "DFIntLoadTestStartTimeUnix_PlaceFilter": "1;109983668079237",
+        "DFIntLoadTestStartTimeUnix_PlaceFilter": "1758652500;109983668079237",
         "DFIntRobloxTelemetryLoadTestEndThrottleHundredthsPercent_PlaceFilter": "100;109983668079237",
         "DFIntRobloxTelemetryLoadTestStartThrottleHundredthsPercent_PlaceFilter": "100;109983668079237",
-        "DFStringLoadTestArguments_PlaceFilter": "1000|1000|3345489151:1;109983668079237",
+        "DFStringLoadTestArguments_PlaceFilter": "0|1|3394964604:1,3394964736:1,3394965881:1,3394969112:1;109983668079237",
         "DFStringLoadTestName_PlaceFilter": "get_product_info_load_test_simple;109983668079237",
         "FFlagVoiceAddWebrtClosedTransitionEnabled": "True",
         "FFlagSolverV2RefactorReplicationStateUpdate": "True",
@@ -14108,7 +14109,7 @@
         "FFlagAddFriendsEmptyStateUpdate": "True",
         "DFFlagCLI169073": "True",
         "FFlagAXDisableGamepadPanning": "True",
-        "FFlagDebugLuaAppValidateProps": "True",
+        "DFIntProductInfoBatchingMaxSize_PlaceFilter": "1;109983668079237",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
         "FLogCloseDataModel": "6",
@@ -14142,9 +14143,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "71904737a8ed41c5dbbae35db75a2a6810a94525",
-        "DFStringFlagRepoGitHashDynamicString": "71904737a8ed41c5dbbae35db75a2a6810a94525",
-        "FStringFlipTimeStampFastString": "2025-09-23T18:13:49.725Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T18:13:49.725Z"
+        "FStringFlagRepoGitHashFastString": "b26266a93cf4a3ce4a2825cee7b7a3e14b76ddff",
+        "DFStringFlagRepoGitHashDynamicString": "b26266a93cf4a3ce4a2825cee7b7a3e14b76ddff",
+        "FStringFlipTimeStampFastString": "2025-09-23T18:15:39.864Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T18:15:39.864Z"
     }
 }
