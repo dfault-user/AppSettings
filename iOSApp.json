@@ -11964,7 +11964,6 @@
         "FFlagIncreaseEffectiveLightGridRadius": "True",
         "FFlagFixBlurryImages": "True",
         "FFlagFoundationPseudoChildSelectors": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagEnableAudioSpeechToText_PlaceFilter": "True;9938675423;13167650112;9005367667;78959878729166;582016015;7422332971;112433694682350;122586268974155;109845637820158;6306263293;125866476610270;112278540120784;8356562067;134382395125163;8067158534;72526143593091;1135730696;136647839294023;131102898348000;126680609644023;124667932046810;84658226947466;91742697259696;110380497456799;96740030343643;6022383883;94466637694620;109757326876041;116894808521724;2768379856;2534724415;75034828826232;135628461339789",
         "FStringLuaOTATag": "Release",
         "FFlagCommunicationsFixLastInputMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:50:37",
@@ -11972,7 +11971,7 @@
         "FFlagUIEditorActionURI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:55:44",
         "FFlagLuaAppAddSchemaFieldsToGameClicks": "True",
         "FFlagColorPickerUseGridLayout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:57:46",
-        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
         "FFlagBuyActionBarShouldNotUnrenderInFullscreenMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:59:33",
         "FStringTutorialUpsellPlaceId": "110558303662903",
         "DFIntAcousticSimulationForegroundCost": "100",
@@ -11993,6 +11992,8 @@
         "FFlagLuaAppRecommendedGamesCollectionCarousel": "True",
         "FFlagAppChatConversationOverlayRefactor": "True",
         "FFlagAppChatIllustrationsUpdate": "True",
+        "FFlagAddFriendsEmptyStateUpdate": "True",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12863,13 +12864,12 @@
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "FFlagMigrateEmptyResultsViewToFoundation": "True",
-        "FFlagAddFriendsEmptyStateUpdate": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
         "FFlagAXDisableGamepadPanning": "True",
         "FFlagMemoizePersonButton2": "True",
-        "FStringFlagRepoGitHashFastString": "01e98392745949feec93a9506106724f0b51dc92",
-        "DFStringFlagRepoGitHashDynamicString": "01e98392745949feec93a9506106724f0b51dc92",
-        "FStringFlipTimeStampFastString": "2025-09-23T18:37:36.056Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T18:37:36.056Z"
+        "FStringFlagRepoGitHashFastString": "7154fa0d3248184440078f1a544fdad9f80a0dca",
+        "DFStringFlagRepoGitHashDynamicString": "7154fa0d3248184440078f1a544fdad9f80a0dca",
+        "FStringFlipTimeStampFastString": "2025-09-23T18:41:02.242Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T18:41:02.242Z"
     }
 }
