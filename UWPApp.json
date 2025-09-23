@@ -11981,8 +11981,6 @@
         "FFlagAppChatConversationOverlayRefactor": "True",
         "FFlagAppChatIllustrationsUpdate": "True",
         "FFlagAddFriendsEmptyStateUpdate": "True",
-        "FFlagUIBloxFixModalBottomSheetSelectable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:50:28",
-        "FFlagChatIntegrationFixShortcut_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:50:57",
         "FFlagCommunicationsFixLastInputMode": "True",
         "FFlagReCacheIconsOnThemeChange": "True",
         "FFlagColorPickerUseGridLayout": "True",
@@ -11994,8 +11992,6 @@
         "FFlagAXCategoryPillPositionAnimation": "True",
         "FFlagAXCategoryPillPadding": "True",
         "FFlagVideoWinEncodeSampleTracking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:19:56",
-        "DFFlagAndroidOomScoreTelemetry_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:20:42",
-        "FFlagAndroidTrimMemoryCounters_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:23:14",
         "FFlagFixHapticWaveformReplication": "True",
         "FFlagFixIntervalStatsSynchronization_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:26:17",
         "DFFlagCLI157269_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:28:06",
@@ -12005,6 +12001,8 @@
         "FFlagAXCategoryPillAnimationsUserMotionSettings": "True",
         "FFlagAXDisableCategoryPillsOnCatalogSearch": "True",
         "AndroidAddActivityManagerMemoryClassifications": "true",
+        "FFlagChatIntegrationFixShortcut": "True",
+        "FFlagUIBloxFixModalBottomSheetSelectable": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12306,9 +12304,9 @@
         "FFlagAXDisableGamepadPanning": "True",
         "DFFlagTeleportReconnect3": "True",
         "DFFlagWrapDeformerReportTelemetryStat2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:14:48",
-        "FStringFlagRepoGitHashFastString": "ac66836b808e54fc2dbd7e338e1c9adc17ae6622",
-        "DFStringFlagRepoGitHashDynamicString": "ac66836b808e54fc2dbd7e338e1c9adc17ae6622",
-        "FStringFlipTimeStampFastString": "2025-09-23T19:51:53.286Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:51:53.286Z"
+        "FStringFlagRepoGitHashFastString": "0ab235651165efa7bbdc4a9baa89010df86826b0",
+        "DFStringFlagRepoGitHashDynamicString": "0ab235651165efa7bbdc4a9baa89010df86826b0",
+        "FStringFlipTimeStampFastString": "2025-09-23T19:57:38.544Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:57:38.544Z"
     }
 }
