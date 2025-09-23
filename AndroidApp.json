@@ -12021,6 +12021,9 @@
         "DFFlagISRPerfPass_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:26:38",
         "FFlagLuauRefineDistributesOverUnions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:29:38",
         "FStringEngineVoiceSdpCompressionIxpLayer_Staged": "Engine.Voice.Exposure.4;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:27:16",
+        "DFFlagVideoWinEncodeUseComPtrForSw_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:30:26",
+        "FFlagISREarlyFilterAnimatedJoints_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:31:34",
+        "DFFlagISRDoNotCrashCanSkipNewInstanceCheckIfPropNull_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:32:46",
         "CatalogPromoAssetId": "-1",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
         "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
@@ -12927,9 +12930,9 @@
         "EnablePasskeysForGalaxyBuild": "true",
         "FFlagVoiceAddWebrtClosedTransitionEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T20:35:48",
         "FIntEnableCVSUrlForOtaPatchPercentage_Staged": "25;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T20:49:53",
-        "FStringFlagRepoGitHashFastString": "772b3e95da6b19fa0627f011550c2bbb11c7d14d",
-        "DFStringFlagRepoGitHashDynamicString": "772b3e95da6b19fa0627f011550c2bbb11c7d14d",
-        "FStringFlipTimeStampFastString": "2025-09-23T21:31:53.884Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T21:31:53.884Z"
+        "FStringFlagRepoGitHashFastString": "ec4b44cced66026a36bb3cdd460624ccf0476a21",
+        "DFStringFlagRepoGitHashDynamicString": "ec4b44cced66026a36bb3cdd460624ccf0476a21",
+        "FStringFlipTimeStampFastString": "2025-09-23T21:35:32.462Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T21:35:32.462Z"
     }
 }
