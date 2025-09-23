@@ -12890,18 +12890,18 @@
         "FIntOcclusionWorkerThreadCount": "2",
         "FFlagDisableIapFallbackIos": "True",
         "FFlagEnableNSENotifSettingLogging": "True",
-        "FIntEnableCVSUrlForOtaPatchPercentage": "10",
+        "FIntEnableCVSUrlForOtaPatchPercentage": "25",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "FFlagMigrateEmptyResultsViewToFoundation": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
         "FFlagAXDisableGamepadPanning": "True",
         "FFlagMemoizePersonButton2": "True",
-        "FIntEnableCVSUrlForOtaPatchPercentage_Staged": "25;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T20:49:53",
         "FFlagEnableSocialSelfProfileViewExposureEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1162561725;2025-09-23T21:47:35",
-        "FStringFlagRepoGitHashFastString": "e47ce57b3e63fa4f120cb69b90834a70c84bf12f",
-        "DFStringFlagRepoGitHashDynamicString": "e47ce57b3e63fa4f120cb69b90834a70c84bf12f",
-        "FStringFlipTimeStampFastString": "2025-09-23T21:49:53.489Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T21:49:53.489Z"
+        "FFlagProfilePlatformEnableEditAvatar_IXP": "1;Social.SelfProfileView;Social.SelfProfileView.AddEditAvatarCTA;952822487;dev_controlled",
+        "FStringFlagRepoGitHashFastString": "44d4fa6fe75f31bc856158534e0e0ecafea9041e",
+        "DFStringFlagRepoGitHashDynamicString": "44d4fa6fe75f31bc856158534e0e0ecafea9041e",
+        "FStringFlipTimeStampFastString": "2025-09-23T21:55:29.566Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T21:55:29.566Z"
     }
 }
