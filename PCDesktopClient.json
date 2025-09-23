@@ -11473,7 +11473,7 @@
         "AndroidEnalbeDisplaySizeInMillimeters": "true",
         "DFIntCreatorConfigProviderPollPeriodMilliseconds": "10000",
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
-        "DFIntTextChatCommandClientSentThrottlePermyriad": "6000",
+        "DFIntTextChatCommandClientSentThrottlePermyriad": "7000",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad": "10000",
         "DFIntTextChatMessageClientSendingThrottlePermyriad": "10000",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
@@ -11950,8 +11950,6 @@
         "FFlagAXMigrateQuickButtonsToGlobalAutoFocus": "True",
         "FStringTextureTranscodeFidelityETC": "EAA=",
         "FFlagAXAddOverlayFocusHandlerToPurchaseLookPrompt": "True",
-        "FFlagUIBloxTruncateExperienceTileMetadataTextFooter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1782197123;2025-09-22T23:16:11",
-        "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "7000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-22T23:19:33",
         "DFFlagAudioSpeechToTextRequireVoiceChat2": "True",
         "FFlagAXSavePreviousPageFromQuickMenu": "True",
         "FFlagReverbAbsorptionFieldFileFormat_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;116846991;2025-09-22T23:26:47",
@@ -11961,6 +11959,7 @@
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagAXFixFocusNavigationShiftingWidgetList": "True",
         "FFlagEnableSpatialUIScalingFix": "True",
+        "FFlagUIBloxTruncateExperienceTileMetadataTextFooter": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12946,9 +12945,9 @@
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
-        "FStringFlagRepoGitHashFastString": "477700f5e58c6d7ea8d621b095f92bfe2d1166ed",
-        "DFStringFlagRepoGitHashDynamicString": "477700f5e58c6d7ea8d621b095f92bfe2d1166ed",
-        "FStringFlipTimeStampFastString": "2025-09-23T00:12:51.551Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T00:12:51.551Z"
+        "FStringFlagRepoGitHashFastString": "629e9952d4216cbe3036c06240ca4a794da1926f",
+        "DFStringFlagRepoGitHashDynamicString": "629e9952d4216cbe3036c06240ca4a794da1926f",
+        "FStringFlipTimeStampFastString": "2025-09-23T00:22:12.202Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T00:22:12.202Z"
     }
 }
