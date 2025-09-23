@@ -12024,6 +12024,8 @@
         "DFFlagISRDoNotCrashCanSkipNewInstanceCheckIfPropNull_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:32:46",
         "FFlagAXOutlineSubcategoryPill": "True",
         "FFlagAXDisableHiddenCatalogCategoryPills": "True",
+        "FFlagDisableEtcFallback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:57:39",
+        "FFlagUpdateViewportOnUse3DPanelsChanged_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:57:59",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12324,9 +12326,9 @@
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
         "FFlagAXDisableGamepadPanning": "True",
         "DFFlagTeleportReconnect3": "True",
-        "FStringFlagRepoGitHashFastString": "e66629518697c1d0a2e42fd90885b0d671e8402e",
-        "DFStringFlagRepoGitHashDynamicString": "e66629518697c1d0a2e42fd90885b0d671e8402e",
-        "FStringFlipTimeStampFastString": "2025-09-23T21:57:07.260Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T21:57:07.260Z"
+        "FStringFlagRepoGitHashFastString": "2af95fcc1b9d815909a899c5c79ae841ff812d35",
+        "DFStringFlagRepoGitHashDynamicString": "2af95fcc1b9d815909a899c5c79ae841ff812d35",
+        "FStringFlipTimeStampFastString": "2025-09-23T22:00:09.940Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T22:00:09.940Z"
     }
 }
