@@ -11958,7 +11958,6 @@
         "FFlagCoreComponentManagerEmitAssetDMKeyTelemetry": "True",
         "FIntServerTriggeredModalTrafficPercent": "25",
         "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformEnableChipSocialRow;1703536934;dev_controlled",
-        "FStringTutorialUpsellPlaceId_Staged": "110558303662903;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:00:23",
         "FIntOcclusionSolverInitialMaxSearchIterations_Staged": "400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:03:02",
         "DFIntAcousticSimulationForegroundCost_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:03:24",
         "FFlagVideoWinHwEncoderFirstSampleMarker_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:10:51",
@@ -11986,6 +11985,8 @@
         "FFlagLuaAppAddSchemaFieldsToGameClicks": "True",
         "FFlagColorPickerUseGridLayout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:57:46",
         "FFlagAXMigrateItemDetailsContainerInputBindingsToFocusNavigation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:58:46",
+        "FFlagBuyActionBarShouldNotUnrenderInFullscreenMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:59:33",
+        "FStringTutorialUpsellPlaceId": "110558303662903",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12889,16 +12890,16 @@
         "FFlagAddFriendsEmptyStateUpdate": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
         "FFlagAXDisableGamepadPanning": "True",
-        "DFFlagTeleportReconnect3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:00:26",
         "MoveIsFreshInstall": "True",
         "FStringAvailableDiskLayer_Staged": "ConsumerPlatforms.DiskUsageLayer;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:05:56",
         "DFIntDiskUsageNegativeExperimenHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:07:41",
         "FFlagEnableNegativeDiskSizeExperiment_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:09:41",
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;796391450;2025-09-23T17:24:29",
         "FFlagReportSupportsHQShaders": "True",
-        "FStringFlagRepoGitHashFastString": "b9f24254ba76bc0bdef40e5c87cc78e24b7ccb73",
-        "DFStringFlagRepoGitHashDynamicString": "b9f24254ba76bc0bdef40e5c87cc78e24b7ccb73",
-        "FStringFlipTimeStampFastString": "2025-09-23T18:01:20.076Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T18:01:20.076Z"
+        "DFFlagTeleportReconnect3": "True",
+        "FStringFlagRepoGitHashFastString": "09d26b231926c2fc9c327a0f4a13230f1203c0ae",
+        "DFStringFlagRepoGitHashDynamicString": "09d26b231926c2fc9c327a0f4a13230f1203c0ae",
+        "FStringFlipTimeStampFastString": "2025-09-23T18:02:01.253Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T18:02:01.253Z"
     }
 }
