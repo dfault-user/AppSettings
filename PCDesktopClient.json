@@ -11957,8 +11957,6 @@
         "FFlagUIBloxTruncateExperienceTileMetadataTextFooter": "True",
         "FFlagCoreComponentManagerEmitAssetDMKeyTelemetry": "True",
         "FIntServerTriggeredModalTrafficPercent": "100",
-        "AllowVideoPreRoll": "True",
-        "FFlagLuaAppAddSortDataToPymkCarouselClicks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T16:52:47",
         "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformEnableChipSocialRow;1703536934;dev_controlled",
         "FStringTutorialUpsellPlaceId_Staged": "110558303662903;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:00:23",
         "FIntOcclusionSolverInitialMaxSearchIterations_Staged": "400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:03:02",
@@ -11984,6 +11982,8 @@
         "FStringLuaOTATag": "Release",
         "FFlagCommunicationsFixLastInputMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:50:37",
         "FFlagReCacheIconsOnThemeChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:54:34",
+        "FFlagUIEditorActionURI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:55:44",
+        "FFlagLuaAppAddSchemaFieldsToGameClicks": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "FFlagVoxelGridFixUpsample": "True",
@@ -12495,6 +12495,7 @@
         "FFlagAddFriendsEmptyStateUpdate": "True",
         "DFFlagCLI169073": "True",
         "FFlagAXDisableGamepadPanning": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12958,13 +12959,12 @@
         "FFlagLuaAppGamepadHoldToast2": "True",
         "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled": "True",
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
-        "FFlagLuaAppAddSchemaFieldsToGameClicks": "True",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
-        "FStringFlagRepoGitHashFastString": "30a7e3419e2befdeba0544424cbfbf9921746112",
-        "DFStringFlagRepoGitHashDynamicString": "30a7e3419e2befdeba0544424cbfbf9921746112",
-        "FStringFlipTimeStampFastString": "2025-09-23T17:56:20.886Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T17:56:20.886Z"
+        "FStringFlagRepoGitHashFastString": "2de3fd1c220c071f88cce94a542b77c56982cc37",
+        "DFStringFlagRepoGitHashDynamicString": "2de3fd1c220c071f88cce94a542b77c56982cc37",
+        "FStringFlipTimeStampFastString": "2025-09-23T17:59:03.222Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T17:59:03.222Z"
     }
 }
