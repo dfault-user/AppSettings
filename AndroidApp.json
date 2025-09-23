@@ -12002,7 +12002,6 @@
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;1998435318;flagbank",
         "FFlagVideoWinEncodeSampleTracking": "True",
         "DFIntISRInstanceBlockTimeoutWorldSteps": "2400",
-        "FFlagAXOutlineSubcategoryPill_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T20:40:30",
         "FFlagAXDisableHiddenCatalogCategoryPills_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T20:40:54",
         "FFlagOnlyVisibleFramesAllowModal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1566439085;2025-09-23T20:56:58",
         "UseApplicationLifecycleCallbacks": "True",
@@ -12024,6 +12023,7 @@
         "DFFlagVideoWinEncodeUseComPtrForSw_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:30:26",
         "FFlagISREarlyFilterAnimatedJoints_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:31:34",
         "DFFlagISRDoNotCrashCanSkipNewInstanceCheckIfPropNull_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:32:46",
+        "FFlagAXOutlineSubcategoryPill": "True",
         "CatalogPromoAssetId": "-1",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
         "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
@@ -12928,11 +12928,11 @@
         "FStringAvailableDiskLayer": "ConsumerPlatforms.DiskUsageLayer",
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
         "EnablePasskeysForGalaxyBuild": "true",
-        "FFlagVoiceAddWebrtClosedTransitionEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T20:35:48",
         "FIntEnableCVSUrlForOtaPatchPercentage_Staged": "25;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T20:49:53",
-        "FStringFlagRepoGitHashFastString": "ec4b44cced66026a36bb3cdd460624ccf0476a21",
-        "DFStringFlagRepoGitHashDynamicString": "ec4b44cced66026a36bb3cdd460624ccf0476a21",
-        "FStringFlipTimeStampFastString": "2025-09-23T21:35:32.462Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T21:35:32.462Z"
+        "FFlagVoiceAddWebrtClosedTransitionEnabled": "True",
+        "FStringFlagRepoGitHashFastString": "ab0be60c050a070a84062866f90b5a9c5cbf8a87",
+        "DFStringFlagRepoGitHashDynamicString": "ab0be60c050a070a84062866f90b5a9c5cbf8a87",
+        "FStringFlipTimeStampFastString": "2025-09-23T21:43:31.906Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T21:43:31.906Z"
     }
 }
