@@ -11265,7 +11265,7 @@
         "DFFlagSessionTrackingCrashHandlerStateHistory": "True",
         "FFlagVideoAdaptionByScreenSizeThenHarmony": "True",
         "FFlagCorrectGuiStateMouseDown": "False",
-        "FFlagReconnectToSameServer": "False",
+        "FFlagReconnectToSameServer": "True",
         "FFlagUseRuntimeMutexLibraryStateFacet": "True",
         "DFIntAdOpportunityEventThrottleHundrethsPercent": "10000",
         "FFlagUseRbxstorageInGallery": "True",
@@ -11970,8 +11970,6 @@
         "FStringTutorialUpsellPlaceId": "110558303662903",
         "DFIntAcousticSimulationForegroundCost": "100",
         "FIntOcclusionSolverInitialMaxSearchIterations": "400",
-        "FFlagAXCategoryPillPositionAnimation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:09:02",
-        "FFlagAXCategoryPillColorAnimation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:09:15",
         "FFlagAXCategoryPillPadding_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:11:27",
         "FFlagCachelessPluginLoading2": "True",
         "FFlagVideoWinHwEncoderFirstSampleMarker": "True",
@@ -12000,6 +11998,8 @@
         "FFlagBuyActionBarShouldNotUnrenderInFullscreenMode": "True",
         "FFlagAXRemoveTryOnManagerAvatarScreen_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:03:03",
         "AllowVideoPreRoll": "True",
+        "FFlagAXCategoryPillColorAnimation": "True",
+        "FFlagAXCategoryPillPositionAnimation": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12896,7 +12896,6 @@
         "FFlagAddRedeemTile2": "True",
         "FIntOcclusionWorkerThreadCount": "2",
         "FIntEnableCVSUrlForOtaPatchPercentage": "5",
-        "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Portal.Engine.Voice.ClientRewrite.Android.Crash.Investigation-1758306882;Engine.Voice.ClientRewrite.Android.Crash.Investigation;1259266197;flagbank",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "FFlagMigrateEmptyResultsViewToFoundation": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
@@ -12909,9 +12908,9 @@
         "FFlagEnableNegativeDiskSizeExperiment": "True",
         "FStringAvailableDiskLayer": "ConsumerPlatforms.DiskUsageLayer",
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
-        "FStringFlagRepoGitHashFastString": "d0019461ae57d4c33f0cf7d85ff02493f8fce10c",
-        "DFStringFlagRepoGitHashDynamicString": "d0019461ae57d4c33f0cf7d85ff02493f8fce10c",
-        "FStringFlipTimeStampFastString": "2025-09-23T19:10:04.817Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:10:04.817Z"
+        "FStringFlagRepoGitHashFastString": "7448fe870b4800db4c2b02bed108024ae0b58a95",
+        "DFStringFlagRepoGitHashDynamicString": "7448fe870b4800db4c2b02bed108024ae0b58a95",
+        "FStringFlipTimeStampFastString": "2025-09-23T19:12:22.492Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:12:22.492Z"
     }
 }
