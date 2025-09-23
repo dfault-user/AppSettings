@@ -12014,7 +12014,7 @@
         "FFlagAXCategoryPillInstantFadeOut_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T22:01:11",
         "FFlagPerfDataOnTelemetryV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;154945702;2025-09-23T22:03:32",
         "FFlagSduiComponentSkipParseLocalProps": "True",
-        "AllowVideoPreRoll": "True",
+        "CaptureCountersIntervalInMinutes": "5",
         "FFlagPerformanceTelemetryHandleSpuriousWake": "True",
         "FFlagPlaceVersionHistoryMetadataRCC_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T22:19:08",
         "FFlagConvertVariantToCorrectType": "True",
@@ -12032,8 +12032,11 @@
         "DFFlagVideoWinEncodeUseComPtrForSw": "True",
         "DFFlagISRDoNotCrashCanSkipNewInstanceCheckIfPropNull": "True",
         "FFlagISREarlyFilterAnimatedJoints": "True",
+        "FFlagDeltaFactoryCloneJobId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;245450572;2025-09-23T22:48:45",
+        "FFlagExperienceStateCaptureExperienceChatSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;245450572;2025-09-23T22:48:45",
         "AxisAdornmentGrabSize": "12",
-        "CaptureCountersIntervalInMinutes": "5",
+        "AllowVideoPreRoll": "True",
+        "FFlagUKOSALegacyReportMenu_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;245450572;2025-09-23T22:48:45",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -12906,9 +12909,9 @@
         "FFlagMemoizePersonButton2": "True",
         "FFlagEnableSocialSelfProfileViewExposureEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1162561725;2025-09-23T21:47:35",
         "FFlagProfilePlatformEnableEditAvatar_IXP": "1;Social.SelfProfileView;Social.SelfProfileView.AddEditAvatarCTA;952822487;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "efeb2341e5fb186dc6277ead8ed96032b72ae35d",
-        "DFStringFlagRepoGitHashDynamicString": "efeb2341e5fb186dc6277ead8ed96032b72ae35d",
-        "FStringFlipTimeStampFastString": "2025-09-23T22:48:54.653Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T22:48:54.653Z"
+        "FStringFlagRepoGitHashFastString": "d2d9a1516f676e60ab2375581accdfeec53f42a1",
+        "DFStringFlagRepoGitHashDynamicString": "d2d9a1516f676e60ab2375581accdfeec53f42a1",
+        "FStringFlipTimeStampFastString": "2025-09-23T22:50:22.535Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T22:50:22.535Z"
     }
 }
