@@ -11961,6 +11961,9 @@
         "FIntServerTriggeredModalTrafficPercent": "100",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "8500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-23T16:09:04",
+        "FFlagExtendLightRangeTo120HideRolloutPropertyAndEnable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1332787586;2025-09-23T16:14:11",
+        "FFlagExtendedLightRangesFixDirtyCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1332787586;2025-09-23T16:14:11",
+        "FFlagIncreaseEffectiveLightGridRadius_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1332787586;2025-09-23T16:14:11",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14118,9 +14121,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "bc13d2f6d53314371a0025bb57b777445efb3c8d",
-        "DFStringFlagRepoGitHashDynamicString": "bc13d2f6d53314371a0025bb57b777445efb3c8d",
-        "FStringFlipTimeStampFastString": "2025-09-23T16:10:23.376Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T16:10:23.376Z"
+        "FStringFlagRepoGitHashFastString": "5536aff5118a9276d1012004559c3c45538fd1e4",
+        "DFStringFlagRepoGitHashDynamicString": "5536aff5118a9276d1012004559c3c45538fd1e4",
+        "FStringFlipTimeStampFastString": "2025-09-23T16:15:26.453Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T16:15:26.453Z"
     }
 }
