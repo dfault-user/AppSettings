@@ -11471,7 +11471,7 @@
         "AndroidEnalbeDisplaySizeInMillimeters": "true",
         "DFIntCreatorConfigProviderPollPeriodMilliseconds": "10000",
         "DFFlagTextChatTelemetrySendClientEvents2": "True",
-        "DFIntTextChatCommandClientSentThrottlePermyriad": "8500",
+        "DFIntTextChatCommandClientSentThrottlePermyriad": "10000",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad": "10000",
         "DFIntTextChatMessageClientSendingThrottlePermyriad": "10000",
         "DFFlagISRBlockStaleCFrameImprovements_PlaceFilter": "True;189707",
@@ -11956,7 +11956,7 @@
         "FFlagEnableSpatialUIScalingFix": "True",
         "FFlagUIBloxTruncateExperienceTileMetadataTextFooter": "True",
         "FFlagCoreComponentManagerEmitAssetDMKeyTelemetry": "True",
-        "FIntServerTriggeredModalTrafficPercent": "50",
+        "FIntServerTriggeredModalTrafficPercent": "100",
         "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformEnableChipSocialRow;1703536934;dev_controlled",
         "FixIsolatedGmaSdkCleanDisconnect": "true",
         "FFlagExtendLightRangeTo120HideRolloutPropertyAndEnable": "True",
@@ -11973,8 +11973,6 @@
         "FFlagCachelessPluginLoading2": "True",
         "FFlagVideoWinHwEncoderFirstSampleMarker": "True",
         "FFlagCorrectGuiStateMouseDownAndroid": "True",
-        "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-23T18:18:43",
-        "FIntServerTriggeredModalTrafficPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1098690143;2025-09-23T18:19:57",
         "FFlagLuaAppFixPlayButtonDefaultLaunchSource": "True",
         "FFlagUIBloxEnableActionBarButtonOverride": "True",
         "FFlagFixHapticWaveformReplication_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:21:08",
@@ -12001,6 +11999,7 @@
         "FFlagAXCategoryPillPositionAnimation": "True",
         "FFlagAXCategoryPillPadding": "True",
         "FFlagVideoWinEncodeSampleTracking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:19:56",
+        "DFFlagAndroidOomScoreTelemetry_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:20:42",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12355,9 +12354,9 @@
         "FFlagEnableConsoleExpControlsIXPV4": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
         "DFFlagTeleportReconnect3": "True",
-        "FStringFlagRepoGitHashFastString": "4afc2167cbf173749b6f501bf3d89a01a774e004",
-        "DFStringFlagRepoGitHashDynamicString": "4afc2167cbf173749b6f501bf3d89a01a774e004",
-        "FStringFlipTimeStampFastString": "2025-09-23T19:21:33.388Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:21:33.388Z"
+        "FStringFlagRepoGitHashFastString": "e128acd4cc42c1e150ac6161553f0d6493720ea1",
+        "DFStringFlagRepoGitHashDynamicString": "e128acd4cc42c1e150ac6161553f0d6493720ea1",
+        "FStringFlipTimeStampFastString": "2025-09-23T19:22:18.216Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:22:18.216Z"
     }
 }
