@@ -12018,6 +12018,8 @@
         "DFFlagAndroidDebugHeapTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:22:46",
         "FFlagConvertVariantToCorrectType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:22:49",
         "DFFlagISRBlockStaleCFrameImprovements_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;733225794;2025-09-23T21:24:50",
+        "DFFlagISRPerfPass_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:26:38",
+        "FFlagLuauRefineDistributesOverUnions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T21:29:38",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14126,10 +14128,10 @@
         "FFlagUGCValidateRelativeSkinningTransfer2": "True",
         "FFlagAudioApiBucketedChannelGroups": "True",
         "DFIntLoadTestParticipationPerMillionUsers_PlaceFilter": "1000000;109983668079237",
-        "DFIntLoadTestStartTimeUnix_PlaceFilter": "1758661500;109983668079237",
+        "DFIntLoadTestStartTimeUnix_PlaceFilter": "1758666600;109983668079237",
         "DFIntRobloxTelemetryLoadTestEndThrottleHundredthsPercent_PlaceFilter": "100;109983668079237",
         "DFIntRobloxTelemetryLoadTestStartThrottleHundredthsPercent_PlaceFilter": "100;109983668079237",
-        "DFStringLoadTestArguments_PlaceFilter": "0|1|3296367604:1,3296367737:1,3296367825:1,3301638537:1,3307371795:1,3307372046:1,3307372342:1,3307372798:1,3312023518:1,3312023590:1,3312023715:1,3312891057:1,3312944807:1,3312944986:1,3312945232:1,3312945488:1,3322567440:1,3322567771:1,3322567871:1,3322568083:1;109983668079237",
+        "DFStringLoadTestArguments_PlaceFilter": "0|1|3296367604:1,3296367737:1,3296367825:1,3301638537:1,3307371795:1,3307372046:1,3307372342:1,3307372798:1,3312023518:1,3312023590:1,3312023715:1,3312891057:1,3312944807:1,3312944986:1,3312945232:1,3312945488:1;109983668079237",
         "DFStringLoadTestName_PlaceFilter": "get_product_info_load_test_simple;109983668079237",
         "FFlagVoiceAddWebrtClosedTransitionEnabled": "True",
         "FFlagSolverV2RefactorReplicationStateUpdate": "True",
@@ -14170,9 +14172,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "3806688a41b19c7101d080e0d6dbe8343cf7d897",
-        "DFStringFlagRepoGitHashDynamicString": "3806688a41b19c7101d080e0d6dbe8343cf7d897",
-        "FStringFlipTimeStampFastString": "2025-09-23T21:27:53.722Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T21:27:53.722Z"
+        "FStringFlagRepoGitHashFastString": "3eb345dbfcddc8e50ec06bf9613aeae15f06052e",
+        "DFStringFlagRepoGitHashDynamicString": "3eb345dbfcddc8e50ec06bf9613aeae15f06052e",
+        "FStringFlipTimeStampFastString": "2025-09-23T21:31:30.198Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T21:31:30.198Z"
     }
 }
