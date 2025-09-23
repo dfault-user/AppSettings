@@ -11975,7 +11975,6 @@
         "FFlagCorrectGuiStateMouseDownAndroid": "True",
         "FFlagLuaAppFixPlayButtonDefaultLaunchSource": "True",
         "FFlagUIBloxEnableActionBarButtonOverride": "True",
-        "FFlagFixHapticWaveformReplication_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:21:08",
         "FFlagLuaAppFixSearchTextBoxWidth": "True",
         "DFFlagWriteFlagCacheAfterFlagFetch": "True",
         "FFlagLuaAppRecommendedGamesCollectionCarousel": "True",
@@ -12001,6 +12000,8 @@
         "FFlagVideoWinEncodeSampleTracking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:19:56",
         "AxisAdornmentGrabSize": "12",
         "AllowVideoPreRoll": "True",
+        "FFlagFixHapticWaveformReplication": "True",
+        "FFlagFixIntervalStatsSynchronization_Staged": "True;SteadyState;10;30;Revert;2025-09-23T19:26:17",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
@@ -12908,9 +12909,9 @@
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
         "DFFlagWrapDeformerReportTelemetryStat2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T19:14:48",
         "EnablePasskeysForGalaxyBuild": "true",
-        "FStringFlagRepoGitHashFastString": "b9b5f4781918d42e8789d826bb9d4b7ee81dd0d4",
-        "DFStringFlagRepoGitHashDynamicString": "b9b5f4781918d42e8789d826bb9d4b7ee81dd0d4",
-        "FStringFlipTimeStampFastString": "2025-09-23T19:25:15.129Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:25:15.129Z"
+        "FStringFlagRepoGitHashFastString": "1918f38cc59b0e4f60bf9f2b15a66de44bcb762e",
+        "DFStringFlagRepoGitHashDynamicString": "1918f38cc59b0e4f60bf9f2b15a66de44bcb762e",
+        "FStringFlipTimeStampFastString": "2025-09-23T19:27:12.865Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T19:27:12.865Z"
     }
 }
