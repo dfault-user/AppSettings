@@ -11959,12 +11959,9 @@
         "FIntServerTriggeredModalTrafficPercent": "50",
         "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformEnableChipSocialRow;1703536934;dev_controlled",
         "FixIsolatedGmaSdkCleanDisconnect": "true",
-        "FFlagLuaAppFixPlayButtonDefaultLaunchSource_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:15:49",
         "FFlagExtendLightRangeTo120HideRolloutPropertyAndEnable": "True",
         "FFlagExtendedLightRangesFixDirtyCrash": "True",
         "FFlagIncreaseEffectiveLightGridRadius": "True",
-        "FFlagUIBloxEnableActionBarButtonOverride_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:16:52",
-        "FFlagAXDoNotUnrenderQuickMenuRobuxButtons_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:17:58",
         "FFlagLuaAppFixSearchTextBoxWidth_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:20:56",
         "FFlagFixBlurryImages": "True",
         "DFFlagWriteFlagCacheAfterFlagFetch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T17:21:52",
@@ -11990,6 +11987,10 @@
         "FFlagVideoWinHwEncoderFirstSampleMarker": "True",
         "FFlagCorrectGuiStateMouseDownAndroid": "True",
         "DFIntTextChatCommandClientSentThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;408772498;2025-09-23T18:18:43",
+        "FIntServerTriggeredModalTrafficPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1098690143;2025-09-23T18:19:57",
+        "FFlagLuaAppFixPlayButtonDefaultLaunchSource": "True",
+        "FFlagUIBloxEnableActionBarButtonOverride": "True",
+        "FFlagFixHapticWaveformReplication_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-23T18:21:08",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12901,9 +12902,9 @@
         "DFIntDiskUsageNegativeExperimenHundredthsPercent": "10000",
         "FFlagEnableNegativeDiskSizeExperiment": "True",
         "FStringAvailableDiskLayer": "ConsumerPlatforms.DiskUsageLayer",
-        "FStringFlagRepoGitHashFastString": "3751a21a03d02c5bc2638bdffb3703843ea5d93c",
-        "DFStringFlagRepoGitHashDynamicString": "3751a21a03d02c5bc2638bdffb3703843ea5d93c",
-        "FStringFlipTimeStampFastString": "2025-09-23T18:20:45.538Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-23T18:20:45.538Z"
+        "FStringFlagRepoGitHashFastString": "4ba11994c6de741fb993cb1ea019832b05b5d6bf",
+        "DFStringFlagRepoGitHashDynamicString": "4ba11994c6de741fb993cb1ea019832b05b5d6bf",
+        "FStringFlipTimeStampFastString": "2025-09-23T18:23:35.482Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-23T18:23:35.482Z"
     }
 }
