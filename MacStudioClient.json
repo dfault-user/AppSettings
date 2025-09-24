@@ -12053,7 +12053,6 @@
         "FFlagAXEnableCategoryPills4": "True",
         "DFIntVoiceChatHttpErrorsTelemetryThrottleHundredthsPercent": "10000",
         "FFlagFixEmoteWarningSize": "True",
-        "FFlagNewBindToMessageError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;997444324;2025-09-24T19:34:38",
         "DFFlagPerformanceControlAddNormalizedQualityToST2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T19:36:40",
         "FFlagAXSendLegacyWidgetImpressions": "True",
         "DFFlagVoiceChatSendHttpErrorsTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:07:49",
@@ -12068,6 +12067,7 @@
         "FFlagEnableAdsMouseUnlock": "True",
         "FFlagProfilePlatformEnableClickToCopyUsername_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:31:38",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagNewBindToMessageError": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13778,6 +13778,7 @@
         "DFFlagUseNewPhysicsMeshDecoderForNav": "True",
         "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData": "True",
         "FFlagRemoveShowErrorMessageRobloxMainWindow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:22:36",
+        "FFlagProfilePlatformEnableEditAvatar_IXP": "1;Social.SelfProfileView;Social.SelfProfileView.AddEditAvatarCTA;952822487;dev_controlled",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "DFFlagEnableFdTracking": "True",
@@ -14147,7 +14148,7 @@
         "DFFlagVideoMp4DoNotWriteTrackIfEmpty": "True",
         "FFlagUGCValidateRelativeSkinningTransfer2": "True",
         "FFlagAudioApiBucketedChannelGroups": "True",
-        "DFIntLoadTestParticipationPerMillionUsers_PlaceFilter": "1000000;109983668079237;96342491571673",
+        "DFIntLoadTestParticipationPerMillionUsers_PlaceFilter": "99999;109983668079237;96342491571673",
         "DFIntLoadTestStartTimeUnix_PlaceFilter": "1758747000;109983668079237;96342491571673",
         "DFIntRobloxTelemetryLoadTestEndThrottleHundredthsPercent_PlaceFilter": "100;109983668079237;96342491571673",
         "DFIntRobloxTelemetryLoadTestStartThrottleHundredthsPercent_PlaceFilter": "100;109983668079237;96342491571673",
@@ -14201,9 +14202,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "07a227520519819711207ef9e176e06b0a72e175",
-        "DFStringFlagRepoGitHashDynamicString": "07a227520519819711207ef9e176e06b0a72e175",
-        "FStringFlipTimeStampFastString": "2025-09-24T20:37:41.133Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T20:37:41.133Z"
+        "FStringFlagRepoGitHashFastString": "8a27e75907ff44b13c194d55cb408cc4b76fed8b",
+        "DFStringFlagRepoGitHashDynamicString": "8a27e75907ff44b13c194d55cb408cc4b76fed8b",
+        "FStringFlipTimeStampFastString": "2025-09-24T20:39:48.448Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T20:39:48.448Z"
     }
 }

@@ -12053,7 +12053,6 @@
         "FFlagAXEnableCategoryPills4": "True",
         "DFIntVoiceChatHttpErrorsTelemetryThrottleHundredthsPercent": "10000",
         "FFlagFixEmoteWarningSize": "True",
-        "FFlagNewBindToMessageError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;997444324;2025-09-24T19:34:38",
         "DFFlagPerformanceControlAddNormalizedQualityToST2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T19:36:40",
         "FFlagAXSendLegacyWidgetImpressions": "True",
         "DFFlagVoiceChatSendHttpErrorsTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:07:49",
@@ -12064,10 +12063,11 @@
         "FFlagSlimServiceEnableUploadsInNonEditMode": "True",
         "FFlagMediaPlaybackStopsWhenJoiningExperience_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:20:33",
         "FFlagRemoveUpdatePromptChild_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:24:02",
-        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
-        "FFlagProfilePlatformEnableClickToCopyUsername_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:31:38",
         "CaptureCountersIntervalInMinutes": "5",
+        "FFlagProfilePlatformEnableClickToCopyUsername_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:31:38",
+        "AllowVideoPreRoll": "True",
+        "FFlagNewBindToMessageError": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
@@ -12977,9 +12977,9 @@
         "AndroidFixKeyboardFocusInfiniteLoop": "true",
         "DFStringLoadTestingUniverseId": "7709344486",
         "FFlagProductInfoBatchingCoalescingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:31:07",
-        "FStringFlagRepoGitHashFastString": "ec53202e0e2915fbec168f5fd689f1daa443c99d",
-        "DFStringFlagRepoGitHashDynamicString": "ec53202e0e2915fbec168f5fd689f1daa443c99d",
-        "FStringFlipTimeStampFastString": "2025-09-24T20:34:11.418Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T20:34:11.418Z"
+        "FStringFlagRepoGitHashFastString": "b65feee2a61c252282192b704ba8bb534f0a4d36",
+        "DFStringFlagRepoGitHashDynamicString": "b65feee2a61c252282192b704ba8bb534f0a4d36",
+        "FStringFlipTimeStampFastString": "2025-09-24T20:38:30.263Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T20:38:30.263Z"
     }
 }
