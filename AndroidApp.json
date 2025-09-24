@@ -12061,7 +12061,6 @@
         "FFlagAppChatFixPaddingWhenScaling": "True",
         "FFlagLuaAppFocusFixTopBanner": "True",
         "DFFlagVoiceChatSendHttpErrorsTelemetry": "True",
-        "FFlagMicroprofilerBigButtons_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2058170927;2025-09-24T21:12:45",
         "FFlagMediaPlaybackStopsWhenJoiningExperience": "True",
         "FFlagEnableVrVoiceParity": "True",
         "FFlagProfilePlatformEnableClickToCopyUsername": "True",
@@ -12076,6 +12075,7 @@
         "FFlagShowJoinVoiceRaceConditionFix": "True",
         "FFlagStudioTasksFutureShareMutexes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T22:04:01",
         "FFlagStudioActionsMultiplePayloads_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T22:14:10",
+        "FFlagMicroprofilerBigButtons": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12984,9 +12984,9 @@
         "DFIntRobloxTelemetryLoadTestStartThrottleHundredthsPercent_PlaceFilter": "100;109983668079237;96342491571673",
         "FFlagProductInfoBatchingCoalescingEnabled": "True",
         "DFStringLoadTestName_PlaceFilter": "get_product_info_load_test_simple;109983668079237;96342491571673",
-        "FStringFlagRepoGitHashFastString": "6613b2d71f69d51fecdd246be80107c1c2b1a423",
-        "DFStringFlagRepoGitHashDynamicString": "6613b2d71f69d51fecdd246be80107c1c2b1a423",
-        "FStringFlipTimeStampFastString": "2025-09-24T22:16:48.537Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T22:16:48.537Z"
+        "FStringFlagRepoGitHashFastString": "6d8ed7fc21a6c5beee0a793f007e5adb1de50b2e",
+        "DFStringFlagRepoGitHashDynamicString": "6d8ed7fc21a6c5beee0a793f007e5adb1de50b2e",
+        "FStringFlipTimeStampFastString": "2025-09-24T22:19:32.020Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T22:19:32.020Z"
     }
 }
