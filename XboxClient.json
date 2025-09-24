@@ -12055,7 +12055,6 @@
         "FFlagFixEmoteWarningSize": "True",
         "FFlagAXSendLegacyWidgetImpressions": "True",
         "FFlagSlimServiceEnableUploadsInNonEditMode": "True",
-        "FFlagEnableVrVoiceParity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:29:46",
         "FFlagEnableSeamlessVoiceV2v2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:30:32",
         "FFlagProfilePlatformEnableClickToCopyUsername_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:31:38",
         "FFlagEnableJoinVoiceVrTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:35:32",
@@ -12072,6 +12071,7 @@
         "DFFlagVoiceChatSendHttpErrorsTelemetry": "True",
         "FFlagMicroprofilerBigButtons_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2058170927;2025-09-24T21:12:45",
         "FFlagMediaPlaybackStopsWhenJoiningExperience": "True",
+        "FFlagEnableVrVoiceParity": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12426,9 +12426,9 @@
         "FFlagFixXboxActiveGamepadMismatch": "True",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
-        "FStringFlagRepoGitHashFastString": "22d2841caa4b5bab0cc65882cc52b178a7c719ac",
-        "DFStringFlagRepoGitHashDynamicString": "22d2841caa4b5bab0cc65882cc52b178a7c719ac",
-        "FStringFlipTimeStampFastString": "2025-09-24T21:31:07.803Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T21:31:07.803Z"
+        "FStringFlagRepoGitHashFastString": "00c46363a866ae4284264f9247c5c84c58a2eb62",
+        "DFStringFlagRepoGitHashDynamicString": "00c46363a866ae4284264f9247c5c84c58a2eb62",
+        "FStringFlipTimeStampFastString": "2025-09-24T21:32:15.677Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T21:32:15.677Z"
     }
 }
