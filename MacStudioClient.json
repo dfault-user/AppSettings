@@ -13764,6 +13764,8 @@
         "FFlagRemoveReportTeamCreateSaveOrPublishEvent": "True",
         "FFlagPlaceSessionContextBridgeComponent": "True",
         "FFlagAssetImportFrontTruncateFilePath": "True",
+        "DFFlagUseNewPhysicsMeshDecoderForNav_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T18:32:11",
+        "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T18:32:59",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14147,7 +14149,6 @@
         "DFFlagCLI169073": "True",
         "FFlagAXDisableGamepadPanning": "True",
         "FFlagFCDecrementVertexCount": "True",
-        "DFFlagLoadTestingEnabled3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:26:36",
         "FFlagSimReduceSharedPtrUse": "True",
         "FFlagLuauTypeCheckerVectorLerp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:54:33",
         "FFlagProductInfoBatchingCoalescingEnabled": "True",
@@ -14190,9 +14191,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "6921f3c3dc0d915265c9f4868e77641b424fe689",
-        "DFStringFlagRepoGitHashDynamicString": "6921f3c3dc0d915265c9f4868e77641b424fe689",
-        "FStringFlipTimeStampFastString": "2025-09-24T18:32:40.904Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T18:32:40.904Z"
+        "FStringFlagRepoGitHashFastString": "a9e7ca6265cfb6eb522d146f51feb9e3f98e2e4c",
+        "DFStringFlagRepoGitHashDynamicString": "a9e7ca6265cfb6eb522d146f51feb9e3f98e2e4c",
+        "FStringFlipTimeStampFastString": "2025-09-24T18:34:43.309Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T18:34:43.309Z"
     }
 }
