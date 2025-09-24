@@ -12056,6 +12056,8 @@
         "FFlagAXEnableCategoryPills4": "True",
         "DFIntVoiceChatHttpErrorsTelemetryThrottleHundredthsPercent": "10000",
         "FFlagFixEmoteWarningSize": "True",
+        "FFlagNewBindToMessageError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;997444324;2025-09-24T19:34:38",
+        "DFFlagPerformanceControlAddNormalizedQualityToST2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T19:36:40",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12411,9 +12413,9 @@
         "FFlagFixXboxActiveGamepadMismatch": "True",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
-        "FStringFlagRepoGitHashFastString": "45395d096573ef28c7caff47a068e0a390a11617",
-        "DFStringFlagRepoGitHashDynamicString": "45395d096573ef28c7caff47a068e0a390a11617",
-        "FStringFlipTimeStampFastString": "2025-09-24T19:31:46.026Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T19:31:46.026Z"
+        "FStringFlagRepoGitHashFastString": "53dc92aa29c54f0bd640f848b0ba6b66f5fdff06",
+        "DFStringFlagRepoGitHashDynamicString": "53dc92aa29c54f0bd640f848b0ba6b66f5fdff06",
+        "FStringFlipTimeStampFastString": "2025-09-24T19:36:24.271Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T19:36:24.271Z"
     }
 }
