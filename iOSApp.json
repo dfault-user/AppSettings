@@ -11998,7 +11998,7 @@
         "FFlagChatIntegrationFixShortcut": "True",
         "FFlagUIBloxFixModalBottomSheetSelectable": "True",
         "FFlagAXRemoveTryOnManagerAvatarScreen": "True",
-        "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;1500300741;flagbank",
+        "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Final.Desktop.Rollout;1998435318;flagbank",
         "FFlagVideoWinEncodeSampleTracking": "True",
         "DFIntISRInstanceBlockTimeoutWorldSteps": "2400",
@@ -12050,6 +12050,13 @@
         "FFlagFixEmoteWarningSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T18:18:56",
         "FFlagFlyweightTrackId": "True",
         "FFlagSduiSupportArrayParsing": "True",
+        "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_Staged": "True;SteadyState;10;30;Revert;true;2062099502;2025-09-24T18:28:08",
+        "FStringEngineVoiceSdpCompressionIxpLayer_Staged": "Engine.Voice.SdpCompression.Exposure;SteadyState;10;30;Revert;true;2062099502;2025-09-24T18:28:08",
+        "FStringEngineVoiceSdpCompressionIxpLayer_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
+        "FFlagEngineVoiceSdpCompressionIxpEnabled_Staged": "True;SteadyState;10;30;Revert;true;2062099502;2025-09-24T18:28:08",
+        "FFlagEngineVoiceSdpCompressionIxpEnabled_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
+        "FFlagVoiceChatEnableSdpCompressionMaster3_Staged": "True;SteadyState;10;30;Revert;true;2062099502;2025-09-24T18:28:08",
+        "FFlagVoiceChatEnableSdpCompressionMaster3_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12925,9 +12932,9 @@
         "FFlagAXUnifiedLoggingTagDefinition_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:47:25",
         "FFlagEnableLuaAccountPicker5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T18:15:01",
         "FFlagEnableNSENotifSettingLogging_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T18:19:13",
-        "FStringFlagRepoGitHashFastString": "17ae94f731bebf5ecfbfbf059e61cd597dacda31",
-        "DFStringFlagRepoGitHashDynamicString": "17ae94f731bebf5ecfbfbf059e61cd597dacda31",
-        "FStringFlipTimeStampFastString": "2025-09-24T18:27:40.450Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T18:27:40.450Z"
+        "FStringFlagRepoGitHashFastString": "339c0f1ceb058415082e0cf186545d256c9e9bcb",
+        "DFStringFlagRepoGitHashDynamicString": "339c0f1ceb058415082e0cf186545d256c9e9bcb",
+        "FStringFlipTimeStampFastString": "2025-09-24T18:33:55.475Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T18:33:55.475Z"
     }
 }
