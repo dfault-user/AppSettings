@@ -12057,6 +12057,8 @@
         "FFlagNewBindToMessageError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;997444324;2025-09-24T19:34:38",
         "DFFlagPerformanceControlAddNormalizedQualityToST2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T19:36:40",
         "FFlagAXSendLegacyWidgetImpressions": "True",
+        "DFFlagVoiceChatSendHttpErrorsTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:07:49",
+        "FFlagLuaAppFocusFixTopBanner_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:07:54",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12968,9 +12970,9 @@
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "AndroidFixKeyboardFocusInfiniteLoop": "true",
         "DFStringLoadTestingUniverseId": "7709344486",
-        "FStringFlagRepoGitHashFastString": "8fd02803999129cfabe307544ea1bb98f69b0c95",
-        "DFStringFlagRepoGitHashDynamicString": "8fd02803999129cfabe307544ea1bb98f69b0c95",
-        "FStringFlipTimeStampFastString": "2025-09-24T20:02:24.849Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T20:02:24.849Z"
+        "FStringFlagRepoGitHashFastString": "dac5076fe0aea6e9a3cb43297e4e56d5d0c0912a",
+        "DFStringFlagRepoGitHashDynamicString": "dac5076fe0aea6e9a3cb43297e4e56d5d0c0912a",
+        "FStringFlipTimeStampFastString": "2025-09-24T20:10:57.926Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T20:10:57.926Z"
     }
 }
