@@ -12040,6 +12040,7 @@
         "DFFlagVideoWinHwEncoderDeleteIfNoPool": "True",
         "FFlagVideoEncoderScopedOutputBuffer": "True",
         "FIntServerTriggeredModalTrafficPercent_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1898490302;2025-09-24T16:35:54",
+        "FFlagRemoveiOS13DeprecatedCode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T16:44:29",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12340,9 +12341,9 @@
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
         "FFlagAXDisableGamepadPanning": "True",
         "DFFlagTeleportReconnect3": "True",
-        "FStringFlagRepoGitHashFastString": "64daa5fe19e6509dc77356e4dee08a191006a32f",
-        "DFStringFlagRepoGitHashDynamicString": "64daa5fe19e6509dc77356e4dee08a191006a32f",
-        "FStringFlipTimeStampFastString": "2025-09-24T16:40:32.903Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T16:40:32.903Z"
+        "FStringFlagRepoGitHashFastString": "deed52d5d25767b1a373f33e4eaeeffff21732d8",
+        "DFStringFlagRepoGitHashDynamicString": "deed52d5d25767b1a373f33e4eaeeffff21732d8",
+        "FStringFlipTimeStampFastString": "2025-09-24T16:47:03.069Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T16:47:03.069Z"
     }
 }
