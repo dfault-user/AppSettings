@@ -12039,7 +12039,6 @@
         "FFlagUKOSALegacyReportMenu": "True",
         "DFFlagVideoWinHwEncoderDeleteIfNoPool": "True",
         "FFlagVideoEncoderScopedOutputBuffer": "True",
-        "FFlagRemoveiOS13DeprecatedCode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T16:44:29",
         "FFlagRbxthumbForAlbumArt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:02:41",
         "FFlagFixTexturePackLoadingRetries_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1683019312;2025-09-24T17:08:11",
         "FFlagFlyweightTrackId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:18:08",
@@ -12047,6 +12046,7 @@
         "FFlagFixKeyboardFocusInfiniteLoop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:37:19",
         "FFlagFixLockCenterMouseClickAndScroll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:39:43",
         "FFlagSongbirdPopoverSubmenu2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:42:37",
+        "FFlagRemoveiOS13DeprecatedCode": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12919,9 +12919,10 @@
         "FFlagMemoizePersonButton2": "True",
         "FFlagProfilePlatformEnableEditAvatar_IXP": "1;Social.SelfProfileView;Social.SelfProfileView.AddEditAvatarCTA;952822487;dev_controlled",
         "FFlagEnableSocialSelfProfileViewExposureEvents": "True",
-        "FStringFlagRepoGitHashFastString": "2d7b82153cbcc535c320b9ab3e2c88a3b4f5c662",
-        "DFStringFlagRepoGitHashDynamicString": "2d7b82153cbcc535c320b9ab3e2c88a3b4f5c662",
-        "FStringFlipTimeStampFastString": "2025-09-24T17:46:21.806Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T17:46:21.806Z"
+        "FFlagAXUnifiedLoggingTagDefinition_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:47:25",
+        "FStringFlagRepoGitHashFastString": "e705b4dbc47267b963c4a564c6900c937246d3e7",
+        "DFStringFlagRepoGitHashDynamicString": "e705b4dbc47267b963c4a564c6900c937246d3e7",
+        "FStringFlipTimeStampFastString": "2025-09-24T17:51:36.165Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T17:51:36.165Z"
     }
 }
