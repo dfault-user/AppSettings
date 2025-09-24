@@ -11956,7 +11956,7 @@
         "FFlagEnableSpatialUIScalingFix": "True",
         "FFlagUIBloxTruncateExperienceTileMetadataTextFooter": "True",
         "FFlagCoreComponentManagerEmitAssetDMKeyTelemetry": "True",
-        "FIntServerTriggeredModalTrafficPercent": "100",
+        "FIntServerTriggeredModalTrafficPercent": "0",
         "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformEnableChipSocialRow;1703536934;dev_controlled",
         "FixIsolatedGmaSdkCleanDisconnect": "true",
         "FFlagExtendLightRangeTo120HideRolloutPropertyAndEnable": "True",
@@ -12039,7 +12039,6 @@
         "FFlagUKOSALegacyReportMenu": "True",
         "DFFlagVideoWinHwEncoderDeleteIfNoPool": "True",
         "FFlagVideoEncoderScopedOutputBuffer": "True",
-        "FIntServerTriggeredModalTrafficPercent_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1898490302;2025-09-24T16:35:54",
         "FFlagRemoveiOS13DeprecatedCode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T16:44:29",
         "FFlagRbxthumbForAlbumArt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:02:41",
         "FFlagFixTexturePackLoadingRetries_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1683019312;2025-09-24T17:08:11",
@@ -12348,9 +12347,10 @@
         "FFlagAXDisableGamepadPanning": "True",
         "DFFlagTeleportReconnect3": "True",
         "DFFlagWriteFlagCacheAfterDynamicFetch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:28:16",
-        "FStringFlagRepoGitHashFastString": "99bc1bfc6ac6d11412c7d677b256a85d66190d3f",
-        "DFStringFlagRepoGitHashDynamicString": "99bc1bfc6ac6d11412c7d677b256a85d66190d3f",
-        "FStringFlipTimeStampFastString": "2025-09-24T17:41:22.989Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T17:41:22.989Z"
+        "DFFlagWriteTombstoneAfterDynamicFetch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T17:40:59",
+        "FStringFlagRepoGitHashFastString": "ce0820fc59f0ef4268f8f25648726218d2a09373",
+        "DFStringFlagRepoGitHashDynamicString": "ce0820fc59f0ef4268f8f25648726218d2a09373",
+        "FStringFlipTimeStampFastString": "2025-09-24T17:44:07.009Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T17:44:07.009Z"
     }
 }
