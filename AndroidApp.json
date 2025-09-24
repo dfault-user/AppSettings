@@ -12057,11 +12057,10 @@
         "FFlagSlimServiceEnableUploadsInNonEditMode": "False",
         "FFlagNewBindToMessageError": "True",
         "DFFlagPerformanceControlAddNormalizedQualityToST2": "True",
-        "CaptureQTStudioCountersEnabled": "True",
         "AxisAdornmentGrabSize": "12",
         "AllowVideoPreRoll": "True",
         "CaptureCountersIntervalInMinutes": "5",
-        "CatalogPromoAssetId": "-1",
+        "CaptureQTStudioCountersEnabled": "True",
         "FFlagAppChatEnableHandheldScalingFixes": "True",
         "FFlagAppChatFixPaddingWhenScaling": "True",
         "FFlagLuaAppFocusFixTopBanner": "True",
@@ -12074,6 +12073,8 @@
         "FFlagEnableJoinVoiceVrTelemetry": "True",
         "FFlagAXCatalogReactPerfIXPEnabledV3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1678757450;2025-09-24T21:42:29",
         "FFlagSlimServiceEnableUploadsInNonEditMode_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;266416063;2025-09-24T21:54:20",
+        "FFlagSeamlessVoiceV2JoinVoiceToast": "True",
+        "CatalogPromoAssetId": "-1",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
         "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12717,7 +12718,6 @@
         "FIntPerformanceControlBoostedOomProbabilityThresholdHundredths_IXP": "1;HarmonyExposure;HarmonyExposure.AndroidBoostedOomBoxV1;868835344;flagbank",
         "FFlagPerformanceControlOomBoxEnabled_IXP": "1;HarmonyExposure;HarmonyExposure.AndroidBoostedOomBoxV1;868835344;flagbank",
         "FinishEarlyOnProcessDeath": "true",
-        "FFlagSeamlessVoiceV2JoinVoiceToast": "True",
         "FFlagShowJoinVoiceRaceConditionFix": "True",
         "FFlagDisconnectToastClientRewrite": "True",
         "FFlagSendUserConnectionStatus": "True",
@@ -12982,9 +12982,9 @@
         "DFIntRobloxTelemetryLoadTestStartThrottleHundredthsPercent_PlaceFilter": "100;109983668079237;96342491571673",
         "FFlagProductInfoBatchingCoalescingEnabled": "True",
         "DFStringLoadTestName_PlaceFilter": "get_product_info_load_test_simple;109983668079237;96342491571673",
-        "FStringFlagRepoGitHashFastString": "6103dd07f0e4316f1c339c354cd0f99d0bba4007",
-        "DFStringFlagRepoGitHashDynamicString": "6103dd07f0e4316f1c339c354cd0f99d0bba4007",
-        "FStringFlipTimeStampFastString": "2025-09-24T21:57:29.765Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T21:57:29.765Z"
+        "FStringFlagRepoGitHashFastString": "8d95782b1e8bd0080e97438f891baac27981b12f",
+        "DFStringFlagRepoGitHashDynamicString": "8d95782b1e8bd0080e97438f891baac27981b12f",
+        "FStringFlipTimeStampFastString": "2025-09-24T21:59:06.291Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T21:59:06.291Z"
     }
 }
