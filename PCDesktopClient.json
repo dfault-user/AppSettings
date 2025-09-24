@@ -12053,7 +12053,6 @@
         "FFlagAXEnableCategoryPills4": "True",
         "DFIntVoiceChatHttpErrorsTelemetryThrottleHundredthsPercent": "10000",
         "FFlagFixEmoteWarningSize": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagAXSendLegacyWidgetImpressions": "True",
         "DFFlagVoiceChatSendHttpErrorsTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:07:49",
         "FFlagLuaAppFocusFixTopBanner_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:07:54",
@@ -12068,6 +12067,7 @@
         "FFlagProfilePlatformEnableClickToCopyUsername_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:31:38",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagNewBindToMessageError": "True",
+        "DFFlagPerformanceControlAddNormalizedQualityToST2": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -12575,6 +12575,7 @@
         "DFFlagLoadTestingEnabled3": "True",
         "FFlagLuauTypeCheckerVectorLerp": "True",
         "FFlagProfilePlatformEnableEditAvatar_IXP": "1;Social.SelfProfileView;Social.SelfProfileView.AddEditAvatarCTA;952822487;dev_controlled",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12984,7 +12985,6 @@
         "FFlagAddExtraAttributeUpdates": "True",
         "FFlagLuaAppEdpMediaGalleryRedesignIxp4": "True",
         "FFlagLuaAppEdpMediaGalleryVideoPreviewIxp4": "True",
-        "DFFlagPerformanceControlAddNormalizedQualityToST2": "True",
         "FFlagPerformanceControlAveragedQuality3": "True",
         "DFFlagFixAdPlayerCrashes": "True",
         "DFFlagCLI157375": "True",
@@ -13041,9 +13041,9 @@
         "FFlagDisableGalleryStopGap": "True",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
-        "FStringFlagRepoGitHashFastString": "8a27e75907ff44b13c194d55cb408cc4b76fed8b",
-        "DFStringFlagRepoGitHashDynamicString": "8a27e75907ff44b13c194d55cb408cc4b76fed8b",
-        "FStringFlipTimeStampFastString": "2025-09-24T20:39:48.448Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T20:39:48.448Z"
+        "FStringFlagRepoGitHashFastString": "423bcfef27e733d7e79536ae97aca28388cc580a",
+        "DFStringFlagRepoGitHashDynamicString": "423bcfef27e733d7e79536ae97aca28388cc580a",
+        "FStringFlipTimeStampFastString": "2025-09-24T20:42:59.101Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T20:42:59.101Z"
     }
 }

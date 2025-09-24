@@ -12053,7 +12053,6 @@
         "FFlagAXEnableCategoryPills4": "True",
         "DFIntVoiceChatHttpErrorsTelemetryThrottleHundredthsPercent": "10000",
         "FFlagFixEmoteWarningSize": "True",
-        "DFFlagPerformanceControlAddNormalizedQualityToST2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T19:36:40",
         "FFlagAXSendLegacyWidgetImpressions": "True",
         "DFFlagVoiceChatSendHttpErrorsTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:07:49",
         "FFlagLuaAppFocusFixTopBanner_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:07:54",
@@ -12068,6 +12067,7 @@
         "FFlagProfilePlatformEnableClickToCopyUsername_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:31:38",
         "FFlagEnableJoinVoiceVrTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:35:32",
         "FFlagNewBindToMessageError": "True",
+        "DFFlagPerformanceControlAddNormalizedQualityToST2": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12370,9 +12370,9 @@
         "DFFlagTeleportReconnect3": "True",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
-        "FStringFlagRepoGitHashFastString": "8a27e75907ff44b13c194d55cb408cc4b76fed8b",
-        "DFStringFlagRepoGitHashDynamicString": "8a27e75907ff44b13c194d55cb408cc4b76fed8b",
-        "FStringFlipTimeStampFastString": "2025-09-24T20:39:48.448Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T20:39:48.448Z"
+        "FStringFlagRepoGitHashFastString": "423bcfef27e733d7e79536ae97aca28388cc580a",
+        "DFStringFlagRepoGitHashDynamicString": "423bcfef27e733d7e79536ae97aca28388cc580a",
+        "FStringFlipTimeStampFastString": "2025-09-24T20:42:59.101Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T20:42:59.101Z"
     }
 }
