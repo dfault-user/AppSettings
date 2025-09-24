@@ -12055,7 +12055,6 @@
         "FFlagFixEmoteWarningSize": "True",
         "FFlagAXSendLegacyWidgetImpressions": "True",
         "FFlagSlimServiceEnableUploadsInNonEditMode": "True",
-        "FFlagEnableJoinVoiceVrTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:35:32",
         "FFlagNewBindToMessageError": "True",
         "DFFlagPerformanceControlAddNormalizedQualityToST2": "True",
         "FFlagSeamlessVoiceV2JoinVoiceToast_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-24T20:55:16",
@@ -12072,6 +12071,8 @@
         "FFlagEnableVrVoiceParity": "True",
         "FFlagProfilePlatformEnableClickToCopyUsername": "True",
         "FFlagEnableSeamlessVoiceV2v2": "True",
+        "FFlagEnableJoinVoiceVrTelemetry": "True",
+        "FFlagAXCatalogReactPerfIXPEnabledV3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1678757450;2025-09-24T21:42:29",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12426,9 +12427,9 @@
         "FFlagFixXboxActiveGamepadMismatch": "True",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
-        "FStringFlagRepoGitHashFastString": "d11a0ed6e0966e31229f7f2d53061be2647f2a3c",
-        "DFStringFlagRepoGitHashDynamicString": "d11a0ed6e0966e31229f7f2d53061be2647f2a3c",
-        "FStringFlipTimeStampFastString": "2025-09-24T21:43:14.430Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T21:43:14.430Z"
+        "FStringFlagRepoGitHashFastString": "c338089a9936abf6895719113af95b7e9f6f1040",
+        "DFStringFlagRepoGitHashDynamicString": "c338089a9936abf6895719113af95b7e9f6f1040",
+        "FStringFlipTimeStampFastString": "2025-09-24T21:45:02.698Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T21:45:02.698Z"
     }
 }

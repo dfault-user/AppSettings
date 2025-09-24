@@ -12072,6 +12072,7 @@
         "FFlagProfilePlatformEnableClickToCopyUsername": "True",
         "FFlagEnableSeamlessVoiceV2v2": "True",
         "FFlagEnableJoinVoiceVrTelemetry": "True",
+        "FFlagAXCatalogReactPerfIXPEnabledV3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1678757450;2025-09-24T21:42:29",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
         "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12967,7 +12968,7 @@
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
         "EnablePasskeysForGalaxyBuild": "true",
         "FFlagVoiceAddWebrtClosedTransitionEnabled": "True",
-        "DFIntLoadTestStartTimeUnix_PlaceFilter": "1758749700;109983668079237;96342491571673",
+        "DFIntLoadTestStartTimeUnix_PlaceFilter": "1758751195;109983668079237;96342491571673",
         "DFStringLoadTestArguments_PlaceFilter": "0|1|3296367604:1;109983668079237;96342491571673",
         "AndroidFixTrackpadsPointerCaptureDelta": "true",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
@@ -12979,9 +12980,10 @@
         "DFIntRobloxTelemetryLoadTestEndThrottleHundredthsPercent_PlaceFilter": "100;109983668079237;96342491571673",
         "DFIntRobloxTelemetryLoadTestStartThrottleHundredthsPercent_PlaceFilter": "100;109983668079237;96342491571673",
         "FFlagProductInfoBatchingCoalescingEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "1447eb2ef644f5c4ba82447e25d62cc802e0274d",
-        "DFStringFlagRepoGitHashDynamicString": "1447eb2ef644f5c4ba82447e25d62cc802e0274d",
-        "FStringFlipTimeStampFastString": "2025-09-24T21:43:59.639Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-24T21:43:59.639Z"
+        "DFStringLoadTestName_PlaceFilter": "get_product_info_load_test_simple;109983668079237;96342491571673",
+        "FStringFlagRepoGitHashFastString": "c338089a9936abf6895719113af95b7e9f6f1040",
+        "DFStringFlagRepoGitHashDynamicString": "c338089a9936abf6895719113af95b7e9f6f1040",
+        "FStringFlipTimeStampFastString": "2025-09-24T21:45:02.698Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-24T21:45:02.698Z"
     }
 }
