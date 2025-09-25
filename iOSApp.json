@@ -12106,7 +12106,6 @@
         "GmaSdkAdReportFlowAndroidUI": "true",
         "FFlagRibbonIndicatorBugFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:26:50",
         "FFlagEnableWebViewURLLoadTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:28:14",
-        "FFlagEnableLinkSharingEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:22:56",
         "DFFlagFixGetRegionLongestAxisDistance": "True",
         "FFlagLRBridgeFix": "True",
         "FFlagEnableNewParameterInFormatEconomicRestrictionText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:29:25",
@@ -12128,6 +12127,8 @@
         "FFlagLargeReplicatorStats3": "True",
         "FFlagLargeReplicatorWrite5": "True",
         "DFIntIsrTimestampOffsetSmoothingHundredths": "2",
+        "FFlagDisableGalleryStopGap": "True",
+        "FFlagEnableLinkSharingEvent": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12994,9 +12995,9 @@
         "FFlagEnableLuaAccountPicker5": "True",
         "FFlagAXCategoryPillScrollToStart": "True",
         "FFlagAXUnifiedLoggingValidation1": "True",
-        "FStringFlagRepoGitHashFastString": "1be9ed6c1ff2f3a122f61a753752f9c1b7f39391",
-        "DFStringFlagRepoGitHashDynamicString": "1be9ed6c1ff2f3a122f61a753752f9c1b7f39391",
-        "FStringFlipTimeStampFastString": "2025-09-25T19:21:27.276Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T19:21:27.276Z"
+        "FStringFlagRepoGitHashFastString": "458f73546f5dc898c41d9e97476cc92f8286ccf2",
+        "DFStringFlagRepoGitHashDynamicString": "458f73546f5dc898c41d9e97476cc92f8286ccf2",
+        "FStringFlipTimeStampFastString": "2025-09-25T19:27:03.571Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T19:27:03.571Z"
     }
 }
