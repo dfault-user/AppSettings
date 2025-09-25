@@ -12075,7 +12075,6 @@
         "FFlagStudioTasksFutureShareMutexes": "True",
         "FFlagStudioActionsMultiplePayloads": "True",
         "FFlagAXCatalogCategoryPillsIXP": "True",
-        "FFlagLuaAppFetchGameDetailsIconIfMissing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;804401100;2025-09-25T16:15:43",
         "FFlagSduiGameTileLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;845824515;2025-09-25T16:20:55",
         "FIntWebBrowserWinCloseTimeoutMs_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:21:59",
         "FFlagLuauSubtypingReportGenericBoundMismatches2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:29:00",
@@ -12105,6 +12104,7 @@
         "AllowVideoPreRoll": "True",
         "FFlagFixUploadSessionHandleInstantRequests": "True",
         "DFFlagVideoMp4DoNotWriteTrackIfEmpty": "True",
+        "FFlagLuaAppFetchGameDetailsIconIfMissing": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12458,9 +12458,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1841084100;2025-09-25T17:02:36",
-        "FStringFlagRepoGitHashFastString": "770efccd857db7ba1e326519971d0a5630176569",
-        "DFStringFlagRepoGitHashDynamicString": "770efccd857db7ba1e326519971d0a5630176569",
-        "FStringFlipTimeStampFastString": "2025-09-25T17:20:38.066Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:20:38.066Z"
+        "FStringFlagRepoGitHashFastString": "4600e4725d24202bcbd385571bc59076f61efe65",
+        "DFStringFlagRepoGitHashDynamicString": "4600e4725d24202bcbd385571bc59076f61efe65",
+        "FStringFlipTimeStampFastString": "2025-09-25T17:23:20.785Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:23:20.785Z"
     }
 }
