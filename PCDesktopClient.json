@@ -12090,6 +12090,7 @@
         "FFlagGameSettingsRefactorMovementModeLogic_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:36:41",
         "DFFlagStrictMemOrderMidphase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:50:24",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagFixKeyboardFocusInfiniteLoop_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:54:17",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12602,6 +12603,7 @@
         "FFlagAXUnifiedLoggingValidation1": "True",
         "FFlagCallVoiceLeaveOnNetworkDisconnect2": "True",
         "DFFlagHapticEffectEnded_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:23:02",
+        "FFlagVoiceLeaveOnDmClose_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:52:51",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13068,9 +13070,9 @@
         "FFlagDisableGalleryStopGap": "True",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
-        "FStringFlagRepoGitHashFastString": "a6a451e7e5d154b0c8f598b40a6b09a13ba9048c",
-        "DFStringFlagRepoGitHashDynamicString": "a6a451e7e5d154b0c8f598b40a6b09a13ba9048c",
-        "FStringFlipTimeStampFastString": "2025-09-25T16:52:22.440Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T16:52:22.440Z"
+        "FStringFlagRepoGitHashFastString": "eb23ef081e32e6a77ee72892a584126f9adf56f7",
+        "DFStringFlagRepoGitHashDynamicString": "eb23ef081e32e6a77ee72892a584126f9adf56f7",
+        "FStringFlipTimeStampFastString": "2025-09-25T16:56:45.521Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T16:56:45.521Z"
     }
 }
