@@ -12104,11 +12104,8 @@
         "FFlagLuauVectorLerp": "True",
         "DFFlagTeleportReconnect3": "True",
         "GmaSdkAdReportFlowAndroidUI": "true",
-        "FFlagRibbonIndicatorBugFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:26:50",
-        "FFlagEnableWebViewURLLoadTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:28:14",
         "DFFlagFixGetRegionLongestAxisDistance": "True",
         "FFlagLRBridgeFix": "True",
-        "FFlagEnableNewParameterInFormatEconomicRestrictionText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:29:25",
         "FFlagDisableGalleryStopGap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:23:55",
         "FFlagSTUDIOPLAT40830FloatingWindowCloseTab_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:34:11",
         "FFlagVoiceSendPeerConnectionSuccessOnDisconnected": "True",
@@ -12136,6 +12133,9 @@
         "FFlagSlimPropertySetStableHash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;161382877;2025-09-25T19:28:25",
         "FIntSlimPropertySetQuantizeMode_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;161382877;2025-09-25T19:28:25",
         "FIntSlimPropertySetQuantizeTN_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;161382877;2025-09-25T19:28:25",
+        "FFlagRibbonIndicatorBugFix": "True",
+        "FFlagEnableWebViewURLLoadTelemetry": "True",
+        "FFlagEnableNewParameterInFormatEconomicRestrictionText": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12436,9 +12436,9 @@
         "FFlagAXDisableGamepadPanning": "True",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
-        "FStringFlagRepoGitHashFastString": "7f7e99b2f13ccbb130f8d7a28fd515cc5dba994d",
-        "DFStringFlagRepoGitHashDynamicString": "7f7e99b2f13ccbb130f8d7a28fd515cc5dba994d",
-        "FStringFlipTimeStampFastString": "2025-09-25T19:29:16.575Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T19:29:16.575Z"
+        "FStringFlagRepoGitHashFastString": "25f643eed0a8940b76e095e5a392c0a97e2b0155",
+        "DFStringFlagRepoGitHashDynamicString": "25f643eed0a8940b76e095e5a392c0a97e2b0155",
+        "FStringFlipTimeStampFastString": "2025-09-25T19:33:38.959Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T19:33:38.959Z"
     }
 }
