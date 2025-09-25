@@ -12152,8 +12152,6 @@
         "FFlagOptimizeCFrameUpdatesIC5": "True",
         "DFIntRobloxTelemetryProductInfoBatchingAnalyticsThrottleHundredthsPercent": "0",
         "DFIntExpChatMessageClientRenderedThrottlePermyriad": "10",
-        "DFFlagProductInfoCacheHitRateAnalyticsEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;678987203;2025-09-25T22:38:12",
-        "DFIntRobloxTelemetryProductInfoCacheHitRateThrottleHundredthsPercent_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;678987203;2025-09-25T22:38:12",
         "FFlagSolverV2RefactorReplicationStateUpdate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T22:43:00",
         "DFFlagSolverV2CleanupPendingModelStreamingModeModels_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T22:43:21",
         "FLogStudioEmbeddedBrowserWebView2_Staged": "Debug,6;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;184868232;2025-09-25T22:44:05",
@@ -12166,6 +12164,8 @@
         "FFlagUserProfileStoreQueryRefetch": "True",
         "FFlagStudioFireNonRepKeyEventOnStateChange_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T23:29:38",
         "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformEnableChipSocialRow-v1;1703536934;dev_controlled",
+        "DFFlagProductInfoCacheHitRateAnalyticsEnabled": "True",
+        "DFIntRobloxTelemetryProductInfoCacheHitRateThrottleHundredthsPercent": "1",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12521,9 +12521,9 @@
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady": "True",
         "FFlagExpChatTelemetryEventTrigger3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2017716655;2025-09-25T23:25:00",
-        "FStringFlagRepoGitHashFastString": "338e29cc34937a6659660a1d65d31731b8ccc407",
-        "DFStringFlagRepoGitHashDynamicString": "338e29cc34937a6659660a1d65d31731b8ccc407",
-        "FStringFlipTimeStampFastString": "2025-09-25T23:41:21.306Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T23:41:21.306Z"
+        "FStringFlagRepoGitHashFastString": "4e53b30a7d7a5291836b245f54072325e82890dc",
+        "DFStringFlagRepoGitHashDynamicString": "4e53b30a7d7a5291836b245f54072325e82890dc",
+        "FStringFlipTimeStampFastString": "2025-09-25T23:42:14.903Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T23:42:14.903Z"
     }
 }
