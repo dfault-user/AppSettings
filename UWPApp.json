@@ -12077,6 +12077,9 @@
         "FFlagAXCatalogCategoryPillsIXP": "True",
         "FFlagFlowQueryParamEnabledStartRegistration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:03:38",
         "FFlagPasswordManagerAwaitEnabled1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:03:57",
+        "DFFlagVideoMp4DoNotWriteTrackIfEmpty_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:14:29",
+        "FFlagFixUploadSessionHandleInstantRequests_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:14:49",
+        "FFlagLuaAppFetchGameDetailsIconIfMissing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;804401100;2025-09-25T16:15:43",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12379,9 +12382,9 @@
         "DFFlagTeleportReconnect3": "True",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
-        "FStringFlagRepoGitHashFastString": "b4f8bb8d15d03fb845708cc8fdfe726e5407bb46",
-        "DFStringFlagRepoGitHashDynamicString": "b4f8bb8d15d03fb845708cc8fdfe726e5407bb46",
-        "FStringFlipTimeStampFastString": "2025-09-25T16:14:24.943Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T16:14:24.943Z"
+        "FStringFlagRepoGitHashFastString": "59458c73a0ac7907923db6c66a44d2971ebe9bb0",
+        "DFStringFlagRepoGitHashDynamicString": "59458c73a0ac7907923db6c66a44d2971ebe9bb0",
+        "FStringFlipTimeStampFastString": "2025-09-25T16:17:49.512Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T16:17:49.512Z"
     }
 }
