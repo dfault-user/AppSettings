@@ -12106,7 +12106,7 @@
         "GmaSdkAdReportFlowAndroidUI": "true",
         "DFFlagFixGetRegionLongestAxisDistance": "True",
         "FFlagLRBridgeFix": "True",
-        "FFlagDisableGalleryStopGap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:23:55",
+        "FFlagDisableGalleryStopGap_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T21:06:08",
         "FFlagVoiceSendPeerConnectionSuccessOnDisconnected": "True",
         "FFlagSecretsEditorNoDraft": "True",
         "FFlagVoiceFireTelemetryFirstInLeaveOp": "True",
@@ -12126,9 +12126,6 @@
         "FFlagRobloxTouchSwipeStartFix": "True",
         "FFlagAudioDiscoveryHandleAudioPlayer": "True",
         "FFlagAudioDiscoveryHandleRandomAssetIds": "True",
-        "DFFlagSupportZeroScaleConvexShapes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T20:00:52",
-        "FFlagGameTileRightCornerButtonActuallyMountsOnTheRight_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T20:04:07",
-        "FFlagLuaAppAudioMetadataSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T20:05:20",
         "FFlagPerfDataOnTelemetryV2HighCardinalityFields": "True",
         "FFlagScaleToBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T20:13:38",
         "FFlagExportAddPositionAccessorBounds_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1783635480;2025-09-25T20:24:00",
@@ -12148,6 +12145,9 @@
         "FFlagLuaAppDeveloperProfileBackFix": "True",
         "FFlagLuaAppExperienceUnavailableMessage3": "True",
         "DFFlagPlaceLauncherReconnectFreshConnection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T21:03:30",
+        "FFlagGameTileRightCornerButtonActuallyMountsOnTheRight": "True",
+        "FFlagLuaAppAudioMetadataSupport": "True",
+        "DFFlagSupportZeroScaleConvexShapes": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13052,9 +13052,9 @@
         "DFIntRobloxTelemetryLoadTestStartThrottleHundredthsPercent_PlaceFilter": "100;109983668079237;96342491571673",
         "FFlagProductInfoBatchingCoalescingEnabled": "True",
         "DFStringLoadTestName_PlaceFilter": "get_product_info_load_test_simple;109983668079237;96342491571673",
-        "FStringFlagRepoGitHashFastString": "4a115a5fa1a3f64f08fc8d34d323bb24989fb48c",
-        "DFStringFlagRepoGitHashDynamicString": "4a115a5fa1a3f64f08fc8d34d323bb24989fb48c",
-        "FStringFlipTimeStampFastString": "2025-09-25T21:07:30.045Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T21:07:30.045Z"
+        "FStringFlagRepoGitHashFastString": "5cefda2c68ffaa29bbaf40190092c093251a7772",
+        "DFStringFlagRepoGitHashDynamicString": "5cefda2c68ffaa29bbaf40190092c093251a7772",
+        "FStringFlipTimeStampFastString": "2025-09-25T21:08:59.645Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T21:08:59.645Z"
     }
 }
