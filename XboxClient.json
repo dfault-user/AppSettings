@@ -12075,8 +12075,6 @@
         "FFlagStudioTasksFutureShareMutexes": "True",
         "FFlagStudioActionsMultiplePayloads": "True",
         "FFlagAXCatalogCategoryPillsIXP": "True",
-        "FFlagLuauSubtypingReportGenericBoundMismatches2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:29:00",
-        "FFlagLuauSubtypingUnionsAndIntersectionsInGenericBounds_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:29:58",
         "FFlagUGCValidatePreciseCurveLimit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1704494407;2025-09-25T16:35:00",
         "FFlagGameSettingsRespectDevModes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:36:10",
         "FFlagUGCValidatePreciseStepThrough_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1402663672;2025-09-25T16:36:36",
@@ -12108,6 +12106,8 @@
         "FFlagLRBridgeFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:23:50",
         "FIntWebBrowserWinCloseTimeoutMs": "10000",
         "FFlagSduiGameTileLogging": "True",
+        "FFlagLuauSubtypingReportGenericBoundMismatches2": "True",
+        "FFlagLuauSubtypingUnionsAndIntersectionsInGenericBounds": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12461,9 +12461,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1841084100;2025-09-25T17:02:36",
-        "FStringFlagRepoGitHashFastString": "bda0b6b95dfb429ffe26560094a6e6a6040a29c5",
-        "DFStringFlagRepoGitHashDynamicString": "bda0b6b95dfb429ffe26560094a6e6a6040a29c5",
-        "FStringFlipTimeStampFastString": "2025-09-25T17:31:29.542Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:31:29.542Z"
+        "FStringFlagRepoGitHashFastString": "34a055af89e63f09f5f6e913ed4c0d69582efe1d",
+        "DFStringFlagRepoGitHashDynamicString": "34a055af89e63f09f5f6e913ed4c0d69582efe1d",
+        "FStringFlipTimeStampFastString": "2025-09-25T17:33:03.569Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:33:03.569Z"
     }
 }
