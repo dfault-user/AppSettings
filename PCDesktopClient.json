@@ -12087,7 +12087,7 @@
         "FFlagUGCValidatePreciseStepThrough_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1402663672;2025-09-25T16:36:36",
         "FFlagGameSettingsRefactorMovementModeLogic_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:36:41",
         "DFFlagStrictMemOrderMidphase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:50:24",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagFixKeyboardFocusInfiniteLoop_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:54:17",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12100,11 +12100,11 @@
         "DFIntSlimTransitionStreamingRadiusPercentage_Staged": "75;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
         "DFStringSlimMajorVersion_Staged": "v0.16;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
+        "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetryFieldForFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1841084100;2025-09-25T17:02:36",
         "FFlagFlowQueryParamEnabledStartRegistration": "True",
         "FFlagPasswordManagerAwaitEnabled1": "True",
-        "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
@@ -13080,9 +13080,9 @@
         "FFlagDisableGalleryStopGap": "True",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
-        "FStringFlagRepoGitHashFastString": "bb1fffb405b7842c7354a4893d51184b209e91d4",
-        "DFStringFlagRepoGitHashDynamicString": "bb1fffb405b7842c7354a4893d51184b209e91d4",
-        "FStringFlipTimeStampFastString": "2025-09-25T17:09:38.186Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:09:38.186Z"
+        "FStringFlagRepoGitHashFastString": "8614297817610bc1172944580a5e7d8c578be5de",
+        "DFStringFlagRepoGitHashDynamicString": "8614297817610bc1172944580a5e7d8c578be5de",
+        "FStringFlipTimeStampFastString": "2025-09-25T17:11:18.755Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:11:18.755Z"
     }
 }
