@@ -12121,7 +12121,6 @@
         "FFlagRibbonIndicatorBugFix": "True",
         "FFlagEnableWebViewURLLoadTelemetry": "True",
         "FFlagEnableNewParameterInFormatEconomicRestrictionText": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagSTUDIOPLAT40830FloatingWindowCloseTab": "True",
         "DFFlagInstanceSanitization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T19:44:07",
         "FIntUnfilteredThreadsPvDelayMs_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1249381256;2025-09-25T19:47:04",
@@ -12148,6 +12147,8 @@
         "DFFlagMicroProfilerStrSanitizer2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T20:31:41",
         "FFlagImproveReplaceBodyPart_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1665425544;2025-09-25T20:32:03",
         "FFlagMicroProfilerRawFreeUseOperatorArrayDelete_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T20:32:07",
+        "FFlagMigrateEmptyResultsViewToFoundation": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13003,7 +13004,6 @@
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
-        "FFlagMigrateEmptyResultsViewToFoundation": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
         "FFlagAXDisableGamepadPanning": "True",
         "FFlagMemoizePersonButton2": "True",
@@ -13013,11 +13013,11 @@
         "FFlagEnableLuaAccountPicker5": "True",
         "FFlagAXCategoryPillScrollToStart": "True",
         "FFlagAXUnifiedLoggingValidation1": "True",
-        "DFFlagLoadTestingEnabled3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T19:31:13",
         "FFlagExpChatTelemetryEventTrigger3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;925196431;2025-09-25T19:56:45",
-        "FStringFlagRepoGitHashFastString": "42485a85c8d9ad0908f418dfcf7cf68cbd80e160",
-        "DFStringFlagRepoGitHashDynamicString": "42485a85c8d9ad0908f418dfcf7cf68cbd80e160",
-        "FStringFlipTimeStampFastString": "2025-09-25T20:37:46.840Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T20:37:46.840Z"
+        "DFFlagLoadTestingEnabled3": "True",
+        "FStringFlagRepoGitHashFastString": "07c8d73957658848305fc0b495423058381051f2",
+        "DFStringFlagRepoGitHashDynamicString": "07c8d73957658848305fc0b495423058381051f2",
+        "FStringFlipTimeStampFastString": "2025-09-25T20:38:04.861Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T20:38:04.861Z"
     }
 }
