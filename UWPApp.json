@@ -12093,7 +12093,17 @@
         "FFlagFixKeyboardFocusInfiniteLoop_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:54:17",
         "FFlagLuauVectorLerp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:00:29",
         "FFlagLuauCompileVectorLerp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:01:28",
+        "DFFlagSlimDontIncludeWorkspaceInModel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
+        "DFFlagSlimServiceSendHashInNonEditMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
+        "DFIntQuadricErrorScaleFactorHundredths_Staged": "45;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
+        "DFIntSlimAssetFetchStreamingRadiusPercentage_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
+        "DFIntSlimLODSelectionMode_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
+        "DFIntSlimModelsSnapshotEventThrottleHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
+        "DFIntSlimTransitionStreamingRadiusPercentage_Staged": "75;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
+        "DFStringSlimMajorVersion_Staged": "v0.16;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
+        "FFlagLuauTypeCheckerVectorLerp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:02:09",
         "AllowVideoPreRoll": "True",
+        "DFFlagPlaceLauncherHttpResponseTelemetryFieldForFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1841084100;2025-09-25T17:02:36",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12395,9 +12405,10 @@
         "DFFlagTeleportReconnect3": "True",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
-        "FStringFlagRepoGitHashFastString": "d39c5243b88b8e5e5f2221bd85e4d68eb67c5716",
-        "DFStringFlagRepoGitHashDynamicString": "d39c5243b88b8e5e5f2221bd85e4d68eb67c5716",
-        "FStringFlipTimeStampFastString": "2025-09-25T17:03:16.495Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:03:16.495Z"
+        "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1841084100;2025-09-25T17:02:36",
+        "FStringFlagRepoGitHashFastString": "0292f8d1005d74ba3b5c5ef540f6034d53f96e5d",
+        "DFStringFlagRepoGitHashDynamicString": "0292f8d1005d74ba3b5c5ef540f6034d53f96e5d",
+        "FStringFlipTimeStampFastString": "2025-09-25T17:04:41.748Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:04:41.748Z"
     }
 }
