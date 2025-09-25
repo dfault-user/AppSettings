@@ -12125,7 +12125,7 @@
         "FFlagAudioDiscoveryHandleAudioPlayer": "True",
         "FFlagAudioDiscoveryHandleRandomAssetIds": "True",
         "FFlagPerfDataOnTelemetryV2HighCardinalityFields": "True",
-        "FFlagImprovedModelLODBetaFeature": "True",
+        "FFlagImprovedModelLODBetaFeature": "False",
         "FFlagSlimDataUsePropertySet": "True",
         "FFlagSlimFixModelScaleIssue": "True",
         "FFlagSlimPropertySet3": "True",
@@ -12152,8 +12152,6 @@
         "FFlagOptimizeCFrameUpdatesIC5": "True",
         "DFIntRobloxTelemetryProductInfoBatchingAnalyticsThrottleHundredthsPercent": "0",
         "DFIntExpChatMessageClientRenderedThrottlePermyriad": "10",
-        "FFlagImprovedModelLODBetaFeature_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;966608581;2025-09-25T22:46:29",
-        "FFlagDeltaFactoryCloneCountryRegionCode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T22:48:08",
         "GmaSdkClickableAdsRefactor2": "true",
         "DFFlagAddClassFullName": "True",
         "DFFlagVoiceSdpCompressionRecordNetworkPriority": "True",
@@ -12165,6 +12163,7 @@
         "DFIntRobloxTelemetryProductInfoCacheHitRateThrottleHundredthsPercent": "1",
         "DFFlagSolverV2CleanupPendingModelStreamingModeModels": "True",
         "FFlagSolverV2RefactorReplicationStateUpdate": "True",
+        "FFlagDeltaFactoryCloneCountryRegionCode": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13138,9 +13137,10 @@
         "DFFlagFlagCacheColdRun": "False",
         "FFlagExpChatTelemetryEventTrigger3": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "50",
-        "FStringFlagRepoGitHashFastString": "c780bf8db7548a0b9bc56a8b7271509a2ec9f08a",
-        "DFStringFlagRepoGitHashDynamicString": "c780bf8db7548a0b9bc56a8b7271509a2ec9f08a",
-        "FStringFlipTimeStampFastString": "2025-09-25T23:48:20.293Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T23:48:20.293Z"
+        "FIntEnableCVSUrlForOtaPatchPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T23:49:03",
+        "FStringFlagRepoGitHashFastString": "940fd1fadf0065dc18951192aab94b609f860da1",
+        "DFStringFlagRepoGitHashDynamicString": "940fd1fadf0065dc18951192aab94b609f860da1",
+        "FStringFlipTimeStampFastString": "2025-09-25T23:52:44.699Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T23:52:44.699Z"
     }
 }
