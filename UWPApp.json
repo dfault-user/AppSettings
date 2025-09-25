@@ -12105,6 +12105,8 @@
         "FFlagFixUploadSessionHandleInstantRequests": "True",
         "DFFlagVideoMp4DoNotWriteTrackIfEmpty": "True",
         "FFlagLuaAppFetchGameDetailsIconIfMissing": "True",
+        "DFFlagFixGetRegionLongestAxisDistance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:21:39",
+        "FFlagLargeReplicatorWrite5_Staged": "True;SteadyState;10;30;Revert;2025-09-25T17:22:22",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12406,9 +12408,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1841084100;2025-09-25T17:02:36",
-        "FStringFlagRepoGitHashFastString": "4600e4725d24202bcbd385571bc59076f61efe65",
-        "DFStringFlagRepoGitHashDynamicString": "4600e4725d24202bcbd385571bc59076f61efe65",
-        "FStringFlipTimeStampFastString": "2025-09-25T17:23:20.785Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:23:20.785Z"
+        "FStringFlagRepoGitHashFastString": "7f5423cb2cb5df7990c2663cc5a265e5a70558c6",
+        "DFStringFlagRepoGitHashDynamicString": "7f5423cb2cb5df7990c2663cc5a265e5a70558c6",
+        "FStringFlipTimeStampFastString": "2025-09-25T17:25:15.962Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:25:15.962Z"
     }
 }
