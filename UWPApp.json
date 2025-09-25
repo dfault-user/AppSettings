@@ -12075,9 +12075,6 @@
         "FFlagStudioTasksFutureShareMutexes": "True",
         "FFlagStudioActionsMultiplePayloads": "True",
         "FFlagAXCatalogCategoryPillsIXP": "True",
-        "FFlagGameSettingsRespectDevModes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:36:10",
-        "FFlagUGCValidatePreciseStepThrough_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1402663672;2025-09-25T16:36:36",
-        "FFlagGameSettingsRefactorMovementModeLogic_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:36:41",
         "DFFlagStrictMemOrderMidphase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:50:24",
         "FFlagReportSupportsHQShaders_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:53:38",
         "FFlagFixKeyboardFocusInfiniteLoop_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:54:17",
@@ -12109,6 +12106,10 @@
         "FFlagLuauSubtypingUnionsAndIntersectionsInGenericBounds": "True",
         "FFlagUGCValidatePreciseCurveLimit": "True",
         "FFlagSecretsEditorNoDraft_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:36:55",
+        "FFlagVoiceSendPeerConnectionSuccessOnDisconnected_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:37:00",
+        "FFlagUGCValidatePreciseStepThrough": "True",
+        "FFlagGameSettingsRefactorMovementModeLogic": "True",
+        "FFlagGameSettingsRespectDevModes": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12410,9 +12411,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1841084100;2025-09-25T17:02:36",
-        "FStringFlagRepoGitHashFastString": "2cccef511d9475708ec1cae79b2f1bc1590a4bf7",
-        "DFStringFlagRepoGitHashDynamicString": "2cccef511d9475708ec1cae79b2f1bc1590a4bf7",
-        "FStringFlipTimeStampFastString": "2025-09-25T17:41:23.066Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:41:23.066Z"
+        "FStringFlagRepoGitHashFastString": "9e0dc7caa1885b5d618c459e7bcc49814a3a8c44",
+        "DFStringFlagRepoGitHashDynamicString": "9e0dc7caa1885b5d618c459e7bcc49814a3a8c44",
+        "FStringFlipTimeStampFastString": "2025-09-25T17:43:10.936Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:43:10.936Z"
     }
 }
