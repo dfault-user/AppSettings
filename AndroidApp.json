@@ -12103,9 +12103,6 @@
         "FFlagLuauTypeCheckerVectorLerp": "True",
         "FFlagLuauVectorLerp": "True",
         "DFFlagTeleportReconnect3": "True",
-        "DFIntIsrTimestampOffsetSmoothingHundredths_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:11:41",
-        "FFlagLargeReplicatorWrite5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:13:42",
-        "FFlagLargeReplicatorStats3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:14:40",
         "GmaSdkAdReportFlowAndroidUI": "true",
         "FFlagRibbonIndicatorBugFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:26:50",
         "FFlagEnableWebViewURLLoadTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:28:14",
@@ -12128,6 +12125,9 @@
         "FFlagPrecomputeDeformVertices2": "True",
         "FFlagPrecomputeDeformVertices3": "True",
         "FFlagEnableLaunchAppValidCookieCheck": "True",
+        "FFlagLargeReplicatorStats3": "True",
+        "FFlagLargeReplicatorWrite5": "True",
+        "DFIntIsrTimestampOffsetSmoothingHundredths": "2",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13032,9 +13032,9 @@
         "DFIntRobloxTelemetryLoadTestStartThrottleHundredthsPercent_PlaceFilter": "100;109983668079237;96342491571673",
         "FFlagProductInfoBatchingCoalescingEnabled": "True",
         "DFStringLoadTestName_PlaceFilter": "get_product_info_load_test_simple;109983668079237;96342491571673",
-        "FStringFlagRepoGitHashFastString": "be4ba6dea5226d55c8620be7bf16582a681225a9",
-        "DFStringFlagRepoGitHashDynamicString": "be4ba6dea5226d55c8620be7bf16582a681225a9",
-        "FStringFlipTimeStampFastString": "2025-09-25T19:13:06.988Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T19:13:06.988Z"
+        "FStringFlagRepoGitHashFastString": "b9b65000240c25726c2268d04b841658ea96e799",
+        "DFStringFlagRepoGitHashDynamicString": "b9b65000240c25726c2268d04b841658ea96e799",
+        "FStringFlipTimeStampFastString": "2025-09-25T19:16:48.240Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T19:16:48.240Z"
     }
 }
