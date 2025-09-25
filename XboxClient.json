@@ -12047,7 +12047,7 @@
         "FStringEngineVoiceSdpCompressionIxpLayer_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
         "FFlagEngineVoiceSdpCompressionIxpEnabled_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
         "FFlagVoiceChatEnableSdpCompressionMaster3_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
-        "FFlagFixKeyboardFocusInfiniteLoop": "True",
+        "FFlagFixKeyboardFocusInfiniteLoop": "False",
         "FFlagFixLockCenterMouseClickAndScroll": "True",
         "FFlagSongbirdPopoverSubmenu2": "True",
         "FFlagAXEnableCategoryPills4": "True",
@@ -12075,8 +12075,6 @@
         "FFlagStudioTasksFutureShareMutexes": "True",
         "FFlagStudioActionsMultiplePayloads": "True",
         "FFlagAXCatalogCategoryPillsIXP": "True",
-        "FFlagReportSupportsHQShaders_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:53:38",
-        "FFlagFixKeyboardFocusInfiniteLoop_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:54:17",
         "FFlagLuauVectorLerp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:00:29",
         "FFlagLuauCompileVectorLerp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:01:28",
         "DFFlagSlimDontIncludeWorkspaceInModel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
@@ -12097,7 +12095,6 @@
         "DFFlagVideoMp4DoNotWriteTrackIfEmpty": "True",
         "FFlagLuaAppFetchGameDetailsIconIfMissing": "True",
         "DFFlagFixGetRegionLongestAxisDistance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:21:39",
-        "FFlagLargeReplicatorWrite5_Staged": "True;SteadyState;10;30;Revert;2025-09-25T17:22:22",
         "FFlagLRBridgeFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:23:50",
         "FIntWebBrowserWinCloseTimeoutMs": "10000",
         "FFlagSduiGameTileLogging": "True",
@@ -12112,6 +12109,7 @@
         "FFlagVoiceFireTelemetryFirstInLeaveOp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:45:29",
         "DFFlagStrictMemOrderMidphase": "True",
         "CaptureCountersIntervalInMinutes": "5",
+        "FFlagReportSupportsHQShaders": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -12464,9 +12462,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1841084100;2025-09-25T17:02:36",
-        "FStringFlagRepoGitHashFastString": "4b242a8f74fa5bec5bcc6c1fea83080622e8f114",
-        "DFStringFlagRepoGitHashDynamicString": "4b242a8f74fa5bec5bcc6c1fea83080622e8f114",
-        "FStringFlipTimeStampFastString": "2025-09-25T17:56:42.165Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:56:42.165Z"
+        "FStringFlagRepoGitHashFastString": "cd8605749e86728cfc7dd8d6f1627fda899008d6",
+        "DFStringFlagRepoGitHashDynamicString": "cd8605749e86728cfc7dd8d6f1627fda899008d6",
+        "FStringFlipTimeStampFastString": "2025-09-25T17:59:03.918Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:59:03.918Z"
     }
 }
