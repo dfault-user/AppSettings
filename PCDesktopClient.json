@@ -11970,7 +11970,7 @@
         "FStringTutorialUpsellPlaceId": "110558303662903",
         "DFIntAcousticSimulationForegroundCost": "100",
         "FIntOcclusionSolverInitialMaxSearchIterations": "400",
-        "FFlagCachelessPluginLoading2": "True",
+        "FFlagCachelessPluginLoading2": "False",
         "FFlagVideoWinHwEncoderFirstSampleMarker": "True",
         "FFlagCorrectGuiStateMouseDownAndroid": "True",
         "FFlagLuaAppFixPlayButtonDefaultLaunchSource": "True",
@@ -12109,8 +12109,6 @@
         "AllowVideoPreRoll": "True",
         "FFlagVoiceSendPeerConnectionSuccessOnDisconnected": "True",
         "FFlagSecretsEditorNoDraft": "True",
-        "FFlagCachelessPluginLoading2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:41:52",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagVoiceFireTelemetryFirstInLeaveOp": "True",
         "FFlagRobloxTouchGestureFixPositions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1201567471;2025-09-25T18:50:48",
         "FFlagRobloxTouchSwipeStartFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1201567471;2025-09-25T18:50:48",
@@ -12138,6 +12136,8 @@
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagSTUDIOPLAT40830FloatingWindowCloseTab": "True",
         "DFFlagInstanceSanitization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T19:44:07",
+        "FIntUnfilteredThreadsPvDelayMs_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1249381256;2025-09-25T19:47:04",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13109,9 +13109,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "DFFlagFlagCacheColdRun": "True",
-        "FStringFlagRepoGitHashFastString": "be865e8b5fee10cbe51591f088383462c12c2af0",
-        "DFStringFlagRepoGitHashDynamicString": "be865e8b5fee10cbe51591f088383462c12c2af0",
-        "FStringFlipTimeStampFastString": "2025-09-25T19:46:08.715Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T19:46:08.715Z"
+        "FStringFlagRepoGitHashFastString": "396513984df1a09cdae85896c5d3f9f1c5a1a1f4",
+        "DFStringFlagRepoGitHashDynamicString": "396513984df1a09cdae85896c5d3f9f1c5a1a1f4",
+        "FStringFlipTimeStampFastString": "2025-09-25T19:49:32.519Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T19:49:32.519Z"
     }
 }
