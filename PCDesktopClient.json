@@ -12127,6 +12127,8 @@
         "FIntSlimPropertySetQuantizeTN_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1878136686;2025-09-25T18:14:16",
         "FFlagLargeReplicatorStats3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:14:40",
         "GmaSdkAdReportFlowAndroidUI": "true",
+        "FFlagRibbonIndicatorBugFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:26:50",
+        "FFlagEnableWebViewURLLoadTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:28:14",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -12593,7 +12595,7 @@
         "DFFlagLoadTestingEnabled3_PlaceFilter": "True;109983668079237",
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
         "FFlagAXUnifiedLoggingValidation": "False",
-        "FFlagAXAvatarsTabNoItemsFound": "True",
+        "FFlagAXAvatarsTabNoItemsFound": "False",
         "FFlagAXCategoryById3": "True",
         "DFFlagVoiceSdpCompressionRecordNetworkPriority": "True",
         "FFlagShowPbrInfoRow2": "True",
@@ -12631,7 +12633,6 @@
         "FFlagEnableSocialSelfProfileViewExposureEvents": "True",
         "FFlagAXUnifiedLoggingValidation1": "True",
         "FFlagCallVoiceLeaveOnNetworkDisconnect2": "True",
-        "FFlagAXAvatarsTabNoItemsFound_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:18:43",
         "DFFlagHapticEffectEnded": "True",
         "DFFlagSQLiteCacheSkipNegativeSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:43:37",
         "FFlagVoiceLeaveOnDmClose": "True",
@@ -13102,9 +13103,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "DFFlagFlagCacheColdRun_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:41:50",
-        "FStringFlagRepoGitHashFastString": "97d7ace308b62f1f9901bced4fe4e8eed68ec5b3",
-        "DFStringFlagRepoGitHashDynamicString": "97d7ace308b62f1f9901bced4fe4e8eed68ec5b3",
-        "FStringFlipTimeStampFastString": "2025-09-25T18:29:21.978Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T18:29:21.978Z"
+        "FStringFlagRepoGitHashFastString": "5e2abd39eebb8af2a7680e60d275b8e73e4b615f",
+        "DFStringFlagRepoGitHashDynamicString": "5e2abd39eebb8af2a7680e60d275b8e73e4b615f",
+        "FStringFlipTimeStampFastString": "2025-09-25T18:31:16.489Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T18:31:16.489Z"
     }
 }
