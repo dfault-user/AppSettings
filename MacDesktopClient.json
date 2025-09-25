@@ -12076,7 +12076,7 @@
         "FFlagStudioActionsMultiplePayloads": "True",
         "FFlagAXCatalogCategoryPillsIXP": "True",
         "DFFlagStrictMemOrderMidphase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:50:24",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagFixKeyboardFocusInfiniteLoop_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T16:54:17",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
@@ -12089,7 +12089,7 @@
         "DFIntSlimTransitionStreamingRadiusPercentage_Staged": "75;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
         "DFStringSlimMajorVersion_Staged": "v0.16;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1690205648;2025-09-25T17:01:48",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
+        "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "DFFlagPlaceLauncherHttpResponseTelemetryFieldForFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1841084100;2025-09-25T17:02:36",
         "FFlagFlowQueryParamEnabledStartRegistration": "True",
         "FFlagPasswordManagerAwaitEnabled1": "True",
@@ -12110,7 +12110,7 @@
         "FFlagUGCValidatePreciseStepThrough": "True",
         "FFlagGameSettingsRefactorMovementModeLogic": "True",
         "FFlagGameSettingsRespectDevModes": "True",
-        "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFFlagEnableFdTracking": "True",
         "FFlagIncreaseFileDescriptorLimit": "True",
         "FFlagVoxelGridFixUpsample": "True",
@@ -13026,9 +13026,9 @@
         "DFFlagUseNewPhysicsMeshDecoderForAero": "True",
         "DFFlagUsePhysicsMeshDecoderInBulletWrapper": "True",
         "FFlagTerrainOneTouch690": "True",
-        "FStringFlagRepoGitHashFastString": "7142017ef38f66def902e72709401b80d3522f3d",
-        "DFStringFlagRepoGitHashDynamicString": "7142017ef38f66def902e72709401b80d3522f3d",
-        "FStringFlipTimeStampFastString": "2025-09-25T17:46:20.800Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:46:20.800Z"
+        "FStringFlagRepoGitHashFastString": "640d9826e9e69eed83b1d3594cd0c4fb1a3c40f1",
+        "DFStringFlagRepoGitHashDynamicString": "640d9826e9e69eed83b1d3594cd0c4fb1a3c40f1",
+        "FStringFlipTimeStampFastString": "2025-09-25T17:48:53.889Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T17:48:53.889Z"
     }
 }
