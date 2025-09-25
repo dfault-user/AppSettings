@@ -12080,8 +12080,6 @@
         "FFlagFixUploadSessionHandleInstantRequests": "True",
         "DFFlagVideoMp4DoNotWriteTrackIfEmpty": "True",
         "FFlagLuaAppFetchGameDetailsIconIfMissing": "True",
-        "DFFlagFixGetRegionLongestAxisDistance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:21:39",
-        "FFlagLRBridgeFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:23:50",
         "FIntWebBrowserWinCloseTimeoutMs": "10000",
         "FFlagSduiGameTileLogging": "True",
         "FFlagLuauSubtypingReportGenericBoundMismatches2": "True",
@@ -12130,6 +12128,10 @@
         "FFlagRibbonIndicatorBugFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:26:50",
         "FFlagEnableWebViewURLLoadTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:28:14",
         "FFlagEnableLinkSharingEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:22:56",
+        "DFFlagFixGetRegionLongestAxisDistance": "True",
+        "FFlagLRBridgeFix": "True",
+        "FFlagEnableNewParameterInFormatEconomicRestrictionText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:29:25",
+        "AllowVideoPreRoll": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -12637,7 +12639,6 @@
         "DFFlagHapticEffectEnded": "True",
         "DFFlagSQLiteCacheSkipNegativeSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:43:37",
         "FFlagVoiceLeaveOnDmClose": "True",
-        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13104,9 +13105,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "DFFlagFlagCacheColdRun_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T17:41:50",
-        "FStringFlagRepoGitHashFastString": "abf9bce266242373d687ebdef1ae6b6ea52f56d8",
-        "DFStringFlagRepoGitHashDynamicString": "abf9bce266242373d687ebdef1ae6b6ea52f56d8",
-        "FStringFlipTimeStampFastString": "2025-09-25T18:33:16.197Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T18:33:16.197Z"
+        "FStringFlagRepoGitHashFastString": "4bba1002580037d146199479e2b5d0c9725bb02f",
+        "DFStringFlagRepoGitHashDynamicString": "4bba1002580037d146199479e2b5d0c9725bb02f",
+        "FStringFlipTimeStampFastString": "2025-09-25T18:35:20.073Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T18:35:20.073Z"
     }
 }
