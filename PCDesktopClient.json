@@ -12106,7 +12106,6 @@
         "GmaSdkAdReportFlowAndroidUI": "true",
         "DFFlagFixGetRegionLongestAxisDistance": "True",
         "FFlagLRBridgeFix": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagVoiceSendPeerConnectionSuccessOnDisconnected": "True",
         "FFlagSecretsEditorNoDraft": "True",
         "FFlagVoiceFireTelemetryFirstInLeaveOp": "True",
@@ -12126,7 +12125,6 @@
         "FFlagRobloxTouchSwipeStartFix": "True",
         "FFlagAudioDiscoveryHandleAudioPlayer": "True",
         "FFlagAudioDiscoveryHandleRandomAssetIds": "True",
-        "DFFlagSupportZeroScaleConvexShapes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T20:00:52",
         "FFlagPerfDataOnTelemetryV2HighCardinalityFields": "True",
         "FFlagScaleToBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T20:13:38",
         "FFlagExportAddPositionAccessorBounds_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1783635480;2025-09-25T20:24:00",
@@ -12148,6 +12146,8 @@
         "DFFlagPlaceLauncherReconnectFreshConnection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T21:03:30",
         "FFlagGameTileRightCornerButtonActuallyMountsOnTheRight": "True",
         "FFlagLuaAppAudioMetadataSupport": "True",
+        "DFFlagSupportZeroScaleConvexShapes": "True",
+        "FFlagAXSupportPBRInItemViewport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T21:09:26",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12656,6 +12656,7 @@
         "FFlagVoiceLeaveOnDmClose": "True",
         "DFFlagSQLiteCacheSkipNegativeSize": "True",
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T20:55:00",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13122,9 +13123,9 @@
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "DFFlagFlagCacheColdRun": "True",
         "FFlagExpChatTelemetryEventTrigger3": "True",
-        "FStringFlagRepoGitHashFastString": "8625c0dae19b25bd719b734f5076800d6fb202be",
-        "DFStringFlagRepoGitHashDynamicString": "8625c0dae19b25bd719b734f5076800d6fb202be",
-        "FStringFlipTimeStampFastString": "2025-09-25T21:08:42.512Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T21:08:42.512Z"
+        "FStringFlagRepoGitHashFastString": "4dd1311b1515514d4073593f0cdfd18569450a25",
+        "DFStringFlagRepoGitHashDynamicString": "4dd1311b1515514d4073593f0cdfd18569450a25",
+        "FStringFlipTimeStampFastString": "2025-09-25T21:11:36.357Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T21:11:36.357Z"
     }
 }
