@@ -12126,7 +12126,6 @@
         "FFlagAudioDiscoveryHandleAudioPlayer": "True",
         "FFlagAudioDiscoveryHandleRandomAssetIds": "True",
         "FFlagPerfDataOnTelemetryV2HighCardinalityFields": "True",
-        "FFlagScaleToBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T20:13:38",
         "FFlagExportAddPositionAccessorBounds_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1783635480;2025-09-25T20:24:00",
         "FFlagGltfParseSetTranslationForSkins_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1966257420;2025-09-25T20:26:23",
         "FFlagImprovedModelLODBetaFeature": "True",
@@ -12149,6 +12148,7 @@
         "DFFlagSupportZeroScaleConvexShapes": "True",
         "FFlagAXSupportPBRInItemViewport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T21:09:26",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagScaleToBug": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13063,9 +13063,9 @@
         "FFlagTerrainOneTouch690": "True",
         "DFFlagFlagCacheColdRun": "True",
         "FFlagExpChatTelemetryEventTrigger3": "True",
-        "FStringFlagRepoGitHashFastString": "a11e8dd11ed436fdac5a89a1558f60259d41c9dd",
-        "DFStringFlagRepoGitHashDynamicString": "a11e8dd11ed436fdac5a89a1558f60259d41c9dd",
-        "FStringFlipTimeStampFastString": "2025-09-25T21:21:34.098Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T21:21:34.098Z"
+        "FStringFlagRepoGitHashFastString": "3351f6628a59613a53e7184e0caed302ff8142ab",
+        "DFStringFlagRepoGitHashDynamicString": "3351f6628a59613a53e7184e0caed302ff8142ab",
+        "FStringFlipTimeStampFastString": "2025-09-25T21:23:48.719Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T21:23:48.719Z"
     }
 }
