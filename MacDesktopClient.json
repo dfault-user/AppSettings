@@ -12110,8 +12110,6 @@
         "FFlagVoiceSendPeerConnectionSuccessOnDisconnected": "True",
         "FFlagSecretsEditorNoDraft": "True",
         "FFlagVoiceFireTelemetryFirstInLeaveOp": "True",
-        "FFlagAudioDiscoveryHandleRandomAssetIds_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:55:33",
-        "FFlagAudioDiscoveryHandleAudioPlayer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T18:55:43",
         "FFlagPerfDataOnTelemetryV2HighCardinalityFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T19:02:28",
         "FFlagPrecomputeDeformVertices2": "True",
         "FFlagPrecomputeDeformVertices3": "True",
@@ -12139,6 +12137,8 @@
         "FFlagLuaAppDeveloperProfileBackFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-25T19:54:06",
         "FFlagRobloxTouchGestureFixPositions": "True",
         "FFlagRobloxTouchSwipeStartFix": "True",
+        "FFlagAudioDiscoveryHandleAudioPlayer": "True",
+        "FFlagAudioDiscoveryHandleRandomAssetIds": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13052,9 +13052,9 @@
         "FFlagTerrainOneTouch690": "True",
         "DFFlagFlagCacheColdRun": "True",
         "FFlagExpChatTelemetryEventTrigger3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;925196431;2025-09-25T19:56:45",
-        "FStringFlagRepoGitHashFastString": "6478fc5567cb65ce68aace68b0c4955823d4770c",
-        "DFStringFlagRepoGitHashDynamicString": "6478fc5567cb65ce68aace68b0c4955823d4770c",
-        "FStringFlipTimeStampFastString": "2025-09-25T20:00:37.557Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-25T20:00:37.557Z"
+        "FStringFlagRepoGitHashFastString": "62cf19eeb0ee9ffa09cc8dd9480ad93875c0b20e",
+        "DFStringFlagRepoGitHashDynamicString": "62cf19eeb0ee9ffa09cc8dd9480ad93875c0b20e",
+        "FStringFlipTimeStampFastString": "2025-09-25T20:03:15.221Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-25T20:03:15.221Z"
     }
 }
