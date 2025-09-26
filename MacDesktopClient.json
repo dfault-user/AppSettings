@@ -12161,7 +12161,6 @@
         "DFFlagSolverV2CleanupPendingModelStreamingModeModels": "True",
         "FFlagSolverV2RefactorReplicationStateUpdate": "True",
         "FFlagDeltaFactoryCloneCountryRegionCode": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagLuaAppBootcampIntroUABOOTCAMP86_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T16:25:14",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "DFIntRobloxTelemetryProductInfoBatchingAnalyticsThrottleHundredthsPercent_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T16:29:53",
@@ -12173,6 +12172,9 @@
         "FIntExpChatWindowScrollV2Debounce_Staged": "400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2015260033;2025-09-26T17:13:24",
         "FIntExpChatWindowScrollV3Debounce_Staged": "400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2015260033;2025-09-26T17:13:24",
         "FFlagOCClearStaleOccluderMeshIdx": "True",
+        "FFlagFoundationInputLabelBoldTypography": "True",
+        "FFlagLargeReplicatorWrite5_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T17:27:37",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12597,7 +12599,6 @@
         "DFFlagSQLiteCacheReportSizeMismatch": "True",
         "DFFlagTextGenerationAdvancedProperties": "True",
         "FFlagRemoveDeprecatedSavePlaceAsync": "True",
-        "FFlagFoundationInputLabelBoldTypography": "True",
         "DFFlagAddRefreshHeaderToAssetDelivery": "True",
         "DFFlagParseRecItemFromLib_PlaceFilter": "True;106376719367261;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;133917534752598;131039090936858;133158022557590;119524072047648;118171263682820;113264304314057;77362637584345;92758961278039",
         "DFFlagParseRecCustomTags_PlaceFilter": "True;106376719367261;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;133917534752598;131039090936858;133158022557590;119524072047648;118171263682820;113264304314057;77362637584345;92758961278039",
@@ -13085,9 +13086,9 @@
         "FFlagExpChatSendLoadSuccessEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;768942587;2025-09-26T17:11:06",
         "FFlagTextChatFixTelemetryFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1021721684;2025-09-26T17:19:16",
         "FFlagTextChatMoveTextSourceAdded_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1021721684;2025-09-26T17:19:16",
-        "FStringFlagRepoGitHashFastString": "548cb26a004491de8049d24a285d5f73a43b6d21",
-        "DFStringFlagRepoGitHashDynamicString": "548cb26a004491de8049d24a285d5f73a43b6d21",
-        "FStringFlipTimeStampFastString": "2025-09-26T17:27:01.586Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-26T17:27:01.586Z"
+        "FStringFlagRepoGitHashFastString": "47bd12af69c16911de1539e1942846673ab322d6",
+        "DFStringFlagRepoGitHashDynamicString": "47bd12af69c16911de1539e1942846673ab322d6",
+        "FStringFlipTimeStampFastString": "2025-09-26T17:29:35.969Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-26T17:29:35.969Z"
     }
 }
