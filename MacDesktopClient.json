@@ -12165,8 +12165,6 @@
         "FFlagLuaAppBootcampIntroUABOOTCAMP86": "True",
         "DFFlagLoadTestingEnabled3": "True",
         "FFlagLuauRemoveGenericErrorForParams": "True",
-        "FFlagEnableClientSettingAPIInProduction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1829711134;2025-09-26T17:47:14",
-        "FFlagUseClientSettingAPI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1829711134;2025-09-26T17:47:14",
         "FFlagAppNavLabelScaling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T17:50:09",
         "FFlagFileSyncerIOHandlerEnableDeduplication": "True",
         "FIntExpChatWindowScrollV2Debounce": "400",
@@ -12177,6 +12175,8 @@
         "DFFlagFixCrashDueToZeroWorkers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T18:27:50",
         "DFFlagResetNetworkOwnerOnRemovePrimitive_Staged": "True;SteadyState;10;30;Revert;2025-09-26T18:34:16",
         "DFIntExpChatWindowScrollThrottlePermyriad": "100",
+        "FFlagEnableClientSettingAPIInProduction": "True",
+        "FFlagUseClientSettingAPI": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13090,9 +13090,9 @@
         "FFlagExpChatSendLoadSuccessEvent": "True",
         "FFlagTextChatFixTelemetryFields": "True",
         "FFlagTextChatMoveTextSourceAdded": "True",
-        "FStringFlagRepoGitHashFastString": "1527921507b0d9ea7a607023372bcc9bd03900b5",
-        "DFStringFlagRepoGitHashDynamicString": "1527921507b0d9ea7a607023372bcc9bd03900b5",
-        "FStringFlipTimeStampFastString": "2025-09-26T18:50:23.170Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-26T18:50:23.170Z"
+        "FStringFlagRepoGitHashFastString": "1c5bacb3ebeb82a7e6ed45a713c5a36957312c4c",
+        "DFStringFlagRepoGitHashDynamicString": "1c5bacb3ebeb82a7e6ed45a713c5a36957312c4c",
+        "FStringFlipTimeStampFastString": "2025-09-26T18:51:52.627Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-26T18:51:52.627Z"
     }
 }
