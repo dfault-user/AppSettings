@@ -12173,6 +12173,8 @@
         "FFlagFileSyncerIOHandlerEnableDeduplication_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T16:57:37",
         "FFlagEnableClientSettingAPIInProduction_IXP": "1;Portal.StudioOtaWithCVS-1758579436;StudioOtaWithCVS;1148121372;flagbank",
         "FFlagUseClientSettingAPI_IXP": "1;Portal.StudioOtaWithCVS-1758579436;StudioOtaWithCVS;1148121372;flagbank",
+        "FIntExpChatWindowScrollV2Debounce_Staged": "400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2015260033;2025-09-26T17:13:24",
+        "FIntExpChatWindowScrollV3Debounce_Staged": "400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2015260033;2025-09-26T17:13:24",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13075,9 +13077,9 @@
         "DFIntRobloxTelemetryLoadTestStartThrottleHundredthsPercent_PlaceFilter": "100;109983668079237;96342491571673",
         "FFlagProductInfoBatchingCoalescingEnabled": "True",
         "DFStringLoadTestName_PlaceFilter": "get_product_info_load_test_simple;109983668079237;96342491571673",
-        "FStringFlagRepoGitHashFastString": "80ac2bcbad48d374b7058d63c98ce65daade809d",
-        "DFStringFlagRepoGitHashDynamicString": "80ac2bcbad48d374b7058d63c98ce65daade809d",
-        "FStringFlipTimeStampFastString": "2025-09-26T17:13:00.638Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-26T17:13:00.638Z"
+        "FStringFlagRepoGitHashFastString": "f039eb6f74c67654e8a23a9da96cd51461ee4fca",
+        "DFStringFlagRepoGitHashDynamicString": "f039eb6f74c67654e8a23a9da96cd51461ee4fca",
+        "FStringFlipTimeStampFastString": "2025-09-26T17:15:22.648Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-26T17:15:22.648Z"
     }
 }
