@@ -3555,7 +3555,7 @@
         "FFlagAXFixScrollToTopBug": "True",
         "FFlagVoiceChatStopSendingIceCandidate_PlaceFilter": "True;13813379456",
         "DFFlagStreamingCloudEditStatsReportingFix": "True",
-        "DFIntVoiceChatTurnAuthRefreshBufferMs": "15000",
+        "DFIntVoiceChatTurnAuthRefreshBufferMs": "300000",
         "FFlagAIDiffMessageBackgroundHighlight": "True",
         "FFlagFixSubmenuCloseIOS": "True",
         "FFlagStudioPluginPopupFixedSizePropertyNoFlicker": "True",
@@ -12160,8 +12160,6 @@
         "DFFlagSolverV2CleanupPendingModelStreamingModeModels": "True",
         "FFlagSolverV2RefactorReplicationStateUpdate": "True",
         "FFlagDeltaFactoryCloneCountryRegionCode": "True",
-        "FFlagLuauRemoveGenericErrorForParams_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T16:31:39",
-        "DFIntVoiceChatTurnAuthRefreshBufferMs_Staged": "300000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1445503924;2025-09-26T16:33:20",
         "FFlagFileSyncerIOHandlerEnableDeduplication_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T16:57:37",
         "FFlagEnableClientSettingAPIInProduction_IXP": "1;Portal.StudioOtaWithCVS-1758579436;StudioOtaWithCVS;1148121372;flagbank",
         "FFlagUseClientSettingAPI_IXP": "1;Portal.StudioOtaWithCVS-1758579436;StudioOtaWithCVS;1148121372;flagbank",
@@ -12173,6 +12171,7 @@
         "FFlagLuaAppBootcampIntroUABOOTCAMP86": "True",
         "DFFlagLoadTestingEnabled3": "True",
         "FFlagLargeReplicatorStats3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T17:35:45",
+        "FFlagLuauRemoveGenericErrorForParams": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12474,9 +12473,9 @@
         "FFlagAXDisableGamepadPanning": "True",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
-        "FStringFlagRepoGitHashFastString": "ce54391e07d0010c472e273a6a1c3a7b18ad5df4",
-        "DFStringFlagRepoGitHashDynamicString": "ce54391e07d0010c472e273a6a1c3a7b18ad5df4",
-        "FStringFlipTimeStampFastString": "2025-09-26T17:37:32.565Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-26T17:37:32.565Z"
+        "FStringFlagRepoGitHashFastString": "be5fa6f92530ce69b788cd49d41726fe362ce45b",
+        "DFStringFlagRepoGitHashDynamicString": "be5fa6f92530ce69b788cd49d41726fe362ce45b",
+        "FStringFlipTimeStampFastString": "2025-09-26T17:42:30.529Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-26T17:42:30.529Z"
     }
 }
