@@ -12177,6 +12177,7 @@
         "FFlagRemoveUpdateAvailableShortcut_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T18:16:59",
         "FFlagObjectBrowserManagerRemoveRESTRICTEDActionManager_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T18:18:12",
         "DFFlagFixCrashDueToZeroWorkers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-26T18:27:50",
+        "DFFlagResetNetworkOwnerOnRemovePrimitive_Staged": "True;SteadyState;10;30;Revert;2025-09-26T18:34:16",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13090,9 +13091,9 @@
         "FFlagExpChatSendLoadSuccessEvent": "True",
         "FFlagTextChatFixTelemetryFields": "True",
         "FFlagTextChatMoveTextSourceAdded": "True",
-        "FStringFlagRepoGitHashFastString": "b3d82fe9784431daaeffc7e0fa5743106d2d501b",
-        "DFStringFlagRepoGitHashDynamicString": "b3d82fe9784431daaeffc7e0fa5743106d2d501b",
-        "FStringFlipTimeStampFastString": "2025-09-26T18:33:22.763Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-26T18:33:22.763Z"
+        "FStringFlagRepoGitHashFastString": "645bc55c445931b8bdaa287a8875e105fb996728",
+        "DFStringFlagRepoGitHashDynamicString": "645bc55c445931b8bdaa287a8875e105fb996728",
+        "FStringFlipTimeStampFastString": "2025-09-26T18:37:10.996Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-26T18:37:10.996Z"
     }
 }
