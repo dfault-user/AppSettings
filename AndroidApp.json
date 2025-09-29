@@ -12179,7 +12179,6 @@
         "FFlagLuauAddErrorCaseForIncompatibleTypePacks": "True",
         "GmasdkFixUiContainerCoverAds": "true",
         "DFIntProductInfoBatchingMaxSize_PlaceFilter": "1;109983668079237;96342491571673",
-        "FFlagStudioFixCurrentDocWithFloatingWindows_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:42:13",
         "FFlagEnablePreferredTextSizeStyleFixesInAvatarExp4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1119579434;2025-09-29T16:49:41",
         "FFlagEnableV2SquadJoinButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:54:39",
         "FFlagExpChatTelemetryEventTrigger3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1139791828;2025-09-29T16:55:24",
@@ -12201,6 +12200,8 @@
         "DFFlagDontRemoveCaptureServiceTempDirectoryOnShutdown": "True",
         "FFlagRenderFixParticleFarDepthFade_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:37:54",
         "FFlagRemoveServiceEfficiencyAvatarGeneration": "True",
+        "FFlagUpdateInsertGuiActionsContextually_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:44:21",
+        "FFlagStudioFixCurrentDocWithFloatingWindows": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13104,9 +13105,12 @@
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Mobile.Only;161352664;flagbank",
         "FFlagCallVoiceLeaveOnNetworkDisconnect": "True",
         "FFlagProductInfoBatchingCoalescingEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:20:07",
-        "FStringFlagRepoGitHashFastString": "e10cdcd13ea53091c54385c0b8f876eea43e33ae",
-        "DFStringFlagRepoGitHashDynamicString": "e10cdcd13ea53091c54385c0b8f876eea43e33ae",
-        "FStringFlipTimeStampFastString": "2025-09-29T17:42:46.384Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T17:42:46.384Z"
+        "FFlagEnableBlacklistSurfaceAppearanceDithering_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2008481077;2025-09-29T17:44:56",
+        "FStringBlacklistSurfaceAppearanceDithering_Staged": ".*:PowerVR D-Series DXT-48-1536 MC1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2008481077;2025-09-29T17:44:56",
+        "FStringPowerVRWhitelistMSAA_Staged": ".*:PowerVR D-Series DXT-48-1536 MC1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2008481077;2025-09-29T17:44:56",
+        "FStringFlagRepoGitHashFastString": "4a6245fd9258f7ad54d76651a144e9e4cd08b6d1",
+        "DFStringFlagRepoGitHashDynamicString": "4a6245fd9258f7ad54d76651a144e9e4cd08b6d1",
+        "FStringFlipTimeStampFastString": "2025-09-29T17:47:19.292Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T17:47:19.292Z"
     }
 }
