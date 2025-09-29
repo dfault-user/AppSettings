@@ -11998,7 +11998,7 @@
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
         "FFlagVideoWinEncodeSampleTracking": "True",
         "DFIntISRInstanceBlockTimeoutWorldSteps": "2400",
-        "UseApplicationLifecycleCallbacks": "True",
+        "UseApplicationLifecycleCallbacks": "false",
         "FFlagLuaAppUnifyPlayButtonAllSurfacesIxp": "True",
         "FFlagAXOutlineSubcategoryPill": "True",
         "FFlagAXDisableHiddenCatalogCategoryPills": "True",
@@ -12177,7 +12177,6 @@
         "FFlagRemoveUpdateAvailableShortcut": "True",
         "DFFlagFixCrashDueToZeroWorkers": "True",
         "FFlagLuauAddErrorCaseForIncompatibleTypePacks": "True",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagAvatarGenerationAvatarScaleFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:15:02",
         "FFlagSimEnableCreateBone_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:17:34",
@@ -12197,6 +12196,8 @@
         "FFlagWebBrowserSTM6490AllowExternalDrop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;786588317;2025-09-29T17:02:59",
         "FFlagUserFixFreecamPointerAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:04:33",
         "FFlagFCDecrementVertexCount": "True",
+        "FFlagEnableNativeiOSFeatureNavigationTelemetry3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:09:31",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13167,9 +13168,9 @@
         "FFlagExpChatSendLoadSuccessEvent": "True",
         "FFlagTextChatFixTelemetryFields": "True",
         "FFlagTextChatMoveTextSourceAdded": "True",
-        "FStringFlagRepoGitHashFastString": "95de2d7c1b5c41c6c9b45a5f1eec5730bba526f0",
-        "DFStringFlagRepoGitHashDynamicString": "95de2d7c1b5c41c6c9b45a5f1eec5730bba526f0",
-        "FStringFlipTimeStampFastString": "2025-09-29T17:05:49.244Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T17:05:49.244Z"
+        "FStringFlagRepoGitHashFastString": "43cb832f194449cab091e03e8659cf788eae9bac",
+        "DFStringFlagRepoGitHashDynamicString": "43cb832f194449cab091e03e8659cf788eae9bac",
+        "FStringFlipTimeStampFastString": "2025-09-29T17:11:16.227Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T17:11:16.227Z"
     }
 }
