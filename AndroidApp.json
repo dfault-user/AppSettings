@@ -12243,7 +12243,6 @@
         "DFIntExpChatLoadSuccessThrottlePermyriad": "1000",
         "FFlagDisableiOSDialogsHybridModule": "True",
         "FFlagFoundationNoArrowOnVirtualRef": "True",
-        "DFFlagSaferCharInputHandling3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T21:13:14",
         "FFlagReportParticleEmitterStats": "True",
         "FFlagAudioEngineFasterDspConnectionLookup": "True",
         "DFFlagHttpNetworkChangeOnLostConnection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T21:30:43",
@@ -12255,6 +12254,8 @@
         "DFFlagMicroprofilerLabelSubstitution2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T21:58:08",
         "FFlagAXAvatarPurchaseFromHomeLookDetailsClose2": "True",
         "DFIntInferredCrashReportToBacktraceThrottleHundredthsPercentage": "10",
+        "DFFlagSaferCharInputHandling3": "True",
+        "DFFlagVideoMarkRodeoDataInHttpCache2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T22:17:54",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13155,9 +13156,9 @@
         "FStringPowerVRWhitelistMSAA": ".*:PowerVR D-Series DXT-48-1536 MC1",
         "FFlagFmodMixerCheckStream": "True",
         "DFIntPerformanceControlCrashMetricAlgorithmType_Staged": "4;SteadyState;10;30;Revert;2025-09-29T21:53:58",
-        "FStringFlagRepoGitHashFastString": "ca4b301ba0ab6d996eb8458183400e0e83dbe2ef",
-        "DFStringFlagRepoGitHashDynamicString": "ca4b301ba0ab6d996eb8458183400e0e83dbe2ef",
-        "FStringFlipTimeStampFastString": "2025-09-29T22:14:30.610Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T22:14:30.610Z"
+        "FStringFlagRepoGitHashFastString": "eaeade24ac19efbf0526d610065df680b2c2635a",
+        "DFStringFlagRepoGitHashDynamicString": "eaeade24ac19efbf0526d610065df680b2c2635a",
+        "FStringFlipTimeStampFastString": "2025-09-29T22:19:02.287Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T22:19:02.287Z"
     }
 }
