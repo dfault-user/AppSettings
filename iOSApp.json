@@ -12114,7 +12114,7 @@
         "FFlagEnableWebViewURLLoadTelemetry": "True",
         "FFlagEnableNewParameterInFormatEconomicRestrictionText": "True",
         "FFlagSTUDIOPLAT40830FloatingWindowCloseTab": "False",
-        "FFlagRobloxTouchGestureFixPositions": "True",
+        "FFlagRobloxTouchGestureFixPositions": "False",
         "FFlagRobloxTouchSwipeStartFix": "True",
         "FFlagAudioDiscoveryHandleAudioPlayer": "True",
         "FFlagAudioDiscoveryHandleRandomAssetIds": "True",
@@ -12248,8 +12248,6 @@
         "FFlagAXAvatarPurchaseFromHomeLookDetailsClose2": "True",
         "DFIntInferredCrashReportToBacktraceThrottleHundredthsPercentage": "10",
         "DFFlagSaferCharInputHandling3": "True",
-        "DFFlagWebSocketTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;458128043;2025-09-29T22:27:02",
-        "FFlagRobloxTouchGestureFixPositions_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;877322262;2025-09-29T22:30:16",
         "FFlagUpdateVirtualCursorLastInputMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2045686906;2025-09-29T22:35:49",
         "FFlagFastClusterIgnoreMeshPartJointOffset": "True",
         "DFFlagHttpNetworkChangeOnLostConnection": "True",
@@ -12267,6 +12265,7 @@
         "DFFlagResetNetworkOwnerOnRemovePrimitive_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T23:24:19",
         "AllowVideoPreRoll": "True",
         "DFFlagSerializerBinaryUnsignedOrientId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T23:25:44",
+        "DFFlagWebSocketTelemetry": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13138,12 +13137,12 @@
         "DFIntDiskUsageNegativeExperimenHundredthsPercent": "10000",
         "FFlagEnableNegativeDiskSizeExperiment": "True",
         "FStringAvailableDiskLayer": "ConsumerPlatforms.DiskUsageLayer",
-        "FFlagRbxStorageRecoverPermFromCache_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T22:28:55",
         "DFFlagMouseInScrollingFrameShouldConsiderBar_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;880392066;2025-09-29T22:31:54",
         "FStringLuaOTATag_Staged": "ReleaseCandidate;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T23:24:28",
-        "FStringFlagRepoGitHashFastString": "1f872a9e62409db1a4577f9c7e185232784ca5e3",
-        "DFStringFlagRepoGitHashDynamicString": "1f872a9e62409db1a4577f9c7e185232784ca5e3",
-        "FStringFlipTimeStampFastString": "2025-09-29T23:28:05.538Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T23:28:05.538Z"
+        "FFlagRbxStorageRecoverPermFromCache": "True",
+        "FStringFlagRepoGitHashFastString": "a61d37f011abf83018cd7b7011a6bb935d16300a",
+        "DFStringFlagRepoGitHashDynamicString": "a61d37f011abf83018cd7b7011a6bb935d16300a",
+        "FStringFlipTimeStampFastString": "2025-09-29T23:35:10.917Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T23:35:10.917Z"
     }
 }
