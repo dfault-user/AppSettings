@@ -3555,7 +3555,7 @@
         "FFlagAXFixScrollToTopBug": "True",
         "FFlagVoiceChatStopSendingIceCandidate_PlaceFilter": "True;13813379456",
         "DFFlagStreamingCloudEditStatsReportingFix": "True",
-        "DFIntVoiceChatTurnAuthRefreshBufferMs": "300000",
+        "DFIntVoiceChatTurnAuthRefreshBufferMs": "900000",
         "FFlagAIDiffMessageBackgroundHighlight": "True",
         "FFlagFixSubmenuCloseIOS": "True",
         "FFlagStudioPluginPopupFixedSizePropertyNoFlicker": "True",
@@ -12205,7 +12205,6 @@
         "FFlagReverbCentroidRolloff": "True",
         "FFlagReverbDualRoutingFix": "True",
         "DFFlagReverbPropertyTweaks": "True",
-        "DFIntVoiceChatTurnAuthRefreshBufferMs_Staged": "900000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1445503924;2025-09-29T19:14:49",
         "DFFlagVoiceChatSendTurnAndJanusInformationInReliabilityEvent": "True",
         "FFlagExpChatSendLoadSuccessEvent": "True",
         "FFlagTextChatFixTelemetryFields": "True",
@@ -12546,9 +12545,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "fe520c029de2ef13b2526cd67c078cc2c0744a96",
-        "DFStringFlagRepoGitHashDynamicString": "fe520c029de2ef13b2526cd67c078cc2c0744a96",
-        "FStringFlipTimeStampFastString": "2025-09-29T20:11:00.288Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T20:11:00.288Z"
+        "FStringFlagRepoGitHashFastString": "3cce664a4fb328fac449e0e070564ef4ffc7eb45",
+        "DFStringFlagRepoGitHashDynamicString": "3cce664a4fb328fac449e0e070564ef4ffc7eb45",
+        "FStringFlipTimeStampFastString": "2025-09-29T20:17:13.009Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T20:17:13.009Z"
     }
 }
