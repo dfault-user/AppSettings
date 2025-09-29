@@ -12187,7 +12187,6 @@
         "FFlagGetOrCreateUniqueIdMethod2": "True",
         "FFlagAudioPlayerVolumeFixDefaultState": "True",
         "DFFlagDontRemoveCaptureServiceTempDirectoryOnShutdown": "True",
-        "FFlagRenderFixParticleFarDepthFade_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:37:54",
         "FFlagRemoveServiceEfficiencyAvatarGeneration": "True",
         "FFlagUpdateInsertGuiActionsContextually_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:44:21",
         "FFlagStudioFixCurrentDocWithFloatingWindows": "True",
@@ -12224,6 +12223,7 @@
         "DFFlagVideoWinHwEncoderCheckInputSuccess_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:35:49",
         "FFlagISRCacheDirtyRootToMembers": "True",
         "DFFlagDebugVideoWinHwEncoderUseBlacklist_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:37:19",
+        "FFlagRenderFixParticleFarDepthFade": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13097,9 +13097,9 @@
         "DFIntDiskUsageNegativeExperimenHundredthsPercent": "10000",
         "FFlagEnableNegativeDiskSizeExperiment": "True",
         "FStringAvailableDiskLayer": "ConsumerPlatforms.DiskUsageLayer",
-        "FStringFlagRepoGitHashFastString": "8a388400ab2a0c4a15eb85ad622374aaec5ff9a9",
-        "DFStringFlagRepoGitHashDynamicString": "8a388400ab2a0c4a15eb85ad622374aaec5ff9a9",
-        "FStringFlipTimeStampFastString": "2025-09-29T18:39:31.376Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T18:39:31.376Z"
+        "FStringFlagRepoGitHashFastString": "390c058a47f17105674d2b0053582a2339e37a9f",
+        "DFStringFlagRepoGitHashDynamicString": "390c058a47f17105674d2b0053582a2339e37a9f",
+        "FStringFlipTimeStampFastString": "2025-09-29T18:42:41.855Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T18:42:41.855Z"
     }
 }
