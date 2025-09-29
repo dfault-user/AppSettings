@@ -12177,7 +12177,6 @@
         "FFlagRemoveUpdateAvailableShortcut": "True",
         "DFFlagFixCrashDueToZeroWorkers": "True",
         "FFlagLuauAddErrorCaseForIncompatibleTypePacks": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagAvatarGenerationAvatarScaleFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:15:02",
         "FFlagSimEnableCreateBone_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:17:34",
         "FFlagUniqueIdOverLuau_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:22:05",
@@ -12197,6 +12196,9 @@
         "FFlagUserFixFreecamPointerAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:04:33",
         "FFlagFCDecrementVertexCount": "True",
         "FFlagEnableNativeiOSFeatureNavigationTelemetry3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:09:31",
+        "FFlagProductInfoBatchingCoalescingEnabled": "True",
+        "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:11:18",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12678,7 +12680,6 @@
         "FFlagVoiceAddWebrtClosedTransitionEnabled": "True",
         "DFFlagCLI169073": "True",
         "FFlagAXDisableGamepadPanning": "True",
-        "FFlagProductInfoBatchingCoalescingEnabled": "True",
         "FFlagProfilePlatformEnableEditAvatar_IXP": "1;Social.SelfProfileView;Social.SelfProfileView.AddEditAvatarCTA;952822487;dev_controlled",
         "DFFlagVoiceSdpCompressionSendSizeTelemetry": "True",
         "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesUnexpectedValue": "True",
@@ -13168,9 +13169,9 @@
         "FFlagExpChatSendLoadSuccessEvent": "True",
         "FFlagTextChatFixTelemetryFields": "True",
         "FFlagTextChatMoveTextSourceAdded": "True",
-        "FStringFlagRepoGitHashFastString": "43cb832f194449cab091e03e8659cf788eae9bac",
-        "DFStringFlagRepoGitHashDynamicString": "43cb832f194449cab091e03e8659cf788eae9bac",
-        "FStringFlipTimeStampFastString": "2025-09-29T17:11:16.227Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T17:11:16.227Z"
+        "FStringFlagRepoGitHashFastString": "697897161d80feaeed23f2bb7ce64a681de00b08",
+        "DFStringFlagRepoGitHashDynamicString": "697897161d80feaeed23f2bb7ce64a681de00b08",
+        "FStringFlipTimeStampFastString": "2025-09-29T17:14:04.069Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T17:14:04.069Z"
     }
 }
