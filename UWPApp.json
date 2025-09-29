@@ -12245,8 +12245,6 @@
         "FFlagFoundationNoArrowOnVirtualRef": "True",
         "FFlagReportParticleEmitterStats": "True",
         "FFlagAudioEngineFasterDspConnectionLookup": "True",
-        "DFFlagHttpNetworkChangeOnLostConnection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T21:30:43",
-        "FFlagFastClusterIgnoreMeshPartJointOffset_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T21:35:20",
         "FFlagAudioApiBucketedChannelGroups_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T21:42:17",
         "FFlagVideoMacCleanupPixelBuffers": "True",
         "FFlagAcousticSimulationIncrementalPathfinding2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T21:47:26",
@@ -12259,6 +12257,10 @@
         "DFFlagWebSocketTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;458128043;2025-09-29T22:27:02",
         "FFlagRobloxTouchGestureFixPositions_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;877322262;2025-09-29T22:30:16",
         "FFlagUpdateVirtualCursorLastInputMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2045686906;2025-09-29T22:35:49",
+        "FFlagFastClusterIgnoreMeshPartJointOffset": "True",
+        "DFFlagHttpNetworkChangeOnLostConnection": "True",
+        "FFlagProfilePlatformEnableLazyLoadingComponentsV4_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.LazyLoading;931847338;dev_controlled",
+        "FFlagExplorerShowOrientationIndicator2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T22:39:48",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12562,9 +12564,9 @@
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "FFlagScreenshotsigning_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T21:53:49",
-        "FStringFlagRepoGitHashFastString": "f7b813f099d93773f8e7c3ce3fbd8767e3957951",
-        "DFStringFlagRepoGitHashDynamicString": "f7b813f099d93773f8e7c3ce3fbd8767e3957951",
-        "FStringFlipTimeStampFastString": "2025-09-29T22:41:04.170Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T22:41:04.170Z"
+        "FStringFlagRepoGitHashFastString": "428cb0f234cc02e8badd4e9fe5b5b65b94bed0ff",
+        "DFStringFlagRepoGitHashDynamicString": "428cb0f234cc02e8badd4e9fe5b5b65b94bed0ff",
+        "FStringFlipTimeStampFastString": "2025-09-29T22:42:47.923Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T22:42:47.923Z"
     }
 }
