@@ -12197,7 +12197,6 @@
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
         "FFlagEnableNativeiOSFeatureNavigationTelemetry3": "True",
         "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix": "True",
-        "FFlagAppChatEnableCellFocusFixes2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:16:55",
         "DFFlagVideoMp4NoMaxResolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:24:24",
         "FFlagUwpMigrationDialogAuthenticateDeeplinks": "True",
         "FFlagVideoWinEncodeCheckEofBeforeInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:27:29",
@@ -12232,6 +12231,7 @@
         "FFlagExpChatSendLoadSuccessEvent": "True",
         "FFlagTextChatFixTelemetryFields": "True",
         "FFlagTextChatMoveTextSourceAdded": "True",
+        "FFlagAppChatEnableCellFocusFixes2": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12534,9 +12534,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "44863ba5bbfb4c6256b61167ebcd3139e8a568f7",
-        "DFStringFlagRepoGitHashDynamicString": "44863ba5bbfb4c6256b61167ebcd3139e8a568f7",
-        "FStringFlipTimeStampFastString": "2025-09-29T19:17:34.171Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T19:17:34.171Z"
+        "FStringFlagRepoGitHashFastString": "d273e99f712f3ab741fe3c67aa4527c6cc79b96f",
+        "DFStringFlagRepoGitHashDynamicString": "d273e99f712f3ab741fe3c67aa4527c6cc79b96f",
+        "FStringFlipTimeStampFastString": "2025-09-29T19:23:22.452Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T19:23:22.452Z"
     }
 }
