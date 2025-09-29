@@ -12218,6 +12218,10 @@
         "FFlagUwpMigrationDialogNoLongerAuthenticate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:29:35",
         "DFIntCreatorConfigProviderPollPeriodMilliseconds_Staged": "300000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1069529639;2025-09-29T18:30:43",
         "FFlagExpChatSendWindowScrollEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1189959417;2025-09-29T18:33:09",
+        "DFFlagVoiceChatSubCloseOpAbandonInsteadOfFailOnInvalidRoom_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:33:14",
+        "DFFlagVoiceChatSendSubscriptionMuteUnmuteEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:33:44",
+        "DFFlagVoiceChatFeedNotStartedMetricsByDC_RCC_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:34:27",
+        "DFFlagVoiceChatCreateRoomTimeoutTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:34:52",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13091,9 +13095,9 @@
         "DFIntDiskUsageNegativeExperimenHundredthsPercent": "10000",
         "FFlagEnableNegativeDiskSizeExperiment": "True",
         "FStringAvailableDiskLayer": "ConsumerPlatforms.DiskUsageLayer",
-        "FStringFlagRepoGitHashFastString": "45492a73d56c6c5f9d8a1a16f52819b28a3c0975",
-        "DFStringFlagRepoGitHashDynamicString": "45492a73d56c6c5f9d8a1a16f52819b28a3c0975",
-        "FStringFlipTimeStampFastString": "2025-09-29T18:35:37.798Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T18:35:37.798Z"
+        "FStringFlagRepoGitHashFastString": "ddbfad0d781867d4d84960bf98a99a040049f898",
+        "DFStringFlagRepoGitHashDynamicString": "ddbfad0d781867d4d84960bf98a99a040049f898",
+        "FStringFlipTimeStampFastString": "2025-09-29T18:38:28.686Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T18:38:28.686Z"
     }
 }
