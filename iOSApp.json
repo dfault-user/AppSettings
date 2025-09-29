@@ -12179,8 +12179,6 @@
         "FFlagLuauAddErrorCaseForIncompatibleTypePacks": "True",
         "GmasdkFixUiContainerCoverAds": "true",
         "DFIntProductInfoBatchingMaxSize_PlaceFilter": "1;109983668079237;96342491571673",
-        "FFlagEnableV2SquadJoinButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:54:39",
-        "AllowVideoPreRoll": "True",
         "FFlagFixGameGridCompactMetadataCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1928622138;2025-09-29T16:55:42",
         "FFlagWebBrowserSTM6490AllowExternalDrop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;786588317;2025-09-29T17:02:59",
         "FFlagUserFixFreecamPointerAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:04:33",
@@ -12204,6 +12202,9 @@
         "FFlagEnablePreferredTextSizeStyleFixesInAvatarExp4": "True",
         "FFlagLuaAppUrlEncodeSearchKeyword_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:52:03",
         "FFlagAdjustOnScreenKeyboardPositionForDeviceInset_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:54:18",
+        "FFlagEnableV2SquadJoinButton": "True",
+        "FFlagExpChatTelemetryEventTrigger3": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13067,7 +13068,6 @@
         "FFlagEnableLuaAccountPicker5": "True",
         "FFlagAXCategoryPillScrollToStart": "True",
         "FFlagAXUnifiedLoggingValidation1": "True",
-        "FFlagExpChatTelemetryEventTrigger3": "True",
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady": "True",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Mobile.Only;161352664;flagbank",
@@ -13078,9 +13078,9 @@
         "DFIntDiskUsageNegativeExperimenHundredthsPercent": "10000",
         "FFlagEnableNegativeDiskSizeExperiment": "True",
         "FStringAvailableDiskLayer": "ConsumerPlatforms.DiskUsageLayer",
-        "FStringFlagRepoGitHashFastString": "9a2c168c360ff16881b24f437f8e0c67f92ed3f6",
-        "DFStringFlagRepoGitHashDynamicString": "9a2c168c360ff16881b24f437f8e0c67f92ed3f6",
-        "FStringFlipTimeStampFastString": "2025-09-29T17:55:43.412Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T17:55:43.412Z"
+        "FStringFlagRepoGitHashFastString": "a336f954b47000313d11af2d6ca571f4d0d6b4ac",
+        "DFStringFlagRepoGitHashDynamicString": "a336f954b47000313d11af2d6ca571f4d0d6b4ac",
+        "FStringFlipTimeStampFastString": "2025-09-29T17:57:19.566Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T17:57:19.566Z"
     }
 }
