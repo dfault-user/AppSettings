@@ -12180,7 +12180,7 @@
         "GmasdkFixUiContainerCoverAds": "true",
         "DFIntProductInfoBatchingMaxSize_PlaceFilter": "1;109983668079237;96342491571673",
         "FFlagFCDecrementVertexCount": "True",
-        "FFlagProductInfoBatchingCoalescingEnabled": "True",
+        "FFlagProductInfoBatchingCoalescingEnabled": "False",
         "FFlagAvatarGenerationAvatarScaleFix": "True",
         "FFlagSimEnableCreateBone": "True",
         "DFFlagSiblingWarning_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:21:42",
@@ -13115,13 +13115,12 @@
         "DFStringLoadTestName_PlaceFilter": "get_product_info_load_test_simple;109983668079237;96342491571673",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Mobile.Only;161352664;flagbank",
         "FFlagCallVoiceLeaveOnNetworkDisconnect": "True",
-        "FFlagProductInfoBatchingCoalescingEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:20:07",
         "FFlagEnableBlacklistSurfaceAppearanceDithering_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2008481077;2025-09-29T17:44:56",
         "FStringBlacklistSurfaceAppearanceDithering_Staged": ".*:PowerVR D-Series DXT-48-1536 MC1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2008481077;2025-09-29T17:44:56",
         "FStringPowerVRWhitelistMSAA_Staged": ".*:PowerVR D-Series DXT-48-1536 MC1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2008481077;2025-09-29T17:44:56",
-        "FStringFlagRepoGitHashFastString": "9efa063857a8b89232b4c151c460f5a670bd2c92",
-        "DFStringFlagRepoGitHashDynamicString": "9efa063857a8b89232b4c151c460f5a670bd2c92",
-        "FStringFlipTimeStampFastString": "2025-09-29T18:19:04.887Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T18:19:04.887Z"
+        "FStringFlagRepoGitHashFastString": "0f4ffd92b95ba047198feeda8c01de5930d5cf7b",
+        "DFStringFlagRepoGitHashDynamicString": "0f4ffd92b95ba047198feeda8c01de5930d5cf7b",
+        "FStringFlipTimeStampFastString": "2025-09-29T18:21:32.405Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T18:21:32.405Z"
     }
 }
