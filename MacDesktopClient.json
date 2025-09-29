@@ -12197,7 +12197,6 @@
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
         "FFlagEnableNativeiOSFeatureNavigationTelemetry3": "True",
         "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix": "True",
-        "DFFlagVideoMp4NoMaxResolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:24:24",
         "FFlagUwpMigrationDialogAuthenticateDeeplinks": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagComInitializeBaseThreadPool_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:29:26",
@@ -12232,6 +12231,7 @@
         "FFlagTextChatFixTelemetryFields": "True",
         "FFlagTextChatMoveTextSourceAdded": "True",
         "FFlagAppChatEnableCellFocusFixes2": "True",
+        "DFFlagVideoMp4NoMaxResolution": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13137,10 +13137,10 @@
         "FFlagTerrainOneTouch690": "True",
         "DFFlagFlagCacheColdRun": "False",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "DFFlagUseNewPhysicsMeshDecoderForRendering_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:22:11",
-        "FStringFlagRepoGitHashFastString": "7628833a4a5b463a01605959251a76434d9b8dea",
-        "DFStringFlagRepoGitHashDynamicString": "7628833a4a5b463a01605959251a76434d9b8dea",
-        "FStringFlipTimeStampFastString": "2025-09-29T19:23:50.039Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T19:23:50.039Z"
+        "DFFlagUseNewPhysicsMeshDecoderForRendering": "True",
+        "FStringFlagRepoGitHashFastString": "b497a7ad2cada7e05b470ad462fe3c8cb06d8ab4",
+        "DFStringFlagRepoGitHashDynamicString": "b497a7ad2cada7e05b470ad462fe3c8cb06d8ab4",
+        "FStringFlipTimeStampFastString": "2025-09-29T19:27:04.678Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T19:27:04.678Z"
     }
 }
