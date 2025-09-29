@@ -12229,7 +12229,6 @@
         "FFlagSessionL1Migration2": "True",
         "FFlagVideoWinHwEncoderFlushContextOnClear": "True",
         "FFlagAppChatThirdPartyFriendCommunication": "True",
-        "FFlagDisableiOSDialogsHybridModule_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T19:55:14",
         "FFlagFFlagFixBackOnTopBarTriggeringDevUI": "True",
         "FFlagModalBasedSelectorOnCloseUseCallback": "True",
         "FFlagShowTopBarAlwaysOnTouchEnabled": "True",
@@ -12247,6 +12246,7 @@
         "FFlagAXUnifiedLoggingLooksValidation": "True",
         "DFFlagVoiceRtcStatsCardinalityChangeForSuperSet": "True",
         "DFIntExpChatLoadSuccessThrottlePermyriad": "100",
+        "FFlagDisableiOSDialogsHybridModule": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12602,9 +12602,9 @@
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "b62571ef0904c484a646a3a37f3992f1bc945df2",
-        "DFStringFlagRepoGitHashDynamicString": "b62571ef0904c484a646a3a37f3992f1bc945df2",
-        "FStringFlipTimeStampFastString": "2025-09-29T20:51:57.959Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T20:51:57.959Z"
+        "FStringFlagRepoGitHashFastString": "4a4bf36fbf4517d5959ffd794362df57c5eb1bc3",
+        "DFStringFlagRepoGitHashDynamicString": "4a4bf36fbf4517d5959ffd794362df57c5eb1bc3",
+        "FStringFlipTimeStampFastString": "2025-09-29T21:00:06.505Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T21:00:06.505Z"
     }
 }
