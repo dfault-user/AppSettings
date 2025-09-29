@@ -12208,6 +12208,9 @@
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
         "DFFlagReverbPropertyTweaks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:07:51",
         "FFlagEnableNativeiOSFeatureNavigationTelemetry3": "True",
+        "FFlagTextChatMoveTextSourceAdded_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;312370597;2025-09-29T18:11:53",
+        "FFlagTextChatFixTelemetryFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1452562807;2025-09-29T18:12:36",
+        "DFFlagVoiceChatSendTurnAndJanusInformationInReliabilityEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:12:55",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13082,9 +13085,9 @@
         "DFIntDiskUsageNegativeExperimenHundredthsPercent": "10000",
         "FFlagEnableNegativeDiskSizeExperiment": "True",
         "FStringAvailableDiskLayer": "ConsumerPlatforms.DiskUsageLayer",
-        "FStringFlagRepoGitHashFastString": "712acc60dea83d3fd54ea48c78ee3411a94b9555",
-        "DFStringFlagRepoGitHashDynamicString": "712acc60dea83d3fd54ea48c78ee3411a94b9555",
-        "FStringFlipTimeStampFastString": "2025-09-29T18:12:57.180Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T18:12:57.180Z"
+        "FStringFlagRepoGitHashFastString": "0015cf7a3c7b0c6f98876d001f4e6bdd12b474aa",
+        "DFStringFlagRepoGitHashDynamicString": "0015cf7a3c7b0c6f98876d001f4e6bdd12b474aa",
+        "FStringFlipTimeStampFastString": "2025-09-29T18:15:59.747Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T18:15:59.747Z"
     }
 }
