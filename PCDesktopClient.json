@@ -12177,8 +12177,6 @@
         "FFlagRemoveUpdateAvailableShortcut": "True",
         "DFFlagFixCrashDueToZeroWorkers": "True",
         "FFlagLuauAddErrorCaseForIncompatibleTypePacks": "True",
-        "FFlagAudioPlayerVolumeFixDefaultState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:32:51",
-        "DFFlagDontRemoveCaptureServiceTempDirectoryOnShutdown_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:32:54",
         "GmasdkFixUiContainerCoverAds": "true",
         "DFIntProductInfoBatchingMaxSize_PlaceFilter": "1;109983668079237;96342491571673",
         "FFlagRemoveServiceEfficiencyAvatarGeneration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:40:03",
@@ -12199,6 +12197,9 @@
         "FFlagUwpMigrationDialogAuthenticateDeeplinks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:21:55",
         "FFlagRenderEISAAlpha": "True",
         "FFlagGetOrCreateUniqueIdMethod2": "True",
+        "FFlagISRCacheDirtyRootToMembers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:34:36",
+        "FFlagAudioPlayerVolumeFixDefaultState": "True",
+        "DFFlagDontRemoveCaptureServiceTempDirectoryOnShutdown": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12699,8 +12700,8 @@
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady": "True",
         "DFFlagConvexDecompCompressionAnalytics693": "True",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
-        "FFlagSimReduceSharedPtrUse_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:33:06",
         "FFlagProductInfoBatchingCoalescingEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:20:07",
+        "FFlagSimReduceSharedPtrUse": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13171,9 +13172,9 @@
         "FFlagExpChatSendLoadSuccessEvent": "True",
         "FFlagTextChatFixTelemetryFields": "True",
         "FFlagTextChatMoveTextSourceAdded": "True",
-        "FStringFlagRepoGitHashFastString": "520abe8ea211d7883576b2e11922dfe53dc8672f",
-        "DFStringFlagRepoGitHashDynamicString": "520abe8ea211d7883576b2e11922dfe53dc8672f",
-        "FStringFlipTimeStampFastString": "2025-09-29T17:32:50.347Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T17:32:50.347Z"
+        "FStringFlagRepoGitHashFastString": "1ba8678b44e09ab96ce2af745f310189e6278095",
+        "DFStringFlagRepoGitHashDynamicString": "1ba8678b44e09ab96ce2af745f310189e6278095",
+        "FStringFlipTimeStampFastString": "2025-09-29T17:37:44.855Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T17:37:44.855Z"
     }
 }
