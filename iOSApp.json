@@ -12264,7 +12264,9 @@
         "DFIntLoadTestParticipationPerMillionUsers_PlaceFilter": "1000000;109983668079237;96342491571673",
         "DFFlagVideoMarkRodeoDataInHttpCache2": "True",
         "DFFlagAssetProviderSendTelemetryForIfRequestIsSentToNewAdDomain_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T23:22:24",
+        "DFFlagResetNetworkOwnerOnRemovePrimitive_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T23:24:19",
         "AllowVideoPreRoll": "True",
+        "DFFlagSerializerBinaryUnsignedOrientId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T23:25:44",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13138,9 +13140,10 @@
         "FStringAvailableDiskLayer": "ConsumerPlatforms.DiskUsageLayer",
         "FFlagRbxStorageRecoverPermFromCache_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T22:28:55",
         "DFFlagMouseInScrollingFrameShouldConsiderBar_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;880392066;2025-09-29T22:31:54",
-        "FStringFlagRepoGitHashFastString": "4f9d55d2e745cc9956f779735cd0e03324f7bb04",
-        "DFStringFlagRepoGitHashDynamicString": "4f9d55d2e745cc9956f779735cd0e03324f7bb04",
-        "FStringFlipTimeStampFastString": "2025-09-29T23:23:16.609Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T23:23:16.609Z"
+        "FStringLuaOTATag_Staged": "ReleaseCandidate;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T23:24:28",
+        "FStringFlagRepoGitHashFastString": "e15e591113e50aba8b3ed77a5a4452fbdb7240c8",
+        "DFStringFlagRepoGitHashDynamicString": "e15e591113e50aba8b3ed77a5a4452fbdb7240c8",
+        "FStringFlipTimeStampFastString": "2025-09-29T23:27:47.152Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T23:27:47.152Z"
     }
 }
