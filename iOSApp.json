@@ -12237,6 +12237,8 @@
         "FFlagComInitializeBaseThreadPool": "True",
         "FFlagVideoWinEncodeCheckEofBeforeInput": "True",
         "FFlagUwpMigrationDialogNoLongerAuthenticate": "True",
+        "FFlagAXAddErrorLoggingForPurchaseLooksProduct_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T19:33:25",
+        "FFlagAXTryOnItemUnifiedLoggingFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T19:34:24",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13110,9 +13112,9 @@
         "DFIntDiskUsageNegativeExperimenHundredthsPercent": "10000",
         "FFlagEnableNegativeDiskSizeExperiment": "True",
         "FStringAvailableDiskLayer": "ConsumerPlatforms.DiskUsageLayer",
-        "FStringFlagRepoGitHashFastString": "c7a5aa762574b3581da1a39d4436dffd409d6526",
-        "DFStringFlagRepoGitHashDynamicString": "c7a5aa762574b3581da1a39d4436dffd409d6526",
-        "FStringFlipTimeStampFastString": "2025-09-29T19:33:02.740Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T19:33:02.740Z"
+        "FStringFlagRepoGitHashFastString": "7937feb5aa18a91632a3e93954590ce93ae1375a",
+        "DFStringFlagRepoGitHashDynamicString": "7937feb5aa18a91632a3e93954590ce93ae1375a",
+        "FStringFlipTimeStampFastString": "2025-09-29T19:36:52.260Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T19:36:52.260Z"
     }
 }
