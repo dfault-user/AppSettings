@@ -2689,7 +2689,7 @@
         "FFlagFasterContentIdFormat": "True",
         "DFFlagSimLimitAssemblyCount2_PlaceFilter": "False;13822889;6913836578;13150413877",
         "DFFlagStreamJobUpdatedSetIterator": "True",
-        "DFFlagSiblingWarning": "True",
+        "DFFlagSiblingWarning": "False",
         "FFlagVoiceBanShowToastOnSubsequentJoins": "True",
         "FIntChromeBetaFeatureRolloutPercent": "100",
         "FStringFmodUseVoiceDriverIxpLayer": "Voice.AudioInputQuality",
@@ -12183,8 +12183,6 @@
         "FFlagProductInfoBatchingCoalescingEnabled": "False",
         "FFlagAvatarGenerationAvatarScaleFix": "True",
         "FFlagSimEnableCreateBone": "True",
-        "DFFlagSiblingWarning_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:21:42",
-        "FFlagUwpMigrationDialogAuthenticateDeeplinks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:21:55",
         "FFlagRenderEISAAlpha": "True",
         "FFlagGetOrCreateUniqueIdMethod2": "True",
         "FFlagISRCacheDirtyRootToMembers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:34:36",
@@ -12214,6 +12212,8 @@
         "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix": "True",
         "FFlagAppChatEnableCellFocusFixes2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:16:55",
         "DFFlagVideoMp4NoMaxResolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:24:24",
+        "FFlagUwpMigrationDialogAuthenticateDeeplinks": "True",
+        "FFlagVideoWinEncodeCheckEofBeforeInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:27:29",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13119,9 +13119,9 @@
         "FFlagEnableBlacklistSurfaceAppearanceDithering_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2008481077;2025-09-29T17:44:56",
         "FStringBlacklistSurfaceAppearanceDithering_Staged": ".*:PowerVR D-Series DXT-48-1536 MC1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2008481077;2025-09-29T17:44:56",
         "FStringPowerVRWhitelistMSAA_Staged": ".*:PowerVR D-Series DXT-48-1536 MC1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2008481077;2025-09-29T17:44:56",
-        "FStringFlagRepoGitHashFastString": "133acaf9b37cd782fa6c1858fe625688ee7ce7ca",
-        "DFStringFlagRepoGitHashDynamicString": "133acaf9b37cd782fa6c1858fe625688ee7ce7ca",
-        "FStringFlipTimeStampFastString": "2025-09-29T18:27:52.191Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T18:27:52.191Z"
+        "FStringFlagRepoGitHashFastString": "a162dcab2a87ca31020a5930996ae363f10645a0",
+        "DFStringFlagRepoGitHashDynamicString": "a162dcab2a87ca31020a5930996ae363f10645a0",
+        "FStringFlipTimeStampFastString": "2025-09-29T18:31:18.928Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T18:31:18.928Z"
     }
 }
