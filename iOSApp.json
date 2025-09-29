@@ -12187,6 +12187,7 @@
         "FFlagRenderEISAAlpha_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:28:20",
         "FFlagAudioPlayerVolumeFixDefaultState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:32:51",
         "DFFlagDontRemoveCaptureServiceTempDirectoryOnShutdown_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:32:54",
+        "GmasdkFixUiContainerCoverAds": "true",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13057,9 +13058,10 @@
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Mobile.Only;161352664;flagbank",
         "FFlagCallVoiceLeaveOnNetworkDisconnect": "True",
         "FFlagThreadSafeAssetReadLogger_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:35:05",
-        "FStringFlagRepoGitHashFastString": "d681ffcfe9a3edeae4ad2431c839ca12ff742ef3",
-        "DFStringFlagRepoGitHashDynamicString": "d681ffcfe9a3edeae4ad2431c839ca12ff742ef3",
-        "FStringFlipTimeStampFastString": "2025-09-29T16:37:06.910Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T16:37:06.910Z"
+        "FFlagEnableIsFreshInstall_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T16:37:38",
+        "FStringFlagRepoGitHashFastString": "c4b0ea4627dc73a0ee0d989bc13e62fd64380997",
+        "DFStringFlagRepoGitHashDynamicString": "c4b0ea4627dc73a0ee0d989bc13e62fd64380997",
+        "FStringFlipTimeStampFastString": "2025-09-29T16:39:24.110Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T16:39:24.110Z"
     }
 }
