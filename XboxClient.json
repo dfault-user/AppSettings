@@ -12179,7 +12179,6 @@
         "FFlagLuauAddErrorCaseForIncompatibleTypePacks": "True",
         "GmasdkFixUiContainerCoverAds": "true",
         "DFIntProductInfoBatchingMaxSize_PlaceFilter": "1;109983668079237;96342491571673",
-        "FFlagFixGameGridCompactMetadataCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1928622138;2025-09-29T16:55:42",
         "FFlagWebBrowserSTM6490AllowExternalDrop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;786588317;2025-09-29T17:02:59",
         "FFlagUserFixFreecamPointerAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:04:33",
         "FFlagFCDecrementVertexCount": "True",
@@ -12206,6 +12205,8 @@
         "FFlagExpChatTelemetryEventTrigger3": "True",
         "FFlagStudioFloatingCommandBarShortcut_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:57:11",
         "FFlagReverbCentroidRolloff_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T17:58:03",
+        "FFlagFixGameGridCompactMetadataCheck": "True",
+        "FFlagReverbDualRoutingFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T18:01:36",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12564,9 +12565,9 @@
         "FFlagTextChatFixTelemetryFields": "True",
         "FFlagTextChatMoveTextSourceAdded": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "50",
-        "FStringFlagRepoGitHashFastString": "f2f7b730113fc0a8f6d624c5450ae36a94e03ff6",
-        "DFStringFlagRepoGitHashDynamicString": "f2f7b730113fc0a8f6d624c5450ae36a94e03ff6",
-        "FStringFlipTimeStampFastString": "2025-09-29T17:59:51.048Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T17:59:51.048Z"
+        "FStringFlagRepoGitHashFastString": "772bf82e4f9ec899c0ea8d8b194ff408c0606d5c",
+        "DFStringFlagRepoGitHashDynamicString": "772bf82e4f9ec899c0ea8d8b194ff408c0606d5c",
+        "FStringFlipTimeStampFastString": "2025-09-29T18:03:43.271Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T18:03:43.271Z"
     }
 }
