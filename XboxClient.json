@@ -12240,6 +12240,8 @@
         "FFlagExpChatSendWindowScrollEvent": "True",
         "FFlagAXAddErrorLoggingForPurchaseLooksProductMIS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T19:35:53",
         "FFlagAXHideTabBarsOnTryOnFromHome_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T19:36:56",
+        "DFFlagVoiceRtcStatsCardinalityChangeForSuperSet_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T19:40:27",
+        "FFlagAXUnifiedLoggingLooksValidation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-29T19:40:40",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12595,9 +12597,9 @@
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "d42c4e4ebf3b3b4ef1e2732a30e97ab8d2960fee",
-        "DFStringFlagRepoGitHashDynamicString": "d42c4e4ebf3b3b4ef1e2732a30e97ab8d2960fee",
-        "FStringFlipTimeStampFastString": "2025-09-29T19:38:59.902Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-29T19:38:59.902Z"
+        "FStringFlagRepoGitHashFastString": "5d3efc6292fd1c4f5ee8a9e111b36e0b1dcec700",
+        "DFStringFlagRepoGitHashDynamicString": "5d3efc6292fd1c4f5ee8a9e111b36e0b1dcec700",
+        "FStringFlipTimeStampFastString": "2025-09-29T19:43:13.531Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-29T19:43:13.531Z"
     }
 }
