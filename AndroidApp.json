@@ -12264,9 +12264,6 @@
         "DFFlagResetNetworkOwnerOnRemovePrimitive": "False",
         "DFFlagSerializerBinaryUnsignedOrientId": "True",
         "EnableAndroidCTAClickLoggingFix": "true",
-        "FFlagLuauCodeGenUnassignedBcTargetAbort_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:54:45",
-        "AllowVideoPreRoll": "True",
-        "FFlagLuauCodeGenRegAutoSpillA64_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:55:28",
         "FFlagUIPadBorderSizes2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:57:30",
         "FFlagUseNewDiscoverabilityModal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:57:54",
         "FFlagPremultiplyViewportframeBackgroundColor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:58:49",
@@ -12296,6 +12293,10 @@
         "FFlagAXBackendDrivenCatalogLayers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;967657281;2025-09-30T17:50:53",
         "FFlagStrictInternalCaps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:51:03",
         "FFlagStyleEditorThemesCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;788783398;2025-09-30T17:54:20",
+        "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
+        "FFlagLuauCodeGenRegAutoSpillA64": "True",
+        "FFlagLuauCodeGenUnassignedBcTargetAbort": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13173,7 +13174,6 @@
         "FFlagAddRedeemTile2": "True",
         "FIntOcclusionWorkerThreadCount": "2",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FFlagLuaAppAddSortDataToSocialCarouselClicks": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
         "FFlagAXDisableGamepadPanning": "True",
         "MoveIsFreshInstall": "True",
@@ -13195,9 +13195,9 @@
         "FFlagFmodMixerCheckStream": "True",
         "DFIntPerformanceControlCrashMetricAlgorithmType": "4",
         "FFlagRbxStorageRecoverPermFromCache": "True",
-        "FStringFlagRepoGitHashFastString": "978b1f1b2921713e84449003c4c484b02e68311e",
-        "DFStringFlagRepoGitHashDynamicString": "978b1f1b2921713e84449003c4c484b02e68311e",
-        "FStringFlipTimeStampFastString": "2025-09-30T17:56:35.079Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T17:56:35.079Z"
+        "FStringFlagRepoGitHashFastString": "b8969ef45371d7a30410897a046714777bc1cee7",
+        "DFStringFlagRepoGitHashDynamicString": "b8969ef45371d7a30410897a046714777bc1cee7",
+        "FStringFlipTimeStampFastString": "2025-09-30T17:58:31.077Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T17:58:31.077Z"
     }
 }
