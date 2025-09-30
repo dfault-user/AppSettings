@@ -12273,6 +12273,7 @@
         "FFlagScriptContextSeparateTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:31:00",
         "FFlagEnableSocialSelfProfileViewExposureEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:33:42",
         "FFlagRemoveMeInParent2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:37:08",
+        "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:49:32",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12575,9 +12576,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "f29ec42a5aa868120aeb8e00c4c686fc9fe0b08e",
-        "DFStringFlagRepoGitHashDynamicString": "f29ec42a5aa868120aeb8e00c4c686fc9fe0b08e",
-        "FStringFlipTimeStampFastString": "2025-09-30T16:45:46.541Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T16:45:46.541Z"
+        "FStringFlagRepoGitHashFastString": "62a92700e73a4180a33b9fa40b8dd25cb80f6b29",
+        "DFStringFlagRepoGitHashDynamicString": "62a92700e73a4180a33b9fa40b8dd25cb80f6b29",
+        "FStringFlipTimeStampFastString": "2025-09-30T16:51:47.981Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T16:51:47.981Z"
     }
 }
