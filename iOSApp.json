@@ -12307,8 +12307,6 @@
         "FStringPartyPageCarouselVariant": "enablePartyPageSocialCarousel",
         "FStringAXBackendDrivenCatalogLayersFString": "AvatarMarketplace.DynamicWidgetRankingLayer,AvatarMarketplace.WidgetOverridingLayer,AvatarMarketplace.WidgetPlatform,AvatarMarketplace.AvatarWidgetHomepage,AvatarMarketplace.TrendingWidgetLayer",
         "FFlagEnableIosLogReliabilityLog3": "True",
-        "FFlagAXEnableMaxUndoRedoHistory_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;380027282;2025-09-30T20:43:51",
-        "FFlagAXHydrateAssetFromBundleItems_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;380027282;2025-09-30T20:43:51",
         "FFlagStyleEditorNewRuleRenameFix": "True",
         "FStringOmniSupportedSduiTreatmentTypes_Staged": "Carousel:674,HeroUnit:674,AvatarCarousel:693;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T20:51:23",
         "FStringLuaEnabledSduiTreatmentTypes_Staged": "Carousel:674,HeroUnit:674,AvatarCarousel:693;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T20:52:29",
@@ -12321,6 +12319,8 @@
         "FFlagTerrainOneTouch690": "True",
         "DFIntExpChatLoadSuccessThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1932803417;2025-09-30T21:45:08",
         "DFIntExpChatMessageClientRenderedThrottlePermyriad_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;51287375;2025-09-30T21:45:53",
+        "FFlagAXEnableMaxUndoRedoHistory": "True",
+        "FFlagAXHydrateAssetFromBundleItems": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13201,9 +13201,9 @@
         "FFlagAXSlotsDesktopCrashFix_Staged": "True;SteadyState;10;30;Revert;true;856402368;2025-09-30T21:40:47",
         "FFlagAXSlotsPeekViewScrollFix_Staged": "True;SteadyState;10;30;Revert;true;856402368;2025-09-30T21:40:47",
         "FFlagAXSlotsScrollAway2_Staged": "True;SteadyState;10;30;Revert;true;856402368;2025-09-30T21:40:47",
-        "FStringFlagRepoGitHashFastString": "467c0277d9c6c0d4f7e7d6a3f4c23098619ed255",
-        "DFStringFlagRepoGitHashDynamicString": "467c0277d9c6c0d4f7e7d6a3f4c23098619ed255",
-        "FStringFlipTimeStampFastString": "2025-09-30T21:49:45.769Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T21:49:45.769Z"
+        "FStringFlagRepoGitHashFastString": "0dbcf3bba334ca3a8fd00009d41a0a2ea45a0d57",
+        "DFStringFlagRepoGitHashDynamicString": "0dbcf3bba334ca3a8fd00009d41a0a2ea45a0d57",
+        "FStringFlipTimeStampFastString": "2025-09-30T21:50:08.820Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T21:50:08.820Z"
     }
 }
