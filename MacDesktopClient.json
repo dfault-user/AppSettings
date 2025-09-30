@@ -12165,7 +12165,7 @@
         "FFlagFileSyncerIOHandlerEnableDeduplication": "True",
         "FIntExpChatWindowScrollV2Debounce": "400",
         "FIntExpChatWindowScrollV3Debounce": "400",
-        "DFIntExpChatWindowScrollThrottlePermyriad": "5000",
+        "DFIntExpChatWindowScrollThrottlePermyriad": "7500",
         "FFlagEnableClientSettingAPIInProduction": "True",
         "FFlagUseClientSettingAPI": "True",
         "FFlagAppNavLabelScaling": "True",
@@ -12264,8 +12264,6 @@
         "DFFlagResetNetworkOwnerOnRemovePrimitive": "False",
         "DFFlagSerializerBinaryUnsignedOrientId": "True",
         "EnableAndroidCTAClickLoggingFix": "true",
-        "DFIntExpChatWindowScrollThrottlePermyriad_Staged": "7500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;370176745;2025-09-30T16:27:22",
-        "DFFlagCLI170266_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:29:59",
         "DFFlagCLI170265_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:30:30",
         "FFlagScriptContextSeparateTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:31:00",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
@@ -12293,6 +12291,7 @@
         "FFlagBaseHandleTransparency_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;133286104;2025-09-30T17:20:48",
         "FFlagAvatarPreviewerFixProgressTextTruncate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:22:06",
         "DFFlagVideoConfigurableGopSizeWin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:28:24",
+        "DFFlagCLI170266": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
@@ -13187,9 +13186,9 @@
         "DFFlagUseNewPhysicsMeshDecoderForRendering": "True",
         "DFFlagMouseInScrollingFrameShouldConsiderBar": "True",
         "FFlagSimSolverUseStaticUIDGenerator2": "True",
-        "FStringFlagRepoGitHashFastString": "402b208379bebcc457ad1ba9e54dbec8e00785c6",
-        "DFStringFlagRepoGitHashDynamicString": "402b208379bebcc457ad1ba9e54dbec8e00785c6",
-        "FStringFlipTimeStampFastString": "2025-09-30T17:30:15.941Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T17:30:15.941Z"
+        "FStringFlagRepoGitHashFastString": "bca6c489a379eee08f262929c01f80e4940de021",
+        "DFStringFlagRepoGitHashDynamicString": "bca6c489a379eee08f262929c01f80e4940de021",
+        "FStringFlipTimeStampFastString": "2025-09-30T17:33:01.857Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T17:33:01.857Z"
     }
 }
