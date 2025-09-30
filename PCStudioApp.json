@@ -12274,6 +12274,8 @@
         "AllowVideoPreRoll": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:49:32",
+        "FFlagEnableAdsMouseUnlock": "True",
+        "FFlagLuaAppAddSortDataToSocialCarouselClicks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:54:57",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14019,7 +14021,6 @@
         "FFlagFixContentProviderAPIsForAssetProvider2": "True",
         "FFlagComponentizeCalloutController": "True",
         "FFlagStudioAddAttributeComboBoxBackground_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:04:06",
-        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -14449,9 +14450,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "FFlagSimSolverUseStaticUIDGenerator2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:11:52",
-        "FStringFlagRepoGitHashFastString": "62a92700e73a4180a33b9fa40b8dd25cb80f6b29",
-        "DFStringFlagRepoGitHashDynamicString": "62a92700e73a4180a33b9fa40b8dd25cb80f6b29",
-        "FStringFlipTimeStampFastString": "2025-09-30T16:51:47.981Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T16:51:47.981Z"
+        "FStringFlagRepoGitHashFastString": "4883f7d6f56748e74af4df5868ba7857910e546d",
+        "DFStringFlagRepoGitHashDynamicString": "4883f7d6f56748e74af4df5868ba7857910e546d",
+        "FStringFlipTimeStampFastString": "2025-09-30T16:56:34.074Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T16:56:34.074Z"
     }
 }
