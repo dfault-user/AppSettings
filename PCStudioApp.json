@@ -12321,6 +12321,8 @@
         "DFIntExpChatMessageClientRenderedThrottlePermyriad_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;51287375;2025-09-30T21:45:53",
         "FFlagAXEnableMaxUndoRedoHistory": "True",
         "FFlagAXHydrateAssetFromBundleItems": "True",
+        "FFlagVoiceChatFixRejoinRcc_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T21:47:56",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14055,7 +14057,6 @@
         "FFlagFixContentProviderAPIsForAssetProvider2": "True",
         "FFlagComponentizeCalloutController": "True",
         "FFlagStudioAddAttributeComboBoxBackground": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -14480,9 +14481,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "FFlagSimSolverUseStaticUIDGenerator2": "True",
-        "FStringFlagRepoGitHashFastString": "0dbcf3bba334ca3a8fd00009d41a0a2ea45a0d57",
-        "DFStringFlagRepoGitHashDynamicString": "0dbcf3bba334ca3a8fd00009d41a0a2ea45a0d57",
-        "FStringFlipTimeStampFastString": "2025-09-30T21:50:08.820Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T21:50:08.820Z"
+        "FStringFlagRepoGitHashFastString": "84c0c0480fa399a091cd2b14c3d3388b685e296e",
+        "DFStringFlagRepoGitHashDynamicString": "84c0c0480fa399a091cd2b14c3d3388b685e296e",
+        "FStringFlipTimeStampFastString": "2025-09-30T21:52:29.133Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T21:52:29.133Z"
     }
 }
