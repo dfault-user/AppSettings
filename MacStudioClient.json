@@ -12263,8 +12263,6 @@
         "DFFlagAssetProviderSendTelemetryForIfRequestIsSentToNewAdDomain": "True",
         "DFFlagResetNetworkOwnerOnRemovePrimitive": "False",
         "DFFlagSerializerBinaryUnsignedOrientId": "True",
-        "FFlagAudioPlayerFixOverlappingSongs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:11:33",
-        "FFlagMusicPlayerCompactVariant_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:12:05",
         "EnableAndroidCTAClickLoggingFix": "true",
         "DFIntExpChatWindowScrollThrottlePermyriad_Staged": "7500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;370176745;2025-09-30T16:27:22",
         "DFFlagCLI170266_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:29:59",
@@ -12286,6 +12284,9 @@
         "FFlagEnableScreentimeUnlockLoadingSpinner_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:08:34",
         "FIntParentalControlsScreentimeLockoutPollIntervalMs_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:10:36",
         "FFlagDevFrameworkFixTextContrast": "True",
+        "FFlagShowScreentimeLockoutKickMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:15:34",
+        "FFlagAudioPlayerFixOverlappingSongs": "True",
+        "FFlagMusicPlayerCompactVariant": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14432,10 +14433,10 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FFlagSimSolverUseStaticUIDGenerator2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:11:52",
-        "FStringFlagRepoGitHashFastString": "2ddbd9b8bcf6b94cd30393820e083270aefaab60",
-        "DFStringFlagRepoGitHashDynamicString": "2ddbd9b8bcf6b94cd30393820e083270aefaab60",
-        "FStringFlipTimeStampFastString": "2025-09-30T17:14:23.884Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T17:14:23.884Z"
+        "FFlagSimSolverUseStaticUIDGenerator2": "True",
+        "FStringFlagRepoGitHashFastString": "6c1143fe21f44574a60d4705a128c8d8c83de58a",
+        "DFStringFlagRepoGitHashDynamicString": "6c1143fe21f44574a60d4705a128c8d8c83de58a",
+        "FStringFlipTimeStampFastString": "2025-09-30T17:19:41.628Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T17:19:41.628Z"
     }
 }
