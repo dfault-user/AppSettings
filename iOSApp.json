@@ -12316,11 +12316,6 @@
         "FFlagTerrainOneTouch690": "True",
         "FFlagAXEnableMaxUndoRedoHistory": "True",
         "FFlagAXHydrateAssetFromBundleItems": "True",
-        "DFFlagVideoCaptureF12TestIfWritable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T21:50:35",
-        "FFlagAssetImportReadExtraProperties_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T21:51:17",
-        "FFlagAssetImportPreviewInstancePreviewOnly_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T21:52:07",
-        "FFlagRigInstanceBuilderRemoveUnreachable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T21:52:33",
-        "DFFlagVideoCaptureEngineEventDetailedDurationAndMemoryFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;588904269;2025-09-30T21:53:30",
         "FFlagEnableConsoleExpControlsV4": "True",
         "DFFlagVideoCaptureWinSwColorConversionShareBuffer2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T21:56:42",
         "DFFlagVrScreenshotCheckShouldRender_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T21:59:48",
@@ -12332,6 +12327,12 @@
         "AllowVideoPreRoll": "True",
         "FFlagVoiceChatFixRejoin": "True",
         "FFlagVoiceChatFixRejoinRcc": "True",
+        "DFFlagVideoCaptureEngineEventDetailedDurationAndMemoryFields": "True",
+        "DFFlagVideoCaptureF12TestIfWritable": "True",
+        "FFlagAssetImportPreviewInstancePreviewOnly": "True",
+        "FFlagAssetImportReadExtraProperties": "True",
+        "FFlagRigInstanceBuilderRemoveUnreachable": "True",
+        "FStringLuaEnabledSduiTreatmentTypes_Staged": "Carousel:674,HeroUnit:674,AvatarCarousel:692;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T22:57:43",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13203,9 +13204,9 @@
         "FFlagRbxStorageFileCachePerm3": "True",
         "FFlagEnableNoBuildInterfaceForBackgroundJobs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T22:29:51",
         "FFlagAXAccessoryAdjustmentReturnOnNil_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1104653405;2025-09-30T22:46:35",
-        "FStringFlagRepoGitHashFastString": "bc7896aa8cf3ff9a08934a10f496cc75fc90d334",
-        "DFStringFlagRepoGitHashDynamicString": "bc7896aa8cf3ff9a08934a10f496cc75fc90d334",
-        "FStringFlipTimeStampFastString": "2025-09-30T22:57:07.978Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T22:57:07.978Z"
+        "FStringFlagRepoGitHashFastString": "925edb265ecfcf77bd2ff1fdda27b85e03914c09",
+        "DFStringFlagRepoGitHashDynamicString": "925edb265ecfcf77bd2ff1fdda27b85e03914c09",
+        "FStringFlipTimeStampFastString": "2025-09-30T23:03:26.283Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T23:03:26.283Z"
     }
 }
