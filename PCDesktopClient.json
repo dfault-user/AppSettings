@@ -12311,6 +12311,10 @@
         "FStringPartyPageCarouselVariant": "enablePartyPageSocialCarousel",
         "DFFlagSaferCharInputHandling3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T20:23:44",
         "DFFlagUseNewPhysicsMeshDecoderForRendering_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T20:24:26",
+        "CaptureQTStudioCountersEnabled": "True",
+        "CaptureCountersIntervalInMinutes": "5",
+        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12795,10 +12799,6 @@
         "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_Staged": "Intel,AMD,Qualcomm;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T19:24:11",
         "DFStringVideoWinHwEncoderBlacklistCsv_Staged": "Quick Sync,AMD,Qualcomm;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T19:26:48",
         "FStringLuaOTATag_Staged": "Release;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T19:58:01",
-        "AllowVideoPreRoll": "True",
-        "AxisAdornmentGrabSize": "12",
-        "CaptureCountersIntervalInMinutes": "5",
-        "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -13269,9 +13269,9 @@
         "FFlagPCGDKSwitchMultiplayerPrivilegeCall": "True",
         "FFlagSimSolverUseStaticUIDGenerator2": "True",
         "DFFlagMouseInScrollingFrameShouldConsiderBar": "True",
-        "FStringFlagRepoGitHashFastString": "fa6f6c829e27203b1adba78035ebd78702ce4968",
-        "DFStringFlagRepoGitHashDynamicString": "fa6f6c829e27203b1adba78035ebd78702ce4968",
-        "FStringFlipTimeStampFastString": "2025-09-30T20:27:28.880Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T20:27:28.880Z"
+        "FStringFlagRepoGitHashFastString": "97eaa4b80f2743bb7c903143eba3ee1ca63a924e",
+        "DFStringFlagRepoGitHashDynamicString": "97eaa4b80f2743bb7c903143eba3ee1ca63a924e",
+        "FStringFlipTimeStampFastString": "2025-09-30T20:27:50.670Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T20:27:50.670Z"
     }
 }
