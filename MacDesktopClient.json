@@ -12296,7 +12296,6 @@
         "FFlagStrictInternalCaps": "True",
         "FFlagStyleEditorFixTokenTruncate": "True",
         "FFlagFixStudioDisplaySizeFallback": "True",
-        "FStringAXBackendDrivenCatalogLayersFString_Staged": "AvatarMarketplace.DynamicWidgetRankingLayer,AvatarMarketplace.WidgetOverridingLayer,AvatarMarketplace.WidgetPlatform,AvatarMarketplace.AvatarWidgetHomepage,AvatarMarketplace.TrendingWidgetLayer;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1707921435;2025-09-30T19:21:08",
         "DFFlagRbxStorageUseNewLocationFunc": "True",
         "FFlagVideoMvtFixCachedFrameRace": "True",
         "FFlagEnableIosLogReliabilityLog3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T19:39:08",
@@ -12311,9 +12310,11 @@
         "FStringPartyPageCarouselVariant": "enablePartyPageSocialCarousel",
         "DFFlagSaferCharInputHandling3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T20:23:44",
         "AllowVideoPreRoll": "True",
-        "CaptureCountersIntervalInMinutes": "5",
-        "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "CaptureQTStudioCountersEnabled": "True",
+        "DFFlagEnableRemoteProfiling": "True",
+        "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
+        "CaptureCountersIntervalInMinutes": "5",
+        "FStringAXBackendDrivenCatalogLayersFString": "AvatarMarketplace.DynamicWidgetRankingLayer,AvatarMarketplace.WidgetOverridingLayer,AvatarMarketplace.WidgetPlatform,AvatarMarketplace.AvatarWidgetHomepage,AvatarMarketplace.TrendingWidgetLayer",
         "AxisAdornmentGrabSize": "12",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12770,7 +12771,6 @@
         "DFFlagConvexDecompCompressionAnalytics693": "True",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
         "FStringLuaOTATag_Staged": "Release;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T19:58:01",
-        "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
         "DFFlagLockViolationInstanceCrash": "False",
@@ -13202,9 +13202,9 @@
         "DFFlagUseNewPhysicsMeshDecoderForRendering": "True",
         "DFFlagMouseInScrollingFrameShouldConsiderBar": "True",
         "FFlagSimSolverUseStaticUIDGenerator2": "True",
-        "FStringFlagRepoGitHashFastString": "97eaa4b80f2743bb7c903143eba3ee1ca63a924e",
-        "DFStringFlagRepoGitHashDynamicString": "97eaa4b80f2743bb7c903143eba3ee1ca63a924e",
-        "FStringFlipTimeStampFastString": "2025-09-30T20:27:50.670Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T20:27:50.670Z"
+        "FStringFlagRepoGitHashFastString": "e764d50b32fe326f3beeb53b2cce6278cfa1742f",
+        "DFStringFlagRepoGitHashDynamicString": "e764d50b32fe326f3beeb53b2cce6278cfa1742f",
+        "FStringFlipTimeStampFastString": "2025-09-30T20:31:34.949Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T20:31:34.949Z"
     }
 }
