@@ -12272,7 +12272,6 @@
         "DFFlagCLI170265": "True",
         "FFlagScriptContextSeparateTelemetry": "True",
         "FFlagRemoveMeInParent2": "True",
-        "FFlagParallelGcFallback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:41:09",
         "FFlagAXBackendDrivenCatalogLayers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;967657281;2025-09-30T17:50:53",
         "FFlagStrictInternalCaps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:51:03",
         "FFlagStyleEditorThemesCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;788783398;2025-09-30T17:54:20",
@@ -12294,7 +12293,6 @@
         "FIntParentalControlsScreentimeLockoutPollIntervalMs": "5000",
         "DFIntCLI65755b_Staged": "45;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T18:16:25",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
-        "DFFlagInferredCrashReportToBacktrace2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T18:18:29",
         "FFlagAvatarAutosetupProgressWithETA": "True",
         "FFlagEnableScreentimeMoreTimeOption": "True",
         "FFlagAvatarPreviewerFixProgressTextTruncate": "True",
@@ -12307,6 +12305,7 @@
         "DFFlagTextChatHandleChatted_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1917135947;2025-09-30T18:37:05",
         "DFFlagTextChatHandleEnrichment3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1917135947;2025-09-30T18:37:05",
         "DFFlagUnbindVibrationEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T18:38:24",
+        "FFlagParallelGcFallback": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13200,9 +13199,9 @@
         "DFFlagUseNewPhysicsMeshDecoderForRendering": "True",
         "DFFlagMouseInScrollingFrameShouldConsiderBar": "True",
         "FFlagSimSolverUseStaticUIDGenerator2": "True",
-        "FStringFlagRepoGitHashFastString": "e2b973e5ddd85f27d0ceb7277d86a8fcd1a24c0d",
-        "DFStringFlagRepoGitHashDynamicString": "e2b973e5ddd85f27d0ceb7277d86a8fcd1a24c0d",
-        "FStringFlipTimeStampFastString": "2025-09-30T18:41:47.257Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T18:41:47.257Z"
+        "FStringFlagRepoGitHashFastString": "4ded636762354709e18a0a5a098071c6a71f2d89",
+        "DFStringFlagRepoGitHashDynamicString": "4ded636762354709e18a0a5a098071c6a71f2d89",
+        "FStringFlipTimeStampFastString": "2025-09-30T18:48:28.727Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T18:48:28.727Z"
     }
 }
