@@ -12314,13 +12314,14 @@
         "AxisAdornmentGrabSize": "12",
         "FStringAXBackendDrivenCatalogLayersFString": "AvatarMarketplace.DynamicWidgetRankingLayer,AvatarMarketplace.WidgetOverridingLayer,AvatarMarketplace.WidgetPlatform,AvatarMarketplace.AvatarWidgetHomepage,AvatarMarketplace.TrendingWidgetLayer",
         "CaptureCountersIntervalInMinutes": "5",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "DFIntExpChatLoadSuccessThrottlePermyriad_Staged": "7500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1932803417;2025-09-30T20:31:03",
         "FFlagEnableIosLogReliabilityLog3": "True",
         "FFlagAXEnableMaxUndoRedoHistory_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;380027282;2025-09-30T20:43:51",
         "FFlagAXHydrateAssetFromBundleItems_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;380027282;2025-09-30T20:43:51",
         "FFlagStyleEditorNewRuleRenameFix": "True",
         "FStringOmniSupportedSduiTreatmentTypes_Staged": "Carousel:674,HeroUnit:674,AvatarCarousel:693;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T20:51:23",
+        "FStringLuaEnabledSduiTreatmentTypes_Staged": "Carousel:674,HeroUnit:674,AvatarCarousel:693;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T20:52:29",
+        "FFlagEnableConsoleExpControlsV4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T20:53:39",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
         "DFFlagLockViolationInstanceCrash": "False",
@@ -14055,6 +14056,7 @@
         "FFlagComponentizeCalloutController": "True",
         "FFlagStudioAddAttributeComboBoxBackground": "True",
         "DFFlagUseNewPhysicsMeshDecoderForRendering": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -14456,9 +14458,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "FFlagSimSolverUseStaticUIDGenerator2": "True",
-        "FStringFlagRepoGitHashFastString": "30013f273f22479ee8d79bf7688e829adb062eb5",
-        "DFStringFlagRepoGitHashDynamicString": "30013f273f22479ee8d79bf7688e829adb062eb5",
-        "FStringFlipTimeStampFastString": "2025-09-30T20:57:18.711Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T20:57:18.711Z"
+        "FStringFlagRepoGitHashFastString": "f8b83ae356f5fcb27ec1b9947fa434b7c5d4088f",
+        "DFStringFlagRepoGitHashDynamicString": "f8b83ae356f5fcb27ec1b9947fa434b7c5d4088f",
+        "FStringFlipTimeStampFastString": "2025-09-30T20:59:15.625Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T20:59:15.625Z"
     }
 }
