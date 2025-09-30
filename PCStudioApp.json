@@ -12264,12 +12264,9 @@
         "DFFlagSerializerBinaryUnsignedOrientId": "True",
         "EnableAndroidCTAClickLoggingFix": "true",
         "FFlagProfilePlatformEnableEditAvatar_IXP": "1;Social.SelfProfileView;Social.SelfProfileView.AddEditAvatarCTA;952822487;dev_controlled",
-        "FIntParentalControlsScreentimeLockoutPollIntervalMs_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:10:36",
         "FFlagDevFrameworkFixTextContrast": "True",
-        "FFlagShowScreentimeLockoutKickMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:15:34",
         "FFlagAudioPlayerFixOverlappingSongs": "True",
         "FFlagMusicPlayerCompactVariant": "True",
-        "DFFlagEnableScreenTimeLockoutEviction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:15:46",
         "FFlagEnableScreentimeMoreTimeOption_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:17:45",
         "AxisAdornmentGrabSize": "12",
         "FFlagBaseHandleTransparency_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;133286104;2025-09-30T17:20:48",
@@ -12299,6 +12296,10 @@
         "DFFlagTextGenerationAdvancedProperties": "True",
         "FFlagEnableScreentimeUnlockLoadingSpinner": "True",
         "FFlagUwpDialogHandleInferredCrashBit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T18:11:45",
+        "DFFlagEnableScreenTimeLockoutEviction": "True",
+        "FFlagShowScreentimeLockoutKickMessage": "True",
+        "FIntParentalControlsScreentimeLockoutPollIntervalMs": "5000",
+        "DFIntCLI65755b_Staged": "45;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T18:16:25",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14469,9 +14470,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "FFlagSimSolverUseStaticUIDGenerator2": "True",
-        "FStringFlagRepoGitHashFastString": "3e53a7740f45b63005e88f2179137221557f9d45",
-        "DFStringFlagRepoGitHashDynamicString": "3e53a7740f45b63005e88f2179137221557f9d45",
-        "FStringFlipTimeStampFastString": "2025-09-30T18:16:03.199Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T18:16:03.199Z"
+        "FStringFlagRepoGitHashFastString": "f546d5e887098de4b40f05f128cbd79a4faf8c07",
+        "DFStringFlagRepoGitHashDynamicString": "f546d5e887098de4b40f05f128cbd79a4faf8c07",
+        "FStringFlipTimeStampFastString": "2025-09-30T18:19:04.320Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T18:19:04.320Z"
     }
 }
