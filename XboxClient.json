@@ -1491,7 +1491,7 @@
         "DFIntCLI52218af": "0",
         "DFFlagCLI65755a": "True",
         "DFFlagCLI69398": "True",
-        "DFIntCLI65755b": "300",
+        "DFIntCLI65755b": "45",
         "DFIntCLI65755c": "10000",
         "DFIntCLI65755d": "10000",
         "DFIntCLI65755e": "100",
@@ -12284,8 +12284,6 @@
         "DFFlagEnableScreenTimeLockoutEviction": "True",
         "FFlagShowScreentimeLockoutKickMessage": "True",
         "FIntParentalControlsScreentimeLockoutPollIntervalMs": "5000",
-        "DFIntCLI65755b_Staged": "45;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T18:16:25",
-        "FFlagFixStudioDisplaySizeFallback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T18:17:15",
         "FFlagAvatarAutosetupProgressWithETA": "True",
         "FFlagEnableScreentimeMoreTimeOption": "True",
         "FFlagAvatarPreviewerFixProgressTextTruncate": "True",
@@ -12306,6 +12304,8 @@
         "FStringFStringPartyPageCarouselExpLayer_Staged": "Social.Friends;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T19:01:40",
         "FFlagStyleEditorFixTokenTruncate": "True",
         "FStringPartyPageCarouselVariant_Staged": "enablePartyPageSocialCarousel;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T19:07:51",
+        "FFlagFixStudioDisplaySizeFallback": "True",
+        "FStringAXBackendDrivenCatalogLayersFString_Staged": "AvatarMarketplace.DynamicWidgetRankingLayer,AvatarMarketplace.WidgetOverridingLayer,AvatarMarketplace.WidgetPlatform,AvatarMarketplace.AvatarWidgetHomepage,AvatarMarketplace.TrendingWidgetLayer;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1707921435;2025-09-30T19:21:08",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12661,9 +12661,9 @@
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "a57f1ce7bf882848f97a089704a3ee672d0c2b37",
-        "DFStringFlagRepoGitHashDynamicString": "a57f1ce7bf882848f97a089704a3ee672d0c2b37",
-        "FStringFlipTimeStampFastString": "2025-09-30T19:14:07.914Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T19:14:07.914Z"
+        "FStringFlagRepoGitHashFastString": "e30e17dedde3b314183c65d23a18f1f26b2f922a",
+        "DFStringFlagRepoGitHashDynamicString": "e30e17dedde3b314183c65d23a18f1f26b2f922a",
+        "FStringFlipTimeStampFastString": "2025-09-30T19:22:44.214Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T19:22:44.214Z"
     }
 }
