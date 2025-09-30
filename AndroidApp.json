@@ -12317,7 +12317,6 @@
         "FFlagAXEnableMaxUndoRedoHistory": "True",
         "FFlagAXHydrateAssetFromBundleItems": "True",
         "FFlagEnableConsoleExpControlsV4": "True",
-        "FFlagVideoCaptureSwReuseDownloadBuffers3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T22:04:27",
         "FFlagSwitchProductPurchaseContainerErrorPromptV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T22:19:12",
         "FFlagFixParameterNameInEconomicRestriction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T22:24:00",
         "DFLogISRTimestampOffsets_Staged": "Warning;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1271626683;2025-09-30T22:31:46",
@@ -12334,6 +12333,7 @@
         "DFFlagVideoCaptureWinSwColorConversionShareBuffer2": "True",
         "DFFlagVrScreenshotCheckShouldRender": "True",
         "DFFlagVideoServiceClientReportL2aSessionId": "True",
+        "FFlagVideoCaptureSwReuseDownloadBuffers3": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13232,9 +13232,10 @@
         "FFlagRbxStorageRecoverPermFromCache": "True",
         "FFlagRbxStorageFileCachePerm3": "True",
         "FFlagCrashMetricStorageInitialize3": "True",
-        "FStringFlagRepoGitHashFastString": "0f1e75cf37adc72626c0c1f7d454ca2a8ebf3b0f",
-        "DFStringFlagRepoGitHashDynamicString": "0f1e75cf37adc72626c0c1f7d454ca2a8ebf3b0f",
-        "FStringFlipTimeStampFastString": "2025-09-30T23:07:17.564Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T23:07:17.564Z"
+        "FFlagCrashMetricStorageInitialize3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T23:14:01",
+        "FStringFlagRepoGitHashFastString": "1ef8da22915da442279cf2009d690082c8f7257f",
+        "DFStringFlagRepoGitHashDynamicString": "1ef8da22915da442279cf2009d690082c8f7257f",
+        "FStringFlipTimeStampFastString": "2025-09-30T23:16:04.784Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T23:16:04.784Z"
     }
 }
