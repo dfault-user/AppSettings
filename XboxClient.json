@@ -12193,7 +12193,7 @@
         "FFlagUserFixFreecamPointerAction": "True",
         "FFlagWebBrowserSTM6490AllowExternalDrop": "True",
         "FFlagEnableNativeiOSFeatureNavigationTelemetry3": "True",
-        "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix": "True",
+        "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix": "False",
         "FFlagUwpMigrationDialogAuthenticateDeeplinks": "True",
         "FFlagISRCacheDirtyRootToMembers": "True",
         "FFlagRenderFixParticleFarDepthFade": "True",
@@ -12264,7 +12264,6 @@
         "DFFlagResetNetworkOwnerOnRemovePrimitive": "False",
         "DFFlagSerializerBinaryUnsignedOrientId": "True",
         "EnableAndroidCTAClickLoggingFix": "true",
-        "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:49:32",
         "FFlagLuauCodeGenUnassignedBcTargetAbort_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:54:45",
         "FFlagLuaAppAddSortDataToSocialCarouselClicks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:54:57",
         "FFlagLuauCodeGenRegAutoSpillA64_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:55:28",
@@ -12294,6 +12293,8 @@
         "FFlagScriptContextSeparateTelemetry": "True",
         "FFlagRemoveMeInParent2": "True",
         "FFlagParallelGcFallback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:41:09",
+        "FFlagAXBackendDrivenCatalogLayers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;967657281;2025-09-30T17:50:53",
+        "FFlagStrictInternalCaps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:51:03",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12649,9 +12650,9 @@
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "52ddbf7baea4336f2b3d5d4ecc30914bd4300de4",
-        "DFStringFlagRepoGitHashDynamicString": "52ddbf7baea4336f2b3d5d4ecc30914bd4300de4",
-        "FStringFlipTimeStampFastString": "2025-09-30T17:42:43.115Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T17:42:43.115Z"
+        "FStringFlagRepoGitHashFastString": "f94782db24e7ca5e9657fd30704641adc02e5764",
+        "DFStringFlagRepoGitHashDynamicString": "f94782db24e7ca5e9657fd30704641adc02e5764",
+        "FStringFlipTimeStampFastString": "2025-09-30T17:54:45.067Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T17:54:45.067Z"
     }
 }
