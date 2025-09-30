@@ -12273,6 +12273,7 @@
         "DFFlagCLI170265_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:30:30",
         "FFlagScriptContextSeparateTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:31:00",
         "AllowVideoPreRoll": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14018,7 +14019,6 @@
         "FFlagFixContentProviderAPIsForAssetProvider2": "True",
         "FFlagComponentizeCalloutController": "True",
         "FFlagStudioAddAttributeComboBoxBackground_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:04:06",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -14449,9 +14449,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "FFlagSimSolverUseStaticUIDGenerator2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:11:52",
-        "FStringFlagRepoGitHashFastString": "67dc7189065defce69bb942d46affa1af5913360",
-        "DFStringFlagRepoGitHashDynamicString": "67dc7189065defce69bb942d46affa1af5913360",
-        "FStringFlipTimeStampFastString": "2025-09-30T16:35:34.932Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T16:35:34.932Z"
+        "FStringFlagRepoGitHashFastString": "fcc66c726be8dd6fe99c0d71a6d233afface4055",
+        "DFStringFlagRepoGitHashDynamicString": "fcc66c726be8dd6fe99c0d71a6d233afface4055",
+        "FStringFlipTimeStampFastString": "2025-09-30T16:38:18.933Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T16:38:18.933Z"
     }
 }
