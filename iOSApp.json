@@ -12264,10 +12264,6 @@
         "DFFlagResetNetworkOwnerOnRemovePrimitive": "False",
         "DFFlagSerializerBinaryUnsignedOrientId": "True",
         "EnableAndroidCTAClickLoggingFix": "true",
-        "FFlagUIPadBorderSizes2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:57:30",
-        "FFlagUseNewDiscoverabilityModal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:57:54",
-        "FFlagPremultiplyViewportframeBackgroundColor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:58:49",
-        "FFlagLuauCodeGenRestoreFromSplitStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:00:08",
         "DFIntInferredCrashReportToBacktraceThrottleHundredthsPercentage_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:02:19",
         "FFlagProfilePlatformEnableEditAvatar_IXP": "1;Social.SelfProfileView;Social.SelfProfileView.AddEditAvatarCTA;952822487;dev_controlled",
         "DFFlagTextGenerationAdvancedProperties_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:07:09",
@@ -12297,6 +12293,11 @@
         "FFlagLuauCodeGenRegAutoSpillA64": "True",
         "FFlagLuauCodeGenUnassignedBcTargetAbort": "True",
         "AllowVideoPreRoll": "True",
+        "FFlagPremultiplyViewportframeBackgroundColor": "True",
+        "FFlagUIPadBorderSizes2": "True",
+        "FFlagUseNewDiscoverabilityModal": "True",
+        "FFlagLuauCodeGenRestoreFromSplitStore": "True",
+        "DFIntExpChatWindowScrollThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;370176745;2025-09-30T18:02:22",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13168,9 +13169,9 @@
         "FFlagRbxStorageRecoverPermFromCache": "True",
         "DFFlagMouseInScrollingFrameShouldConsiderBar": "True",
         "FFlagProductInfoBatchingCoalescingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T18:00:16",
-        "FStringFlagRepoGitHashFastString": "30df8721c892e4d6bf297074e7deab63f0bcbf99",
-        "DFStringFlagRepoGitHashDynamicString": "30df8721c892e4d6bf297074e7deab63f0bcbf99",
-        "FStringFlipTimeStampFastString": "2025-09-30T18:03:43.555Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T18:03:43.555Z"
+        "FStringFlagRepoGitHashFastString": "66e853e6ff0f9df677b26e23597ef7231338c09d",
+        "DFStringFlagRepoGitHashDynamicString": "66e853e6ff0f9df677b26e23597ef7231338c09d",
+        "FStringFlipTimeStampFastString": "2025-09-30T18:04:32.600Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T18:04:32.600Z"
     }
 }
