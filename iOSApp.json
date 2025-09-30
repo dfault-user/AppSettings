@@ -12264,7 +12264,6 @@
         "DFFlagResetNetworkOwnerOnRemovePrimitive": "False",
         "DFFlagSerializerBinaryUnsignedOrientId": "True",
         "EnableAndroidCTAClickLoggingFix": "true",
-        "FFlagRemoveMeInParent2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:37:08",
         "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:49:32",
         "FFlagLuauCodeGenUnassignedBcTargetAbort_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T16:54:45",
         "AllowVideoPreRoll": "True",
@@ -12293,6 +12292,8 @@
         "FFlagEnableSocialSelfProfileViewExposureEvents": "True",
         "DFFlagCLI170265": "True",
         "FFlagScriptContextSeparateTelemetry": "True",
+        "FFlagRemoveMeInParent2": "True",
+        "FFlagParallelGcFallback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-09-30T17:41:09",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13164,9 +13165,9 @@
         "FStringAvailableDiskLayer": "ConsumerPlatforms.DiskUsageLayer",
         "FFlagRbxStorageRecoverPermFromCache": "True",
         "DFFlagMouseInScrollingFrameShouldConsiderBar": "True",
-        "FStringFlagRepoGitHashFastString": "5e576f5c6a7e01ec135ff0076aabd8d381b4e95f",
-        "DFStringFlagRepoGitHashDynamicString": "5e576f5c6a7e01ec135ff0076aabd8d381b4e95f",
-        "FStringFlipTimeStampFastString": "2025-09-30T17:37:46.215Z",
-        "DFStringFlipTimeStampDynamicString": "2025-09-30T17:37:46.215Z"
+        "FStringFlagRepoGitHashFastString": "52ddbf7baea4336f2b3d5d4ecc30914bd4300de4",
+        "DFStringFlagRepoGitHashDynamicString": "52ddbf7baea4336f2b3d5d4ecc30914bd4300de4",
+        "FStringFlipTimeStampFastString": "2025-09-30T17:42:43.115Z",
+        "DFStringFlipTimeStampDynamicString": "2025-09-30T17:42:43.115Z"
     }
 }
