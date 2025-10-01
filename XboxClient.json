@@ -12367,6 +12367,8 @@
         "FFlagAXFPSForCatSubCat": "True",
         "FFlagAXImproveSlotBasedEditorPerformance": "True",
         "FFlagSimAeroNewNewtonLogging": "True",
+        "DFFlagUseNewPhysicsMeshDecoderForAero_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
+        "DFFlagUseNewPhysicsMeshDecoderForNav_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12722,9 +12724,10 @@
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "fb9473131f8d1141000928184c5937f5f5079207",
-        "DFStringFlagRepoGitHashDynamicString": "fb9473131f8d1141000928184c5937f5f5079207",
-        "FStringFlipTimeStampFastString": "2025-10-01T20:07:02.300Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:07:02.300Z"
+        "FFlagDiffractionSolverUsesGraphicsQualityLevel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:08:13",
+        "FStringFlagRepoGitHashFastString": "b61487081598cc3f6500c4a5c0ad511f3e72a3c0",
+        "DFStringFlagRepoGitHashDynamicString": "b61487081598cc3f6500c4a5c0ad511f3e72a3c0",
+        "FStringFlipTimeStampFastString": "2025-10-01T20:09:32.587Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:09:32.587Z"
     }
 }
