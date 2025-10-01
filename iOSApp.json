@@ -7594,7 +7594,7 @@
         "DFFlagFlagRolloutTestDynamicBool18": "False",
         "DFFlagFlagRolloutTestDynamicBool19": "False",
         "DFFlagFlagRolloutTestDynamicBool20": "False",
-        "DFFlagFlagRolloutTestDynamicBool21": "False",
+        "DFFlagFlagRolloutTestDynamicBool21": "True",
         "DFFlagFlagRolloutTestDynamicBool22": "False",
         "DFFlagFlagRolloutTestDynamicBool23": "False",
         "DFFlagFlagRolloutTestDynamicBool24": "False",
@@ -12334,7 +12334,6 @@
         "FFlagAXUnifiedLoggingTagDefinition": "True",
         "FFlagLargerStacksForRegexFind": "True",
         "FFlagEnablePartyPageCarouselExperimentation": "True",
-        "DFFlagFlagRolloutTestDynamicBool21_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T17:51:32",
         "DFFlagConvexDecompCompressionAnalytics693_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T17:55:17",
         "FFlagEnableMultiAbuseTypeDescription_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T17:57:29",
         "FFlagSocialCarouselEnableUserSeenEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:04:32",
@@ -12358,6 +12357,8 @@
         "FFlagAddTrustedConnectionLabel": "True",
         "FFlagSwitchIsEconomicRestrictionResponse": "True",
         "AllowVideoPreRoll": "True",
+        "FFlagAXFPSForCatSubCat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;649971382;2025-10-01T18:55:25",
+        "FFlagAXImproveSlotBasedEditorPerformance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;649971382;2025-10-01T18:55:25",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13233,9 +13234,9 @@
         "FFlagTCFixDeviceOrientationCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1093387517;2025-10-01T18:19:01",
         "DFFlagFileCacheClearRecursive_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:26:44",
         "FFlagAppChatEnableDoubleOptInRC2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:39:43",
-        "FStringFlagRepoGitHashFastString": "f3bcbe790ca4f6724778fd2aea47471372ce40db",
-        "DFStringFlagRepoGitHashDynamicString": "f3bcbe790ca4f6724778fd2aea47471372ce40db",
-        "FStringFlipTimeStampFastString": "2025-10-01T18:52:46.391Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T18:52:46.391Z"
+        "FStringFlagRepoGitHashFastString": "9d11b53b0b7a2d1997f21fdca3a271ff406f1d8f",
+        "DFStringFlagRepoGitHashDynamicString": "9d11b53b0b7a2d1997f21fdca3a271ff406f1d8f",
+        "FStringFlipTimeStampFastString": "2025-10-01T18:57:19.912Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T18:57:19.912Z"
     }
 }
