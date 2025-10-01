@@ -12359,8 +12359,6 @@
         "FFlagSimAeroNewNewtonLogging": "True",
         "DFIntConvexDecompCompressionSelector_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;392891050;2025-10-01T20:38:34",
         "FFlagTopBarStyleUseDisplayUIScale": "True",
-        "FFlagVoiceLeaveOnDmClose_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:26:17",
-        "FFlagUseGeneralizedFileCulling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:27:14",
         "FFlagPinStreamingSignals": "True",
         "DFFlagVideoWinHwEncoderFlushAfterDrain": "True",
         "FFlagLuaAppFixEdpInitialFocus3": "True",
@@ -12377,6 +12375,8 @@
         "FFlagFixDisplaySizeVR2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:59:26",
         "EnableGmaSdkOperationTimeouts": "true",
         "FFlagCallVoiceLeaveOnNetworkDisconnect2": "True",
+        "FFlagVoiceLeaveOnDmClose": "True",
+        "FFlagUseGeneralizedFileCulling": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13257,9 +13257,9 @@
         "FFlagAXSlotsScrollAway2_Staged": "True;SteadyState;10;30;Revert;true;256018471;2025-10-01T21:01:43",
         "FFlagAddFriendsFixText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:19:30",
         "FFlagAppChatDoubleOptInTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "b182705ea7bd97eaf0c33b88a182ce3d3921acde",
-        "DFStringFlagRepoGitHashDynamicString": "b182705ea7bd97eaf0c33b88a182ce3d3921acde",
-        "FStringFlipTimeStampFastString": "2025-10-01T21:31:17.833Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:31:17.833Z"
+        "FStringFlagRepoGitHashFastString": "b1969da4ad4c68f2df1a0b88c5941864ba939dd4",
+        "DFStringFlagRepoGitHashDynamicString": "b1969da4ad4c68f2df1a0b88c5941864ba939dd4",
+        "FStringFlipTimeStampFastString": "2025-10-01T21:35:56.886Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:35:56.886Z"
     }
 }
