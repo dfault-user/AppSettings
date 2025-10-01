@@ -12363,7 +12363,6 @@
         "FFlagLuaAppFixEdpInitialFocus3": "True",
         "FFlagAXColorAdjustmentBottomPaddingFix": "True",
         "FFlagLuaAppFixNewMediaGalleryFocus": "True",
-        "DFFlagSimSolidMeshSmoothingAngle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:50:49",
         "DFFlagFixWebViewGrayBar": "True",
         "FFlagUseFallbackWindowsDPI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:56:41",
         "FFlagUseNewDiscoverabilityModal_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:57:16",
@@ -12383,6 +12382,7 @@
         "FFlagVideoCaptureEngineThreadSafeAudioEncoder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:38:33",
         "FFlagVoiceChatOptimizeUserLeaveGetOrCreate": "True",
         "DFFlagUseFastMat33_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:53:04",
+        "DFFlagSimSolidMeshSmoothingAngle": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -12828,8 +12828,8 @@
         "DFFlagSQLiteCacheSkipNegativeSize": "True",
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady": "True",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
-        "DFFlagSolverV2NoModelModeChangesFromNonWorkspaceContainer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:54:20",
         "DFFlagEnableRecommendationDetailedErrors": "True",
+        "DFFlagSolverV2NoModelModeChangesFromNonWorkspaceContainer": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13262,9 +13262,9 @@
         "FFlagFixUIRayGoingThruExistingVerts4": "True",
         "FFlagAXSlotsDesktopCrashFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;256018471;2025-10-01T21:01:43",
         "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:33:02",
-        "FStringFlagRepoGitHashFastString": "29e3d0546c24afd4839d0a31de88948ba5a9a571",
-        "DFStringFlagRepoGitHashDynamicString": "29e3d0546c24afd4839d0a31de88948ba5a9a571",
-        "FStringFlipTimeStampFastString": "2025-10-01T21:56:55.733Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:56:55.733Z"
+        "FStringFlagRepoGitHashFastString": "6f2c11847e3a90f5bca9a575f12345154489ad9d",
+        "DFStringFlagRepoGitHashDynamicString": "6f2c11847e3a90f5bca9a575f12345154489ad9d",
+        "FStringFlipTimeStampFastString": "2025-10-01T22:01:34.579Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T22:01:34.579Z"
     }
 }

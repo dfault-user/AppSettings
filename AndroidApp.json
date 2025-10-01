@@ -12363,7 +12363,6 @@
         "FFlagLuaAppFixEdpInitialFocus3": "True",
         "FFlagAXColorAdjustmentBottomPaddingFix": "True",
         "FFlagLuaAppFixNewMediaGalleryFocus": "True",
-        "DFFlagSimSolidMeshSmoothingAngle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:50:49",
         "DFFlagFixWebViewGrayBar": "True",
         "FFlagUseFallbackWindowsDPI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:56:41",
         "FFlagUseNewDiscoverabilityModal_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:57:16",
@@ -12383,6 +12382,7 @@
         "FFlagVideoCaptureEngineThreadSafeAudioEncoder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:38:33",
         "FFlagVoiceChatOptimizeUserLeaveGetOrCreate": "True",
         "DFFlagUseFastMat33_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:53:04",
+        "DFFlagSimSolidMeshSmoothingAngle": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13284,9 +13284,9 @@
         "FIntSQLiteDisableSHM": "1",
         "DFFlagFileCacheClearRecursive": "True",
         "DFFlagCrashMetricStorageEnableBufferConstantReporting": "True",
-        "FStringFlagRepoGitHashFastString": "29e3d0546c24afd4839d0a31de88948ba5a9a571",
-        "DFStringFlagRepoGitHashDynamicString": "29e3d0546c24afd4839d0a31de88948ba5a9a571",
-        "FStringFlipTimeStampFastString": "2025-10-01T21:56:55.733Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:56:55.733Z"
+        "FStringFlagRepoGitHashFastString": "d4d9325853cdb6d04001775880a1c6952b55f3f8",
+        "DFStringFlagRepoGitHashDynamicString": "d4d9325853cdb6d04001775880a1c6952b55f3f8",
+        "FStringFlipTimeStampFastString": "2025-10-01T22:01:58.772Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T22:01:58.772Z"
     }
 }
