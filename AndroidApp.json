@@ -12312,7 +12312,7 @@
         "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData": "True",
         "DFFlagUseNewPhysicsMeshDecoderForNav": "True",
         "DFFlagUseNewPhysicsMeshDecoderForRendering": "True",
-        "DFFlagUsePhysicsMeshDecoderInBulletWrapper": "True",
+        "DFFlagUsePhysicsMeshDecoderInBulletWrapper": "False",
         "FFlagTerrainOneTouch690": "True",
         "FFlagAXEnableMaxUndoRedoHistory": "True",
         "FFlagAXHydrateAssetFromBundleItems": "True",
@@ -12345,7 +12345,6 @@
         "FIntVoiceRtcStatsContextCardinalityThreshold": "5",
         "DFFlagEnableGetUsersPriceLevelsApi": "True",
         "FFlagTouchscreenUseTabTipKeyboardPCGDKOnly": "False",
-        "DFFlagUsePhysicsMeshDecoderInBulletWrapper_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2041199737;2025-10-01T19:17:14",
         "FFlagLuaAppShowSponsoredTooltipOnConsole": "True",
         "DFFlagVideoCaptureBlockWinOpenGL": "True",
         "FFlagShareLinkV2FixInvalidModal": "True",
@@ -13270,9 +13269,9 @@
         "FIntSQLiteDisableSHM": "1",
         "DFFlagFileCacheClearRecursive": "True",
         "DFFlagCrashMetricStorageEnableBufferConstantReporting_Staged": "True;SteadyState;10;30;Revert;2025-10-01T19:58:32",
-        "FStringFlagRepoGitHashFastString": "3f6ce4e0f7453f9f7a0c9b66822ea090fd64d3e7",
-        "DFStringFlagRepoGitHashDynamicString": "3f6ce4e0f7453f9f7a0c9b66822ea090fd64d3e7",
-        "FStringFlipTimeStampFastString": "2025-10-01T20:21:34.547Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:21:34.547Z"
+        "FStringFlagRepoGitHashFastString": "26dce5c71ca646699deda81eccd0a49c6b0c872e",
+        "DFStringFlagRepoGitHashDynamicString": "26dce5c71ca646699deda81eccd0a49c6b0c872e",
+        "FStringFlipTimeStampFastString": "2025-10-01T20:27:36.143Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:27:36.143Z"
     }
 }
