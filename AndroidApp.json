@@ -12380,7 +12380,6 @@
         "DFFlagHapticEffectEnded": "True",
         "DFIntNetworkTraceAThrottlePoints": "100",
         "FFlagVideoCaptureEngineThreadSafeAudioEncoder": "True",
-        "DFFlagUseFastMat44Mul_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:48:05",
         "FFlagKillDropperAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:55:45",
         "DFFlagUseFastMat33": "True",
         "DFFlagSQLiteCacheSkipNegativeSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T23:00:09",
@@ -12394,6 +12393,7 @@
         "FFlagEnableIntegratedTouchOnly2": "True",
         "FIntWindowsTouchCheckMinTouches": "3",
         "FFlagToolboxFixCreatorStoreUrl_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T23:46:37",
+        "DFFlagUseFastMat44Mul": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13295,9 +13295,9 @@
         "FIntSQLiteDisableSHM": "1",
         "DFFlagFileCacheClearRecursive": "True",
         "DFFlagCrashMetricStorageEnableBufferConstantReporting": "True",
-        "FStringFlagRepoGitHashFastString": "68b573e4a28e729161c87f9c367f788c2c197027",
-        "DFStringFlagRepoGitHashDynamicString": "68b573e4a28e729161c87f9c367f788c2c197027",
-        "FStringFlipTimeStampFastString": "2025-10-01T23:51:52.393Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T23:51:52.393Z"
+        "FStringFlagRepoGitHashFastString": "b0bd01ba2551fd35508853f636f2e3ed0a9fa0c3",
+        "DFStringFlagRepoGitHashDynamicString": "b0bd01ba2551fd35508853f636f2e3ed0a9fa0c3",
+        "FStringFlipTimeStampFastString": "2025-10-01T23:57:12.132Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T23:57:12.132Z"
     }
 }
