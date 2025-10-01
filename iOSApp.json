@@ -12377,6 +12377,9 @@
         "FFlagCallVoiceLeaveOnNetworkDisconnect2": "True",
         "FFlagVoiceLeaveOnDmClose": "True",
         "FFlagUseGeneralizedFileCulling": "True",
+        "DFIntWebSocketConnectResultPointsHundredthsPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;205999319;2025-10-01T21:33:16",
+        "DFIntWebSocketDisconnectPointsHundredthsPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;205999319;2025-10-01T21:33:16",
+        "DFFlagHapticEffectEnded_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:35:23",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13257,9 +13260,9 @@
         "FFlagAXSlotsScrollAway2_Staged": "True;SteadyState;10;30;Revert;true;256018471;2025-10-01T21:01:43",
         "FFlagAddFriendsFixText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:19:30",
         "FFlagAppChatDoubleOptInTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "b1969da4ad4c68f2df1a0b88c5941864ba939dd4",
-        "DFStringFlagRepoGitHashDynamicString": "b1969da4ad4c68f2df1a0b88c5941864ba939dd4",
-        "FStringFlipTimeStampFastString": "2025-10-01T21:35:56.886Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:35:56.886Z"
+        "FStringFlagRepoGitHashFastString": "f0ecc29afb3735a0aa43145491eb0d06fa9bf3a0",
+        "DFStringFlagRepoGitHashDynamicString": "f0ecc29afb3735a0aa43145491eb0d06fa9bf3a0",
+        "FStringFlipTimeStampFastString": "2025-10-01T21:37:52.186Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:37:52.186Z"
     }
 }
