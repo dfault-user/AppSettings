@@ -12308,9 +12308,9 @@
         "FStringAXBackendDrivenCatalogLayersFString": "AvatarMarketplace.DynamicWidgetRankingLayer,AvatarMarketplace.WidgetOverridingLayer,AvatarMarketplace.WidgetPlatform,AvatarMarketplace.AvatarWidgetHomepage,AvatarMarketplace.TrendingWidgetLayer",
         "FFlagEnableIosLogReliabilityLog3": "True",
         "FFlagStyleEditorNewRuleRenameFix": "True",
-        "DFFlagUseNewPhysicsMeshDecoderForAero": "True",
-        "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData": "True",
-        "DFFlagUseNewPhysicsMeshDecoderForNav": "True",
+        "DFFlagUseNewPhysicsMeshDecoderForAero": "False",
+        "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData": "False",
+        "DFFlagUseNewPhysicsMeshDecoderForNav": "False",
         "DFFlagUseNewPhysicsMeshDecoderForRendering": "True",
         "DFFlagUsePhysicsMeshDecoderInBulletWrapper": "False",
         "FFlagTerrainOneTouch690": "True",
@@ -12357,9 +12357,6 @@
         "FFlagAXFPSForCatSubCat": "True",
         "FFlagAXImproveSlotBasedEditorPerformance": "True",
         "FFlagSimAeroNewNewtonLogging": "True",
-        "DFFlagUseNewPhysicsMeshDecoderForAero_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
-        "DFFlagUseNewPhysicsMeshDecoderForNav_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
-        "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;473225593;2025-10-01T20:08:46",
         "DFIntConvexDecompCompressionSelector_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;392891050;2025-10-01T20:38:34",
         "FFlagCallVoiceLeaveOnNetworkDisconnect2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:24:05",
         "FFlagTopBarStyleUseDisplayUIScale": "True",
@@ -12680,9 +12677,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "aa48e852b70f6d260bc3f701b6c3107d0f2e1cad",
-        "DFStringFlagRepoGitHashDynamicString": "aa48e852b70f6d260bc3f701b6c3107d0f2e1cad",
-        "FStringFlipTimeStampFastString": "2025-10-01T21:10:01.773Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:10:01.773Z"
+        "FStringFlagRepoGitHashFastString": "b219f273fec8513070b121692fbbd1e0d9212728",
+        "DFStringFlagRepoGitHashDynamicString": "b219f273fec8513070b121692fbbd1e0d9212728",
+        "FStringFlipTimeStampFastString": "2025-10-01T21:15:42.511Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:15:42.511Z"
     }
 }
