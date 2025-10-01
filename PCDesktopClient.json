@@ -12371,6 +12371,7 @@
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagUseGeneralizedFileCulling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:27:14",
         "FFlagPinStreamingSignals": "True",
+        "DFFlagRenderBeamSegmentAlphaFix_Staged": "True;SteadyState;10;30;Revert;2025-10-01T20:33:19",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13315,9 +13316,9 @@
         "DFFlagUseNewPhysicsMeshDecoderForAero_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
         "DFFlagUseNewPhysicsMeshDecoderForNav_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
         "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;473225593;2025-10-01T20:08:46",
-        "FStringFlagRepoGitHashFastString": "b3c1ba8961edd06a6f5b79716dca7f2c10ee682d",
-        "DFStringFlagRepoGitHashDynamicString": "b3c1ba8961edd06a6f5b79716dca7f2c10ee682d",
-        "FStringFlipTimeStampFastString": "2025-10-01T20:35:25.461Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:35:25.461Z"
+        "FStringFlagRepoGitHashFastString": "0840941bb7760b298a05c88b196aed6c4b2f879a",
+        "DFStringFlagRepoGitHashDynamicString": "0840941bb7760b298a05c88b196aed6c4b2f879a",
+        "FStringFlipTimeStampFastString": "2025-10-01T20:35:50.007Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:35:50.007Z"
     }
 }
