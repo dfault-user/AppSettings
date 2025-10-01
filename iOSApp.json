@@ -12375,9 +12375,6 @@
         "FFlagFixPopMouseIcon": "True",
         "FFlagUseFallbackWindowsDPI": "True",
         "FFlagViewportDisplaySizeAPI2BetaFeature": "True",
-        "FFlagAddTouchScreenCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:30:52",
-        "FFlagEnableIntegratedTouchOnly2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:31:23",
-        "FIntWindowsTouchCheckMinTouches_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:32:07",
         "DFIntWebSocketConnectResultPointsHundredthsPercent": "10",
         "DFIntWebSocketDisconnectPointsHundredthsPercent": "10",
         "DFFlagHapticEffectEnded": "True",
@@ -12393,6 +12390,9 @@
         "FFlagLuauUnfinishedRepeatAncestryFix": "True",
         "FFlagMacDisplaySizeInternalDisplayFix": "True",
         "FFlagStudioDeviceEmulatorDisplaySizeInitialization": "True",
+        "FFlagAddTouchScreenCheck": "True",
+        "FFlagEnableIntegratedTouchOnly2": "True",
+        "FIntWindowsTouchCheckMinTouches": "3",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13271,12 +13271,12 @@
         "FFlagAppChatDoubleOptInTelemetry": "True",
         "FFlagAXSlotsDesktopCrashFix": "True",
         "FFlagAddFriendsFixText": "True",
-        "FFlagAXHidePBRInfoRowOnAnimatedBudles_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:35:11",
         "FFlagAXSlotsPeekViewScrollFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;19386204;2025-10-01T23:18:43",
         "FFlagAXSlotsScrollAway2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;19386204;2025-10-01T23:18:43",
-        "FStringFlagRepoGitHashFastString": "3e5833ef6b2d45d8b6a9eb92f0e3263b7bf565a4",
-        "DFStringFlagRepoGitHashDynamicString": "3e5833ef6b2d45d8b6a9eb92f0e3263b7bf565a4",
-        "FStringFlipTimeStampFastString": "2025-10-01T23:32:23.223Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T23:32:23.223Z"
+        "FFlagAXHidePBRInfoRowOnAnimatedBudles": "True",
+        "FStringFlagRepoGitHashFastString": "94f9a0cf8d4a9a3b92c677a40bd45a71e5f3069f",
+        "DFStringFlagRepoGitHashDynamicString": "94f9a0cf8d4a9a3b92c677a40bd45a71e5f3069f",
+        "FStringFlipTimeStampFastString": "2025-10-01T23:41:16.657Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T23:41:16.657Z"
     }
 }
