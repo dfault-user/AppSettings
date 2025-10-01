@@ -12374,6 +12374,10 @@
         "FFlagVoiceChatOptimizeUserLeaveGetOrCreate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:48:43",
         "DFFlagSimSolidMeshSmoothingAngle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:50:49",
         "DFFlagFixWebViewGrayBar": "True",
+        "FFlagUseFallbackWindowsDPI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:56:41",
+        "FFlagUseNewDiscoverabilityModal_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:57:16",
+        "FFlagFixPopMouseIcon_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:57:35",
+        "FFlagViewportDisplaySizeAPI2BetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:58:09",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12730,9 +12734,9 @@
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "FFlagDiffractionSolverUsesGraphicsQualityLevel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:08:13",
-        "FStringFlagRepoGitHashFastString": "46a9a22e333ac454a9d8f8c61b29e5f69c951563",
-        "DFStringFlagRepoGitHashDynamicString": "46a9a22e333ac454a9d8f8c61b29e5f69c951563",
-        "FStringFlipTimeStampFastString": "2025-10-01T20:59:16.616Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:59:16.616Z"
+        "FStringFlagRepoGitHashFastString": "02dca1b526a38ffea51c13795800ed84d6a2a2e0",
+        "DFStringFlagRepoGitHashDynamicString": "02dca1b526a38ffea51c13795800ed84d6a2a2e0",
+        "FStringFlipTimeStampFastString": "2025-10-01T21:00:49.185Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:00:49.185Z"
     }
 }
