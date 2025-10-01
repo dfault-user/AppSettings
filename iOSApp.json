@@ -13252,13 +13252,14 @@
         "DFFlagFileCacheClearRecursive": "True",
         "FFlagAppChatEnableDoubleOptInRC2": "True",
         "FFlagEnableNSEPayloadParsingFix": "True",
-        "FFlagAppChatDoubleOptInTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:18:31",
         "FFlagAXSlotsDesktopCrashFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;256018471;2025-10-01T21:01:43",
         "FFlagAXSlotsPeekViewScrollFix_Staged": "True;SteadyState;10;30;Revert;true;256018471;2025-10-01T21:01:43",
         "FFlagAXSlotsScrollAway2_Staged": "True;SteadyState;10;30;Revert;true;256018471;2025-10-01T21:01:43",
-        "FStringFlagRepoGitHashFastString": "5b54a981752d27c46d45621c810191b373bb9efb",
-        "DFStringFlagRepoGitHashDynamicString": "5b54a981752d27c46d45621c810191b373bb9efb",
-        "FStringFlipTimeStampFastString": "2025-10-01T21:19:37.819Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:19:37.819Z"
+        "FFlagAddFriendsFixText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:19:30",
+        "FFlagAppChatDoubleOptInTelemetry": "True",
+        "FStringFlagRepoGitHashFastString": "d6817a82cf44513670bde63471080a8de7c12c9d",
+        "DFStringFlagRepoGitHashDynamicString": "d6817a82cf44513670bde63471080a8de7c12c9d",
+        "FStringFlipTimeStampFastString": "2025-10-01T21:23:22.005Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:23:22.005Z"
     }
 }
