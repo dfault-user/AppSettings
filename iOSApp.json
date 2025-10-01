@@ -12338,9 +12338,6 @@
         "FFlagFixiOSKeyedArchiverError": "True",
         "FFlagAddTrustedConnectionLabel": "True",
         "FFlagSwitchIsEconomicRestrictionResponse": "True",
-        "AllowVideoPreRoll": "True",
-        "FFlagAXFPSForCatSubCat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;649971382;2025-10-01T18:55:25",
-        "FFlagAXImproveSlotBasedEditorPerformance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;649971382;2025-10-01T18:55:25",
         "FFlagEnableMultiAbuseTypeDescription": "True",
         "DFFlagConvexDecompCompressionAnalytics693": "True",
         "FFlagSimAeroNewNewtonLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T19:00:56",
@@ -12367,6 +12364,10 @@
         "FFlagAXSlotsInventoryLoadableGridView": "True",
         "FFlagFindReplaceAllCapEscapedStringLength": "True",
         "DFFlagFixWebViewGrayBar_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T19:49:16",
+        "DFFlagMouseInScrollingFrameShouldConsiderBar": "True",
+        "FFlagAXFPSForCatSubCat": "True",
+        "FFlagAXImproveSlotBasedEditorPerformance": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13233,7 +13234,6 @@
         "FFlagEnableNegativeDiskSizeExperiment": "True",
         "FStringAvailableDiskLayer": "ConsumerPlatforms.DiskUsageLayer",
         "FFlagRbxStorageRecoverPermFromCache": "True",
-        "DFFlagMouseInScrollingFrameShouldConsiderBar": "True",
         "FFlagRbxStorageFileCachePerm3": "True",
         "FFlagEnableNoBuildInterfaceForBackgroundJobs": "True",
         "FFlagAXAccessoryAdjustmentReturnOnNil": "True",
@@ -13243,9 +13243,9 @@
         "DFFlagFileCacheClearRecursive": "True",
         "FFlagAppChatEnableDoubleOptInRC2": "True",
         "FFlagAddFriendsPYMKPresence_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T19:50:56",
-        "FStringFlagRepoGitHashFastString": "5bc431465814dd944a64c36b7c5356faacfdefe5",
-        "DFStringFlagRepoGitHashDynamicString": "5bc431465814dd944a64c36b7c5356faacfdefe5",
-        "FStringFlipTimeStampFastString": "2025-10-01T19:52:44.089Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T19:52:44.089Z"
+        "FStringFlagRepoGitHashFastString": "adf26ac8f1d7c22d84ecbdb3bd71ea20ccce998b",
+        "DFStringFlagRepoGitHashDynamicString": "adf26ac8f1d7c22d84ecbdb3bd71ea20ccce998b",
+        "FStringFlipTimeStampFastString": "2025-10-01T19:58:09.321Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T19:58:09.321Z"
     }
 }
