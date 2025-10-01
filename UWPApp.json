@@ -12383,6 +12383,8 @@
         "FFlagViewportDisplaySizeAPI2BetaFeature": "True",
         "DFFlagRenderBeamSegmentAlphaFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:02:58",
         "FFlagLuauUnfinishedRepeatAncestryFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:13:59",
+        "FFlagStudioDeviceEmulatorDisplaySizeInitialization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:29:09",
+        "FFlagMacDisplaySizeInternalDisplayFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:29:28",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12683,9 +12685,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "24617bb34efcc9c94c19666c5ddd7d8149a6ac8b",
-        "DFStringFlagRepoGitHashDynamicString": "24617bb34efcc9c94c19666c5ddd7d8149a6ac8b",
-        "FStringFlipTimeStampFastString": "2025-10-01T22:27:05.660Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T22:27:05.660Z"
+        "FStringFlagRepoGitHashFastString": "2553a71000284de3e90bb5079004053fc3d0a37c",
+        "DFStringFlagRepoGitHashDynamicString": "2553a71000284de3e90bb5079004053fc3d0a37c",
+        "FStringFlipTimeStampFastString": "2025-10-01T22:32:27.422Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T22:32:27.422Z"
     }
 }
