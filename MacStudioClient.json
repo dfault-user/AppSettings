@@ -12380,6 +12380,8 @@
         "DFIntWebSocketConnectResultPointsHundredthsPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;205999319;2025-10-01T21:33:16",
         "DFIntWebSocketDisconnectPointsHundredthsPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;205999319;2025-10-01T21:33:16",
         "AllowVideoPreRoll": "True",
+        "DFIntNetworkTraceAThrottlePoints_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:36:04",
+        "FFlagEnableNetworkTracingA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:36:35",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14111,7 +14113,6 @@
         "FFlagComponentizeUIEditorController": "True",
         "FFlagStudioRemoveStuffsRobloxMainWindowCtor": "True",
         "FFlagStudioActionComponentConversionGroupD3": "True",
-        "FFlagStudioFixInitialPluginsLatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:31:27",
         "DFIntImportWrapTextureTransferEventsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:37:26",
         "FFlagStudioFixMouseTrackerFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:39:23",
         "DFIntAssetServiceComposeDecalAsyncLoggingHundredthsPercentage_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:45:58",
@@ -14129,6 +14130,7 @@
         "FFlagFixStudioSharedPainterCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:15:02",
         "FFlagVideoDisplaySliceAndTileDisable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:17:39",
         "FFlagVideoDisplayFixRectRender_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:18:58",
+        "FFlagStudioFixInitialPluginsLatch": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "DFFlagEnableFdTracking": "True",
         "FFlagIncreaseFileDescriptorLimit": "True",
@@ -14522,9 +14524,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "f0ecc29afb3735a0aa43145491eb0d06fa9bf3a0",
-        "DFStringFlagRepoGitHashDynamicString": "f0ecc29afb3735a0aa43145491eb0d06fa9bf3a0",
-        "FStringFlipTimeStampFastString": "2025-10-01T21:37:52.186Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:37:52.186Z"
+        "FStringFlagRepoGitHashFastString": "e23960b0c57c7a7497679fee64549f6237af4129",
+        "DFStringFlagRepoGitHashDynamicString": "e23960b0c57c7a7497679fee64549f6237af4129",
+        "FStringFlipTimeStampFastString": "2025-10-01T21:39:55.932Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:39:55.932Z"
     }
 }
