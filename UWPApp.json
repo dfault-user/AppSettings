@@ -12369,7 +12369,6 @@
         "FFlagVoiceLeaveOnDmClose": "True",
         "FFlagUseGeneralizedFileCulling": "True",
         "FFlagVoiceChatOptimizeUserLeaveGetOrCreate": "True",
-        "DFFlagUseFastMat33_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:53:04",
         "DFFlagSimSolidMeshSmoothingAngle": "True",
         "FFlagFixDisplaySizeEnum": "True",
         "FFlagFixDisplaySizeVR2": "True",
@@ -12388,6 +12387,9 @@
         "DFFlagHapticEffectEnded": "True",
         "DFIntNetworkTraceAThrottlePoints": "100",
         "FFlagVideoCaptureEngineThreadSafeAudioEncoder": "True",
+        "DFFlagUseFastMat44Mul_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:48:05",
+        "FFlagKillDropperAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:55:45",
+        "DFFlagUseFastMat33": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12688,9 +12690,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "264fb6ceed403575e4dc64ab86465e18ed45e237",
-        "DFStringFlagRepoGitHashDynamicString": "264fb6ceed403575e4dc64ab86465e18ed45e237",
-        "FStringFlipTimeStampFastString": "2025-10-01T22:59:43.702Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T22:59:43.702Z"
+        "FStringFlagRepoGitHashFastString": "9cb94531dd8b6efbbe715f6627e01f579e482480",
+        "DFStringFlagRepoGitHashDynamicString": "9cb94531dd8b6efbbe715f6627e01f579e482480",
+        "FStringFlipTimeStampFastString": "2025-10-01T23:01:48.433Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T23:01:48.433Z"
     }
 }
