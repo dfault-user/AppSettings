@@ -12349,7 +12349,6 @@
         "DFFlagVideoCaptureBlockWinOpenGL": "True",
         "FFlagShareLinkV2FixInvalidModal": "True",
         "FFlagSimSolverUseStaticUIDGenerator2": "True",
-        "FFlagLuaAppFixNewMediaGalleryFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1631992249;2025-10-01T19:37:24",
         "FFlagAXExtendUndoRedoTracking": "True",
         "FFlagAXInventoryItemCardPerf": "True",
         "FFlagAXSlotsInventoryLoadableGridView": "True",
@@ -12372,6 +12371,7 @@
         "DFFlagVideoWinHwEncoderFlushAfterDrain": "True",
         "FFlagLuaAppFixEdpInitialFocus3": "True",
         "FFlagAXColorAdjustmentBottomPaddingFix": "True",
+        "FFlagLuaAppFixNewMediaGalleryFocus": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12821,6 +12821,7 @@
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady": "True",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
         "CaptureQTStudioCountersEnabled": "True",
+        "DFFlagEnableRecommendationDetailedErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:40:01",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -13250,9 +13251,9 @@
         "DFFlagUseNewPhysicsMeshDecoderForAero_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
         "DFFlagUseNewPhysicsMeshDecoderForNav_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
         "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;473225593;2025-10-01T20:08:46",
-        "FStringFlagRepoGitHashFastString": "ba6dd14666539b2c91209d6cee7b61f9d4d34511",
-        "DFStringFlagRepoGitHashDynamicString": "ba6dd14666539b2c91209d6cee7b61f9d4d34511",
-        "FStringFlipTimeStampFastString": "2025-10-01T20:40:10.510Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:40:10.510Z"
+        "FStringFlagRepoGitHashFastString": "2ee188f9c1dddbb7929d342149cf71ee8526aa9f",
+        "DFStringFlagRepoGitHashDynamicString": "2ee188f9c1dddbb7929d342149cf71ee8526aa9f",
+        "FStringFlipTimeStampFastString": "2025-10-01T20:43:32.015Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:43:32.015Z"
     }
 }
