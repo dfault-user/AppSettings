@@ -12369,7 +12369,6 @@
         "FFlagVoiceLeaveOnDmClose": "True",
         "FFlagUseGeneralizedFileCulling": "True",
         "FFlagVoiceChatOptimizeUserLeaveGetOrCreate": "True",
-        "DFFlagUseFastMat33_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:53:04",
         "DFFlagSimSolidMeshSmoothingAngle": "True",
         "FFlagFixDisplaySizeEnum": "True",
         "FFlagFixDisplaySizeVR2": "True",
@@ -12379,7 +12378,7 @@
         "DFFlagRenderBeamSegmentAlphaFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:02:58",
         "FFlagLuauUnfinishedRepeatAncestryFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:13:59",
         "FFlagStudioDeviceEmulatorDisplaySizeInitialization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:29:09",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagAddTouchScreenCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:30:52",
         "FFlagEnableIntegratedTouchOnly2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:31:23",
         "FIntWindowsTouchCheckMinTouches_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:32:07",
@@ -12391,7 +12390,7 @@
         "DFFlagUseFastMat44Mul_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:48:05",
         "FFlagKillDropperAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T22:55:45",
         "DFFlagUseFastMat33": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13272,9 +13271,9 @@
         "DFFlagConvexDecompInertiaDataValidation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T21:58:49",
         "FFlagAXSlotsDesktopCrashFix": "True",
         "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2": "True",
-        "FStringFlagRepoGitHashFastString": "41b53c9f1fac50c02dcc934371906b86b2b575b0",
-        "DFStringFlagRepoGitHashDynamicString": "41b53c9f1fac50c02dcc934371906b86b2b575b0",
-        "FStringFlipTimeStampFastString": "2025-10-01T23:01:17.599Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T23:01:17.599Z"
+        "FStringFlagRepoGitHashFastString": "a85bb00e64d0bf821f8ad1c3409639efafef9fe5",
+        "DFStringFlagRepoGitHashDynamicString": "a85bb00e64d0bf821f8ad1c3409639efafef9fe5",
+        "FStringFlipTimeStampFastString": "2025-10-01T23:02:57.575Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T23:02:57.575Z"
     }
 }
