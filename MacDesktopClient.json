@@ -13257,9 +13257,12 @@
         "DFFlagUseNewPhysicsMeshDecoderForAero_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
         "DFFlagUseNewPhysicsMeshDecoderForNav_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
         "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;473225593;2025-10-01T20:08:46",
-        "FStringFlagRepoGitHashFastString": "08316f079d92fa0bcd4e1560841d7d8ccbdab1c7",
-        "DFStringFlagRepoGitHashDynamicString": "08316f079d92fa0bcd4e1560841d7d8ccbdab1c7",
-        "FStringFlipTimeStampFastString": "2025-10-01T21:03:34.068Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:03:34.068Z"
+        "FFlagAXSlotsDesktopCrashFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;256018471;2025-10-01T21:01:43",
+        "FFlagAXSlotsPeekViewScrollFix_Staged": "True;SteadyState;10;30;Revert;true;256018471;2025-10-01T21:01:43",
+        "FFlagAXSlotsScrollAway2_Staged": "True;SteadyState;10;30;Revert;true;256018471;2025-10-01T21:01:43",
+        "FStringFlagRepoGitHashFastString": "d1848c23dc54a2b2da626b8b58b7d5e34814f340",
+        "DFStringFlagRepoGitHashDynamicString": "d1848c23dc54a2b2da626b8b58b7d5e34814f340",
+        "FStringFlipTimeStampFastString": "2025-10-01T21:04:24.534Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T21:04:24.534Z"
     }
 }
