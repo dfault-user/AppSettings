@@ -12334,7 +12334,6 @@
         "FFlagAXUnifiedLoggingTagDefinition": "True",
         "FFlagLargerStacksForRegexFind": "True",
         "FFlagEnablePartyPageCarouselExperimentation": "True",
-        "FFlagTokenizeUnibarConstantsWithStyleProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:09:54",
         "DFFlagEnableGetUsersPriceLevelsApi_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:12:12",
         "FIntVoiceRtcStatsContextCardinalityThreshold_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:13:50",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12361,6 +12360,7 @@
         "FFlagSocialCarouselEnableUserSeenEvents": "True",
         "FFlagFlagRolloutTestStaticBool48_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;701013165;2025-10-01T19:06:45",
         "FFlagFlagRolloutTestStaticBool49_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;701013165;2025-10-01T19:06:45",
+        "FFlagTokenizeUnibarConstantsWithStyleProvider": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12837,6 +12837,8 @@
         "FFlagTouchscreenUseTabTipKeyboardPCGDKOnly_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:15:23",
         "FFlagIEMFocusNavToButtons_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:25:24",
         "CaptureCountersIntervalInMinutes": "5",
+        "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.AMDHardwareEncode;1550495362;flagbank",
+        "DFStringVideoWinHwEncoderBlacklistCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.AMDHardwareEncode;1550495362;flagbank",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -13303,9 +13305,9 @@
         "FFlagPCGDKSwitchMultiplayerPrivilegeCall": "True",
         "FFlagSimSolverUseStaticUIDGenerator2": "True",
         "DFFlagMouseInScrollingFrameShouldConsiderBar": "True",
-        "FStringFlagRepoGitHashFastString": "f753a574351c4d94df53a80600c5a0b2f1083c82",
-        "DFStringFlagRepoGitHashDynamicString": "f753a574351c4d94df53a80600c5a0b2f1083c82",
-        "FStringFlipTimeStampFastString": "2025-10-01T19:10:24.323Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T19:10:24.323Z"
+        "FStringFlagRepoGitHashFastString": "abb5a844e06cae553ad342d5ab4ccc0db62c90d6",
+        "DFStringFlagRepoGitHashDynamicString": "abb5a844e06cae553ad342d5ab4ccc0db62c90d6",
+        "FStringFlipTimeStampFastString": "2025-10-01T19:12:20.585Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T19:12:20.585Z"
     }
 }

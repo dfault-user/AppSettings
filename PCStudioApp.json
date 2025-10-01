@@ -12334,7 +12334,6 @@
         "FFlagAXUnifiedLoggingTagDefinition": "True",
         "FFlagLargerStacksForRegexFind": "True",
         "FFlagEnablePartyPageCarouselExperimentation": "True",
-        "FFlagTokenizeUnibarConstantsWithStyleProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:09:54",
         "DFFlagEnableGetUsersPriceLevelsApi_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:12:12",
         "FIntVoiceRtcStatsContextCardinalityThreshold_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:13:50",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12361,6 +12360,7 @@
         "FFlagSocialCarouselEnableUserSeenEvents": "True",
         "FFlagFlagRolloutTestStaticBool48_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;701013165;2025-10-01T19:06:45",
         "FFlagFlagRolloutTestStaticBool49_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;701013165;2025-10-01T19:06:45",
+        "FFlagTokenizeUnibarConstantsWithStyleProvider": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14480,6 +14480,7 @@
         "FFlagTouchscreenUseTabTipKeyboardPCGDKOnly_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:15:23",
         "FFlagIEMFocusNavToButtons_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:25:24",
         "DFIntConvexDecompCompressionSelector_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T18:25:38",
+        "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.AMDHardwareEncode;1550495362;flagbank",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
         "FLogCloseDataModel": "6",
@@ -14512,9 +14513,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "FFlagSimSolverUseStaticUIDGenerator2": "True",
-        "FStringFlagRepoGitHashFastString": "f753a574351c4d94df53a80600c5a0b2f1083c82",
-        "DFStringFlagRepoGitHashDynamicString": "f753a574351c4d94df53a80600c5a0b2f1083c82",
-        "FStringFlipTimeStampFastString": "2025-10-01T19:10:24.323Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T19:10:24.323Z"
+        "FStringFlagRepoGitHashFastString": "1760e5d397bc154a9c9b601ebc48d71ad86999b8",
+        "DFStringFlagRepoGitHashDynamicString": "1760e5d397bc154a9c9b601ebc48d71ad86999b8",
+        "FStringFlipTimeStampFastString": "2025-10-01T19:12:03.396Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T19:12:03.396Z"
     }
 }
