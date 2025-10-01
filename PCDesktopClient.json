@@ -12353,7 +12353,6 @@
         "FFlagAXInventoryItemCardPerf": "True",
         "FFlagAXSlotsInventoryLoadableGridView": "True",
         "FFlagFindReplaceAllCapEscapedStringLength": "True",
-        "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagMouseInScrollingFrameShouldConsiderBar": "True",
         "FFlagAXFPSForCatSubCat": "True",
         "FFlagAXImproveSlotBasedEditorPerformance": "True",
@@ -12374,6 +12373,7 @@
         "FFlagLuaAppFixNewMediaGalleryFocus": "True",
         "FFlagVoiceChatOptimizeUserLeaveGetOrCreate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:48:43",
         "DFFlagSimSolidMeshSmoothingAngle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:50:49",
+        "DFFlagFixWebViewGrayBar": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -12854,6 +12854,7 @@
         "FIntVideoCaptureMaxShortSideLowMem_IXP": "1;Engine.Video.WinCapture;Engine.Video.Win1080pCapture;1267308096;flagbank",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagEnableRecommendationDetailedErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:40:01",
+        "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
@@ -13275,7 +13276,6 @@
         "FFlagLuaAppSortDeeplinkFix": "True",
         "FFlagLuaAppLogGameAttributionError": "False",
         "FIntLuaAppGameAttributionErrorEventThrottleHundrethsPercent": "10000",
-        "DFFlagFixWebViewGrayBar": "True",
         "DFStringAllowedPublicFlags": "eyJTaWduYXR1cmUiOiJkNjFlMTJkNjNkNTA2MWM0ODA3OTBkYTA4Y2FjNmQ4NmY1N2RhN2U0NGI2NDNhNjBiNDMxOWRhZWNjOTNhZWNkNmE0MjFjMzk3OGRiNzc2ZGU4ZGUwMzk5MWFlZjU2MGI4MjRkMWUwY2UyYTUwMjllMjI4NTdmM2Q4OTk5OTkwMCIsIkFsbG93ZWQiOlsiREZGbGFnRGVidWdQYXVzZVZveGVsaXplciIsIkRGRmxhZ0Rpc2FibGVEUElTY2FsZSIsIkRGRmxhZ1RleHR1cmVRdWFsaXR5T3ZlcnJpZGVFbmFibGVkIiwiREZJbnRDU0dMZXZlbE9mRGV0YWlsU3dpdGNoaW5nRGlzdGFuY2UiLCJERkludENTR0xldmVsT2ZEZXRhaWxTd2l0Y2hpbmdEaXN0YW5jZUwxMiIsIkRGSW50Q1NHTGV2ZWxPZkRldGFpbFN3aXRjaGluZ0Rpc3RhbmNlTDIzIiwiREZJbnRDU0dMZXZlbE9mRGV0YWlsU3dpdGNoaW5nRGlzdGFuY2VMMzQiLCJERkludERlYnVnRlJNUXVhbGl0eUxldmVsT3ZlcnJpZGUiLCJERkludFRleHR1cmVRdWFsaXR5T3ZlcnJpZGUiLCJGRmxhZ0RlYnVnR3JhcGhpY3NQcmVmZXJEM0QxMSIsIkZGbGFnRGVidWdHcmFwaGljc1ByZWZlck9wZW5HTCIsIkZGbGFnRGVidWdHcmFwaGljc1ByZWZlclZ1bGthbiIsIkZGbGFnRGVidWdTa3lHcmF5IiwiRkZsYWdIYW5kbGVBbHRFbnRlckZ1bGxzY3JlZW5NYW51YWxseSIsIkZJbnREZWJ1Z0ZvcmNlTVNBQVNhbXBsZXMiLCJGSW50RlJNTWF4R3Jhc3NEaXN0YW5jZSIsIkZJbnRGUk1NaW5HcmFzc0Rpc3RhbmNlIiwiRkludEdyYXNzTW92ZW1lbnRSZWR1Y2VkTW90aW9uRmFjdG9yIl19",
         "DFFlagRobloxTelemetryRemoveEphemeralStatsDualReport": "True",
         "DFStringVideoAllCapturesBlacklistForGPUsCsv": "HD Graphics 4600,HD Graphics Family,HD Graphics 4400",
@@ -13319,9 +13319,9 @@
         "DFFlagUseNewPhysicsMeshDecoderForAero_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
         "DFFlagUseNewPhysicsMeshDecoderForNav_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
         "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;473225593;2025-10-01T20:08:46",
-        "FStringFlagRepoGitHashFastString": "d4ae760c36864d51a19d0e23d1d9d900a84f7b6b",
-        "DFStringFlagRepoGitHashDynamicString": "d4ae760c36864d51a19d0e23d1d9d900a84f7b6b",
-        "FStringFlipTimeStampFastString": "2025-10-01T20:53:30.535Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:53:30.535Z"
+        "FStringFlagRepoGitHashFastString": "8f386023bc9d4aa27f9911fa745effe75f68f791",
+        "DFStringFlagRepoGitHashDynamicString": "8f386023bc9d4aa27f9911fa745effe75f68f791",
+        "FStringFlipTimeStampFastString": "2025-10-01T20:53:47.262Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:53:47.262Z"
     }
 }
