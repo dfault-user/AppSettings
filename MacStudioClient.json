@@ -12349,9 +12349,6 @@
         "DFFlagVideoCaptureBlockWinOpenGL": "True",
         "FFlagShareLinkV2FixInvalidModal": "True",
         "FFlagSimSolverUseStaticUIDGenerator2": "True",
-        "FFlagAXColorAdjustmentBottomPaddingFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T19:31:23",
-        "DFFlagVideoWinHwEncoderFlushAfterDrain_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T19:32:18",
-        "FFlagLuaAppFixEdpInitialFocus3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2135920547;2025-10-01T19:32:21",
         "FFlagLuaAppFixNewMediaGalleryFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1631992249;2025-10-01T19:37:24",
         "FFlagAXExtendUndoRedoTracking": "True",
         "FFlagAXInventoryItemCardPerf": "True",
@@ -12372,6 +12369,9 @@
         "FFlagUseGeneralizedFileCulling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:27:14",
         "FFlagPinStreamingSignals": "True",
         "DFFlagRenderBeamSegmentAlphaFix_Staged": "True;SteadyState;10;30;Revert;2025-10-01T20:33:19",
+        "DFFlagVideoWinHwEncoderFlushAfterDrain": "True",
+        "FFlagLuaAppFixEdpInitialFocus3": "True",
+        "FFlagAXColorAdjustmentBottomPaddingFix": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -14106,6 +14106,7 @@
         "DFFlagUseNewPhysicsMeshDecoderForNav_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;31061862;2025-10-01T20:07:17",
         "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;473225593;2025-10-01T20:08:46",
         "FFlagStudioFixInitialPluginsLatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:31:27",
+        "DFIntImportWrapTextureTransferEventsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-01T20:37:26",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "DFFlagEnableFdTracking": "True",
@@ -14500,9 +14501,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "0840941bb7760b298a05c88b196aed6c4b2f879a",
-        "DFStringFlagRepoGitHashDynamicString": "0840941bb7760b298a05c88b196aed6c4b2f879a",
-        "FStringFlipTimeStampFastString": "2025-10-01T20:35:50.007Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:35:50.007Z"
+        "FStringFlagRepoGitHashFastString": "5dc79f1e7475d23428ffc5719178c5a22219b8fe",
+        "DFStringFlagRepoGitHashDynamicString": "5dc79f1e7475d23428ffc5719178c5a22219b8fe",
+        "FStringFlipTimeStampFastString": "2025-10-01T20:39:43.932Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-01T20:39:43.932Z"
     }
 }
