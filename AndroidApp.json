@@ -12429,7 +12429,6 @@
         "FFlagSQLiteCacheUseEpochTime": "True",
         "FFlagAudioSpeechToTextDontSendShortBuffers": "True",
         "FFlagAvatarAutosetupOptionsInput": "True",
-        "FFlagInternalExportUse16uForJointIndexes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1352307144;2025-10-02T22:25:24",
         "DFFlagRenderBeamSegmentAlphaFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T22:28:23",
         "FFlagAXFixMissingResalePrice_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T22:30:51",
         "FFlagEnableAdsLifecycleManager_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T22:33:20",
@@ -12442,6 +12441,7 @@
         "DFFlagUseSimdAabbTri": "True",
         "FFlagFoundationShowErrorAboutFoundationProvider": "True",
         "FFlagEnableWarmStartMilestoneV2": "True",
+        "FFlagInternalExportUse16uForJointIndexes": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13343,9 +13343,9 @@
         "DFFlagFileCacheClearRecursive": "True",
         "DFFlagCrashMetricStorageEnableBufferConstantReporting": "True",
         "FFlagSquadEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "7df5529ffd369e4ebd96182b885c4ca6a5566927",
-        "DFStringFlagRepoGitHashDynamicString": "7df5529ffd369e4ebd96182b885c4ca6a5566927",
-        "FStringFlipTimeStampFastString": "2025-10-02T23:25:30.679Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T23:25:30.679Z"
+        "FStringFlagRepoGitHashFastString": "46855a29156fb1df81a3f973359e2fa90e0c7ba3",
+        "DFStringFlagRepoGitHashDynamicString": "46855a29156fb1df81a3f973359e2fa90e0c7ba3",
+        "FStringFlipTimeStampFastString": "2025-10-02T23:28:33.175Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T23:28:33.175Z"
     }
 }
