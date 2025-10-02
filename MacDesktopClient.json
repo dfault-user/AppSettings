@@ -1997,7 +1997,7 @@
         "FFlagUIOcclusionMetricsReportInteractiveCount": "True",
         "FFlagUGCValidateCageUVTriangleArea": "True",
         "DFIntGuiServiceChromeSignalAPIAnalytics_ReportHundredthsPercent": "10000",
-        "FLogVoiceChatLogs": "Warning",
+        "FLogVoiceChatLogs": "Verbose,6",
         "DFIntRobloxTelemetryClientDisconnectPointsThrottleHundredthsPercent": "100",
         "DFIntRobloxTelemetryRccDisconnectPointsThrottleHundredthsPercent": "100",
         "FFlagChromeBetaFeature": "False",
@@ -12429,7 +12429,6 @@
         "FFlagSQLiteCacheUseEpochTime": "True",
         "FFlagAudioSpeechToTextDontSendShortBuffers": "True",
         "FFlagAvatarAutosetupOptionsInput": "True",
-        "FLogVoiceChatLogs_Staged": "Verbose,6;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T21:51:45",
         "DFFlagUseSimdAabbTri_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T22:04:47",
         "FFlagFoundationShowErrorAboutFoundationProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T22:15:39",
         "FFlagEnableWarmStartMilestoneV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T22:15:48",
@@ -13334,9 +13333,9 @@
         "FFlagAXSlotsPeekViewScrollFix": "True",
         "FFlagAXSlotsScrollAway2": "True",
         "FFlagSquadEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "3ba300ee8edc5c59a8022e9a16bcb113a39b767a",
-        "DFStringFlagRepoGitHashDynamicString": "3ba300ee8edc5c59a8022e9a16bcb113a39b767a",
-        "FStringFlipTimeStampFastString": "2025-10-02T22:58:37.615Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T22:58:37.615Z"
+        "FStringFlagRepoGitHashFastString": "c619ec33a6674b3070ceb4189b138acb5fa6d142",
+        "DFStringFlagRepoGitHashDynamicString": "c619ec33a6674b3070ceb4189b138acb5fa6d142",
+        "FStringFlipTimeStampFastString": "2025-10-02T23:01:33.839Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T23:01:33.839Z"
     }
 }
