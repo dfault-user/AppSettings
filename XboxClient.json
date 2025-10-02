@@ -12408,7 +12408,6 @@
         "FFlagInsertObjectModelOptimizations": "True",
         "DFFlagAnimationUseHandleIterators": "True",
         "FFlagChromeMusicWindowDirectionalInput": "True",
-        "DFFlagUseFastMat44_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:06:52",
         "FFlagUIMetricsSendUISOnRenderStep_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:12:42",
         "FFlagLuauCodeGenVBlendpdReorder": "True",
         "FIntNewFindAllReplaceAll2BetaFeatureRolloutPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:17:13",
@@ -12424,6 +12423,7 @@
         "FFlagRenderFixParticleDegenCrossProduct_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T19:00:08",
         "FFlagPreferredInputFilter": "True",
         "FFlagUserPSRemoveTouchEnabled": "True",
+        "DFFlagUseFastMat44": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12781,9 +12781,9 @@
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "FFlagDiffractionSolverUsesGraphicsQualityLevel": "True",
         "FFlagRbxStorageCheckFailedWriteId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:15:15",
-        "FStringFlagRepoGitHashFastString": "2aa86d93eb5a2653138b85a512843d4c32ba60b2",
-        "DFStringFlagRepoGitHashDynamicString": "2aa86d93eb5a2653138b85a512843d4c32ba60b2",
-        "FStringFlipTimeStampFastString": "2025-10-02T19:06:08.120Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T19:06:08.120Z"
+        "FStringFlagRepoGitHashFastString": "2f46369a18ab5390398625d36530fcb9e32dd7ed",
+        "DFStringFlagRepoGitHashDynamicString": "2f46369a18ab5390398625d36530fcb9e32dd7ed",
+        "FStringFlipTimeStampFastString": "2025-10-02T19:11:49.736Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T19:11:49.736Z"
     }
 }
