@@ -12396,6 +12396,10 @@
         "DFFlagEnableLinkSharing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:00:27",
         "DFFlagCLI170264_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:07:09",
         "DFFlagFastCFrame_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:07:39",
+        "FFlagDisableFullscreenToastWhenNotPointer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;440585285;2025-10-02T16:08:47",
+        "FFlagEnableEmbeddedGamepadCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;440585285;2025-10-02T16:08:47",
+        "FFlagGamepadPreferredWhenKeyboardPending_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;440585285;2025-10-02T16:08:47",
+        "FFlagEnableAudioTremolo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:09:26",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12696,9 +12700,9 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "937713d0bb8e66e11dfb29f6ab7d78328ad45d9e",
-        "DFStringFlagRepoGitHashDynamicString": "937713d0bb8e66e11dfb29f6ab7d78328ad45d9e",
-        "FStringFlipTimeStampFastString": "2025-10-02T16:09:04.759Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T16:09:04.759Z"
+        "FStringFlagRepoGitHashFastString": "a8da0a9e0e124a2f25d06b5b64db866db0f9a8f1",
+        "DFStringFlagRepoGitHashDynamicString": "a8da0a9e0e124a2f25d06b5b64db866db0f9a8f1",
+        "FStringFlipTimeStampFastString": "2025-10-02T16:10:33.172Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T16:10:33.172Z"
     }
 }
