@@ -12402,7 +12402,6 @@
         "FFlagGamepadPreferredWhenKeyboardPending": "True",
         "FFlagRobloxTelemetryAddWindowsDeviceForm": "True",
         "DFFlagParallelGcSpawnWhenHasWork": "True",
-        "DFFlagConvexDecompInertiaDataValidation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T17:16:47",
         "FFlagAudioSpeechToTextEnableVadAudioLookback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T17:38:56",
         "FFlagLuauCodeGenVectorLerp": "True",
         "FFlagUserFreecamPlayerLock2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T17:44:27",
@@ -12419,6 +12418,9 @@
         "FFlagLuauCodeGenVBlendpdReorder": "True",
         "FIntNewFindAllReplaceAll2BetaFeatureRolloutPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:17:13",
         "FFlagSimDcdRefactorDelta3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:19:51",
+        "DFFlagConvexDecompInertiaDataValidation": "True",
+        "FFlagDismissSquadNudgeToast_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:22:16",
+        "FFlagEnablePartyNudgeNotification3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:22:31",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12721,9 +12723,9 @@
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "DFFlagRobloxTelemetryEnableSenderCallback4": "True",
         "FFlagSquadEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "1b140127d1b2c6e5bc25e02a4ec05a708e29cf96",
-        "DFStringFlagRepoGitHashDynamicString": "1b140127d1b2c6e5bc25e02a4ec05a708e29cf96",
-        "FStringFlipTimeStampFastString": "2025-10-02T18:22:05.096Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T18:22:05.096Z"
+        "FStringFlagRepoGitHashFastString": "21d5adf018d099299613b26a0fc65f70a2b3c108",
+        "DFStringFlagRepoGitHashDynamicString": "21d5adf018d099299613b26a0fc65f70a2b3c108",
+        "FStringFlipTimeStampFastString": "2025-10-02T18:24:59.116Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T18:24:59.116Z"
     }
 }
