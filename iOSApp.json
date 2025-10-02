@@ -12410,6 +12410,8 @@
         "FFlagDisableFullscreenToastWhenNotPointer": "True",
         "FFlagEnableEmbeddedGamepadCheck": "True",
         "FFlagGamepadPreferredWhenKeyboardPending": "True",
+        "FFlagLuauCodeGenVBlendpdReorder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T17:12:21",
+        "FFlagSocialCarouselEnableUserSeenEvents_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T17:12:50",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13294,9 +13296,9 @@
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.AveragedConstantMemoryBuffer.iOS;1340269764;dev_controlled",
         "FFlagAXSlotsPeekViewScrollFix": "True",
         "FFlagAXSlotsScrollAway2": "True",
-        "FStringFlagRepoGitHashFastString": "5f00341393f03f18fe2cd11cc0b82f7256d0be8e",
-        "DFStringFlagRepoGitHashDynamicString": "5f00341393f03f18fe2cd11cc0b82f7256d0be8e",
-        "FStringFlipTimeStampFastString": "2025-10-02T17:12:17.250Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T17:12:17.250Z"
+        "FStringFlagRepoGitHashFastString": "6f88595440a0afd558f3e33fbbde473d7f7f75b0",
+        "DFStringFlagRepoGitHashDynamicString": "6f88595440a0afd558f3e33fbbde473d7f7f75b0",
+        "FStringFlipTimeStampFastString": "2025-10-02T17:14:56.649Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T17:14:56.649Z"
     }
 }
