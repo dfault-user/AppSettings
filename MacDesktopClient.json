@@ -12340,7 +12340,7 @@
         "FFlagSwitchIsEconomicRestrictionResponse": "True",
         "FFlagEnableMultiAbuseTypeDescription": "True",
         "DFFlagConvexDecompCompressionAnalytics693": "True",
-        "FFlagSocialCarouselEnableUserSeenEvents": "True",
+        "FFlagSocialCarouselEnableUserSeenEvents": "False",
         "FFlagTokenizeUnibarConstantsWithStyleProvider": "True",
         "FIntVoiceRtcStatsContextCardinalityThreshold": "5",
         "DFFlagEnableGetUsersPriceLevelsApi": "True",
@@ -12400,8 +12400,6 @@
         "FFlagDisableFullscreenToastWhenNotPointer": "True",
         "FFlagEnableEmbeddedGamepadCheck": "True",
         "FFlagGamepadPreferredWhenKeyboardPending": "True",
-        "FFlagLuauCodeGenVBlendpdReorder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T17:12:21",
-        "FFlagSocialCarouselEnableUserSeenEvents_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T17:12:50",
         "FFlagRobloxTelemetryAddWindowsDeviceForm": "True",
         "DFFlagParallelGcSpawnWhenHasWork": "True",
         "AllowVideoPreRoll": "True",
@@ -12418,6 +12416,8 @@
         "FFlagChromeMusicWindowDirectionalInput": "True",
         "DFFlagUseFastMat44_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:06:52",
         "FFlagUIMetricsSendUISOnRenderStep_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:12:42",
+        "FFlagLuauCodeGenVBlendpdReorder": "True",
+        "FIntNewFindAllReplaceAll2BetaFeatureRolloutPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:17:13",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13305,10 +13305,10 @@
         "DFFlagConvexDecompInertiaDataValidation": "True",
         "FFlagAXSlotsPeekViewScrollFix": "True",
         "FFlagAXSlotsScrollAway2": "True",
-        "FFlagSquadEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T17:15:16",
-        "FStringFlagRepoGitHashFastString": "14e8723122f435dc785ae6c940589094f88e5aa8",
-        "DFStringFlagRepoGitHashDynamicString": "14e8723122f435dc785ae6c940589094f88e5aa8",
-        "FStringFlipTimeStampFastString": "2025-10-02T18:16:08.070Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T18:16:08.070Z"
+        "FFlagSquadEnabled": "True",
+        "FStringFlagRepoGitHashFastString": "fb42a04bce592ac40551a993e855983c32209e9a",
+        "DFStringFlagRepoGitHashDynamicString": "fb42a04bce592ac40551a993e855983c32209e9a",
+        "FStringFlipTimeStampFastString": "2025-10-02T18:19:08.347Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T18:19:08.347Z"
     }
 }
