@@ -12408,7 +12408,6 @@
         "FFlagInsertObjectModelOptimizations": "True",
         "DFFlagAnimationUseHandleIterators": "True",
         "FFlagChromeMusicWindowDirectionalInput": "True",
-        "FFlagUIMetricsSendUISOnRenderStep_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:12:42",
         "FFlagLuauCodeGenVBlendpdReorder": "True",
         "FIntNewFindAllReplaceAll2BetaFeatureRolloutPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:17:13",
         "FFlagSimDcdRefactorDelta3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:19:51",
@@ -12424,6 +12423,7 @@
         "FFlagPreferredInputFilter": "True",
         "FFlagUserPSRemoveTouchEnabled": "True",
         "DFFlagUseFastMat44": "True",
+        "FFlagUIMetricsSendUISOnRenderStep": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12780,10 +12780,10 @@
         "FFlagAXItemCardShouldNotBeAbleToActivateUntilReady": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "FFlagDiffractionSolverUsesGraphicsQualityLevel": "True",
-        "FFlagRbxStorageCheckFailedWriteId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T18:15:15",
-        "FStringFlagRepoGitHashFastString": "263c0f6158164f69c8aef344f8cfbec645e2483b",
-        "DFStringFlagRepoGitHashDynamicString": "263c0f6158164f69c8aef344f8cfbec645e2483b",
-        "FStringFlipTimeStampFastString": "2025-10-02T19:16:15.768Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T19:16:15.768Z"
+        "FFlagRbxStorageCheckFailedWriteId": "True",
+        "FStringFlagRepoGitHashFastString": "a4669bb1e532797418ba36981f75f74dc6e51962",
+        "DFStringFlagRepoGitHashDynamicString": "a4669bb1e532797418ba36981f75f74dc6e51962",
+        "FStringFlipTimeStampFastString": "2025-10-02T19:18:47.315Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T19:18:47.315Z"
     }
 }
