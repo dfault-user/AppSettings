@@ -12429,7 +12429,6 @@
         "FFlagSQLiteCacheUseEpochTime": "True",
         "FFlagAudioSpeechToTextDontSendShortBuffers": "True",
         "FFlagAvatarAutosetupOptionsInput": "True",
-        "DFFlagUseSimdAabbTri_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T22:04:47",
         "FFlagFoundationShowErrorAboutFoundationProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T22:15:39",
         "FFlagEnableWarmStartMilestoneV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T22:15:48",
         "FFlagInternalExportUse16uForJointIndexes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1352307144;2025-10-02T22:25:24",
@@ -12442,6 +12441,7 @@
         "AxisAdornmentGrabSize": "12",
         "FFlagAXUnifiedSubsetOfLook_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T22:53:38",
         "AllowVideoPreRoll": "True",
+        "DFFlagUseSimdAabbTri": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13326,9 +13326,9 @@
         "FFlagAXSlotsPeekViewScrollFix": "True",
         "FFlagAXSlotsScrollAway2": "True",
         "FFlagSquadEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "c619ec33a6674b3070ceb4189b138acb5fa6d142",
-        "DFStringFlagRepoGitHashDynamicString": "c619ec33a6674b3070ceb4189b138acb5fa6d142",
-        "FStringFlipTimeStampFastString": "2025-10-02T23:01:33.839Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T23:01:33.839Z"
+        "FStringFlagRepoGitHashFastString": "5f27ff5df03e2ed7df31c0300f5d22a872148eef",
+        "DFStringFlagRepoGitHashDynamicString": "5f27ff5df03e2ed7df31c0300f5d22a872148eef",
+        "FStringFlipTimeStampFastString": "2025-10-02T23:12:14.802Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T23:12:14.802Z"
     }
 }
