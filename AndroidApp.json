@@ -12430,6 +12430,7 @@
         "FFlagSQLiteCacheUseEpochTime": "True",
         "FFlagFindReplaceAllMaxResultsSetting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T21:39:20",
         "FFlagAudioSpeechToTextDontSendShortBuffers": "True",
+        "FFlagSpeechToTextFlushPartialBuffersOnEndEncode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T21:40:38",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13332,9 +13333,9 @@
         "DFFlagCrashMetricStorageEnableBufferConstantReporting": "True",
         "FFlagSquadEnabled": "True",
         "FFlagAvatarChatDelayModelDelivery2_Staged": "True;SteadyState;10;30;Revert;2025-10-02T21:25:36",
-        "FStringFlagRepoGitHashFastString": "36a1ce401934278823abb5e536b5ebcefc578578",
-        "DFStringFlagRepoGitHashDynamicString": "36a1ce401934278823abb5e536b5ebcefc578578",
-        "FStringFlipTimeStampFastString": "2025-10-02T21:47:15.316Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T21:47:15.316Z"
+        "FStringFlagRepoGitHashFastString": "adf92af328e37b78240eef577ac241720c36c5cd",
+        "DFStringFlagRepoGitHashDynamicString": "adf92af328e37b78240eef577ac241720c36c5cd",
+        "FStringFlipTimeStampFastString": "2025-10-02T21:48:20.963Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T21:48:20.963Z"
     }
 }
