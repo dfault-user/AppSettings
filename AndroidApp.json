@@ -12400,6 +12400,8 @@
         "FFlagEnableEmbeddedGamepadCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;440585285;2025-10-02T16:08:47",
         "FFlagGamepadPreferredWhenKeyboardPending_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;440585285;2025-10-02T16:08:47",
         "FFlagEnableAudioTremolo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:09:26",
+        "FFlagStrictInternalCaps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:13:22",
+        "DFFlagParallelGcSpawnWhenHasWork_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:13:59",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13301,9 +13303,9 @@
         "FIntSQLiteDisableSHM": "1",
         "DFFlagFileCacheClearRecursive": "True",
         "DFFlagCrashMetricStorageEnableBufferConstantReporting": "True",
-        "FStringFlagRepoGitHashFastString": "18f653702028281a5a06c7b8d98931d2c7239c1e",
-        "DFStringFlagRepoGitHashDynamicString": "18f653702028281a5a06c7b8d98931d2c7239c1e",
-        "FStringFlipTimeStampFastString": "2025-10-02T16:13:54.677Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T16:13:54.677Z"
+        "FStringFlagRepoGitHashFastString": "664d8fce0e6c78c14ea227c774d023e14a857715",
+        "DFStringFlagRepoGitHashDynamicString": "664d8fce0e6c78c14ea227c774d023e14a857715",
+        "FStringFlipTimeStampFastString": "2025-10-02T16:15:53.950Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T16:15:53.950Z"
     }
 }
