@@ -12393,9 +12393,6 @@
         "FFlagKillDropperAction": "True",
         "FFlagExplorerExposeDoubleClick": "True",
         "FFlagToolboxFixCreatorStoreUrl": "True",
-        "FFlagStrictInternalCaps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:13:22",
-        "DFFlagParallelGcSpawnWhenHasWork_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:13:59",
-        "FFlagRobloxTelemetryAddWindowsDeviceForm_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:14:43",
         "FFlagLuauCodeGenVectorLerp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:36:20",
         "FFlagUserFreecamDepthOfFieldEffect3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:42:09",
         "FFlagLuauCodeGenFMA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:42:13",
@@ -12412,6 +12409,8 @@
         "FFlagGamepadPreferredWhenKeyboardPending": "True",
         "FFlagLuauCodeGenVBlendpdReorder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T17:12:21",
         "FFlagSocialCarouselEnableUserSeenEvents_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T17:12:50",
+        "FFlagRobloxTelemetryAddWindowsDeviceForm": "True",
+        "DFFlagParallelGcSpawnWhenHasWork": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13361,11 +13360,11 @@
         "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2": "False",
         "FFlagAXSlotsPeekViewScrollFix": "True",
         "FFlagAXSlotsScrollAway2": "True",
-        "FLogWindowsLuaApp_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1083443192;2025-10-02T16:14:49",
         "FFlagSquadEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T17:15:16",
-        "FStringFlagRepoGitHashFastString": "06929f7279ea6b54bc0349faf335aff1369f6282",
-        "DFStringFlagRepoGitHashDynamicString": "06929f7279ea6b54bc0349faf335aff1369f6282",
-        "FStringFlipTimeStampFastString": "2025-10-02T17:17:12.900Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T17:17:12.900Z"
+        "FLogWindowsLuaApp": "0",
+        "FStringFlagRepoGitHashFastString": "cca16071a743e5792aa8f86e504c9292f9aff8ac",
+        "DFStringFlagRepoGitHashDynamicString": "cca16071a743e5792aa8f86e504c9292f9aff8ac",
+        "FStringFlipTimeStampFastString": "2025-10-02T17:21:07.814Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T17:21:07.814Z"
     }
 }
