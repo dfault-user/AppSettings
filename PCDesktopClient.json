@@ -12401,6 +12401,8 @@
         "FFlagGamepadPreferredWhenKeyboardPending_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;440585285;2025-10-02T16:08:47",
         "FFlagEnableAudioTremolo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:09:26",
         "FFlagStrictInternalCaps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:13:22",
+        "DFFlagParallelGcSpawnWhenHasWork_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:13:59",
+        "FFlagRobloxTelemetryAddWindowsDeviceForm_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-02T16:14:43",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13349,9 +13351,10 @@
         "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2": "False",
         "FFlagAXSlotsPeekViewScrollFix": "True",
         "FFlagAXSlotsScrollAway2": "True",
-        "FStringFlagRepoGitHashFastString": "fe2796e4dc880626b1d65ae4cde2a5fda71301e2",
-        "DFStringFlagRepoGitHashDynamicString": "fe2796e4dc880626b1d65ae4cde2a5fda71301e2",
-        "FStringFlipTimeStampFastString": "2025-10-02T16:15:17.819Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-02T16:15:17.819Z"
+        "FLogWindowsLuaApp_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1083443192;2025-10-02T16:14:49",
+        "FStringFlagRepoGitHashFastString": "d99730c6079588c512832b4014d2d9c9428c0ce6",
+        "DFStringFlagRepoGitHashDynamicString": "d99730c6079588c512832b4014d2d9c9428c0ce6",
+        "FStringFlipTimeStampFastString": "2025-10-02T16:16:32.364Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-02T16:16:32.364Z"
     }
 }
