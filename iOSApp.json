@@ -12065,7 +12065,6 @@
         "FFlagRemoveRefToMissingLocInConnection": "True",
         "DFIntProductInfoBatchingMaxSize_PlaceFilter": "1;109983668079237;96342491571673",
         "GmaSdkAdReportSetOnUserReportListener": "true",
-        "AllowVideoPreRoll": "True",
         "FFlagUwpDialogHandleInferredCrashBit": "True",
         "FFlagSwitchProductPurchaseContainerErrorPromptV3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-03T17:48:02",
         "FFlagLuauDontReferenceScopePtrFromHashTable": "True",
@@ -12078,6 +12077,8 @@
         "FFlagSessionL1Migration2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1768046050;2025-10-03T18:19:41",
         "DFFlagDebugVideoLogChosenResolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-03T18:24:08",
         "DFFlagTextBoxCtrlDel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-03T18:27:37",
+        "FFlagLuaAppMigrateGameTileByDefault4": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12783,7 +12784,6 @@
         "FFlagAXCustomizeOverhaulCatalogExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
         "FFlagAXCustomizeOverhaulEditorExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
         "FFlagAXRootSlotBasedEditorFlag_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
-        "FFlagLuaAppMigrateGameTileByDefault4": "True",
         "FFlagAXFixCheckOnEquippedAssets": "True",
         "FFlagAXFixCheckOnOutfitAssets": "True",
         "FFlagAXUpdateSaveStrings": "True",
@@ -12959,9 +12959,9 @@
         "FStringCapturesMetricDropExperimentTreatment_IXP": "1;Social.Capture;Social.Captures.MetricDrop.V2;229048279;dev_controlled",
         "FFlagCapturesEnableMetricDropExperiment_v3": "True",
         "FFlagMigrateNoFriendsViewToFoundation": "True",
-        "FStringFlagRepoGitHashFastString": "afd8581d66391c88997534307ee654be6b3d2902",
-        "DFStringFlagRepoGitHashDynamicString": "afd8581d66391c88997534307ee654be6b3d2902",
-        "FStringFlipTimeStampFastString": "2025-10-03T18:30:01.161Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-03T18:30:01.161Z"
+        "FStringFlagRepoGitHashFastString": "98026c164b688c261c9173940bfa79887dc95f55",
+        "DFStringFlagRepoGitHashDynamicString": "98026c164b688c261c9173940bfa79887dc95f55",
+        "FStringFlipTimeStampFastString": "2025-10-03T18:47:08.646Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-03T18:47:08.646Z"
     }
 }
