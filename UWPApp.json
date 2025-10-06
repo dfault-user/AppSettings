@@ -12093,8 +12093,6 @@
         "FFlagDecoupleScreenGuiFromPurchasePromptApp": "True",
         "FFlagLuauPassBindableGenericsByReference": "True",
         "FFlagFilterNewPlayerListValueStat": "True",
-        "FFlagEnableSquadJoinButtonSelectable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T18:18:17",
-        "FFlagEnableMoreMenuFocusFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T18:18:53",
         "FFlagLuaAppFixSearchGameGridInitialItemsPerRow": "True",
         "FFlagEnableFixAdsClickoutPassthroughSafeArea": "True",
         "FFlagFixUninitializedMenuKeyBindings": "True",
@@ -12124,6 +12122,8 @@
         "FFlagPrecomputeDeformVertices4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T19:11:06",
         "DFFlagWrapDeformerReportTelemetryStat3": "True",
         "FFlagLuaAppUpdateGameGridSideMargin": "True",
+        "FFlagEnableMoreMenuFocusFix": "True",
+        "FFlagEnableSquadJoinButtonSelectable": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12424,9 +12424,9 @@
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "DFFlagRobloxTelemetryEnableSenderCallback4": "True",
         "FFlagSquadEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "c27a58b25ee6703f81ac68be66bb94b16d931461",
-        "DFStringFlagRepoGitHashDynamicString": "c27a58b25ee6703f81ac68be66bb94b16d931461",
-        "FStringFlipTimeStampFastString": "2025-10-06T19:18:03.988Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-06T19:18:03.988Z"
+        "FStringFlagRepoGitHashFastString": "febef94aadb8672292f4c4cadf5f1887ed04330b",
+        "DFStringFlagRepoGitHashDynamicString": "febef94aadb8672292f4c4cadf5f1887ed04330b",
+        "FStringFlipTimeStampFastString": "2025-10-06T19:21:54.367Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-06T19:21:54.367Z"
     }
 }
