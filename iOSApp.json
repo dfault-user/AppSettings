@@ -12076,7 +12076,6 @@
         "DFFlagDebugVideoLogChosenResolution": "True",
         "DFFlagTextBoxCtrlDel": "True",
         "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2": "True",
-        "FFlagLuauPassBindableGenericsByReference_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T17:06:43",
         "FFlagFilterNewPlayerListValueStat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T17:15:05",
         "FFlagLuaAppFixSearchGameGridInitialItemsPerRow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T17:16:59",
         "FFlagFixUninitializedMenuKeyBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T17:18:43",
@@ -12109,6 +12108,8 @@
         "DFFlagSeparateChildIndexReporting": "True",
         "FFlagDecoupleScreenGuiFromPurchasePromptApp": "True",
         "DFFlagWrapDeformerReportTelemetryStat3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T18:06:53",
+        "FFlagLuauPassBindableGenericsByReference": "True",
+        "FFlagLuaAppUpdateGameGridSideMargin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T18:13:22",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12988,9 +12989,9 @@
         "FStringCapturesMetricDropExperimentTreatment_IXP": "1;Social.Capture;Social.Captures.MetricDrop.V2;229048279;dev_controlled",
         "FFlagCapturesEnableMetricDropExperiment_v3": "True",
         "FFlagMigrateNoFriendsViewToFoundation": "True",
-        "FStringFlagRepoGitHashFastString": "344b022fea4baab56ed49e1a2934f07f6154cecf",
-        "DFStringFlagRepoGitHashDynamicString": "344b022fea4baab56ed49e1a2934f07f6154cecf",
-        "FStringFlipTimeStampFastString": "2025-10-06T18:08:57.638Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-06T18:08:57.638Z"
+        "FStringFlagRepoGitHashFastString": "f27665c7182fd4982accc0464b2cb3dc243c49a7",
+        "DFStringFlagRepoGitHashDynamicString": "f27665c7182fd4982accc0464b2cb3dc243c49a7",
+        "FStringFlipTimeStampFastString": "2025-10-06T18:17:53.209Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-06T18:17:53.209Z"
     }
 }
