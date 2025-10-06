@@ -1940,7 +1940,7 @@
         "FFlagNewCameraControlsBetaFeature": "True",
         "DFIntReportAUMPAnalyticsPercentageHundredths": "100",
         "FFlagLuaAppEnableToastNotifications4": "True",
-        "FStringStudioEmergencyMessageV4": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjg5LjAuMCIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=",
+        "FStringStudioEmergencyMessageV4": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjkwLjEuNjkzMDk2MSIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=",
         "FFlagToolboxAddCreationsFilterToListView": "True",
         "DFIntHttpServiceAggregateBandwidthReportThrottleHundredthsPercentage": "1",
         "DFIntHttpServiceBandwidthReportThrottleHundredthsPercentage": "1",
@@ -12075,7 +12075,6 @@
         "FFlagDynamicFastVariableReloaderSetThreadName": "True",
         "DFFlagDebugVideoLogChosenResolution": "True",
         "DFFlagTextBoxCtrlDel": "True",
-        "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T15:57:17",
         "FFlagBadgeVisibilitySettingEnabled_v3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T16:24:14",
         "DFFlagVoiceEnableRccCallStateTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T16:31:43",
         "FFlagLuaAppActionEventInteractionUuid_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T16:32:49",
@@ -12089,6 +12088,9 @@
         "FFlagEnableAdsMouseUnlock": "True",
         "AllowVideoPreRoll": "True",
         "FFlagLuauSubtypingPrimitiveAndGenericTableTypes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T16:58:49",
+        "FFlagAssetProviderSetThreadNames_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T16:58:59",
+        "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2": "True",
+        "FFlagDecoupleScreenGuiFromPurchasePromptApp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T17:01:24",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13808,7 +13810,6 @@
         "DFFlagSimAnimationConstraintParentedToBone": "True",
         "FFlagProximityPromptIndicatorsBetaFeature": "True",
         "FFlagRIDE12182": "True",
-        "FStringStudioEmergencyMessageV4_Staged": "ewogICAgInZlcnNpb25TdGFydCI6IjAuMzAwLjAuMSIsCiAgICAidmVyc2lvbkVuZCI6IjAuNjkwLjEuNjkzMDk2MSIsCiAgICAicGxhdGZvcm1zIjogWyJXaW5kb3dzIiwgIk1hYyJdLAogICAgIm1lc3NhZ2UiOnt9LAogICAgInNodXRkb3duIjp0cnVlCn0=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T16:00:25",
         "FFlagTerrainOneTouch690_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;338764105;2025-10-06T16:58:40",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -14207,9 +14208,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "4d172bc59cd7705d99f6f2e423b0e593860150bd",
-        "DFStringFlagRepoGitHashDynamicString": "4d172bc59cd7705d99f6f2e423b0e593860150bd",
-        "FStringFlipTimeStampFastString": "2025-10-06T17:01:47.912Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-06T17:01:47.912Z"
+        "FStringFlagRepoGitHashFastString": "cf23e86ad693cb62ecd3a5d185eb533e0914abbd",
+        "DFStringFlagRepoGitHashDynamicString": "cf23e86ad693cb62ecd3a5d185eb533e0914abbd",
+        "FStringFlipTimeStampFastString": "2025-10-06T17:03:54.277Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-06T17:03:54.277Z"
     }
 }
