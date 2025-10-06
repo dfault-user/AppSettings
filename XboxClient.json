@@ -12132,6 +12132,12 @@
         "FFlagUgcValidationValidateEmissiveMask": "True",
         "FFlagLuaAppAddSduiToSearch": "True",
         "FFlagExpChatTargetTextChannelNeverNone": "True",
+        "FFlagAccountLockConsoleLogout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;718267356;2025-10-06T21:29:38",
+        "FFlagEnableAccountLockModal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;718267356;2025-10-06T21:29:38",
+        "FFlagEnableBiometricChallenges_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;718267356;2025-10-06T21:29:38",
+        "FFlagEnableChallengeRateLimit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;718267356;2025-10-06T21:29:38",
+        "FFlagEnableNativeChallengeAbandonment_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;718267356;2025-10-06T21:29:38",
+        "FFlagPersonaLivenessFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;718267356;2025-10-06T21:29:38",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12486,9 +12492,9 @@
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "FFlagDiffractionSolverUsesGraphicsQualityLevel": "True",
         "FFlagRbxStorageCheckFailedWriteId": "True",
-        "FStringFlagRepoGitHashFastString": "f1ca2b12c594e0ce8644cdd877d52b19d8934544",
-        "DFStringFlagRepoGitHashDynamicString": "f1ca2b12c594e0ce8644cdd877d52b19d8934544",
-        "FStringFlipTimeStampFastString": "2025-10-06T21:28:18.949Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-06T21:28:18.949Z"
+        "FStringFlagRepoGitHashFastString": "17af59dd2ef0eda471284ba25143897a03aa784c",
+        "DFStringFlagRepoGitHashDynamicString": "17af59dd2ef0eda471284ba25143897a03aa784c",
+        "FStringFlipTimeStampFastString": "2025-10-06T21:31:50.535Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-06T21:31:50.535Z"
     }
 }
