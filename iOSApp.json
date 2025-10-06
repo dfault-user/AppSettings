@@ -12096,6 +12096,8 @@
         "FFlagLuauPassBindableGenericsByReference_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T17:06:43",
         "FFlagFilterNewPlayerListValueStat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T17:15:05",
         "FFlagLuaAppFixSearchGameGridInitialItemsPerRow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T17:16:59",
+        "FFlagFixUninitializedMenuKeyBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T17:18:43",
+        "FFlagEnableFixAdsClickoutPassthroughSafeArea_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T17:19:03",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12976,9 +12978,9 @@
         "FFlagCapturesEnableMetricDropExperiment_v3": "True",
         "FFlagMigrateNoFriendsViewToFoundation": "True",
         "FFlagSocialCarouselUpdateVerticalSpacing_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T16:23:22",
-        "FStringFlagRepoGitHashFastString": "7b97c8872ff802c48a4874859fbe8e75b0d15b1f",
-        "DFStringFlagRepoGitHashDynamicString": "7b97c8872ff802c48a4874859fbe8e75b0d15b1f",
-        "FStringFlipTimeStampFastString": "2025-10-06T17:19:27.365Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-06T17:19:27.365Z"
+        "FStringFlagRepoGitHashFastString": "2ecabe64d993523b74a320fe4ab8678d1ea00c99",
+        "DFStringFlagRepoGitHashDynamicString": "2ecabe64d993523b74a320fe4ab8678d1ea00c99",
+        "FStringFlipTimeStampFastString": "2025-10-06T17:21:29.318Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-06T17:21:29.318Z"
     }
 }
