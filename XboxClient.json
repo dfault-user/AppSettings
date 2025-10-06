@@ -12126,6 +12126,7 @@
         "FFlagLuaAppReduceGameIconFetches": "True",
         "DFIntCafTelemetryIntegrationAppLaunchTelemetryThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T19:28:24",
         "DFIntRbxmFileManagerOperationalEventLoggingThrottleHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T19:31:24",
+        "DFFlagMicroprofilerOffFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T19:33:22",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12481,9 +12482,9 @@
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "FFlagDiffractionSolverUsesGraphicsQualityLevel": "True",
         "FFlagRbxStorageCheckFailedWriteId": "True",
-        "FStringFlagRepoGitHashFastString": "2856197c567f97c1d1c197ff783f44c2ca7a076f",
-        "DFStringFlagRepoGitHashDynamicString": "2856197c567f97c1d1c197ff783f44c2ca7a076f",
-        "FStringFlipTimeStampFastString": "2025-10-06T19:33:51.181Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-06T19:33:51.181Z"
+        "FStringFlagRepoGitHashFastString": "37689b8a6fa85c3ce696877627a5ce0925f107e2",
+        "DFStringFlagRepoGitHashDynamicString": "37689b8a6fa85c3ce696877627a5ce0925f107e2",
+        "FStringFlipTimeStampFastString": "2025-10-06T19:35:56.246Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-06T19:35:56.246Z"
     }
 }
