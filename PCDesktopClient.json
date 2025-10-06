@@ -12100,9 +12100,6 @@
         "FFlagPlayerListIgnoreDevGamepadBindings": "True",
         "FFlagPlayerListSetIsGamepadOnMount": "True",
         "FFlagLuaAppSduiItemImpressionsStartRow": "True",
-        "FFlagRemoteCommandServiceEnabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T18:31:50",
-        "FFlagAddControlVariantRolloutFlagsLuaBacktrace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1595183210;2025-10-06T18:33:01",
-        "FFlagEnableControlVariantRolloutFlagsLuaBacktrace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1595183210;2025-10-06T18:33:01",
         "FFlagHidePartyVoiceLobbyMicWhenDisconnected_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T18:39:03",
         "FFlagDelayBackgroundDMLocalPlayerLoading": "True",
         "FFlagUpdatePeopleNamesSettingCopy": "True",
@@ -12126,6 +12123,10 @@
         "FFlagLuaAppReduceGameIconFetches": "True",
         "DFIntCafTelemetryIntegrationAppLaunchTelemetryThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T19:28:24",
         "DFIntRbxmFileManagerOperationalEventLoggingThrottleHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T19:31:24",
+        "DFFlagMicroprofilerOffFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-06T19:33:22",
+        "FFlagAddControlVariantRolloutFlagsLuaBacktrace": "True",
+        "FFlagEnableControlVariantRolloutFlagsLuaBacktrace": "True",
+        "FFlagRemoteCommandServiceEnabled2": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13070,9 +13071,9 @@
         "FLogWindowsLuaApp": "0",
         "FFlagSquadEnabled": "True",
         "FFlagPCGDKPaymentsProtocolCleanupCalls": "True",
-        "FStringFlagRepoGitHashFastString": "2856197c567f97c1d1c197ff783f44c2ca7a076f",
-        "DFStringFlagRepoGitHashDynamicString": "2856197c567f97c1d1c197ff783f44c2ca7a076f",
-        "FStringFlipTimeStampFastString": "2025-10-06T19:33:51.181Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-06T19:33:51.181Z"
+        "FStringFlagRepoGitHashFastString": "04cdd2f5b51638913de18f61d552d6467fcef2d3",
+        "DFStringFlagRepoGitHashDynamicString": "04cdd2f5b51638913de18f61d552d6467fcef2d3",
+        "FStringFlipTimeStampFastString": "2025-10-06T19:37:38.158Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-06T19:37:38.158Z"
     }
 }
