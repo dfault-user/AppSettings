@@ -12155,7 +12155,6 @@
         "DFFlagEnableCheckAdGuiData": "True",
         "FFlagEnableTelemetryIntegrationCheck": "True",
         "FFlagUserFreecamPlayerLockResetHeight": "True",
-        "FIntLivenessWithCallbackPollMaxRetries_Staged": "15;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:07:23",
         "DFFlagFixGetTextSizeWrongLocale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;51259039;2025-10-07T18:10:51",
         "DFFlagPath2DFixVisibleChangeRerender": "True",
         "DFFlagDataPingTracerAdditionalFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:19:40",
@@ -12179,6 +12178,7 @@
         "FFlagEnableBackgroundSignatureVerification": "True",
         "FFlagLuauInterpStringConstFolding": "True",
         "FFlagLuauStringConstFolding2": "True",
+        "FIntLivenessWithCallbackPollMaxRetries": "15",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12983,7 +12983,7 @@
         "FFlagMTLDeviceReportGetVideoMemoryInfoAsMiB": "True",
         "FFlagLuaAppEdpMediaGalleryVideoAudioFix2": "True",
         "FFlagAXAvatarsTabErrorCounter": "True",
-        "FIntRbxStorageMinMemoryRequirementMB": "3250",
+        "FIntRbxStorageMinMemoryRequirementMB": "0",
         "DFFlagUserInputServiceDeviceMotionAnalytics2": "False",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp3": "False",
         "DFIntDeviceMotionAnalyticsThrottleHundrethsPercent": "0",
@@ -13060,12 +13060,11 @@
         "FFlagEnableUploadUserNotifSettings": "True",
         "FFlagCreateUncompressedRbxm3": "False",
         "FFlagSimReduceSharedPtrUse": "True",
-        "FIntRbxStorageMinMemoryRequirementMB_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:10:17",
         "FFlagRbxStorageRecoverPermFromCache_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:18:05",
         "DFFlagDataPingTrace": "True",
-        "FStringFlagRepoGitHashFastString": "6058b791f2e1289aacdbb654d1f372bb2af149a9",
-        "DFStringFlagRepoGitHashDynamicString": "6058b791f2e1289aacdbb654d1f372bb2af149a9",
-        "FStringFlipTimeStampFastString": "2025-10-07T19:07:55.099Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T19:07:55.099Z"
+        "FStringFlagRepoGitHashFastString": "c32d41cfb58511a115bba62f8409a6712516a68f",
+        "DFStringFlagRepoGitHashDynamicString": "c32d41cfb58511a115bba62f8409a6712516a68f",
+        "FStringFlipTimeStampFastString": "2025-10-07T19:13:51.685Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T19:13:51.685Z"
     }
 }
