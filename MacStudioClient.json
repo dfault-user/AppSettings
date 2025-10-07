@@ -12146,7 +12146,6 @@
         "FFlagAEGetEditableOutfitsType": "True",
         "FFlagFoundationSupportCloudAssetsImage2": "True",
         "FFlagStreamJobRefactorSetCollection_PlaceFilter": "False;95721658376580;115385421369591",
-        "FFlagFixLeaderboardCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T16:15:44",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "DFFlagSimUseRootStepPhysicsBuoyancy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T16:25:53",
         "FFlagPremultiplyViewportframeBackgroundColor_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T16:28:45",
@@ -12160,6 +12159,8 @@
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "DFFlagPath2DFixVisibleChangeRerender_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T17:11:05",
         "FFlagFixLeaderboardStatSortTypeMismatch": "True",
+        "FFlagFixLeaderboardCleanup": "True",
+        "FFlagAXFixBuyActionBarNotAppearing3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T17:20:45",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13887,6 +13888,7 @@
         "FFlagAACHideAssetTypeNotEnabledErrors": "True",
         "FFlagLuauAutocompleteAttributes": "True",
         "FFlagLuauSubtypingGenericPacksDoesntUseVariance_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T16:23:11",
+        "FFlagRemoveActionsFromRobloxMainWindowA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T17:21:58",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -14243,6 +14245,7 @@
         "FFlagComponentManagerImproveValidation": "True",
         "FFlagMigrateNoFriendsViewToFoundation": "True",
         "FFlagExtraScriptStats": "True",
+        "DFFlagDataPingTrace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T17:20:32",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -14278,9 +14281,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "27dff121d2320894343dac1280094e597b76629d",
-        "DFStringFlagRepoGitHashDynamicString": "27dff121d2320894343dac1280094e597b76629d",
-        "FStringFlipTimeStampFastString": "2025-10-07T17:18:08.378Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T17:18:08.378Z"
+        "FStringFlagRepoGitHashFastString": "911729d068fe36682697e6f2f077340b20de3706",
+        "DFStringFlagRepoGitHashDynamicString": "911729d068fe36682697e6f2f077340b20de3706",
+        "FStringFlipTimeStampFastString": "2025-10-07T17:23:38.827Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T17:23:38.827Z"
     }
 }
