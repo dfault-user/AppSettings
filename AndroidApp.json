@@ -11614,7 +11614,7 @@
         "FFlagChatIntegrationFixShortcut": "True",
         "FFlagUIBloxFixModalBottomSheetSelectable": "True",
         "FFlagAXRemoveTryOnManagerAvatarScreen": "True",
-        "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
+        "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Only;1259266197;flagbank",
         "FFlagVideoWinEncodeSampleTracking": "True",
         "DFIntISRInstanceBlockTimeoutWorldSteps": "2400",
         "UseApplicationLifecycleCallbacks": "false",
@@ -13068,9 +13068,11 @@
         "FFlagUseDataModelPatchCategory": "True",
         "FFlagFmodPocoCrash": "True",
         "FFlagTotalDiskSizeTelemetryMobile2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T17:40:50",
-        "FStringFlagRepoGitHashFastString": "4c1bc305204ce02cabca78f2dbd9c071190a18f9",
-        "DFStringFlagRepoGitHashDynamicString": "4c1bc305204ce02cabca78f2dbd9c071190a18f9",
-        "FStringFlipTimeStampFastString": "2025-10-07T17:56:04.784Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T17:56:04.784Z"
+        "DFIntTotalDiskDataSizeThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T17:56:27",
+        "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Only;1259266197;flagbank",
+        "FStringFlagRepoGitHashFastString": "1889a81122ffd0b09f9dbe00bf06b024ec9899a8",
+        "DFStringFlagRepoGitHashDynamicString": "1889a81122ffd0b09f9dbe00bf06b024ec9899a8",
+        "FStringFlipTimeStampFastString": "2025-10-07T18:00:00.539Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T18:00:00.539Z"
     }
 }
