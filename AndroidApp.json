@@ -12175,10 +12175,7 @@
         "FFlagAddRedeemTile2": "True",
         "FFlagCustomizedLandingLaunchGame": "True",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
-        "DFFlagFastEmitterFill2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:17:32",
         "FFlagGetGameIconsFromThumbnailsDeliveryApiIxp": "True",
-        "DFFlagSQLiteCacheBypassDbPermCats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:22:06",
-        "DFFlagSplineClampForNaNInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:25:37",
         "DFFlagRbxStorageFixEmptyPath_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:31:02",
         "FFlagFixDelayAfterPurchaseFlowComplete_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:35:30",
         "FFlagWindowsInstallerPostWebLaunch_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:40:25",
@@ -12201,6 +12198,10 @@
         "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled": "True",
         "FFlagAvatarGenBodyColorFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T21:17:14",
         "FFlagCachelessPluginLoading3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T21:19:59",
+        "DFFlagFastEmitterFill2": "True",
+        "FFlagFixMediaKeysMapping_Staged": "True;SteadyState;10;30;Revert;2025-10-07T21:23:43",
+        "DFFlagSQLiteCacheBypassDbPermCats": "True",
+        "DFFlagSplineClampForNaNInput": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13103,9 +13104,9 @@
         "FFlagTotalDiskSizeTelemetryMobile2": "True",
         "DFIntTotalDiskDataSizeThrottleHundredthsPercent": "10000",
         "FFlagAddFriendsUserTileRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:48:26",
-        "FStringFlagRepoGitHashFastString": "d0113e5683ac6bfbc5a5fad1a91d4558e333167e",
-        "DFStringFlagRepoGitHashDynamicString": "d0113e5683ac6bfbc5a5fad1a91d4558e333167e",
-        "FStringFlipTimeStampFastString": "2025-10-07T21:21:24.612Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T21:21:24.612Z"
+        "FStringFlagRepoGitHashFastString": "2408e5bd46fdf0f475fa3117b2006ec5f8d09848",
+        "DFStringFlagRepoGitHashDynamicString": "2408e5bd46fdf0f475fa3117b2006ec5f8d09848",
+        "FStringFlipTimeStampFastString": "2025-10-07T21:28:53.078Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T21:28:53.078Z"
     }
 }
