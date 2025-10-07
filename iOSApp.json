@@ -12173,6 +12173,7 @@
         "FIntLivenessWithCallbackPollMaxRetries_Staged": "15;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:07:23",
         "DFFlagFixGetTextSizeWrongLocale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;51259039;2025-10-07T18:10:51",
         "DFFlagPath2DFixVisibleChangeRerender": "True",
+        "DFFlagDataPingTracerAdditionalFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:19:40",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13058,9 +13059,10 @@
         "FFlagSimReduceSharedPtrUse": "True",
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:04:17",
         "FIntRbxStorageMinMemoryRequirementMB_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:10:17",
-        "FStringFlagRepoGitHashFastString": "1c3f8ddecf22bfed57cbca897e932c1b74636a7f",
-        "DFStringFlagRepoGitHashDynamicString": "1c3f8ddecf22bfed57cbca897e932c1b74636a7f",
-        "FStringFlipTimeStampFastString": "2025-10-07T18:18:36.188Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T18:18:36.188Z"
+        "FFlagRbxStorageRecoverPermFromCache_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:18:05",
+        "FStringFlagRepoGitHashFastString": "b3b8271a75ff2deef3a8d245f4b01974ae3fe0e5",
+        "DFStringFlagRepoGitHashDynamicString": "b3b8271a75ff2deef3a8d245f4b01974ae3fe0e5",
+        "FStringFlipTimeStampFastString": "2025-10-07T18:21:25.985Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T18:21:25.985Z"
     }
 }
