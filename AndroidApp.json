@@ -12149,6 +12149,10 @@
         "FFlagFixLeaderboardStatSortTypeMismatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T16:14:23",
         "FFlagFixLeaderboardCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T16:15:44",
         "FFlagLuauCodeGenVectorLerp_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T16:25:12",
+        "DFFlagSimUseRootStepPhysicsBuoyancy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T16:25:53",
+        "FFlagPremultiplyViewportframeBackgroundColor_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T16:28:45",
+        "FFlagLuaAppActiveFriendIconEmphasisBorder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T16:32:06",
+        "DFIntReverbCameraPushForwardStudsHundredths_Staged": "180;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;386874270;2025-10-07T16:37:24",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13048,9 +13052,10 @@
         "FFlagEnableNullInputWhenHideKeyboard": "True",
         "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
         "FFlagUseDataModelPatchCategory": "True",
-        "FStringFlagRepoGitHashFastString": "531fe63defcb04f98ff21ae1569b2999bd988193",
-        "DFStringFlagRepoGitHashDynamicString": "531fe63defcb04f98ff21ae1569b2999bd988193",
-        "FStringFlipTimeStampFastString": "2025-10-07T16:34:36.751Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T16:34:36.751Z"
+        "FFlagFmodPocoCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1757869804;2025-10-07T16:33:07",
+        "FStringFlagRepoGitHashFastString": "4abfa03ffac0f072eadc8d0e3afd36a03cc502a7",
+        "DFStringFlagRepoGitHashDynamicString": "4abfa03ffac0f072eadc8d0e3afd36a03cc502a7",
+        "FStringFlipTimeStampFastString": "2025-10-07T16:41:31.012Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T16:41:31.012Z"
     }
 }
