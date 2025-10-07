@@ -12175,11 +12175,6 @@
         "FFlagAddRedeemTile2": "True",
         "FFlagCustomizedLandingLaunchGame": "True",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
-        "FFlagHelpPageIXPExposure_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:09:58",
-        "FFlagDynamicTranslationTokenizationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;837652556;2025-10-07T20:11:44",
-        "FFlagDynamicTranslationTokenizedNumberParameterizationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;837652556;2025-10-07T20:11:44",
-        "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;837652556;2025-10-07T20:11:44",
-        "FFlagDynamicTranslationAlwaysRetranslate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:14:40",
         "DFFlagFastEmitterFill2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:17:32",
         "FFlagGetGameIconsFromThumbnailsDeliveryApiIxp": "True",
         "DFFlagSQLiteCacheBypassDbPermCats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:22:06",
@@ -12199,6 +12194,11 @@
         "FFlagAXGeneralizeInventoryItemsList_Staged": "True;SteadyState;10;30;Revert;true;647002134;2025-10-07T21:03:49",
         "FFlagAXIncreaseDefaultPeekViewHeight_Staged": "True;SteadyState;10;30;Revert;true;647002134;2025-10-07T21:03:49",
         "FFlagAXRootSlotBasedEditorFlag5_Staged": "True;SteadyState;10;30;Revert;true;647002134;2025-10-07T21:03:49",
+        "FFlagHelpPageIXPExposure": "True",
+        "FFlagDynamicTranslationAlwaysRetranslate": "True",
+        "FFlagDynamicTranslationTokenizationEnabled": "True",
+        "FFlagDynamicTranslationTokenizedNumberParameterizationEnabled": "True",
+        "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13101,9 +13101,9 @@
         "FFlagTotalDiskSizeTelemetryMobile2": "True",
         "DFIntTotalDiskDataSizeThrottleHundredthsPercent": "10000",
         "FFlagAddFriendsUserTileRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:48:26",
-        "FStringFlagRepoGitHashFastString": "9121686fd8cbfebb37b03c57308050b75af6fd4f",
-        "DFStringFlagRepoGitHashDynamicString": "9121686fd8cbfebb37b03c57308050b75af6fd4f",
-        "FStringFlipTimeStampFastString": "2025-10-07T21:11:16.800Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T21:11:16.800Z"
+        "FStringFlagRepoGitHashFastString": "ba02237f21e01142dcee90beef5fbab8197b6a2c",
+        "DFStringFlagRepoGitHashDynamicString": "ba02237f21e01142dcee90beef5fbab8197b6a2c",
+        "FStringFlipTimeStampFastString": "2025-10-07T21:19:42.556Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T21:19:42.556Z"
     }
 }
