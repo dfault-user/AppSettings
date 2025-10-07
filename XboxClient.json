@@ -12155,7 +12155,6 @@
         "DFFlagEnableCheckAdGuiData": "True",
         "FFlagEnableTelemetryIntegrationCheck": "True",
         "FFlagUserFreecamPlayerLockResetHeight": "True",
-        "DFFlagFixGetTextSizeWrongLocale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;51259039;2025-10-07T18:10:51",
         "DFFlagPath2DFixVisibleChangeRerender": "True",
         "DFFlagDataPingTracerAdditionalFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:19:40",
         "FFlagIEMSelectorUnchangedByMouseWheel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:23:59",
@@ -12180,6 +12179,7 @@
         "FFlagLuauStringConstFolding2": "True",
         "FIntLivenessWithCallbackPollMaxRetries": "15",
         "FFlagExplorerStreaming2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T19:12:59",
+        "DFFlagFixGetTextSizeWrongLocale": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12535,9 +12535,9 @@
         "FFlagDiffractionSolverUsesGraphicsQualityLevel": "True",
         "FFlagRbxStorageCheckFailedWriteId": "True",
         "DFFlagDataPingTrace": "True",
-        "FStringFlagRepoGitHashFastString": "ce3d6190cc1292be88bf88c19dc6ec93b5a17066",
-        "DFStringFlagRepoGitHashDynamicString": "ce3d6190cc1292be88bf88c19dc6ec93b5a17066",
-        "FStringFlipTimeStampFastString": "2025-10-07T19:15:49.097Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T19:15:49.097Z"
+        "FStringFlagRepoGitHashFastString": "6e24d948d0753da88bce6648e8a33b01e7112cc2",
+        "DFStringFlagRepoGitHashDynamicString": "6e24d948d0753da88bce6648e8a33b01e7112cc2",
+        "FStringFlipTimeStampFastString": "2025-10-07T19:16:28.069Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T19:16:28.069Z"
     }
 }
