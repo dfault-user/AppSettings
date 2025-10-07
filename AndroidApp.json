@@ -12161,8 +12161,6 @@
         "DFFlagBaseGuiSelectedObjectUpdates": "True",
         "FFlagReportTextureStreamingTelemetry3": "True",
         "FFlagAvatarChatDelayModelDelivery2": "True",
-        "AllowVideoPreRoll": "True",
-        "FFlagCustomizedLandingLaunchGame_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:44:16",
         "FFlagHighlights255Allowed": "True",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:48:00",
         "FFlagDynamicTranslationUseCacheValue": "True",
@@ -12180,6 +12178,9 @@
         "FFlagAXFixOrganicTTILogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;859830901;2025-10-07T19:39:04",
         "FFlagAXFixReactPerfExperimentCounter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;859830901;2025-10-07T19:39:04",
         "FFlagAXPrefetchMarketplaceIXP2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;859830901;2025-10-07T19:39:04",
+        "FFlagAddRedeemTile2": "True",
+        "FFlagCustomizedLandingLaunchGame": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13039,7 +13040,6 @@
         "FFlagLuaEnableShowUpsellMethod2": "True",
         "EnableFastFollowLoginTelemetry": "True",
         "FFlagRbxStorageFileCachePerm2": "False",
-        "FFlagAddRedeemTile2": "True",
         "FIntOcclusionWorkerThreadCount": "2",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
@@ -13081,9 +13081,9 @@
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Only;1259266197;flagbank",
         "FFlagTotalDiskSizeTelemetryMobile2": "True",
         "DFIntTotalDiskDataSizeThrottleHundredthsPercent": "10000",
-        "FStringFlagRepoGitHashFastString": "5c8f6ec57a22d8284ac830d5cee833806203b4da",
-        "DFStringFlagRepoGitHashDynamicString": "5c8f6ec57a22d8284ac830d5cee833806203b4da",
-        "FStringFlipTimeStampFastString": "2025-10-07T19:39:45.510Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T19:39:45.510Z"
+        "FStringFlagRepoGitHashFastString": "f663259f475a2f000d89e382ff5eaa26cbadf48b",
+        "DFStringFlagRepoGitHashDynamicString": "f663259f475a2f000d89e382ff5eaa26cbadf48b",
+        "FStringFlipTimeStampFastString": "2025-10-07T19:46:38.561Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T19:46:38.561Z"
     }
 }
