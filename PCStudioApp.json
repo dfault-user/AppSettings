@@ -9416,7 +9416,7 @@
         "DFIntLocServiceCoreScriptsCsvUsageThrottleHundredthsPercent": "2",
         "FFlagLocServiceTrackCoreScriptsCsvUsage": "True",
         "FFlagCheckAvatarAssetPrivacy1": "True",
-        "EnableExitImmediatelyOnBackgroundingOnQuest": "true",
+        "EnableExitImmediatelyOnBackgroundingOnQuest": "false",
         "DFFlagCaptureServiceVideoCaptureReportErrorReason": "True",
         "FFlagDisableHQShadersLowEndDx11": "False",
         "FFlagDescendantOfDataModel3": "True",
@@ -12188,6 +12188,7 @@
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagGetGameIconsFromThumbnailsDeliveryApiIxp": "True",
         "FFlagVoxelGridFixUpsample": "True",
+        "DFFlagSplineClampForNaNInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:25:37",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14335,9 +14336,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "cc51a74b00cec88f0b7ddb3d6a100adc8b593274",
-        "DFStringFlagRepoGitHashDynamicString": "cc51a74b00cec88f0b7ddb3d6a100adc8b593274",
-        "FStringFlipTimeStampFastString": "2025-10-07T20:24:59.568Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T20:24:59.568Z"
+        "FStringFlagRepoGitHashFastString": "027ce93cd9e1240309509b56c150fec18ad74c4d",
+        "DFStringFlagRepoGitHashDynamicString": "027ce93cd9e1240309509b56c150fec18ad74c4d",
+        "FStringFlipTimeStampFastString": "2025-10-07T20:31:33.392Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T20:31:33.392Z"
     }
 }
