@@ -12161,6 +12161,11 @@
         "FFlagFixLeaderboardCleanup": "True",
         "FFlagAXFixBuyActionBarNotAppearing3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T17:20:45",
         "DFFlagBaseGuiSelectedObjectUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T17:26:47",
+        "FFlagAXMigrateScalesPageComponentsForAutofocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T17:28:11",
+        "DFFlagUseNewPhysicsMeshDecoderForAero_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;702954384;2025-10-07T17:29:10",
+        "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;702954384;2025-10-07T17:29:10",
+        "DFFlagUseNewPhysicsMeshDecoderForNav_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;702954384;2025-10-07T17:29:10",
+        "DFFlagUsePhysicsMeshDecoderInBulletWrapper_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;702954384;2025-10-07T17:29:10",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12460,9 +12465,9 @@
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "DFFlagRobloxTelemetryEnableSenderCallback4": "True",
         "FFlagSquadEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "c3b1e29ccddcb789d7c036945948ad28fdd0e92b",
-        "DFStringFlagRepoGitHashDynamicString": "c3b1e29ccddcb789d7c036945948ad28fdd0e92b",
-        "FStringFlipTimeStampFastString": "2025-10-07T17:29:21.863Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T17:29:21.863Z"
+        "FStringFlagRepoGitHashFastString": "8de3d03b244ff749c1a6ca1a88e3be0c1d3a36ff",
+        "DFStringFlagRepoGitHashDynamicString": "8de3d03b244ff749c1a6ca1a88e3be0c1d3a36ff",
+        "FStringFlipTimeStampFastString": "2025-10-07T17:31:16.068Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T17:31:16.068Z"
     }
 }
