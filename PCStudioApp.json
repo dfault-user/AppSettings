@@ -12186,8 +12186,6 @@
         "FFlagDynamicTranslationTokenizationEnabled": "True",
         "FFlagDynamicTranslationTokenizedNumberParameterizationEnabled": "True",
         "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled": "True",
-        "FFlagAvatarGenBodyColorFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T21:17:14",
-        "AllowVideoPreRoll": "True",
         "DFFlagFastEmitterFill2": "True",
         "DFFlagSQLiteCacheBypassDbPermCats": "True",
         "DFFlagSplineClampForNaNInput": "True",
@@ -12203,7 +12201,10 @@
         "FFlagAddNewPlayerListFocusNav_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T21:58:45",
         "DFIntPerfDataGlobalThrottleHundredthsPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T22:02:41",
         "FFlagMoveNewPlayerListDividers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T22:03:55",
+        "AllowVideoPreRoll": "True",
+        "FFlagAvatarGenBodyColorFix": "True",
         "AxisAdornmentGrabSize": "12",
+        "FFlagCachelessPluginLoading3": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13888,7 +13889,6 @@
         "DFIntAssetServiceComposeDecalAsyncLoggingHundredthsPercentage": "10000",
         "DFFlagSolverV2NoModelModeChangesFromNonWorkspaceContainer": "True",
         "FFlagLuauExternTableIndexersIntersect": "True",
-        "FFlagCachelessPluginLoading3": "True",
         "FFlagRichTextStrokeSizingMode": "True",
         "DFIntWrapTextureTransferOnPerformTransferLoggingHundredthsPercentage": "10000",
         "FFlagWebBrowserWinExecuteJavaScriptNullGuard": "True",
@@ -14347,9 +14347,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "0273b9fa5f208a7d18d4cb321d863d3b65684229",
-        "DFStringFlagRepoGitHashDynamicString": "0273b9fa5f208a7d18d4cb321d863d3b65684229",
-        "FStringFlipTimeStampFastString": "2025-10-07T22:08:29.195Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T22:08:29.195Z"
+        "FStringFlagRepoGitHashFastString": "e9f831748bc5414ae4e0dff5c88b89b317d86ed7",
+        "DFStringFlagRepoGitHashDynamicString": "e9f831748bc5414ae4e0dff5c88b89b317d86ed7",
+        "FStringFlipTimeStampFastString": "2025-10-07T22:22:55.663Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T22:22:55.663Z"
     }
 }
