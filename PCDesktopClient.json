@@ -12176,8 +12176,6 @@
         "FFlagCustomizedLandingLaunchGame": "True",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
         "FFlagGetGameIconsFromThumbnailsDeliveryApiIxp": "True",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
-        "DFFlagSplineClampForNaNInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:25:37",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagFixDelayAfterPurchaseFlowComplete_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:35:30",
         "FFlagWindowsInstallerPostWebLaunch_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:40:25",
@@ -12201,6 +12199,10 @@
         "FFlagAvatarGenBodyColorFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T21:17:14",
         "FFlagCachelessPluginLoading3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T21:19:59",
         "DFFlagFastEmitterFill2": "True",
+        "FFlagFixMediaKeysMapping_Staged": "True;SteadyState;10;30;Revert;2025-10-07T21:23:43",
+        "DFFlagSQLiteCacheBypassDbPermCats": "True",
+        "DFFlagSplineClampForNaNInput": "True",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12537,7 +12539,6 @@
         "FFlagCoreScriptsMigrateFromLegacyCSVLoc2": "False",
         "FFlagIntroduceMetricsLegacyUpsell": "True",
         "FFlagReworkPurchaseRobuxPage": "True",
-        "DFFlagSQLiteCacheBypassDbPermCats": "True",
         "DFFlagWindowsCleanUpOldVersions2": "False",
         "FFlagNewUpsellModalExperimentForDesktop": "False",
         "FFlagUseNewRobloxIconInNotifications": "True",
@@ -13137,9 +13138,9 @@
         "FFlagSquadEnabled": "True",
         "FFlagPCGDKPaymentsProtocolCleanupCalls": "True",
         "FFlagLuaAppEnableWindowsHandheldTokenScale": "True",
-        "FStringFlagRepoGitHashFastString": "e275d8ccc47002b96f5021a4eddd7d5b716c1b26",
-        "DFStringFlagRepoGitHashDynamicString": "e275d8ccc47002b96f5021a4eddd7d5b716c1b26",
-        "FStringFlipTimeStampFastString": "2025-10-07T21:23:46.268Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T21:23:46.268Z"
+        "FStringFlagRepoGitHashFastString": "2408e5bd46fdf0f475fa3117b2006ec5f8d09848",
+        "DFStringFlagRepoGitHashDynamicString": "2408e5bd46fdf0f475fa3117b2006ec5f8d09848",
+        "FStringFlipTimeStampFastString": "2025-10-07T21:28:53.078Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T21:28:53.078Z"
     }
 }
