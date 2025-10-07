@@ -12156,7 +12156,6 @@
         "FFlagEnableTelemetryIntegrationCheck": "True",
         "FFlagUserFreecamPlayerLockResetHeight": "True",
         "DFFlagPath2DFixVisibleChangeRerender": "True",
-        "DFFlagDataPingTracerAdditionalFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:19:40",
         "FFlagIEMSelectorUnchangedByMouseWheel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:23:59",
         "DFFlagUseNewPhysicsMeshDecoderForAero_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;858930271;2025-10-07T18:25:27",
         "FFlagRemoveLegacyChatConsoleCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:26:12",
@@ -12180,6 +12179,8 @@
         "FIntLivenessWithCallbackPollMaxRetries": "15",
         "FFlagExplorerStreaming2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T19:12:59",
         "DFFlagFixGetTextSizeWrongLocale": "True",
+        "FFlagGetGameIconsFromThumbnailsDeliveryApiIxp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T19:20:15",
+        "DFFlagDataPingTracerAdditionalFields": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13061,7 +13062,7 @@
         "FStringPowerVRWhitelistMSAA": ".*:PowerVR D-Series DXT-48-1536 MC1",
         "FFlagFmodMixerCheckStream": "True",
         "DFIntPerformanceControlCrashMetricAlgorithmType": "4",
-        "FFlagRbxStorageRecoverPermFromCache": "True",
+        "FFlagRbxStorageRecoverPermFromCache": "False",
         "FFlagRbxStorageFileCachePerm3": "True",
         "FFlagCrashMetricStorageInitialize3": "False",
         "FIntSQLiteDisableSHM": "1",
@@ -13079,12 +13080,11 @@
         "FFlagUseDataModelPatchCategory": "True",
         "FFlagFmodPocoCrash": "True",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Only;1259266197;flagbank",
-        "FFlagRbxStorageRecoverPermFromCache_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:18:05",
         "FFlagTotalDiskSizeTelemetryMobile2": "True",
         "DFIntTotalDiskDataSizeThrottleHundredthsPercent": "10000",
-        "FStringFlagRepoGitHashFastString": "c54fbc50c5800625951b67d432cbd9d19ad5a6b7",
-        "DFStringFlagRepoGitHashDynamicString": "c54fbc50c5800625951b67d432cbd9d19ad5a6b7",
-        "FStringFlipTimeStampFastString": "2025-10-07T19:20:23.662Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T19:20:23.662Z"
+        "FStringFlagRepoGitHashFastString": "6203409c3b6898e1047a2c7ea14c5a8bdb2d98c0",
+        "DFStringFlagRepoGitHashDynamicString": "6203409c3b6898e1047a2c7ea14c5a8bdb2d98c0",
+        "FStringFlipTimeStampFastString": "2025-10-07T19:22:27.549Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T19:22:27.549Z"
     }
 }
