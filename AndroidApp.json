@@ -12202,6 +12202,7 @@
         "FFlagCheckPillSelectedPressedState": "True",
         "FFlagAddNewPlayerListFocusNav_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T21:58:45",
         "DFIntPerfDataGlobalThrottleHundredthsPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T22:02:41",
+        "FFlagMoveNewPlayerListDividers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T22:03:55",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13104,9 +13105,10 @@
         "FFlagTotalDiskSizeTelemetryMobile2": "True",
         "DFIntTotalDiskDataSizeThrottleHundredthsPercent": "10000",
         "FFlagAddFriendsUserTileRefactor": "True",
-        "FStringFlagRepoGitHashFastString": "3ddd0786ddc3102040bc9039a7959df9e5a632cd",
-        "DFStringFlagRepoGitHashDynamicString": "3ddd0786ddc3102040bc9039a7959df9e5a632cd",
-        "FStringFlipTimeStampFastString": "2025-10-07T22:07:50.459Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T22:07:50.459Z"
+        "FFlagSwapAppGameTileAndSduiGameTileInRFY_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;147879163;2025-10-07T22:04:46",
+        "FStringFlagRepoGitHashFastString": "0273b9fa5f208a7d18d4cb321d863d3b65684229",
+        "DFStringFlagRepoGitHashDynamicString": "0273b9fa5f208a7d18d4cb321d863d3b65684229",
+        "FStringFlipTimeStampFastString": "2025-10-07T22:08:29.195Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T22:08:29.195Z"
     }
 }
