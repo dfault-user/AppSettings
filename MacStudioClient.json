@@ -12175,7 +12175,6 @@
         "FFlagAddRedeemTile2": "True",
         "FFlagCustomizedLandingLaunchGame": "True",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
-        "DFFlagFastEmitterFill2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:17:32",
         "FFlagGetGameIconsFromThumbnailsDeliveryApiIxp": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "DFFlagSplineClampForNaNInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:25:37",
@@ -12201,6 +12200,7 @@
         "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled": "True",
         "FFlagAvatarGenBodyColorFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T21:17:14",
         "AllowVideoPreRoll": "True",
+        "DFFlagFastEmitterFill2": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13926,11 +13926,10 @@
         "DFFlagPlaceUploadFailureWarning": "True",
         "FFlagAACHideAssetTypeNotEnabledErrors": "True",
         "FFlagLuauAutocompleteAttributes": "True",
-        "FFlagRemoveActionsFromRobloxMainWindowA": "True",
+        "FFlagRemoveActionsFromRobloxMainWindowA": "False",
         "FFlagLuauPushTypeConstraint2": "True",
         "FFlagTopLeftOrigin2DUI5": "True",
         "FFlagLuauScopedSeenSetInLookupTableProp": "True",
-        "FFlagRemoveActionsFromRobloxMainWindowA_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:18:52",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -14318,9 +14317,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "d0113e5683ac6bfbc5a5fad1a91d4558e333167e",
-        "DFStringFlagRepoGitHashDynamicString": "d0113e5683ac6bfbc5a5fad1a91d4558e333167e",
-        "FStringFlipTimeStampFastString": "2025-10-07T21:21:24.612Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T21:21:24.612Z"
+        "FStringFlagRepoGitHashFastString": "e275d8ccc47002b96f5021a4eddd7d5b716c1b26",
+        "DFStringFlagRepoGitHashDynamicString": "e275d8ccc47002b96f5021a4eddd7d5b716c1b26",
+        "FStringFlipTimeStampFastString": "2025-10-07T21:23:46.268Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T21:23:46.268Z"
     }
 }
