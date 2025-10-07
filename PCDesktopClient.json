@@ -12194,7 +12194,6 @@
         "FFlagRenderParticlesSimulateNonVisible6": "True",
         "FFlagAddFriendsFixText": "True",
         "FFlagCheckPillSelectedPressedState": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagAvatarGenBodyColorFix": "True",
         "FFlagIASFixStudioKeyCodeDisplay_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T22:20:39",
         "FFlagCachelessPluginLoading3": "True",
@@ -12208,6 +12207,8 @@
         "FFlagMoveNewPlayerListDividers": "True",
         "FFlagEnableUISoundAndHaptics10_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T23:12:10",
         "FFlagUseNewHapticServiceInUA3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T23:13:48",
+        "FFlagIASMouseFix": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12636,7 +12637,6 @@
         "DFFlagParseRecItemFromLib_PlaceFilter": "True;106376719367261;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;133917534752598;131039090936858;133158022557590;119524072047648;118171263682820;113264304314057;77362637584345;92758961278039",
         "DFFlagParseRecCustomTags_PlaceFilter": "True;106376719367261;11765402359;17069498206;16931515487;16896790433;11761274032;11764980869;16926077853;11828796994;11753029192;13965228772;133917534752598;131039090936858;133158022557590;119524072047648;118171263682820;113264304314057;77362637584345;92758961278039",
         "DFFlagInstanceReflectionLimitWarning": "True",
-        "FFlagIASMouseFix": "True",
         "FFlagVideoCaptureXbox": "True",
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
         "FFlagAXUnifiedLoggingValidation": "False",
@@ -13144,9 +13144,9 @@
         "FFlagSquadEnabled": "True",
         "FFlagPCGDKPaymentsProtocolCleanupCalls": "True",
         "FFlagLuaAppEnableWindowsHandheldTokenScale": "True",
-        "FStringFlagRepoGitHashFastString": "0a9d2f0df3116514fd26ce38ae8ea167efc51f4d",
-        "DFStringFlagRepoGitHashDynamicString": "0a9d2f0df3116514fd26ce38ae8ea167efc51f4d",
-        "FStringFlipTimeStampFastString": "2025-10-07T23:17:36.956Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T23:17:36.956Z"
+        "FStringFlagRepoGitHashFastString": "038d356eea31272adca089219cb5e6cee55585bb",
+        "DFStringFlagRepoGitHashDynamicString": "038d356eea31272adca089219cb5e6cee55585bb",
+        "FStringFlipTimeStampFastString": "2025-10-07T23:32:19.099Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T23:32:19.099Z"
     }
 }
