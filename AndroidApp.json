@@ -12176,8 +12176,6 @@
         "FFlagCustomizedLandingLaunchGame": "True",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
         "FFlagGetGameIconsFromThumbnailsDeliveryApiIxp": "True",
-        "DFFlagRbxStorageFixEmptyPath_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:31:02",
-        "FFlagFixDelayAfterPurchaseFlowComplete_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:35:30",
         "FFlagWindowsInstallerPostWebLaunch_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:40:25",
         "FFlagAXEnablePrefetchMarketplaceFailsafe": "True",
         "FFlagAXFixOrganicTTILogging": "True",
@@ -12187,10 +12185,6 @@
         "FFlagAddFriendsFixText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:44:29",
         "FFlagCheckPillSelectedPressedState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1706231506;2025-10-07T20:54:08",
         "FFlagTexturePackGeneratorFix": "True",
-        "FFlagAXAddInventoryItemsListProps_Staged": "True;SteadyState;10;30;Revert;true;647002134;2025-10-07T21:03:49",
-        "FFlagAXGeneralizeInventoryItemsList_Staged": "True;SteadyState;10;30;Revert;true;647002134;2025-10-07T21:03:49",
-        "FFlagAXIncreaseDefaultPeekViewHeight_Staged": "True;SteadyState;10;30;Revert;true;647002134;2025-10-07T21:03:49",
-        "FFlagAXRootSlotBasedEditorFlag5_Staged": "True;SteadyState;10;30;Revert;true;647002134;2025-10-07T21:03:49",
         "FFlagHelpPageIXPExposure": "True",
         "FFlagDynamicTranslationAlwaysRetranslate": "True",
         "FFlagDynamicTranslationTokenizationEnabled": "True",
@@ -12203,6 +12197,8 @@
         "DFFlagSQLiteCacheBypassDbPermCats": "True",
         "DFFlagSplineClampForNaNInput": "True",
         "FFlagLuaAppLayoutParamsInContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T21:34:58",
+        "DFFlagRbxStorageFixEmptyPath": "True",
+        "FFlagFixDelayAfterPurchaseFlowComplete": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13105,9 +13101,9 @@
         "FFlagTotalDiskSizeTelemetryMobile2": "True",
         "DFIntTotalDiskDataSizeThrottleHundredthsPercent": "10000",
         "FFlagAddFriendsUserTileRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:48:26",
-        "FStringFlagRepoGitHashFastString": "0350eb4c15f4fe9af71413faa94f17b6b9511739",
-        "DFStringFlagRepoGitHashDynamicString": "0350eb4c15f4fe9af71413faa94f17b6b9511739",
-        "FStringFlipTimeStampFastString": "2025-10-07T21:37:55.195Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T21:37:55.195Z"
+        "FStringFlagRepoGitHashFastString": "20176b18e3a4d020eadfe61d95ea3825cf3b4033",
+        "DFStringFlagRepoGitHashDynamicString": "20176b18e3a4d020eadfe61d95ea3825cf3b4033",
+        "FStringFlipTimeStampFastString": "2025-10-07T21:41:24.907Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T21:41:24.907Z"
     }
 }
