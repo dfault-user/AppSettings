@@ -12175,10 +12175,6 @@
         "FFlagAddRedeemTile2": "True",
         "FFlagCustomizedLandingLaunchGame": "True",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
-        "FFlagDynamicTranslationTokenizationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;837652556;2025-10-07T20:11:44",
-        "FFlagDynamicTranslationTokenizedNumberParameterizationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;837652556;2025-10-07T20:11:44",
-        "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;837652556;2025-10-07T20:11:44",
-        "FFlagDynamicTranslationAlwaysRetranslate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:14:40",
         "DFFlagFastEmitterFill2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:17:32",
         "FFlagGetGameIconsFromThumbnailsDeliveryApiIxp": "True",
         "DFFlagSQLiteCacheBypassDbPermCats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T20:22:06",
@@ -12199,6 +12195,12 @@
         "FFlagAXIncreaseDefaultPeekViewHeight_Staged": "True;SteadyState;10;30;Revert;true;647002134;2025-10-07T21:03:49",
         "FFlagAXRootSlotBasedEditorFlag5_Staged": "True;SteadyState;10;30;Revert;true;647002134;2025-10-07T21:03:49",
         "FFlagHelpPageIXPExposure": "True",
+        "FFlagDynamicTranslationAlwaysRetranslate": "True",
+        "FFlagDynamicTranslationTokenizationEnabled": "True",
+        "FFlagDynamicTranslationTokenizedNumberParameterizationEnabled": "True",
+        "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled": "True",
+        "FFlagAvatarGenBodyColorFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T21:17:14",
+        "FFlagCachelessPluginLoading3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T21:19:59",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12498,9 +12500,9 @@
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "DFFlagRobloxTelemetryEnableSenderCallback4": "True",
         "FFlagSquadEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "3172e8cf957751b934055baf8c00386ab0d8696f",
-        "DFStringFlagRepoGitHashDynamicString": "3172e8cf957751b934055baf8c00386ab0d8696f",
-        "FStringFlipTimeStampFastString": "2025-10-07T21:18:28.676Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T21:18:28.676Z"
+        "FStringFlagRepoGitHashFastString": "d0113e5683ac6bfbc5a5fad1a91d4558e333167e",
+        "DFStringFlagRepoGitHashDynamicString": "d0113e5683ac6bfbc5a5fad1a91d4558e333167e",
+        "FStringFlipTimeStampFastString": "2025-10-07T21:21:24.612Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T21:21:24.612Z"
     }
 }
