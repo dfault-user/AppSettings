@@ -12031,7 +12031,7 @@
         "DFFlagAnimationUseHandleIterators": "True",
         "FFlagChromeMusicWindowDirectionalInput": "True",
         "FFlagLuauCodeGenVBlendpdReorder": "True",
-        "DFFlagConvexDecompInertiaDataValidation": "True",
+        "DFFlagConvexDecompInertiaDataValidation": "False",
         "FFlagAudioSpeechToTextEnableVadAudioLookback": "True",
         "FFlagUserFreecamPlayerLock2": "True",
         "FFlagSQLiteSkipPageSize": "True",
@@ -12152,8 +12152,6 @@
         "DFFlagSimUseRootStepPhysicsBuoyancy": "True",
         "FFlagLuaAppActiveFriendIconEmphasisBorder": "True",
         "FFlagFixWallsOcclusion": "True",
-        "FFlagHighlights255Allowed_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T17:41:17",
-        "DFFlagConvexDecompInertiaDataValidation_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;545778189;2025-10-07T17:45:13",
         "FFlagDynamicTranslationUseCacheValue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T17:48:13",
         "DFFlagEnableCheckAdGuiData": "True",
         "FFlagEnableTelemetryIntegrationCheck": "True",
@@ -12178,6 +12176,8 @@
         "FFlagReportTextureStreamingTelemetry3": "True",
         "FFlagAvatarChatDelayModelDelivery2": "True",
         "FFlagAddRedeemTile2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;470330926;2025-10-07T18:41:52",
+        "FFlagCustomizedLandingLaunchGame_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-07T18:44:16",
+        "FFlagHighlights255Allowed": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13121,9 +13121,9 @@
         "DFFlagUseNewPhysicsMeshDecoderForNav_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1763408978;2025-10-07T18:26:38",
         "DFFlagUsePhysicsMeshDecoderInBulletWrapper_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1763408978;2025-10-07T18:26:38",
         "DFFlagUseNewPhysicsMeshDecoderForLegacyMassData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2135956193;2025-10-07T18:27:39",
-        "FStringFlagRepoGitHashFastString": "5b58de10996264948b65782d00432c3051921406",
-        "DFStringFlagRepoGitHashDynamicString": "5b58de10996264948b65782d00432c3051921406",
-        "FStringFlipTimeStampFastString": "2025-10-07T18:43:52.273Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-07T18:43:52.273Z"
+        "FStringFlagRepoGitHashFastString": "d4b9aaaf47680174cf00af746c99a1490d27d44d",
+        "DFStringFlagRepoGitHashDynamicString": "d4b9aaaf47680174cf00af746c99a1490d27d44d",
+        "FStringFlipTimeStampFastString": "2025-10-07T18:49:05.891Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-07T18:49:05.891Z"
     }
 }
