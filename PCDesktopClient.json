@@ -12701,6 +12701,8 @@
         "DFFlagDataPingTrace": "True",
         "DFFlagSimGeometryDeterministicSampling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:21:25",
         "DFFlagReportInstanceMemoryToES_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:52:41",
+        "DFFlagDCDReadLegacyWithDecoder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;655462552;2025-10-08T20:58:58",
+        "DFFlagPMDHeaderGeomTypeReading_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;655462552;2025-10-08T20:58:58",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13165,9 +13167,9 @@
         "FFlagSquadEnabled": "True",
         "FFlagPCGDKPaymentsProtocolCleanupCalls": "True",
         "FFlagLuaAppEnableWindowsHandheldTokenScale": "True",
-        "FStringFlagRepoGitHashFastString": "bd14e814cb5238527ecbb06839d1dd55b30c90c0",
-        "DFStringFlagRepoGitHashDynamicString": "bd14e814cb5238527ecbb06839d1dd55b30c90c0",
-        "FStringFlipTimeStampFastString": "2025-10-08T20:57:32.200Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T20:57:32.200Z"
+        "FStringFlagRepoGitHashFastString": "52cb3524928da7d589de803d1710f10d7024e49e",
+        "DFStringFlagRepoGitHashDynamicString": "52cb3524928da7d589de803d1710f10d7024e49e",
+        "FStringFlipTimeStampFastString": "2025-10-08T21:02:48.858Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T21:02:48.858Z"
     }
 }
