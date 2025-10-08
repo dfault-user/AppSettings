@@ -12235,6 +12235,8 @@
         "FFlagLuaAppHandleMouseCursor2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;534079633;2025-10-08T22:01:59",
         "FFlagSettingsPageScaleTextSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1347767145;2025-10-08T22:11:11",
         "FFlagDifferentiateSharingBaseOnPlatform_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T22:14:46",
+        "DFFlagEnableRecommendationDetailedErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T22:16:07",
+        "DFFlagParseDepartureIntentAsEnum_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T22:16:57",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13118,9 +13120,10 @@
         "FFlagAXMigrateItemDetailsPeekViewToAutoFocus": "True",
         "FFlagAXMigrateTryOnItemScreenToAutofocus": "True",
         "FFlagAXPeekViewContentShouldNotBeSelectable": "True",
-        "FStringFlagRepoGitHashFastString": "afe1ea4fa8dd28546738f7ec90080d135a3f62b0",
-        "DFStringFlagRepoGitHashDynamicString": "afe1ea4fa8dd28546738f7ec90080d135a3f62b0",
-        "FStringFlipTimeStampFastString": "2025-10-08T22:17:57.893Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T22:17:57.893Z"
+        "FFlagNativePurchaseRobuxPageWrapperEnableTelemetry_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T22:16:24",
+        "FStringFlagRepoGitHashFastString": "10d03a7d0bafb9109a731e12d0de5637b10232b7",
+        "DFStringFlagRepoGitHashDynamicString": "10d03a7d0bafb9109a731e12d0de5637b10232b7",
+        "FStringFlipTimeStampFastString": "2025-10-08T22:19:40.986Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T22:19:40.986Z"
     }
 }
