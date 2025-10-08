@@ -12230,9 +12230,6 @@
         "FFlagEnableMultipartForMeshImage": "True",
         "FFlagAddFriendsUserTileRefactor": "True",
         "FFlagToolboxWebViewTutorial4": "True",
-        "DFFlagEnableRecommendationDetailedErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T22:16:07",
-        "DFFlagParseDepartureIntentAsEnum_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T22:16:57",
-        "FFlagMakeupUVBoundsStretchAfterCrop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T22:18:33",
         "FFlagAvatarGenerationFailedEvents": "True",
         "FFlagVideoHandleEarlyServiceShutdown": "True",
         "FFlagLuauAutocompleteAttributes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T22:30:40",
@@ -12241,6 +12238,9 @@
         "FFlagLuaAppHandleMouseCursor2": "True",
         "FFlagSettingsPageScaleTextSize": "True",
         "FFlagDifferentiateSharingBaseOnPlatform": "True",
+        "DFFlagEnableRecommendationDetailedErrors": "True",
+        "DFFlagParseDepartureIntentAsEnum": "True",
+        "FFlagMakeupUVBoundsStretchAfterCrop": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12540,9 +12540,9 @@
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "DFFlagRobloxTelemetryEnableSenderCallback4": "True",
         "FFlagSquadEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "34b2ba69f7f7a1b3f7f21266ec6bff0acab12531",
-        "DFStringFlagRepoGitHashDynamicString": "34b2ba69f7f7a1b3f7f21266ec6bff0acab12531",
-        "FStringFlipTimeStampFastString": "2025-10-08T23:21:59.603Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T23:21:59.603Z"
+        "FStringFlagRepoGitHashFastString": "a17f36a568c7b842171920a03eb71c5b2f3407f3",
+        "DFStringFlagRepoGitHashDynamicString": "a17f36a568c7b842171920a03eb71c5b2f3407f3",
+        "FStringFlipTimeStampFastString": "2025-10-08T23:26:16.499Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T23:26:16.499Z"
     }
 }
