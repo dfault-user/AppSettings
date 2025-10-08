@@ -13965,6 +13965,8 @@
         "FFlagAddReloadScriptUri_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:33:33",
         "DFFlagSetEngineContextEditModeFromContentProvider": "True",
         "FFlagUGCValidationEnableFolderStructure_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T21:00:44",
+        "DFFlagCrashUploadToBacktraceRolloutMinimumEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;101325948;2025-10-08T21:05:16",
+        "DFIntCrashUploadToBacktraceRolloutMinimumPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;101325948;2025-10-08T21:05:16",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14353,9 +14355,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "de9ef7e4479da6f0cf299027d46680e377c471e8",
-        "DFStringFlagRepoGitHashDynamicString": "de9ef7e4479da6f0cf299027d46680e377c471e8",
-        "FStringFlipTimeStampFastString": "2025-10-08T21:06:39.500Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T21:06:39.500Z"
+        "FStringFlagRepoGitHashFastString": "2498d8c21f150b8e6a57f5340c8356a2b5042afd",
+        "DFStringFlagRepoGitHashDynamicString": "2498d8c21f150b8e6a57f5340c8356a2b5042afd",
+        "FStringFlipTimeStampFastString": "2025-10-08T21:09:29.066Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T21:09:29.066Z"
     }
 }
