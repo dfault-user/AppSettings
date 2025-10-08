@@ -12184,7 +12184,7 @@
         "FFlagDynamicTranslationTokenizationEnabled": "True",
         "FFlagDynamicTranslationTokenizedNumberParameterizationEnabled": "True",
         "FFlagDynamicTranslationTokenizedUsernameParameterizationEnabled": "True",
-        "DFFlagFastEmitterFill2": "False",
+        "DFFlagFastEmitterFill2": "True",
         "DFFlagSQLiteCacheBypassDbPermCats": "True",
         "DFFlagSplineClampForNaNInput": "True",
         "DFFlagRbxStorageFixEmptyPath": "True",
@@ -12225,8 +12225,6 @@
         "FFlagAXEnableInitialTopLevelPageCounter": "True",
         "DFFlagVoiceChatSendHttpErrorsTelemetry2": "True",
         "FFlagCapturesCloseGalleryTooltipWhenCarouselOpen": "True",
-        "FFlagPlayerFeedbackPromptEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:41:56",
-        "DFFlagFastEmitterFill2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:48:17",
         "FFlagCheckRootInstToManifest": "True",
         "FFlagFriendsRoduxFixBlock": "True",
         "FFlagToolboxWebViewTutorial4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T21:00:03",
@@ -13112,9 +13110,9 @@
         "FFlagAXSlotsScrollAway2": "True",
         "FFlagSquadEnabled": "True",
         "DFIntTestEBOnProd_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T21:32:30",
-        "FStringFlagRepoGitHashFastString": "7aca3b85cb088664efbb45971071dc22a117a6b8",
-        "DFStringFlagRepoGitHashDynamicString": "7aca3b85cb088664efbb45971071dc22a117a6b8",
-        "FStringFlipTimeStampFastString": "2025-10-08T21:51:17.114Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T21:51:17.114Z"
+        "FStringFlagRepoGitHashFastString": "22e1a898d16411126634068479b1fb45af94d603",
+        "DFStringFlagRepoGitHashDynamicString": "22e1a898d16411126634068479b1fb45af94d603",
+        "FStringFlipTimeStampFastString": "2025-10-08T21:53:55.255Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T21:53:55.255Z"
     }
 }
