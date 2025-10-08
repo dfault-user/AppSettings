@@ -12161,7 +12161,7 @@
         "FFlagAvatarChatDelayModelDelivery2": "True",
         "FFlagHighlights255Allowed": "True",
         "FFlagDynamicTranslationUseCacheValue": "True",
-        "FFlagEnableBackgroundSignatureVerification": "True",
+        "FFlagEnableBackgroundSignatureVerification": "False",
         "FFlagLuauInterpStringConstFolding": "True",
         "FFlagLuauStringConstFolding2": "True",
         "FIntLivenessWithCallbackPollMaxRetries": "15",
@@ -12206,7 +12206,6 @@
         "FFlagInExperienceContainerScreenSizeReducer": "True",
         "FFlagEnableUISoundAndHaptics10": "True",
         "FFlagUseNewHapticServiceInUA3": "True",
-        "FFlagEnableBackgroundSignatureVerification_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T16:39:51",
         "FFlagLuauResumeFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T16:48:17",
         "FFlagSTM6798Enabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1002229250;2025-10-08T16:48:32",
         "FFlagToolboxRetryReloadFailures3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1002229250;2025-10-08T16:48:32",
@@ -12221,6 +12220,7 @@
         "FFlagAXPrefetchMarketplaceIXP2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;339453041;2025-10-08T17:25:34",
         "FFlagEnableBacktraceMetricKitReporter3": "True",
         "DFIntClientScriptTimeoutValueMsec_Staged": "40000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T17:39:41",
+        "DFFlagFastEmitterFill2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T17:42:54",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12521,9 +12521,9 @@
         "DFFlagRobloxTelemetryEnableSenderCallback4": "True",
         "FFlagSquadEnabled": "True",
         "FFlagFixCdsduiRFYGridItemsPerRowLogic_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1501665628;2025-10-08T17:41:12",
-        "FStringFlagRepoGitHashFastString": "2ebc4894255ad083f59173632cf2d3b14d6f500a",
-        "DFStringFlagRepoGitHashDynamicString": "2ebc4894255ad083f59173632cf2d3b14d6f500a",
-        "FStringFlipTimeStampFastString": "2025-10-08T17:42:53.315Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T17:42:53.315Z"
+        "FStringFlagRepoGitHashFastString": "0e71f4f1c51d916795897f01d25115c75834fe83",
+        "DFStringFlagRepoGitHashDynamicString": "0e71f4f1c51d916795897f01d25115c75834fe83",
+        "FStringFlipTimeStampFastString": "2025-10-08T17:45:01.780Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T17:45:01.780Z"
     }
 }
