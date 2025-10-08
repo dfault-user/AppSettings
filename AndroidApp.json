@@ -12142,7 +12142,7 @@
         "FFlagSduiRemoveGameTileInitLogging": "True",
         "FFlagLuaAppFixTopBarNameBadgeScaling2": "True",
         "DFFlagHttpRequestUseNewImplSelect": "True",
-        "FFlagAEGetEditableOutfitsType": "True",
+        "FFlagAEGetEditableOutfitsType": "False",
         "FFlagFoundationSupportCloudAssetsImage2": "True",
         "FFlagWinUsedMemoryCorrectApi_IXP": "1;Engine.System.MemoryOptimization.UserID;Engine.UsedMemoryCorrectAPI.Windows;1121898515;flagbank",
         "FFlagFixLeaderboardStatSortTypeMismatch": "True",
@@ -12224,8 +12224,6 @@
         "FStringHelpPageIxpLayer": "Experience.Menu.HelpPage.Exposure",
         "FFlagAXEnableInitialTopLevelPageCounter": "True",
         "DFFlagVoiceChatSendHttpErrorsTelemetry2": "True",
-        "AllowVideoPreRoll": "True",
-        "FFlagAEGetEditableOutfitsType_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:34:18",
         "FFlagCapturesCloseGalleryTooltipWhenCarouselOpen": "True",
         "FFlagPlayerFeedbackPromptEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:41:56",
         "DFFlagFastEmitterFill2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:48:17",
@@ -12235,6 +12233,8 @@
         "FFlagEnableMultipartForMeshImage": "True",
         "FFlagAvatarGenerationFailedEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T21:15:38",
         "FFlagVideoHandleEarlyServiceShutdown_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T21:17:37",
+        "FFlagAddFriendsUserTileRefactor": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13133,11 +13133,10 @@
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Only;1259266197;flagbank",
         "FFlagTotalDiskSizeTelemetryMobile2": "True",
         "DFIntTotalDiskDataSizeThrottleHundredthsPercent": "10000",
-        "FFlagAddFriendsUserTileRefactor": "True",
         "FFlagEmergencyDeleteOfExperimentDummyFile": "True",
-        "FStringFlagRepoGitHashFastString": "f5c9dfa8563c733313752c66b4c0478899f5cb1e",
-        "DFStringFlagRepoGitHashDynamicString": "f5c9dfa8563c733313752c66b4c0478899f5cb1e",
-        "FStringFlipTimeStampFastString": "2025-10-08T21:37:31.721Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T21:37:31.721Z"
+        "FStringFlagRepoGitHashFastString": "ce30306779ad430628c11b412443375139c483f3",
+        "DFStringFlagRepoGitHashDynamicString": "ce30306779ad430628c11b412443375139c483f3",
+        "FStringFlipTimeStampFastString": "2025-10-08T21:39:42.900Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T21:39:42.900Z"
     }
 }

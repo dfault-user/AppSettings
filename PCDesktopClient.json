@@ -12142,7 +12142,7 @@
         "FFlagSduiRemoveGameTileInitLogging": "True",
         "FFlagLuaAppFixTopBarNameBadgeScaling2": "True",
         "DFFlagHttpRequestUseNewImplSelect": "True",
-        "FFlagAEGetEditableOutfitsType": "True",
+        "FFlagAEGetEditableOutfitsType": "False",
         "FFlagFoundationSupportCloudAssetsImage2": "True",
         "FFlagWinUsedMemoryCorrectApi_IXP": "1;Engine.System.MemoryOptimization.UserID;Engine.UsedMemoryCorrectAPI.Windows;1121898515;flagbank",
         "FFlagFixLeaderboardStatSortTypeMismatch": "True",
@@ -12224,8 +12224,6 @@
         "FStringHelpPageIxpLayer": "Experience.Menu.HelpPage.Exposure",
         "FFlagAXEnableInitialTopLevelPageCounter": "True",
         "DFFlagVoiceChatSendHttpErrorsTelemetry2": "True",
-        "FFlagAddFriendsUserTileRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:33:04",
-        "FFlagAEGetEditableOutfitsType_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:34:18",
         "FFlagCapturesCloseGalleryTooltipWhenCarouselOpen": "True",
         "FFlagPlayerFeedbackPromptEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:41:56",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -12235,6 +12233,7 @@
         "FFlagEnableMultipartForMeshImage": "True",
         "FFlagAvatarGenerationFailedEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T21:15:38",
         "FFlagVideoHandleEarlyServiceShutdown_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T21:17:37",
+        "FFlagAddFriendsUserTileRefactor": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13176,9 +13175,9 @@
         "FFlagSquadEnabled": "True",
         "FFlagPCGDKPaymentsProtocolCleanupCalls": "True",
         "FFlagLuaAppEnableWindowsHandheldTokenScale": "True",
-        "FStringFlagRepoGitHashFastString": "1d0bb761dc075027279ac8939f388fdcc936d947",
-        "DFStringFlagRepoGitHashDynamicString": "1d0bb761dc075027279ac8939f388fdcc936d947",
-        "FStringFlipTimeStampFastString": "2025-10-08T21:37:53.369Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T21:37:53.369Z"
+        "FStringFlagRepoGitHashFastString": "f4ac34ebc9cf50d647955fc54681693364671f33",
+        "DFStringFlagRepoGitHashDynamicString": "f4ac34ebc9cf50d647955fc54681693364671f33",
+        "FStringFlipTimeStampFastString": "2025-10-08T21:39:26.166Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T21:39:26.166Z"
     }
 }
