@@ -12208,7 +12208,6 @@
         "FFlagUseNewHapticServiceInUA3": "True",
         "FFlagLuauIndividualRecursionLimits": "True",
         "FFlagEnableBacktraceMetricKitReporter3": "True",
-        "DFFlagClientScriptTimeout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T17:52:17",
         "FFlagSTM6798Enabled": "True",
         "FFlagToolboxRetryReloadFailures3": "True",
         "FFlagWebBrowserWinExecuteJavaScriptNullGuard": "True",
@@ -12227,6 +12226,7 @@
         "DFFlagCDCTestsReportFailingDecomps": "True",
         "DFIntConvexDecompBadDecompReportingHundredthsPercentage": "10000",
         "FFlagAXEnableInitialTopLevelPageCounter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;779596677;2025-10-08T18:52:12",
+        "DFFlagClientScriptTimeout": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12526,9 +12526,9 @@
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "DFFlagRobloxTelemetryEnableSenderCallback4": "True",
         "FFlagSquadEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "ac7971f8356ddca86e70092e2dee360d8e7676ca",
-        "DFStringFlagRepoGitHashDynamicString": "ac7971f8356ddca86e70092e2dee360d8e7676ca",
-        "FStringFlipTimeStampFastString": "2025-10-08T18:54:39.668Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T18:54:39.668Z"
+        "FStringFlagRepoGitHashFastString": "581af57777cd17f81d0a2aa507286149814d3a89",
+        "DFStringFlagRepoGitHashDynamicString": "581af57777cd17f81d0a2aa507286149814d3a89",
+        "FStringFlipTimeStampFastString": "2025-10-08T18:59:03.541Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T18:59:03.541Z"
     }
 }
