@@ -12221,6 +12221,8 @@
         "FFlagEnableBacktraceMetricKitReporter3": "True",
         "DFIntClientScriptTimeoutValueMsec_Staged": "40000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T17:39:41",
         "DFFlagFastEmitterFill2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T17:42:54",
+        "DFFlagCDCTestsReportFailingDecomps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1330825102;2025-10-08T17:45:01",
+        "DFIntConvexDecompBadDecompReportingHundredthsPercentage_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1330825102;2025-10-08T17:45:01",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13104,9 +13106,9 @@
         "DFFlagDataPingTrace": "True",
         "FFlagAddFriendsUserTileRefactor": "True",
         "FFlagFixCdsduiRFYGridItemsPerRowLogic_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1501665628;2025-10-08T17:41:12",
-        "FStringFlagRepoGitHashFastString": "0e71f4f1c51d916795897f01d25115c75834fe83",
-        "DFStringFlagRepoGitHashDynamicString": "0e71f4f1c51d916795897f01d25115c75834fe83",
-        "FStringFlipTimeStampFastString": "2025-10-08T17:45:01.780Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T17:45:01.780Z"
+        "FStringFlagRepoGitHashFastString": "4a12b705aab6e1f5c8f7ea95dcd0e59fde021901",
+        "DFStringFlagRepoGitHashDynamicString": "4a12b705aab6e1f5c8f7ea95dcd0e59fde021901",
+        "FStringFlipTimeStampFastString": "2025-10-08T17:46:49.642Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T17:46:49.642Z"
     }
 }
