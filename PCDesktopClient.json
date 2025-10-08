@@ -12207,7 +12207,7 @@
         "FFlagEnableUISoundAndHaptics10": "True",
         "FFlagUseNewHapticServiceInUA3": "True",
         "FFlagLuauIndividualRecursionLimits": "True",
-        "FFlagEnableBacktraceMetricKitReporter3": "True",
+        "FFlagEnableBacktraceMetricKitReporter3": "False",
         "FFlagSTM6798Enabled": "True",
         "FFlagToolboxRetryReloadFailures3": "True",
         "FFlagWebBrowserWinExecuteJavaScriptNullGuard": "True",
@@ -12217,7 +12217,6 @@
         "FFlagUsernameValidatorSelectorPaddingFix": "True",
         "FFlagCASButtonsOnWindowsTouch": "True",
         "FFlagPlayerFeedbackPromptEnabled": "True",
-        "FFlagEnableBacktraceMetricKitReporter3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T18:28:18",
         "DFIntBacktraceMetricKitUploadHundrethsPercent_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T18:32:50",
         "DFIntClientScriptTimeoutValueMsec": "40000",
         "DFFlagCDCTestsReportFailingDecomps": "True",
@@ -13160,9 +13159,9 @@
         "FFlagSquadEnabled": "True",
         "FFlagPCGDKPaymentsProtocolCleanupCalls": "True",
         "FFlagLuaAppEnableWindowsHandheldTokenScale": "True",
-        "FStringFlagRepoGitHashFastString": "4a7ae489766898dc2bcc25444c4cac3b6c686d62",
-        "DFStringFlagRepoGitHashDynamicString": "4a7ae489766898dc2bcc25444c4cac3b6c686d62",
-        "FStringFlipTimeStampFastString": "2025-10-08T19:31:09.082Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T19:31:09.082Z"
+        "FStringFlagRepoGitHashFastString": "038e18229398607bf037cccecccec70838d5e707",
+        "DFStringFlagRepoGitHashDynamicString": "038e18229398607bf037cccecccec70838d5e707",
+        "FStringFlipTimeStampFastString": "2025-10-08T19:34:23.568Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T19:34:23.568Z"
     }
 }
