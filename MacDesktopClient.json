@@ -12189,7 +12189,7 @@
         "DFFlagSplineClampForNaNInput": "True",
         "DFFlagRbxStorageFixEmptyPath": "True",
         "FFlagFixDelayAfterPurchaseFlowComplete": "True",
-        "FFlagRenderParticlesSimulateNonVisible6": "True",
+        "FFlagRenderParticlesSimulateNonVisible6": "False",
         "FFlagAddFriendsFixText": "True",
         "FFlagCheckPillSelectedPressedState": "True",
         "FFlagAvatarGenBodyColorFix": "True",
@@ -12212,8 +12212,6 @@
         "FFlagToolboxRetryReloadFailures3": "True",
         "FFlagWebBrowserWinExecuteJavaScriptNullGuard": "True",
         "FFlagLuaAppUpdateCollectionHeader2": "True",
-        "FStringHelpPageIxpLayer_Staged": "Experience.Menu.HelpPage.Exposure;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T17:55:20",
-        "FFlagRenderParticlesSimulateNonVisible6_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T17:55:31",
         "FFlagDisableNpotException": "True",
         "FFlagLuaAppScrollableDesktopCarousels2": "True",
         "FStringIxpNewLayersForRegistration_Staged": "App.AppPerf.Regression,AvatarMarketplace.SearchPageWidgetPlatform,AvatarMarketplace.Sorts,Consoles.App,DesignSystem.Font,ExperienceDetailPage.EnableSubscriptionPurchase,Growth.Notifications.GameInviteMenu,Notification.Toast,PlayerApp.GameJoin.UX,PlayerApp.HomepageUpsell.PhoneVerificationEntry,PlayerApp.HomePageUpsell.VNGApp,PlayerApp.Logout,PlayerApp.OmniSearchResultsPage.UX.Exposure,PlayerApp.PhoneVerification.Android,PlayerApp.PhoneVerification.iOS,Revenue.UA.Gamepass.RobuxUpsell,Universality.AppNav,Social.ProfileViewSocialLinks,HomePage.UpsellCard,AvatarMarketplace.WidgetPlatformSorts,Universality.FoundationColors,Universality.AppNav.2,AvatarExperience.UA.ActionBarView,Universality.MorePage,UniversalApp.MoreLayout.Exposure,Experience.Menu.Settings.Exposure,PlayerApp.HomePage.UX.TileLayer,Social.FriendsCarouselAddFriendsEntry,Social.PartyRollout,PlayerApp.HomePage.UX.WholePageRanking,Social.PartyVoice,PlatformExcellence.Consoles.Features,ProfileQRCodeScannerLayer,AvatarExperience.UA.SearchView,Social.ViewFriendSortInGameFriends,Social.AppChat,Social.CommunityProfileView,UIEcosystem.User,InExperience.Performance,CreatorSuccess.VirtualEvents,ContactImporter.DevicePermissionNeededModal.Exposure,PlayerApp.ConsoleAndVR.HomePage.UX.TileLayer,PlayerApp.Homepage.Serving.SDUI,Experience.Menu.VR,UIEcosystem.User.Migration,User.Communication.ConsoleVoice,Social.RM,Party.Coordination.ExperienceJoin2,PlayerApp.GameDetailsPage.Exposure,CoreServices.Thumbnail.ServeThumbnailsFromEdge,Experience.Menu.TopBar.RoduxDeprecation;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T18:17:47",
@@ -12228,6 +12226,8 @@
         "FFlagAXEnableInitialTopLevelPageCounter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;779596677;2025-10-08T18:52:12",
         "DFFlagClientScriptTimeout": "True",
         "DFFlagVoiceChatSendHttpErrorsTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T18:59:26",
+        "FStringHelpPageIxpLayer": "Experience.Menu.HelpPage.Exposure",
+        "DFIntPerfDataGlobalThrottleHundredthsPercent_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T19:03:54",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13096,9 +13096,9 @@
         "FFlagAXSlotsPeekViewScrollFix": "True",
         "FFlagAXSlotsScrollAway2": "True",
         "FFlagSquadEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "c28642aaa50175bec16ed0dd7d0e4f282c6d4cba",
-        "DFStringFlagRepoGitHashDynamicString": "c28642aaa50175bec16ed0dd7d0e4f282c6d4cba",
-        "FStringFlipTimeStampFastString": "2025-10-08T19:01:37.287Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T19:01:37.287Z"
+        "FStringFlagRepoGitHashFastString": "67e51975e80fa79365481650df3756f5880452f2",
+        "DFStringFlagRepoGitHashDynamicString": "67e51975e80fa79365481650df3756f5880452f2",
+        "FStringFlipTimeStampFastString": "2025-10-08T19:05:14.679Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T19:05:14.679Z"
     }
 }
