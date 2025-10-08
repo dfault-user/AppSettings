@@ -12223,7 +12223,6 @@
         "DFFlagClientScriptTimeout": "True",
         "FStringHelpPageIxpLayer": "Experience.Menu.HelpPage.Exposure",
         "FFlagAXEnableInitialTopLevelPageCounter": "True",
-        "FFlagEnableMultipartForMeshImage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:00:21",
         "DFFlagVoiceChatSendHttpErrorsTelemetry2": "True",
         "FFlagAddFriendsUserTileRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:33:04",
         "FFlagAEGetEditableOutfitsType_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:34:18",
@@ -12233,6 +12232,7 @@
         "FFlagCheckRootInstToManifest": "True",
         "FFlagFriendsRoduxFixBlock": "True",
         "FFlagToolboxWebViewTutorial4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T21:00:03",
+        "FFlagEnableMultipartForMeshImage": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14349,6 +14349,7 @@
         "DFFlagReportInstanceMemoryToES_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T20:52:41",
         "DFFlagDCDReadLegacyWithDecoder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;655462552;2025-10-08T20:58:58",
         "DFFlagPMDHeaderGeomTypeReading_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;655462552;2025-10-08T20:58:58",
+        "FFlagAXMigrateTryOnItemScreenToAutofocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T21:07:31",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -14381,9 +14382,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "2498d8c21f150b8e6a57f5340c8356a2b5042afd",
-        "DFStringFlagRepoGitHashDynamicString": "2498d8c21f150b8e6a57f5340c8356a2b5042afd",
-        "FStringFlipTimeStampFastString": "2025-10-08T21:09:29.066Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T21:09:29.066Z"
+        "FStringFlagRepoGitHashFastString": "661406b0c091450fcd88d805159ff79957c68b4e",
+        "DFStringFlagRepoGitHashDynamicString": "661406b0c091450fcd88d805159ff79957c68b4e",
+        "FStringFlipTimeStampFastString": "2025-10-08T21:11:35.091Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T21:11:35.091Z"
     }
 }
