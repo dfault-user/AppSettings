@@ -13086,7 +13086,7 @@
         "FIntSQLiteDisableSHM": "1",
         "FFlagTCFixDeviceOrientationCheck": "True",
         "DFFlagFileCacheClearRecursive": "True",
-        "FFlagAppChatEnableDoubleOptInRC2": "True",
+        "FFlagAppChatEnableDoubleOptInRC2": "False",
         "FFlagEnableNSEPayloadParsingFix": "True",
         "FFlagAppChatDoubleOptInTelemetry": "True",
         "FFlagAXSlotsDesktopCrashFix": "True",
@@ -13109,10 +13109,9 @@
         "FFlagSimReduceSharedPtrUse": "True",
         "DFFlagDataPingTrace": "True",
         "FFlagAddFriendsUserTileRefactor": "True",
-        "FFlagAppChatEnableDoubleOptInRC2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;841866691;2025-10-08T18:00:43",
-        "FStringFlagRepoGitHashFastString": "67e51975e80fa79365481650df3756f5880452f2",
-        "DFStringFlagRepoGitHashDynamicString": "67e51975e80fa79365481650df3756f5880452f2",
-        "FStringFlipTimeStampFastString": "2025-10-08T19:05:14.679Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T19:05:14.679Z"
+        "FStringFlagRepoGitHashFastString": "ecefdfe966ba341e3436277a5a40c7aa2adc41c0",
+        "DFStringFlagRepoGitHashDynamicString": "ecefdfe966ba341e3436277a5a40c7aa2adc41c0",
+        "FStringFlipTimeStampFastString": "2025-10-08T19:09:05.521Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T19:09:05.521Z"
     }
 }
