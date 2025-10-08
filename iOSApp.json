@@ -7395,7 +7395,7 @@
         "FFlagSetTouchEnabledForTouchscreenPCGDKOnly": "True",
         "FFlagTouchscreenSupportPCGDKOnly": "True",
         "FFlagRenderFixULGlassRefraction": "True",
-        "DFIntReverbCameraPushForwardStudsHundredths": "180",
+        "DFIntReverbCameraPushForwardStudsHundredths": "10",
         "DFFlagWindowsBufferPrefetching": "True",
         "FFlagFCGeometryGeneratorUseMemoryPool": "True",
         "FFlagEnableModerationConsoleLogout": "True",
@@ -12107,7 +12107,7 @@
         "FFlagAddNavigationToTryOnPageForCurrentlyWearing2_IXP": "1;Social.ProfileCurrentlyWearingClickThrough;Social.ProfileCurrentlyWearingClickThrough.NavigateCWToTryonPage-1757101916836;1672115186;dev_controlled",
         "FFlagAddIconToUserTile": "True",
         "FFlagHeroUnitReducedMotion2": "True",
-        "FFlagStreamJobRefactorSetCollection": "True",
+        "FFlagStreamJobRefactorSetCollection": "False",
         "DFFlagWrapDeformerReportTelemetryStat3": "True",
         "FFlagLuaAppUpdateGameGridSideMargin": "True",
         "FFlagEnableMoreMenuFocusFix": "True",
@@ -12208,8 +12208,6 @@
         "FFlagInExperienceContainerScreenSizeReducer": "True",
         "FFlagEnableUISoundAndHaptics10": "True",
         "FFlagUseNewHapticServiceInUA3": "True",
-        "DFIntReverbCameraPushForwardStudsHundredths_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;386874270;2025-10-08T15:58:40",
-        "FFlagStreamJobRefactorSetCollection_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T16:00:43",
         "FFlagTexturePackGeneratorFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T16:06:19",
         "FFlagLuauIndividualRecursionLimits_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1474384295;2025-10-08T16:24:33",
         "FFlagEnableBacktraceMetricKitReporter3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-08T16:28:53",
@@ -13103,9 +13101,9 @@
         "FFlagSimReduceSharedPtrUse": "True",
         "DFFlagDataPingTrace": "True",
         "FFlagAddFriendsUserTileRefactor": "True",
-        "FStringFlagRepoGitHashFastString": "440dcab256c2ebb7516b13544891034849c83379",
-        "DFStringFlagRepoGitHashDynamicString": "440dcab256c2ebb7516b13544891034849c83379",
-        "FStringFlipTimeStampFastString": "2025-10-08T17:02:03.426Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-08T17:02:03.426Z"
+        "FStringFlagRepoGitHashFastString": "73c62d651871034b05a905e90bdf741817213089",
+        "DFStringFlagRepoGitHashDynamicString": "73c62d651871034b05a905e90bdf741817213089",
+        "FStringFlipTimeStampFastString": "2025-10-08T17:07:26.983Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-08T17:07:26.983Z"
     }
 }
