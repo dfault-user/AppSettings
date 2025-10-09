@@ -5337,7 +5337,7 @@
         "FFlagUpdateReportModalForAudio": "True",
         "DFFlagDontCullNewestLogsFirst": "True",
         "DFIntConvexDecompCompression": "10000",
-        "DFIntConvexDecompCompressionSelector": "1000",
+        "DFIntConvexDecompCompressionSelector": "2000",
         "DFIntNavigationBuildLayerRegionMinRegions": "4",
         "FFlagAddAnalyticsForImprovedSearchStatsPerRequest": "True",
         "FFlagSongbirdUseFoundationIconButton2": "True",
@@ -12243,7 +12243,6 @@
         "FFlagAXFixFlashingNoItemsFound": "True",
         "DFFlagEnableContentTypeInRegister": "True",
         "FFlagDeprecateExperienceInterventionNamespace": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "DFFlagSupportNetworkValueFormatRandom2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T16:57:01",
         "FFlagCustomizedLandingLaunchGame_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T17:25:20",
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "True",
@@ -14004,6 +14003,7 @@
         "FFlagStudioRaiseMainWindowWhenShowSavePlaceDialog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T16:58:54",
         "FFlagStudioOutputLocalSaveErrorToConsole_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T17:13:52",
         "DFFlagCLI171730AddSizeCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T17:25:28",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -14398,7 +14398,6 @@
         "FFlagAXCustomizeOverhaulEditorExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2;109200379;dev_controlled",
         "FFlagAXCustomizeOverhaulCatalogExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2;446427765;dev_controlled",
         "FFlagVoiceForceRunOnLeave": "True",
-        "DFIntConvexDecompCompressionSelector_Staged": "2000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1975672446;2025-10-09T16:41:34",
         "FFlagVoiceForceRunOnLeave_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1264954436;2025-10-09T17:19:25",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
@@ -14432,9 +14431,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "4cd6c30a93795424fa5783609402f647f6bed54e",
-        "DFStringFlagRepoGitHashDynamicString": "4cd6c30a93795424fa5783609402f647f6bed54e",
-        "FStringFlipTimeStampFastString": "2025-10-09T17:44:15.405Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-09T17:44:15.405Z"
+        "FStringFlagRepoGitHashFastString": "d7386f31ba3ee092b8da04a262e9d3761a12346a",
+        "DFStringFlagRepoGitHashDynamicString": "d7386f31ba3ee092b8da04a262e9d3761a12346a",
+        "FStringFlipTimeStampFastString": "2025-10-09T17:49:07.984Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-09T17:49:07.984Z"
     }
 }
