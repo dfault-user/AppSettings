@@ -12171,7 +12171,7 @@
         "FFlagIEMSelectorUnchangedByMouseWheel": "True",
         "FFlagRemoveLegacyChatConsoleCheck": "True",
         "FFlagAddRedeemTile2": "True",
-        "FFlagCustomizedLandingLaunchGame": "True",
+        "FFlagCustomizedLandingLaunchGame": "False",
         "FFlagCapturesRemoveVideoCaptureExperimentScaffolding": "True",
         "FFlagGetGameIconsFromThumbnailsDeliveryApiIxp": "True",
         "FFlagAXEnablePrefetchMarketplaceFailsafe": "True",
@@ -12243,7 +12243,6 @@
         "FFlagAXFixFlashingNoItemsFound": "True",
         "DFFlagEnableContentTypeInRegister": "True",
         "FFlagDeprecateExperienceInterventionNamespace": "True",
-        "FFlagCustomizedLandingLaunchGame_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T17:25:20",
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "True",
         "DFFlagSupportNetworkValueFormatRandom2": "True",
         "DFIntPhoto2AvatarErrorEventsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:06:27",
@@ -12252,6 +12251,7 @@
         "FFlagSquadStartedCardBgFixEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:19:14",
         "FFlagExplorerFilterActionContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:21:03",
         "FFlagPluginGuiPointerEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:28:23",
+        "FFlagEnableTelemetryIntegrationCheck_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:29:43",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12705,8 +12705,8 @@
         "FFlagAXCustomizeOverhaulEditorExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
         "FFlagAXCustomizeOverhaulCatalogExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
         "FFlagVoiceForceRunOnLeave": "False",
-        "DFFlagCLI171730AddSizeCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T17:25:28",
         "DFFlagProcessStatisticsMemoryFix": "True",
+        "DFFlagCLI171730AddSizeCheck": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13137,9 +13137,9 @@
         "DFIntTestEBOnProd": "100",
         "DFFlagEarlyReturnScrollingDisabled2": "True",
         "DFFlagCLI172177_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:28:33",
-        "FStringFlagRepoGitHashFastString": "b091ae5ae842bd167eae8f239955a15d0a66a90b",
-        "DFStringFlagRepoGitHashDynamicString": "b091ae5ae842bd167eae8f239955a15d0a66a90b",
-        "FStringFlipTimeStampFastString": "2025-10-09T18:31:45.290Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-09T18:31:45.290Z"
+        "FStringFlagRepoGitHashFastString": "b88f0860f0901430609994bcd80a56b0189af141",
+        "DFStringFlagRepoGitHashDynamicString": "b88f0860f0901430609994bcd80a56b0189af141",
+        "FStringFlipTimeStampFastString": "2025-10-09T18:34:35.866Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-09T18:34:35.866Z"
     }
 }
