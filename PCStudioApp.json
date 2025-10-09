@@ -12243,7 +12243,6 @@
         "FFlagDeprecateExperienceInterventionNamespace": "True",
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "True",
         "DFFlagSupportNetworkValueFormatRandom2": "True",
-        "FFlagExplorerFilterActionContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:21:03",
         "AllowVideoPreRoll": "True",
         "FFlagEnableTelemetryIntegrationCheck_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:29:43",
         "FFlagStatusFileMutex_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:35:36",
@@ -12257,6 +12256,7 @@
         "FFlagAXAvatarTileNoDefaultOutfitInfo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T19:17:58",
         "FFlagPropertiesMixStylingAndPackageDefaultsCorrectly": "True",
         "FFlagSquadStartedCardBgFixEnabled": "True",
+        "FFlagExplorerFilterActionContext": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14416,6 +14416,8 @@
         "FFlagAXCustomizeOverhaulCatalogExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2;446427765;dev_controlled",
         "FFlagVoiceForceRunOnLeave": "False",
         "FFlagComponentManagerAddSupportStopSubtree2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T19:13:04",
+        "FFlagEnableNapIxpLayerExposure_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesignNoVR.2025Q4;1465647331;dev_controlled",
+        "FFlagEnableNotApprovedPageV2_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesignNoVR.2025Q4;1465647331;dev_controlled",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -14448,9 +14450,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "c370ff3001c9bade3f37a11afe8a11a964cb7edc",
-        "DFStringFlagRepoGitHashDynamicString": "c370ff3001c9bade3f37a11afe8a11a964cb7edc",
-        "FStringFlipTimeStampFastString": "2025-10-09T19:23:11.727Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-09T19:23:11.727Z"
+        "FStringFlagRepoGitHashFastString": "6daf9bebe26e9887ded361378b45dfc6d1232111",
+        "DFStringFlagRepoGitHashDynamicString": "6daf9bebe26e9887ded361378b45dfc6d1232111",
+        "FStringFlipTimeStampFastString": "2025-10-09T19:28:29.741Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-09T19:28:29.741Z"
     }
 }
