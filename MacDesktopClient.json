@@ -12274,6 +12274,7 @@
         "DFIntExpChatMessageClientRenderedThrottlePermyriad_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;51287375;2025-10-09T23:31:06",
         "FFlagAddAccountLinkingAlertAnalytics": "True",
         "FFlagAXAddInventoryItemsListProps": "False",
+        "FFlagAXGeneralizeInventoryItemsList": "False",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12719,7 +12720,6 @@
         "FFlagAXItemDetailsShouldNotHaveQuickMenuButton": "True",
         "DFFlagNoCallstackAppendTarget": "True",
         "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2;2020456011;dev_controlled",
-        "FFlagAXGeneralizeInventoryItemsList_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2;1171352161;dev_controlled",
         "FFlagAXCustomizeOverhaulEditorExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
         "FFlagAXCustomizeOverhaulCatalogExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
         "FFlagVoiceForceRunOnLeave": "False",
@@ -13165,9 +13165,9 @@
         "DFIntTestEBOnProd": "1000",
         "DFFlagEarlyReturnScrollingDisabled2": "True",
         "DFFlagCLI172177": "True",
-        "FStringFlagRepoGitHashFastString": "e5560f7934622552a06a15c42e29ce6e227d66f6",
-        "DFStringFlagRepoGitHashDynamicString": "e5560f7934622552a06a15c42e29ce6e227d66f6",
-        "FStringFlipTimeStampFastString": "2025-10-09T23:45:47.081Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-09T23:45:47.081Z"
+        "FStringFlagRepoGitHashFastString": "2e80891a4f661084aad086d5e59eeff1cbb04fe6",
+        "DFStringFlagRepoGitHashDynamicString": "2e80891a4f661084aad086d5e59eeff1cbb04fe6",
+        "FStringFlipTimeStampFastString": "2025-10-09T23:52:29.910Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-09T23:52:29.910Z"
     }
 }
