@@ -12255,7 +12255,6 @@
         "FFlagFoundationDialogBodyUpdate": "True",
         "FFlagFoundationPopoverContentToggleOnAnchorClick": "True",
         "FFlagAXAvatarTileNoDefaultOutfitInfo": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagBootcampCLI167628_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T20:38:00",
         "DFLogBootcampCLI167628Log_Staged": "Warning,6;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T20:39:31",
         "FFlagNetworkSchemaVersionServerBit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T20:56:01",
@@ -12263,6 +12262,8 @@
         "FFlagFixXboxActiveGamepadMismatch": "True",
         "FFlagDisableImageHash": "True",
         "DFIntExpChatMessageClientRenderedThrottlePermyriad_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;51287375;2025-10-09T21:31:07",
+        "DFFlagSimGeometryDeterministicSampling": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13162,10 +13163,9 @@
         "DFIntTotalDiskDataSizeThrottleHundredthsPercent": "10000",
         "FFlagEmergencyDeleteOfExperimentDummyFile": "True",
         "EnableFullDiskUsageTelemetry": "True",
-        "DFFlagSimGeometryDeterministicSampling": "True",
-        "FStringFlagRepoGitHashFastString": "65cd9d54396f81713da82a541865f2e3a4e85f2f",
-        "DFStringFlagRepoGitHashDynamicString": "65cd9d54396f81713da82a541865f2e3a4e85f2f",
-        "FStringFlipTimeStampFastString": "2025-10-09T21:35:24.050Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-09T21:35:24.050Z"
+        "FStringFlagRepoGitHashFastString": "ce5db825c610d635fe49302854a668746fab5ea8",
+        "DFStringFlagRepoGitHashDynamicString": "ce5db825c610d635fe49302854a668746fab5ea8",
+        "FStringFlipTimeStampFastString": "2025-10-09T21:38:27.514Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-09T21:38:27.514Z"
     }
 }
