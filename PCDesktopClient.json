@@ -12243,7 +12243,6 @@
         "FFlagDeprecateExperienceInterventionNamespace": "True",
         "FFlagSupportMultipleQosSessionsInterfaceImpl2": "True",
         "DFFlagSupportNetworkValueFormatRandom2": "True",
-        "FFlagFoundationPopoverContentToggleOnAnchorClick_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;561790148;2025-10-09T19:10:23",
         "DFIntPhoto2AvatarErrorEventsThrottleHundredthsPercent": "10000",
         "FFlagUseNewCorrelateProfilerDataFunction": "True",
         "FFlagAXAvatarTileNoDefaultOutfitInfo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T19:17:58",
@@ -12259,6 +12258,7 @@
         "FFlagFoundationDialogHeroImageOnlyFix": "True",
         "FFlagFoundationDialogBodyUpdate": "True",
         "FFlagDisableImageHash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T20:13:51",
+        "FFlagFoundationPopoverContentToggleOnAnchorClick": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12745,10 +12745,10 @@
         "FFlagVoiceForceRunOnLeave": "False",
         "DFFlagProcessStatisticsMemoryFix": "True",
         "DFFlagCLI171730AddSizeCheck": "True",
-        "FFlagComponentManagerAddSupportStopSubtree2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T19:13:04",
         "FFlagEnableNapIxpLayerExposure_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesignNoVR.2025Q4;1465647331;dev_controlled",
         "FFlagEnableNotApprovedPageV2_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesignNoVR.2025Q4;1465647331;dev_controlled",
         "FFlagPropertyDescriptorsToArray3_Staged": "True;SteadyState;10;30;Revert;2025-10-09T20:13:35",
+        "FFlagComponentManagerAddSupportStopSubtree2": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13211,9 +13211,9 @@
         "FFlagPCGDKPaymentsProtocolCleanupCalls": "True",
         "FFlagLuaAppEnableWindowsHandheldTokenScale": "True",
         "DFFlagCLI172177": "True",
-        "FStringFlagRepoGitHashFastString": "5e1c8ade342db361838c06c7a1a18e8896af1ef6",
-        "DFStringFlagRepoGitHashDynamicString": "5e1c8ade342db361838c06c7a1a18e8896af1ef6",
-        "FStringFlipTimeStampFastString": "2025-10-09T20:16:05.208Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-09T20:16:05.208Z"
+        "FStringFlagRepoGitHashFastString": "ea3165ac2a1289f995be252146bd43c9b19d7bc0",
+        "DFStringFlagRepoGitHashDynamicString": "ea3165ac2a1289f995be252146bd43c9b19d7bc0",
+        "FStringFlipTimeStampFastString": "2025-10-09T20:18:24.686Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-09T20:18:24.686Z"
     }
 }
