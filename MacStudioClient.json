@@ -12688,7 +12688,7 @@
         "FFlagToolboxFixSwimlaneHeader": "True",
         "FFlagFixAudioTagTranslations": "True",
         "FFlagImproveChangeHistoryParallel": "True",
-        "DFFlagSimCloseVoxelBadMeshTelemetry": "True",
+        "DFFlagSimCloseVoxelBadMeshTelemetry": "False",
         "DFFlagSimDCDEnableWithoutRollout2": "True",
         "DFIntSimCloseVoxelBadMeshTelemetryHundredthsPercentage": "100",
         "FFlagUserFixOrbitalCam": "True",
@@ -14007,8 +14007,6 @@
         "FFlagMeshContentPropertyItemFix": "True",
         "FFlagLuauConsiderErrorSuppressionInTypes": "True",
         "DFFlagProcessStatisticsMemoryFix": "True",
-        "DFFlagSimCloseVoxelBadMeshTelemetry_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;344065049;2025-10-09T17:57:56",
-        "FFlagActionsBridgeListenToPluginActionsIconChanged_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T17:58:27",
         "FFlagStudioRaiseMainWindowWhenShowSavePlaceDialog": "True",
         "FFlagComponentManagerAddDataModelProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:01:47",
         "FFlagAcousticSimulationWriteFavoringLocks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:15:24",
@@ -14017,6 +14015,7 @@
         "FFlagFoundationToastNotification_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:32:13",
         "FFlagUIEditorNoPartSelection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:47:08",
         "FFlagStudioMakeUpdateManagerAsync_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-09T18:56:33",
+        "FFlagActionsBridgeListenToPluginActionsIconChanged": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14417,9 +14416,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "b0c51205a18f2e66f99f9183e8a14d8490bb935d",
-        "DFStringFlagRepoGitHashDynamicString": "b0c51205a18f2e66f99f9183e8a14d8490bb935d",
-        "FStringFlipTimeStampFastString": "2025-10-09T18:59:26.652Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-09T18:59:26.652Z"
+        "FStringFlagRepoGitHashFastString": "8d089df3d263fabd1e139fd7abd079dff8e7743c",
+        "DFStringFlagRepoGitHashDynamicString": "8d089df3d263fabd1e139fd7abd079dff8e7743c",
+        "FStringFlipTimeStampFastString": "2025-10-09T19:01:33.423Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-09T19:01:33.423Z"
     }
 }
