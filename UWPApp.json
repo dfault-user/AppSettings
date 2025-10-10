@@ -12283,6 +12283,7 @@
         "FFlagStudioDumpWindowHierarchyToLog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-10T17:55:14",
         "DFFlagMicroProfilerMemoryTrackingAlert_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-10T17:59:58",
         "AllowVideoPreRoll": "True",
+        "FFlagLuaAppLayoutParamsInContext_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-10T18:17:38",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12583,9 +12584,10 @@
         "DFFlagRaknetPacketTracing": "True",
         "FFlagVideoPlaybackManager2": "True",
         "FFlagDisableMemoryTrackingRollout2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-10T18:08:11",
-        "FStringFlagRepoGitHashFastString": "80cfcea7d50370f212ab17982d1c0d0ef0e3f3c5",
-        "DFStringFlagRepoGitHashDynamicString": "80cfcea7d50370f212ab17982d1c0d0ef0e3f3c5",
-        "FStringFlipTimeStampFastString": "2025-10-10T18:19:58.961Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-10T18:19:58.961Z"
+        "DFFlagHttpCurlHttp2Enabled2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1268109821;2025-10-10T18:17:24",
+        "FStringFlagRepoGitHashFastString": "24a7d3b89cf90374e978d86deb98c44f04bfe48a",
+        "DFStringFlagRepoGitHashDynamicString": "24a7d3b89cf90374e978d86deb98c44f04bfe48a",
+        "FStringFlipTimeStampFastString": "2025-10-10T18:21:00.876Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-10T18:21:00.876Z"
     }
 }
