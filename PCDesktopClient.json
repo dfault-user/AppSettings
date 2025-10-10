@@ -12283,6 +12283,7 @@
         "AllowVideoPreRoll": "True",
         "FFlagStudioDumpWindowHierarchyToLog": "True",
         "DFFlagMicroProfilerMemoryTrackingAlert": "True",
+        "FFlagLightOcclusionCull2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-10T19:31:28",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12754,7 +12755,7 @@
         "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2;2020456011;dev_controlled",
         "FFlagAXCustomizeOverhaulEditorExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
         "FFlagAXCustomizeOverhaulCatalogExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
-        "FFlagVoiceForceRunOnLeave": "False",
+        "FFlagVoiceForceRunOnLeave": "True",
         "DFFlagProcessStatisticsMemoryFix": "True",
         "DFFlagCLI171730AddSizeCheck": "True",
         "FFlagEnableNapIxpLayerExposure_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesignNoVR.2025Q4;1465647331;dev_controlled",
@@ -12767,7 +12768,6 @@
         "DFFlagRaknetPacketTracing": "True",
         "FFlagAXRootSlotBasedEditorFlag5": "False",
         "FFlagNewMemoryTarget": "True",
-        "FFlagVoiceForceRunOnLeave_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-10T18:27:32",
         "FIntVideoCaptureMaxLongSide": "1920",
         "FIntVideoCaptureMaxLongSideLowMem": "1280",
         "FIntVideoCaptureMaxShortSide": "1080",
@@ -13236,9 +13236,9 @@
         "DFFlagEarlyReturnScrollingDisabled2": "True",
         "FFlagVideoPlaybackManager2": "True",
         "FFlagDisableMemoryTrackingRollout2": "True",
-        "FStringFlagRepoGitHashFastString": "9d04c54d37227d35137972736a86815146b8daa5",
-        "DFStringFlagRepoGitHashDynamicString": "9d04c54d37227d35137972736a86815146b8daa5",
-        "FStringFlipTimeStampFastString": "2025-10-10T19:22:39.143Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-10T19:22:39.143Z"
+        "FStringFlagRepoGitHashFastString": "b0cce1dba32be020c2d4d5e29ed4f3e6faa27b7d",
+        "DFStringFlagRepoGitHashDynamicString": "b0cce1dba32be020c2d4d5e29ed4f3e6faa27b7d",
+        "FStringFlipTimeStampFastString": "2025-10-10T19:33:26.383Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-10T19:33:26.383Z"
     }
 }
