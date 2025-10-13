@@ -12290,8 +12290,6 @@
         "FFlagLuaAppFocusRefRegistryRaceFix": "True",
         "FFlagOpenTelemetryUseRCCSpecificServiceName": "True",
         "FFlagFixLoadingScreenNetworkingRollout": "True",
-        "FFlagAddNewPlayerListMobileFocusNav2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:15:42",
-        "FIntFixLoadingScreenNetworkingPerThousand_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1916740256;2025-10-13T20:19:41",
         "DFFlagTDigestShared2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:27:31",
         "FFlagRenderEISAReborn2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:29:59",
         "FFlagOpenTelemetryHasBuildString_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;132085623;2025-10-13T20:35:51",
@@ -12310,6 +12308,11 @@
         "FFlagCheckPlayerListFocusNavSupported": "True",
         "FFlagFixContentProviderAPIsForAssetProvider2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:17:03",
         "FFlagSupportFocusNavigationForExplicitFeedback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:17:41",
+        "DFFlagGCJobMRFRegionCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:18:31",
+        "FFlagAXFixRowShiftInResultsList_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:19:04",
+        "FIntFixLoadingScreenNetworkingPerThousand": "10",
+        "FFlagAddNewPlayerListMobileFocusNav2": "True",
+        "FFlagAXItemDetailsShouldNotHaveQuickMenuButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:20:43",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12613,9 +12616,9 @@
         "FFlagDisableMemoryTrackingRollout2": "True",
         "DFFlagMicroprofilerHiddenClicksFix": "True",
         "DFFlagMicroprofilerPersistOffMode": "True",
-        "FStringFlagRepoGitHashFastString": "c06fbc8145a4c49d09d2c85bcaafeed2f2adc129",
-        "DFStringFlagRepoGitHashDynamicString": "c06fbc8145a4c49d09d2c85bcaafeed2f2adc129",
-        "FStringFlipTimeStampFastString": "2025-10-13T21:21:24.497Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T21:21:24.497Z"
+        "FStringFlagRepoGitHashFastString": "55ead3e0511723dc73e77ffcdf9bd97332fc636f",
+        "DFStringFlagRepoGitHashDynamicString": "55ead3e0511723dc73e77ffcdf9bd97332fc636f",
+        "FStringFlipTimeStampFastString": "2025-10-13T21:23:29.636Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T21:23:29.636Z"
     }
 }

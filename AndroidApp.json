@@ -12290,8 +12290,6 @@
         "FFlagLuaAppFocusRefRegistryRaceFix": "True",
         "FFlagOpenTelemetryUseRCCSpecificServiceName": "True",
         "FFlagFixLoadingScreenNetworkingRollout": "True",
-        "FFlagAddNewPlayerListMobileFocusNav2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:15:42",
-        "FIntFixLoadingScreenNetworkingPerThousand_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1916740256;2025-10-13T20:19:41",
         "DFFlagTDigestShared2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:27:31",
         "AxisAdornmentGrabSize": "12",
         "FFlagOpenTelemetryHasBuildString_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;132085623;2025-10-13T20:35:51",
@@ -12311,6 +12309,10 @@
         "FFlagFixContentProviderAPIsForAssetProvider2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:17:03",
         "FFlagSupportFocusNavigationForExplicitFeedback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:17:41",
         "AllowVideoPreRoll": "True",
+        "FFlagAXFixRowShiftInResultsList_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:19:04",
+        "FIntFixLoadingScreenNetworkingPerThousand": "10",
+        "FFlagAddNewPlayerListMobileFocusNav2": "True",
+        "FFlagAXItemDetailsShouldNotHaveQuickMenuButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:20:43",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -13231,9 +13233,9 @@
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
         "FFlagVoiceRtcStatsEnabled8_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
-        "FStringFlagRepoGitHashFastString": "3e20e93dd0b045be7bd8f88cb86e8f58f98a6810",
-        "DFStringFlagRepoGitHashDynamicString": "3e20e93dd0b045be7bd8f88cb86e8f58f98a6810",
-        "FStringFlipTimeStampFastString": "2025-10-13T21:21:48.045Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T21:21:48.045Z"
+        "FStringFlagRepoGitHashFastString": "55ead3e0511723dc73e77ffcdf9bd97332fc636f",
+        "DFStringFlagRepoGitHashDynamicString": "55ead3e0511723dc73e77ffcdf9bd97332fc636f",
+        "FStringFlipTimeStampFastString": "2025-10-13T21:23:29.636Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T21:23:29.636Z"
     }
 }
