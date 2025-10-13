@@ -12268,7 +12268,7 @@
         "FFlagTopBarSignalizeMenuOpen_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;193731139;flagbank",
         "FFlagTopBarSignalizeScreenSize2_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;193731139;flagbank",
         "FFlagTopBarSignalizeSetCores_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;193731139;flagbank",
-        "FFlagNetworkSchemaVersionServerBit": "True",
+        "FFlagNetworkSchemaVersionServerBit": "False",
         "FFlagAddAccountLinkingAlertAnalytics": "True",
         "FFlagAXAddInventoryItemsListProps": "False",
         "FFlagAXGeneralizeInventoryItemsList": "False",
@@ -12282,9 +12282,6 @@
         "DFFlagMicroProfilerMemoryTrackingAlert": "True",
         "FFlagVoiceGenerateAndRunOperationsScopedTelemetryEnabled": "True",
         "DFFlagEarlyReturnScrollingDisabled2": "True",
-        "FFlagNetworkSchemaVersionServerBit_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1185540156;2025-10-13T18:32:22",
-        "DFFlagFixCaptureTempFileCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T18:32:53",
-        "FFlagRemoveRecordPage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T18:33:51",
         "FFlagLuaAppFocusRefRegistryRaceFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T18:47:30",
         "DFFlagSimDCDEnableWithoutRollout2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T18:49:30",
         "FFlagOpenTelemetryUseRCCSpecificServiceName_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;924560571;2025-10-13T19:07:23",
@@ -12293,6 +12290,8 @@
         "FFlagLuaAppGameClickRowData2": "True",
         "DFFlagSimPhysicsConfigDataPostSet": "True",
         "FFlagReverbAbsorptionFieldFileFormat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:26:14",
+        "FFlagRemoveRecordPage": "True",
+        "DFFlagFixCaptureTempFileCheck": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13193,9 +13192,9 @@
         "FFlagLuaAppAddSduiGameRowTelemetry": "True",
         "FFlagLuaAppAddSchemaFieldsToPlayIntent": "True",
         "FFlagSocialCarouselAddFriendsActionType": "True",
-        "FStringFlagRepoGitHashFastString": "84779f0c27f697467f6c9fca64ff9fdf9f7c41ce",
-        "DFStringFlagRepoGitHashDynamicString": "84779f0c27f697467f6c9fca64ff9fdf9f7c41ce",
-        "FStringFlipTimeStampFastString": "2025-10-13T19:35:50.649Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T19:35:50.649Z"
+        "FStringFlagRepoGitHashFastString": "add15bca5a54cbd84729e68d313eb02e692046cc",
+        "DFStringFlagRepoGitHashDynamicString": "add15bca5a54cbd84729e68d313eb02e692046cc",
+        "FStringFlipTimeStampFastString": "2025-10-13T19:37:48.402Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T19:37:48.402Z"
     }
 }
