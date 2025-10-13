@@ -12288,8 +12288,6 @@
         "DFFlagFixCaptureTempFileCheck": "True",
         "DFFlagSimDCDEnableWithoutRollout2": "True",
         "FFlagLuaAppFocusRefRegistryRaceFix": "True",
-        "FFlagFixMenuButtonsDisablePolyfill_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:05:50",
-        "FFlagRemovePeoplePageFoundationProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:06:32",
         "FFlagOpenTelemetryUseRCCSpecificServiceName": "True",
         "FFlagFixLoadingScreenNetworkingRollout": "True",
         "FFlagCheckPlayerListFocusNavSupported_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:10:50",
@@ -12307,6 +12305,9 @@
         "FFlagLuaAppAvoidPushUpsellConflicts": "True",
         "FFlagLuaAppFocusNavigationRegistryStack": "True",
         "DFIntExpChatMessageClientRenderedThrottlePermyriad_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;51287375;2025-10-13T21:03:35",
+        "FFlagFixMenuButtonsDisablePolyfill": "True",
+        "FFlagRemovePeoplePageFoundationProvider": "True",
+        "FIntUGCValidateMaxSensibleBinaryStringLength_Staged": "15000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;304978244;2025-10-13T21:12:52",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12795,8 +12796,8 @@
         "FFlagRenderEISAReborn2": "True",
         "DFFlagGCJobMRFRegionCleanup": "True",
         "FFlagCustomParticleFlipbookLayout3": "True",
-        "DFFlagMicroprofilerHiddenClicksFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:09:31",
         "DFFlagMicroprofilerPersistOffMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:10:30",
+        "DFFlagMicroprofilerHiddenClicksFix": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13274,9 +13275,9 @@
         "FFlagAXAddInventoryItemsListProps_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;150869807;dev_controlled",
         "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1499707217;dev_controlled",
         "FFlagAXImproveSlotBasedEditorPerformance_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;193760623;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "4fa0d88b6ac3ff59978151f5e91016203e1981fc",
-        "DFStringFlagRepoGitHashDynamicString": "4fa0d88b6ac3ff59978151f5e91016203e1981fc",
-        "FStringFlipTimeStampFastString": "2025-10-13T21:07:37.545Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T21:07:37.545Z"
+        "FStringFlagRepoGitHashFastString": "ba313e977d9dcacc37cb6ef241a4348f3f176d06",
+        "DFStringFlagRepoGitHashDynamicString": "ba313e977d9dcacc37cb6ef241a4348f3f176d06",
+        "FStringFlipTimeStampFastString": "2025-10-13T21:14:42.401Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T21:14:42.401Z"
     }
 }
