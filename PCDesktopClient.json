@@ -12306,6 +12306,7 @@
         "FIntFixLoadingScreenNetworkingPerThousand_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1916740256;2025-10-13T20:19:41",
         "DFFlagTDigestShared2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:27:31",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagOpenTelemetryHasBuildString_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;132085623;2025-10-13T20:35:51",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12773,7 +12774,6 @@
         "DFFlagFixPrimitiveShapeInertiaMigration": "True",
         "FFlagAXItemDetailsShouldNotHaveQuickMenuButton": "True",
         "DFFlagNoCallstackAppendTarget": "True",
-        "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2;2020456011;dev_controlled",
         "FFlagAXCustomizeOverhaulEditorExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
         "FFlagVoiceForceRunOnLeave": "False",
         "DFFlagProcessStatisticsMemoryFix": "True",
@@ -13270,9 +13270,10 @@
         "FFlagSocialCarouselAddFriendsActionType": "True",
         "FFlagFixUIRayGoingThruExistingVerts4": "True",
         "FFlagAXGeneralizeInventoryItemsList_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;253061301;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "3c24faefb763376184f09c66166ecf013b7c3f42",
-        "DFStringFlagRepoGitHashDynamicString": "3c24faefb763376184f09c66166ecf013b7c3f42",
-        "FStringFlipTimeStampFastString": "2025-10-13T20:32:45.474Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:32:45.474Z"
+        "FFlagAXCustomizeOverhaulCatalogExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1693274933;dev_controlled",
+        "FStringFlagRepoGitHashFastString": "72fe7f5cee675764e8f14f0f5ddfef6d9446ce5c",
+        "DFStringFlagRepoGitHashDynamicString": "72fe7f5cee675764e8f14f0f5ddfef6d9446ce5c",
+        "FStringFlipTimeStampFastString": "2025-10-13T20:37:16.002Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:37:16.002Z"
     }
 }
