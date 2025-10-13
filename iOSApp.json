@@ -11612,7 +11612,6 @@
         "FFlagChatIntegrationFixShortcut": "True",
         "FFlagUIBloxFixModalBottomSheetSelectable": "True",
         "FFlagAXRemoveTryOnManagerAvatarScreen": "True",
-        "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
         "FFlagVideoWinEncodeSampleTracking": "True",
         "DFIntISRInstanceBlockTimeoutWorldSteps": "2400",
         "UseApplicationLifecycleCallbacks": "false",
@@ -12283,7 +12282,6 @@
         "DFFlagMicroProfilerMemoryTrackingAlert": "True",
         "FFlagVoiceGenerateAndRunOperationsScopedTelemetryEnabled": "True",
         "DFFlagEarlyReturnScrollingDisabled2": "True",
-        "DFFlagSimPhysicsConfigDataPostSet_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T18:21:29",
         "FFlagNetworkSchemaVersionServerBit_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1185540156;2025-10-13T18:32:22",
         "DFFlagFixCaptureTempFileCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T18:32:53",
         "FFlagRemoveRecordPage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T18:33:51",
@@ -12293,6 +12291,8 @@
         "FFlagFixLoadingScreenNetworkingRollout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:07:31",
         "FFlagExpChatUseUpdatedMessageRendered": "True",
         "FFlagLuaAppGameClickRowData2": "True",
+        "DFFlagSimPhysicsConfigDataPostSet": "True",
+        "FFlagReverbAbsorptionFieldFileFormat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:26:14",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13193,9 +13193,9 @@
         "FFlagLuaAppAddSduiGameRowTelemetry": "True",
         "FFlagLuaAppAddSchemaFieldsToPlayIntent": "True",
         "FFlagSocialCarouselAddFriendsActionType": "True",
-        "FStringFlagRepoGitHashFastString": "bafbcbf4408e2e35ec11b4ce496cfc7460bb107b",
-        "DFStringFlagRepoGitHashDynamicString": "bafbcbf4408e2e35ec11b4ce496cfc7460bb107b",
-        "FStringFlipTimeStampFastString": "2025-10-13T19:27:16.873Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T19:27:16.873Z"
+        "FStringFlagRepoGitHashFastString": "cf4e9eb30a6ad20853e6525fb8ef02c26b32fa8d",
+        "DFStringFlagRepoGitHashDynamicString": "cf4e9eb30a6ad20853e6525fb8ef02c26b32fa8d",
+        "FStringFlipTimeStampFastString": "2025-10-13T19:28:56.443Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T19:28:56.443Z"
     }
 }
