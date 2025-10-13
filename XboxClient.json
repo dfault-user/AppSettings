@@ -12288,7 +12288,6 @@
         "DFFlagFixCaptureTempFileCheck": "True",
         "DFFlagSimDCDEnableWithoutRollout2": "True",
         "FFlagLuaAppFocusRefRegistryRaceFix": "True",
-        "FFlagLuaAppFocusNavigationRegistryStack_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:52:08",
         "FFlagFixMenuButtonsDisablePolyfill_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:05:50",
         "FFlagRemovePeoplePageFoundationProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:06:32",
         "FFlagOpenTelemetryUseRCCSpecificServiceName": "True",
@@ -12306,6 +12305,7 @@
         "FFlagIrisCancelTeleport": "True",
         "FFlagAXBulkPurchaseAppCloseButtonPosition": "True",
         "FFlagLuaAppAvoidPushUpsellConflicts": "True",
+        "FFlagLuaAppFocusNavigationRegistryStack": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12673,9 +12673,9 @@
         "FFlagLuaAppAddSchemaFieldsToPlayIntent": "True",
         "FFlagCreateUncompressedRbxmForOta": "True",
         "FFlagSocialCarouselAddFriendsActionType": "True",
-        "FStringFlagRepoGitHashFastString": "24b80646068c92361fb666a461936913b06eca46",
-        "DFStringFlagRepoGitHashDynamicString": "24b80646068c92361fb666a461936913b06eca46",
-        "FStringFlipTimeStampFastString": "2025-10-13T20:59:29.359Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:59:29.359Z"
+        "FStringFlagRepoGitHashFastString": "c0f65eddd9fd4f72284d5b68a5a275dc0651ca78",
+        "DFStringFlagRepoGitHashDynamicString": "c0f65eddd9fd4f72284d5b68a5a275dc0651ca78",
+        "FStringFlipTimeStampFastString": "2025-10-13T20:59:46.638Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:59:46.638Z"
     }
 }
