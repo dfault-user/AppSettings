@@ -12305,6 +12305,7 @@
         "FFlagCheckPlayerListFocusNavSupported_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:10:50",
         "FFlagAddNewPlayerListMobileFocusNav2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:15:42",
         "FIntFixLoadingScreenNetworkingPerThousand_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1916740256;2025-10-13T20:19:41",
+        "DFFlagTDigestShared2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:27:31",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13187,7 +13188,7 @@
         "FFlagAXMigrateTryOnItemScreenToAutofocus": "True",
         "FFlagAXPeekViewContentShouldNotBeSelectable": "True",
         "FFlagAXItemDetailsShouldNotHaveQuickMenuButton": "True",
-        "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2;2020456011;dev_controlled",
+        "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1396338295;dev_controlled",
         "FFlagEnableNapIxpLayerExposure_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesignNoVR.2025Q4;1465647331;dev_controlled",
         "FFlagEnableNotApprovedPageV2_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesignNoVR.2025Q4;1465647331;dev_controlled",
         "FIntVideoMaxHardwareBufferInUse": "2",
@@ -13207,9 +13208,9 @@
         "FFlagEnableDoubleNotifRegistrationFixV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:08:39",
         "FFlagAXRootSlotBasedEditorFlag6_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;2081707497;dev_controlled",
         "FFlagAXImproveSlotBasedEditorPerformance_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1345573367;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "4e36c8a2f04aa540281e4d05f6f8aff3dbcd8b28",
-        "DFStringFlagRepoGitHashDynamicString": "4e36c8a2f04aa540281e4d05f6f8aff3dbcd8b28",
-        "FStringFlipTimeStampFastString": "2025-10-13T20:27:16.100Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:27:16.100Z"
+        "FStringFlagRepoGitHashFastString": "8cbb7d2ceaaada9b3739a19c3c78aeb3c8c9cee9",
+        "DFStringFlagRepoGitHashDynamicString": "8cbb7d2ceaaada9b3739a19c3c78aeb3c8c9cee9",
+        "FStringFlipTimeStampFastString": "2025-10-13T20:28:47.529Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:28:47.529Z"
     }
 }
