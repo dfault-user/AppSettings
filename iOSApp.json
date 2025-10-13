@@ -12294,7 +12294,7 @@
         "FFlagEnableV2SquadJoinButton2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:39:58",
         "FFlagIrisCancelTeleport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:41:24",
         "FFlagLuaAppAvoidPushUpsellConflicts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:48:05",
-        "AllowVideoPreRoll": "True",
+        "AxisAdornmentGrabSize": "12",
         "DFFlagSimDCDEnableWithoutRollout2": "True",
         "FFlagLuaAppFocusRefRegistryRaceFix": "True",
         "FFlagLuaAppFocusNavigationRegistryStack_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:52:08",
@@ -12306,7 +12306,7 @@
         "FFlagAddNewPlayerListMobileFocusNav2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:15:42",
         "FIntFixLoadingScreenNetworkingPerThousand_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1916740256;2025-10-13T20:19:41",
         "DFFlagTDigestShared2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:27:31",
-        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13208,9 +13208,10 @@
         "FFlagEnableDoubleNotifRegistrationFixV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:08:39",
         "FFlagAXRootSlotBasedEditorFlag6_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;2081707497;dev_controlled",
         "FFlagAXImproveSlotBasedEditorPerformance_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1345573367;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "8cbb7d2ceaaada9b3739a19c3c78aeb3c8c9cee9",
-        "DFStringFlagRepoGitHashDynamicString": "8cbb7d2ceaaada9b3739a19c3c78aeb3c8c9cee9",
-        "FStringFlipTimeStampFastString": "2025-10-13T20:28:47.529Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:28:47.529Z"
+        "FFlagAXGeneralizeInventoryItemsList_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;253061301;dev_controlled",
+        "FStringFlagRepoGitHashFastString": "1d03e28f34f1d10317c9a606f64e1846ac6ee938",
+        "DFStringFlagRepoGitHashDynamicString": "1d03e28f34f1d10317c9a606f64e1846ac6ee938",
+        "FStringFlipTimeStampFastString": "2025-10-13T20:31:38.192Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:31:38.192Z"
     }
 }
