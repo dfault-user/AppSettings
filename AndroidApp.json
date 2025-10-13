@@ -12284,6 +12284,7 @@
         "FFlagVoiceGenerateAndRunOperationsScopedTelemetryEnabled": "True",
         "DFFlagEarlyReturnScrollingDisabled2": "True",
         "DFIntConvexDecompCompressionSelector_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1975672446;2025-10-13T17:26:33",
+        "FFlagExpChatUseUpdatedMessageRendered_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1583492730;2025-10-13T18:09:59",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13200,12 +13201,11 @@
         "FFlagLuaAppAddSduiGameRowTelemetry": "True",
         "FFlagCustomParticleFlipbookLayout3": "True",
         "FFlagLuaAppAddSchemaFieldsToPlayIntent": "True",
-        "FFlagExpChatUseUpdatedMessageRendered_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;670116773;2025-10-13T17:51:01",
         "FFlagCreateUncompressedRbxmForOta": "True",
         "FFlagUseAndroidPaymentsProtocolSurfacePreparePaymentErrorMessages_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T18:04:20",
-        "FStringFlagRepoGitHashFastString": "12e494ffc4868054bbb64e65147f40a2ab65275f",
-        "DFStringFlagRepoGitHashDynamicString": "12e494ffc4868054bbb64e65147f40a2ab65275f",
-        "FStringFlipTimeStampFastString": "2025-10-13T18:06:51.048Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T18:06:51.048Z"
+        "FStringFlagRepoGitHashFastString": "7212def605fde1cd0cedd25e24ed02fb25dc9856",
+        "DFStringFlagRepoGitHashDynamicString": "7212def605fde1cd0cedd25e24ed02fb25dc9856",
+        "FStringFlipTimeStampFastString": "2025-10-13T18:13:00.107Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T18:13:00.107Z"
     }
 }
