@@ -13186,8 +13186,6 @@
         "EnableFullDiskUsageTelemetry": "True",
         "FFlagVideoPlaybackManager2": "True",
         "FFlagDisableMemoryTrackingRollout2": "True",
-        "FFlagLuaAppAddSduiGameRowTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T16:41:24",
-        "DFFlagGCJobMRFRegionCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T16:43:53",
         "FFlagLuaAppAddSchemaFieldsToPlayIntent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T16:45:32",
         "FFlagCustomParticleFlipbookLayout3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T16:48:45",
         "FFlagCreateUncompressedRbxmForOta_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T16:57:33",
@@ -13201,9 +13199,11 @@
         "FFlagLuaAppUpdateSearchGameGridImpressionsTag": "True",
         "FFlagRbxStorageSkipPermOrphanedFiles_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T17:40:22",
         "FFlagLuaAppGameClicksMoreSchemaFields": "True",
-        "FStringFlagRepoGitHashFastString": "b61c03a9f920a5cc66b2b0854624a3fa6e8b9f7f",
-        "DFStringFlagRepoGitHashDynamicString": "b61c03a9f920a5cc66b2b0854624a3fa6e8b9f7f",
-        "FStringFlipTimeStampFastString": "2025-10-13T17:44:54.204Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T17:44:54.204Z"
+        "DFFlagGCJobMRFRegionCleanup": "True",
+        "FFlagLuaAppAddSduiGameRowTelemetry": "True",
+        "FStringFlagRepoGitHashFastString": "35b5a7fa3caf9da8d230afc1d51fe7b23b0d27fa",
+        "DFStringFlagRepoGitHashDynamicString": "35b5a7fa3caf9da8d230afc1d51fe7b23b0d27fa",
+        "FStringFlipTimeStampFastString": "2025-10-13T17:47:54.488Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T17:47:54.488Z"
     }
 }
