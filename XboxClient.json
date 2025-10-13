@@ -12309,6 +12309,8 @@
         "FIntUGCValidateMaxSensibleBinaryStringLength_Staged": "15000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;304978244;2025-10-13T21:12:52",
         "FFlagCheckPlayerListFocusNavSupported": "True",
         "FFlagFixContentProviderAPIsForAssetProvider2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:17:03",
+        "FFlagSupportFocusNavigationForExplicitFeedback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:17:41",
+        "DFFlagGCJobMRFRegionCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:18:31",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12676,9 +12678,9 @@
         "FFlagLuaAppAddSchemaFieldsToPlayIntent": "True",
         "FFlagCreateUncompressedRbxmForOta": "True",
         "FFlagSocialCarouselAddFriendsActionType": "True",
-        "FStringFlagRepoGitHashFastString": "96c878726eea7a641195acdaba1fa7aaf9d41a35",
-        "DFStringFlagRepoGitHashDynamicString": "96c878726eea7a641195acdaba1fa7aaf9d41a35",
-        "FStringFlipTimeStampFastString": "2025-10-13T21:18:32.219Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T21:18:32.219Z"
+        "FStringFlagRepoGitHashFastString": "3e20e93dd0b045be7bd8f88cb86e8f58f98a6810",
+        "DFStringFlagRepoGitHashDynamicString": "3e20e93dd0b045be7bd8f88cb86e8f58f98a6810",
+        "FStringFlipTimeStampFastString": "2025-10-13T21:21:48.045Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T21:21:48.045Z"
     }
 }
