@@ -9508,7 +9508,6 @@
         "FIntLuaAppEdpMediaGalleryVideoDwellTimeInHundredthsSec": "20",
         "FFlagReportAssetRequestType": "True",
         "FFlagFoundationSkipPopoverOnPressedOutsideWhenClickingAnchor": "True",
-        "FFlagEnableDoubleNotifRegistrationFixV2_IXP": "1;Portal.EnableDoubleNotifRegistrationFixV2-1752599897;EnableDoubleNotifRegistrationFixV2;1249476439;flagbank",
         "FFlagAppIaScrollAwayGuac": "True",
         "FFlagDownloadPlaceCopyFromWeb": "True",
         "FFlagFlagRolloutTestStaticBool13": "False",
@@ -12302,6 +12301,8 @@
         "DFFlagSimDCDEnableWithoutRollout2": "True",
         "FFlagLuaAppFocusRefRegistryRaceFix": "True",
         "FFlagLuaAppFocusNavigationRegistryStack_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:52:08",
+        "FFlagFixMenuButtonsDisablePolyfill_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:05:50",
+        "FFlagRemovePeoplePageFoundationProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:06:32",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12603,9 +12604,9 @@
         "DFFlagRaknetPacketTracing": "True",
         "FFlagVideoPlaybackManager2": "True",
         "FFlagDisableMemoryTrackingRollout2": "True",
-        "FStringFlagRepoGitHashFastString": "3c53dd009949b26e109cc667d904d7e008d5c5c4",
-        "DFStringFlagRepoGitHashDynamicString": "3c53dd009949b26e109cc667d904d7e008d5c5c4",
-        "FStringFlipTimeStampFastString": "2025-10-13T20:04:09.179Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:04:09.179Z"
+        "FStringFlagRepoGitHashFastString": "30b0acfb0dd6d9e4fd0a989a4ca4fbf8bbf1a144",
+        "DFStringFlagRepoGitHashDynamicString": "30b0acfb0dd6d9e4fd0a989a4ca4fbf8bbf1a144",
+        "FStringFlipTimeStampFastString": "2025-10-13T20:08:42.458Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:08:42.458Z"
     }
 }

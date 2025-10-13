@@ -12301,6 +12301,8 @@
         "DFFlagSimDCDEnableWithoutRollout2": "True",
         "FFlagLuaAppFocusRefRegistryRaceFix": "True",
         "FFlagLuaAppFocusNavigationRegistryStack_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:52:08",
+        "FFlagFixMenuButtonsDisablePolyfill_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:05:50",
+        "FFlagRemovePeoplePageFoundationProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T20:06:32",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13220,9 +13222,9 @@
         "FFlagEnableAckCallOnPushReceiveV3": "True",
         "FIntNativeAdClickReceivedEventThrottlingHundredthPercentage_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:32:44",
         "FIntNativeAdTouchedEventThrottlingHundredthPercentage_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:33:15",
-        "FStringFlagRepoGitHashFastString": "ff2bd00522d3e0aa20f8da7acf7181c9d1bd6295",
-        "DFStringFlagRepoGitHashDynamicString": "ff2bd00522d3e0aa20f8da7acf7181c9d1bd6295",
-        "FStringFlipTimeStampFastString": "2025-10-13T20:07:41.791Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:07:41.791Z"
+        "FStringFlagRepoGitHashFastString": "30b0acfb0dd6d9e4fd0a989a4ca4fbf8bbf1a144",
+        "DFStringFlagRepoGitHashDynamicString": "30b0acfb0dd6d9e4fd0a989a4ca4fbf8bbf1a144",
+        "FStringFlipTimeStampFastString": "2025-10-13T20:08:42.458Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:08:42.458Z"
     }
 }
