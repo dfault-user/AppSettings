@@ -13223,11 +13223,14 @@
         "FFlagRbxStorageSkipPermOrphanedFiles": "True",
         "FFlagUseAndroidPaymentsProtocolSurfacePreparePaymentErrorMessages": "True",
         "FFlagEnableAckCallOnPushReceiveV3": "True",
-        "FIntNativeAdClickReceivedEventThrottlingHundredthPercentage_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:32:44",
-        "FIntNativeAdTouchedEventThrottlingHundredthPercentage_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:33:15",
-        "FStringFlagRepoGitHashFastString": "72fe7f5cee675764e8f14f0f5ddfef6d9446ce5c",
-        "DFStringFlagRepoGitHashDynamicString": "72fe7f5cee675764e8f14f0f5ddfef6d9446ce5c",
-        "FStringFlipTimeStampFastString": "2025-10-13T20:37:16.002Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:37:16.002Z"
+        "FIntNativeAdClickReceivedEventThrottlingHundredthPercentage": "10000",
+        "FIntNativeAdTouchedEventThrottlingHundredthPercentage": "10000",
+        "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
+        "FFlagVoiceRtcStatsEnabled8_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
+        "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
+        "FStringFlagRepoGitHashFastString": "e51c448ef182e065294902c9c7766673ab75d875",
+        "DFStringFlagRepoGitHashDynamicString": "e51c448ef182e065294902c9c7766673ab75d875",
+        "FStringFlipTimeStampFastString": "2025-10-13T20:39:25.049Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:39:25.049Z"
     }
 }
