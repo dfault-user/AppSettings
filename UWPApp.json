@@ -12303,8 +12303,6 @@
         "FFlagCheckPlayerListFocusNavSupported": "True",
         "FIntFixLoadingScreenNetworkingPerThousand": "10",
         "FFlagAddNewPlayerListMobileFocusNav2": "True",
-        "FFlagPlayerListAddConnectionButtonFocusNav_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:25:55",
-        "FFlagMobileSoundAndHapticsIXPBypass_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:28:40",
         "FFlagRenderEISAReborn2": "True",
         "DFFlagTDigestShared2": "True",
         "FIntFixLoadingScreenNetworkingPerThousand_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T21:37:09",
@@ -12321,6 +12319,8 @@
         "FFlagAXMigrateItemDetailsPeekViewToAutoFocus": "True",
         "FFlagAXMigrateTryOnItemScreenToAutofocus": "True",
         "FFlagPropertyFilterActionContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T22:28:58",
+        "FFlagPlayerListAddConnectionButtonFocusNav": "True",
+        "FFlagMobileSoundAndHapticsIXPBypass": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12624,9 +12624,9 @@
         "FFlagDisableMemoryTrackingRollout2": "True",
         "DFFlagMicroprofilerHiddenClicksFix": "True",
         "DFFlagMicroprofilerPersistOffMode": "True",
-        "FStringFlagRepoGitHashFastString": "f4ca0bd31e3e5d5e2b552522650a2f8bc2c09b22",
-        "DFStringFlagRepoGitHashDynamicString": "f4ca0bd31e3e5d5e2b552522650a2f8bc2c09b22",
-        "FStringFlipTimeStampFastString": "2025-10-13T22:32:32.018Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T22:32:32.018Z"
+        "FStringFlagRepoGitHashFastString": "d9a25bde17caa9ad29a235b130e6bfc6e0cf1ed9",
+        "DFStringFlagRepoGitHashDynamicString": "d9a25bde17caa9ad29a235b130e6bfc6e0cf1ed9",
+        "FStringFlipTimeStampFastString": "2025-10-13T22:36:38.030Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T22:36:38.030Z"
     }
 }
