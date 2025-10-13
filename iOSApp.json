@@ -12286,8 +12286,6 @@
         "DFFlagSimPhysicsConfigDataPostSet": "True",
         "FFlagRemoveRecordPage": "True",
         "DFFlagFixCaptureTempFileCheck": "True",
-        "FFlagLuaAppAvoidPushUpsellConflicts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:48:05",
-        "AxisAdornmentGrabSize": "12",
         "DFFlagSimDCDEnableWithoutRollout2": "True",
         "FFlagLuaAppFocusRefRegistryRaceFix": "True",
         "FFlagLuaAppFocusNavigationRegistryStack_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:52:08",
@@ -12306,6 +12304,9 @@
         "FFlagEnableV2SquadJoinButton2": "True",
         "FFlagExpChatFocusablePlaceholderText": "True",
         "FFlagIrisCancelTeleport": "True",
+        "FFlagAXBulkPurchaseAppCloseButtonPosition": "True",
+        "FFlagLuaAppAvoidPushUpsellConflicts": "True",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13121,7 +13122,6 @@
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagReportBatchedRaycastTelemetry": "True",
-        "FFlagAXBulkPurchaseAppCloseButtonPosition": "True",
         "FFlagDiffractionSolverUsesGraphicsQualityLevel": "True",
         "FFlagInhibitPeopleRenderOnLeaveAndJoin_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
         "FFlagMemoizePersonButton_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
@@ -13209,9 +13209,9 @@
         "FFlagAXGeneralizeInventoryItemsList_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;253061301;dev_controlled",
         "FFlagAXAddInventoryItemsListProps_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;150869807;dev_controlled",
         "FFlagAXCustomizeOverhaulCatalogExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1693274933;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "0d1ff575f37e131fe0003334d3c28ebf72536a34",
-        "DFStringFlagRepoGitHashDynamicString": "0d1ff575f37e131fe0003334d3c28ebf72536a34",
-        "FStringFlipTimeStampFastString": "2025-10-13T20:49:05.330Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:49:05.330Z"
+        "FStringFlagRepoGitHashFastString": "e34481d757e3af0bf0bdc313f99817ab5cb3cf29",
+        "DFStringFlagRepoGitHashDynamicString": "e34481d757e3af0bf0bdc313f99817ab5cb3cf29",
+        "FStringFlipTimeStampFastString": "2025-10-13T20:53:33.502Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:53:33.502Z"
     }
 }

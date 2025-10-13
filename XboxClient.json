@@ -12286,8 +12286,6 @@
         "DFFlagSimPhysicsConfigDataPostSet": "True",
         "FFlagRemoveRecordPage": "True",
         "DFFlagFixCaptureTempFileCheck": "True",
-        "FFlagLuaAppAvoidPushUpsellConflicts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:48:05",
-        "FFlagAXBulkPurchaseAppCloseButtonPosition_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1827146429;2025-10-13T19:48:38",
         "DFFlagSimDCDEnableWithoutRollout2": "True",
         "FFlagLuaAppFocusRefRegistryRaceFix": "True",
         "FFlagLuaAppFocusNavigationRegistryStack_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:52:08",
@@ -12306,6 +12304,8 @@
         "FFlagEnableV2SquadJoinButton2": "True",
         "FFlagExpChatFocusablePlaceholderText": "True",
         "FFlagIrisCancelTeleport": "True",
+        "FFlagAXBulkPurchaseAppCloseButtonPosition": "True",
+        "FFlagLuaAppAvoidPushUpsellConflicts": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12673,9 +12673,9 @@
         "FFlagLuaAppAddSchemaFieldsToPlayIntent": "True",
         "FFlagCreateUncompressedRbxmForOta": "True",
         "FFlagSocialCarouselAddFriendsActionType": "True",
-        "FStringFlagRepoGitHashFastString": "0d1ff575f37e131fe0003334d3c28ebf72536a34",
-        "DFStringFlagRepoGitHashDynamicString": "0d1ff575f37e131fe0003334d3c28ebf72536a34",
-        "FStringFlipTimeStampFastString": "2025-10-13T20:49:05.330Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:49:05.330Z"
+        "FStringFlagRepoGitHashFastString": "e34481d757e3af0bf0bdc313f99817ab5cb3cf29",
+        "DFStringFlagRepoGitHashDynamicString": "e34481d757e3af0bf0bdc313f99817ab5cb3cf29",
+        "FStringFlipTimeStampFastString": "2025-10-13T20:53:33.502Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T20:53:33.502Z"
     }
 }
