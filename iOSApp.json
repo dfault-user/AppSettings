@@ -12292,6 +12292,8 @@
         "FFlagRemoveRecordPage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T18:33:51",
         "FFlagLuaAppFocusRefRegistryRaceFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T18:47:30",
         "DFFlagSimDCDEnableWithoutRollout2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T18:49:30",
+        "FFlagOpenTelemetryUseRCCSpecificServiceName_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;924560571;2025-10-13T19:07:23",
+        "FFlagFixLoadingScreenNetworkingRollout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T19:07:31",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13192,9 +13194,9 @@
         "FFlagLuaAppAddSduiGameRowTelemetry": "True",
         "FFlagLuaAppAddSchemaFieldsToPlayIntent": "True",
         "FFlagSocialCarouselAddFriendsActionType": "True",
-        "FStringFlagRepoGitHashFastString": "8cb11706cce07ee952d8636a21b2d30074e03427",
-        "DFStringFlagRepoGitHashDynamicString": "8cb11706cce07ee952d8636a21b2d30074e03427",
-        "FStringFlipTimeStampFastString": "2025-10-13T19:00:36.879Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T19:00:36.879Z"
+        "FStringFlagRepoGitHashFastString": "f3cb994543ad245df01d1ebe0521cc756fa79b37",
+        "DFStringFlagRepoGitHashDynamicString": "f3cb994543ad245df01d1ebe0521cc756fa79b37",
+        "FStringFlipTimeStampFastString": "2025-10-13T19:09:47.015Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T19:09:47.015Z"
     }
 }
