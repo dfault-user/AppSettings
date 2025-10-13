@@ -12306,7 +12306,6 @@
         "FFlagRenderEISAReborn2": "True",
         "DFFlagTDigestShared2": "True",
         "FFlagOpenTelemetryHasBuildString": "True",
-        "FFlagLuaAppDisableStickyBarMediaGallery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1564254848;2025-10-13T21:46:49",
         "DFIntExpChatMessageClientRenderedThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;51287375;2025-10-13T22:14:35",
         "FIntUGCValidateMaxSensibleBinaryStringLength": "15000",
         "DFFlagGCJobMRFRegionCleanup": "True",
@@ -12322,6 +12321,7 @@
         "FFlagMobileSoundAndHapticsIXPBypass": "True",
         "FFlagCapturePermissionsPromptUseFoundation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1635414341;2025-10-13T22:31:58",
         "FFlagCommitScriptActionContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T22:46:59",
+        "FFlagLuaAppDisableStickyBarMediaGallery": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13242,9 +13242,9 @@
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
         "FFlagVoiceRtcStatsEnabled8_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
-        "FStringFlagRepoGitHashFastString": "24bcd9c87027bdf779843e4fa8051167aefc54e4",
-        "DFStringFlagRepoGitHashDynamicString": "24bcd9c87027bdf779843e4fa8051167aefc54e4",
-        "FStringFlipTimeStampFastString": "2025-10-13T22:49:56.832Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-13T22:49:56.832Z"
+        "FStringFlagRepoGitHashFastString": "84bddceea89ad293a5bffac36669471414291bd4",
+        "DFStringFlagRepoGitHashDynamicString": "84bddceea89ad293a5bffac36669471414291bd4",
+        "FStringFlipTimeStampFastString": "2025-10-13T22:51:40.641Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-13T22:51:40.641Z"
     }
 }
