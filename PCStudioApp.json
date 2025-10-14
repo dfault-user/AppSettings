@@ -12331,7 +12331,6 @@
         "FFlagLuaAppUpdateSearchGameGridImpressionsTag": "True",
         "FFlagAXTryOnEmotes": "True",
         "FFlagAXTryOnBundleAnimations": "True",
-        "FFlagReadMp4AudioBitrate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T17:29:32",
         "DFFlagSetOpusBitrate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T17:32:01",
         "FIntExpChatMessageRenderUserThrottlePermyriad_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;53678546;2025-10-14T17:34:04",
         "AllowVideoPreRoll": "True",
@@ -12349,6 +12348,9 @@
         "FFlagAXAvatarWearAfterPurchaseBypassLimits2": "True",
         "FFlagVideoPlaybackManager2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:26:52",
         "FFlagVideoHandleEarlyServiceShutdown_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:28:34",
+        "FFlagReadMp4AudioBitrate": "True",
+        "FFlagMoveAmpUpsellOffNavigateDown_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:31:17",
+        "DFFlagVoiceChatCheckAgeConstraintsForSubscriptions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:32:33",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14120,8 +14122,8 @@
         "FIntUGCValidateMaxSensibleSharedStringLength": "150000",
         "FFlagUGCValidatePropertiesSensible2": "True",
         "FFlagBetterComposeDecalBaseLayerDefaults": "True",
-        "FFlagRuntimeEnabled13_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T17:27:40",
         "FFlagPluginHangMonitorExperimentation_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:12:20",
+        "FFlagRuntimeEnabled13": "False",
         "FFlagGameBasicSettingsFramerateCap5": "True",
         "DFIntEngineContextValidationReportingCap": "5",
         "FIntThrottleParticipantsUpdateMs2_PlaceFilter": "500;12123120785;7746948539",
@@ -14538,9 +14540,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "19751f49db1c58338426cb3dbcae21512f69577c",
-        "DFStringFlagRepoGitHashDynamicString": "19751f49db1c58338426cb3dbcae21512f69577c",
-        "FStringFlipTimeStampFastString": "2025-10-14T18:31:14.175Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-14T18:31:14.175Z"
+        "FStringFlagRepoGitHashFastString": "6dbe65cba69e2b7e0e54e3014af378302c201d8e",
+        "DFStringFlagRepoGitHashDynamicString": "6dbe65cba69e2b7e0e54e3014af378302c201d8e",
+        "FStringFlipTimeStampFastString": "2025-10-14T18:35:25.247Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-14T18:35:25.247Z"
     }
 }
