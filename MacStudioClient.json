@@ -12351,12 +12351,12 @@
         "FFlagVideoPlaybackManager2": "False",
         "DFFlagVoiceChatCheckAgeConstraintsForSubscriptions": "True",
         "FFlagMoveAmpUpsellOffNavigateDown": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "DFFlagInitTombstoneAfterBlockingFetch2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T20:43:42",
         "FFlagAXMigrateReportAvatarEventCounter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T20:44:04",
         "FFlagInExperienceContainerAppLinking": "True",
         "FFlagAXFixWidgetTileImpressions": "True",
         "FFlagLuaAppUpdateSponsoredTooltipSelectability2": "True",
+        "FFlagSimReduceSharedPtrUse": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14132,6 +14132,7 @@
         "DFFlagSimCSG4UseOperationGraphEvaluateNewAsync7": "True",
         "FFlagAddReloadScriptUri_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T21:10:56",
         "FFlagRemoveShowErrorMessageRobloxMainWindow2": "True",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14451,7 +14452,6 @@
         "FFlagVoiceAddWebrtClosedTransitionEnabled": "True",
         "DFFlagCLI169073": "True",
         "FFlagAXDisableGamepadPanning": "True",
-        "FFlagSimReduceSharedPtrUse": "True",
         "DFFlagVoiceSdpCompressionSendSizeTelemetry": "True",
         "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesUnexpectedValue": "True",
         "DFFlagVoiceSdpCompressionSendProtoParseErrorTelemetry": "True",
@@ -14524,9 +14524,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "34605d4a96bd2cfc715825c99e51726e16c4e57c",
-        "DFStringFlagRepoGitHashDynamicString": "34605d4a96bd2cfc715825c99e51726e16c4e57c",
-        "FStringFlipTimeStampFastString": "2025-10-14T21:25:51.136Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-14T21:25:51.136Z"
+        "FStringFlagRepoGitHashFastString": "f1b69508d01653d7d08ad7f6626a9f41b094763f",
+        "DFStringFlagRepoGitHashDynamicString": "f1b69508d01653d7d08ad7f6626a9f41b094763f",
+        "FStringFlipTimeStampFastString": "2025-10-14T21:32:04.238Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-14T21:32:04.238Z"
     }
 }
