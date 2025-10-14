@@ -12351,8 +12351,6 @@
         "FFlagVideoPlaybackManager2": "False",
         "DFFlagVoiceChatCheckAgeConstraintsForSubscriptions": "True",
         "FFlagMoveAmpUpsellOffNavigateDown": "True",
-        "AllowVideoPreRoll": "True",
-        "FFlagAXMigrateReportAvatarEventCounter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T20:44:04",
         "FFlagInExperienceContainerAppLinking": "True",
         "FFlagAXFixWidgetTileImpressions": "True",
         "FFlagLuaAppUpdateSponsoredTooltipSelectability2": "True",
@@ -12360,6 +12358,9 @@
         "FFlagSetTeamCreateRCCParam_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T21:32:35",
         "FIntFixLoadingScreenNetworkingPerThousand_Staged": "750;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T21:40:32",
         "DFFlagVideoCaptureWinVulkanForceSoftware_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T21:42:52",
+        "DFFlagInitTombstoneAfterBlockingFetch2": "False",
+        "FFlagAXMigrateReportAvatarEventCounter": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12695,7 +12696,6 @@
         "DFFlagEnableFeatureTimeoutMigration": "True",
         "FFlagXboxUsePrivacySettingsRequest": "True",
         "FFlagAXAdjustmentFullscreenFix": "True",
-        "DFFlagInitTombstoneAfterBlockingFetch2": "False",
         "FFlagEnableCreatorSubtitleNavigation_v2_IXP": "1;PlayerApp.GameDetailsPage.Exposure;App_EDP_Creator_Subtitle_Linking_To_Profile_V1;1531928792;flagbank",
         "FFlagAXMigratePurchasePromptInteractiveToFocusNavigation2": "True",
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
@@ -12723,9 +12723,9 @@
         "FFlagCreateUncompressedRbxmForOta": "True",
         "FFlagSocialCarouselAddFriendsActionType": "True",
         "DFFlagFlagCacheColdRun2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T21:10:53",
-        "FStringFlagRepoGitHashFastString": "55640a062e6f2d88085afac34429e018f0c8c6aa",
-        "DFStringFlagRepoGitHashDynamicString": "55640a062e6f2d88085afac34429e018f0c8c6aa",
-        "FStringFlipTimeStampFastString": "2025-10-14T21:47:33.628Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-14T21:47:33.628Z"
+        "FStringFlagRepoGitHashFastString": "a94a60f22ba193645150dd2b28b24544d17ee3da",
+        "DFStringFlagRepoGitHashDynamicString": "a94a60f22ba193645150dd2b28b24544d17ee3da",
+        "FStringFlipTimeStampFastString": "2025-10-14T21:48:14.064Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-14T21:48:14.064Z"
     }
 }

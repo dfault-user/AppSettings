@@ -12351,8 +12351,6 @@
         "FFlagVideoPlaybackManager2": "False",
         "DFFlagVoiceChatCheckAgeConstraintsForSubscriptions": "True",
         "FFlagMoveAmpUpsellOffNavigateDown": "True",
-        "AllowVideoPreRoll": "True",
-        "FFlagAXMigrateReportAvatarEventCounter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T20:44:04",
         "FFlagInExperienceContainerAppLinking": "True",
         "FFlagAXFixWidgetTileImpressions": "True",
         "FFlagLuaAppUpdateSponsoredTooltipSelectability2": "True",
@@ -12360,6 +12358,8 @@
         "FFlagSetTeamCreateRCCParam_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T21:32:35",
         "FIntFixLoadingScreenNetworkingPerThousand_Staged": "750;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T21:40:32",
         "DFFlagVideoCaptureWinVulkanForceSoftware_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T21:42:52",
+        "DFFlagInitTombstoneAfterBlockingFetch2": "False",
+        "FFlagAXMigrateReportAvatarEventCounter": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -12811,6 +12811,8 @@
         "DFFlagSimCSG4UseOperationGraphEvaluateNewAsync7": "True",
         "DFFlagWebSocketCurlErrBuf_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1261436992;2025-10-14T21:23:33",
         "DFFlagVideoMacEncodeFailedMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T21:44:38",
+        "FFlagVideoCaptureStopOnEncodeError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T21:46:01",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13221,7 +13223,6 @@
         "FFlagEnableLogBackgroundDMLocalPlayerTimeoutLogs": "True",
         "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage": "100",
         "FFlagBootcampCLI166654": "True",
-        "DFFlagInitTombstoneAfterBlockingFetch2": "False",
         "FFlagReportBatchedRaycastTelemetry": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagEditablePolicyCheckRetry": "True",
@@ -13253,9 +13254,9 @@
         "FFlagStepTransparencyEvenNotInteractable": "True",
         "DFFlagLineHeightRoundingIssue": "True",
         "DFFlagFlagCacheColdRun2": "True",
-        "FStringFlagRepoGitHashFastString": "55640a062e6f2d88085afac34429e018f0c8c6aa",
-        "DFStringFlagRepoGitHashDynamicString": "55640a062e6f2d88085afac34429e018f0c8c6aa",
-        "FStringFlipTimeStampFastString": "2025-10-14T21:47:33.628Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-14T21:47:33.628Z"
+        "FStringFlagRepoGitHashFastString": "a94a60f22ba193645150dd2b28b24544d17ee3da",
+        "DFStringFlagRepoGitHashDynamicString": "a94a60f22ba193645150dd2b28b24544d17ee3da",
+        "FStringFlipTimeStampFastString": "2025-10-14T21:48:14.064Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-14T21:48:14.064Z"
     }
 }
