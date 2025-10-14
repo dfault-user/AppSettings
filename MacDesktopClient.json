@@ -12347,6 +12347,8 @@
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "FFlagAXAvatarWearAfterPurchaseBypassLimits2": "True",
+        "AllowVideoPreRoll": "True",
+        "FFlagVideoHandleEarlyServiceShutdown_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:28:34",
         "DFFlagEnableFdTracking": "True",
         "FFlagIncreaseFileDescriptorLimit": "True",
         "FFlagVoxelGridFixUpsample": "True",
@@ -12796,7 +12798,6 @@
         "FFlagCustomParticleFlipbookLayout3": "True",
         "DFFlagMicroprofilerHiddenClicksFix": "True",
         "DFFlagMicroprofilerPersistOffMode": "True",
-        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13239,9 +13240,10 @@
         "FFlagAXImproveSlotBasedEditorPerformance_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;193760623;dev_controlled",
         "FFlagStepTransparencyEvenNotInteractable": "True",
         "DFFlagLineHeightRoundingIssue": "True",
-        "FStringFlagRepoGitHashFastString": "97b2506021b4e77683240c4a239dedabef5425b8",
-        "DFStringFlagRepoGitHashDynamicString": "97b2506021b4e77683240c4a239dedabef5425b8",
-        "FStringFlipTimeStampFastString": "2025-10-14T18:29:33.333Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-14T18:29:33.333Z"
+        "FFlagVideoPlaybackManager2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:26:52",
+        "FStringFlagRepoGitHashFastString": "19751f49db1c58338426cb3dbcae21512f69577c",
+        "DFStringFlagRepoGitHashDynamicString": "19751f49db1c58338426cb3dbcae21512f69577c",
+        "FStringFlipTimeStampFastString": "2025-10-14T18:31:14.175Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-14T18:31:14.175Z"
     }
 }
