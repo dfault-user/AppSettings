@@ -12365,6 +12365,8 @@
         "FFlagEnableMorePageExitButtonSupport2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T23:20:02",
         "FFlagWrapDeformerRespectsPartScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T23:22:37",
         "FFlagLuaAppGameTileEnableHoverForVR": "True",
+        "AllowVideoPreRoll": "True",
+        "FFlagFixLoadingScreenNetworkingForAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T23:47:34",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12816,7 +12818,6 @@
         "DFFlagWebSocketCurlErrBuf": "True",
         "DFFlagVideoMacEncodeFailedMetrics": "True",
         "FFlagVideoCaptureStopOnEncodeError": "True",
-        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13258,9 +13259,9 @@
         "FFlagStepTransparencyEvenNotInteractable": "True",
         "DFFlagLineHeightRoundingIssue": "True",
         "DFFlagFlagCacheColdRun2": "True",
-        "FStringFlagRepoGitHashFastString": "b48cefd8fda50fa59b40c0de7a44a163cd66d62a",
-        "DFStringFlagRepoGitHashDynamicString": "b48cefd8fda50fa59b40c0de7a44a163cd66d62a",
-        "FStringFlipTimeStampFastString": "2025-10-14T23:39:32.908Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-14T23:39:32.908Z"
+        "FStringFlagRepoGitHashFastString": "be9889828b56102df8cd529cf37fccd66735d5ec",
+        "DFStringFlagRepoGitHashDynamicString": "be9889828b56102df8cd529cf37fccd66735d5ec",
+        "FStringFlipTimeStampFastString": "2025-10-14T23:52:22.325Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-14T23:52:22.325Z"
     }
 }
