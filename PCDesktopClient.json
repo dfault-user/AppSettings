@@ -12330,7 +12330,6 @@
         "FFlagLuaAppSupportStringCollectionIdForSdui": "True",
         "FFlagLuaAppUpdateSearchGameGridImpressionsTag": "True",
         "FFlagAXTryOnEmotes": "True",
-        "FFlagAXAvatarWearAfterPurchaseBypassLimits2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T17:22:22",
         "FFlagAXTryOnBundleAnimations": "True",
         "FFlagReadMp4AudioBitrate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T17:29:32",
         "DFFlagSetOpusBitrate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T17:32:01",
@@ -12347,6 +12346,7 @@
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
+        "FFlagAXAvatarWearAfterPurchaseBypassLimits2": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
         "FFlagVoxelGridFixRegionChanged": "True",
@@ -13299,9 +13299,9 @@
         "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1499707217;dev_controlled",
         "FFlagAXImproveSlotBasedEditorPerformance_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;193760623;dev_controlled",
         "FFlagQuestNESO_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T17:36:42",
-        "FStringFlagRepoGitHashFastString": "ecf8f20ede1f93b83bd361ebd5a477c2e1d8a086",
-        "DFStringFlagRepoGitHashDynamicString": "ecf8f20ede1f93b83bd361ebd5a477c2e1d8a086",
-        "FStringFlipTimeStampFastString": "2025-10-14T18:26:13.585Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-14T18:26:13.585Z"
+        "FStringFlagRepoGitHashFastString": "97b2506021b4e77683240c4a239dedabef5425b8",
+        "DFStringFlagRepoGitHashDynamicString": "97b2506021b4e77683240c4a239dedabef5425b8",
+        "FStringFlipTimeStampFastString": "2025-10-14T18:29:33.333Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-14T18:29:33.333Z"
     }
 }

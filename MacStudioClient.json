@@ -12330,7 +12330,6 @@
         "FFlagLuaAppSupportStringCollectionIdForSdui": "True",
         "FFlagLuaAppUpdateSearchGameGridImpressionsTag": "True",
         "FFlagAXTryOnEmotes": "True",
-        "FFlagAXAvatarWearAfterPurchaseBypassLimits2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T17:22:22",
         "FFlagAXTryOnBundleAnimations": "True",
         "FFlagReadMp4AudioBitrate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T17:29:32",
         "DFFlagSetOpusBitrate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T17:32:01",
@@ -12347,6 +12346,8 @@
         "FFlagEnableAdsMouseUnlock": "True",
         "FFlagIncreaseFileDescriptorLimit": "True",
         "DFFlagEnableFdTracking": "True",
+        "FFlagAXAvatarWearAfterPurchaseBypassLimits2": "True",
+        "FFlagVideoPlaybackManager2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:26:52",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14512,9 +14513,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "ecf8f20ede1f93b83bd361ebd5a477c2e1d8a086",
-        "DFStringFlagRepoGitHashDynamicString": "ecf8f20ede1f93b83bd361ebd5a477c2e1d8a086",
-        "FStringFlipTimeStampFastString": "2025-10-14T18:26:13.585Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-14T18:26:13.585Z"
+        "FStringFlagRepoGitHashFastString": "d4d2d5d42a1145f7fd84ec0a5b4d007e1a71e581",
+        "DFStringFlagRepoGitHashDynamicString": "d4d2d5d42a1145f7fd84ec0a5b4d007e1a71e581",
+        "FStringFlipTimeStampFastString": "2025-10-14T18:29:58.288Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-14T18:29:58.288Z"
     }
 }
