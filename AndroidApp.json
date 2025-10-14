@@ -13240,16 +13240,15 @@
         "FFlagEnableDebugCtrTelemetry": "True",
         "FFlagRbxStorageSkipPermOrphanedFiles": "True",
         "FFlagUseAndroidPaymentsProtocolSurfacePreparePaymentErrorMessages": "True",
-        "FFlagEnableAckCallOnPushReceiveV3": "True",
+        "FFlagEnableAckCallOnPushReceiveV3": "False",
         "FIntNativeAdClickReceivedEventThrottlingHundredthPercentage": "10000",
         "FIntNativeAdTouchedEventThrottlingHundredthPercentage": "10000",
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
         "FFlagVoiceRtcStatsEnabled8_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
-        "FFlagEnableAckCallOnPushReceiveV3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-13T23:58:37",
-        "FStringFlagRepoGitHashFastString": "e8cfb7abcda89c61d9f0eb46bc366409ca0826dc",
-        "DFStringFlagRepoGitHashDynamicString": "e8cfb7abcda89c61d9f0eb46bc366409ca0826dc",
-        "FStringFlipTimeStampFastString": "2025-10-14T00:56:46.471Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-14T00:56:46.471Z"
+        "FStringFlagRepoGitHashFastString": "f3185143bfbd8735c319fed3a45b24f1c04da5b8",
+        "DFStringFlagRepoGitHashDynamicString": "f3185143bfbd8735c319fed3a45b24f1c04da5b8",
+        "FStringFlipTimeStampFastString": "2025-10-14T01:03:45.462Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-14T01:03:45.462Z"
     }
 }
