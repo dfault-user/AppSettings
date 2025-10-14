@@ -12345,6 +12345,8 @@
         "FFlagExplicitFeedbackAddNetworkingErrorToast_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:18:33",
         "FFlagFixProvideFeedbackToastPositioning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:19:18",
         "FFlagFixCheckboxFeedbackFormModalTermsOfUseWebView_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:19:56",
+        "FFlagLuaAppMitigatePopoverPressedOutsideBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:20:11",
+        "FFlagLuaAppSupportNewDefaultDialogBehavior_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T18:20:27",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13262,9 +13264,9 @@
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
         "FFlagVoiceRtcStatsEnabled8_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
-        "FStringFlagRepoGitHashFastString": "8467538dc6a8bcdd32a54a54384236c0eada0440",
-        "DFStringFlagRepoGitHashDynamicString": "8467538dc6a8bcdd32a54a54384236c0eada0440",
-        "FStringFlipTimeStampFastString": "2025-10-14T18:25:13.149Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-14T18:25:13.149Z"
+        "FStringFlagRepoGitHashFastString": "ecf8f20ede1f93b83bd361ebd5a477c2e1d8a086",
+        "DFStringFlagRepoGitHashDynamicString": "ecf8f20ede1f93b83bd361ebd5a477c2e1d8a086",
+        "FStringFlipTimeStampFastString": "2025-10-14T18:26:13.585Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-14T18:26:13.585Z"
     }
 }
