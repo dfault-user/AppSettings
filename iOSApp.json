@@ -12361,6 +12361,7 @@
         "DFFlagInitTombstoneAfterBlockingFetch2": "True",
         "FFlagAXMigrateReportAvatarEventCounter": "True",
         "FFlagRenderPeoplePageOnTabSwitch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1553323692;2025-10-14T21:59:13",
+        "FFlagLuaAppGameTileEnableHoverForVR_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-14T22:29:47",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13062,7 +13063,7 @@
         "FFlagUseAssetReadLogger": "True",
         "FFlagEnableUpdatedCaptureControls_v8": "False",
         "DFIntAssetReadLoggingThrottleHundredthsPercent": "100",
-        "FFlagAXCustomizeOverhaulEditorExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2;109200379;dev_controlled",
+        "FFlagAXCustomizeOverhaulEditorExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;569904381;dev_controlled",
         "FFlagAXRootSlotBasedEditorFlag_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaul-1752012755273;654785775;dev_controlled",
         "FFlagAXFixCheckOnEquippedAssets": "True",
         "FFlagAXFixCheckOnOutfitAssets": "True",
@@ -13252,9 +13253,9 @@
         "FFlagEnableiOSExternalKeyboards": "True",
         "FFlagEnablePartyTabNumberedBadge6": "True",
         "FFlagAppChatEnableDoubleOptInRC3": "True",
-        "FStringFlagRepoGitHashFastString": "9f2e7ceb77078d794e1e47977c89f90926ffec4e",
-        "DFStringFlagRepoGitHashDynamicString": "9f2e7ceb77078d794e1e47977c89f90926ffec4e",
-        "FStringFlipTimeStampFastString": "2025-10-14T22:18:15.808Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-14T22:18:15.808Z"
+        "FStringFlagRepoGitHashFastString": "80ed0aabcd318744facce4d186eb02752b6902ec",
+        "DFStringFlagRepoGitHashDynamicString": "80ed0aabcd318744facce4d186eb02752b6902ec",
+        "FStringFlipTimeStampFastString": "2025-10-14T22:36:39.275Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-14T22:36:39.275Z"
     }
 }
