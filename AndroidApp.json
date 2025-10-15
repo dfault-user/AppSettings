@@ -12415,15 +12415,13 @@
         "FFlagAXRemoveCatalogCategoryFiltering": "True",
         "FFlagAXTryOnItemDetailsIconColor": "True",
         "FFlagLargeReplicatorServerPatch": "True",
-        "FFlagUGCValidateCheckHSRFileData": "True",
-        "FFlagUseDenseMapInAtlas_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:38:28",
+        "FFlagUGCValidateCheckHSRFileData": "False",
         "DFIntRbxStorageCategoryStatsThrottleHP_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:49:34",
         "FFlagRenderZIndexGEZeroUIStrokesOnTop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:52:56",
         "FFlagVideoAllCapturesGraphicsAPIBlacklistForGPUs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:55:31",
         "FFlagVideoRodeoCapturesGraphicsAPIBlacklistForGPUs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:56:37",
         "DFFlagLineHeightRoundingIssue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1206434385;2025-10-15T20:57:16",
         "FFlagStudioTeamTestAction3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1753707813;2025-10-15T21:05:19",
-        "FFlagTMFallbackRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:07:13",
         "FFlagStyleEditorMainPageNilItem": "True",
         "FFlagStyleEditorShowPseudoPreview": "True",
         "FIntUGCValidationBodyAssetMaskHeightPixels_Staged": "150;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:12:43",
@@ -12434,6 +12432,7 @@
         "FFlagDelayBackgroundDMLocalPlayerLoading_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:30:35",
         "FFlagAXUpdateInventoryEndpointForItemsList_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:33:14",
         "FFlagVoiceConnectionApiEnableTearDownPeerConnectionFactoryOnSignalingThread": "True",
+        "FFlagUseDenseMapInAtlas": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13351,9 +13350,9 @@
         "FFlagRbxStorageCleanPermCache": "True",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "FFlagHttpUseRbxStorage10_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:35:06",
-        "FStringFlagRepoGitHashFastString": "a59e4da9a98db3586c9bb79b4c7fa248b17c4f6f",
-        "DFStringFlagRepoGitHashDynamicString": "a59e4da9a98db3586c9bb79b4c7fa248b17c4f6f",
-        "FStringFlipTimeStampFastString": "2025-10-15T21:39:47.204Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T21:39:47.204Z"
+        "FStringFlagRepoGitHashFastString": "1333f75e0459e723af818da8bef96443191ccc09",
+        "DFStringFlagRepoGitHashDynamicString": "1333f75e0459e723af818da8bef96443191ccc09",
+        "FStringFlipTimeStampFastString": "2025-10-15T21:49:37.806Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T21:49:37.806Z"
     }
 }
