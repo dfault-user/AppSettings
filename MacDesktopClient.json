@@ -12416,8 +12416,6 @@
         "FFlagAXTryOnItemDetailsIconColor": "True",
         "FFlagLargeReplicatorServerPatch": "True",
         "FFlagUGCValidateCheckHSRFileData": "False",
-        "FFlagVideoRodeoCapturesGraphicsAPIBlacklistForGPUs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:56:37",
-        "AllowVideoPreRoll": "True",
         "FFlagStudioTeamTestAction3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1753707813;2025-10-15T21:05:19",
         "FFlagStyleEditorMainPageNilItem": "True",
         "FFlagStyleEditorShowPseudoPreview": "True",
@@ -12433,6 +12431,10 @@
         "DFIntRbxStorageCategoryStatsThrottleHP": "1",
         "FFlagRenderZIndexGEZeroUIStrokesOnTop": "True",
         "FFlagVideoAllCapturesGraphicsAPIBlacklistForGPUs": "True",
+        "FFlagAXEnableRegionalFilteringofAssets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:00:28",
+        "DFFlagLineHeightRoundingIssue": "True",
+        "FFlagVideoRodeoCapturesGraphicsAPIBlacklistForGPUs": "True",
+        "FFlagFixPlayOnRemoveOnExit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:59:38",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -12880,6 +12882,7 @@
         "FFlagVideoCaptureStopOnEncodeError": "True",
         "FFlagAXCategoryPillPositionAnimation_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;1006217871;dev_controlled",
         "FFlagDelayBackgroundDMLocalPlayerLoading_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:30:35",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13318,11 +13321,10 @@
         "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1499707217;dev_controlled",
         "FFlagAXImproveSlotBasedEditorPerformance_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;193760623;dev_controlled",
         "FFlagStepTransparencyEvenNotInteractable": "True",
-        "DFFlagLineHeightRoundingIssue": "True",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
-        "FStringFlagRepoGitHashFastString": "1b9c8049c55a4ef1bbc9d0bbbb28993ed0641760",
-        "DFStringFlagRepoGitHashDynamicString": "1b9c8049c55a4ef1bbc9d0bbbb28993ed0641760",
-        "FStringFlipTimeStampFastString": "2025-10-15T22:01:39.915Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T22:01:39.915Z"
+        "FStringFlagRepoGitHashFastString": "49f164b43c2a8341367a14ad78244a28635965fc",
+        "DFStringFlagRepoGitHashDynamicString": "49f164b43c2a8341367a14ad78244a28635965fc",
+        "FStringFlipTimeStampFastString": "2025-10-15T22:03:14.911Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T22:03:14.911Z"
     }
 }
