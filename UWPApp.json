@@ -12369,7 +12369,6 @@
         "FFlagFixLoadingScreenNetworkingForAll": "True",
         "FFlagTouchScreenEnabledInternalAPI2": "True",
         "FFlagCheckForNullModelCastInOM": "True",
-        "DFFlagFlagCacheColdRun2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T17:09:32",
         "FFlagFixErrorPromptRemoveMenuFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1032645183;2025-10-15T17:14:03",
         "FFlagPreferredInputUseTouchScreenEnabled2": "True",
         "FIntCloseReactPageThrottleHundredthsPercent": "10000",
@@ -12403,6 +12402,8 @@
         "FFlagRefactorStateIndex": "True",
         "FFlagLargeReplicatorServerPatch_Staged": "True;SteadyState;10;30;Revert;2025-10-15T18:08:52",
         "FFlagSimCSGFixStudioSeparateError2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;198833669;2025-10-15T18:09:18",
+        "DFFlagFlagCacheColdRun2": "True",
+        "FFlagAppChatPreventOverlaySwitching": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12698,9 +12699,9 @@
         "FFlagDisableMemoryTrackingRollout2": "True",
         "DFFlagMicroprofilerHiddenClicksFix": "True",
         "DFFlagMicroprofilerPersistOffMode": "True",
-        "FStringFlagRepoGitHashFastString": "89c82c45e20cf96f76407a29f135de6d1d6ac87d",
-        "DFStringFlagRepoGitHashDynamicString": "89c82c45e20cf96f76407a29f135de6d1d6ac87d",
-        "FStringFlipTimeStampFastString": "2025-10-15T18:15:09.782Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T18:15:09.782Z"
+        "FStringFlagRepoGitHashFastString": "3b38416d1bbd06231a023615798f83ff0f9ec4a6",
+        "DFStringFlagRepoGitHashDynamicString": "3b38416d1bbd06231a023615798f83ff0f9ec4a6",
+        "FStringFlipTimeStampFastString": "2025-10-15T18:17:34.457Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T18:17:34.457Z"
     }
 }
