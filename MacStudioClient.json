@@ -12418,7 +12418,6 @@
         "FFlagUGCValidateCheckHSRFileData": "False",
         "FFlagStyleEditorMainPageNilItem": "True",
         "FFlagStyleEditorShowPseudoPreview": "True",
-        "FFlagVideoAllCapturesBlacklistForGPUs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:15:35",
         "FFlagSduiRemoveEmphasisBorder": "True",
         "FFlagEnableRecordLogin1": "True",
         "FFlagVideoRodeoCapturesBlacklistForGPUs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:22:30",
@@ -12437,6 +12436,8 @@
         "FFlagDisableGmaEligibilityCheckDataModelRequirement_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:15:38",
         "FIntUGCValidationBodyAssetMaskHeightPixels": "150",
         "FFlagEnableLogoAndBodyYPositionOffsetShift_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;799219451;2025-10-15T22:18:00",
+        "FFlagVideoAllCapturesBlacklistForGPUs": "True",
+        "FFlagAvatarHttpHelperConfigParam_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:23:32",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14560,7 +14561,6 @@
         "DFFlagWebSocketCurlErrBuf": "True",
         "DFFlagVideoMacEncodeFailedMetrics": "True",
         "FFlagVideoCaptureStopOnEncodeError": "True",
-        "FFlagAXCategoryPillPositionAnimation_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;1006217871;dev_controlled",
         "FFlagDelayBackgroundDMLocalPlayerLoading_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:30:35",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
@@ -14597,9 +14597,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "f4a2a6aaa135a2c3fd3315cf14fb3baa67e07eac",
-        "DFStringFlagRepoGitHashDynamicString": "f4a2a6aaa135a2c3fd3315cf14fb3baa67e07eac",
-        "FStringFlipTimeStampFastString": "2025-10-15T22:22:03.683Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T22:22:03.683Z"
+        "FStringFlagRepoGitHashFastString": "f5af1ab58383591d7261200bbb66f93e8eaec869",
+        "DFStringFlagRepoGitHashDynamicString": "f5af1ab58383591d7261200bbb66f93e8eaec869",
+        "FStringFlipTimeStampFastString": "2025-10-15T22:27:21.730Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T22:27:21.730Z"
     }
 }
