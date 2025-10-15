@@ -11600,7 +11600,7 @@
         "FFlagAXMigrateItemDetailsContainerInputBindingsToFocusNavigation2": "True",
         "FFlagBuyActionBarShouldNotUnrenderInFullscreenMode": "True",
         "FFlagAXCategoryPillColorAnimation": "True",
-        "FFlagAXCategoryPillPositionAnimation": "True",
+        "FFlagAXCategoryPillPositionAnimation": "False",
         "FFlagAXCategoryPillPadding": "True",
         "FFlagFixHapticWaveformReplication": "True",
         "FFlagAXCatalogCategoryPillsShowAllCategory": "True",
@@ -12430,10 +12430,6 @@
         "FFlagStudioTeamTestAction3": "True",
         "FIntUGCValidationBodyAssetMaskHeightPixels": "150",
         "FFlagVideoAllCapturesBlacklistForGPUs": "True",
-        "FFlagAvatarHttpHelperConfigParam_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:23:32",
-        "FFlagTextureTransferCageCheckUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:24:41",
-        "FFlagAXCategoryPillPositionAnimation_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:24:45",
-        "FFlagMakeupUVBoundsFixCageDefault_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:25:18",
         "FFlagVideoRodeoCapturesBlacklistForGPUs": "True",
         "FFlagUGCValidateCheckHSROwner_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:30:02",
         "FFlagAXUpdateInventoryEndpointForItemsList": "True",
@@ -12444,6 +12440,9 @@
         "FFlagAdsInstallOnlyDebugVariant_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T23:07:14",
         "FFlagEnableLogoAndBodyYPositionOffsetShift": "True",
         "FFlagDisableGmaEligibilityCheckDataModelRequirement": "True",
+        "FFlagAvatarHttpHelperConfigParam": "True",
+        "FFlagMakeupUVBoundsFixCageDefault": "True",
+        "FFlagTextureTransferCageCheckUpdates": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12741,9 +12740,9 @@
         "DFFlagMicroprofilerPersistOffMode": "True",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagRobloxTelemetryEnableSenderCallback5": "True",
-        "FStringFlagRepoGitHashFastString": "f33879bdd87259077623aa428820b958741106f5",
-        "DFStringFlagRepoGitHashDynamicString": "f33879bdd87259077623aa428820b958741106f5",
-        "FStringFlipTimeStampFastString": "2025-10-15T23:27:16.653Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T23:27:16.653Z"
+        "FStringFlagRepoGitHashFastString": "0bc574825d201476fdf7c5e3c69b06a87926b7b4",
+        "DFStringFlagRepoGitHashDynamicString": "0bc574825d201476fdf7c5e3c69b06a87926b7b4",
+        "FStringFlipTimeStampFastString": "2025-10-15T23:32:22.269Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T23:32:22.269Z"
     }
 }
