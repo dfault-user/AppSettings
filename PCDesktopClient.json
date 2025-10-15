@@ -12423,9 +12423,10 @@
         "DFFlagLargeReplicatorReadFix_Staged": "True;SteadyState;10;30;Revert;2025-10-15T20:33:31",
         "AllowVideoPreRoll": "True",
         "FFlagUseDenseMapInAtlas_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:38:28",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
-        "FFlagRenderZIndexGEZeroUIStrokesOnTop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:52:56",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagRenderZIndexGEZeroUIStrokesOnTop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:52:56",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagVideoRodeoCapturesGraphicsAPIBlacklistForGPUs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:56:37",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13371,9 +13372,9 @@
         "FFlagQuestNESO": "True",
         "DFFlagLineHeightRoundingIssue": "True",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
-        "FStringFlagRepoGitHashFastString": "f497e0a0e09ac6a137416aa86b9f52dc79b5e69d",
-        "DFStringFlagRepoGitHashDynamicString": "f497e0a0e09ac6a137416aa86b9f52dc79b5e69d",
-        "FStringFlipTimeStampFastString": "2025-10-15T20:57:06.637Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T20:57:06.637Z"
+        "FStringFlagRepoGitHashFastString": "fe79c8ad3abf6c217a44d44bd30962b7dd3db521",
+        "DFStringFlagRepoGitHashDynamicString": "fe79c8ad3abf6c217a44d44bd30962b7dd3db521",
+        "FStringFlipTimeStampFastString": "2025-10-15T21:01:35.399Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T21:01:35.399Z"
     }
 }
