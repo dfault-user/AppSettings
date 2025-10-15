@@ -6505,7 +6505,7 @@
         "FFlagCaptureManagerDesktopParityEnabled": "True",
         "DFFlagReportDeadKickCodeUsageDetailed": "True",
         "FStringClientToastNotificationsRedirectLayerName": "Notifications.Delivery",
-        "FFlagProfilePlatformEnableInventory_V2": "True",
+        "FFlagProfilePlatformEnableInventory_V2": "False",
         "FFlagMoveReducerCreationOutOfReducer_IXP": "1;Portal.FFlagMoveReducerCreationOutOfReducer;FFlagMoveReducerCreationOutOfReducer;94348796;flagbank",
         "FFlagExpChatConditionallyMountAppLayout2": "True",
         "FFlagLuauNormalizeNegationFix": "True",
@@ -12385,9 +12385,6 @@
         "FFlagAppChatPreventOverlaySwitching": "True",
         "FFlagFixErrorPromptRemoveMenuFocus": "True",
         "FFlagFixErrorPromptFocus": "True",
-        "AllowVideoPreRoll": "True",
-        "FFlagProfilePlatformEnableInventory_V2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:23:40",
-        "FFlagUGCValidateAccurateBoundingBoxRasterMethod2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:25:24",
         "FFlagDevFrameworkTreeTableCellHoverActionsDeficit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:32:34",
         "FFlagUGCValidateRestrictEmoteHeight_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:32:42",
         "DFFlagCLI171730AddSizeCheck": "True",
@@ -12419,6 +12416,8 @@
         "FFlagFFlagEnableSquadLobbyUpsellCardShortScreenFix": "True",
         "FFlagBetterDxtCheck": "True",
         "FFlagUGCValidateCheckHSRFileData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T19:20:35",
+        "FFlagUGCValidateAccurateBoundingBoxRasterMethod2": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12777,9 +12776,9 @@
         "FFlagLuaAppAddSduiGameRowTelemetry": "True",
         "FFlagLuaAppAddSchemaFieldsToPlayIntent": "True",
         "FFlagSocialCarouselAddFriendsActionType": "True",
-        "FStringFlagRepoGitHashFastString": "a551072f50f5c3e9501ddc57f32b4fd040ead01d",
-        "DFStringFlagRepoGitHashDynamicString": "a551072f50f5c3e9501ddc57f32b4fd040ead01d",
-        "FStringFlipTimeStampFastString": "2025-10-15T19:23:40.200Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T19:23:40.200Z"
+        "FStringFlagRepoGitHashFastString": "39a98cc189ee9d97d6f58957e3e9f9c31173369a",
+        "DFStringFlagRepoGitHashDynamicString": "39a98cc189ee9d97d6f58957e3e9f9c31173369a",
+        "FStringFlipTimeStampFastString": "2025-10-15T19:27:22.309Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T19:27:22.309Z"
     }
 }
