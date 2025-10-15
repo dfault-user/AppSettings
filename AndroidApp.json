@@ -12380,7 +12380,6 @@
         "FFlagGetHumanoidDescriptionUpdatesV2E2": "True",
         "FFlagRbxStorageSkipPermOrphanedFiles": "True",
         "FFlagCustomParticleFlipbookLayout3": "True",
-        "DFFlagSaferCharInputHandling4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:00:29",
         "FFlagSwitchUniversalEconomicRestrictionsCounterField_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:00:53",
         "FFlagUseDenseMapInGlyphProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:04:20",
         "FFlagRefactorStateIndex": "True",
@@ -12415,6 +12414,7 @@
         "AllowVideoPreRoll": "True",
         "FFlagAXCatalogBELayerExposureCounter": "True",
         "FFlagAXCatalogReactPerfIXPEnabledV4": "True",
+        "DFFlagSaferCharInputHandling4": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -12970,7 +12970,7 @@
         "RewardedAdFunnelEventsAndroidAndroidThrottlingHundredthPercentage": "1000",
         "FStringMobilePopularItemBadgingLayer": "Optimization.InExperienceUpsell.Mobile.UI",
         "FFlagPopularFillIconEnabled": "True",
-        "FFlagMobilePopularItemBadgingExperimentEnabled": "True",
+        "FFlagMobilePopularItemBadgingExperimentEnabled": "False",
         "FFlagFriendsCarouselRemoveRemount": "False",
         "EnableUseRoomDBForLoggingExperiment2": "True",
         "FFlagDisableStreamingTunableMemoryTracking_IXP": "1;Portal.FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;FFlagDisableStreamingTunableMemoryTracking-FStringPerformanceControlExperimentName;1249780813;flagbank",
@@ -13329,12 +13329,11 @@
         "DFFlagSimCSG4UseOperationGraphEvaluateNewAsync7": "True",
         "FFlagVideoCaptureStopOnEncodeError": "True",
         "FFlagRbxStorageCleanPermCache": "True",
-        "FFlagMobilePopularItemBadgingExperimentEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T17:58:01",
         "DFFlagSimFixTickle": "True",
         "FIntRbxStorageMinMemoryRequirementMB_Staged": "7000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:49:03",
-        "FStringFlagRepoGitHashFastString": "621ff67fd9850fdefabab4a65430e36cfdfe413b",
-        "DFStringFlagRepoGitHashDynamicString": "621ff67fd9850fdefabab4a65430e36cfdfe413b",
-        "FStringFlipTimeStampFastString": "2025-10-15T19:01:29.280Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T19:01:29.280Z"
+        "FStringFlagRepoGitHashFastString": "9c5d03e4941fa463bc7df1bba4e3d3f86d148025",
+        "DFStringFlagRepoGitHashDynamicString": "9c5d03e4941fa463bc7df1bba4e3d3f86d148025",
+        "FStringFlipTimeStampFastString": "2025-10-15T19:02:53.925Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T19:02:53.925Z"
     }
 }
