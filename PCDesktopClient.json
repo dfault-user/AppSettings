@@ -12418,9 +12418,9 @@
         "FFlagUGCValidateCheckHSRFileData": "True",
         "AxisAdornmentGrabSize": "12",
         "FFlagUseDenseMapInAtlas_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:38:28",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagRenderZIndexGEZeroUIStrokesOnTop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:52:56",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagVideoRodeoCapturesGraphicsAPIBlacklistForGPUs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:56:37",
         "AllowVideoPreRoll": "True",
         "FFlagStudioTeamTestAction3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1753707813;2025-10-15T21:05:19",
@@ -12432,7 +12432,8 @@
         "FFlagSduiRemoveEmphasisBorder": "True",
         "FFlagEnableRecordLogin1": "True",
         "FFlagVideoRodeoCapturesBlacklistForGPUs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:22:30",
-        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagAXUpdateInventoryEndpointForItemsList_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:33:14",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -12905,6 +12906,7 @@
         "DFFlagWebSocketCurlErrBuf": "True",
         "FFlagVideoCaptureStopOnEncodeError": "True",
         "FFlagAXCategoryPillPositionAnimation_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;1006217871;dev_controlled",
+        "FFlagDelayBackgroundDMLocalPlayerLoading_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:30:35",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -13376,9 +13378,9 @@
         "FFlagQuestNESO": "True",
         "DFFlagLineHeightRoundingIssue": "True",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
-        "FStringFlagRepoGitHashFastString": "de971ef14b3d44737a7bea7b69eaa59076f5572f",
-        "DFStringFlagRepoGitHashDynamicString": "de971ef14b3d44737a7bea7b69eaa59076f5572f",
-        "FStringFlipTimeStampFastString": "2025-10-15T21:32:56.012Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T21:32:56.012Z"
+        "FStringFlagRepoGitHashFastString": "465c5128b574652104ac2e6695226e2471dd80cc",
+        "DFStringFlagRepoGitHashDynamicString": "465c5128b574652104ac2e6695226e2471dd80cc",
+        "FStringFlipTimeStampFastString": "2025-10-15T21:35:40.002Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T21:35:40.002Z"
     }
 }
