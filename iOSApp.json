@@ -12432,7 +12432,6 @@
         "FFlagVideoAllCapturesBlacklistForGPUs": "True",
         "FFlagVideoRodeoCapturesBlacklistForGPUs": "True",
         "FFlagAXUpdateInventoryEndpointForItemsList": "True",
-        "DFFlagHttpConnectionReuseStatFixes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:42:50",
         "FFlagCanvasGroupRenderStrokeOnTop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:59:47",
         "FFlagFixPlayOnRemoveOnExit": "True",
         "FFlagAXEnableRegionalFilteringofAssets": "True",
@@ -12444,6 +12443,8 @@
         "FFlagTextureTransferCageCheckUpdates": "True",
         "FFlagUGCValidateCheckHSROwner": "True",
         "FFlagAXCatalogStoresContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T23:43:12",
+        "DFFlagEnablePlayerRemovingReason_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T23:45:20",
+        "DFFlagHttpConnectionReuseStatFixes": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13340,9 +13341,9 @@
         "FFlagAXCategoryPillPositionAnimation_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;731719989;dev_controlled",
         "FFlagHttpUseRbxStorage10": "True",
         "FFlagEmergencyDeleteOfExperimentDummyFile": "True",
-        "FStringFlagRepoGitHashFastString": "fa4a0da7da8ec754e84791d5e77bd217a034dc99",
-        "DFStringFlagRepoGitHashDynamicString": "fa4a0da7da8ec754e84791d5e77bd217a034dc99",
-        "FStringFlipTimeStampFastString": "2025-10-15T23:47:29.828Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T23:47:29.828Z"
+        "FStringFlagRepoGitHashFastString": "3368a550506cbd26bce25266fa1380f5e6725683",
+        "DFStringFlagRepoGitHashDynamicString": "3368a550506cbd26bce25266fa1380f5e6725683",
+        "FStringFlipTimeStampFastString": "2025-10-15T23:51:44.839Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T23:51:44.839Z"
     }
 }
