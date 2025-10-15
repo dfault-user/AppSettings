@@ -12368,8 +12368,6 @@
         "FFlagCreateUncompressedRbxmForOta": "True",
         "FFlagFixLoadingScreenNetworkingForAll": "True",
         "FFlagTouchScreenEnabledInternalAPI2": "True",
-        "FFlagFreeTypeAllocReallocIdenticalCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T16:37:09",
-        "FFlagEngineContextInMoreInstances_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T16:37:29",
         "FIntUGCValidateMaxHSRDataLen_Staged": "200000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T16:48:20",
         "FFlagGetHumanoidDescriptionUpdatesV2E2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T16:48:42",
         "FFlagCustomParticleFlipbookLayout3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T16:50:53",
@@ -12393,6 +12391,10 @@
         "DFFlagRefactorJointTypeChecks": "True",
         "FFlagFindPreviousActionContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T17:39:45",
         "FFlagLockToolActionContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T17:40:04",
+        "FFlagEngineContextInMoreInstances": "True",
+        "FFlagFreeTypeAllocReallocIdenticalCheck": "True",
+        "FFlagClearStatsActionContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T17:40:52",
+        "FFlagScriptDiffContextProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T17:41:51",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13285,9 +13287,9 @@
         "DFFlagRbxStorageAddPermCategoryStatsWithBypass": "True",
         "FFlagLuaAppIncreasePaddingBetweenSearchFeedItems2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T17:27:01",
         "DFFlagSimFixTickle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T17:34:39",
-        "FStringFlagRepoGitHashFastString": "1941f83b65514926c4ef6c2f903249c92fdf084a",
-        "DFStringFlagRepoGitHashDynamicString": "1941f83b65514926c4ef6c2f903249c92fdf084a",
-        "FStringFlipTimeStampFastString": "2025-10-15T17:43:58.452Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T17:43:58.452Z"
+        "FStringFlagRepoGitHashFastString": "f9d1c6a5acc459f0012df68a07492009f0287878",
+        "DFStringFlagRepoGitHashDynamicString": "f9d1c6a5acc459f0012df68a07492009f0287878",
+        "FStringFlipTimeStampFastString": "2025-10-15T17:45:05.673Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T17:45:05.673Z"
     }
 }
