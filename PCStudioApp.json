@@ -12416,7 +12416,6 @@
         "FFlagAXTryOnItemDetailsIconColor": "True",
         "FFlagLargeReplicatorServerPatch": "True",
         "FFlagUGCValidateCheckHSRFileData": "True",
-        "FFlagVoiceConnectionApiEnableTearDownPeerConnectionFactoryOnSignalingThread_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:33:44",
         "FFlagUseDenseMapInAtlas_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:38:28",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "FFlagRenderZIndexGEZeroUIStrokesOnTop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:52:56",
@@ -12434,6 +12433,7 @@
         "FFlagVideoRodeoCapturesBlacklistForGPUs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:22:30",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagAXUpdateInventoryEndpointForItemsList_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T21:33:14",
+        "FFlagVoiceConnectionApiEnableTearDownPeerConnectionFactoryOnSignalingThread": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14201,7 +14201,7 @@
         "DFFlagSimCSG4UseOperationGraphEvaluateNewAsync7": "True",
         "FFlagRemoveShowErrorMessageRobloxMainWindow2": "True",
         "DFFlagJointsUseTimeDelta": "True",
-        "FFlagStudioAddPscToIntentConversion_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T20:33:10",
+        "FFlagStudioAddPscToIntentConversion": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -14616,9 +14616,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "465c5128b574652104ac2e6695226e2471dd80cc",
-        "DFStringFlagRepoGitHashDynamicString": "465c5128b574652104ac2e6695226e2471dd80cc",
-        "FStringFlipTimeStampFastString": "2025-10-15T21:35:40.002Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T21:35:40.002Z"
+        "FStringFlagRepoGitHashFastString": "a59e4da9a98db3586c9bb79b4c7fa248b17c4f6f",
+        "DFStringFlagRepoGitHashDynamicString": "a59e4da9a98db3586c9bb79b4c7fa248b17c4f6f",
+        "FStringFlipTimeStampFastString": "2025-10-15T21:39:47.204Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T21:39:47.204Z"
     }
 }
