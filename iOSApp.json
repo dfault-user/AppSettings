@@ -12408,6 +12408,8 @@
         "FFlagBetterDxtCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:19:04",
         "FFlagFixErrorPromptFocus": "True",
         "DFFlagInitTombstoneAfterBlockingFetch2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:21:56",
+        "FFlagProfilePlatformEnableInventory_V2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:23:40",
+        "FFlagUGCValidateAccurateBoundingBoxRasterMethod2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:25:24",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13303,9 +13305,10 @@
         "FFlagRbxStorageCleanPermCache": "True",
         "FFlagMobilePopularItemBadgingExperimentEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T17:58:01",
         "FFlagEnableNotifCompletionHandler_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T18:06:52",
-        "FStringFlagRepoGitHashFastString": "b8a471472f72ffd047acd0405f9e010f40c1aab9",
-        "DFStringFlagRepoGitHashDynamicString": "b8a471472f72ffd047acd0405f9e010f40c1aab9",
-        "FStringFlipTimeStampFastString": "2025-10-15T18:29:24.864Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T18:29:24.864Z"
+        "DFFlagLineHeightRoundingIssue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1641106688;2025-10-15T18:24:40",
+        "FStringFlagRepoGitHashFastString": "327cabbfdd231d91ffd7f5059563a557b98cf515",
+        "DFStringFlagRepoGitHashDynamicString": "327cabbfdd231d91ffd7f5059563a557b98cf515",
+        "FStringFlipTimeStampFastString": "2025-10-15T18:33:33.543Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T18:33:33.543Z"
     }
 }
