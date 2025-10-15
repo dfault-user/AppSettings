@@ -12432,7 +12432,6 @@
         "FFlagVideoAllCapturesBlacklistForGPUs": "True",
         "FFlagVideoRodeoCapturesBlacklistForGPUs": "True",
         "FFlagAXUpdateInventoryEndpointForItemsList": "True",
-        "DFFlagHttpConnectionReuseStatFixes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:42:50",
         "FFlagCanvasGroupRenderStrokeOnTop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:59:47",
         "FFlagFixPlayOnRemoveOnExit": "True",
         "FFlagAXEnableRegionalFilteringofAssets": "True",
@@ -12445,6 +12444,7 @@
         "FFlagUGCValidateCheckHSROwner": "True",
         "FFlagAXCatalogStoresContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T23:43:12",
         "DFFlagEnablePlayerRemovingReason_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T23:45:20",
+        "DFFlagHttpConnectionReuseStatFixes": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12805,9 +12805,9 @@
         "FFlagLuaAppAddSchemaFieldsToPlayIntent": "True",
         "FFlagSocialCarouselAddFriendsActionType": "True",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
-        "FStringFlagRepoGitHashFastString": "25938b7446c96a4ae307ce5a6a2db8132842bb4c",
-        "DFStringFlagRepoGitHashDynamicString": "25938b7446c96a4ae307ce5a6a2db8132842bb4c",
-        "FStringFlipTimeStampFastString": "2025-10-15T23:51:22.219Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T23:51:22.219Z"
+        "FStringFlagRepoGitHashFastString": "33d955e5bd2df562837ed142d33b311347db256f",
+        "DFStringFlagRepoGitHashDynamicString": "33d955e5bd2df562837ed142d33b311347db256f",
+        "FStringFlipTimeStampFastString": "2025-10-15T23:52:06.991Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T23:52:06.991Z"
     }
 }
