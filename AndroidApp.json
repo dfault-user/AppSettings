@@ -12368,7 +12368,6 @@
         "FFlagCreateUncompressedRbxmForOta": "True",
         "FFlagFixLoadingScreenNetworkingForAll": "True",
         "FFlagTouchScreenEnabledInternalAPI2": "True",
-        "FFlagKtx2Support4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T16:20:07",
         "DFFlagRefactorJointTypeChecks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T16:32:19",
         "FFlagFreeTypeAllocReallocIdenticalCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T16:37:09",
         "FFlagEngineContextInMoreInstances_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T16:37:29",
@@ -12383,6 +12382,8 @@
         "FFlagPreferredInputUseTouchScreenEnabled2": "True",
         "FIntCloseReactPageThrottleHundredthsPercent": "10000",
         "FIntOpenReactPageThrottleHundredthsPercent": "10000",
+        "FFlagFixErrorPromptFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1419277884;2025-10-15T17:20:54",
+        "FFlagKtx2Support4": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
@@ -13298,10 +13299,9 @@
         "DFFlagFlagCacheColdRun2": "True",
         "FFlagVideoCaptureStopOnEncodeError": "True",
         "FFlagRbxStorageCleanPermCache_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T16:52:42",
-        "DFFlagSimFixTickle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T17:20:07",
-        "FStringFlagRepoGitHashFastString": "5faba253bbe7a572deda62c167a3a9e2e924b4f0",
-        "DFStringFlagRepoGitHashDynamicString": "5faba253bbe7a572deda62c167a3a9e2e924b4f0",
-        "FStringFlipTimeStampFastString": "2025-10-15T17:21:40.024Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T17:21:40.024Z"
+        "FStringFlagRepoGitHashFastString": "b9d07b329d2d20623910e035b20871a4eeec08bd",
+        "DFStringFlagRepoGitHashDynamicString": "b9d07b329d2d20623910e035b20871a4eeec08bd",
+        "FStringFlipTimeStampFastString": "2025-10-15T17:24:45.824Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T17:24:45.824Z"
     }
 }
