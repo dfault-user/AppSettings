@@ -12431,7 +12431,6 @@
         "FIntUGCValidationBodyAssetMaskHeightPixels": "150",
         "FFlagVideoAllCapturesBlacklistForGPUs": "True",
         "FFlagVideoRodeoCapturesBlacklistForGPUs": "True",
-        "FFlagUGCValidateCheckHSROwner_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:30:02",
         "FFlagAXUpdateInventoryEndpointForItemsList": "True",
         "DFFlagHttpConnectionReuseStatFixes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:42:50",
         "FFlagCanvasGroupRenderStrokeOnTop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-15T22:59:47",
@@ -12443,6 +12442,7 @@
         "FFlagAvatarHttpHelperConfigParam": "True",
         "FFlagMakeupUVBoundsFixCageDefault": "True",
         "FFlagTextureTransferCageCheckUpdates": "True",
+        "FFlagUGCValidateCheckHSROwner": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12740,9 +12740,9 @@
         "DFFlagMicroprofilerPersistOffMode": "True",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagRobloxTelemetryEnableSenderCallback5": "True",
-        "FStringFlagRepoGitHashFastString": "0bc574825d201476fdf7c5e3c69b06a87926b7b4",
-        "DFStringFlagRepoGitHashDynamicString": "0bc574825d201476fdf7c5e3c69b06a87926b7b4",
-        "FStringFlipTimeStampFastString": "2025-10-15T23:32:22.269Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-15T23:32:22.269Z"
+        "FStringFlagRepoGitHashFastString": "6ecb00d0bdee9d879e13cae6b401c2359aafae67",
+        "DFStringFlagRepoGitHashDynamicString": "6ecb00d0bdee9d879e13cae6b401c2359aafae67",
+        "FStringFlipTimeStampFastString": "2025-10-15T23:36:55.054Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-15T23:36:55.054Z"
     }
 }
