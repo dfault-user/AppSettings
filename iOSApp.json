@@ -12458,6 +12458,7 @@
         "FFlagUnifiedPurchaseFlowShouldCacheExperimentResultV4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:13:46",
         "DFFlagUseImageTransformScaling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:13:51",
         "FFlagMCPAssistantSlashCommandMenu2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:17:44",
+        "DFFlagReportInstanceMemoryToES_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:18:09",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13358,9 +13359,10 @@
         "FFlagAXFixCatalogRefreshRenderingV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T17:50:19",
         "FFlagAXEnableCategoryPills7_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;2029261985;dev_controlled",
         "FFlagAXEnableCategoryPillsExposureLogging2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;1228557301;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "a58907b92ad49d734bd15e5a5cb0c9c5bc08977c",
-        "DFStringFlagRepoGitHashDynamicString": "a58907b92ad49d734bd15e5a5cb0c9c5bc08977c",
-        "FStringFlipTimeStampFastString": "2025-10-16T18:25:24.162Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T18:25:24.162Z"
+        "FIntRbxStorageMinMemoryRequirementMB_Staged": "9999;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:21:22",
+        "FStringFlagRepoGitHashFastString": "327043997efc6e780f57ee35f22f61d8ab5f1dba",
+        "DFStringFlagRepoGitHashDynamicString": "327043997efc6e780f57ee35f22f61d8ab5f1dba",
+        "FStringFlipTimeStampFastString": "2025-10-16T18:26:55.192Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T18:26:55.192Z"
     }
 }
