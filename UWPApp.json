@@ -12449,7 +12449,6 @@
         "FFlagDevConsoleMicroProfilerFixAutoTextClear": "True",
         "FFlagDevConsoleMicroProfilerImproveWording": "True",
         "DFFlagCHSRFactorGetCHSRId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:31:21",
-        "DFFlagFixPrimitiveShapeInertiaMigration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2089137558;2025-10-16T18:24:39",
         "DFFlagDCDReadLegacyWithDecoder": "True",
         "DFFlagPMDHeaderGeomTypeReading": "True",
         "FFlagStudioFixCurrentDocWithFloatingWindows_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:49:36",
@@ -12467,6 +12466,7 @@
         "FFlagUnifiedPurchaseFlowShouldCacheExperimentResultV4": "True",
         "DFFlagReportInstanceMemoryToES": "True",
         "FFlagMCPAssistantSlashCommandMenu2": "True",
+        "DFFlagFixPrimitiveShapeInertiaMigration": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12765,9 +12765,9 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagRobloxTelemetryEnableSenderCallback5": "True",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
-        "FStringFlagRepoGitHashFastString": "ee145891548a94b65cad67d2f209d387e6cc40db",
-        "DFStringFlagRepoGitHashDynamicString": "ee145891548a94b65cad67d2f209d387e6cc40db",
-        "FStringFlipTimeStampFastString": "2025-10-16T19:25:56.096Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T19:25:56.096Z"
+        "FStringFlagRepoGitHashFastString": "3847cfe138427efaf9a346f65d7fada73ad310df",
+        "DFStringFlagRepoGitHashDynamicString": "3847cfe138427efaf9a346f65d7fada73ad310df",
+        "FStringFlipTimeStampFastString": "2025-10-16T19:27:34.459Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T19:27:34.459Z"
     }
 }
