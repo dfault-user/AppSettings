@@ -12094,7 +12094,7 @@
         "FFlagPlayerListIgnoreDevGamepadBindings": "True",
         "FFlagPlayerListSetIsGamepadOnMount": "True",
         "FFlagLuaAppSduiItemImpressionsStartRow": "True",
-        "FFlagDelayBackgroundDMLocalPlayerLoading": "False",
+        "FFlagDelayBackgroundDMLocalPlayerLoading": "True",
         "FFlagUpdatePeopleNamesSettingCopy": "True",
         "FFlagEnableSubscriptionPurchasePromptDisclosure": "True",
         "FFlagLuauResumeFix": "True",
@@ -12468,8 +12468,6 @@
         "FFlagEnableUnifiedLoggingForPartyPageSocialCarousel": "True",
         "FFlagAssetImportSetDefaultAnimationNames": "True",
         "FFlagRobloxTouchGestureFixPositions2": "True",
-        "FFlagDelayBackgroundDMLocalPlayerLoading_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T21:11:12",
-        "FFlagDisableContactListTeleportWithoutCallId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T21:14:57",
         "DFFlagFixJointOffsetDriftForStudioStreaming_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T21:18:57",
         "FFlagDisableDeletingTerrainWeldsForTeamCreateClient_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T21:19:06",
         "FFlagEnableUnifiedLoggingForPartyPageSocialCarousel_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T21:25:14",
@@ -12486,6 +12484,7 @@
         "FFlagEnableAdsLifecycleManager2": "True",
         "FFlagStepTransparencyEvenNotInteractable_Staged": "True;SteadyState;10;30;Revert;2025-10-16T22:05:17",
         "FFlagHomepagePYMKPresenceAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T22:08:03",
+        "FFlagDisableContactListTeleportWithoutCallId": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13404,9 +13403,9 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "UseCoilImageLibrary": "true",
-        "FStringFlagRepoGitHashFastString": "4fdea8c5c301f4f62f51c6c860cfa7a278b6b3df",
-        "DFStringFlagRepoGitHashDynamicString": "4fdea8c5c301f4f62f51c6c860cfa7a278b6b3df",
-        "FStringFlipTimeStampFastString": "2025-10-16T22:17:17.247Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T22:17:17.247Z"
+        "FStringFlagRepoGitHashFastString": "10eb60a17840922acdfeb960b2e5bf632446cd66",
+        "DFStringFlagRepoGitHashDynamicString": "10eb60a17840922acdfeb960b2e5bf632446cd66",
+        "FStringFlipTimeStampFastString": "2025-10-16T22:17:56.538Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T22:17:56.538Z"
     }
 }
