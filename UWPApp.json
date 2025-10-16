@@ -12451,11 +12451,6 @@
         "DFFlagDCDReadLegacyWithDecoder": "True",
         "DFFlagPMDHeaderGeomTypeReading": "True",
         "FFlagPhoto2AvatarSelfieErrorMessage": "True",
-        "FFlagMusicPlayerAboveSystemBar_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1623419824;2025-10-16T19:16:55",
-        "FFlagMusicPlayerReopensOnPlayback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1623419824;2025-10-16T19:16:55",
-        "FFlagMusicPlayerUseDynamicNavBarHeight_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1623419824;2025-10-16T19:16:55",
-        "FFlagSongDetailsSheet_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1623419824;2025-10-16T19:16:55",
-        "FFlagMusicPlayerDesignConsistencyPass_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T19:17:36",
         "FFlagUpdateAlertIcon2": "True",
         "DFFlagFixRvsScale": "True",
         "DFFlagUseImageTransformScaling": "True",
@@ -12469,6 +12464,12 @@
         "FFlagRobloxTouchGestureFixPositions2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;136725914;2025-10-16T20:08:30",
         "DFIntTestEBOnProd": "1",
         "DFIntConvexDecompCompressionSelector_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1975672446;2025-10-16T20:17:23",
+        "FFlagMusicPlayerAboveSystemBar": "True",
+        "FFlagMusicPlayerDesignConsistencyPass": "True",
+        "FFlagMusicPlayerReopensOnPlayback": "True",
+        "FFlagMusicPlayerUseDynamicNavBarHeight": "True",
+        "FFlagSongDetailsSheet": "True",
+        "FFlagFoundationMenuWidthGrowth_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2118927230;2025-10-16T20:21:45",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12767,9 +12768,9 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagRobloxTelemetryEnableSenderCallback5": "True",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
-        "FStringFlagRepoGitHashFastString": "b0d952bf33aee7caae77df4dd0b27c4d64c8710d",
-        "DFStringFlagRepoGitHashDynamicString": "b0d952bf33aee7caae77df4dd0b27c4d64c8710d",
-        "FStringFlipTimeStampFastString": "2025-10-16T20:18:45.094Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T20:18:45.094Z"
+        "FStringFlagRepoGitHashFastString": "dd1414bd5b79918d6ef64b1daa5ff13588d30dd6",
+        "DFStringFlagRepoGitHashDynamicString": "dd1414bd5b79918d6ef64b1daa5ff13588d30dd6",
+        "FStringFlipTimeStampFastString": "2025-10-16T20:23:04.725Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T20:23:04.725Z"
     }
 }
