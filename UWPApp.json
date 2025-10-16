@@ -12474,6 +12474,11 @@
         "FIntHomePagePYMKPresenceFetchThrottleInterval_Staged": "15;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T20:45:26",
         "FFlagEnableUnifiedLoggingForPartyPageSocialCarousel": "True",
         "FFlagAddFriendsPYMKPresenceAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T20:49:04",
+        "FStringUGCValidationInflationThresholdArmsX_Staged": "\"4.0\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;835582148;2025-10-16T20:51:54",
+        "FStringUGCValidationInflationThresholdArmsZ_Staged": "\"4.0\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;835582148;2025-10-16T20:51:54",
+        "FStringUGCValidationInflationThresholdLegsX_Staged": "\"4.0\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;835582148;2025-10-16T20:51:54",
+        "FStringUGCValidationInflationThresholdLegsZ_Staged": "\"4.0\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;835582148;2025-10-16T20:51:54",
+        "FFlagRichTextStrokeSizingMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1068285207;2025-10-16T20:54:05",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12772,9 +12777,9 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagRobloxTelemetryEnableSenderCallback5": "True",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
-        "FStringFlagRepoGitHashFastString": "721fc864d9452cd962ea73b974fa736dd78277ed",
-        "DFStringFlagRepoGitHashDynamicString": "721fc864d9452cd962ea73b974fa736dd78277ed",
-        "FStringFlipTimeStampFastString": "2025-10-16T20:52:30.568Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T20:52:30.568Z"
+        "FStringFlagRepoGitHashFastString": "7303c17542f274e510e8dff0d2faac40e8ab1e3f",
+        "DFStringFlagRepoGitHashDynamicString": "7303c17542f274e510e8dff0d2faac40e8ab1e3f",
+        "FStringFlipTimeStampFastString": "2025-10-16T20:57:15.007Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T20:57:15.007Z"
     }
 }
