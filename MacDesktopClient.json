@@ -12905,6 +12905,8 @@
         "DFFlagAllowAlwaysCreateFile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:00:17",
         "FFlagEnablePartyTabNumberedBadge6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1062028050;2025-10-16T18:01:34",
         "FFlagSocialTabPreventUnreadCountRaceCondition_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1340838572;2025-10-16T18:03:24",
+        "FFlagUseCaptureForStudio2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:04:12",
+        "DFFlagDisableBodyColorsBehaviorDuringReplication_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:06:11",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13348,9 +13350,9 @@
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "DFFlagParallelForViaForEach": "True",
         "DFIntTestEBOnProd_Staged": "50000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T17:38:58",
-        "FStringFlagRepoGitHashFastString": "16a44b0bd855f55efd5f7a412f57932c16928a61",
-        "DFStringFlagRepoGitHashDynamicString": "16a44b0bd855f55efd5f7a412f57932c16928a61",
-        "FStringFlipTimeStampFastString": "2025-10-16T18:07:58.317Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T18:07:58.317Z"
+        "FStringFlagRepoGitHashFastString": "f10aac68ef900641dbfedc17a53abd3f7f003ef6",
+        "DFStringFlagRepoGitHashDynamicString": "f10aac68ef900641dbfedc17a53abd3f7f003ef6",
+        "FStringFlipTimeStampFastString": "2025-10-16T18:09:15.452Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T18:09:15.452Z"
     }
 }

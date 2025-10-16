@@ -14223,6 +14223,7 @@
         "FFlagStudioNotifyCancelSaveOrPublish": "True",
         "DFFlagEnableWebStreamClientInternal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T17:36:49",
         "FFlagAXFixCatalogRefreshRenderingV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T17:50:19",
+        "FFlagOnComponentPropertyChangedType2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:02:17",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -14608,6 +14609,9 @@
         "FFlagAXEnableCategoryPillsExposureLogging2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;1228557301;dev_controlled",
         "DFFlagAllowAlwaysCreateFile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:00:17",
         "FFlagEnablePartyTabNumberedBadge6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1062028050;2025-10-16T18:01:34",
+        "FFlagSocialTabPreventUnreadCountRaceCondition_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1340838572;2025-10-16T18:03:24",
+        "FFlagUseCaptureForStudio2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:04:12",
+        "DFFlagDisableBodyColorsBehaviorDuringReplication_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:06:11",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -14640,9 +14644,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "7ecb03d1bcb13771fea12329ea1d7c2103d79446",
-        "DFStringFlagRepoGitHashDynamicString": "7ecb03d1bcb13771fea12329ea1d7c2103d79446",
-        "FStringFlipTimeStampFastString": "2025-10-16T18:07:11.622Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T18:07:11.622Z"
+        "FStringFlagRepoGitHashFastString": "f10aac68ef900641dbfedc17a53abd3f7f003ef6",
+        "DFStringFlagRepoGitHashDynamicString": "f10aac68ef900641dbfedc17a53abd3f7f003ef6",
+        "FStringFlipTimeStampFastString": "2025-10-16T18:09:15.452Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T18:09:15.452Z"
     }
 }
