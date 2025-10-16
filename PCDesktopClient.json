@@ -12960,7 +12960,6 @@
         "FFlagUseCaptureForStudio2": "True",
         "FFlagVideoPlaybackManagerFixForVideoPlayer": "True",
         "FFlagVideoPlayerBetaFix1": "True",
-        "FFlagProfilePlatformAddTC_v10_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T20:01:37",
         "FFlagAppChatImpressionLoggingImprovement_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T20:06:27",
         "AllowVideoPreRoll": "True",
         "FFlagPerfDataOptimization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T20:31:32",
@@ -12973,6 +12972,8 @@
         "FFlagRefactorPeoplePage7_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
         "DFFlagRenderFastClusterOcclusionCulling2": "True",
         "FFlagFastClusterFixBoundingBoxUpdates": "True",
+        "FFlagShowNewConnectErrorsMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T21:05:31",
+        "FFlagProfilePlatformAddTC_v10": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13447,12 +13448,12 @@
         "DFFlagParallelForViaForEach": "True",
         "FFlagLuaAppCreateSduiTooltipAction": "True",
         "FFlagLuaAppIncreasePaddingBetweenSearchFeedItems2": "True",
-        "FFlagLuaAppClientTriggerEventHandler2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T20:00:10",
         "FFlagVoiceMutexMigration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T20:05:45",
         "DFIntConvexDecompCompressionSelector_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1975672446;2025-10-16T20:17:23",
-        "FStringFlagRepoGitHashFastString": "94422412bbe7943c1c809861353d51c8ddd8f61d",
-        "DFStringFlagRepoGitHashDynamicString": "94422412bbe7943c1c809861353d51c8ddd8f61d",
-        "FStringFlipTimeStampFastString": "2025-10-16T21:07:35.608Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T21:07:35.608Z"
+        "FFlagLuaAppClientTriggerEventHandler2": "True",
+        "FStringFlagRepoGitHashFastString": "4bb85542278247ad722aa9b4b0d552c1e9f25156",
+        "DFStringFlagRepoGitHashDynamicString": "4bb85542278247ad722aa9b4b0d552c1e9f25156",
+        "FStringFlipTimeStampFastString": "2025-10-16T21:08:51.263Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T21:08:51.263Z"
     }
 }
