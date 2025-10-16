@@ -12450,6 +12450,7 @@
         "FFlagUGCValidateCheckHSRFileData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T16:38:13",
         "FFlagNoSoundPlaybackFromBindToClose": "True",
         "FFlagLargeReplicatorWrite5_Staged": "True;SteadyState;10;30;Revert;2025-10-16T17:19:04",
+        "FFlagVoiceConnectionApiEnableTearDownPeerConnectionFactoryOnSignalingThread_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1849295283;2025-10-16T17:25:52",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12749,9 +12750,9 @@
         "DFFlagRobloxTelemetryEnableSenderCallback5": "True",
         "FFlagMovePrerender_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T16:24:58",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
-        "FStringFlagRepoGitHashFastString": "73476caf0170a85a632676ef218da977685bd652",
-        "DFStringFlagRepoGitHashDynamicString": "73476caf0170a85a632676ef218da977685bd652",
-        "FStringFlipTimeStampFastString": "2025-10-16T17:20:57.048Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T17:20:57.048Z"
+        "FStringFlagRepoGitHashFastString": "0ecbbc098502604af74eb06c6a3d78f07cc29343",
+        "DFStringFlagRepoGitHashDynamicString": "0ecbbc098502604af74eb06c6a3d78f07cc29343",
+        "FStringFlipTimeStampFastString": "2025-10-16T17:26:40.801Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T17:26:40.801Z"
     }
 }
