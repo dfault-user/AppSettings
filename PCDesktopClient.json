@@ -12466,7 +12466,6 @@
         "FFlagMusicPlayerUseDynamicNavBarHeight": "True",
         "FFlagSongDetailsSheet": "True",
         "FFlagEnableUnifiedLoggingForPartyPageSocialCarousel": "True",
-        "FFlagAddFriendsPYMKPresenceAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T20:49:04",
         "FStringUGCValidationInflationThresholdArmsX_Staged": "\"4.0\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;835582148;2025-10-16T20:51:54",
         "FStringUGCValidationInflationThresholdArmsZ_Staged": "\"4.0\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;835582148;2025-10-16T20:51:54",
         "FStringUGCValidationInflationThresholdLegsX_Staged": "\"4.0\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;835582148;2025-10-16T20:51:54",
@@ -12484,6 +12483,7 @@
         "FFlagAXCatalogCategoryTooltip_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T21:28:08",
         "DFFlagVoiceChatReportActualAudioDevice": "True",
         "FIntHomePagePYMKPresenceFetchThrottleInterval": "15",
+        "FFlagAddFriendsPYMKPresenceAnalytics": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12980,9 +12980,9 @@
         "FFlagAXWidgetTypeAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T21:34:15",
         "FFlagAXSendPurchaseAttempt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T21:36:01",
         "DFIntCaptureVideoBitsPerThousandPixels_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.3Gsuns;1849467581;dev_controlled",
-        "FFlagVideoCaptureIxpEnabled_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.IntelHardware;1759377183;dev_controlled",
-        "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.IntelHardware;1759377183;dev_controlled",
-        "DFStringVideoWinHwEncoderBlacklistCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.IntelHardware;1759377183;dev_controlled",
+        "FFlagVideoCaptureIxpEnabled_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.AMDHardware;1759377183;dev_controlled",
+        "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.AMDHardware;1759377183;dev_controlled",
+        "DFStringVideoWinHwEncoderBlacklistCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.AMDHardware;1759377183;dev_controlled",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13460,9 +13460,9 @@
         "FFlagLuaAppIncreasePaddingBetweenSearchFeedItems2": "True",
         "FFlagLuaAppClientTriggerEventHandler2": "True",
         "FFlagVoiceMutexMigration": "True",
-        "FStringFlagRepoGitHashFastString": "c41fe388d92bc63d727831bb32edc138418b149d",
-        "DFStringFlagRepoGitHashDynamicString": "c41fe388d92bc63d727831bb32edc138418b149d",
-        "FStringFlipTimeStampFastString": "2025-10-16T21:49:49.314Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T21:49:49.314Z"
+        "FStringFlagRepoGitHashFastString": "9530e37c37dbdf037677b29a412ca98d0be94271",
+        "DFStringFlagRepoGitHashDynamicString": "9530e37c37dbdf037677b29a412ca98d0be94271",
+        "FStringFlipTimeStampFastString": "2025-10-16T21:55:48.782Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T21:55:48.782Z"
     }
 }
