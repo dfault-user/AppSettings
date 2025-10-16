@@ -12478,7 +12478,6 @@
         "FStringUGCValidationInflationThresholdLegsZ": "\"4.0\"",
         "FFlagRichTextStrokeSizingMode": "True",
         "FFlagEnableAdsLifecycleManager2": "True",
-        "FFlagStepTransparencyEvenNotInteractable_Staged": "True;SteadyState;10;30;Revert;2025-10-16T22:05:17",
         "FFlagHomepagePYMKPresenceAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T22:08:03",
         "FFlagDisableContactListTeleportWithoutCallId": "True",
         "DFFlagFixJointOffsetDriftForStudioStreaming": "True",
@@ -12975,7 +12974,6 @@
         "FFlagFastClusterFixBoundingBoxUpdates": "True",
         "FFlagProfilePlatformAddTC_v10": "True",
         "FFlagAppChatImpressionLoggingImprovement": "True",
-        "FFlagAXSendPurchaseAttempt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T21:36:01",
         "DFIntCaptureVideoBitsPerThousandPixels_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.HardwareAndGsuns;1422196895;dev_controlled",
         "FFlagVideoCaptureIxpEnabled_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.HardwareAndGsuns;1422196895;dev_controlled",
         "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.HardwareAndGsuns;1422196895;dev_controlled",
@@ -12985,6 +12983,7 @@
         "FFlagEnableAppChatFocusableFixes4": "True",
         "FFlagEnableAppChatFocusableFixesUpdate2": "True",
         "FFlagAXWidgetTypeAnalytics": "True",
+        "FFlagAXSendPurchaseAttempt": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13462,9 +13461,9 @@
         "FFlagLuaAppIncreasePaddingBetweenSearchFeedItems2": "True",
         "FFlagLuaAppClientTriggerEventHandler2": "True",
         "FFlagVoiceMutexMigration": "True",
-        "FStringFlagRepoGitHashFastString": "1dbbe7ad79bfc3b81113b67615c57b7d91892a7f",
-        "DFStringFlagRepoGitHashDynamicString": "1dbbe7ad79bfc3b81113b67615c57b7d91892a7f",
-        "FStringFlipTimeStampFastString": "2025-10-16T22:41:21.462Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T22:41:21.462Z"
+        "FStringFlagRepoGitHashFastString": "c92c8d977743a05342c5a7a0f3a2714e1c4d1bad",
+        "DFStringFlagRepoGitHashDynamicString": "c92c8d977743a05342c5a7a0f3a2714e1c4d1bad",
+        "FStringFlipTimeStampFastString": "2025-10-16T22:43:50.902Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T22:43:50.902Z"
     }
 }
