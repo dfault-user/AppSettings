@@ -12449,8 +12449,6 @@
         "FFlagVoiceConnectionApiEnableTearDownPeerConnectionFactoryOnSignalingThread_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T17:48:32",
         "FFlagDevConsoleMicroProfilerFixAutoTextClear": "True",
         "FFlagDevConsoleMicroProfilerImproveWording": "True",
-        "DFFlagDCDReadLegacyWithDecoder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1314783454;2025-10-16T17:36:27",
-        "DFFlagPMDHeaderGeomTypeReading_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1314783454;2025-10-16T17:36:27",
         "FFlagPhoto2AvatarSelfieErrorMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T17:48:20",
         "FFlagLargeReplicatorWrite5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:00:43",
         "FFlagUpdateAlertIcon2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1385177203;2025-10-16T18:10:43",
@@ -12461,6 +12459,8 @@
         "DFFlagReportInstanceMemoryToES_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:18:09",
         "DFFlagCHSRFactorGetCHSRId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T18:31:21",
         "DFFlagFixPrimitiveShapeInertiaMigration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2089137558;2025-10-16T18:24:39",
+        "DFFlagDCDReadLegacyWithDecoder": "True",
+        "DFFlagPMDHeaderGeomTypeReading": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12761,9 +12761,9 @@
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "FFlagEnableLogBackgroundDMLocalPlayerTimeoutLogs_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T17:49:55",
         "DFIntReportLocalPlayerMissingStackTraceUserIdPercentage_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T17:54:51",
-        "FStringFlagRepoGitHashFastString": "08c13c501b8f13bb50f0aaa7c3870395e356de45",
-        "DFStringFlagRepoGitHashDynamicString": "08c13c501b8f13bb50f0aaa7c3870395e356de45",
-        "FStringFlipTimeStampFastString": "2025-10-16T18:39:01.288Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T18:39:01.288Z"
+        "FStringFlagRepoGitHashFastString": "ccf9383d2ebf89e88df667491fa02be41c8045d6",
+        "DFStringFlagRepoGitHashDynamicString": "ccf9383d2ebf89e88df667491fa02be41c8045d6",
+        "FStringFlipTimeStampFastString": "2025-10-16T18:41:11.531Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T18:41:11.531Z"
     }
 }
