@@ -12445,12 +12445,12 @@
         "FFlagAdsInstallOnlyDebugVariant": "True",
         "FFlagAXCatalogStoresContext": "True",
         "DFFlagEnablePlayerRemovingReason": "True",
-        "FFlagDevConsoleMicroProfilerFixAutoTextClear_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T16:23:17",
-        "FFlagDevConsoleMicroProfilerImproveWording_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T16:23:28",
         "FFlagUGCValidateCheckHSRFileData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T16:38:13",
         "FFlagNoSoundPlaybackFromBindToClose": "True",
         "FFlagLargeReplicatorWrite5_Staged": "True;SteadyState;10;30;Revert;2025-10-16T17:19:04",
         "AllowVideoPreRoll": "True",
+        "FFlagDevConsoleMicroProfilerFixAutoTextClear": "True",
+        "FFlagDevConsoleMicroProfilerImproveWording": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13397,9 +13397,9 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "DFFlagParallelForViaForEach": "True",
-        "FStringFlagRepoGitHashFastString": "0ecbbc098502604af74eb06c6a3d78f07cc29343",
-        "DFStringFlagRepoGitHashDynamicString": "0ecbbc098502604af74eb06c6a3d78f07cc29343",
-        "FStringFlipTimeStampFastString": "2025-10-16T17:26:40.801Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T17:26:40.801Z"
+        "FStringFlagRepoGitHashFastString": "506e3ff84dfaadea5afc8152415a1fd195eaa8ec",
+        "DFStringFlagRepoGitHashDynamicString": "506e3ff84dfaadea5afc8152415a1fd195eaa8ec",
+        "FStringFlipTimeStampFastString": "2025-10-16T17:28:50.252Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T17:28:50.252Z"
     }
 }
