@@ -12960,8 +12960,6 @@
         "FFlagUseCaptureForStudio2": "True",
         "FFlagVideoPlaybackManagerFixForVideoPlayer": "True",
         "FFlagVideoPlayerBetaFix1": "True",
-        "FFlagFastClusterFixBoundingBoxUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T19:57:20",
-        "DFFlagRenderFastClusterOcclusionCulling2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T19:59:54",
         "FFlagProfilePlatformAddTC_v10_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T20:01:37",
         "FFlagAppChatImpressionLoggingImprovement_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T20:06:27",
         "AllowVideoPreRoll": "True",
@@ -12973,6 +12971,8 @@
         "FFlagMoveInExperienceModeToEditProfile_V2_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
         "FFlagProfilePlatformUseNewLayoutForAssetsCarousel_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
         "FFlagRefactorPeoplePage7_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
+        "DFFlagRenderFastClusterOcclusionCulling2": "True",
+        "FFlagFastClusterFixBoundingBoxUpdates": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13450,9 +13450,9 @@
         "FFlagLuaAppClientTriggerEventHandler2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T20:00:10",
         "FFlagVoiceMutexMigration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T20:05:45",
         "DFIntConvexDecompCompressionSelector_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1975672446;2025-10-16T20:17:23",
-        "FStringFlagRepoGitHashFastString": "064f5091277102c70bdf6222446d453b9cb63c07",
-        "DFStringFlagRepoGitHashDynamicString": "064f5091277102c70bdf6222446d453b9cb63c07",
-        "FStringFlipTimeStampFastString": "2025-10-16T21:01:35.897Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T21:01:35.897Z"
+        "FStringFlagRepoGitHashFastString": "94422412bbe7943c1c809861353d51c8ddd8f61d",
+        "DFStringFlagRepoGitHashDynamicString": "94422412bbe7943c1c809861353d51c8ddd8f61d",
+        "FStringFlipTimeStampFastString": "2025-10-16T21:07:35.608Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T21:07:35.608Z"
     }
 }
