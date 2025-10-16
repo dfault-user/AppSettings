@@ -12452,6 +12452,8 @@
         "FFlagDevConsoleMicroProfilerFixAutoTextClear": "True",
         "FFlagDevConsoleMicroProfilerImproveWording": "True",
         "FFlagRemoveEnrollmentMap2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T17:28:23",
+        "DFFlagDCDReadLegacyWithDecoder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1314783454;2025-10-16T17:36:27",
+        "DFFlagPMDHeaderGeomTypeReading_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1314783454;2025-10-16T17:36:27",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13369,9 +13371,9 @@
         "FFlagRbxStorageCleanPermCache": "True",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
-        "FStringFlagRepoGitHashFastString": "09930415ad9f94472ddeda7532919d9ed154595a",
-        "DFStringFlagRepoGitHashDynamicString": "09930415ad9f94472ddeda7532919d9ed154595a",
-        "FStringFlipTimeStampFastString": "2025-10-16T17:35:54.220Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T17:35:54.220Z"
+        "FStringFlagRepoGitHashFastString": "bea783a102032c29b412abd9aeb4de95d1c023dd",
+        "DFStringFlagRepoGitHashDynamicString": "bea783a102032c29b412abd9aeb4de95d1c023dd",
+        "FStringFlipTimeStampFastString": "2025-10-16T17:38:43.502Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T17:38:43.502Z"
     }
 }
