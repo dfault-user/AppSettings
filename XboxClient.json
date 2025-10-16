@@ -12489,6 +12489,10 @@
         "DFFlagLargeReplicatorReadFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T22:57:15",
         "FFlagHomepagePYMKPresenceAnalytics": "True",
         "DFFlagVideoCaptureReportStopError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T23:23:49",
+        "FFlagEnableMoreItemAutoFocus2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T23:27:28",
+        "FFlagEnableMoreItemInputModeFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T23:27:28",
+        "FFlagFixMoreGridDirectionalLayoutRollout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T23:27:28",
+        "FFlagFixMorePageFocusNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-16T23:27:28",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12852,9 +12856,9 @@
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "FFlagLuaAppCreateSduiTooltipAction": "True",
         "FFlagLuaAppIncreasePaddingBetweenSearchFeedItems2": "True",
-        "FStringFlagRepoGitHashFastString": "e4ffac6e4b19e58b0504754dfc09a7f1436a57f5",
-        "DFStringFlagRepoGitHashDynamicString": "e4ffac6e4b19e58b0504754dfc09a7f1436a57f5",
-        "FStringFlipTimeStampFastString": "2025-10-16T23:28:04.118Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-16T23:28:04.118Z"
+        "FStringFlagRepoGitHashFastString": "ad43fa2f3fb91f2e3bf85f3c68ba954e88f41e37",
+        "DFStringFlagRepoGitHashDynamicString": "ad43fa2f3fb91f2e3bf85f3c68ba954e88f41e37",
+        "FStringFlipTimeStampFastString": "2025-10-16T23:30:48.224Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-16T23:30:48.224Z"
     }
 }
