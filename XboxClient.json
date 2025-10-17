@@ -12493,11 +12493,6 @@
         "FFlagFixMoreGridDirectionalLayoutRollout": "True",
         "FFlagFixMorePageFocusNavigation": "True",
         "FFlagExplorerNestedFolderHang": "True",
-        "FFlagCodegenSingleInitError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:25:30",
-        "FFlagScriptEditorHoverTipMultidiag_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:26:08",
-        "FFlagLuauAccumulateErrorsInOrder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:26:43",
-        "FFlagNewMemoryTarget_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:27:23",
-        "FFlagMemScopeForTypecheckTask_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:27:57",
         "FFlagAvatarUseRuntimeSyncPrims5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:55:02",
         "FFlagMusicPlayerUseDynamicNavBarHeight_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:55:12",
         "DFIntJoinLimitWin32x64_Staged": "693;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;366482982;2025-10-17T16:55:54",
@@ -12509,6 +12504,11 @@
         "DFFlagCapabilityControlYesWorkspace": "True",
         "FFlagRemoveGcInterval": "True",
         "FFlagAXAddCustomIconToBackButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T17:26:01",
+        "FFlagCodegenSingleInitError": "True",
+        "FFlagLuauAccumulateErrorsInOrder": "True",
+        "FFlagMemScopeForTypecheckTask": "True",
+        "FFlagNewMemoryTarget": "True",
+        "FFlagScriptEditorHoverTipMultidiag": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12872,9 +12872,9 @@
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "FFlagLuaAppCreateSduiTooltipAction": "True",
         "FFlagLuaAppIncreasePaddingBetweenSearchFeedItems2": "True",
-        "FStringFlagRepoGitHashFastString": "9360a02d64993bbebf6a1de6c3292570bf54af1e",
-        "DFStringFlagRepoGitHashDynamicString": "9360a02d64993bbebf6a1de6c3292570bf54af1e",
-        "FStringFlipTimeStampFastString": "2025-10-17T17:28:19.709Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-17T17:28:19.709Z"
+        "FStringFlagRepoGitHashFastString": "2d3b71f4f9d4ea3142602588e482c070b26f7744",
+        "DFStringFlagRepoGitHashDynamicString": "2d3b71f4f9d4ea3142602588e482c070b26f7744",
+        "FStringFlipTimeStampFastString": "2025-10-17T17:33:54.063Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-17T17:33:54.063Z"
     }
 }
