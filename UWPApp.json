@@ -12463,7 +12463,7 @@
         "FFlagMusicPlayerAboveSystemBar": "True",
         "FFlagMusicPlayerDesignConsistencyPass": "True",
         "FFlagMusicPlayerReopensOnPlayback": "True",
-        "FFlagMusicPlayerUseDynamicNavBarHeight": "True",
+        "FFlagMusicPlayerUseDynamicNavBarHeight": "False",
         "FFlagSongDetailsSheet": "True",
         "FFlagEnableUnifiedLoggingForPartyPageSocialCarousel": "False",
         "FFlagAssetImportSetDefaultAnimationNames": "True",
@@ -12493,8 +12493,6 @@
         "FFlagFixMoreGridDirectionalLayoutRollout": "True",
         "FFlagFixMorePageFocusNavigation": "True",
         "FFlagExplorerNestedFolderHang": "True",
-        "FFlagAvatarUseRuntimeSyncPrims5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:55:02",
-        "FFlagMusicPlayerUseDynamicNavBarHeight_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:55:12",
         "DFIntJoinLimitWin32x64_Staged": "693;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;366482982;2025-10-17T16:55:54",
         "FFlagNetAssetSubsystem": "True",
         "FFlagCheckUserProfileStoreStatus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T17:22:59",
@@ -12508,6 +12506,7 @@
         "FFlagScriptEditorHoverTipMultidiag": "True",
         "FFlagPerformanceControlReportWindowsCommitPages_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T17:36:31",
         "FFlagStudioInstancesCountOSGlobalField_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T17:37:03",
+        "FFlagAvatarUseRuntimeSyncPrims5": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12806,9 +12805,9 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagRobloxTelemetryEnableSenderCallback5": "True",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
-        "FStringFlagRepoGitHashFastString": "5a51fdfcea12de63f68658bbb2c1eea477b5179f",
-        "DFStringFlagRepoGitHashDynamicString": "5a51fdfcea12de63f68658bbb2c1eea477b5179f",
-        "FStringFlipTimeStampFastString": "2025-10-17T17:52:43.165Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-17T17:52:43.165Z"
+        "FStringFlagRepoGitHashFastString": "139ea02be3310da21951d59e3bd1eab8bf331241",
+        "DFStringFlagRepoGitHashDynamicString": "139ea02be3310da21951d59e3bd1eab8bf331241",
+        "FStringFlipTimeStampFastString": "2025-10-17T17:57:06.796Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-17T17:57:06.796Z"
     }
 }
