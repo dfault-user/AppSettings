@@ -12504,6 +12504,9 @@
         "FFlagMusicPlayerUseDynamicNavBarHeight_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:55:12",
         "DFIntJoinLimitWin32x64_Staged": "693;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;366482982;2025-10-17T16:55:54",
         "FFlagNetAssetSubsystem": "True",
+        "DFFlagNetAssetUnusedStats_Staged": "True;SteadyState;10;30;Revert;2025-10-17T17:18:28",
+        "FFlagNetAssetTimeToLoad_Staged": "True;SteadyState;10;30;Revert;2025-10-17T17:19:31",
+        "DFFlagLargeReplicatorValidate_Staged": "True;SteadyState;10;30;Revert;2025-10-17T17:20:01",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13479,9 +13482,9 @@
         "FFlagLuaAppIncreasePaddingBetweenSearchFeedItems2": "True",
         "FFlagLuaAppClientTriggerEventHandler2": "True",
         "FFlagVoiceMutexMigration": "True",
-        "FStringFlagRepoGitHashFastString": "1d45d288d2247a949ffb3875d1a50ec00a907a5f",
-        "DFStringFlagRepoGitHashDynamicString": "1d45d288d2247a949ffb3875d1a50ec00a907a5f",
-        "FStringFlipTimeStampFastString": "2025-10-17T17:17:49.758Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-17T17:17:49.758Z"
+        "FStringFlagRepoGitHashFastString": "29b54f4dcb71dee374b1088a670032ca45cf7842",
+        "DFStringFlagRepoGitHashDynamicString": "29b54f4dcb71dee374b1088a670032ca45cf7842",
+        "FStringFlipTimeStampFastString": "2025-10-17T17:21:36.133Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-17T17:21:36.133Z"
     }
 }
