@@ -11722,7 +11722,7 @@
         "FFlagPrecomputeDeformVertices2": "True",
         "FFlagPrecomputeDeformVertices3": "True",
         "FFlagEnableLaunchAppValidCookieCheck": "True",
-        "FFlagLargeReplicatorStats3": "False",
+        "FFlagLargeReplicatorStats3": "True",
         "FFlagLargeReplicatorWrite5": "True",
         "DFIntIsrTimestampOffsetSmoothingHundredths": "2",
         "FFlagDisableGalleryStopGap": "False",
@@ -12493,9 +12493,6 @@
         "FFlagFixMoreGridDirectionalLayoutRollout": "True",
         "FFlagFixMorePageFocusNavigation": "True",
         "FFlagExplorerNestedFolderHang": "True",
-        "DFFlagLargeReplicatorReadFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:11:57",
-        "FFlagNetAssetSubsystem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:12:28",
-        "FFlagLargeReplicatorStats3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:13:54",
         "FFlagRemoveGcInterval_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:23:47",
         "DFFlagCapabilityControlYesWorkspace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:25:07",
         "FFlagCodegenSingleInitError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:25:30",
@@ -12506,6 +12503,7 @@
         "FFlagAvatarUseRuntimeSyncPrims5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:55:02",
         "FFlagMusicPlayerUseDynamicNavBarHeight_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T16:55:12",
         "DFIntJoinLimitWin32x64_Staged": "693;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;366482982;2025-10-17T16:55:54",
+        "FFlagNetAssetSubsystem": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13424,9 +13422,9 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "UseCoilImageLibrary": "true",
-        "FStringFlagRepoGitHashFastString": "724b98a3d7a819e44f791af9890fca4ec693e858",
-        "DFStringFlagRepoGitHashDynamicString": "724b98a3d7a819e44f791af9890fca4ec693e858",
-        "FStringFlipTimeStampFastString": "2025-10-17T17:15:07.144Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-17T17:15:07.144Z"
+        "FStringFlagRepoGitHashFastString": "1d45d288d2247a949ffb3875d1a50ec00a907a5f",
+        "DFStringFlagRepoGitHashDynamicString": "1d45d288d2247a949ffb3875d1a50ec00a907a5f",
+        "FStringFlipTimeStampFastString": "2025-10-17T17:17:49.758Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-17T17:17:49.758Z"
     }
 }
