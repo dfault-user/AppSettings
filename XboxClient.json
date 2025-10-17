@@ -3339,7 +3339,7 @@
         "DFIntAdServiceUserIdleThresholdInSeconds_PlaceFilter": "100000;16970181235",
         "FFlagEnableOptimizedExpChatMicUI2": "True",
         "FIntExpChatMicActivityHeartbeatIncrement": "2",
-        "DFIntWebrtcNeteqCngTimeoutMs": "1000",
+        "DFIntWebrtcNeteqCngTimeoutMs": "0",
         "DFStringWebviewUrlAllowlist": "www.youtube-nocookie.com",
         "DFFlagSurroundEventStreamAccessesWithMutex": "True",
         "DFIntFrameAveragedAssemblyCountHundredthsPercentage": "1000",
@@ -12502,8 +12502,6 @@
         "FFlagNewMemoryTarget": "True",
         "FFlagScriptEditorHoverTipMultidiag": "True",
         "FFlagAvatarUseRuntimeSyncPrims5": "True",
-        "FFlagEngineVoiceComfortNoiseIxpOverrideEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T18:12:14",
-        "DFIntWebrtcNeteqCngTimeoutMs_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T18:14:04",
         "FFlagAddFriendsPYMKPresenceAnalytics_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T18:18:04",
         "FFlagCheckUserProfileStoreStatus": "True",
         "FFlagIgnoreKeyUpEventsForLastInput_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-17T18:26:33",
@@ -12513,6 +12511,7 @@
         "FFlagPerformanceControlReportWindowsCommitPages": "True",
         "FFlagStudioInstancesCountOSGlobalField": "True",
         "FFlagBootcampCLI164711": "True",
+        "FFlagEngineVoiceComfortNoiseIxpOverrideEnabled": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12876,9 +12875,9 @@
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "FFlagLuaAppCreateSduiTooltipAction": "True",
         "FFlagLuaAppIncreasePaddingBetweenSearchFeedItems2": "True",
-        "FStringFlagRepoGitHashFastString": "7e2137f0f9fa14000f48f070c8cd15c35f86924c",
-        "DFStringFlagRepoGitHashDynamicString": "7e2137f0f9fa14000f48f070c8cd15c35f86924c",
-        "FStringFlipTimeStampFastString": "2025-10-17T19:07:12.288Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-17T19:07:12.288Z"
+        "FStringFlagRepoGitHashFastString": "b4052837addf3501284ae98d443d7e7a25113707",
+        "DFStringFlagRepoGitHashDynamicString": "b4052837addf3501284ae98d443d7e7a25113707",
+        "FStringFlipTimeStampFastString": "2025-10-17T19:16:59.146Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-17T19:16:59.146Z"
     }
 }
