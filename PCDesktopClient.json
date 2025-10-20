@@ -12521,9 +12521,6 @@
         "FFlagLuauCodegenNilStoreInvalidateValue2": "True",
         "FFlagEnableVerifiedBadgeStore": "True",
         "DFFlagSimCollisionMaskUpdatesMidPhase": "True",
-        "FFlagGraphicsGLES3FixBorderColorCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T17:31:55",
-        "FFlagLuauCodegenDirectCompare2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T17:34:08",
-        "DFFlagNetAssetUnusedStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T17:34:15",
         "DFFlagSimCanCollideBroadphaseNoMidphase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T17:38:08",
         "FFlagLuaAppCreateSduiTooltipAction": "True",
         "FFlagLuaAppIncreasePaddingBetweenSearchFeedItems2": "True",
@@ -12559,6 +12556,10 @@
         "FFlagPropertyDescriptorsToArray3": "True",
         "DFFlagSimUpdateIsManifold": "True",
         "CaptureCountersIntervalInMinutes": "5",
+        "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
+        "FFlagGraphicsGLES3FixBorderColorCheck": "True",
+        "DFFlagNetAssetUnusedStats": "True",
+        "FFlagLuauCodegenDirectCompare2": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13057,7 +13058,6 @@
         "DFFlagSunsetFadingSun": "True",
         "FFlagIASBindingStates2": "True",
         "CaptureQTStudioCountersEnabled": "True",
-        "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
@@ -13529,9 +13529,9 @@
         "FFlagQuestNESO_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T18:09:53",
         "DFIntConvexDecompCompressionSelector_Staged": "25000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1975672446;2025-10-20T18:13:06",
         "DFFlagFlagCacheColdRun2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T18:34:59",
-        "FStringFlagRepoGitHashFastString": "2e2c85dec6cad2bd315dbb46dd19dd589803421c",
-        "DFStringFlagRepoGitHashDynamicString": "2e2c85dec6cad2bd315dbb46dd19dd589803421c",
-        "FStringFlipTimeStampFastString": "2025-10-20T18:37:09.664Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T18:37:09.664Z"
+        "FStringFlagRepoGitHashFastString": "8675d9283a1efa6a008696c91212b45c56ba327b",
+        "DFStringFlagRepoGitHashDynamicString": "8675d9283a1efa6a008696c91212b45c56ba327b",
+        "FStringFlipTimeStampFastString": "2025-10-20T18:39:10.971Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T18:39:10.971Z"
     }
 }
