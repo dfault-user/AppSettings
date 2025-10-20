@@ -12581,7 +12581,6 @@
         "DFFlagGeneratePseudoTraceFromAttributes": "True",
         "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix2": "True",
         "FFlagSduiActiveFriendsFooterFix": "True",
-        "FFlagTM2EnvUseBaselineDesktop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T22:41:35",
         "FFlagToastIncreaseDisplayOrder": "True",
         "FFlagCheckMobilePlayerListScaling": "True",
         "DFFlagCLI169005_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T22:47:51",
@@ -12601,6 +12600,7 @@
         "FFlagVulkanReduceMipsUseImmCB": "True",
         "DFFlagEnableRequireTracingForObjectValues": "True",
         "FFlagReportTextureStreamingTelemetry4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T23:38:26",
+        "FFlagTM2EnvUseBaselineDesktop": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13509,9 +13509,9 @@
         "FFlagCapturesDragAffordanceRemovalEnabled_IXP": "1;Social.Capture;Social.Captures.MetricDrop.V3;124233392;dev_controlled",
         "FFlagCapturesDragEdgeOffsetEnabled_IXP": "1;Social.Capture;Social.Captures.MetricDrop.V3;124233392;dev_controlled",
         "FFlagCapturesLayerExposureLoggingEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "5cc9c9f518157736ca3d87e2eea68b47cd2f376d",
-        "DFStringFlagRepoGitHashDynamicString": "5cc9c9f518157736ca3d87e2eea68b47cd2f376d",
-        "FStringFlipTimeStampFastString": "2025-10-20T23:43:40.299Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T23:43:40.299Z"
+        "FStringFlagRepoGitHashFastString": "962b43a9fb9292f5d831f7ac0e8708e2cc49cf0b",
+        "DFStringFlagRepoGitHashDynamicString": "962b43a9fb9292f5d831f7ac0e8708e2cc49cf0b",
+        "FStringFlipTimeStampFastString": "2025-10-20T23:47:31.938Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T23:47:31.938Z"
     }
 }
