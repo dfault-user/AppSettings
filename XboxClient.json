@@ -12565,6 +12565,10 @@
         "DFFlagHttpServiceInsightsImprovedTelemetry3": "True",
         "FFlagFixFmodRuntimeThreadPriorities_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T20:10:04",
         "FFlagAcousticSimulationForegroundTimeLimits_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T20:10:16",
+        "FIntAcousticSimulationYieldIntervalUs_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T20:10:30",
+        "FFlagSmoothClusterGeometryUseRuntime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T20:10:45",
+        "FFlagRemoveMeInParent2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;427648790;2025-10-20T20:11:24",
+        "FFlagFixCASMaxTouchButtons_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T20:13:31",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12926,9 +12930,9 @@
         "FFlagSocialCarouselAddFriendsActionType": "True",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
-        "FStringFlagRepoGitHashFastString": "29437f9c551a5d81f026fe0dda72792eac7e22f2",
-        "DFStringFlagRepoGitHashDynamicString": "29437f9c551a5d81f026fe0dda72792eac7e22f2",
-        "FStringFlipTimeStampFastString": "2025-10-20T20:11:54.343Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T20:11:54.343Z"
+        "FStringFlagRepoGitHashFastString": "c77565cac1c0857d20cba63a998c01abe9236b81",
+        "DFStringFlagRepoGitHashDynamicString": "c77565cac1c0857d20cba63a998c01abe9236b81",
+        "FStringFlipTimeStampFastString": "2025-10-20T20:15:33.113Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T20:15:33.113Z"
     }
 }

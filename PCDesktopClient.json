@@ -12565,6 +12565,8 @@
         "DFFlagHttpServiceInsightsImprovedTelemetry3": "True",
         "FFlagFixFmodRuntimeThreadPriorities_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T20:10:04",
         "FFlagAcousticSimulationForegroundTimeLimits_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T20:10:16",
+        "FIntAcousticSimulationYieldIntervalUs_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T20:10:30",
+        "FFlagSmoothClusterGeometryUseRuntime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T20:10:45",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13063,6 +13065,7 @@
         "DFFlagSunsetFadingSun": "True",
         "FFlagIASBindingStates2": "True",
         "FFlagShowNewConnectErrorsMessage_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T19:24:32",
+        "FFlagRemoveMeInParent2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;427648790;2025-10-20T20:11:24",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13535,9 +13538,9 @@
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "FFlagLuaAppClientTriggerEventHandler2": "True",
         "FFlagAXRootSlotBasedEditorFlag6_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;108964855;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "29437f9c551a5d81f026fe0dda72792eac7e22f2",
-        "DFStringFlagRepoGitHashDynamicString": "29437f9c551a5d81f026fe0dda72792eac7e22f2",
-        "FStringFlipTimeStampFastString": "2025-10-20T20:11:54.343Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T20:11:54.343Z"
+        "FStringFlagRepoGitHashFastString": "bccdd4751c62d8d2c5f0d90663b4fbbde7b1d776",
+        "DFStringFlagRepoGitHashDynamicString": "bccdd4751c62d8d2c5f0d90663b4fbbde7b1d776",
+        "FStringFlipTimeStampFastString": "2025-10-20T20:15:15.954Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T20:15:15.954Z"
     }
 }
