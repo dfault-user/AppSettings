@@ -12538,6 +12538,9 @@
         "FFlagEnableVerifiedBadgeStore": "True",
         "DFFlagSimCollisionMaskUpdatesMidPhase": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "DFFlagSimUpdateIsManifold_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T17:27:51",
+        "FFlagRbxTelemetryStartupShutdownLogs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T17:28:03",
+        "DFFlagRbxTelemetryEnableStartEndEvents3_Staged": "True;SteadyState;10;30;Revert;2025-10-20T17:29:29",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14721,9 +14724,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "e6899cf26db3b5657c560c66141b27f0b7fc7912",
-        "DFStringFlagRepoGitHashDynamicString": "e6899cf26db3b5657c560c66141b27f0b7fc7912",
-        "FStringFlipTimeStampFastString": "2025-10-20T17:28:23.165Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T17:28:23.165Z"
+        "FStringFlagRepoGitHashFastString": "61cf9b46444cd2d186113d83a465304ce4c23dd6",
+        "DFStringFlagRepoGitHashDynamicString": "61cf9b46444cd2d186113d83a465304ce4c23dd6",
+        "FStringFlipTimeStampFastString": "2025-10-20T17:31:42.189Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T17:31:42.189Z"
     }
 }
