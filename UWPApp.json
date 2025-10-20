@@ -12527,6 +12527,9 @@
         "FFlagLuaAppIncreasePaddingBetweenSearchFeedItems2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:39:01",
         "DFFlagFastClusterBuiltReportTelemetryCounter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:42:12",
         "FFlagChangeDeserializeFunctionSignature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:43:16",
+        "FFlagMoreFramerateOptions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:43:38",
+        "FFlagAimRefactorUploadSingleRunFunction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:45:18",
+        "FFlagUseTCUserTileForTCChatCard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:45:54",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12825,10 +12828,9 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagRobloxTelemetryEnableSenderCallback5": "True",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
-        "FFlagExtraScriptStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:41:58",
-        "FStringFlagRepoGitHashFastString": "f71d166b6b4bc8646bd7b44b9d4d74155843e1d9",
-        "DFStringFlagRepoGitHashDynamicString": "f71d166b6b4bc8646bd7b44b9d4d74155843e1d9",
-        "FStringFlipTimeStampFastString": "2025-10-20T16:44:36.187Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T16:44:36.187Z"
+        "FStringFlagRepoGitHashFastString": "f93332a2f5e894f9351b3d8aa7a96d58c470fe86",
+        "DFStringFlagRepoGitHashDynamicString": "f93332a2f5e894f9351b3d8aa7a96d58c470fe86",
+        "FStringFlipTimeStampFastString": "2025-10-20T16:47:48.804Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T16:47:48.804Z"
     }
 }

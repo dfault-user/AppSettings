@@ -12528,6 +12528,8 @@
         "DFFlagFastClusterBuiltReportTelemetryCounter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:42:12",
         "FFlagChangeDeserializeFunctionSignature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:43:16",
         "FFlagMoreFramerateOptions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:43:38",
+        "FFlagAimRefactorUploadSingleRunFunction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:45:18",
+        "FFlagUseTCUserTileForTCChatCard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:45:54",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13440,10 +13442,9 @@
         "FIntDelayBeforeNextPushRegistrationCallInSec": "5",
         "FFlagEnableAppToBackgroundLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:30:30",
         "FFlagEnableNotifCompletionHandler_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:33:23",
-        "FFlagExtraScriptStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:41:58",
-        "FStringFlagRepoGitHashFastString": "657fbe917537a65730582a87fd5d93a2cba78a1b",
-        "DFStringFlagRepoGitHashDynamicString": "657fbe917537a65730582a87fd5d93a2cba78a1b",
-        "FStringFlipTimeStampFastString": "2025-10-20T16:45:37.309Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T16:45:37.309Z"
+        "FStringFlagRepoGitHashFastString": "f93332a2f5e894f9351b3d8aa7a96d58c470fe86",
+        "DFStringFlagRepoGitHashDynamicString": "f93332a2f5e894f9351b3d8aa7a96d58c470fe86",
+        "FStringFlipTimeStampFastString": "2025-10-20T16:47:48.804Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T16:47:48.804Z"
     }
 }
