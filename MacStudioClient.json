@@ -12583,7 +12583,6 @@
         "FFlagSduiActiveFriendsFooterFix": "True",
         "FFlagToastIncreaseDisplayOrder": "True",
         "FFlagCheckMobilePlayerListScaling": "True",
-        "DFFlagCLI169005_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T22:47:51",
         "FFlagProfilePlatformUseNewLayoutForAssetsCarousel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T22:53:44",
         "FFlagLuaAppUseGameTileImageHelpers": "True",
         "FFlagExtraScriptStats": "True",
@@ -12601,6 +12600,8 @@
         "DFFlagEnableRequireTracingForObjectValues": "True",
         "FFlagReportTextureStreamingTelemetry4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T23:38:26",
         "FFlagTM2EnvUseBaselineDesktop": "True",
+        "FFlagRenderTextureRetryWhenStillTranscoding_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T23:50:16",
+        "DFFlagCLI169005": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14784,9 +14785,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "962b43a9fb9292f5d831f7ac0e8708e2cc49cf0b",
-        "DFStringFlagRepoGitHashDynamicString": "962b43a9fb9292f5d831f7ac0e8708e2cc49cf0b",
-        "FStringFlipTimeStampFastString": "2025-10-20T23:47:31.938Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T23:47:31.938Z"
+        "FStringFlagRepoGitHashFastString": "3d29210f810ded239e99b2a83d63e249b5eb4f54",
+        "DFStringFlagRepoGitHashDynamicString": "3d29210f810ded239e99b2a83d63e249b5eb4f54",
+        "FStringFlipTimeStampFastString": "2025-10-20T23:52:48.388Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T23:52:48.388Z"
     }
 }
