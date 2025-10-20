@@ -12563,7 +12563,6 @@
         "DFFlagHttpServiceInsightsImprovedTelemetry3": "True",
         "FFlagProfilePlatformAddTC_v10": "True",
         "DFFlagLargeReplicatorValidate": "True",
-        "FFlagDeferDependencyChangesInOM_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:05:48",
         "DFFlagGeneratePseudoTraceFromAttributes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:06:08",
         "FFlagFixFmodRuntimeThreadPriorities": "True",
         "FFlagMacSystemThemeEnabled3_IXP": "1;SystemThemeAvailableDesktopWeb;ConsumerPlatforms.SystemThemeAvailableDesktopWeb.Mac;1079329334;flagbank",
@@ -12575,7 +12574,6 @@
         "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:25:15",
         "FFlagSTM6819Enabled": "True",
         "FFlagSduiActiveFriendsFooterFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:25:48",
-        "FFlagFixAndroidSupportedGamepadEnums_Staged": "True;SteadyState;10;30;Revert;2025-10-20T21:30:34",
         "FFlagAppChatEnableDoubleOptInRC3": "True",
         "FFlagLuaAppClientTriggerEventHandler2": "True",
         "FFlagToastIncreaseDisplayOrder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;536933832;2025-10-20T21:40:47",
@@ -12587,6 +12585,9 @@
         "FFlagCapturesUpdateVideoCaptureFailedToastCopy_v2": "True",
         "FFlagTCDoubleOptAnalyticsGrafanaFieldsFixes2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;858337916;2025-10-20T22:02:37",
         "DFFlagTaskSchedulerMeasuresScheduledRestTime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T22:03:03",
+        "FFlagTCWideModeComponentUpdate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;823294652;2025-10-20T22:03:46",
+        "FIntMCPAssistantMaxToolCalls": "10",
+        "FFlagDeferDependencyChangesInOM": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14770,9 +14771,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "cc6a7b66525b4e2188e8867ea829ae926c9b009e",
-        "DFStringFlagRepoGitHashDynamicString": "cc6a7b66525b4e2188e8867ea829ae926c9b009e",
-        "FStringFlipTimeStampFastString": "2025-10-20T22:05:05.202Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T22:05:05.202Z"
+        "FStringFlagRepoGitHashFastString": "f529877b61f5e07a730e5985b4e80ae9e165f866",
+        "DFStringFlagRepoGitHashDynamicString": "f529877b61f5e07a730e5985b4e80ae9e165f866",
+        "FStringFlipTimeStampFastString": "2025-10-20T22:07:50.911Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T22:07:50.911Z"
     }
 }
