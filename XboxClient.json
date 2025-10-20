@@ -12512,7 +12512,7 @@
         "FFlagFixKeyboardFocusInfiniteLoop2": "True",
         "FFlagStudioFireNonRepKeyEventOnStateChange2": "True",
         "FFlagEnableNapEvidenceSeparation": "True",
-        "DFIntFastClusterBuiltEventHundredthsPercentage": "1",
+        "DFIntFastClusterBuiltEventHundredthsPercentage": "3",
         "DFFlagParallelForViaForEach": "True",
         "DFFlagCLI173311": "True",
         "DFFlagMicroprofilerPanOnTouchscreenFix": "True",
@@ -12530,8 +12530,6 @@
         "FFlagAimRefactorUploadSingleRunFunction": "True",
         "FFlagUseTCUserTileForTCChatCard": "True",
         "DFFlagBacktraceUpdateDebugIdentifier": "True",
-        "DFIntFastClusterBuiltEventHundredthsPercentage_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1721099277;2025-10-20T17:55:39",
-        "FFlagAssistantAtCommandBarSecurity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T17:57:47",
         "DFFlagParallelForViaForEach_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T18:03:10",
         "FFlagQuestNESO": "True",
         "FFlagFoundationNumberInputInvalidError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T18:06:31",
@@ -12566,6 +12564,7 @@
         "FFlagFoundationNumberInputSpinboxRespectSnap": "True",
         "FFlagShowNewConnectErrorsMessage": "False",
         "DFFlagHttpServiceInsightsImprovedTelemetry3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T18:56:36",
+        "FFlagAssistantAtCommandBarSecurity": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12926,9 +12925,9 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "DFFlagFlagCacheColdRun2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T18:34:59",
-        "FStringFlagRepoGitHashFastString": "dffdb7a785b9b1e491c937b34a77b33eb3e96f97",
-        "DFStringFlagRepoGitHashDynamicString": "dffdb7a785b9b1e491c937b34a77b33eb3e96f97",
-        "FStringFlipTimeStampFastString": "2025-10-20T19:01:03.475Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T19:01:03.475Z"
+        "FStringFlagRepoGitHashFastString": "dfb7f60b3708b239d74dce2f979843f695e1960e",
+        "DFStringFlagRepoGitHashDynamicString": "dfb7f60b3708b239d74dce2f979843f695e1960e",
+        "FStringFlipTimeStampFastString": "2025-10-20T19:02:22.486Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T19:02:22.486Z"
     }
 }
