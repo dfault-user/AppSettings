@@ -12563,7 +12563,6 @@
         "DFFlagHttpServiceInsightsImprovedTelemetry3": "True",
         "FFlagProfilePlatformAddTC_v10": "True",
         "DFFlagLargeReplicatorValidate": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagDeferDependencyChangesInOM_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:05:48",
         "DFFlagGeneratePseudoTraceFromAttributes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:06:08",
         "FFlagFixFmodRuntimeThreadPriorities": "True",
@@ -12583,8 +12582,12 @@
         "FFlagCheckMobilePlayerListScaling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:41:05",
         "FFlagTCDoubleOptAnalytics": "True",
         "FFlagTCFixDeviceOrientationCheck": "True",
-        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
         "FFlagExtraScriptStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:56:38",
+        "FFlagCapturesUpdateVideoCaptureFailedToastCopy_v2": "True",
+        "FFlagTCDoubleOptAnalyticsGrafanaFieldsFixes2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;858337916;2025-10-20T22:02:37",
+        "DFFlagTaskSchedulerMeasuresScheduledRestTime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T22:03:03",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13462,7 +13465,6 @@
         "FFlagAXAddInventoryItemsListProps_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;150869807;dev_controlled",
         "FFlagAXCustomizeOverhaulCatalogExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1693274933;dev_controlled",
         "FFlagEnableDoubleNotifRegistrationFixV2": "True",
-        "FFlagCapturesUpdateVideoCaptureFailedToastCopy_v2": "True",
         "FFlagSocialTabPreventUnreadCountRaceCondition": "True",
         "FFlagEnableNotifCompletionHandler": "True",
         "FFlagEnableiOSExternalKeyboards": "True",
@@ -13493,9 +13495,9 @@
         "FFlagCapturesDragAffordanceRemovalEnabled_IXP": "1;Social.Capture;Social.Captures.MetricDrop.V3;124233392;dev_controlled",
         "FFlagCapturesDragEdgeOffsetEnabled_IXP": "1;Social.Capture;Social.Captures.MetricDrop.V3;124233392;dev_controlled",
         "FFlagCapturesLayerExposureLoggingEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "78084f0e1883ff5017fe28117e057f39d8505e19",
-        "DFStringFlagRepoGitHashDynamicString": "78084f0e1883ff5017fe28117e057f39d8505e19",
-        "FStringFlipTimeStampFastString": "2025-10-20T22:00:56.532Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T22:00:56.532Z"
+        "FStringFlagRepoGitHashFastString": "cc6a7b66525b4e2188e8867ea829ae926c9b009e",
+        "DFStringFlagRepoGitHashDynamicString": "cc6a7b66525b4e2188e8867ea829ae926c9b009e",
+        "FStringFlipTimeStampFastString": "2025-10-20T22:05:05.202Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T22:05:05.202Z"
     }
 }
