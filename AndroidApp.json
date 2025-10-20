@@ -12563,7 +12563,6 @@
         "DFFlagHttpServiceInsightsImprovedTelemetry3": "True",
         "FFlagProfilePlatformAddTC_v10": "True",
         "DFFlagLargeReplicatorValidate": "True",
-        "FFlagDeferDependencyChangesInOM_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:05:48",
         "DFFlagGeneratePseudoTraceFromAttributes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:06:08",
         "FFlagFixFmodRuntimeThreadPriorities": "True",
         "FFlagMacSystemThemeEnabled3_IXP": "1;SystemThemeAvailableDesktopWeb;ConsumerPlatforms.SystemThemeAvailableDesktopWeb.Mac;1079329334;flagbank",
@@ -12575,7 +12574,6 @@
         "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:25:15",
         "FFlagSTM6819Enabled": "True",
         "FFlagSduiActiveFriendsFooterFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:25:48",
-        "FFlagFixAndroidSupportedGamepadEnums_Staged": "True;SteadyState;10;30;Revert;2025-10-20T21:30:34",
         "FFlagAppChatEnableDoubleOptInRC3": "True",
         "FFlagLuaAppClientTriggerEventHandler2": "True",
         "FFlagToastIncreaseDisplayOrder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;536933832;2025-10-20T21:40:47",
@@ -12589,6 +12587,7 @@
         "DFFlagTaskSchedulerMeasuresScheduledRestTime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T22:03:03",
         "FFlagTCWideModeComponentUpdate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;823294652;2025-10-20T22:03:46",
         "FIntMCPAssistantMaxToolCalls": "10",
+        "FFlagDeferDependencyChangesInOM": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -13509,9 +13508,9 @@
         "FFlagUseAndroidPaymentsProtocolThrobber": "True",
         "FFlagUseAndroidGooglePaymentsProtocolNoIdBugFix": "True",
         "FFlagExtraScriptStats": "True",
-        "FStringFlagRepoGitHashFastString": "b7b9f4cf501d98224a2f9e64b79dcc2f6b9d277a",
-        "DFStringFlagRepoGitHashDynamicString": "b7b9f4cf501d98224a2f9e64b79dcc2f6b9d277a",
-        "FStringFlipTimeStampFastString": "2025-10-20T22:07:33.592Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T22:07:33.592Z"
+        "FStringFlagRepoGitHashFastString": "f529877b61f5e07a730e5985b4e80ae9e165f866",
+        "DFStringFlagRepoGitHashDynamicString": "f529877b61f5e07a730e5985b4e80ae9e165f866",
+        "FStringFlipTimeStampFastString": "2025-10-20T22:07:50.911Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T22:07:50.911Z"
     }
 }
