@@ -12511,9 +12511,6 @@
         "FFlagIgnoreKeyUpEventsForLastInput": "True",
         "FFlagFixKeyboardFocusInfiniteLoop2": "True",
         "FFlagStudioFireNonRepKeyEventOnStateChange2": "True",
-        "FFlagLuauCodegenNilStoreInvalidateValue2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:15:36",
-        "FFlagShowGamepadDisconnectDialog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;691874475;2025-10-20T16:20:06",
-        "DFFlagDebugUpdateClientChannelA_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1527258146;2025-10-20T16:20:13",
         "DFFlagSimCollisionMaskUpdatesMidPhase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:22:45",
         "FFlagEnableVerifiedBadgeStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:25:07",
         "FFlagLuaAppGameTilePaddingsFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:35:48",
@@ -12534,6 +12531,10 @@
         "DFFlagCLI173311": "True",
         "DFFlagMicroprofilerPanOnTouchscreenFix": "True",
         "FFlagRemoveMeInParent2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1775777918;2025-10-20T17:16:06",
+        "DFFlagDebugUpdateClientChannelA": "False",
+        "FFlagShowGamepadDisconnectDialog": "True",
+        "FFlagLuauCodegenNilStoreInvalidateValue2": "True",
+        "FFlagLuaAppUpdateSponsoredLabelStyle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T17:21:19",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13452,9 +13453,9 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "UseCoilImageLibrary": "true",
-        "FStringFlagRepoGitHashFastString": "0d563edbddf93ace7af2cabf7ea57690ea7bd5cf",
-        "DFStringFlagRepoGitHashDynamicString": "0d563edbddf93ace7af2cabf7ea57690ea7bd5cf",
-        "FStringFlipTimeStampFastString": "2025-10-20T17:18:02.992Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T17:18:02.992Z"
+        "FStringFlagRepoGitHashFastString": "9a6580e85a977d712487dbe966c4d0d6080e99fb",
+        "DFStringFlagRepoGitHashDynamicString": "9a6580e85a977d712487dbe966c4d0d6080e99fb",
+        "FStringFlipTimeStampFastString": "2025-10-20T17:23:04.628Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T17:23:04.628Z"
     }
 }
