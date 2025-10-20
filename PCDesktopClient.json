@@ -12594,6 +12594,7 @@
         "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix2": "True",
         "FFlagSduiActiveFriendsFooterFix": "True",
         "DFFlagEnableRequireTracingForObjectValues_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;510227633;2025-10-20T22:33:02",
+        "FFlagTM2EnvUseBaselineDesktop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T22:41:35",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13562,11 +13563,11 @@
         "FFlagAXRootSlotBasedEditorFlag6_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;108964855;dev_controlled",
         "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
         "FFlagStepTransparencyEvenNotInteractable": "True",
-        "FFlagFCRouteSecondaryParts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:40:07",
         "DFFlagSimAdaptiveUseNewVelocityCriteria_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T22:34:06",
-        "FStringFlagRepoGitHashFastString": "e01e39c5a6a8bb0070af4fe0855fabc79d59ecd4",
-        "DFStringFlagRepoGitHashDynamicString": "e01e39c5a6a8bb0070af4fe0855fabc79d59ecd4",
-        "FStringFlipTimeStampFastString": "2025-10-20T22:41:49.444Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T22:41:49.444Z"
+        "FFlagFCRouteSecondaryParts": "True",
+        "FStringFlagRepoGitHashFastString": "88b12db5e11f3e84f4867c05ce3a8243ad2af21d",
+        "DFStringFlagRepoGitHashDynamicString": "88b12db5e11f3e84f4867c05ce3a8243ad2af21d",
+        "FStringFlipTimeStampFastString": "2025-10-20T22:47:24.296Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T22:47:24.296Z"
     }
 }
