@@ -12519,7 +12519,7 @@
         "CaptureCountersIntervalInMinutes": "5",
         "FFlagLuauCodegenNilStoreInvalidateValue2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:15:36",
         "FFlagShowGamepadDisconnectDialog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;691874475;2025-10-20T16:20:06",
-        "CaptureQTStudioCountersEnabled": "True",
+        "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagSimCollisionMaskUpdatesMidPhase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:22:45",
         "FFlagEnableVerifiedBadgeStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:25:07",
         "FFlagLuaAppGameTilePaddingsFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:35:48",
@@ -12531,6 +12531,7 @@
         "FFlagAimRefactorUploadSingleRunFunction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:45:18",
         "FFlagUseTCUserTileForTCChatCard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:45:54",
         "DFFlagBacktraceUpdateDebugIdentifier_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T16:53:38",
+        "CaptureQTStudioCountersEnabled": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13031,7 +13032,6 @@
         "FFlagAppChatConversationBadgingLogging": "True",
         "DFFlagSunsetFadingSun": "True",
         "FFlagIASBindingStates2": "True",
-        "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
@@ -13506,9 +13506,9 @@
         "FFlagVoiceMutexMigration": "True",
         "FFlagAXRootSlotBasedEditorFlag6_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;108964855;dev_controlled",
         "DFFlagDebugUpdateClientChannelA_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1527258146;2025-10-20T16:20:13",
-        "FStringFlagRepoGitHashFastString": "c4d059931bd224f3135b775d7086302cac53669f",
-        "DFStringFlagRepoGitHashDynamicString": "c4d059931bd224f3135b775d7086302cac53669f",
-        "FStringFlipTimeStampFastString": "2025-10-20T16:55:25.208Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T16:55:25.208Z"
+        "FStringFlagRepoGitHashFastString": "573e975becf5e24909714cc15d856a76bffdea64",
+        "DFStringFlagRepoGitHashDynamicString": "573e975becf5e24909714cc15d856a76bffdea64",
+        "FStringFlipTimeStampFastString": "2025-10-20T17:03:58.981Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T17:03:58.981Z"
     }
 }
