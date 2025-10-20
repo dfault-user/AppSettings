@@ -12561,7 +12561,6 @@
         "FFlagDevConsoleMemoryTrackingAlert": "True",
         "DFFlagCreatorExperimentationProviderTelemetry": "True",
         "DFFlagHttpServiceInsightsImprovedTelemetry3": "True",
-        "FFlagSTM6819Enabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T20:23:03",
         "AxisAdornmentGrabSize": "12",
         "AllowVideoPreRoll": "True",
         "FFlagProfilePlatformAddTC_v10": "True",
@@ -12581,6 +12580,8 @@
         "FFlagFixCASMaxTouchButtons": "True",
         "FFlagWindowsSystemThemeEnabled_IXP": "1;SystemThemeAvailableDesktopWeb;ConsumerPlatforms.SystemThemeAvailableDesktopWeb.Windows;457244787;flagbank",
         "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:25:15",
+        "FFlagSTM6819Enabled": "True",
+        "FFlagSduiActiveFriendsFooterFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:25:48",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -13490,9 +13491,9 @@
         "FFlagCapturesDragAffordanceRemovalEnabled_IXP": "1;Social.Capture;Social.Captures.MetricDrop.V3;124233392;dev_controlled",
         "FFlagCapturesDragEdgeOffsetEnabled_IXP": "1;Social.Capture;Social.Captures.MetricDrop.V3;124233392;dev_controlled",
         "FFlagCapturesLayerExposureLoggingEnabled": "True",
-        "FStringFlagRepoGitHashFastString": "d980a2b6e71f63bc95bd0e91f1d27f3e1f5cd44a",
-        "DFStringFlagRepoGitHashDynamicString": "d980a2b6e71f63bc95bd0e91f1d27f3e1f5cd44a",
-        "FStringFlipTimeStampFastString": "2025-10-20T21:26:32.126Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T21:26:32.126Z"
+        "FStringFlagRepoGitHashFastString": "7d36c1cda81c998dc48d09801703a374b2f62e1c",
+        "DFStringFlagRepoGitHashDynamicString": "7d36c1cda81c998dc48d09801703a374b2f62e1c",
+        "FStringFlipTimeStampFastString": "2025-10-20T21:31:45.857Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T21:31:45.857Z"
     }
 }

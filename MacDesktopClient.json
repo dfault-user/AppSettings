@@ -12561,7 +12561,6 @@
         "FFlagDevConsoleMemoryTrackingAlert": "True",
         "DFFlagCreatorExperimentationProviderTelemetry": "True",
         "DFFlagHttpServiceInsightsImprovedTelemetry3": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagAppChatEnableDoubleOptInRC3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;911344875;2025-10-20T20:25:42",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagProfilePlatformAddTC_v10": "True",
@@ -12581,6 +12580,9 @@
         "FFlagFixCASMaxTouchButtons": "True",
         "FFlagWindowsSystemThemeEnabled_IXP": "1;SystemThemeAvailableDesktopWeb;ConsumerPlatforms.SystemThemeAvailableDesktopWeb.Windows;457244787;flagbank",
         "FFlagLuaAppMigrateGameTileActiveFriendsHydrationFix2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:25:15",
+        "FFlagSTM6819Enabled": "True",
+        "FFlagSduiActiveFriendsFooterFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:25:48",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12989,7 +12991,6 @@
         "DFFlagVoiceSdpCompressionSendProtoParseErrorTelemetry": "True",
         "FFlagAXCategoryPillScrollToStart": "True",
         "FFlagVoiceConnectionApiSendSdpParsingErrorTelemetry": "True",
-        "FFlagSTM6819Enabled": "True",
         "DFFlagSolverV2NoModelModeChangesFromNonWorkspaceContainer": "False",
         "FFlagAXHidePBRInfoRowOnAnimatedBudles": "True",
         "FFlagRenderModelClusterEntityCulling": "False",
@@ -13494,9 +13495,9 @@
         "DFIntInvalidEnumValueAttemptToReflectReportHundredthsPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T20:47:20",
         "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
         "DFFlagParallelForViaForEach_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T21:14:56",
-        "FStringFlagRepoGitHashFastString": "d980a2b6e71f63bc95bd0e91f1d27f3e1f5cd44a",
-        "DFStringFlagRepoGitHashDynamicString": "d980a2b6e71f63bc95bd0e91f1d27f3e1f5cd44a",
-        "FStringFlipTimeStampFastString": "2025-10-20T21:26:32.126Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T21:26:32.126Z"
+        "FStringFlagRepoGitHashFastString": "7d36c1cda81c998dc48d09801703a374b2f62e1c",
+        "DFStringFlagRepoGitHashDynamicString": "7d36c1cda81c998dc48d09801703a374b2f62e1c",
+        "FStringFlipTimeStampFastString": "2025-10-20T21:31:45.857Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T21:31:45.857Z"
     }
 }
