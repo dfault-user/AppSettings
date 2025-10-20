@@ -12541,6 +12541,8 @@
         "DFFlagSimUpdateIsManifold_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T17:27:51",
         "FFlagRbxTelemetryStartupShutdownLogs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T17:28:03",
         "DFFlagRbxTelemetryEnableStartEndEvents3_Staged": "True;SteadyState;10;30;Revert;2025-10-20T17:29:29",
+        "FFlagRbxTelemetryHttpCallbackRefactor4_Staged": "True;SteadyState;10;30;Revert;2025-10-20T17:30:16",
+        "FFlagGraphicsGLES3FixBorderColorCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-20T17:31:55",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13513,9 +13515,9 @@
         "FFlagLuaAppClientTriggerEventHandler2": "True",
         "FFlagVoiceMutexMigration": "True",
         "FFlagAXRootSlotBasedEditorFlag6_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;108964855;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "61cf9b46444cd2d186113d83a465304ce4c23dd6",
-        "DFStringFlagRepoGitHashDynamicString": "61cf9b46444cd2d186113d83a465304ce4c23dd6",
-        "FStringFlipTimeStampFastString": "2025-10-20T17:31:42.189Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-20T17:31:42.189Z"
+        "FStringFlagRepoGitHashFastString": "dd9548411a8863104b3769b3127adad616a37809",
+        "DFStringFlagRepoGitHashDynamicString": "dd9548411a8863104b3769b3127adad616a37809",
+        "FStringFlipTimeStampFastString": "2025-10-20T17:33:12.260Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-20T17:33:12.260Z"
     }
 }
