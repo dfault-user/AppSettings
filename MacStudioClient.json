@@ -12605,6 +12605,7 @@
         "AllowVideoPreRoll": "True",
         "FIntVRMaxTotalWaitTimeMs_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:02:39",
         "DFFlagCLI173314_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:09:16",
+        "FFlagFixAndroidSupportedGamepadEnums_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:12:33",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14377,6 +14378,7 @@
         "FFlagStudioInvestigateWriteToFile": "True",
         "FFlagAssistantOmitSystemMessage": "True",
         "FFlagAssistantUseGetEditorSource": "True",
+        "FFlagLuauIterableBindNotUnify_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:11:20",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14787,9 +14789,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "0c7fda308ff01304e5f887265077e54fb518b288",
-        "DFStringFlagRepoGitHashDynamicString": "0c7fda308ff01304e5f887265077e54fb518b288",
-        "FStringFlipTimeStampFastString": "2025-10-21T16:10:09.372Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T16:10:09.372Z"
+        "FStringFlagRepoGitHashFastString": "0f775244bf647e3ab2c85b7551025b9247a498f3",
+        "DFStringFlagRepoGitHashDynamicString": "0f775244bf647e3ab2c85b7551025b9247a498f3",
+        "FStringFlipTimeStampFastString": "2025-10-21T16:14:44.553Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T16:14:44.553Z"
     }
 }
