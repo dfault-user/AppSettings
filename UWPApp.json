@@ -12636,7 +12636,6 @@
         "FFlagSocialTabPreventUnreadCountRaceCondition": "True",
         "FFlagSwitchProductPurchaseContainerErrorPromptV4": "True",
         "DFFlagTeleportSolution": "True",
-        "FFlagFixTileSizeScalingWithUIScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T20:42:55",
         "FFlagForceMonoAudioEmitters_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T20:56:16",
         "FFlagRenderLegacyShadowsQualityRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T20:57:56",
         "FFlagAppChatUseTCUserTileForOSACard": "True",
@@ -12648,6 +12647,7 @@
         "DFFlagBatchLogEventSenderAttachRolloutFlags": "True",
         "FFlagRCCReportInitialization": "True",
         "DFFlagWebViewAdjustWithScreenScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T21:37:35",
+        "FFlagFixTileSizeScalingWithUIScale": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12947,9 +12947,9 @@
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
         "FFlagInGameMenuAddChatLineReporting5_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1-1761068633;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1;1401781319;flagbank",
-        "FStringFlagRepoGitHashFastString": "aaf87d48b69cdb05d3f904cdb0819ad5a3ae0355",
-        "DFStringFlagRepoGitHashDynamicString": "aaf87d48b69cdb05d3f904cdb0819ad5a3ae0355",
-        "FStringFlipTimeStampFastString": "2025-10-21T21:47:27.949Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T21:47:27.949Z"
+        "FStringFlagRepoGitHashFastString": "aa195d66087447b93a961b942cedd163f72ac64f",
+        "DFStringFlagRepoGitHashDynamicString": "aa195d66087447b93a961b942cedd163f72ac64f",
+        "FStringFlipTimeStampFastString": "2025-10-21T21:53:26.034Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T21:53:26.034Z"
     }
 }
