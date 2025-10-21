@@ -12640,7 +12640,6 @@
         "FFlagAppChatConversationBadgingLogging": "True",
         "DFFlagBatchLogEventSenderAttachRolloutFlags": "True",
         "FFlagRCCReportInitialization": "True",
-        "DFFlagWebViewAdjustWithScreenScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T21:37:35",
         "FFlagFixTileSizeScalingWithUIScale": "True",
         "FFlagForceMonoAudioEmitters": "True",
         "FFlagRenderLegacyShadowsQualityRefactor": "True",
@@ -12653,6 +12652,7 @@
         "FFlagAXUnifiedMarketplaceResultsFetcherV2": "True",
         "FFlagLuaAppDerivedStackAndSwitchState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:22:40",
         "FFlagAssetInsertComponent": "True",
+        "DFFlagWebViewAdjustWithScreenScale": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13574,9 +13574,9 @@
         "FFlagUseAppCrashpadReporterForAndroidHangMonitor": "True",
         "FFlagFixAndroidNoMic_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:08:20",
         "FFlagFmodFallbackAaudioToOpensl_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:09:00",
-        "FStringFlagRepoGitHashFastString": "3f3e499fae11c8d53d689009436a448ac9091110",
-        "DFStringFlagRepoGitHashDynamicString": "3f3e499fae11c8d53d689009436a448ac9091110",
-        "FStringFlipTimeStampFastString": "2025-10-21T22:42:19.575Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T22:42:19.575Z"
+        "FStringFlagRepoGitHashFastString": "eb0866978270eab65fa639833c1d9af4acdc0837",
+        "DFStringFlagRepoGitHashDynamicString": "eb0866978270eab65fa639833c1d9af4acdc0837",
+        "FStringFlipTimeStampFastString": "2025-10-21T22:44:35.397Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T22:44:35.397Z"
     }
 }
