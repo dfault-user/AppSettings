@@ -9027,7 +9027,7 @@
         "DFFlagSimDcdRemoveGetMesh": "True",
         "DFFlagRakNetPrioritizedReceive": "True",
         "FFlagNavigationImprovedSearchCounter": "True",
-        "DFFlagSimExecuteClientOnlyFallenParts": "False",
+        "DFFlagSimExecuteClientOnlyFallenParts": "True",
         "DFFlagCrash155229Fix": "True",
         "FFlagPerformanceControlMemInfoPread2": "True",
         "DFFlagISRAddTimePerformanceMetrics": "True",
@@ -12644,7 +12644,6 @@
         "FFlagRenderLegacyShadowsQualityRefactor": "True",
         "FFlagAppChatMultilineDisabled2": "True",
         "FFlagEnableOctreeIsFiniteChecks": "True",
-        "DFFlagSimExecuteClientOnlyFallenParts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:17:03",
         "FFlagAXUnifiedMarketplaceResultsFetcherV2": "True",
         "FFlagLuaAppDerivedStackAndSwitchState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:22:40",
         "FFlagAssetInsertComponent": "True",
@@ -13561,9 +13560,9 @@
         "DFFlagReportDummyClientConnectionAttemptResult": "True",
         "DFIntNetStackDummyClientConnectResultPointsThrottleHP": "10000",
         "DFIntNetStackDummyClientPingStatsThrottleHP": "10000",
-        "FStringFlagRepoGitHashFastString": "1882054ad918444c0cae1552073560787180598a",
-        "DFStringFlagRepoGitHashDynamicString": "1882054ad918444c0cae1552073560787180598a",
-        "FStringFlipTimeStampFastString": "2025-10-21T23:21:55.479Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T23:21:55.479Z"
+        "FStringFlagRepoGitHashFastString": "77e46773ba8dba81630b77c993ec6c737a4d88a4",
+        "DFStringFlagRepoGitHashDynamicString": "77e46773ba8dba81630b77c993ec6c737a4d88a4",
+        "FStringFlipTimeStampFastString": "2025-10-21T23:33:15.407Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T23:33:15.407Z"
     }
 }
