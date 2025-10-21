@@ -12647,8 +12647,6 @@
         "FFlagAXUnifiedMarketplaceResultsFetcherV2": "True",
         "FFlagAssetInsertComponent": "True",
         "DFFlagWebViewAdjustWithScreenScale": "True",
-        "DFFlagWebSocketHttpRequestType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:45:25",
-        "DFFlagWebSocketSecrets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:48:53",
         "FFlagVoiceWebrtcConnectionOperationEnabled": "True",
         "DFFlagVoiceSdpCompressionSendProtoParseErrorTelemetry": "True",
         "FFlagEnableProfilePlatformDisabledReasonText": "True",
@@ -12656,6 +12654,8 @@
         "FFlagLuaAppDerivedStackAndSwitchState": "True",
         "FFlagNewNavBarPlacementFixSocial": "True",
         "FFlagNewNavBarPlacementFixAvatar": "True",
+        "DFFlagWebSocketHttpRequestType": "True",
+        "DFFlagWebSocketSecrets": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12956,9 +12956,9 @@
         "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
         "FFlagInGameMenuAddChatLineReporting5_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1-1761068633;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1;1401781319;flagbank",
         "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": "True",
-        "FStringFlagRepoGitHashFastString": "687e85edc73baaf0d6c36a08da6a4a9210b6d7ec",
-        "DFStringFlagRepoGitHashDynamicString": "687e85edc73baaf0d6c36a08da6a4a9210b6d7ec",
-        "FStringFlipTimeStampFastString": "2025-10-21T23:39:35.167Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T23:39:35.167Z"
+        "FStringFlagRepoGitHashFastString": "27ae1c45fa50bb41a391d30d47e094cbd4d6dcfa",
+        "DFStringFlagRepoGitHashDynamicString": "27ae1c45fa50bb41a391d30d47e094cbd4d6dcfa",
+        "FStringFlipTimeStampFastString": "2025-10-21T23:57:42.237Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T23:57:42.237Z"
     }
 }
