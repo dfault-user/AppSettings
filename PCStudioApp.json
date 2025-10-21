@@ -12630,6 +12630,8 @@
         "FIntFAEWithWebViewCallbackPollMaxRetries_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:23:39",
         "AllowVideoPreRoll": "True",
         "DFFlagTeleportSolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:41:00",
+        "FFlagLuauCodeGenVectorLerp2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:55:03",
+        "FFlagUseCrashpadDirectlyForAndroidHangMonitor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:57:21",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14838,9 +14840,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "307f6eda3eeae37c6abf987f602022ee0346ab09",
-        "DFStringFlagRepoGitHashDynamicString": "307f6eda3eeae37c6abf987f602022ee0346ab09",
-        "FStringFlipTimeStampFastString": "2025-10-21T19:36:59.007Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T19:36:59.007Z"
+        "FStringFlagRepoGitHashFastString": "ddf7d825bbe5bc15bb93b6f3a39dfe6165117abb",
+        "DFStringFlagRepoGitHashDynamicString": "ddf7d825bbe5bc15bb93b6f3a39dfe6165117abb",
+        "FStringFlipTimeStampFastString": "2025-10-21T19:39:01.683Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T19:39:01.683Z"
     }
 }
