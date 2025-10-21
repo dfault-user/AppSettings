@@ -12602,10 +12602,9 @@
         "DFFlagNetworkSchemaFixHash": "True",
         "FFlagReportTextureStreamingTelemetry4": "True",
         "FFlagRenderTextureRetryWhenStillTranscoding": "True",
-        "DFFlagCLI173314_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:09:16",
         "FFlagFixAndroidSupportedGamepadEnums_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:12:33",
         "FFlagLuauSubtypingGenericPacksDoesntUseVariance2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:30:20",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagEnableAdsMouseUnlock": "True",
         "FFlagAXMISRemoveItemIdKeyTryOnItems3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:45:33",
         "FFlagLuaAppAddSchemaFieldsToPlayIntent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:45:36",
         "FFlagSocialCarouselAddFriendsActionType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:46:01",
@@ -12618,6 +12617,8 @@
         "FIntVRMaxTotalWaitTimeMs": "500",
         "DFFlagLargeReplicatorCancel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T17:06:09",
         "FFlagLuaAppLimitEventThumbnailToOne_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T17:07:42",
+        "DFFlagCLI173314": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14392,7 +14393,6 @@
         "FFlagAssistantUseGetEditorSource": "True",
         "FFlagLuauIterableBindNotUnify_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:11:20",
         "FFlagViewportDisplaySizeAPI2BetaFeature_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:47:25",
-        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -14827,9 +14827,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "05bc2a9a90b0b55a35be3492437dcacda5ec4df4",
-        "DFStringFlagRepoGitHashDynamicString": "05bc2a9a90b0b55a35be3492437dcacda5ec4df4",
-        "FStringFlipTimeStampFastString": "2025-10-21T17:08:55.844Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T17:08:55.844Z"
+        "FStringFlagRepoGitHashFastString": "dccdfc607f4a0aee72f76b72a797fa70e7801072",
+        "DFStringFlagRepoGitHashDynamicString": "dccdfc607f4a0aee72f76b72a797fa70e7801072",
+        "FStringFlipTimeStampFastString": "2025-10-21T17:13:22.339Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T17:13:22.339Z"
     }
 }
