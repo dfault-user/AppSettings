@@ -12645,7 +12645,6 @@
         "FFlagAppChatMultilineDisabled2": "True",
         "FFlagEnableOctreeIsFiniteChecks": "True",
         "FFlagAXUnifiedMarketplaceResultsFetcherV2": "True",
-        "FFlagLuaAppDerivedStackAndSwitchState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:22:40",
         "FFlagAssetInsertComponent": "True",
         "DFFlagWebViewAdjustWithScreenScale": "True",
         "DFFlagWebSocketHttpRequestType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:45:25",
@@ -12654,6 +12653,7 @@
         "DFFlagVoiceSdpCompressionSendProtoParseErrorTelemetry": "True",
         "FFlagEnableProfilePlatformDisabledReasonText": "True",
         "FIntSQLiteWalAutoCheckpoint_Staged": "4000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T23:27:37",
+        "FFlagLuaAppDerivedStackAndSwitchState": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13010,9 +13010,9 @@
         "FFlagDisableMemoryTrackingRollout2": "True",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
-        "FStringFlagRepoGitHashFastString": "77e46773ba8dba81630b77c993ec6c737a4d88a4",
-        "DFStringFlagRepoGitHashDynamicString": "77e46773ba8dba81630b77c993ec6c737a4d88a4",
-        "FStringFlipTimeStampFastString": "2025-10-21T23:33:15.407Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T23:33:15.407Z"
+        "FStringFlagRepoGitHashFastString": "a0c599e4e31d410dbf60e43a21423f43763decf2",
+        "DFStringFlagRepoGitHashDynamicString": "a0c599e4e31d410dbf60e43a21423f43763decf2",
+        "FStringFlipTimeStampFastString": "2025-10-21T23:37:39.360Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T23:37:39.360Z"
     }
 }
