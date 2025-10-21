@@ -12608,9 +12608,9 @@
         "DFFlagLargeReplicatorCancel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T17:06:09",
         "FFlagLuaAppLimitEventThumbnailToOne_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T17:07:42",
         "DFFlagCLI173314": "True",
+        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagFixAndroidSupportedGamepadEnums": "True",
         "DFFlagPhotoToAvatarCheckEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T17:30:04",
         "FFlagLuauSubtypingGenericPacksDoesntUseVariance2": "True",
@@ -12628,7 +12628,7 @@
         "FFlagFixRobloxProcInBgDuringRewardedVideo4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:14:04",
         "FFlagRemoveUnusedTopBarNotifications_IXP": "1;InExperience.Performance;InExperience.Performance.UnreadChat.InvisibleNotif;961620217;flagbank",
         "FIntFAEWithWebViewCallbackPollMaxRetries_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:23:39",
-        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
+        "FFlagEnableAdsMouseUnlock": "True",
         "DFFlagTeleportSolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:41:00",
         "FFlagLuauCodeGenVectorLerp2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:55:03",
         "FFlagUseCrashpadDirectlyForAndroidHangMonitor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:57:21",
@@ -12637,7 +12637,7 @@
         "FFlagWebBrowserWinTerminateBrowserProcessEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1656742494;2025-10-21T19:24:25",
         "FFlagWebBrowserWinUseMessageHwnd_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1656742494;2025-10-21T19:24:25",
         "FFlagAppChatUseTCUserTileForOSACard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T19:57:57",
-        "FFlagEnableAdsMouseUnlock": "True",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
@@ -13540,9 +13540,9 @@
         "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
         "DFFlagInvalidEnumValueAttemptToReflect": "True",
         "DFIntInvalidEnumValueAttemptToReflectReportHundredthsPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "37a4b2dda514ed67f176125a995eb454881d0675",
-        "DFStringFlagRepoGitHashDynamicString": "37a4b2dda514ed67f176125a995eb454881d0675",
-        "FStringFlipTimeStampFastString": "2025-10-21T20:06:43.374Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T20:06:43.374Z"
+        "FStringFlagRepoGitHashFastString": "1fc3ef7bb8d8eb2c36e0ce611baa1e7474bae982",
+        "DFStringFlagRepoGitHashDynamicString": "1fc3ef7bb8d8eb2c36e0ce611baa1e7474bae982",
+        "FStringFlipTimeStampFastString": "2025-10-21T20:19:29.591Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T20:19:29.591Z"
     }
 }
