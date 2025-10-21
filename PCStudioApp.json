@@ -12638,6 +12638,7 @@
         "FFlagWebBrowserWinUseMessageHwnd_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1656742494;2025-10-21T19:24:25",
         "FFlagAppChatUseTCUserTileForOSACard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T19:57:57",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagRenderLegacyShadowsQualityRefactor_Staged": "True;SteadyState;10;30;Revert;2025-10-21T20:17:01",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14810,6 +14811,7 @@
         "DFFlagSunsetFadingSun": "True",
         "FFlagIASBindingStates2": "True",
         "FFlagFastClusterIgnoreMeshPartJointOffset2": "True",
+        "DFFlagSimAccountForAeroForcesInJump2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T20:19:16",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -14842,9 +14844,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "0b19bd4450bde7db66580abab6b19390a2640a38",
-        "DFStringFlagRepoGitHashDynamicString": "0b19bd4450bde7db66580abab6b19390a2640a38",
-        "FStringFlipTimeStampFastString": "2025-10-21T20:19:52.115Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T20:19:52.115Z"
+        "FStringFlagRepoGitHashFastString": "c5f05be35f6f43e30d1a6cc2cf25259fc1a71c82",
+        "DFStringFlagRepoGitHashDynamicString": "c5f05be35f6f43e30d1a6cc2cf25259fc1a71c82",
+        "FStringFlipTimeStampFastString": "2025-10-21T20:21:42.491Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T20:21:42.491Z"
     }
 }
