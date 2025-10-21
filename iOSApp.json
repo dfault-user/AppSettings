@@ -12614,6 +12614,8 @@
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "FFlagViewportDisplaySizeAPI2BetaFeature_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:47:25",
+        "DFFlagRespectDoNotAllowBaseline_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:53:32",
+        "FFlagLuaAppDisplayStoreSpatialSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2061796666;2025-10-21T16:55:02",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -13519,9 +13521,9 @@
         "FFlagCapturesDragEdgeOffsetEnabled_IXP": "1;Social.Capture;Social.Captures.MetricDrop.V3;124233392;dev_controlled",
         "FFlagCapturesLayerExposureLoggingEnabled": "True",
         "FFlagAXRevertCategoryReducerChange": "True",
-        "FStringFlagRepoGitHashFastString": "f3b54c3d4b004c4f21cebe99df2faf6305b593f4",
-        "DFStringFlagRepoGitHashDynamicString": "f3b54c3d4b004c4f21cebe99df2faf6305b593f4",
-        "FStringFlipTimeStampFastString": "2025-10-21T16:52:07.972Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T16:52:07.972Z"
+        "FStringFlagRepoGitHashFastString": "8a8ce002dfa97d3be288da9d7a7b65bd7ba6f08a",
+        "DFStringFlagRepoGitHashDynamicString": "8a8ce002dfa97d3be288da9d7a7b65bd7ba6f08a",
+        "FStringFlipTimeStampFastString": "2025-10-21T16:55:46.314Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T16:55:46.314Z"
     }
 }
