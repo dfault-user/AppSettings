@@ -12642,9 +12642,6 @@
         "FFlagFixTileSizeScalingWithUIScale": "True",
         "FFlagForceMonoAudioEmitters": "True",
         "FFlagRenderLegacyShadowsQualityRefactor": "True",
-        "FFlagEnableProfilePlatformDisabledReasonText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:01:46",
-        "FFlagVoiceWebrtcConnectionOperationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:02:44",
-        "DFFlagVoiceSdpCompressionSendProtoParseErrorTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:03:25",
         "FFlagAppChatMultilineDisabled2": "True",
         "FFlagEnableOctreeIsFiniteChecks": "True",
         "DFFlagSimExecuteClientOnlyFallenParts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:17:03",
@@ -12654,6 +12651,9 @@
         "DFFlagWebViewAdjustWithScreenScale": "True",
         "DFFlagWebSocketHttpRequestType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:45:25",
         "DFFlagWebSocketSecrets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:48:53",
+        "FFlagVoiceWebrtcConnectionOperationEnabled": "True",
+        "DFFlagVoiceSdpCompressionSendProtoParseErrorTelemetry": "True",
+        "FFlagEnableProfilePlatformDisabledReasonText": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12953,10 +12953,10 @@
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
         "FFlagInGameMenuAddChatLineReporting5_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1-1761068633;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1;1401781319;flagbank",
-        "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1402120007;2025-10-21T22:05:01",
-        "FStringFlagRepoGitHashFastString": "77274fc60f7b345cfc1d8599b33e09edd75f3d1f",
-        "DFStringFlagRepoGitHashDynamicString": "77274fc60f7b345cfc1d8599b33e09edd75f3d1f",
-        "FStringFlipTimeStampFastString": "2025-10-21T23:06:49.456Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T23:06:49.456Z"
+        "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": "True",
+        "FStringFlagRepoGitHashFastString": "2d83955b17aa62855684536cf8bd634a086249de",
+        "DFStringFlagRepoGitHashDynamicString": "2d83955b17aa62855684536cf8bd634a086249de",
+        "FStringFlipTimeStampFastString": "2025-10-21T23:10:46.235Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T23:10:46.235Z"
     }
 }
