@@ -12632,6 +12632,11 @@
         "DFFlagTeleportSolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:41:00",
         "FFlagLuauCodeGenVectorLerp2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:55:03",
         "FFlagUseCrashpadDirectlyForAndroidHangMonitor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T18:57:21",
+        "FFlagWebBrowserEnablePreInitialize4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1656742494;2025-10-21T19:24:25",
+        "FFlagWebBrowserWinNewCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1656742494;2025-10-21T19:24:25",
+        "FFlagWebBrowserWinTerminateBrowserProcessEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1656742494;2025-10-21T19:24:25",
+        "FFlagWebBrowserWinUseMessageHwnd_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1656742494;2025-10-21T19:24:25",
+        "DFFlagNoReconnectPrivateToPublicServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T19:28:15",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14275,10 +14280,6 @@
         "FFlagAimEnableUploadMetrics": "True",
         "FFlagStudioFixPlaySoloTelemetryTaskCondition": "True",
         "FFlagHideWidgetWhenOptout": "True",
-        "FFlagWebBrowserEnablePreInitialize4_IXP": "1;Portal.ToolboxPreWarmSep2025-1758828277;ToolboxPreWarmSep2025;574005052;flagbank",
-        "FFlagWebBrowserWinNewCleanup_IXP": "1;Portal.ToolboxPreWarmSep2025-1758828277;ToolboxPreWarmSep2025;574005052;flagbank",
-        "FFlagWebBrowserWinTerminateBrowserProcessEnabled_IXP": "1;Portal.ToolboxPreWarmSep2025-1758828277;ToolboxPreWarmSep2025;574005052;flagbank",
-        "FFlagWebBrowserWinUseMessageHwnd_IXP": "1;Portal.ToolboxPreWarmSep2025-1758828277;ToolboxPreWarmSep2025;574005052;flagbank",
         "FFlagRemoveWarningForIconFailures": "True",
         "FFlagStudioInProcessTeamTest4": "True",
         "FFlagAimUploadUseKnownAssetCache": "True",
@@ -14814,9 +14815,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "ddf7d825bbe5bc15bb93b6f3a39dfe6165117abb",
-        "DFStringFlagRepoGitHashDynamicString": "ddf7d825bbe5bc15bb93b6f3a39dfe6165117abb",
-        "FStringFlipTimeStampFastString": "2025-10-21T19:39:01.683Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T19:39:01.683Z"
+        "FStringFlagRepoGitHashFastString": "cf1484b1c5b04297b2dd3c35e477e772546703bc",
+        "DFStringFlagRepoGitHashDynamicString": "cf1484b1c5b04297b2dd3c35e477e772546703bc",
+        "FStringFlipTimeStampFastString": "2025-10-21T19:55:35.348Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T19:55:35.348Z"
     }
 }
