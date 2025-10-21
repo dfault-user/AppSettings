@@ -12602,7 +12602,7 @@
         "DFFlagNetworkSchemaFixHash": "True",
         "FFlagReportTextureStreamingTelemetry4": "True",
         "FFlagRenderTextureRetryWhenStillTranscoding": "True",
-        "AllowVideoPreRoll": "True",
+        "AxisAdornmentGrabSize": "12",
         "FIntVRMaxTotalWaitTimeMs_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:02:39",
         "DFFlagCLI173314_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:09:16",
         "FFlagFixAndroidSupportedGamepadEnums_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:12:33",
@@ -12613,7 +12613,7 @@
         "FFlagSocialCarouselAddFriendsActionType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:46:01",
         "FFlagLuaAppAddSduiGameRowTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:46:26",
         "FFlagLuaAppGameClicksMoreSchemaFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:46:51",
-        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14386,6 +14386,7 @@
         "FFlagAssistantOmitSystemMessage": "True",
         "FFlagAssistantUseGetEditorSource": "True",
         "FFlagLuauIterableBindNotUnify_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:11:20",
+        "FFlagViewportDisplaySizeAPI2BetaFeature_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:47:25",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -14821,9 +14822,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "16d1b83b8cfc2e09ff2b8476dc635c339d07fe5f",
-        "DFStringFlagRepoGitHashDynamicString": "16d1b83b8cfc2e09ff2b8476dc635c339d07fe5f",
-        "FStringFlipTimeStampFastString": "2025-10-21T16:51:21.218Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T16:51:21.218Z"
+        "FStringFlagRepoGitHashFastString": "f3b54c3d4b004c4f21cebe99df2faf6305b593f4",
+        "DFStringFlagRepoGitHashDynamicString": "f3b54c3d4b004c4f21cebe99df2faf6305b593f4",
+        "FStringFlipTimeStampFastString": "2025-10-21T16:52:07.972Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T16:52:07.972Z"
     }
 }
