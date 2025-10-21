@@ -3042,7 +3042,7 @@
         "FFlagStudioForceReauthenticationOnGameJoin403": "True",
         "FFlagCOLLAB5863CollaborateTelemetry": "True",
         "FFlagUserSearchUseNewEndpointIXP": "True",
-        "DFFlagOverlappedAddToFilter": "True",
+        "DFFlagOverlappedAddToFilter": "False",
         "FFlagAXImproveTryOnManagerUI": "True",
         "FFlagUnequipAccessoriesBeforeLookTryOn3": "True",
         "FFlagStopStreamTrackOnDeath": "True",
@@ -12602,7 +12602,6 @@
         "DFFlagNetworkSchemaFixHash": "True",
         "FFlagReportTextureStreamingTelemetry4": "True",
         "FFlagRenderTextureRetryWhenStillTranscoding": "True",
-        "DFFlagOverlappedAddToFilter_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T15:57:12",
         "FIntVRMaxTotalWaitTimeMs_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:02:39",
         "DFFlagCLI173314_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:09:16",
         "FFlagFixAndroidSupportedGamepadEnums_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T16:12:33",
@@ -13521,9 +13520,9 @@
         "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
         "DFFlagInvalidEnumValueAttemptToReflect": "True",
         "DFIntInvalidEnumValueAttemptToReflectReportHundredthsPercentage": "100",
-        "FStringFlagRepoGitHashFastString": "6dbce3cb06ae99f33a96b35338ec9e8efe4d19af",
-        "DFStringFlagRepoGitHashDynamicString": "6dbce3cb06ae99f33a96b35338ec9e8efe4d19af",
-        "FStringFlipTimeStampFastString": "2025-10-21T16:58:47.280Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T16:58:47.280Z"
+        "FStringFlagRepoGitHashFastString": "9131d971cb14cbf2911fd165e832e31093bb430f",
+        "DFStringFlagRepoGitHashDynamicString": "9131d971cb14cbf2911fd165e832e31093bb430f",
+        "FStringFlipTimeStampFastString": "2025-10-21T17:03:46.931Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T17:03:46.931Z"
     }
 }
