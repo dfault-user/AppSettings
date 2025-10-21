@@ -12637,7 +12637,6 @@
         "FFlagSwitchProductPurchaseContainerErrorPromptV4": "True",
         "DFFlagTeleportSolution": "True",
         "FFlagAppChatUseTCUserTileForOSACard": "True",
-        "FFlagAppChatMultilineDisabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T21:04:41",
         "FFlagEnableOctreeIsFiniteChecks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1325165568;2025-10-21T21:11:02",
         "FFlagAXUnifiedMarketplaceResultsFetcherV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1798868124;2025-10-21T21:19:55",
         "FFlagAppChatConversationBadgingLogging": "True",
@@ -12649,6 +12648,9 @@
         "FFlagForceMonoAudioEmitters": "True",
         "FFlagRenderLegacyShadowsQualityRefactor": "True",
         "FFlagEnableProfilePlatformDisabledReasonText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:01:46",
+        "FFlagVoiceWebrtcConnectionOperationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:02:44",
+        "DFFlagVoiceSdpCompressionSendProtoParseErrorTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:03:25",
+        "FFlagAppChatMultilineDisabled2": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -12948,9 +12950,10 @@
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
         "FFlagInGameMenuAddChatLineReporting5_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1-1761068633;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1;1401781319;flagbank",
-        "FStringFlagRepoGitHashFastString": "b4d166b15a3f59605c11fae0d448cefb5cac2032",
-        "DFStringFlagRepoGitHashDynamicString": "b4d166b15a3f59605c11fae0d448cefb5cac2032",
-        "FStringFlipTimeStampFastString": "2025-10-21T22:07:33.866Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T22:07:33.866Z"
+        "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1402120007;2025-10-21T22:05:01",
+        "FStringFlagRepoGitHashFastString": "5c142a169059a49f5c8306080a0cc1c36e78e0fa",
+        "DFStringFlagRepoGitHashDynamicString": "5c142a169059a49f5c8306080a0cc1c36e78e0fa",
+        "FStringFlipTimeStampFastString": "2025-10-21T22:09:35.733Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T22:09:35.733Z"
     }
 }
