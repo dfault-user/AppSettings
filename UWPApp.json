@@ -12676,7 +12676,6 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "FFlagFixFadeOutRaceCondition": "True",
         "FFlagAXPeekViewContentShouldNotBeSelectable": "True",
-        "DFFlagEnableRobloxTelemetryBindingsV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T19:59:32",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "FFlagNewTextureTranscoder3": "True",
@@ -12689,6 +12688,8 @@
         "DFFlagSimExecuteClientOnlyFallenParts_PlaceFilter": "False;99758842280353",
         "FFlagFixTileSizeScalingWithUIScale_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1655751440;2025-10-22T21:00:28",
         "FLogCrossExperienceVoiceController_Staged": "Error;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T21:00:54",
+        "DFFlagEnableRobloxTelemetryBindingsV2": "True",
+        "FLogAudioFocusManager_Staged": "Error;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T21:01:41",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -12986,10 +12987,10 @@
         "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
         "FFlagInGameMenuAddChatLineReporting5_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1-1761068633;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1;1401781319;flagbank",
         "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": "True",
-        "FFlagAXMigrateMainNavigationInputBindings_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T20:00:57",
-        "FStringFlagRepoGitHashFastString": "3c737150e065cf7b7d9b2fb9281028dafb4cd021",
-        "DFStringFlagRepoGitHashDynamicString": "3c737150e065cf7b7d9b2fb9281028dafb4cd021",
-        "FStringFlipTimeStampFastString": "2025-10-22T21:03:54.870Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-22T21:03:54.870Z"
+        "FFlagAXMigrateMainNavigationInputBindings": "True",
+        "FStringFlagRepoGitHashFastString": "df413818099e430d98b2aefdbf488c85bae5157f",
+        "DFStringFlagRepoGitHashDynamicString": "df413818099e430d98b2aefdbf488c85bae5157f",
+        "FStringFlipTimeStampFastString": "2025-10-22T21:07:10.550Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-22T21:07:10.550Z"
     }
 }
