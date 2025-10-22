@@ -12682,8 +12682,6 @@
         "DFFlagEnableRobloxTelemetryBindingsV2": "True",
         "FFlagAXAdjustmentFullscreenFix": "True",
         "FFlagAXDisableGamepadPanning": "True",
-        "FFlagExecuteScriptActionContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T21:19:22",
-        "FFlagAXRemoveExtraButtonText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T21:19:27",
         "FFlagEnableAdsCtaRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T21:22:34",
         "FFlagFindNextActionContext": "True",
         "DFFlagMicroProfilerRejectShift": "True",
@@ -12738,6 +12736,8 @@
         "FFlagNewNavBarPlacementIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;928312100;2025-10-22T22:08:23",
         "FFlagObjectBrowserActionContext": "True",
         "FFlagResetScriptZoomActionContext": "True",
+        "FFlagExecuteScriptActionContext": "True",
+        "FFlagAXRemoveExtraButtonText": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13094,9 +13094,9 @@
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "FFlagNewStrengthInNumbersLua": "True",
         "FFlagAXNoCarouselsOnCatalogWithGamepad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T21:55:55",
-        "FStringFlagRepoGitHashFastString": "9d11f49c20136a2cee649fd6319cbf062aa630c1",
-        "DFStringFlagRepoGitHashDynamicString": "9d11f49c20136a2cee649fd6319cbf062aa630c1",
-        "FStringFlipTimeStampFastString": "2025-10-22T22:21:34.641Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-22T22:21:34.641Z"
+        "FStringFlagRepoGitHashFastString": "93cd8ac8c1d5ba68b4b12c5a4371fad0992c4cf9",
+        "DFStringFlagRepoGitHashDynamicString": "93cd8ac8c1d5ba68b4b12c5a4371fad0992c4cf9",
+        "FStringFlipTimeStampFastString": "2025-10-22T22:26:59.408Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-22T22:26:59.408Z"
     }
 }
