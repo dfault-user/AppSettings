@@ -12676,8 +12676,6 @@
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "FFlagFixFadeOutRaceCondition": "True",
         "FFlagAXPeekViewContentShouldNotBeSelectable": "True",
-        "FFlagAXDisableGamepadPanning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T20:02:03",
-        "AllowVideoPreRoll": "True",
         "FFlagNewTextureTranscoder3": "True",
         "FFlagFindNextActionContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T20:21:03",
         "FFlagAcousticSimulationWriteFavoringLocks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T20:21:50",
@@ -12692,6 +12690,11 @@
         "FLogAudioFocusManager_Staged": "Error;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T21:01:41",
         "DFFlagSimExecuteClientOnlyFallenParts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T21:02:00",
         "FLogAudioFocusService_Staged": "Error;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T21:02:38",
+        "FFlagGetMeshPartJointOffsetTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T21:02:42",
+        "DFIntVoiceWebrtcIceInActiveTimeoutMs_Staged": "30000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T21:05:04",
+        "FFlagAXAdjustmentFullscreenFix": "True",
+        "FFlagAXDisableGamepadPanning": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13025,7 +13028,6 @@
         "FFlagNotificationsComplianceShouldRestrictStream": "True",
         "DFFlagEnableFeatureTimeoutMigration": "True",
         "FFlagXboxUsePrivacySettingsRequest": "True",
-        "FFlagAXAdjustmentFullscreenFix": "True",
         "FFlagEnableCreatorSubtitleNavigation_v2_IXP": "1;PlayerApp.GameDetailsPage.Exposure;App_EDP_Creator_Subtitle_Linking_To_Profile_V1;1531928792;flagbank",
         "FFlagAXMigratePurchasePromptInteractiveToFocusNavigation2": "True",
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
@@ -13047,9 +13049,9 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "FFlagNewStrengthInNumbersLua": "True",
-        "FStringFlagRepoGitHashFastString": "9a9148e9770304099b907a23f73fdf664539df25",
-        "DFStringFlagRepoGitHashDynamicString": "9a9148e9770304099b907a23f73fdf664539df25",
-        "FStringFlipTimeStampFastString": "2025-10-22T21:08:56.459Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-22T21:08:56.459Z"
+        "FStringFlagRepoGitHashFastString": "e1208f58393e3ee282dbed3d558fd34a4d67c6f4",
+        "DFStringFlagRepoGitHashDynamicString": "e1208f58393e3ee282dbed3d558fd34a4d67c6f4",
+        "FStringFlipTimeStampFastString": "2025-10-22T21:11:31.543Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-22T21:11:31.543Z"
     }
 }
