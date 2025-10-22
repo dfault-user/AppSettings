@@ -12647,8 +12647,6 @@
         "FFlagAXUnifiedMarketplaceResultsFetcherV2": "True",
         "FFlagAssetInsertComponent": "True",
         "DFFlagWebViewAdjustWithScreenScale": "True",
-        "DFFlagWebSocketHttpRequestType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:45:25",
-        "DFFlagWebSocketSecrets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-21T22:48:53",
         "FFlagVoiceWebrtcConnectionOperationEnabled": "True",
         "DFFlagVoiceSdpCompressionSendProtoParseErrorTelemetry": "True",
         "FFlagEnableProfilePlatformDisabledReasonText": "True",
@@ -12656,6 +12654,8 @@
         "FFlagLuaAppDerivedStackAndSwitchState": "True",
         "FFlagNewNavBarPlacementFixSocial": "True",
         "FFlagNewNavBarPlacementFixAvatar": "True",
+        "DFFlagWebSocketHttpRequestType": "True",
+        "DFFlagWebSocketSecrets": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13616,9 +13616,9 @@
         "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
         "FFlagStepTransparencyEvenNotInteractable": "True",
         "FFlagFCRouteSecondaryParts": "True",
-        "FStringFlagRepoGitHashFastString": "d4e222636526ea26a7e3e54e711a83dc5e6608f9",
-        "DFStringFlagRepoGitHashDynamicString": "d4e222636526ea26a7e3e54e711a83dc5e6608f9",
-        "FStringFlipTimeStampFastString": "2025-10-21T23:57:15.737Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-21T23:57:15.737Z"
+        "FStringFlagRepoGitHashFastString": "27ae1c45fa50bb41a391d30d47e094cbd4d6dcfa",
+        "DFStringFlagRepoGitHashDynamicString": "27ae1c45fa50bb41a391d30d47e094cbd4d6dcfa",
+        "FStringFlipTimeStampFastString": "2025-10-21T23:57:42.237Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-21T23:57:42.237Z"
     }
 }
