@@ -12656,7 +12656,6 @@
         "DFFlagWebSocketHttpRequestType": "True",
         "DFFlagWebSocketSecrets": "True",
         "FIntSQLiteWalAutoCheckpoint": "4000",
-        "DFFlagVoiceRtcStatsRemoveHighCardinalityGrafanaFields_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T16:50:51",
         "DFFlagReduceBackgroundUsageAllPlatforms2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T16:56:39",
         "AxisAdornmentGrabSize": "12",
         "DFFlagAvatarUseBatchedRaycasts2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T17:02:44",
@@ -12674,6 +12673,7 @@
         "FFlagUKOSAUpdatedCopy2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1774752086;2025-10-22T17:46:22",
         "FFlagAppChatUseTCUserTileForFacePile": "True",
         "FFlagMakeupFixAuthoredOnCageReporting": "True",
+        "DFFlagVoiceRtcStatsRemoveHighCardinalityGrafanaFields": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13576,9 +13576,9 @@
         "DFFlagReportDummyClientConnectionAttemptResult": "True",
         "DFIntNetStackDummyClientConnectResultPointsThrottleHP": "10000",
         "DFIntNetStackDummyClientPingStatsThrottleHP": "10000",
-        "FStringFlagRepoGitHashFastString": "b8fd6e059fd9a1a75c6174e3e41c755632a035a7",
-        "DFStringFlagRepoGitHashDynamicString": "b8fd6e059fd9a1a75c6174e3e41c755632a035a7",
-        "FStringFlipTimeStampFastString": "2025-10-22T17:55:38.650Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-22T17:55:38.650Z"
+        "FStringFlagRepoGitHashFastString": "40b7716b6f125d366d6ce24e46e81084446b477b",
+        "DFStringFlagRepoGitHashDynamicString": "40b7716b6f125d366d6ce24e46e81084446b477b",
+        "FStringFlipTimeStampFastString": "2025-10-22T18:01:05.468Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-22T18:01:05.468Z"
     }
 }
