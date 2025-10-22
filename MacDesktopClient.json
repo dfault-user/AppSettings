@@ -12657,7 +12657,6 @@
         "DFFlagWebSocketSecrets": "True",
         "FIntSQLiteWalAutoCheckpoint": "4000",
         "FFlagGetRidOfGroundJoint": "True",
-        "FFlagUIBloxEnableLinkButtonGamepadSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T17:12:17",
         "FFlagRbxTelemetryHttpCallbackRefactor4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T17:19:19",
         "FFlagFastClusterIgnoreMeshPartJointOffset2": "True",
         "FFlagLuaAppAddHeroUnitIdSduiGameClick": "True",
@@ -12675,6 +12674,7 @@
         "DFFlagFetchAndWriteFlagsAfterSuccessfulCachedFlagsLoad": "True",
         "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
         "FFlagEnableBackgroundCheckV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T18:10:48",
+        "FFlagUIBloxEnableLinkButtonGamepadSupport": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13578,9 +13578,9 @@
         "DFFlagReportDummyClientConnectionAttemptResult": "True",
         "DFIntNetStackDummyClientConnectResultPointsThrottleHP": "10000",
         "DFIntNetStackDummyClientPingStatsThrottleHP": "10000",
-        "FStringFlagRepoGitHashFastString": "9b963578eb1f005c28f94cfd6a7b9e2c71ef0c6c",
-        "DFStringFlagRepoGitHashDynamicString": "9b963578eb1f005c28f94cfd6a7b9e2c71ef0c6c",
-        "FStringFlipTimeStampFastString": "2025-10-22T18:13:38.007Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-22T18:13:38.007Z"
+        "FStringFlagRepoGitHashFastString": "43667a240209e6d9301ee1b69bcfaef2d4508ef1",
+        "DFStringFlagRepoGitHashDynamicString": "43667a240209e6d9301ee1b69bcfaef2d4508ef1",
+        "FStringFlipTimeStampFastString": "2025-10-22T18:21:41.861Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-22T18:21:41.861Z"
     }
 }
