@@ -12668,7 +12668,6 @@
         "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
         "FFlagUIBloxEnableLinkButtonGamepadSupport": "True",
         "FFlagRbxTelemetryHttpCallbackRefactor4": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagRIDE121821": "True",
         "FFlagStepTransparencyEvenNotInteractable": "True",
         "FFlagFixFadeOutRaceCondition_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T18:38:11",
@@ -12683,6 +12682,7 @@
         "DFFlagSimExecuteClientOnlyFallenParts_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T19:19:43",
         "DFFlagHttpServiceInsightsImprovedTelemetry3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T19:21:56",
         "FFlagAppChatFixAndroidKeyboardReturn2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T19:27:06",
+        "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13169,6 +13169,7 @@
         "FFlagInGameMenuAddChatLineReporting5_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1-1761068633;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1;1401781319;flagbank",
         "DFFlagSimAccountForAeroForcesInJump2": "True",
         "FFlagGamePassPrefetchOnJoinEnabled_PlaceFilter": "True;85537329004957;112780263016678;70451556031302;131716211654599;106011698424775;16732694052;105044186406168;72907489978215;99519129453387;17800150007;121864768012064",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13612,7 +13613,6 @@
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "10",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp4": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
-        "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "DFFlagFlagCacheColdRun": "False",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
@@ -13637,9 +13637,9 @@
         "FFlagAXRootSlotBasedEditorFlag6_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;108964855;dev_controlled",
         "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
         "FFlagFCRouteSecondaryParts": "False",
-        "FStringFlagRepoGitHashFastString": "9152f431585cde2dd47586f7febc6a6da490bbfa",
-        "DFStringFlagRepoGitHashDynamicString": "9152f431585cde2dd47586f7febc6a6da490bbfa",
-        "FStringFlipTimeStampFastString": "2025-10-22T19:29:01.423Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-22T19:29:01.423Z"
+        "FStringFlagRepoGitHashFastString": "994c280a4ee75323592c900738f4c8567bcc8d12",
+        "DFStringFlagRepoGitHashDynamicString": "994c280a4ee75323592c900738f4c8567bcc8d12",
+        "FStringFlipTimeStampFastString": "2025-10-22T19:31:13.975Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-22T19:31:13.975Z"
     }
 }

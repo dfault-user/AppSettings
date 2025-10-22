@@ -12668,7 +12668,6 @@
         "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
         "FFlagUIBloxEnableLinkButtonGamepadSupport": "True",
         "FFlagRbxTelemetryHttpCallbackRefactor4": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagRIDE121821": "True",
         "FFlagStepTransparencyEvenNotInteractable": "True",
         "FFlagFixFadeOutRaceCondition_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T18:38:11",
@@ -12683,6 +12682,8 @@
         "DFFlagSimExecuteClientOnlyFallenParts_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T19:19:43",
         "DFFlagHttpServiceInsightsImprovedTelemetry3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T19:21:56",
         "FFlagAppChatFixAndroidKeyboardReturn2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-22T19:27:06",
+        "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13027,7 +13028,6 @@
         "DFIntCrashUploadToBacktraceRolloutMinimumPercentage": "100",
         "FFlagEnableConsoleExpControlsIXPV4": "True",
         "DFIntAssetProviderCdnBytesThrottleHundrethsPercent2": "1000",
-        "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "DFFlagWriteTombstoneAfterDynamicFetch": "True",
         "FIntEnableCVSUrlForOtaPatchPercentage": "100",
         "FFlagDiffractionSolverUsesGraphicsQualityLevel": "True",
@@ -13039,9 +13039,9 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
         "FFlagNewStrengthInNumbersLua_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1238102972;2025-10-22T18:49:21",
-        "FStringFlagRepoGitHashFastString": "9152f431585cde2dd47586f7febc6a6da490bbfa",
-        "DFStringFlagRepoGitHashDynamicString": "9152f431585cde2dd47586f7febc6a6da490bbfa",
-        "FStringFlipTimeStampFastString": "2025-10-22T19:29:01.423Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-22T19:29:01.423Z"
+        "FStringFlagRepoGitHashFastString": "994c280a4ee75323592c900738f4c8567bcc8d12",
+        "DFStringFlagRepoGitHashDynamicString": "994c280a4ee75323592c900738f4c8567bcc8d12",
+        "FStringFlipTimeStampFastString": "2025-10-22T19:31:13.975Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-22T19:31:13.975Z"
     }
 }
