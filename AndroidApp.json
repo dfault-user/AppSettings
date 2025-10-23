@@ -12776,7 +12776,6 @@
         "FFlagWindowsCheckTabletMode": "True",
         "DFFlagSimAccountForAeroForcesInJump2": "True",
         "DFFlagNoReconnectPrivateToPublicServer": "True",
-        "FFlagFixWarningLocaleIAP_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:24:22",
         "AllowVideoPreRoll": "True",
         "FFlagMemoryPrioritizationRaceConditionBugfix": "True",
         "FFlagRecentsWidgetTelemetryEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:36:54",
@@ -12807,6 +12806,7 @@
         "FFlagEnableIECWrapLayerSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:19:39",
         "FFlagExperienceStateCaptureSelectionBugFix": "True",
         "FFlagUISizeConstraintStopRequiringMinLtEqMax": "True",
+        "FFlagFixWarningLocaleIAP": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13730,9 +13730,9 @@
         "FFlagPerformanceControlDeviceSpecificExperimentation": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "DFFlagGetHlsLodManifest2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:07:49",
-        "FStringFlagRepoGitHashFastString": "304f094ec20359e6cfda013e36cb9ef113e39699",
-        "DFStringFlagRepoGitHashDynamicString": "304f094ec20359e6cfda013e36cb9ef113e39699",
-        "FStringFlipTimeStampFastString": "2025-10-23T22:28:19.438Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T22:28:19.438Z"
+        "FStringFlagRepoGitHashFastString": "80ef249f8b9d3752c94ebeb411bda0b4f815867a",
+        "DFStringFlagRepoGitHashDynamicString": "80ef249f8b9d3752c94ebeb411bda0b4f815867a",
+        "FStringFlipTimeStampFastString": "2025-10-23T22:33:13.519Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T22:33:13.519Z"
     }
 }
