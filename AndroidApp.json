@@ -12762,10 +12762,7 @@
         "DFIntSlimHeartbeatTimer": "15000",
         "FFlagFoundationToastNotification": "True",
         "FFlagUIEditorNoPartSelection": "True",
-        "FFlagAllowPurchasesOutsideExperience_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:40:40",
         "FFlagRemoveAdvArrowToolBase": "True",
-        "FFlagAppChatDeprecateOldTCModal2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;406428267;2025-10-23T20:42:46",
-        "FFlagProfileInsightsSkipCache_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1291804410;2025-10-23T20:43:19",
         "FFlagLuaAppSupportNonSduiTypeForServerTriggeredModals_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:47:12",
         "FFlagCreateAssetAsyncRefactor": "True",
         "FFlagIAPViewportSupportAccessory_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:51:07",
@@ -12797,6 +12794,9 @@
         "FFlagTouchEnabledLegacySupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:38:46",
         "FFlagFoundationInternalTextInputAutoSize": "True",
         "FFlagLargeReplicatorSerializeRead3_Staged": "True;SteadyState;10;30;Revert;2025-10-23T21:44:52",
+        "FFlagAppChatDeprecateOldTCModal2": "True",
+        "FFlagProfileInsightsSkipCache": "True",
+        "FFlagAllowPurchasesOutsideExperience": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13718,10 +13718,10 @@
         "FFlagExtendBatteryStats": "True",
         "FFlagMonotonicBackground": "True",
         "FFlagPerformanceControlDeviceSpecificExperimentation": "True",
-        "FFlagAXMigrateAXFocusBehaviorRoot_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:41:16",
-        "FStringFlagRepoGitHashFastString": "f1e9a4727f17b9c3088c5acd6a71852bbe918297",
-        "DFStringFlagRepoGitHashDynamicString": "f1e9a4727f17b9c3088c5acd6a71852bbe918297",
-        "FStringFlipTimeStampFastString": "2025-10-23T21:47:23.834Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T21:47:23.834Z"
+        "FFlagAXMigrateAXFocusBehaviorRoot": "False",
+        "FStringFlagRepoGitHashFastString": "3bbf88ef7b01ca125f7b09568f466ce0ec0a5bc9",
+        "DFStringFlagRepoGitHashDynamicString": "3bbf88ef7b01ca125f7b09568f466ce0ec0a5bc9",
+        "FStringFlipTimeStampFastString": "2025-10-23T21:53:46.048Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T21:53:46.048Z"
     }
 }
