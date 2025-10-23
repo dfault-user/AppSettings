@@ -12755,8 +12755,6 @@
         "FFlagTouchEnabledUseTabletCheck": "True",
         "DFFlagVoiceRtcStatsIgnoreNegativePacketLoss": "True",
         "FFlagReportWindowsTabletMetrics": "True",
-        "FFlagFoundationToastNotification_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:26:49",
-        "FFlagUIEditorNoPartSelection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:27:53",
         "FFlagRemoveAdvArrowToolBase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:37:17",
         "FFlagFmodFixSemaphores_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:40:31",
         "FFlagCreateUncompressedRbxm3": "False",
@@ -12776,6 +12774,8 @@
         "DFIntSlimHeartbeatTimer": "15000",
         "DFFlagNoReconnectPrivateToPublicServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:19:22",
         "FFlagMemoryPrioritizationRaceConditionBugfix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:28:00",
+        "FFlagFoundationToastNotification": "True",
+        "FFlagUIEditorNoPartSelection": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13679,9 +13679,11 @@
         "FFlagMoveThermalStateLogging": "True",
         "DFFlagSimAccountForAeroForcesInJump2": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "True",
-        "FStringFlagRepoGitHashFastString": "9bb997f1534810290dd17578503cb8c1ffd2cd49",
-        "DFStringFlagRepoGitHashDynamicString": "9bb997f1534810290dd17578503cb8c1ffd2cd49",
-        "FStringFlipTimeStampFastString": "2025-10-23T20:30:52.447Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T20:30:52.447Z"
+        "FFlagLuaAppFixInlineSignalsReactPattern_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:33:37",
+        "FFlagLuaAppSduiSeeAllLayoutParamsFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:34:31",
+        "FStringFlagRepoGitHashFastString": "6f262ff5efb9efe719917529787db82ed55bf82a",
+        "DFStringFlagRepoGitHashDynamicString": "6f262ff5efb9efe719917529787db82ed55bf82a",
+        "FStringFlipTimeStampFastString": "2025-10-23T20:39:09.963Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T20:39:09.963Z"
     }
 }
