@@ -12784,10 +12784,6 @@
         "FFlagLuaAppSupportNonSduiTypeForServerTriggeredModals": "True",
         "FFlagIAPViewportSupportAccessory": "True",
         "FFlagRemoveWorkspaceSuperHack": "True",
-        "FFlagEnableClickableAdEventLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:02:52",
-        "FFlagLuauTypeCheckerVectorLerp2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:04:46",
-        "FIntClickableAdEventThrottlingHundredthPercentage_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:05:18",
-        "FFlagEnableAvatarAssetPrompt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:05:24",
         "DFStringModerationServiceEnabledUniverseIds": "",
         "FFlagAppShortcutBarEnableButtonHoldStore": "True",
         "FFlagAppShortcutBarFixHoldIconFlash": "True",
@@ -12820,6 +12816,10 @@
         "FFlagRbxTelemetryEnableHttpCounters3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:52:42",
         "DFFlagSlimEnableTeamCreateUploadCap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1593175966;2025-10-23T22:59:31",
         "DFIntSlimTeamCreateUploadCap_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1593175966;2025-10-23T22:59:31",
+        "FFlagEnableAvatarAssetPrompt": "True",
+        "FFlagEnableClickableAdEventLogging": "True",
+        "FIntClickableAdEventThrottlingHundredthPercentage": "10000",
+        "FFlagLuauTypeCheckerVectorLerp2": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13742,9 +13742,9 @@
         "DFFlagGetHlsLodManifest2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:07:49",
         "FFlagFixDeviceSettingsFocus": "True",
         "FFlagMaxSizeUseCorrectPadding": "True",
-        "FStringFlagRepoGitHashFastString": "3302f0545c1aff89fc2764de649663b8001949d9",
-        "DFStringFlagRepoGitHashDynamicString": "3302f0545c1aff89fc2764de649663b8001949d9",
-        "FStringFlipTimeStampFastString": "2025-10-23T23:08:14.386Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T23:08:14.386Z"
+        "FStringFlagRepoGitHashFastString": "5e69230eae692b345050ba6fc542ab658013985b",
+        "DFStringFlagRepoGitHashDynamicString": "5e69230eae692b345050ba6fc542ab658013985b",
+        "FStringFlipTimeStampFastString": "2025-10-23T23:13:32.363Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T23:13:32.363Z"
     }
 }
