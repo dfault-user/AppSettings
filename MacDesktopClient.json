@@ -12759,7 +12759,6 @@
         "DFFlagVideoCaptureSafetyLowRes": "True",
         "FFlagBetterFileWatcherDestructor": "True",
         "FFlagMoreUsefulCylinderSelectionBox": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "DFIntSlimHeartbeatTimer": "15000",
         "DFFlagNoReconnectPrivateToPublicServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:19:22",
         "FFlagMemoryPrioritizationRaceConditionBugfix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:28:00",
@@ -12789,6 +12788,8 @@
         "FFlagCLI156525": "True",
         "FFlagWindowsCheckTabletMode": "True",
         "FFlagEnableHoldToPlayOnShortcutBar_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1572079200;2025-10-23T21:12:05",
+        "DFFlagSimAccountForAeroForcesInJump2": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13238,7 +13239,6 @@
         "DFFlagSunsetFadingSun": "True",
         "FFlagIASBindingStates2": "True",
         "FFlagInGameMenuAddChatLineReporting5_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1-1761068633;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1;1401781319;flagbank",
-        "DFFlagSimAccountForAeroForcesInJump2": "True",
         "FFlagGamePassPrefetchOnJoinEnabled_PlaceFilter": "True;85537329004957;112780263016678;70451556031302;131716211654599;106011698424775;16732694052;105044186406168;72907489978215;99519129453387;17800150007;121864768012064;97005321375460",
         "FFlagWeCanHaveFonts": "True",
         "FFlagAXOverlayShouldNotAutofocusForNonDirectionalInput": "True",
@@ -13708,9 +13708,9 @@
         "FFlagAXMigrateAXFocusBehaviorRoot": "True",
         "FFlagFixStrikeThrough_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1379275318;2025-10-23T20:32:47",
         "FFlagAXMigrateAXFocusBehaviorRoot_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:41:16",
-        "FStringFlagRepoGitHashFastString": "2323f868b9d1ae50f49520c523800fde0d87f4b8",
-        "DFStringFlagRepoGitHashDynamicString": "2323f868b9d1ae50f49520c523800fde0d87f4b8",
-        "FStringFlipTimeStampFastString": "2025-10-23T21:18:09.737Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T21:18:09.737Z"
+        "FStringFlagRepoGitHashFastString": "da8a141ac6f90667f004834ffdb66832966122ac",
+        "DFStringFlagRepoGitHashDynamicString": "da8a141ac6f90667f004834ffdb66832966122ac",
+        "FStringFlipTimeStampFastString": "2025-10-23T21:23:35.833Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T21:23:35.833Z"
     }
 }
