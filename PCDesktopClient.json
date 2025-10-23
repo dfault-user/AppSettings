@@ -12764,6 +12764,7 @@
         "UseApplicationLifecycleCallbacks2": "True",
         "FFlagTouchEnabledUseTabletCheck": "True",
         "DFFlagVoiceRtcStatsIgnoreNegativePacketLoss": "True",
+        "DFIntSlimHeartbeatTimer_Staged": "15000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;604110920;2025-10-23T19:11:19",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13248,8 +13249,6 @@
         "DFFlagPMDHeaderBlockDetection": "True",
         "DFFlagGetPrimaryPartUpdate": "True",
         "FFlagCancelDeferOnShutdown": "True",
-        "FFlagSessionTrackingUseMovedRelaunch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:08:56",
-        "DFIntCaptureVideoBitsPerThousandPixels_Staged": "210;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:09:33",
         "DFFlagReportNonLocalChildrenRemoved": "True",
         "DFIntNonLocalChildWithMRDRemovedUEThrottleHP": "1000",
         "DFFlagLetRagdolledHumanoidsSleep_PlaceFilter": "True;102669905873657;95110357124286;74420304866897;112408689884212",
@@ -13259,6 +13258,8 @@
         "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesOriginalSdp": "True",
         "DFIntSimSolverImprovedPartialSleepTolerance_PlaceFilter": "20;102669905873657;95110357124286;74420304866897;112408689884212",
         "FFlagAXRevertCategoryReducerChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:56:03",
+        "FFlagSessionTrackingUseMovedRelaunch": "True",
+        "DFIntCaptureVideoBitsPerThousandPixels": "210",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13729,9 +13730,9 @@
         "FFlagDelayAudioFocusReplication": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "True",
         "DFIntSimSolverWakeDisplacementMultiplier_PlaceFilter": "200;102669905873657;95110357124286;74420304866897;112408689884212",
-        "FStringFlagRepoGitHashFastString": "5fe5f44cdfc2b01554ad106099850fbe6b712bae",
-        "DFStringFlagRepoGitHashDynamicString": "5fe5f44cdfc2b01554ad106099850fbe6b712bae",
-        "FStringFlipTimeStampFastString": "2025-10-23T19:09:53.825Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:09:53.825Z"
+        "FStringFlagRepoGitHashFastString": "d6643c3ff669c67659c5c732a6f8a97d21e9326d",
+        "DFStringFlagRepoGitHashDynamicString": "d6643c3ff669c67659c5c732a6f8a97d21e9326d",
+        "FStringFlipTimeStampFastString": "2025-10-23T19:12:43.583Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:12:43.583Z"
     }
 }

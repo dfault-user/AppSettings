@@ -12764,6 +12764,7 @@
         "UseApplicationLifecycleCallbacks2": "True",
         "FFlagTouchEnabledUseTabletCheck": "True",
         "DFFlagVoiceRtcStatsIgnoreNegativePacketLoss": "True",
+        "DFIntSlimHeartbeatTimer_Staged": "15000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;604110920;2025-10-23T19:11:19",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13223,7 +13224,6 @@
         "DFFlagPMDHeaderBlockDetection": "True",
         "DFFlagGetPrimaryPartUpdate": "True",
         "FFlagCancelDeferOnShutdown": "True",
-        "FFlagSessionTrackingUseMovedRelaunch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:08:56",
         "DFFlagReportNonLocalChildrenRemoved": "True",
         "DFIntNonLocalChildWithMRDRemovedUEThrottleHP": "1000",
         "DFFlagLetRagdolledHumanoidsSleep_PlaceFilter": "True;102669905873657;95110357124286;74420304866897;112408689884212",
@@ -13233,8 +13233,9 @@
         "DFIntSimSleepAccelerationMultiplier_PlaceFilter": "2000;102669905873657;95110357124286;74420304866897;112408689884212",
         "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesOriginalSdp": "True",
         "DFIntSimSolverImprovedPartialSleepTolerance_PlaceFilter": "20;102669905873657;95110357124286;74420304866897;112408689884212",
-        "FFlagVoiceUseModularDeviceManager4": "True",
+        "FFlagVoiceUseModularDeviceManager4": "False",
         "FFlagAXRevertCategoryReducerChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:56:03",
+        "FFlagSessionTrackingUseMovedRelaunch": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13679,9 +13680,9 @@
         "DFIntNetStackDummyClientPingStatsThrottleHP": "10000",
         "FFlagDelayAudioFocusReplication": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "True",
-        "FStringFlagRepoGitHashFastString": "5fe5f44cdfc2b01554ad106099850fbe6b712bae",
-        "DFStringFlagRepoGitHashDynamicString": "5fe5f44cdfc2b01554ad106099850fbe6b712bae",
-        "FStringFlipTimeStampFastString": "2025-10-23T19:09:53.825Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:09:53.825Z"
+        "FStringFlagRepoGitHashFastString": "873b6070bf3a501a33f4f3cdaf407e4a2c13da2e",
+        "DFStringFlagRepoGitHashDynamicString": "873b6070bf3a501a33f4f3cdaf407e4a2c13da2e",
+        "FStringFlipTimeStampFastString": "2025-10-23T19:13:45.343Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:13:45.343Z"
     }
 }

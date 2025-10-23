@@ -12764,6 +12764,7 @@
         "UseApplicationLifecycleCallbacks2": "True",
         "FFlagTouchEnabledUseTabletCheck": "True",
         "DFFlagVoiceRtcStatsIgnoreNegativePacketLoss": "True",
+        "DFIntSlimHeartbeatTimer_Staged": "15000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;604110920;2025-10-23T19:11:19",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13668,9 +13669,9 @@
         "DFFlagSimAccountForAeroForcesInJump2": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "True",
         "FFlagAXRevertCategoryReducerChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:56:03",
-        "FStringFlagRepoGitHashFastString": "5fe5f44cdfc2b01554ad106099850fbe6b712bae",
-        "DFStringFlagRepoGitHashDynamicString": "5fe5f44cdfc2b01554ad106099850fbe6b712bae",
-        "FStringFlipTimeStampFastString": "2025-10-23T19:09:53.825Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:09:53.825Z"
+        "FStringFlagRepoGitHashFastString": "873b6070bf3a501a33f4f3cdaf407e4a2c13da2e",
+        "DFStringFlagRepoGitHashDynamicString": "873b6070bf3a501a33f4f3cdaf407e4a2c13da2e",
+        "FStringFlipTimeStampFastString": "2025-10-23T19:13:45.343Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:13:45.343Z"
     }
 }
