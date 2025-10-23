@@ -12747,7 +12747,6 @@
         "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesUnexpectedValue": "True",
         "DFFlagEnableGenerateItemListServerIntentInStudio": "True",
         "FFlagSduiCleanupDataStoreApp": "True",
-        "FFlagReportWindowsTabletMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:25:26",
         "FFlagVoiceMutexMigration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:28:52",
         "FFlagTouchInputServicePinchRotateVelocity": "True",
         "DFFlagVideoMp4AddRobloxMetaData": "True",
@@ -12766,6 +12765,7 @@
         "DFFlagVoiceRtcStatsIgnoreNegativePacketLoss": "True",
         "DFIntSlimHeartbeatTimer_Staged": "15000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;604110920;2025-10-23T19:11:19",
         "FFlagLuaAppDerivedStackAndSwitchState_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1558020001;2025-10-23T19:24:23",
+        "FFlagReportWindowsTabletMetrics": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -13689,9 +13689,9 @@
         "DFFlagSimAccountForAeroForcesInJump2": "True",
         "FIntRbxStorageMinMemoryRequirementMB_Staged": "4100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:44:39",
         "FFlagPerformanceControlDeviceSpecificExperimentation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:59:00",
-        "FStringFlagRepoGitHashFastString": "61c05f7c9a4a664fca42eb25fc49dcdb67c62590",
-        "DFStringFlagRepoGitHashDynamicString": "61c05f7c9a4a664fca42eb25fc49dcdb67c62590",
-        "FStringFlipTimeStampFastString": "2025-10-23T19:25:33.537Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:25:33.537Z"
+        "FStringFlagRepoGitHashFastString": "deacc011764209ecf9a15c8640a5d28d3a1cd4af",
+        "DFStringFlagRepoGitHashDynamicString": "deacc011764209ecf9a15c8640a5d28d3a1cd4af",
+        "FStringFlipTimeStampFastString": "2025-10-23T19:27:25.605Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:27:25.605Z"
     }
 }

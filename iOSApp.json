@@ -12747,7 +12747,6 @@
         "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesUnexpectedValue": "True",
         "DFFlagEnableGenerateItemListServerIntentInStudio": "True",
         "FFlagSduiCleanupDataStoreApp": "True",
-        "FFlagReportWindowsTabletMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:25:26",
         "FFlagVoiceMutexMigration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:28:52",
         "FFlagTouchInputServicePinchRotateVelocity": "True",
         "DFFlagVideoMp4AddRobloxMetaData": "True",
@@ -12766,6 +12765,7 @@
         "DFFlagVoiceRtcStatsIgnoreNegativePacketLoss": "True",
         "DFIntSlimHeartbeatTimer_Staged": "15000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;604110920;2025-10-23T19:11:19",
         "FFlagLuaAppDerivedStackAndSwitchState_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1558020001;2025-10-23T19:24:23",
+        "FFlagReportWindowsTabletMetrics": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13670,9 +13670,9 @@
         "DFFlagSimAccountForAeroForcesInJump2": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "True",
         "FFlagAXRevertCategoryReducerChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:56:03",
-        "FStringFlagRepoGitHashFastString": "b88584eb3f54ad2a2e195c9f09fabdb03bf34816",
-        "DFStringFlagRepoGitHashDynamicString": "b88584eb3f54ad2a2e195c9f09fabdb03bf34816",
-        "FStringFlipTimeStampFastString": "2025-10-23T19:25:54.540Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:25:54.540Z"
+        "FStringFlagRepoGitHashFastString": "deacc011764209ecf9a15c8640a5d28d3a1cd4af",
+        "DFStringFlagRepoGitHashDynamicString": "deacc011764209ecf9a15c8640a5d28d3a1cd4af",
+        "FStringFlipTimeStampFastString": "2025-10-23T19:27:25.605Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:27:25.605Z"
     }
 }
