@@ -12742,7 +12742,6 @@
         "FFlagSimPartOperationRemoveCSGMesh8": "True",
         "DFIntGetMeshPartJointOffsetTelemetryThrottle": "10",
         "FFlagAXMISRemoveSingleItemPurchaseFromTryOn": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagGetMeshPartJointOffsetTelemetry_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T17:51:26",
         "FFlagSduiComponentTests": "True",
         "FFlagTouchEnabledUseTabletCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T17:57:16",
@@ -12759,6 +12758,8 @@
         "FFlagEnableBackgroundCheckV2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:31:24",
         "FFlagGamePassPrefetchOnJoinEnabled": "True",
         "FFlagEnableEconomicRestrictionInAvatarExperience": "True",
+        "AllowVideoPreRoll": "True",
+        "FFlagVideoCaptureStopOnEncodeError": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13661,7 +13662,6 @@
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
         "FFlagVoiceRtcStatsEnabled8_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.RTCStats;355519376;flagbank",
-        "FFlagVideoCaptureStopOnEncodeError": "True",
         "FFlagRbxStorageCleanPermCache": "True",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "DFFlagGetHlsLodManifest2_IXP": "1;Engine.Video.VideoPlayback;Engine.Video.HlsLodPlayback.V4;1941838240;flagbank",
@@ -13683,9 +13683,9 @@
         "FFlagMonotonicBackground": "True",
         "DFFlagSimAccountForAeroForcesInJump2": "True",
         "FFlagRbxStorageCleanPermCache_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T17:50:15",
-        "FStringFlagRepoGitHashFastString": "0e09700d79f38ed396e36865df2d93cdd5442d31",
-        "DFStringFlagRepoGitHashDynamicString": "0e09700d79f38ed396e36865df2d93cdd5442d31",
-        "FStringFlipTimeStampFastString": "2025-10-23T18:42:34.306Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T18:42:34.306Z"
+        "FStringFlagRepoGitHashFastString": "46bf8f60e856c338914c45b0f00f02292b0b87c8",
+        "DFStringFlagRepoGitHashDynamicString": "46bf8f60e856c338914c45b0f00f02292b0b87c8",
+        "FStringFlipTimeStampFastString": "2025-10-23T18:45:20.782Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T18:45:20.782Z"
     }
 }
