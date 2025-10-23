@@ -3125,7 +3125,7 @@
         "DFFlagEnableInExperienceRealWorldCommerce": "False",
         "DFFlagEnableInExperienceRealWorldCommerce_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630;15254715712;18494253016;14265145574;12931369823;17811071580;18973713348;85513756910439;92021495190839;80569231098954",
         "DFFlagEnableRealWorldCommercePOC": "False",
-        "DFFlagEnableRealWorldCommercePOC_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630;15254715712;14265145574;12931369823;17811071580;18973713348",
+        "DFFlagEnableRealWorldCommercePOC_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630;15254715712;14265145574;12931369823;17811071580;18973713348;85513756910439;92021495190839;80569231098954",
         "DFStringInExperienceRealWorldCommerceUrlAllowlist": "www.amazon.com,na.account.amazon.com,shop.app,shop.pixel-bitstudio.com,store.quataun.com,store.catalogavatarcreator.com,shop.overtime.tv,merch.twinatlas.com,hazemplush.com",
         "DFStringInExperienceRealWorldCommerceUrlAllowlist_PlaceFilter": "wm-rb.minima.nyc,walmartdiscoveredshops.com,thingmade.com,www.store.thingmade.com,elfcosmetics.com,development.elfcosmetics.com,www.elfcosmetics.com,walmartdiscoveredshops.com,https://walmartdiscoveredshops.com/campaign/d717wmdc,www.fandango.com,ticket.fandango.com,tickets.fandango.com;15098120933;13398434647;14298635815;17284537980;13398230007;17096487289;16288561317;15218427871;15357970630;15254715712;18494253016;14265145574;12931369823;17811071580;18973713348;80569231098954;85513756910439;92021495190839",
         "FFlagUseLargerCDLCodeFontForVRV2": "True",
@@ -13217,6 +13217,7 @@
         "DFIntNonLocalChildWithMRDRemovedUEThrottleHP_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T17:34:19",
         "DFIntClientNonLocalChildrenRemovalStatsThrottle_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T17:35:43",
         "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesOriginalSdp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T17:43:02",
+        "FFlagVoiceUseModularDeviceManager4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T17:46:44",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13662,9 +13663,9 @@
         "DFIntNetStackDummyClientPingStatsThrottleHP": "10000",
         "FFlagDelayAudioFocusReplication": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T16:55:09",
-        "FStringFlagRepoGitHashFastString": "d4c5971060dd60f7a6ef200b483105ae9b72b12e",
-        "DFStringFlagRepoGitHashDynamicString": "d4c5971060dd60f7a6ef200b483105ae9b72b12e",
-        "FStringFlipTimeStampFastString": "2025-10-23T17:47:12.860Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T17:47:12.860Z"
+        "FStringFlagRepoGitHashFastString": "8fd1512af36afa63c511bea595752fa25ee033fe",
+        "DFStringFlagRepoGitHashDynamicString": "8fd1512af36afa63c511bea595752fa25ee033fe",
+        "FStringFlipTimeStampFastString": "2025-10-23T17:48:59.611Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T17:48:59.611Z"
     }
 }
