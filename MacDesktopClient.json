@@ -12790,8 +12790,6 @@
         "FFlagAppShortcutBarIconImprovement": "True",
         "FFlagEnablePreferredInputForShortcutBar": "True",
         "FFlagEnableHoldToPlayOnShortcutBar": "True",
-        "DFFlagVideoWinHwEncoderClearLastPts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:18:26",
-        "FFlagEnableIECWrapLayerSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:19:39",
         "FFlagExperienceStateCaptureSelectionBugFix": "True",
         "FFlagUISizeConstraintStopRequiringMinLtEqMax": "True",
         "FFlagFixWarningLocaleIAP": "True",
@@ -12821,6 +12819,8 @@
         "FFlagLuauTypeCheckerVectorLerp2": "True",
         "FFlagRemoveRefToMissingLocInConnection_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T23:10:12",
         "DFFlagEnableModerationServiceImageVideo2": "True",
+        "FFlagEnableIECWrapLayerSupport": "True",
+        "DFFlagVideoWinHwEncoderClearLastPts": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13743,9 +13743,9 @@
         "FFlagFixDeviceSettingsFocus": "True",
         "FFlagMaxSizeUseCorrectPadding": "True",
         "DFFlagGetHlsLodManifest2": "True",
-        "FStringFlagRepoGitHashFastString": "0e28dfe60a88c42b95de7f2ae7fdc0eda20711f1",
-        "DFStringFlagRepoGitHashDynamicString": "0e28dfe60a88c42b95de7f2ae7fdc0eda20711f1",
-        "FStringFlipTimeStampFastString": "2025-10-23T23:23:18.232Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T23:23:18.232Z"
+        "FStringFlagRepoGitHashFastString": "c24b68475811085e44c5d2338f3396cbabcc488c",
+        "DFStringFlagRepoGitHashDynamicString": "c24b68475811085e44c5d2338f3396cbabcc488c",
+        "FStringFlipTimeStampFastString": "2025-10-23T23:28:24.597Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T23:28:24.597Z"
     }
 }
