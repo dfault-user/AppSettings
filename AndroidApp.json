@@ -12751,9 +12751,8 @@
         "DFFlagVideoMp4AddRobloxMetaData": "True",
         "FFlagGamePassPrefetchOnJoinEnabled": "True",
         "FFlagEnableEconomicRestrictionInAvatarExperience": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagVideoCaptureStopOnEncodeError": "True",
-        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
         "DFFlagVideoCaptureSafetyLowRes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:44:48",
         "FFlagBetterFileWatcherDestructor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:47:41",
         "FFlagMoreUsefulCylinderSelectionBox_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:48:53",
@@ -12768,6 +12767,10 @@
         "FFlagUIEditorNoPartSelection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:27:53",
         "FFlagEnableOctreeInputSanitize_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1386149151;2025-10-23T19:35:13",
         "FFlagRemoveAdvArrowToolBase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:37:17",
+        "FFlagLuaAppSupportNonSduiTypeForServerTriggeredModals_Staged": "True;SteadyState;10;30;Revert;2025-10-23T19:40:27",
+        "FFlagFmodFixSemaphores_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:40:31",
+        "FFlagCreateUncompressedRbxm3": "False",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -13649,7 +13652,6 @@
         "DFFlagPerformanceControlEnableNewMemoryUtilityCurve": "True",
         "FFlagPerformanceControlSoundTunableV22": "True",
         "UseAndroidSamsungPaymentsProtocol4": "false",
-        "FFlagCreateUncompressedRbxm3": "False",
         "FFlagEnableKeyEventHandler": "True",
         "FFlagEnableNullInputWhenHideKeyboard": "True",
         "FFlagLuaAppControllerInitializeWithLoggedInUserUseSystemLocaleIdInLuaApp": "True",
@@ -13691,9 +13693,9 @@
         "DFFlagSimAccountForAeroForcesInJump2": "True",
         "FIntRbxStorageMinMemoryRequirementMB_Staged": "4100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:44:39",
         "FFlagPerformanceControlDeviceSpecificExperimentation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:59:00",
-        "FStringFlagRepoGitHashFastString": "74a53d4272ec3dac35a64255c7d1c47eee17d657",
-        "DFStringFlagRepoGitHashDynamicString": "74a53d4272ec3dac35a64255c7d1c47eee17d657",
-        "FStringFlipTimeStampFastString": "2025-10-23T19:41:35.311Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:41:35.311Z"
+        "FStringFlagRepoGitHashFastString": "d1f1d7bae61a3ffa4026353a6cf48ad129e40fbd",
+        "DFStringFlagRepoGitHashDynamicString": "d1f1d7bae61a3ffa4026353a6cf48ad129e40fbd",
+        "FStringFlipTimeStampFastString": "2025-10-23T19:43:37.586Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:43:37.586Z"
     }
 }
