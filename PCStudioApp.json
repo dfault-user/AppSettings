@@ -12798,7 +12798,6 @@
         "DFIntPerfDataOnTelemetryV2ThrottleHundredthsPercent": "20",
         "FFlagRecentsWidgetTelemetryEnabled": "True",
         "FFlagTouchEnabledLegacySupport": "True",
-        "FFlagAvatarInventoryUseAvailabilityResponse_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:41:21",
         "DFIntExpChatWindowStatusChangeThrottlePermyriad_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;475832084;2025-10-23T22:46:03",
         "FIntVideoCaptureMaxLongSideLowMem_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.LowMem480P;854912503;dev_controlled",
         "FIntVideoCaptureMaxShortSideLowMem_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.LowMem480P;854912503;dev_controlled",
@@ -12819,6 +12818,7 @@
         "DFFlagVideoWinHwEncoderClearLastPts": "True",
         "FIntRenderBufferTypeIndex": "4",
         "FFlagLargeReplicatorSerializeRead3": "True",
+        "FFlagAvatarInventoryUseAvailabilityResponse": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15056,9 +15056,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "e16612cf32f807d4943e0c883a31302dba4a89bd",
-        "DFStringFlagRepoGitHashDynamicString": "e16612cf32f807d4943e0c883a31302dba4a89bd",
-        "FStringFlipTimeStampFastString": "2025-10-23T23:47:45.279Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T23:47:45.279Z"
+        "FStringFlagRepoGitHashFastString": "54850179a80a1206ac427d4c424f05b53e5db36f",
+        "DFStringFlagRepoGitHashDynamicString": "54850179a80a1206ac427d4c424f05b53e5db36f",
+        "FStringFlipTimeStampFastString": "2025-10-23T23:53:29.314Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T23:53:29.314Z"
     }
 }
