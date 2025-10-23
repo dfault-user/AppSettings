@@ -9351,7 +9351,7 @@
         "FFlagCheckScrollingFrameSelection": "True",
         "FFlagSessionTransitionFSMRuntimeCallOnce": "True",
         "DFFlagPacketQueueTime_IXP": "1;Portal.PacketQueueTime-1752104045;PacketQueueTime;353008931;flagbank",
-        "FIntRuntimeMaxNumOfDPCs": "128",
+        "FIntRuntimeMaxNumOfDPCs": "512",
         "FStringExplorerSyntaxGuideUrl": "https://create.roblox.com/docs/studio/explorer#search-methods",
         "DFFlagCLI119458": "True",
         "FFlagAXConvertCatalogItemCardToContainer3": "True",
@@ -12757,8 +12757,6 @@
         "FFlagReportWindowsTabletMetrics": "True",
         "FFlagCreateUncompressedRbxm3": "False",
         "DFFlagVideoCaptureSafetyLowRes": "True",
-        "FFlagCreateAssetAsyncRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:47:03",
-        "FIntRuntimeMaxNumOfDPCs_Staged": "512;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:47:50",
         "FFlagBetterFileWatcherDestructor": "True",
         "FFlagMoreUsefulCylinderSelectionBox": "True",
         "FFlagUseGetAdPlacementsRequest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;94709298;2025-10-23T19:52:46",
@@ -12778,6 +12776,9 @@
         "FFlagRemoveAdvArrowToolBase": "True",
         "FFlagAppChatDeprecateOldTCModal2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;406428267;2025-10-23T20:42:46",
         "FFlagProfileInsightsSkipCache_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1291804410;2025-10-23T20:43:19",
+        "FFlagLuaAppSupportNonSduiTypeForServerTriggeredModals_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:47:12",
+        "FFlagCreateAssetAsyncRefactor": "True",
+        "FFlagIAPViewportSupportAccessory_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:51:07",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13077,9 +13078,9 @@
         "FFlagAXMigrateMainNavigationInputBindings": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:41:16",
-        "FStringFlagRepoGitHashFastString": "e595fa1e92196fcc9d3aadf6bd8845adf1520cde",
-        "DFStringFlagRepoGitHashDynamicString": "e595fa1e92196fcc9d3aadf6bd8845adf1520cde",
-        "FStringFlipTimeStampFastString": "2025-10-23T20:49:02.537Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T20:49:02.537Z"
+        "FStringFlagRepoGitHashFastString": "daf3a86f0767ff603033f09408ffae5e678990cb",
+        "DFStringFlagRepoGitHashDynamicString": "daf3a86f0767ff603033f09408ffae5e678990cb",
+        "FStringFlipTimeStampFastString": "2025-10-23T20:55:30.402Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T20:55:30.402Z"
     }
 }
