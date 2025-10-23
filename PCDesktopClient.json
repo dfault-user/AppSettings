@@ -12774,7 +12774,6 @@
         "FFlagAMVRendererUseProtobuf": "True",
         "FFlagCLI156525": "True",
         "FFlagWindowsCheckTabletMode": "True",
-        "FFlagEnableHoldToPlayOnShortcutBar_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1572079200;2025-10-23T21:12:05",
         "DFFlagSimAccountForAeroForcesInJump2": "True",
         "FFlagUISizeConstraintStopRequiringMinLtEqMax_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:17:32",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -12786,7 +12785,6 @@
         "DFIntPerfDataOnTelemetryV2ThrottleHundredthsPercent_Staged": "20;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:38:02",
         "FFlagTouchEnabledLegacySupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:38:46",
         "FFlagFoundationInternalTextInputAutoSize": "True",
-        "FFlagLargeReplicatorSerializeRead3_Staged": "True;SteadyState;10;30;Revert;2025-10-23T21:44:52",
         "FFlagAppChatDeprecateOldTCModal2": "True",
         "FFlagProfileInsightsSkipCache": "True",
         "FFlagAllowPurchasesOutsideExperience": "True",
@@ -12805,6 +12803,9 @@
         "FFlagAppShortcutBarFixHoldIconFlash": "True",
         "FFlagAppShortcutBarIconImprovement": "True",
         "FFlagEnablePreferredInputForShortcutBar": "True",
+        "DFFlagEnableModerationServiceImageVideo2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:11:17",
+        "FFlagEnableHoldToPlayOnShortcutBar": "True",
+        "DFFlagVideoWinHwEncoderClearLastPts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:18:26",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13776,9 +13777,9 @@
         "DFIntSimSolverWakeDisplacementMultiplier_PlaceFilter": "200;102669905873657;95110357124286;74420304866897;112408689884212",
         "FFlagFixDeviceSettingsFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;46449998;2025-10-23T21:23:24",
         "DFFlagGetHlsLodManifest2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:07:49",
-        "FStringFlagRepoGitHashFastString": "a928d70cf0450be1a79bcbce0d6af08dbf9027d5",
-        "DFStringFlagRepoGitHashDynamicString": "a928d70cf0450be1a79bcbce0d6af08dbf9027d5",
-        "FStringFlipTimeStampFastString": "2025-10-23T22:21:39.517Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T22:21:39.517Z"
+        "FStringFlagRepoGitHashFastString": "348752abeb33db8067e563e56eb6e495c0e44059",
+        "DFStringFlagRepoGitHashDynamicString": "348752abeb33db8067e563e56eb6e495c0e44059",
+        "FStringFlipTimeStampFastString": "2025-10-23T22:23:22.858Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T22:23:22.858Z"
     }
 }
