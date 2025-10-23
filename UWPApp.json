@@ -11878,7 +11878,6 @@
         "DFFlagResetNetworkOwnerOnRemovePrimitive": "False",
         "DFFlagSerializerBinaryUnsignedOrientId": "True",
         "EnableAndroidCTAClickLoggingFix": "true",
-        "FFlagProfilePlatformEnableEditAvatar_IXP": "1;Social.SelfProfileView;Social.SelfProfileView.AddEditAvatarCTA;952822487;dev_controlled",
         "FFlagDevFrameworkFixTextContrast": "True",
         "FFlagAudioPlayerFixOverlappingSongs": "True",
         "FFlagMusicPlayerCompactVariant": "True",
@@ -12334,7 +12333,7 @@
         "FFlagAXAvatarWearAfterPurchaseBypassLimits2": "True",
         "FFlagReadMp4AudioBitrate": "True",
         "DFFlagSetOpusBitrate": "True",
-        "FFlagTopLeftOrigin2DUI5": "True",
+        "FFlagTopLeftOrigin2DUI5": "False",
         "DFFlagRbxStorageAvailableSpaceError": "True",
         "FFlagAddFriendsPYMKPresence_IXP": "1;Social.PYMK;Social.PYMK.AddPresenceAndOtherFeatures;1898670349;flagbank",
         "FFlagHomepagePYMKPresence_2_IXP": "1;Social.PYMK;Social.PYMK.AddPresenceAndOtherFeatures;1898670349;flagbank",
@@ -12752,7 +12751,6 @@
         "FFlagGamePassPrefetchOnJoinEnabled": "True",
         "FFlagEnableEconomicRestrictionInAvatarExperience": "True",
         "FFlagVideoCaptureStopOnEncodeError": "True",
-        "FFlagTopLeftOrigin2DUI5_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:56:06",
         "UseApplicationLifecycleCallbacks2": "True",
         "FFlagTouchEnabledUseTabletCheck": "True",
         "DFFlagVoiceRtcStatsIgnoreNegativePacketLoss": "True",
@@ -12773,6 +12771,7 @@
         "FFlagMoreUsefulCylinderSelectionBox": "True",
         "FFlagUseGetAdPlacementsRequest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;94709298;2025-10-23T19:52:46",
         "FFlagPlayerSearchEnableOnlineFrequentsForAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:56:26",
+        "FFlagProfilePlatformEnableEditAvatar_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1162624822;2025-10-23T20:02:04",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13072,9 +13071,9 @@
         "FFlagAXMigrateMainNavigationInputBindings": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:59:54",
-        "FStringFlagRepoGitHashFastString": "5710494da6e150588858921922e7721a710d8031",
-        "DFStringFlagRepoGitHashDynamicString": "5710494da6e150588858921922e7721a710d8031",
-        "FStringFlipTimeStampFastString": "2025-10-23T20:02:02.695Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T20:02:02.695Z"
+        "FStringFlagRepoGitHashFastString": "3b3de42d5dc93129df574d46830d3c347aee02ae",
+        "DFStringFlagRepoGitHashDynamicString": "3b3de42d5dc93129df574d46830d3c347aee02ae",
+        "FStringFlipTimeStampFastString": "2025-10-23T20:04:36.428Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T20:04:36.428Z"
     }
 }
