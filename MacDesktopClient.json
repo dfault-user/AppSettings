@@ -12792,6 +12792,7 @@
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "DFFlagNoReconnectPrivateToPublicServer": "True",
         "FFlagFixWarningLocaleIAP_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:24:22",
+        "AllowVideoPreRoll": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13263,7 +13264,6 @@
         "DFFlagDontRemoveNonLocalChildrenWithMRD": "True",
         "FFlagLuaAppFixInlineSignalsReactPattern_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:33:37",
         "FFlagLuaAppSduiSeeAllLayoutParamsFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:34:31",
-        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13711,9 +13711,9 @@
         "FFlagFixStrikeThrough_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1379275318;2025-10-23T20:32:47",
         "FFlagAXMigrateAXFocusBehaviorRoot_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:41:16",
         "FFlagFixDeviceSettingsFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;46449998;2025-10-23T21:23:24",
-        "FStringFlagRepoGitHashFastString": "338cc94b9e2a062b60ea445ecb76970c8d031a18",
-        "DFStringFlagRepoGitHashDynamicString": "338cc94b9e2a062b60ea445ecb76970c8d031a18",
-        "FStringFlipTimeStampFastString": "2025-10-23T21:27:54.757Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T21:27:54.757Z"
+        "FStringFlagRepoGitHashFastString": "3b06cda63e9d9326e9e9bab624a1bea693331db1",
+        "DFStringFlagRepoGitHashDynamicString": "3b06cda63e9d9326e9e9bab624a1bea693331db1",
+        "FStringFlipTimeStampFastString": "2025-10-23T21:31:40.243Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T21:31:40.243Z"
     }
 }
