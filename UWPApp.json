@@ -12802,6 +12802,8 @@
         "FFlagRemoveWorkspaceSuperHack": "True",
         "FFlagEnableClickableAdEventLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:02:52",
         "FFlagLuauTypeCheckerVectorLerp2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:04:46",
+        "FIntClickableAdEventThrottlingHundredthPercentage_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:05:18",
+        "FFlagEnableAvatarAssetPrompt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:05:24",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13099,9 +13101,10 @@
         "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": "True",
         "FFlagAXMigrateMainNavigationInputBindings": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
-        "FStringFlagRepoGitHashFastString": "bf6890ea0b3798969b537810f4e168af79584fd3",
-        "DFStringFlagRepoGitHashDynamicString": "bf6890ea0b3798969b537810f4e168af79584fd3",
-        "FStringFlipTimeStampFastString": "2025-10-23T22:08:34.230Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T22:08:34.230Z"
+        "DFFlagGetHlsLodManifest2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:07:49",
+        "FStringFlagRepoGitHashFastString": "516973503f4de59b4816d50a2025ce358db9a081",
+        "DFStringFlagRepoGitHashDynamicString": "516973503f4de59b4816d50a2025ce358db9a081",
+        "FStringFlipTimeStampFastString": "2025-10-23T22:15:15.386Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T22:15:15.386Z"
     }
 }
