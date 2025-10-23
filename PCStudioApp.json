@@ -12775,6 +12775,7 @@
         "FFlagWindowsCheckTabletMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:07:02",
         "FFlagCLI156525_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:07:06",
         "FFlagAMVRendererUseProtobuf_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T20:07:18",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -14571,7 +14572,6 @@
         "FFlagSlimProfileTelemetry": "True",
         "FFlagImprovedModelLODBetaFeature_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;748036607;2025-10-23T19:44:44",
         "FFlagHandlesUseVisualSize": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -14975,7 +14975,6 @@
         "DFIntSimSolverImprovedPartialSleepTolerance_PlaceFilter": "20;102669905873657;95110357124286;74420304866897;112408689884212",
         "DFIntCaptureVideoBitsPerThousandPixels": "210",
         "DFFlagDontRemoveNonLocalChildrenWithMRD_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:27:35",
-        "FFlagAXMigrateAXFocusBehaviorRoot_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T19:59:54",
         "FFlagAXRevertCategoryReducerChange": "True",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
@@ -15009,9 +15008,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "b8afdce0dde1f6583dd92ddb4907a22ee95c8f74",
-        "DFStringFlagRepoGitHashDynamicString": "b8afdce0dde1f6583dd92ddb4907a22ee95c8f74",
-        "FStringFlipTimeStampFastString": "2025-10-23T20:10:03.438Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T20:10:03.438Z"
+        "FStringFlagRepoGitHashFastString": "8163fd14f33020f9b7621063a56173e2a350960b",
+        "DFStringFlagRepoGitHashDynamicString": "8163fd14f33020f9b7621063a56173e2a350960b",
+        "FStringFlipTimeStampFastString": "2025-10-23T20:15:01.990Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T20:15:01.990Z"
     }
 }
