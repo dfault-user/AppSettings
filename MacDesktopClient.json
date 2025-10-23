@@ -12743,7 +12743,6 @@
         "DFIntGetMeshPartJointOffsetTelemetryThrottle": "10",
         "FFlagAXMISRemoveSingleItemPurchaseFromTryOn": "True",
         "FFlagSduiComponentTests": "True",
-        "FFlagTouchEnabledUseTabletCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T17:57:16",
         "DFFlagVoiceRtcStatsIgnoreNegativePacketLoss_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:02:35",
         "FFlagImprovedModelLODBetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;748036607;2025-10-23T18:05:05",
         "FFlagSduiUseTokensContext": "True",
@@ -12764,6 +12763,8 @@
         "FFlagBetterFileWatcherDestructor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:47:41",
         "FFlagMoreUsefulCylinderSelectionBox_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:48:53",
         "FFlagTopLeftOrigin2DUI5_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:56:06",
+        "UseApplicationLifecycleCallbacks2": "True",
+        "FFlagTouchEnabledUseTabletCheck": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13679,9 +13680,9 @@
         "DFIntNetStackDummyClientPingStatsThrottleHP": "10000",
         "FFlagDelayAudioFocusReplication": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "True",
-        "FStringFlagRepoGitHashFastString": "9f373ddb50a6e534b999f0034680629d84d13c67",
-        "DFStringFlagRepoGitHashDynamicString": "9f373ddb50a6e534b999f0034680629d84d13c67",
-        "FStringFlipTimeStampFastString": "2025-10-23T18:58:48.578Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T18:58:48.578Z"
+        "FStringFlagRepoGitHashFastString": "7d6a44db370d659156f7480cbf37f3b902562abf",
+        "DFStringFlagRepoGitHashDynamicString": "7d6a44db370d659156f7480cbf37f3b902562abf",
+        "FStringFlipTimeStampFastString": "2025-10-23T19:03:17.085Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:03:17.085Z"
     }
 }
