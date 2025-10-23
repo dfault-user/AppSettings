@@ -12765,6 +12765,7 @@
         "FFlagTouchEnabledUseTabletCheck": "True",
         "DFFlagVoiceRtcStatsIgnoreNegativePacketLoss": "True",
         "DFIntSlimHeartbeatTimer_Staged": "15000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;604110920;2025-10-23T19:11:19",
+        "FFlagLuaAppDerivedStackAndSwitchState_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1558020001;2025-10-23T19:24:23",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13063,9 +13064,9 @@
         "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": "True",
         "FFlagAXMigrateMainNavigationInputBindings": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "True",
-        "FStringFlagRepoGitHashFastString": "ad62cccf8aeeac873cd65f60aa3700d7211129e4",
-        "DFStringFlagRepoGitHashDynamicString": "ad62cccf8aeeac873cd65f60aa3700d7211129e4",
-        "FStringFlipTimeStampFastString": "2025-10-23T19:22:47.005Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:22:47.005Z"
+        "FStringFlagRepoGitHashFastString": "61c05f7c9a4a664fca42eb25fc49dcdb67c62590",
+        "DFStringFlagRepoGitHashDynamicString": "61c05f7c9a4a664fca42eb25fc49dcdb67c62590",
+        "FStringFlipTimeStampFastString": "2025-10-23T19:25:33.537Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:25:33.537Z"
     }
 }
