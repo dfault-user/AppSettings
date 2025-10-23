@@ -13231,7 +13231,6 @@
         "FFlagRefactorPeoplePage7_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
         "DFFlagRenderFastClusterOcclusionCulling2": "False",
         "FFlagFastClusterFixBoundingBoxUpdates": "False",
-        "FFlagVideoCaptureIxpEnabled_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.HardwareAndGsuns;1422196895;dev_controlled",
         "FFlagEnableAppChatFocusableFixes4": "True",
         "FFlagEnableAppChatFocusableFixesUpdate2": "True",
         "FFlagAXWidgetTypeAnalytics": "True",
@@ -13245,7 +13244,6 @@
         "FFlagAXOverlayShouldNotAutofocusForNonDirectionalInput": "True",
         "FFlagAllowPurchasesOutsideExperience": "True",
         "DFFlagPMDHeaderBlockDetection": "True",
-        "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesOriginalSdp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T17:43:02",
         "DFFlagGetPrimaryPartUpdate": "True",
         "FFlagCancelDeferOnShutdown": "True",
         "FFlagSessionTrackingUseMovedRelaunch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:08:56",
@@ -13255,6 +13253,9 @@
         "DFFlagLetRagdolledHumanoidsSleep_PlaceFilter": "True;102669905873657;95110357124286;74420304866897;112408689884212",
         "DFIntClientNonLocalChildrenRemovalStatsThrottle": "100",
         "DFFlagSimScaleSleepAcceleration_PlaceFilter": "True;102669905873657;95110357124286;74420304866897;112408689884212",
+        "DFIntSimSleepAccelerationMultiplier_PlaceFilter": "2000;102669905873657;95110357124286;74420304866897;112408689884212",
+        "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesOriginalSdp": "True",
+        "DFIntSimSolverImprovedPartialSleepTolerance_PlaceFilter": "20;102669905873657;95110357124286;74420304866897;112408689884212",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13725,9 +13726,9 @@
         "FFlagDelayAudioFocusReplication": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "True",
         "DFIntSimSolverWakeDisplacementMultiplier_PlaceFilter": "200;102669905873657;95110357124286;74420304866897;112408689884212",
-        "FStringFlagRepoGitHashFastString": "05825161bc2428b7e04c75118e94b7489530ddb8",
-        "DFStringFlagRepoGitHashDynamicString": "05825161bc2428b7e04c75118e94b7489530ddb8",
-        "FStringFlipTimeStampFastString": "2025-10-23T18:47:36.213Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T18:47:36.213Z"
+        "FStringFlagRepoGitHashFastString": "9ce760d4d777eb13875cdaa849afa6c087d451bb",
+        "DFStringFlagRepoGitHashDynamicString": "9ce760d4d777eb13875cdaa849afa6c087d451bb",
+        "FStringFlipTimeStampFastString": "2025-10-23T18:49:30.560Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T18:49:30.560Z"
     }
 }

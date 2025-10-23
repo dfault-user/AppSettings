@@ -13219,7 +13219,6 @@
         "FFlagAXOverlayShouldNotAutofocusForNonDirectionalInput": "True",
         "FFlagAllowPurchasesOutsideExperience": "True",
         "DFFlagPMDHeaderBlockDetection": "True",
-        "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesOriginalSdp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T17:43:02",
         "FFlagVoiceUseModularDeviceManager4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T17:46:44",
         "DFFlagGetPrimaryPartUpdate": "True",
         "FFlagCancelDeferOnShutdown": "True",
@@ -13231,6 +13230,8 @@
         "DFFlagSimScaleSleepAcceleration_PlaceFilter": "True;102669905873657;95110357124286;74420304866897;112408689884212",
         "DFIntSimSolverWakeDisplacementMultiplier_PlaceFilter": "200;102669905873657;95110357124286;74420304866897;112408689884212",
         "DFIntSimSleepAccelerationMultiplier_PlaceFilter": "2000;102669905873657;95110357124286;74420304866897;112408689884212",
+        "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesOriginalSdp": "True",
+        "DFIntSimSolverImprovedPartialSleepTolerance_PlaceFilter": "20;102669905873657;95110357124286;74420304866897;112408689884212",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13675,9 +13676,9 @@
         "DFIntNetStackDummyClientPingStatsThrottleHP": "10000",
         "FFlagDelayAudioFocusReplication": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "True",
-        "FStringFlagRepoGitHashFastString": "5e8983d7ec3b913220fc00aa1e6e75bb37249df8",
-        "DFStringFlagRepoGitHashDynamicString": "5e8983d7ec3b913220fc00aa1e6e75bb37249df8",
-        "FStringFlipTimeStampFastString": "2025-10-23T18:47:59.212Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T18:47:59.212Z"
+        "FStringFlagRepoGitHashFastString": "9ce760d4d777eb13875cdaa849afa6c087d451bb",
+        "DFStringFlagRepoGitHashDynamicString": "9ce760d4d777eb13875cdaa849afa6c087d451bb",
+        "FStringFlipTimeStampFastString": "2025-10-23T18:49:30.560Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T18:49:30.560Z"
     }
 }
