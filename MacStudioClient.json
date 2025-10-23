@@ -12796,6 +12796,7 @@
         "DFIntPerfDataOnTelemetryV2ThrottleHundredthsPercent_Staged": "20;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:38:02",
         "FFlagTouchEnabledLegacySupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:38:46",
         "FFlagFoundationInternalTextInputAutoSize": "True",
+        "FFlagLargeReplicatorSerializeRead3_Staged": "True;SteadyState;10;30;Revert;2025-10-23T21:44:52",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14977,6 +14978,7 @@
         "FFlagLuaAppFixInlineSignalsReactPattern": "True",
         "FFlagLuaAppSduiSeeAllLayoutParamsFix": "True",
         "FFlagVoiceChatClientRebootOperationEnabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:38:10",
+        "DFFlagJsonWriterWritesNanAndInfAsString2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:43:12",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -15012,9 +15014,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "83ef51232c08764134c57674fef850eec9f12118",
-        "DFStringFlagRepoGitHashDynamicString": "83ef51232c08764134c57674fef850eec9f12118",
-        "FStringFlipTimeStampFastString": "2025-10-23T21:45:30.927Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T21:45:30.927Z"
+        "FStringFlagRepoGitHashFastString": "f1e9a4727f17b9c3088c5acd6a71852bbe918297",
+        "DFStringFlagRepoGitHashDynamicString": "f1e9a4727f17b9c3088c5acd6a71852bbe918297",
+        "FStringFlipTimeStampFastString": "2025-10-23T21:47:23.834Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T21:47:23.834Z"
     }
 }

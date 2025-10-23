@@ -12796,6 +12796,7 @@
         "DFIntPerfDataOnTelemetryV2ThrottleHundredthsPercent_Staged": "20;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:38:02",
         "FFlagTouchEnabledLegacySupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:38:46",
         "FFlagFoundationInternalTextInputAutoSize": "True",
+        "FFlagLargeReplicatorSerializeRead3_Staged": "True;SteadyState;10;30;Revert;2025-10-23T21:44:52",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13270,6 +13271,7 @@
         "FFlagLuaAppFixInlineSignalsReactPattern": "True",
         "FFlagLuaAppSduiSeeAllLayoutParamsFix": "True",
         "FFlagVoiceChatClientRebootOperationEnabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:38:10",
+        "DFFlagJsonWriterWritesNanAndInfAsString2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:43:12",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13718,9 +13720,9 @@
         "FFlagFixDeviceSettingsFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;46449998;2025-10-23T21:23:24",
         "FFlagMaxSizeUseCorrectPadding_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T21:33:10",
         "FFlagFixStrikeThrough": "True",
-        "FStringFlagRepoGitHashFastString": "e78c56bd746285ab6f734ff89c1919865777b945",
-        "DFStringFlagRepoGitHashDynamicString": "e78c56bd746285ab6f734ff89c1919865777b945",
-        "FStringFlipTimeStampFastString": "2025-10-23T21:44:43.061Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T21:44:43.061Z"
+        "FStringFlagRepoGitHashFastString": "f1e9a4727f17b9c3088c5acd6a71852bbe918297",
+        "DFStringFlagRepoGitHashDynamicString": "f1e9a4727f17b9c3088c5acd6a71852bbe918297",
+        "FStringFlipTimeStampFastString": "2025-10-23T21:47:23.834Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T21:47:23.834Z"
     }
 }
