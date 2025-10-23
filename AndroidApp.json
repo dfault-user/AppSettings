@@ -11734,7 +11734,7 @@
         "FFlagAudioDiscoveryHandleAudioPlayer": "True",
         "FFlagAudioDiscoveryHandleRandomAssetIds": "True",
         "FFlagPerfDataOnTelemetryV2HighCardinalityFields": "True",
-        "FFlagImprovedModelLODBetaFeature": "False",
+        "FFlagImprovedModelLODBetaFeature": "True",
         "FFlagSlimDataUsePropertySet": "True",
         "FFlagSlimFixModelScaleIssue": "True",
         "FFlagSlimPropertySet3": "True",
@@ -12743,8 +12743,6 @@
         "DFIntGetMeshPartJointOffsetTelemetryThrottle": "10",
         "FFlagAXMISRemoveSingleItemPurchaseFromTryOn": "True",
         "FFlagSduiComponentTests": "True",
-        "DFFlagVoiceRtcStatsIgnoreNegativePacketLoss_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:02:35",
-        "FFlagImprovedModelLODBetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;748036607;2025-10-23T18:05:05",
         "FFlagSduiUseTokensContext": "True",
         "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesUnexpectedValue": "True",
         "DFFlagEnableGenerateItemListServerIntentInStudio": "True",
@@ -12765,6 +12763,7 @@
         "FFlagTopLeftOrigin2DUI5_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:56:06",
         "UseApplicationLifecycleCallbacks2": "True",
         "FFlagTouchEnabledUseTabletCheck": "True",
+        "DFFlagVoiceRtcStatsIgnoreNegativePacketLoss": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -13688,9 +13687,9 @@
         "DFFlagSimAccountForAeroForcesInJump2": "True",
         "FIntRbxStorageMinMemoryRequirementMB_Staged": "4100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:44:39",
         "FFlagPerformanceControlDeviceSpecificExperimentation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T18:59:00",
-        "FStringFlagRepoGitHashFastString": "7505a942f791fa33dfbfae4feaf636668dd7c267",
-        "DFStringFlagRepoGitHashDynamicString": "7505a942f791fa33dfbfae4feaf636668dd7c267",
-        "FStringFlipTimeStampFastString": "2025-10-23T19:06:09.219Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:06:09.219Z"
+        "FStringFlagRepoGitHashFastString": "5fe5f44cdfc2b01554ad106099850fbe6b712bae",
+        "DFStringFlagRepoGitHashDynamicString": "5fe5f44cdfc2b01554ad106099850fbe6b712bae",
+        "FStringFlipTimeStampFastString": "2025-10-23T19:09:53.825Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T19:09:53.825Z"
     }
 }
