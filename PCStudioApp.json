@@ -12834,6 +12834,7 @@
         "DFFlagFlagRolloutTestDynamicBool1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T22:50:36",
         "FFlagFlagRolloutTestStaticBool0_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T22:50:36",
         "FFlagFlagRolloutTestStaticBool1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T22:50:36",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14629,7 +14630,6 @@
         "FFlagRemoveActionsFromRobloxMainWindowB": "True",
         "FFlagMCPAssistantSecureStorage": "True",
         "FFlagFixMaterialManagerGroupUpload": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -15042,6 +15042,7 @@
         "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V2;1550495362;dev_controlled",
         "DFStringVideoWinHwEncoderBlacklistCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V2;1550495362;dev_controlled",
         "FFlagYieldFunctionDescriptorsToArray2": "True",
+        "FFlagAXUnifiedLoggingValidation1_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T23:35:38",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -15074,9 +15075,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "f275f478d6793919a409065edc875ad12751e4f5",
-        "DFStringFlagRepoGitHashDynamicString": "f275f478d6793919a409065edc875ad12751e4f5",
-        "FStringFlipTimeStampFastString": "2025-10-24T23:29:54.231Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-24T23:29:54.231Z"
+        "FStringFlagRepoGitHashFastString": "ec21cd2a006b84e24f1a66d1220de8e3bd6a1ff2",
+        "DFStringFlagRepoGitHashDynamicString": "ec21cd2a006b84e24f1a66d1220de8e3bd6a1ff2",
+        "FStringFlipTimeStampFastString": "2025-10-24T23:39:28.797Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-24T23:39:28.797Z"
     }
 }
