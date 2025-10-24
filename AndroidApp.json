@@ -12804,7 +12804,6 @@
         "FFlagVideoCaptureIxpEnabled_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.LowMem480P;854912503;dev_controlled",
         "FFlagAXEnableAvatarAssetDeepLink": "True",
         "DFFlagRbxTelemetryEnableStartEndEvents3": "True",
-        "FFlagRbxTelemetryEnableHttpCounters3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-23T22:52:42",
         "DFFlagSlimEnableTeamCreateUploadCap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1593175966;2025-10-23T22:59:31",
         "DFIntSlimTeamCreateUploadCap_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1593175966;2025-10-23T22:59:31",
         "FFlagEnableAvatarAssetPrompt": "True",
@@ -12819,6 +12818,7 @@
         "FFlagLargeReplicatorSerializeRead3": "True",
         "FFlagAvatarInventoryUseAvailabilityResponse": "True",
         "DFIntExpChatWindowStatusChangeThrottlePermyriad": "100",
+        "FFlagRbxTelemetryEnableHttpCounters3": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13742,9 +13742,9 @@
         "FFlagPerformanceControlDeviceSpecificExperimentation": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "DFFlagGetHlsLodManifest2": "True",
-        "FStringFlagRepoGitHashFastString": "833d8ff45f70c6a5611f5884800583a1685a9ea3",
-        "DFStringFlagRepoGitHashDynamicString": "833d8ff45f70c6a5611f5884800583a1685a9ea3",
-        "FStringFlipTimeStampFastString": "2025-10-23T23:57:41.130Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T23:57:41.130Z"
+        "FStringFlagRepoGitHashFastString": "9b4b14972662e9e50c3f0a5cf40abebade64d33d",
+        "DFStringFlagRepoGitHashDynamicString": "9b4b14972662e9e50c3f0a5cf40abebade64d33d",
+        "FStringFlipTimeStampFastString": "2025-10-24T00:03:13.070Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-24T00:03:13.070Z"
     }
 }
