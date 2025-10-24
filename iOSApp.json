@@ -12798,7 +12798,6 @@
         "DFIntPerfDataOnTelemetryV2ThrottleHundredthsPercent": "20",
         "FFlagRecentsWidgetTelemetryEnabled": "True",
         "FFlagTouchEnabledLegacySupport": "True",
-        "DFIntExpChatWindowStatusChangeThrottlePermyriad_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;475832084;2025-10-23T22:46:03",
         "FIntVideoCaptureMaxLongSideLowMem_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.LowMem480P;854912503;dev_controlled",
         "FIntVideoCaptureMaxShortSideLowMem_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.LowMem480P;854912503;dev_controlled",
         "DFFlagVideoCaptureClampToShortSide_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.LowMem480P;854912503;dev_controlled",
@@ -12819,6 +12818,7 @@
         "FIntRenderBufferTypeIndex": "4",
         "FFlagLargeReplicatorSerializeRead3": "True",
         "FFlagAvatarInventoryUseAvailabilityResponse": "True",
+        "DFIntExpChatWindowStatusChangeThrottlePermyriad": "100",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13725,9 +13725,9 @@
         "FFlagLuaAppSduiSeeAllLayoutParamsFix": "True",
         "FFlagLuaAppLayoutParamsInContext2": "True",
         "DFFlagGetHlsLodManifest2": "True",
-        "FStringFlagRepoGitHashFastString": "6edcbfed9f43ab8494a8ed7e4b01e379619fd146",
-        "DFStringFlagRepoGitHashDynamicString": "6edcbfed9f43ab8494a8ed7e4b01e379619fd146",
-        "FStringFlipTimeStampFastString": "2025-10-23T23:53:54.240Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-23T23:53:54.240Z"
+        "FStringFlagRepoGitHashFastString": "833d8ff45f70c6a5611f5884800583a1685a9ea3",
+        "DFStringFlagRepoGitHashDynamicString": "833d8ff45f70c6a5611f5884800583a1685a9ea3",
+        "FStringFlipTimeStampFastString": "2025-10-23T23:57:41.130Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-23T23:57:41.130Z"
     }
 }
