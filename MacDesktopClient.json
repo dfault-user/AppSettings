@@ -12804,8 +12804,6 @@
         "FFlagVideoCaptureIxpEnabled_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.LowMem480P;854912503;dev_controlled",
         "FFlagAXEnableAvatarAssetDeepLink": "True",
         "DFFlagRbxTelemetryEnableStartEndEvents3": "True",
-        "DFFlagSlimEnableTeamCreateUploadCap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1593175966;2025-10-23T22:59:31",
-        "DFIntSlimTeamCreateUploadCap_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1593175966;2025-10-23T22:59:31",
         "FFlagEnableAvatarAssetPrompt": "True",
         "FFlagEnableClickableAdEventLogging": "True",
         "FIntClickableAdEventThrottlingHundredthPercentage": "10000",
@@ -12819,6 +12817,8 @@
         "FFlagAvatarInventoryUseAvailabilityResponse": "True",
         "DFIntExpChatWindowStatusChangeThrottlePermyriad": "100",
         "FFlagRbxTelemetryEnableHttpCounters3": "True",
+        "DFFlagSlimEnableTeamCreateUploadCap": "True",
+        "DFIntSlimTeamCreateUploadCap": "1000",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13741,9 +13741,9 @@
         "FFlagFixDeviceSettingsFocus": "True",
         "FFlagMaxSizeUseCorrectPadding": "True",
         "DFFlagGetHlsLodManifest2": "True",
-        "FStringFlagRepoGitHashFastString": "9b4b14972662e9e50c3f0a5cf40abebade64d33d",
-        "DFStringFlagRepoGitHashDynamicString": "9b4b14972662e9e50c3f0a5cf40abebade64d33d",
-        "FStringFlipTimeStampFastString": "2025-10-24T00:03:13.070Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-24T00:03:13.070Z"
+        "FStringFlagRepoGitHashFastString": "f97a09b49807de41e6aacbaa4184427e1ddc0ee3",
+        "DFStringFlagRepoGitHashDynamicString": "f97a09b49807de41e6aacbaa4184427e1ddc0ee3",
+        "FStringFlipTimeStampFastString": "2025-10-24T00:08:04.319Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-24T00:08:04.319Z"
     }
 }
