@@ -12801,7 +12801,6 @@
         "FIntVideoCaptureMaxLongSideLowMem_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.LowMem480P;854912503;dev_controlled",
         "FIntVideoCaptureMaxShortSideLowMem_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.LowMem480P;854912503;dev_controlled",
         "DFFlagVideoCaptureClampToShortSide_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.LowMem480P;854912503;dev_controlled",
-        "FFlagVideoCaptureIxpEnabled_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.LowMem480P;854912503;dev_controlled",
         "FFlagAXEnableAvatarAssetDeepLink": "True",
         "DFFlagRbxTelemetryEnableStartEndEvents3": "True",
         "FFlagEnableAvatarAssetPrompt": "True",
@@ -12820,6 +12819,7 @@
         "DFIntSlimTeamCreateUploadCap": "1000",
         "FIntRenderBufferTypeVertex": "3",
         "FFlagRequireInstancingRender_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T17:22:44",
+        "FFlagVideoCaptureIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T17:30:08",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13118,9 +13118,9 @@
         "FFlagAXMigrateMainNavigationInputBindings": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "DFFlagGetHlsLodManifest2": "True",
-        "FStringFlagRepoGitHashFastString": "fa03f6da3e667658ca7a1da97746e2a2324aa4ae",
-        "DFStringFlagRepoGitHashDynamicString": "fa03f6da3e667658ca7a1da97746e2a2324aa4ae",
-        "FStringFlipTimeStampFastString": "2025-10-24T17:29:12.791Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-24T17:29:12.791Z"
+        "FStringFlagRepoGitHashFastString": "12f882a0d8e4fa25a125ae3c9bfc5f8a57d342ca",
+        "DFStringFlagRepoGitHashDynamicString": "12f882a0d8e4fa25a125ae3c9bfc5f8a57d342ca",
+        "FStringFlipTimeStampFastString": "2025-10-24T17:31:51.801Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-24T17:31:51.801Z"
     }
 }
