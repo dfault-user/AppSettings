@@ -12821,7 +12821,6 @@
         "FFlagAppChatEnableRepliesUI2_IXP": "1;Social.AppChat;AppChatEnableRepliesUI;420824982;flagbank",
         "FFlagAppChatEnableRepliesUITooltip_IXP": "1;Social.AppChat;AppChatEnableRepliesUI;420824982;flagbank",
         "FFlagAppChatReplyComposeBarContainer1_IXP": "1;Social.AppChat;AppChatEnableRepliesUI;420824982;flagbank",
-        "FFlagFixCopyPasteFocus2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T17:59:09",
         "DFIntConvexDecompCompressionSelector_Staged": "50000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1975672446;2025-10-24T18:06:30",
         "DFIntClientSideUserHashingTelemetryThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T18:18:35",
         "FFlagRequireInstancingRender": "True",
@@ -12837,6 +12836,7 @@
         "DFFlagLargeReplicatorSendMaxThrow": "True",
         "FFlagLRIncreasePeer": "True",
         "DFStringInternalTestGroupIds_Staged": "8626839,8507294,3529469,35735780,14461910;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;702682288;2025-10-24T18:54:49",
+        "FFlagFixCopyPasteFocus2": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13198,9 +13198,9 @@
         "DFFlagGetHlsLodManifest2": "True",
         "FFlagNewStrengthInNumbersLua2": "True",
         "FFlagAXRevertCategoryReducerChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T18:24:05",
-        "FStringFlagRepoGitHashFastString": "15a69e7303de85151104b743d066851544caf3b0",
-        "DFStringFlagRepoGitHashDynamicString": "15a69e7303de85151104b743d066851544caf3b0",
-        "FStringFlipTimeStampFastString": "2025-10-24T19:02:17.988Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-24T19:02:17.988Z"
+        "FStringFlagRepoGitHashFastString": "cd1686dc005b74d8f1f25d39b0b546c37523991c",
+        "DFStringFlagRepoGitHashDynamicString": "cd1686dc005b74d8f1f25d39b0b546c37523991c",
+        "FStringFlipTimeStampFastString": "2025-10-24T19:04:46.562Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-24T19:04:46.562Z"
     }
 }
