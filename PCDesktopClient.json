@@ -12807,7 +12807,7 @@
         "FFlagEnableClickableAdEventLogging": "True",
         "FIntClickableAdEventThrottlingHundredthPercentage": "10000",
         "FFlagLuauTypeCheckerVectorLerp2": "True",
-        "DFFlagEnableModerationServiceImageVideo2": "True",
+        "DFFlagEnableModerationServiceImageVideo2": "False",
         "FFlagEnableIECWrapLayerSupport": "True",
         "DFFlagVideoWinHwEncoderClearLastPts": "True",
         "FIntRenderBufferTypeIndex": "4",
@@ -12831,6 +12831,7 @@
         "FFlagAppChatEnableRepliesUITooltip_IXP": "1;Social.AppChat;AppChatEnableRepliesUI;420824982;flagbank",
         "FFlagAppChatReplyComposeBarContainer1_Staged": "True;SteadyState;10;60;Revert;true;420824982;2025-10-24T17:45:40",
         "FFlagAppChatReplyComposeBarContainer1_IXP": "1;Social.AppChat;AppChatEnableRepliesUI;420824982;flagbank",
+        "DFFlagLargeReplicatorSendMaxThrow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T17:49:57",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13805,9 +13806,9 @@
         "FFlagFixDeviceSettingsFocus": "True",
         "DFFlagGetHlsLodManifest2": "True",
         "FFlagRemoveNoOrderInfo": "True",
-        "FStringFlagRepoGitHashFastString": "1dec089948724784592d7c14f1dfaa57a6231174",
-        "DFStringFlagRepoGitHashDynamicString": "1dec089948724784592d7c14f1dfaa57a6231174",
-        "FStringFlipTimeStampFastString": "2025-10-24T17:47:27.428Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-24T17:47:27.428Z"
+        "FStringFlagRepoGitHashFastString": "d7a85603876df06000a0eaa75f0895a493dc6a29",
+        "DFStringFlagRepoGitHashDynamicString": "d7a85603876df06000a0eaa75f0895a493dc6a29",
+        "FStringFlipTimeStampFastString": "2025-10-24T17:51:54.078Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-24T17:51:54.078Z"
     }
 }
