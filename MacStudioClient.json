@@ -11681,7 +11681,7 @@
         "FFlagShowJoinVoiceRaceConditionFix": "True",
         "FFlagMicroprofilerBigButtons": "True",
         "FFlagStudioTasksFutureShareMutexes": "True",
-        "FFlagStudioActionsMultiplePayloads": "False",
+        "FFlagStudioActionsMultiplePayloads": "True",
         "FFlagAXCatalogCategoryPillsIXP": "False",
         "FFlagFlowQueryParamEnabledStartRegistration": "True",
         "FFlagPasswordManagerAwaitEnabled1": "True",
@@ -12818,7 +12818,6 @@
         "DFFlagSlimEnableTeamCreateUploadCap": "True",
         "DFIntSlimTeamCreateUploadCap": "1000",
         "FIntRenderBufferTypeVertex": "3",
-        "FFlagVideoCaptureIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T17:30:08",
         "FFlagEnableRefactorGmaSdkControllerListeners_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T17:35:59",
         "FFlagLoadTeamTestPlaceFromEdge_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T17:38:23",
         "FIntLoadTeamTestPlaceFromEdgeHundredthPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T17:39:02",
@@ -12836,6 +12835,8 @@
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "DFIntClientSideUserHashingTelemetryThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T18:18:35",
         "FFlagRequireInstancingRender": "True",
+        "DFIntAndroidActivityLifecycleHistoryMaxCount_Staged": "30;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T18:30:34",
+        "FFlagVideoCaptureIxpEnabled": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -14631,7 +14632,6 @@
         "FFlagScriptLocationActionContext": "True",
         "FFlagRemoveActionsFromRobloxMainWindowB": "True",
         "FFlagMCPAssistantSecureStorage": "True",
-        "FFlagStudioActionsMultiplePayloads_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-24T17:26:38",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15051,9 +15051,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "f876b0de738a53bcd874f27eefb14f15b1e55057",
-        "DFStringFlagRepoGitHashDynamicString": "f876b0de738a53bcd874f27eefb14f15b1e55057",
-        "FStringFlipTimeStampFastString": "2025-10-24T18:33:46.378Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-24T18:33:46.378Z"
+        "FStringFlagRepoGitHashFastString": "c12275ef8fcb5273f26caaae0653b0ff94342340",
+        "DFStringFlagRepoGitHashDynamicString": "c12275ef8fcb5273f26caaae0653b0ff94342340",
+        "FStringFlipTimeStampFastString": "2025-10-24T18:36:28.803Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-24T18:36:28.803Z"
     }
 }
