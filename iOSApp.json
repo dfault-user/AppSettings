@@ -12853,7 +12853,6 @@
         "FFlagInputEventsRaceUseRuntimeMutex": "True",
         "FFlagLuaAppEdpSingleColumnAcrossPlatforms": "True",
         "FFlagUseCaptureForStudio2": "True",
-        "DFFlagAppStateiOS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T18:53:11",
         "DFFlagVideoMacEncodeFailedMetrics": "True",
         "FFlagVideoCaptureFrameDropMetrics": "True",
         "DFFlagMouseLeaveBeforeMouseEnter2": "True",
@@ -12874,6 +12873,7 @@
         "CaptureCountersIntervalInMinutes": "5",
         "DFIntExpChatWindowStatusChangeThrottlePermyriad_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;475832084;2025-10-27T19:52:11",
         "FFlagAXAvatarsTabCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T19:54:53",
+        "DFFlagAppStateiOS": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -13780,9 +13780,9 @@
         "DFIntVideoCaptureLowResOnLowMemThresholdMB_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.iOSLowMemThreshold.V1;193482330;dev_controlled",
         "FFlagEnableSessionIdInBacktraceAttribute": "True",
         "FFlagEnableAEGIS1Upsell4_Staged": "True;SteadyState;10;30;Revert;2025-10-27T19:28:47",
-        "FStringFlagRepoGitHashFastString": "e95c41b47153d426d93879098a7b5ab36388dd39",
-        "DFStringFlagRepoGitHashDynamicString": "e95c41b47153d426d93879098a7b5ab36388dd39",
-        "FStringFlipTimeStampFastString": "2025-10-27T19:56:04.457Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T19:56:04.457Z"
+        "FStringFlagRepoGitHashFastString": "663cd648eec510a32f5cd87acd93578e59a73d72",
+        "DFStringFlagRepoGitHashDynamicString": "663cd648eec510a32f5cd87acd93578e59a73d72",
+        "FStringFlipTimeStampFastString": "2025-10-27T19:58:43.842Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T19:58:43.842Z"
     }
 }
