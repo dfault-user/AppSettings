@@ -12843,8 +12843,6 @@
         "FFlagPlayerListUseMobileOnSmallDisplay": "True",
         "FFlagModalPlayerListCloseUnfocused2": "True",
         "FFlagLuaAppFixEdpSingleColumnAcrossPlatforms": "True",
-        "FFlagVideoCaptureFrameDropMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:51:07",
-        "DFFlagVideoMacEncodeFailedMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:51:42",
         "FFlagFixGameGridCompactMetadataCheck2": "True",
         "DFFlagMouseLeaveBeforeMouseEnter2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:58:33",
         "DFFlagRtlMaxVisibleGraphemes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:59:09",
@@ -12863,6 +12861,8 @@
         "FFlagLuaAppEdpSingleColumnAcrossPlatforms": "True",
         "FFlagUseCaptureForStudio2": "True",
         "DFFlagAppStateiOS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T18:53:11",
+        "DFFlagVideoMacEncodeFailedMetrics": "True",
+        "FFlagVideoCaptureFrameDropMetrics": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13789,14 +13789,14 @@
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Reboot;564416378;flagbank",
         "DFFlagCollectSessionBatteryTelemetry": "True",
         "DFFlagEnableStandardizedFieldAddPlaySessionId": "True",
-        "FFlagEnableAppSessionStartEnd_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:54:53",
         "FFlagEnableClientSideUserBucketingCheckForExperimentation2": "True",
         "FFlagSessionTrackingUseMovedRelaunch": "True",
         "FFlagAdsDebuggingUsePlaySessionId": "True",
         "FFlagCallBackDescriptorsToArray2": "True",
-        "FStringFlagRepoGitHashFastString": "98ae8a9a088d91b6d2848a44755cdcd7be1fcfec",
-        "DFStringFlagRepoGitHashDynamicString": "98ae8a9a088d91b6d2848a44755cdcd7be1fcfec",
-        "FStringFlipTimeStampFastString": "2025-10-27T18:54:02.732Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T18:54:02.732Z"
+        "FFlagEnableAppSessionStartEnd": "True",
+        "FStringFlagRepoGitHashFastString": "ece638094add2d5342a530f7a7198df9d19be38e",
+        "DFStringFlagRepoGitHashDynamicString": "ece638094add2d5342a530f7a7198df9d19be38e",
+        "FStringFlipTimeStampFastString": "2025-10-27T18:57:23.356Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T18:57:23.356Z"
     }
 }

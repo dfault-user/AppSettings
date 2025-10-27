@@ -12843,8 +12843,6 @@
         "FFlagPlayerListUseMobileOnSmallDisplay": "True",
         "FFlagModalPlayerListCloseUnfocused2": "True",
         "FFlagLuaAppFixEdpSingleColumnAcrossPlatforms": "True",
-        "FFlagVideoCaptureFrameDropMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:51:07",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagFixGameGridCompactMetadataCheck2": "True",
         "DFFlagMouseLeaveBeforeMouseEnter2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:58:33",
         "DFFlagRtlMaxVisibleGraphemes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:59:09",
@@ -12863,6 +12861,9 @@
         "FFlagLuaAppEdpSingleColumnAcrossPlatforms": "True",
         "FFlagUseCaptureForStudio2": "True",
         "DFFlagAppStateiOS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T18:53:11",
+        "DFFlagVideoMacEncodeFailedMetrics": "True",
+        "FFlagVideoCaptureFrameDropMetrics": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13286,7 +13287,6 @@
         "DFFlagMicroprofilerHiddenClicksFix": "True",
         "DFFlagMicroprofilerPersistOffMode": "True",
         "DFFlagWebSocketCurlErrBuf": "True",
-        "DFFlagVideoMacEncodeFailedMetrics": "True",
         "FFlagAXCategoryPillPositionAnimation_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;731719989;dev_controlled",
         "DFFlagRbxStorageWalCheckpointAfterCleanup": "True",
         "FFlagAXEnableCategoryPills7_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;2029261985;dev_controlled",
@@ -13785,9 +13785,9 @@
         "FFlagFixDeviceSettingsFocus": "True",
         "FFlagMaxSizeUseCorrectPadding": "True",
         "DFFlagGetHlsLodManifest2": "True",
-        "FStringFlagRepoGitHashFastString": "98ae8a9a088d91b6d2848a44755cdcd7be1fcfec",
-        "DFStringFlagRepoGitHashDynamicString": "98ae8a9a088d91b6d2848a44755cdcd7be1fcfec",
-        "FStringFlipTimeStampFastString": "2025-10-27T18:54:02.732Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T18:54:02.732Z"
+        "FStringFlagRepoGitHashFastString": "ece638094add2d5342a530f7a7198df9d19be38e",
+        "DFStringFlagRepoGitHashDynamicString": "ece638094add2d5342a530f7a7198df9d19be38e",
+        "FStringFlipTimeStampFastString": "2025-10-27T18:57:23.356Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T18:57:23.356Z"
     }
 }
