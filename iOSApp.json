@@ -12652,7 +12652,7 @@
         "FFlagAppChatUseTCUserTileForFacePile": "True",
         "FFlagMakeupFixAuthoredOnCageReporting": "True",
         "DFFlagVoiceRtcStatsRemoveHighCardinalityGrafanaFields": "True",
-        "DFFlagReduceBackgroundUsageAllPlatforms2": "True",
+        "DFFlagReduceBackgroundUsageAllPlatforms2": "False",
         "DFFlagAvatarUseBatchedRaycasts2": "True",
         "DFFlagFetchAndWriteFlagsAfterSuccessfulCachedFlagsLoad": "True",
         "DFFlagMemoryProfilingTopLevelUsageMutex": "True",
@@ -12857,7 +12857,6 @@
         "FFlagVideoCaptureFrameDropMetrics": "True",
         "DFFlagMouseLeaveBeforeMouseEnter2": "True",
         "DFFlagRtlMaxVisibleGraphemes": "True",
-        "DFFlagReduceBackgroundUsageAllPlatforms2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;933281207;2025-10-27T19:12:31",
         "FFlagAXFixCatalogRefreshRenderingV3": "True",
         "DFFlagPreventLrInlineOnNoSendPerms_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T19:17:21",
         "FFlagReportLargeReplicatorStatsToReplicatorStats1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T19:24:32",
@@ -12875,6 +12874,7 @@
         "FFlagAXAvatarsTabCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T19:54:53",
         "DFFlagAppStateiOS": "True",
         "FFlagCrashReportStudioStreaming2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T20:02:54",
+        "DFFlagEnableModerationServiceImageVideo2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T20:16:13",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -13780,9 +13780,9 @@
         "DFFlagCollectSessionBatteryTelemetry": "True",
         "DFIntVideoCaptureLowResOnLowMemThresholdMB_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.iOSLowMemThreshold.V1;193482330;dev_controlled",
         "FFlagEnableSessionIdInBacktraceAttribute": "True",
-        "FStringFlagRepoGitHashFastString": "ad4ae8742f08a8485ecbb2239df7554cefaa64ee",
-        "DFStringFlagRepoGitHashDynamicString": "ad4ae8742f08a8485ecbb2239df7554cefaa64ee",
-        "FStringFlipTimeStampFastString": "2025-10-27T20:12:17.138Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T20:12:17.138Z"
+        "FStringFlagRepoGitHashFastString": "d50ae361fcc371e570ad78bf129904fd240fb7b3",
+        "DFStringFlagRepoGitHashDynamicString": "d50ae361fcc371e570ad78bf129904fd240fb7b3",
+        "FStringFlipTimeStampFastString": "2025-10-27T20:19:14.293Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T20:19:14.293Z"
     }
 }
