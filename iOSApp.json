@@ -12846,7 +12846,6 @@
         "FFlagFixGameGridCompactMetadataCheck2": "True",
         "FFlagPrecomputeBoxMappedData": "True",
         "FFlagExpChatTriggerWindowStatusEvent": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagHelpPageIXPExposure2": "True",
         "FFlagUseCustomDspForOutputCapture": "True",
         "FFlagEnableEconomicRestrictionBulkPurchaseV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T18:41:00",
@@ -12862,6 +12861,8 @@
         "DFFlagMouseLeaveBeforeMouseEnter2": "True",
         "DFFlagRtlMaxVisibleGraphemes": "True",
         "DFFlagReduceBackgroundUsageAllPlatforms2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;933281207;2025-10-27T19:12:31",
+        "FFlagAXFixCatalogRefreshRenderingV3": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13732,7 +13733,6 @@
         "FFlagEnableiOSExternalKeyboards": "True",
         "DFFlagRbxStorageAddPermCategoryStatsWithBypass": "True",
         "FFlagRbxStorageCleanPermCache": "False",
-        "FFlagAXFixCatalogRefreshRenderingV3": "True",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "FFlagAssetReadLoggerRaceConditionFix": "True",
         "FFlagAXCategoryPillPositionAnimation_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;731719989;dev_controlled",
@@ -13770,9 +13770,9 @@
         "DFFlagCollectSessionBatteryTelemetry": "True",
         "DFIntVideoCaptureLowResOnLowMemThresholdMB_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.iOSLowMemThreshold.V1;193482330;dev_controlled",
         "FFlagEnableSessionIdInBacktraceAttribute": "True",
-        "FStringFlagRepoGitHashFastString": "174e8630700d677b6dccd50c2dffaa705672d8b2",
-        "DFStringFlagRepoGitHashDynamicString": "174e8630700d677b6dccd50c2dffaa705672d8b2",
-        "FStringFlipTimeStampFastString": "2025-10-27T19:13:52.619Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T19:13:52.619Z"
+        "FStringFlagRepoGitHashFastString": "3a59d0138df71aa489a372c1877fb80fd7c4cb44",
+        "DFStringFlagRepoGitHashDynamicString": "3a59d0138df71aa489a372c1877fb80fd7c4cb44",
+        "FStringFlipTimeStampFastString": "2025-10-27T19:18:11.863Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T19:18:11.863Z"
     }
 }
