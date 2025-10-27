@@ -12887,6 +12887,8 @@
         "FFlagVideoWinHwEncoderReportQuickSyncDLLVersion_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
         "FFlagPublishSettingsInvokeGuard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:41:00",
         "FFlagColliderHeight_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;702677822;2025-10-27T21:43:57",
+        "DFFlagUseDevOriginatedWebSocketLimit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;919099834;2025-10-27T21:55:14",
+        "DFIntDevOriginatedWebSocketLimit_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;919099834;2025-10-27T21:55:14",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13823,9 +13825,9 @@
         "FFlagEnableAEGIS1Upsell4": "True",
         "FFlagEnableAEGIS1AppChatBanner4_Staged": "True;SteadyState;10;30;Revert;2025-10-27T21:47:57",
         "FFlagEnableAEGIS1HomePageBanner4_Staged": "True;SteadyState;10;30;Revert;2025-10-27T21:48:49",
-        "FStringFlagRepoGitHashFastString": "4777988ce49dc756a3e6a5b3b906cb11eb58a561",
-        "DFStringFlagRepoGitHashDynamicString": "4777988ce49dc756a3e6a5b3b906cb11eb58a561",
-        "FStringFlipTimeStampFastString": "2025-10-27T21:57:19.799Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T21:57:19.799Z"
+        "FStringFlagRepoGitHashFastString": "f973b9ef82e7896e01d9fe7a653fa7c3b88f4738",
+        "DFStringFlagRepoGitHashDynamicString": "f973b9ef82e7896e01d9fe7a653fa7c3b88f4738",
+        "FStringFlipTimeStampFastString": "2025-10-27T22:01:40.590Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T22:01:40.590Z"
     }
 }
