@@ -13384,11 +13384,13 @@
         "FFlagYieldFunctionDescriptorsToArray2": "True",
         "FFlagCallBackDescriptorsToArray2": "True",
         "DFFlagSQLiteCheckPrepareSuccess": "True",
-        "FFlagEnableAEGIS1Upsell4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T20:44:43",
         "DFFlagHttp2GranularConfig_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1328752679;2025-10-27T20:47:19",
         "DFFlagHttp2NonUploadReqs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1328752679;2025-10-27T20:47:19",
         "FFlagComponentManagerAddDedicatedInjectedComponent": "True",
         "FFlagStatusFileManagerV22": "True",
+        "FFlagEnableAEGIS1Upsell4": "True",
+        "FFlagEnableAEGIS1AppChatBanner4_Staged": "True;SteadyState;10;30;Revert;2025-10-27T21:47:57",
+        "FFlagEnableAEGIS1HomePageBanner4_Staged": "True;SteadyState;10;30;Revert;2025-10-27T21:48:49",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13860,9 +13862,9 @@
         "DFIntSimSolverWakeDisplacementMultiplier_PlaceFilter": "200;102669905873657;95110357124286;74420304866897;112408689884212",
         "FFlagFixDeviceSettingsFocus": "True",
         "DFFlagGetHlsLodManifest2": "True",
-        "FStringFlagRepoGitHashFastString": "9f2f7afd027df7868ee983bd6433137d7ca3c133",
-        "DFStringFlagRepoGitHashDynamicString": "9f2f7afd027df7868ee983bd6433137d7ca3c133",
-        "FStringFlipTimeStampFastString": "2025-10-27T21:47:16.164Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T21:47:16.164Z"
+        "FStringFlagRepoGitHashFastString": "36fd930b81f721efd078fb52f5ac892d012a656b",
+        "DFStringFlagRepoGitHashDynamicString": "36fd930b81f721efd078fb52f5ac892d012a656b",
+        "FStringFlipTimeStampFastString": "2025-10-27T21:53:41.318Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T21:53:41.318Z"
     }
 }
