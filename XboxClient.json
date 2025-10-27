@@ -12805,7 +12805,7 @@
         "FIntRenderBufferTypeIndex": "4",
         "FFlagLargeReplicatorSerializeRead3": "True",
         "FFlagAvatarInventoryUseAvailabilityResponse": "True",
-        "DFIntExpChatWindowStatusChangeThrottlePermyriad": "5000",
+        "DFIntExpChatWindowStatusChangeThrottlePermyriad": "7500",
         "FFlagRbxTelemetryEnableHttpCounters3": "True",
         "DFFlagSlimEnableTeamCreateUploadCap": "True",
         "DFIntSlimTeamCreateUploadCap": "1000",
@@ -12877,8 +12877,6 @@
         "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
         "DFStringVideoWinHwEncoderBlacklistCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
         "FFlagVideoWinHwEncoderReportQuickSyncDLLVersion_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
-        "FFlagRenderDecalUseColorMapProperties_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:08:13",
-        "DFIntExpChatWindowStatusChangeThrottlePermyriad_Staged": "7500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;475832084;2025-10-27T22:10:19",
         "FFlagForceOffPostFxForQuestVR": "True",
         "FFlagFixExperienceLinkForSiteTest": "True",
         "FFlagSduiEnableHeroUnitBottomRow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:20:13",
@@ -12895,6 +12893,7 @@
         "FFlagSkipProcessGestureWithoutConnections2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;521286449;2025-10-27T22:51:12",
         "DFFlagUseDevOriginatedWebSocketLimit": "True",
         "DFIntDevOriginatedWebSocketLimit": "100",
+        "FFlagRenderDecalUseColorMapProperties": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13258,9 +13257,9 @@
         "FFlagSessionTrackingUseMovedRelaunch": "True",
         "FFlagUseXboxPaymentsProtocolCommonFunctions": "False",
         "DFFlagSQLiteCheckPrepareSuccess_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T23:01:57",
-        "FStringFlagRepoGitHashFastString": "c549d629d00dcb8eac08c95f57ec8c6eaa9cb4f4",
-        "DFStringFlagRepoGitHashDynamicString": "c549d629d00dcb8eac08c95f57ec8c6eaa9cb4f4",
-        "FStringFlipTimeStampFastString": "2025-10-27T23:13:32.534Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T23:13:32.534Z"
+        "FStringFlagRepoGitHashFastString": "c6450c07d4e41efbaf177d24b640ea91a3261d5e",
+        "DFStringFlagRepoGitHashDynamicString": "c6450c07d4e41efbaf177d24b640ea91a3261d5e",
+        "FStringFlipTimeStampFastString": "2025-10-27T23:13:50.426Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T23:13:50.426Z"
     }
 }
