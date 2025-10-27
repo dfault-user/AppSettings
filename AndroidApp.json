@@ -12883,6 +12883,9 @@
         "FFlagEnablePartyTabNumberedBadge6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:16:27",
         "FFlagAESPromptRequireClientLaunchIntent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:28:36",
         "FFlagNativePageWrapperEnableTextWrap": "True",
+        "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
+        "DFStringVideoWinHwEncoderBlacklistCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
+        "FFlagVideoWinHwEncoderReportQuickSyncDLLVersion_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13817,9 +13820,9 @@
         "FFlagEnableRefactorGoogleAdViewControlsFadeLogic_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T20:38:09",
         "FFlagEnableAEGIS1Upsell4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T20:44:43",
         "FFlagDelayAudioFocusReplication_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:09:57",
-        "FStringFlagRepoGitHashFastString": "d82e0668be4648bc516874dc3f1e682bf8ec9a45",
-        "DFStringFlagRepoGitHashDynamicString": "d82e0668be4648bc516874dc3f1e682bf8ec9a45",
-        "FStringFlipTimeStampFastString": "2025-10-27T21:33:51.175Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T21:33:51.175Z"
+        "FStringFlagRepoGitHashFastString": "e52182798810f043d72947b96c7cc1b7ad022a79",
+        "DFStringFlagRepoGitHashDynamicString": "e52182798810f043d72947b96c7cc1b7ad022a79",
+        "FStringFlipTimeStampFastString": "2025-10-27T21:34:11.591Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T21:34:11.591Z"
     }
 }

@@ -12863,7 +12863,6 @@
         "DFFlagAppStateiOS": "True",
         "DFFlagPreventLrInlineOnNoSendPerms": "True",
         "FFlagReportLargeReplicatorStatsToReplicatorStats1": "True",
-        "FFlagNativePageWrapperEnableTextWrap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T20:29:09",
         "FFlagPlayerListUseMobileOnSmallDisplay_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T20:46:20",
         "FFlagAXFixGetCurrentCategoryNames": "True",
         "FFlagAXFixR15PromptDismiss": "True",
@@ -12883,6 +12882,10 @@
         "FFlagSocialTabPreventUnreadCountRaceCondition_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:15:55",
         "FFlagEnablePartyTabNumberedBadge6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:16:27",
         "FFlagAESPromptRequireClientLaunchIntent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:28:36",
+        "FFlagNativePageWrapperEnableTextWrap": "True",
+        "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
+        "DFStringVideoWinHwEncoderBlacklistCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
+        "FFlagVideoWinHwEncoderReportQuickSyncDLLVersion_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13246,9 +13249,9 @@
         "FFlagSessionTrackingUseMovedRelaunch": "True",
         "FFlagUseXboxPaymentsProtocolCommonFunctions": "True",
         "FFlagUseXboxPaymentsProtocolCommonFunctions_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:17:51",
-        "FStringFlagRepoGitHashFastString": "1b27208c37b3857694b5f7bb1b3c239bed961d8c",
-        "DFStringFlagRepoGitHashDynamicString": "1b27208c37b3857694b5f7bb1b3c239bed961d8c",
-        "FStringFlipTimeStampFastString": "2025-10-27T21:30:15.472Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T21:30:15.472Z"
+        "FStringFlagRepoGitHashFastString": "e52182798810f043d72947b96c7cc1b7ad022a79",
+        "DFStringFlagRepoGitHashDynamicString": "e52182798810f043d72947b96c7cc1b7ad022a79",
+        "FStringFlipTimeStampFastString": "2025-10-27T21:34:11.591Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T21:34:11.591Z"
     }
 }
