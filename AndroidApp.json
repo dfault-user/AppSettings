@@ -12840,7 +12840,6 @@
         "FFlagPPVBackgroundEquipGearV2": "True",
         "FFlagPPVBackgroundUnthrottleProfileV2": "True",
         "FFlagEnableSettingsHubCreateReactPage2": "True",
-        "FFlagUseCustomDspForOutputCapture_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:25:05",
         "FFlagPlayerListUseMobileOnSmallDisplay": "True",
         "FFlagModalPlayerListCloseUnfocused2": "True",
         "FFlagSwitchErrorReasonHandlingForEconomicRestrictions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:36:35",
@@ -12861,6 +12860,7 @@
         "FFlagFlagRolloutTestStaticBool0_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T18:07:23",
         "FFlagAXFixCatalogRefreshRenderingV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;981843440;2025-10-27T18:12:00",
         "FFlagHelpPageIXPExposure2": "True",
+        "FFlagUseCustomDspForOutputCapture": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13786,15 +13786,15 @@
         "FFlagVoiceRtcStatsEnabled8_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Reboot;564416378;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Reboot;564416378;flagbank",
         "DFFlagCollectSessionBatteryTelemetry": "True",
-        "FFlagSessionTrackingUseMovedRelaunch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:23:36",
         "FFlagAdsDebuggingUsePlaySessionId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:30:48",
         "FFlagCallBackDescriptorsToArray2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:33:05",
         "DFFlagEnableStandardizedFieldAddPlaySessionId": "True",
         "FFlagEnableAppSessionStartEnd_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:54:53",
         "FFlagEnableClientSideUserBucketingCheckForExperimentation2": "True",
-        "FStringFlagRepoGitHashFastString": "30c09c995c158c172fe8f474d11e9c66e55f0a40",
-        "DFStringFlagRepoGitHashDynamicString": "30c09c995c158c172fe8f474d11e9c66e55f0a40",
-        "FStringFlipTimeStampFastString": "2025-10-27T18:25:07.765Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T18:25:07.765Z"
+        "FFlagSessionTrackingUseMovedRelaunch": "True",
+        "FStringFlagRepoGitHashFastString": "2dde8a79c2442d6a1aeeaf4b9d2b442542b225da",
+        "DFStringFlagRepoGitHashDynamicString": "2dde8a79c2442d6a1aeeaf4b9d2b442542b225da",
+        "FStringFlipTimeStampFastString": "2025-10-27T18:29:24.664Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T18:29:24.664Z"
     }
 }
