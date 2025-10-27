@@ -12873,12 +12873,9 @@
         "FFlagAXWidgetTypeAnalytics": "True",
         "FFlagCrashReportStudioStreaming2": "True",
         "IsolatedGmasdkSendCloseAdVideoProgress": "true",
-        "FFlagFixExperienceLinkForSiteTest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:13:39",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
-        "FFlagForceOffPostFxForQuestVR_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:14:40",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
-        "FFlagEnableAdsMouseUnlock": "True",
         "FFlagAESPromptRequireClientLaunchIntent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:28:36",
         "FFlagNativePageWrapperEnableTextWrap": "True",
         "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V3;1550495362;dev_controlled",
@@ -12891,6 +12888,9 @@
         "DFFlagReplicatorCloseStats_Staged": "True;SteadyState;10;30;Revert;2025-10-27T21:59:19",
         "FFlagRenderDecalUseColorMapProperties_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:08:13",
         "DFIntExpChatWindowStatusChangeThrottlePermyriad_Staged": "7500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;475832084;2025-10-27T22:10:19",
+        "FFlagForceOffPostFxForQuestVR": "True",
+        "FFlagFixExperienceLinkForSiteTest": "True",
+        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
@@ -13864,9 +13864,9 @@
         "DFIntSimSolverWakeDisplacementMultiplier_PlaceFilter": "200;102669905873657;95110357124286;74420304866897;112408689884212",
         "FFlagFixDeviceSettingsFocus": "True",
         "DFFlagGetHlsLodManifest2": "True",
-        "FStringFlagRepoGitHashFastString": "633357deb31017dc4ba423b43244c47322291484",
-        "DFStringFlagRepoGitHashDynamicString": "633357deb31017dc4ba423b43244c47322291484",
-        "FStringFlipTimeStampFastString": "2025-10-27T22:16:10.991Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T22:16:10.991Z"
+        "FStringFlagRepoGitHashFastString": "5f411b92a0c9dd11824919dbdba05ee764c1095e",
+        "DFStringFlagRepoGitHashDynamicString": "5f411b92a0c9dd11824919dbdba05ee764c1095e",
+        "FStringFlipTimeStampFastString": "2025-10-27T22:19:02.913Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T22:19:02.913Z"
     }
 }
