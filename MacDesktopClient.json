@@ -12852,7 +12852,7 @@
         "FFlagInputEventsRaceUseRuntimeMutex_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:48:09",
         "AllowVideoPreRoll": "True",
         "FFlagVideoCaptureFrameDropMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:51:07",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixGameGridCompactMetadataCheck2": "True",
         "DFFlagMouseLeaveBeforeMouseEnter2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:58:33",
         "DFFlagRtlMaxVisibleGraphemes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:59:09",
@@ -12860,7 +12860,7 @@
         "FFlagExpChatTriggerWindowStatusEvent": "True",
         "DFFlagFlagRolloutTestDynamicBool0_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T18:06:49",
         "FFlagFlagRolloutTestStaticBool0_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T18:07:23",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13334,6 +13334,7 @@
         "DFFlagJsonWriterWritesNanAndInfAsString2": "True",
         "FFlagYieldFunctionDescriptorsToArray2": "True",
         "FFlagCallBackDescriptorsToArray2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:33:05",
+        "DFFlagSQLiteCheckPrepareSuccess_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T18:09:07",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13781,9 +13782,9 @@
         "FFlagFixDeviceSettingsFocus": "True",
         "FFlagMaxSizeUseCorrectPadding": "True",
         "DFFlagGetHlsLodManifest2": "True",
-        "FStringFlagRepoGitHashFastString": "a9b579c21243dcd3c02644f256ab8737b3481223",
-        "DFStringFlagRepoGitHashDynamicString": "a9b579c21243dcd3c02644f256ab8737b3481223",
-        "FStringFlipTimeStampFastString": "2025-10-27T18:08:36.878Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T18:08:36.878Z"
+        "FStringFlagRepoGitHashFastString": "c090fc995df6b9408a6ccd9da0e0014aad903749",
+        "DFStringFlagRepoGitHashDynamicString": "c090fc995df6b9408a6ccd9da0e0014aad903749",
+        "FStringFlipTimeStampFastString": "2025-10-27T18:13:09.921Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T18:13:09.921Z"
     }
 }
