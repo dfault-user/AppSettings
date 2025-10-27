@@ -12095,7 +12095,7 @@
         "FFlagLuaAppUpdateGameGridSideMargin": "True",
         "FFlagEnableMoreMenuFocusFix": "True",
         "FFlagEnableSquadJoinButtonSelectable": "True",
-        "FFlagAddMobilePlayerListScaling": "False",
+        "FFlagAddMobilePlayerListScaling": "True",
         "FFlagExpChatEnableFocusNavigation2": "False",
         "FFlagLuaAppReduceGameIconFetches": "True",
         "FFlagAddControlVariantRolloutFlagsLuaBacktrace": "True",
@@ -12835,7 +12835,6 @@
         "FFlagFlagRolloutTestStaticBool8": "False",
         "FFlagFlagRolloutTestStaticBool9": "False",
         "FFlagLuaAppChartsAppUseHoverTile_IXP": "1;SearchDiscover.DiscoverPage.UX;Discovery.App.Charts.UseHoverTile;568422417;dev_controlled",
-        "FFlagAddMobilePlayerListScaling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T16:47:24",
         "FFlagFixGameGridCompactMetadataCheck2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1221656394;2025-10-27T16:52:08",
         "FFlagExpChatTriggerWindowStatusEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;970346744;2025-10-27T16:56:05",
         "FFlagPrecomputeBoxMappedData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:00:01",
@@ -12854,6 +12853,8 @@
         "FFlagLuaAppFixEdpSingleColumnAcrossPlatforms": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagInputEventsRaceUseRuntimeMutex_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:48:09",
+        "DFFlagInitTombstoneAfterBlockingFetch2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:49:53",
+        "FFlagVideoCaptureFrameDropMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:51:07",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15070,9 +15071,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "83400a1bb8bb705849ae0441d4bafe6f68ec7f77",
-        "DFStringFlagRepoGitHashDynamicString": "83400a1bb8bb705849ae0441d4bafe6f68ec7f77",
-        "FStringFlipTimeStampFastString": "2025-10-27T17:49:48.335Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T17:49:48.335Z"
+        "FStringFlagRepoGitHashFastString": "07ad25947d93ce23f40c58a45ba5a3fc5eebf622",
+        "DFStringFlagRepoGitHashDynamicString": "07ad25947d93ce23f40c58a45ba5a3fc5eebf622",
+        "FStringFlipTimeStampFastString": "2025-10-27T17:53:27.755Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T17:53:27.755Z"
     }
 }

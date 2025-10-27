@@ -12095,7 +12095,7 @@
         "FFlagLuaAppUpdateGameGridSideMargin": "True",
         "FFlagEnableMoreMenuFocusFix": "True",
         "FFlagEnableSquadJoinButtonSelectable": "True",
-        "FFlagAddMobilePlayerListScaling": "False",
+        "FFlagAddMobilePlayerListScaling": "True",
         "FFlagExpChatEnableFocusNavigation2": "False",
         "FFlagLuaAppReduceGameIconFetches": "True",
         "FFlagAddControlVariantRolloutFlagsLuaBacktrace": "True",
@@ -12835,7 +12835,6 @@
         "FFlagFlagRolloutTestStaticBool8": "False",
         "FFlagFlagRolloutTestStaticBool9": "False",
         "FFlagLuaAppChartsAppUseHoverTile_IXP": "1;SearchDiscover.DiscoverPage.UX;Discovery.App.Charts.UseHoverTile;568422417;dev_controlled",
-        "FFlagAddMobilePlayerListScaling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T16:47:24",
         "FFlagFixGameGridCompactMetadataCheck2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1221656394;2025-10-27T16:52:08",
         "FFlagExpChatTriggerWindowStatusEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;970346744;2025-10-27T16:56:05",
         "FFlagPrecomputeBoxMappedData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:00:01",
@@ -12854,6 +12853,8 @@
         "FFlagLuaAppFixEdpSingleColumnAcrossPlatforms": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagInputEventsRaceUseRuntimeMutex_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:48:09",
+        "AllowVideoPreRoll": "True",
+        "FFlagVideoCaptureFrameDropMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:51:07",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13329,7 +13330,6 @@
         "DFFlagJsonWriterWritesNanAndInfAsString2": "True",
         "FFlagYieldFunctionDescriptorsToArray2": "True",
         "FFlagCallBackDescriptorsToArray2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T17:33:05",
-        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13777,9 +13777,9 @@
         "FFlagFixDeviceSettingsFocus": "True",
         "FFlagMaxSizeUseCorrectPadding": "True",
         "DFFlagGetHlsLodManifest2": "True",
-        "FStringFlagRepoGitHashFastString": "83400a1bb8bb705849ae0441d4bafe6f68ec7f77",
-        "DFStringFlagRepoGitHashDynamicString": "83400a1bb8bb705849ae0441d4bafe6f68ec7f77",
-        "FStringFlipTimeStampFastString": "2025-10-27T17:49:48.335Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T17:49:48.335Z"
+        "FStringFlagRepoGitHashFastString": "fcc0d2d5c5ca45e046f7e7c387930f3881b92855",
+        "DFStringFlagRepoGitHashDynamicString": "fcc0d2d5c5ca45e046f7e7c387930f3881b92855",
+        "FStringFlipTimeStampFastString": "2025-10-27T17:53:50.533Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T17:53:50.533Z"
     }
 }
