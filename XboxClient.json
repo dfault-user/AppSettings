@@ -12879,7 +12879,6 @@
         "FFlagVideoWinHwEncoderReportQuickSyncDLLVersion_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
         "FFlagForceOffPostFxForQuestVR": "True",
         "FFlagFixExperienceLinkForSiteTest": "True",
-        "FFlagSduiEnableHeroUnitBottomRow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:20:13",
         "FFlagVideoApiEnabled5_PlaceFilter": "True;119524072047648;92540165845503",
         "FFlagLuaAppEnableHeroUnitV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:22:16",
         "DFFlagDebugRetainRegalReceipt_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1613053688;2025-10-27T22:25:31",
@@ -12894,6 +12893,7 @@
         "DFFlagUseDevOriginatedWebSocketLimit": "True",
         "DFIntDevOriginatedWebSocketLimit": "100",
         "FFlagRenderDecalUseColorMapProperties": "True",
+        "FFlagSduiEnableHeroUnitBottomRow": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13257,9 +13257,9 @@
         "FFlagSessionTrackingUseMovedRelaunch": "True",
         "FFlagUseXboxPaymentsProtocolCommonFunctions": "False",
         "DFFlagSQLiteCheckPrepareSuccess_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T23:01:57",
-        "FStringFlagRepoGitHashFastString": "c6450c07d4e41efbaf177d24b640ea91a3261d5e",
-        "DFStringFlagRepoGitHashDynamicString": "c6450c07d4e41efbaf177d24b640ea91a3261d5e",
-        "FStringFlipTimeStampFastString": "2025-10-27T23:13:50.426Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T23:13:50.426Z"
+        "FStringFlagRepoGitHashFastString": "e909510c28b0b9c54b9dfa37d17f96ff6100f275",
+        "DFStringFlagRepoGitHashDynamicString": "e909510c28b0b9c54b9dfa37d17f96ff6100f275",
+        "FStringFlipTimeStampFastString": "2025-10-27T23:31:28.574Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T23:31:28.574Z"
     }
 }
