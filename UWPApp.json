@@ -12877,8 +12877,6 @@
         "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
         "DFStringVideoWinHwEncoderBlacklistCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
         "FFlagVideoWinHwEncoderReportQuickSyncDLLVersion_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
-        "FFlagPublishSettingsInvokeGuard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:41:00",
-        "FFlagColliderHeight_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;702677822;2025-10-27T21:43:57",
         "DFFlagUseDevOriginatedWebSocketLimit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;919099834;2025-10-27T21:55:14",
         "DFIntDevOriginatedWebSocketLimit_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;919099834;2025-10-27T21:55:14",
         "FFlagRenderDecalUseColorMapProperties_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:08:13",
@@ -12893,6 +12891,9 @@
         "DFIntRbxTelemetryStartupEventThrottleHundredthsPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:36:53",
         "DFIntRbxTelemetryShutdownEventThrottleHundredthsPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:37:52",
         "DFFlagReplicatorCloseStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:37:59",
+        "FFlagColliderHeight": "True",
+        "FFlagPublishSettingsInvokeGuard": "True",
+        "DFFlagNIIStricterPrefilter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:47:00",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13192,9 +13193,9 @@
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "DFFlagGetHlsLodManifest2": "True",
         "FFlagSessionTrackingUseMovedRelaunch": "True",
-        "FStringFlagRepoGitHashFastString": "afe83b6ea52d9d2664ae5476a2870c29e536cf02",
-        "DFStringFlagRepoGitHashDynamicString": "afe83b6ea52d9d2664ae5476a2870c29e536cf02",
-        "FStringFlipTimeStampFastString": "2025-10-27T22:47:36.670Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T22:47:36.670Z"
+        "FStringFlagRepoGitHashFastString": "dc741335fcb17b9d491bfaef18646d3cb6b2b172",
+        "DFStringFlagRepoGitHashDynamicString": "dc741335fcb17b9d491bfaef18646d3cb6b2b172",
+        "FStringFlipTimeStampFastString": "2025-10-27T22:53:40.083Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T22:53:40.083Z"
     }
 }

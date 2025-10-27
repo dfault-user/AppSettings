@@ -12877,8 +12877,6 @@
         "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V3;1550495362;dev_controlled",
         "DFStringVideoWinHwEncoderBlacklistCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V3;1550495362;dev_controlled",
         "FFlagVideoWinHwEncoderReportQuickSyncDLLVersion_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
-        "FFlagPublishSettingsInvokeGuard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:41:00",
-        "FFlagColliderHeight_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;702677822;2025-10-27T21:43:57",
         "DFFlagUseDevOriginatedWebSocketLimit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;919099834;2025-10-27T21:55:14",
         "DFIntDevOriginatedWebSocketLimit_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;919099834;2025-10-27T21:55:14",
         "FFlagRenderDecalUseColorMapProperties_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:08:13",
@@ -12893,6 +12891,9 @@
         "DFIntRbxTelemetryStartupEventThrottleHundredthsPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:36:53",
         "DFIntRbxTelemetryShutdownEventThrottleHundredthsPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:37:52",
         "DFFlagReplicatorCloseStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:37:59",
+        "FFlagColliderHeight": "True",
+        "FFlagPublishSettingsInvokeGuard": "True",
+        "DFFlagNIIStricterPrefilter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:47:00",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14691,6 +14692,7 @@
         "FFlagRemoveActionsFromRobloxMainWindowC": "True",
         "FFlagCOLLAB9434FixEscCursorAndTagInput": "True",
         "FFlagCOLLAB9449FixAnnotationsHeightCacheEdits": "True",
+        "FFlagAnnotationsFixEditHeightAndCursor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:46:53",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15137,9 +15139,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "afe83b6ea52d9d2664ae5476a2870c29e536cf02",
-        "DFStringFlagRepoGitHashDynamicString": "afe83b6ea52d9d2664ae5476a2870c29e536cf02",
-        "FStringFlipTimeStampFastString": "2025-10-27T22:47:36.670Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T22:47:36.670Z"
+        "FStringFlagRepoGitHashFastString": "68cfa50a5ffc4852b1f2161ac1fb39829fd947e9",
+        "DFStringFlagRepoGitHashDynamicString": "68cfa50a5ffc4852b1f2161ac1fb39829fd947e9",
+        "FStringFlipTimeStampFastString": "2025-10-27T22:53:17.122Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T22:53:17.122Z"
     }
 }
