@@ -12873,7 +12873,6 @@
         "FFlagAXWidgetTypeAnalytics": "True",
         "FFlagCrashReportStudioStreaming2": "True",
         "IsolatedGmasdkSendCloseAdVideoProgress": "true",
-        "FFlagAESPromptRequireClientLaunchIntent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T21:28:36",
         "FFlagNativePageWrapperEnableTextWrap": "True",
         "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
         "DFStringVideoWinHwEncoderBlacklistCsv_IXP": "1;Engine.Video.WinCapture;Engine.Video.WinCapture.Hardware.V4;1736707783;dev_controlled",
@@ -12882,7 +12881,6 @@
         "FFlagColliderHeight_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;702677822;2025-10-27T21:43:57",
         "DFFlagUseDevOriginatedWebSocketLimit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;919099834;2025-10-27T21:55:14",
         "DFIntDevOriginatedWebSocketLimit_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;919099834;2025-10-27T21:55:14",
-        "DFFlagReplicatorCloseStats_Staged": "True;SteadyState;10;30;Revert;2025-10-27T21:59:19",
         "FFlagRenderDecalUseColorMapProperties_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:08:13",
         "DFIntExpChatWindowStatusChangeThrottlePermyriad_Staged": "7500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;475832084;2025-10-27T22:10:19",
         "FFlagForceOffPostFxForQuestVR": "True",
@@ -12891,6 +12889,7 @@
         "FFlagVideoApiEnabled5_PlaceFilter": "True;119524072047648;92540165845503",
         "FFlagLuaAppEnableHeroUnitV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-27T22:22:16",
         "DFFlagDebugRetainRegalReceipt_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1613053688;2025-10-27T22:25:31",
+        "FFlagAESPromptRequireClientLaunchIntent": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13190,9 +13189,9 @@
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "DFFlagGetHlsLodManifest2": "True",
         "FFlagSessionTrackingUseMovedRelaunch": "True",
-        "FStringFlagRepoGitHashFastString": "1c4d0a02a9e5a667a1115ae4f6c61258ac7f8ddb",
-        "DFStringFlagRepoGitHashDynamicString": "1c4d0a02a9e5a667a1115ae4f6c61258ac7f8ddb",
-        "FStringFlipTimeStampFastString": "2025-10-27T22:27:40.783Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-27T22:27:40.783Z"
+        "FStringFlagRepoGitHashFastString": "728b9553b4ccd2fe64ce3be09f217bfbe3f556cd",
+        "DFStringFlagRepoGitHashDynamicString": "728b9553b4ccd2fe64ce3be09f217bfbe3f556cd",
+        "FStringFlipTimeStampFastString": "2025-10-27T22:35:46.616Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-27T22:35:46.616Z"
     }
 }
