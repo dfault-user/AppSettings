@@ -9690,7 +9690,7 @@
         "FFlagLuaAppFixNoticeLocalization": "True",
         "DFFlagFixRayAABBEdgeCase": "True",
         "FFlagUpdateClientToServerVersionCall": "True",
-        "FFlagLuaAppEdpSingleColumnAcrossPlatformsIxp": "True",
+        "FFlagLuaAppEdpSingleColumnAcrossPlatformsIxp": "False",
         "FFlagAddCommunityLockedToCommunityProfile": "True",
         "FFlagEnableNativeNetworkingTelemetry": "True",
         "DFFlagFixRewardedVideoAdPauseOnMinimize": "True",
@@ -12916,9 +12916,6 @@
         "FFlagCLI_159373_FixCheckMonitorCreatedTest": "True",
         "FFlagEnableTableAliases2": "True",
         "FFlagAXUpdateItemCardCreatorNameFontStyle": "True",
-        "FFlagLuaAppEdpSingleColumnAcrossPlatformsIxp_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T20:21:42",
-        "FFlagAXUpdateItemCardPriceLineText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T20:23:48",
-        "FFlagLuaStartPageNotFoundImageUpdate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T20:25:03",
         "FFlagConvertCameraActions2": "True",
         "FFlagRemoveDeprecatedSavePlaceAsync2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T20:42:44",
         "FFlagOnComponentPropertyChangedType2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T20:44:12",
@@ -12930,6 +12927,9 @@
         "DFFlagWebSocketCurlErrBuf_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;874283144;2025-10-28T21:13:05",
         "DFFlagCLI160531_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T21:21:20",
         "FFlagSkipProcessGestureWithoutConnections2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;521286449;2025-10-28T21:25:45",
+        "FFlagLuaStartPageNotFoundImageUpdate": "True",
+        "FFlagAXUpdateItemCardPriceLineText": "True",
+        "FFlagRecordRecording_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T21:27:41",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13229,9 +13229,9 @@
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "DFFlagGetHlsLodManifest2": "True",
         "FFlagSessionTrackingUseMovedRelaunch": "True",
-        "FStringFlagRepoGitHashFastString": "7a8a434813f840bf4751bbf1fb5e66e19d7c887a",
-        "DFStringFlagRepoGitHashDynamicString": "7a8a434813f840bf4751bbf1fb5e66e19d7c887a",
-        "FStringFlipTimeStampFastString": "2025-10-28T21:29:22.253Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T21:29:22.253Z"
+        "FStringFlagRepoGitHashFastString": "1e82e88db5f55d94921108f66e585d636f6612ee",
+        "DFStringFlagRepoGitHashDynamicString": "1e82e88db5f55d94921108f66e585d636f6612ee",
+        "FStringFlipTimeStampFastString": "2025-10-28T21:31:12.880Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T21:31:12.880Z"
     }
 }
