@@ -12899,9 +12899,6 @@
         "DFStringFtsThumbEnrollHeaderKey": "IsFtsThumbAccepted",
         "DFStringFtsThumbEnrollHeaderVal": "true",
         "FFlagEnableLoadingScreenBButtonNonTenFoot": "True",
-        "DFFlagFileCacheClearRecursive_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:20:52",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
-        "DFFlagSimEnableChildSerNewAsync_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:23:27",
         "FFlagFCTransformsDiffCheckOnUpdateGeometry": "True",
         "DFIntVideoStreamMaxImageLongSide_Staged": "1920;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1979522480;2025-10-28T17:29:18",
         "DFIntVideoStreamMaxImageShortSide_Staged": "1080;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1979522480;2025-10-28T17:29:18",
@@ -12920,6 +12917,10 @@
         "FFlagAXUpdateItemCardCreatorNameFontStyle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T18:10:02",
         "FFlagExportAddPositionAccessorBounds_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1783635480;2025-10-28T18:14:05",
         "DFFlagSQLiteCacheReportSizeMismatch": "True",
+        "FFlagIASBindingStates2": "True",
+        "DFFlagFileCacheClearRecursive": "True",
+        "DFFlagSimEnableChildSerNewAsync": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13387,7 +13388,6 @@
         "FFlagEnableAppChatFocusableFixes4": "True",
         "FFlagEnableAppChatFocusableFixesUpdate2": "True",
         "DFFlagSunsetFadingSun": "True",
-        "FFlagIASBindingStates2": "True",
         "FFlagInGameMenuAddChatLineReporting5_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1-1761068633;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1;1401781319;flagbank",
         "FFlagGamePassPrefetchOnJoinEnabled_PlaceFilter": "True;85537329004957;112780263016678;70451556031302;131716211654599;106011698424775;16732694052;105044186406168;72907489978215;99519129453387;17800150007;121864768012064;97005321375460",
         "FFlagWeCanHaveFonts": "True",
@@ -13894,9 +13894,9 @@
         "FFlagFixDeviceSettingsFocus": "True",
         "DFFlagGetHlsLodManifest2": "True",
         "FFlagMaxSizeUseCorrectPadding_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2147437483;2025-10-28T17:48:38",
-        "FStringFlagRepoGitHashFastString": "5154f1f71ea60730d8211aa8d4d301da3e71dcc5",
-        "DFStringFlagRepoGitHashDynamicString": "5154f1f71ea60730d8211aa8d4d301da3e71dcc5",
-        "FStringFlipTimeStampFastString": "2025-10-28T18:24:20.394Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T18:24:20.394Z"
+        "FStringFlagRepoGitHashFastString": "7056ab4fd1a9a807e84b96ca4fdcd1875b00de3b",
+        "DFStringFlagRepoGitHashDynamicString": "7056ab4fd1a9a807e84b96ca4fdcd1875b00de3b",
+        "FStringFlipTimeStampFastString": "2025-10-28T18:31:42.574Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T18:31:42.574Z"
     }
 }
