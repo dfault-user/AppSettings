@@ -12918,7 +12918,6 @@
         "FFlagAXUpdateItemCardCreatorNameFontStyle": "True",
         "FFlagConvertCameraActions2": "True",
         "FFlagSimEmbeddedContentTypeNetworkSupport": "True",
-        "DFFlagFtsThumbnailDomain_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;599454062;2025-10-28T21:09:13",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "DFFlagCLI160531_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T21:21:20",
         "FFlagSkipProcessGestureWithoutConnections2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;521286449;2025-10-28T21:25:45",
@@ -12936,6 +12935,9 @@
         "DFIntServerReplicatorCloseStatsThrottle_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T22:02:54",
         "DFIntClientReplicatorCloseStatsThrottle_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T22:04:42",
         "FFlagConvertCameraActions2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T22:09:30",
+        "DFFlagFtsThumbnailDomain": "True",
+        "FFlagAXFixOwnedItemPromptWhenResellableButNoStock2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T22:13:57",
+        "FFlagUpdateNetworkingForTryOnThunk_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T22:14:57",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13909,9 +13911,9 @@
         "DFFlagAggCpuMemRCC_IXP": "1;Portal.Does-the-RCC-telemetry-flag-affect-clients-1761682793;Does-the-RCC-telemetry-flag-affect-clients;1655873222;flagbank",
         "FFlagRecordRecording_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T21:27:41",
         "FFlagLuaAppEdpSingleColumnIxp_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T21:32:36",
-        "FStringFlagRepoGitHashFastString": "f09c09a65c7db1901baf28c70e2c79ef7031b76f",
-        "DFStringFlagRepoGitHashDynamicString": "f09c09a65c7db1901baf28c70e2c79ef7031b76f",
-        "FStringFlipTimeStampFastString": "2025-10-28T22:11:45.848Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T22:11:45.848Z"
+        "FStringFlagRepoGitHashFastString": "138f769788ee2583e915daa4d5c7cf5c71887285",
+        "DFStringFlagRepoGitHashDynamicString": "138f769788ee2583e915daa4d5c7cf5c71887285",
+        "FStringFlipTimeStampFastString": "2025-10-28T22:17:24.304Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T22:17:24.304Z"
     }
 }
