@@ -12925,7 +12925,6 @@
         "FFlagLuaStartPageFoundationDropdowns": "True",
         "FFlagLuaStartPageStudioLogo": "True",
         "FFlagEnableAnimatorAnalyticsForRetargeting": "True",
-        "FFlagEnableAdsMouseUnlock": "True",
         "FFlagAvatarSettingsReportPresetOnPublish_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;816052252;2025-10-28T21:57:23",
         "DFIntServerReplicatorCloseStatsThrottle_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T22:02:54",
         "DFIntClientReplicatorCloseStatsThrottle_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T22:04:42",
@@ -12939,6 +12938,7 @@
         "DFFlagCLI160531": "True",
         "FFlagRecordRecording": "False",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "DFFlagRbxStorageOldCacheNoCreate": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14743,6 +14743,7 @@
         "FFlagRemoveActionsFromRobloxMainWindowD": "True",
         "FFlagPluginGuiPluginProp": "True",
         "FFlagFetchFullVersionHistory": "True",
+        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -15013,7 +15014,6 @@
         "DFFlagVideoCaptureStorageNoSizeBytes": "True",
         "FFlagAXAvatarsTabIXP": "False",
         "FFlagVideoCaptureSwReuseDownloadBuffers": "True",
-        "DFFlagRbxStorageOldCacheNoCreate": "True",
         "FFlagGamepadSelectionPerformanceImprovements": "True",
         "FFlagExperienceMenuGamepadExposureEnabled684_IXP": "1;Experience.Menu.Gamepad.Exposure;User.Experience.Menu.Unibar.GamepadMobileAndDesktop;21713831;dev_controlled",
         "FFlagUnibarMenuOpenHamburgerGamepadIXP684_IXP": "1;Experience.Menu.Gamepad.Exposure;User.Experience.Menu.Unibar.GamepadMobileAndDesktop;21713831;dev_controlled",
@@ -15185,9 +15185,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "6de9194af23ca43a42097e352a2970063c0ae782",
-        "DFStringFlagRepoGitHashDynamicString": "6de9194af23ca43a42097e352a2970063c0ae782",
-        "FStringFlipTimeStampFastString": "2025-10-28T22:57:30.934Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T22:57:30.934Z"
+        "FStringFlagRepoGitHashFastString": "55fcbde2a03257503cbf8a48c1ab5d2ddde444b1",
+        "DFStringFlagRepoGitHashDynamicString": "55fcbde2a03257503cbf8a48c1ab5d2ddde444b1",
+        "FStringFlipTimeStampFastString": "2025-10-28T22:57:56.978Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T22:57:56.978Z"
     }
 }
