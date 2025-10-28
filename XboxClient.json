@@ -11741,7 +11741,7 @@
         "FFlagLuaAppAudioMetadataSupport": "True",
         "DFFlagSupportZeroScaleConvexShapes": "True",
         "FFlagScaleToBug": "True",
-        "FFlagExportAddPositionAccessorBounds": "True",
+        "FFlagExportAddPositionAccessorBounds": "False",
         "FFlagGltfParseSetTranslationForSkins": "True",
         "DFFlagMicroProfilerStrSanitizer2": "True",
         "FFlagMicroProfilerRawFreeUseOperatorArrayDelete": "True",
@@ -12907,7 +12907,6 @@
         "DFFlagReportNonLocalChildrenRemoved": "True",
         "DFIntClientNonLocalChildrenRemovalStatsThrottle": "100",
         "DFIntNonLocalChildWithMRDRemovedUEThrottleHP": "10000",
-        "FFlagExportAddPositionAccessorBounds_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1783635480;2025-10-28T18:14:05",
         "DFFlagSQLiteCacheReportSizeMismatch": "True",
         "FFlagIASBindingStates2": "True",
         "DFFlagFileCacheClearRecursive": "True",
@@ -13282,9 +13281,9 @@
         "FFlagSessionTrackingUseMovedRelaunch": "True",
         "FFlagUseXboxPaymentsProtocolCommonFunctions": "False",
         "DFFlagSQLiteCheckPrepareSuccess": "True",
-        "FStringFlagRepoGitHashFastString": "1c0d513f5a2382537b6f2941c02abea9a5adae14",
-        "DFStringFlagRepoGitHashDynamicString": "1c0d513f5a2382537b6f2941c02abea9a5adae14",
-        "FStringFlipTimeStampFastString": "2025-10-28T19:15:11.985Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T19:15:11.985Z"
+        "FStringFlagRepoGitHashFastString": "d05b18f58ee5f00b15339eb2d4db5e6d5f8df634",
+        "DFStringFlagRepoGitHashDynamicString": "d05b18f58ee5f00b15339eb2d4db5e6d5f8df634",
+        "FStringFlipTimeStampFastString": "2025-10-28T19:17:23.919Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T19:17:23.919Z"
     }
 }
