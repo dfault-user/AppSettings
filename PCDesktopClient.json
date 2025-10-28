@@ -12901,7 +12901,6 @@
         "FFlagEnableLoadingScreenBButtonNonTenFoot": "True",
         "FFlagFCTransformsDiffCheckOnUpdateGeometry": "True",
         "FFlagChangeWebViewReportButtonToText2": "True",
-        "DFFlagSQLiteLazyCacheSumBy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:37:57",
         "DFIntGamePassOwnershipCacheSeconds_Staged": "86400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;9283409;2025-10-28T18:04:02",
         "FFlagCLI_159373_FixCheckMonitorCreatedTest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:52:23",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData": "True",
@@ -12920,6 +12919,7 @@
         "DFFlagSimEnableChildSerNewAsync": "True",
         "DFIntVideoStreamMaxImageLongSide": "1920",
         "DFIntVideoStreamMaxImageShortSide": "1080",
+        "DFFlagSQLiteLazyCacheSumBy": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13895,9 +13895,9 @@
         "FFlagFixDeviceSettingsFocus": "True",
         "DFFlagGetHlsLodManifest2": "True",
         "FFlagMaxSizeUseCorrectPadding_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2147437483;2025-10-28T17:48:38",
-        "FStringFlagRepoGitHashFastString": "21d246000b7ea0a6289fba7551a0c1e30898866f",
-        "DFStringFlagRepoGitHashDynamicString": "21d246000b7ea0a6289fba7551a0c1e30898866f",
-        "FStringFlipTimeStampFastString": "2025-10-28T18:41:33.696Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T18:41:33.696Z"
+        "FStringFlagRepoGitHashFastString": "5dc55c5dc6a5c9fbe4b846ea08e9510dab9a544f",
+        "DFStringFlagRepoGitHashDynamicString": "5dc55c5dc6a5c9fbe4b846ea08e9510dab9a544f",
+        "FStringFlipTimeStampFastString": "2025-10-28T18:49:00.260Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T18:49:00.260Z"
     }
 }
