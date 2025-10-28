@@ -12759,7 +12759,6 @@
         "FFlagUseGetAdPlacementsRequest": "True",
         "FFlagPlayerSearchEnableOnlineFrequentsForAll": "True",
         "FFlagProfilePlatformEnableEditAvatar": "true",
-        "DFIntGamePassOwnershipCacheSeconds_PlaceFilter": "300;121864768012064",
         "DFIntGamePassPrefetchRefreshSeconds_PlaceFilter": "290;121864768012064",
         "DFIntGetProductInfoGamepassCacheSecs_PlaceFilter": "300;121864768012064",
         "FFlagGamePassPrefetchOnJoinRefreshEnabled_PlaceFilter": "True;121864768012064",
@@ -12907,7 +12906,7 @@
         "FFlagFCTransformsDiffCheckOnUpdateGeometry": "True",
         "DFIntVideoStreamMaxImageLongSide_Staged": "1920;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1979522480;2025-10-28T17:29:18",
         "DFIntVideoStreamMaxImageShortSide_Staged": "1080;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1979522480;2025-10-28T17:29:18",
-        "AllowVideoPreRoll": "True",
+        "AxisAdornmentGrabSize": "12",
         "FFlagChangeWebViewReportButtonToText2": "True",
         "DFFlagSQLiteLazyCacheSumBy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:37:57",
         "DFIntGamePassOwnershipCacheSeconds_Staged": "86400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;9283409;2025-10-28T18:04:02",
@@ -12919,7 +12918,8 @@
         "DFFlagReportNonLocalChildrenRemoved": "True",
         "DFIntClientNonLocalChildrenRemovalStatsThrottle": "100",
         "DFIntNonLocalChildWithMRDRemovedUEThrottleHP": "1000",
-        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
+        "FFlagAXUpdateItemCardCreatorNameFontStyle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T18:10:02",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -15139,9 +15139,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "42e792fe68668de8efadd7384993d4a25672bf4a",
-        "DFStringFlagRepoGitHashDynamicString": "42e792fe68668de8efadd7384993d4a25672bf4a",
-        "FStringFlipTimeStampFastString": "2025-10-28T18:08:02.796Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T18:08:02.796Z"
+        "FStringFlagRepoGitHashFastString": "715d30724d4f6ba83f86fb17148baa3ef1e7b3e0",
+        "DFStringFlagRepoGitHashDynamicString": "715d30724d4f6ba83f86fb17148baa3ef1e7b3e0",
+        "FStringFlipTimeStampFastString": "2025-10-28T18:13:12.631Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T18:13:12.631Z"
     }
 }
