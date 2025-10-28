@@ -10981,7 +10981,7 @@
         "FFlagOpenUserLuaProfileFromEDP_V2_IXP": "1;Portal.OpenUserLuaProfileFromEDP_V3-1757006083;OpenUserLuaProfileFromEDP_V3;1704549671;dev_controlled",
         "FFlagSimGeometrySamplingReduceHeapAllocations": "True",
         "FFlagAddTelemetryToInitialPages": "True",
-        "FIntApiFetchExperienceDetailsPageThrottlingHundredthsPercent": "1000",
+        "FIntApiFetchExperienceDetailsPageThrottlingHundredthsPercent": "10000",
         "FFlagISoundGroupImplEnabled": "True",
         "FFlagOpenUserLuaProfileFromItemPage_V2_IXP": "1;Portal.Open_User_Lua_Profile_From_Item_Details_Page_V2-1757009637;Open_User_Lua_Profile_From_Item_Details_Page_V2;1458178670;dev_controlled",
         "FFlagTaskThreadUsesRuntime2": "True",
@@ -12520,7 +12520,7 @@
         "FFlagUseTCUserTileForTCChatCard": "True",
         "DFFlagBacktraceUpdateDebugIdentifier": "True",
         "FFlagQuestNESO": "True",
-        "DFIntRetryLoadWithAssetTypeVerificationThrottle_PlaceFilter": "10000;94233718119523",
+        "DFIntRetryLoadWithAssetTypeVerificationThrottle_PlaceFilter": "10000;94233718119523;87929136174764",
         "FFlagQtStringlyInvokeMethodCleanup": "True",
         "FFlagLuaAppUpdateSponsoredLabelStyle": "True",
         "FFlagSimAllowBasePartInCalcConstraints": "True",
@@ -12897,7 +12897,6 @@
         "FFlagSkipProcessGestureWithoutConnections2": "True",
         "FFlagFixRSVPPromptStretchedThumbnail": "True",
         "SFFlagIASUnionToVariant": "True",
-        "FIntApiFetchExperienceDetailsPageThrottlingHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:37:58",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagCheckRunStartServiceBeforeInitialization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:56:54",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -13841,9 +13840,9 @@
         "FFlagWhitelistUserModerationAPI": "True",
         "DFIntNetStackDummyClientConnectResultPointsThrottleHP_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1022987247;2025-10-28T17:37:49",
         "DFIntNetStackDummyClientPingStatsThrottleHP_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1022987247;2025-10-28T17:37:49",
-        "FStringFlagRepoGitHashFastString": "804b234fbf460907744f0edee4777c6889746e00",
-        "DFStringFlagRepoGitHashDynamicString": "804b234fbf460907744f0edee4777c6889746e00",
-        "FStringFlipTimeStampFastString": "2025-10-28T17:40:54.938Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T17:40:54.938Z"
+        "FStringFlagRepoGitHashFastString": "c0278b11198ffd72f4ea065a8ff88380a1a37f15",
+        "DFStringFlagRepoGitHashDynamicString": "c0278b11198ffd72f4ea065a8ff88380a1a37f15",
+        "FStringFlipTimeStampFastString": "2025-10-28T17:43:08.768Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T17:43:08.768Z"
     }
 }
