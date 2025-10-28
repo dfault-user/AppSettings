@@ -12897,7 +12897,6 @@
         "FFlagSkipProcessGestureWithoutConnections2": "True",
         "FFlagFixRSVPPromptStretchedThumbnail": "True",
         "SFFlagIASUnionToVariant": "True",
-        "FFlagCheckRunStartServiceBeforeInitialization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:56:54",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -12918,6 +12917,7 @@
         "DFIntGamePassOwnershipCacheSeconds_Staged": "86400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:49:22",
         "FFlagCLI_159373_FixCheckMonitorCreatedTest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:52:23",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData": "True",
+        "FFlagCheckRunStartServiceBeforeInitialization": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15162,9 +15162,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "172936d38fdb9668afba8ff8536eb39d401a5008",
-        "DFStringFlagRepoGitHashDynamicString": "172936d38fdb9668afba8ff8536eb39d401a5008",
-        "FStringFlipTimeStampFastString": "2025-10-28T17:58:21.956Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T17:58:21.956Z"
+        "FStringFlagRepoGitHashFastString": "8bfbcec17a2804013d3004d59d18a5683126ae48",
+        "DFStringFlagRepoGitHashDynamicString": "8bfbcec17a2804013d3004d59d18a5683126ae48",
+        "FStringFlipTimeStampFastString": "2025-10-28T18:05:24.301Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T18:05:24.301Z"
     }
 }
