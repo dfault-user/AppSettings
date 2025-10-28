@@ -6430,7 +6430,7 @@
         "DFFlagTTFromRuppHeaderOnly": "True",
         "FFlagHideCloseButtonOnDismiss": "True",
         "FFlagLuaAppEdpFixDefaultBanner": "True",
-        "FFlagLuaAppEdpSingleColumnMediaFirstIxp": "True",
+        "FFlagLuaAppEdpSingleColumnMediaFirstIxp": "False",
         "FFlagErrorStringRefactor": "True",
         "FFlagDisableReconnectsForAndroidKicks": "True",
         "DFFlagCleanUpRobloxInputOnMacRelease": "True",
@@ -12927,8 +12927,6 @@
         "FFlagEnableAnimatorAnalyticsForRetargeting": "True",
         "DFFlagFtsThumbnailDomain": "True",
         "DFFlagWebSocketCurlErrBuf": "True",
-        "FFlagLuaAppEdpSingleColumnMediaFirstIxp_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T22:21:40",
-        "FFlagAimComputeInertiaData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T22:22:47",
         "DFFlagCLI160531": "True",
         "FFlagRecordRecording": "False",
         "DFFlagRbxStorageOldCacheNoCreate": "True",
@@ -12942,6 +12940,7 @@
         "FFlagSkipProcessGestureWithoutConnections2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T23:15:45",
         "FFlagAXFixOwnedItemPromptWhenResellableButNoStock2": "True",
         "FFlagUpdateNetworkingForTryOnThunk": "True",
+        "FFlagAimComputeInertiaData": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13852,9 +13851,9 @@
         "FFlagAEGISPhase1UseFAECopyV3": "True",
         "FFlagFixUIRayGoingThruExistingVerts4": "True",
         "FStringLuaOTATag_Staged": "Release;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T22:54:44",
-        "FStringFlagRepoGitHashFastString": "0b7de4993fa6c16c15e2a64dbf89f74d1687bff1",
-        "DFStringFlagRepoGitHashDynamicString": "0b7de4993fa6c16c15e2a64dbf89f74d1687bff1",
-        "FStringFlipTimeStampFastString": "2025-10-28T23:24:26.004Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T23:24:26.004Z"
+        "FStringFlagRepoGitHashFastString": "4b71a461cf514a71b6c4546bfc85e5fc474c77d9",
+        "DFStringFlagRepoGitHashDynamicString": "4b71a461cf514a71b6c4546bfc85e5fc474c77d9",
+        "FStringFlipTimeStampFastString": "2025-10-28T23:31:40.944Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T23:31:40.944Z"
     }
 }
