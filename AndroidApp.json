@@ -12897,10 +12897,6 @@
         "FFlagSkipProcessGestureWithoutConnections2": "True",
         "FFlagFixRSVPPromptStretchedThumbnail": "True",
         "SFFlagIASUnionToVariant": "True",
-        "DFFlagDontRemoveNonLocalChildrenWithMRD_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:00:53",
-        "DFFlagReportNonLocalChildrenRemoved_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:01:46",
-        "DFIntClientNonLocalChildrenRemovalStatsThrottle_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:03:25",
-        "DFIntNonLocalChildWithMRDRemovedUEThrottleHP_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:04:26",
         "DFStringFtsThumbEnrollHeaderKey": "IsFtsThumbAccepted",
         "DFStringFtsThumbEnrollHeaderVal": "true",
         "FFlagEnableLoadingScreenBButtonNonTenFoot": "True",
@@ -12919,6 +12915,10 @@
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData": "True",
         "FFlagCheckRunStartServiceBeforeInitialization": "True",
         "DFFlagDataModelCookieCLI84135_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;223179295;2025-10-28T18:01:46",
+        "DFFlagDontRemoveNonLocalChildrenWithMRD": "True",
+        "DFFlagReportNonLocalChildrenRemoved": "True",
+        "DFIntClientNonLocalChildrenRemovalStatsThrottle": "100",
+        "DFIntNonLocalChildWithMRDRemovedUEThrottleHP": "10000",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
@@ -13855,9 +13855,9 @@
         "DFFlagSQLiteCheckPrepareSuccess": "True",
         "FFlagEnableAEGIS1HomePageBanner4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:06:30",
         "FFlagEnableAEGIS1AppChatBanner4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:07:16",
-        "FStringFlagRepoGitHashFastString": "314f3504392f2a86c836dd972ce09eb53f47aa05",
-        "DFStringFlagRepoGitHashDynamicString": "314f3504392f2a86c836dd972ce09eb53f47aa05",
-        "FStringFlipTimeStampFastString": "2025-10-28T18:05:50.024Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T18:05:50.024Z"
+        "FStringFlagRepoGitHashFastString": "42e792fe68668de8efadd7384993d4a25672bf4a",
+        "DFStringFlagRepoGitHashDynamicString": "42e792fe68668de8efadd7384993d4a25672bf4a",
+        "FStringFlipTimeStampFastString": "2025-10-28T18:08:02.796Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T18:08:02.796Z"
     }
 }
