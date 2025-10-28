@@ -12897,10 +12897,6 @@
         "FFlagSkipProcessGestureWithoutConnections2": "True",
         "FFlagFixRSVPPromptStretchedThumbnail": "True",
         "SFFlagIASUnionToVariant": "True",
-        "FFlagEnableLoadingScreenBButtonNonTenFoot_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:06:42",
-        "DFStringFtsThumbEnrollHeaderKey_Staged": "IsFtsThumbAccepted;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:06:55",
-        "DFStringFtsThumbEnrollHeaderVal_Staged": "true;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:08:14",
-        "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:08:37",
         "FFlagFCTransformsDiffCheckOnUpdateGeometry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:22:17",
         "FFlagChangeWebViewReportButtonToText2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:31:11",
         "FIntApiFetchExperienceDetailsPageThrottlingHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:37:58",
@@ -12910,6 +12906,9 @@
         "DFFlagReportNonLocalChildrenRemoved_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:01:46",
         "DFIntClientNonLocalChildrenRemovalStatsThrottle_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:03:25",
         "DFIntNonLocalChildWithMRDRemovedUEThrottleHP_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:04:26",
+        "DFStringFtsThumbEnrollHeaderKey": "IsFtsThumbAccepted",
+        "DFStringFtsThumbEnrollHeaderVal": "true",
+        "FFlagEnableLoadingScreenBButtonNonTenFoot": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13273,9 +13272,9 @@
         "FFlagSessionTrackingUseMovedRelaunch": "True",
         "FFlagUseXboxPaymentsProtocolCommonFunctions": "False",
         "DFFlagSQLiteCheckPrepareSuccess": "True",
-        "FStringFlagRepoGitHashFastString": "959b0a9cbc87617357b5d53ea6baf073777cf319",
-        "DFStringFlagRepoGitHashDynamicString": "959b0a9cbc87617357b5d53ea6baf073777cf319",
-        "FStringFlipTimeStampFastString": "2025-10-28T17:10:22.245Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T17:10:22.245Z"
+        "FStringFlagRepoGitHashFastString": "e69e401842dccc745f181c2b72f7fe854f6f15e3",
+        "DFStringFlagRepoGitHashDynamicString": "e69e401842dccc745f181c2b72f7fe854f6f15e3",
+        "FStringFlipTimeStampFastString": "2025-10-28T17:12:13.389Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T17:12:13.389Z"
     }
 }
