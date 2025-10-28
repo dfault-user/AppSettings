@@ -12900,7 +12900,7 @@
         "FFlagFCTransformsDiffCheckOnUpdateGeometry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:22:17",
         "FFlagChangeWebViewReportButtonToText2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:31:11",
         "FIntApiFetchExperienceDetailsPageThrottlingHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:37:58",
-        "DFFlagEnableFdTracking": "True",
+        "FFlagIncreaseFileDescriptorLimit": "True",
         "FFlagCheckRunStartServiceBeforeInitialization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:56:54",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -12909,6 +12909,8 @@
         "DFStringFtsThumbEnrollHeaderKey": "IsFtsThumbAccepted",
         "DFStringFtsThumbEnrollHeaderVal": "true",
         "FFlagEnableLoadingScreenBButtonNonTenFoot": "True",
+        "DFFlagEnableFdTracking": "True",
+        "DFFlagFileCacheClearRecursive_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:20:52",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
@@ -14712,7 +14714,6 @@
         "FFlagAnnotationsHeightCacheLoadingFixes": "True",
         "FFlagPremultiplyViewportframeBackgroundColor2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T16:52:22",
         "FFlagLuauPushTypeConstraintSingleton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T17:15:28",
-        "FFlagIncreaseFileDescriptorLimit": "True",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagVoxelGridFixRegionChanged": "True",
@@ -15132,9 +15133,9 @@
         "FFlagStudioDeviceEmulatorHandheldSpecialConsole": "True",
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FStringFlagRepoGitHashFastString": "217cc04e9e0f8d8c596b8de6b7d31b88d339fef3",
-        "DFStringFlagRepoGitHashDynamicString": "217cc04e9e0f8d8c596b8de6b7d31b88d339fef3",
-        "FStringFlipTimeStampFastString": "2025-10-28T17:20:20.216Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-28T17:20:20.216Z"
+        "FStringFlagRepoGitHashFastString": "5c6432f3ff2ab28f3ccc3a1a66a153b3b8909482",
+        "DFStringFlagRepoGitHashDynamicString": "5c6432f3ff2ab28f3ccc3a1a66a153b3b8909482",
+        "FStringFlipTimeStampFastString": "2025-10-28T17:23:06.058Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-28T17:23:06.058Z"
     }
 }
