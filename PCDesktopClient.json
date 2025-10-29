@@ -3864,7 +3864,7 @@
         "DFIntHttpReportCLI111800HundredthsPercent": "10000",
         "FFlagDebugDisableVideoVorbisDecoder2": "True",
         "DFFlagHttpServiceInsightMetricsEnabled2": "True",
-        "DFFlagHttpServiceInsightMetricsDomainsEnabled": "True",
+        "DFFlagHttpServiceInsightMetricsDomainsEnabled": "False",
         "DFFlagCLI111800": "True",
         "FFlagCLI115093": "True",
         "FFlagVoiceChatProperlyDisableOldAutoRejoin": "False",
@@ -12959,9 +12959,6 @@
         "DFIntNetAssetChecksumReportThrottle": "100",
         "DFIntNetAssetChecksumVerboseReplicatorProbability": "100",
         "DFIntReportLargeReplicatorDetailedHundredths": "100",
-        "DFFlagHttpServiceInsightMetricsDomainsEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:13:22",
-        "FFlagActionsBridgeListenToPluginActionsIconChanged_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:19:42",
-        "FFlagOnlyAllowMeshParts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:26:57",
         "FFlagAXCatalogItemCardAvailabilityState2": "True",
         "FFlagAXUnavailableItemsPrompt2": "True",
         "FFlagAXEnableAssetIEC_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:33:22",
@@ -12972,6 +12969,9 @@
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagVideoFixMockContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T22:36:29",
+        "FFlagOnlyAllowMeshParts": "True",
+        "FFlagActionsBridgeListenToPluginActionsIconChanged": "True",
+        "DFFlagRobloxTelemetryNewESIHeader_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T22:36:47",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13950,9 +13950,9 @@
         "FFlagFixDeviceSettingsFocus": "True",
         "DFFlagGetHlsLodManifest2": "True",
         "FFlagMaxSizeUseCorrectPadding": "True",
-        "FStringFlagRepoGitHashFastString": "28e9a2ea9ecbe7e0e482bb638a50ec48df372cf8",
-        "DFStringFlagRepoGitHashDynamicString": "28e9a2ea9ecbe7e0e482bb638a50ec48df372cf8",
-        "FStringFlipTimeStampFastString": "2025-10-29T23:07:19.576Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-29T23:07:19.576Z"
+        "FStringFlagRepoGitHashFastString": "0c7402fdc172f575111c1bbdbe9733298a97ffe7",
+        "DFStringFlagRepoGitHashDynamicString": "0c7402fdc172f575111c1bbdbe9733298a97ffe7",
+        "FStringFlipTimeStampFastString": "2025-10-29T23:09:29.378Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-29T23:09:29.378Z"
     }
 }
