@@ -12971,6 +12971,7 @@
         "FStringAEGIS1AgeVerifiedRealtimeNamespace": "AgeVerificationStatusChange",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
+        "FFlagVideoFixMockContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T22:36:29",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13447,6 +13448,8 @@
         "DFFlagVideoLodPriorityListFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:48:40",
         "DFFlagFixRetrieveCapture_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:55:05",
         "FFlagExperienceEventsListingAPIEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T22:00:16",
+        "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Desktop.AudioDevice.MuteFix;598274160;flagbank",
+        "FFlagMicInitialMuteStateFix_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Desktop.AudioDevice.MuteFix;598274160;flagbank",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13897,9 +13900,9 @@
         "FFlagWhitelistUserModerationAPI": "True",
         "FFlagEnableNetStackDummyClientVersionCheck": "False",
         "FStringNetStackDummyClientEnabledMajorVersions": "",
-        "FStringFlagRepoGitHashFastString": "f43b90031ba2cb9b0c25511e7036daefabe14155",
-        "DFStringFlagRepoGitHashDynamicString": "f43b90031ba2cb9b0c25511e7036daefabe14155",
-        "FStringFlipTimeStampFastString": "2025-10-29T22:53:30.885Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-29T22:53:30.885Z"
+        "FStringFlagRepoGitHashFastString": "c81eabe3264833d259405dffa8b3583c8fb97765",
+        "DFStringFlagRepoGitHashDynamicString": "c81eabe3264833d259405dffa8b3583c8fb97765",
+        "FStringFlipTimeStampFastString": "2025-10-29T23:07:49.522Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-29T23:07:49.522Z"
     }
 }

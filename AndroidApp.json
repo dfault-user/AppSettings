@@ -12970,6 +12970,8 @@
         "FFlagOCEnableDualHistory": "True",
         "FStringAEGIS1AgeVerifiedRealtimeNamespace": "AgeVerificationStatusChange",
         "DFFlagAllowAlwaysCreateFile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T22:25:22",
+        "DFFlagVoiceSdpCompressionSendSizeTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1887502630;2025-10-29T22:27:53",
+        "FFlagVideoFixMockContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T22:36:29",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13913,9 +13915,9 @@
         "DFFlagEnableStabilityMilestoneReport2": "True",
         "FFlagUIInstanceModifiers": "True",
         "FStringGraphicsGLReportExtensions_Staged": "GL_OES_texture_compression_astc|GL_KHR_texture_compression_astc_hdr|GL_KHR_texture_compression_astc_sliced_3d|GL_KHR_texture_compression_astc_ldr;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:54:59",
-        "FStringFlagRepoGitHashFastString": "f43b90031ba2cb9b0c25511e7036daefabe14155",
-        "DFStringFlagRepoGitHashDynamicString": "f43b90031ba2cb9b0c25511e7036daefabe14155",
-        "FStringFlipTimeStampFastString": "2025-10-29T22:53:30.885Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-29T22:53:30.885Z"
+        "FStringFlagRepoGitHashFastString": "28e9a2ea9ecbe7e0e482bb638a50ec48df372cf8",
+        "DFStringFlagRepoGitHashDynamicString": "28e9a2ea9ecbe7e0e482bb638a50ec48df372cf8",
+        "FStringFlipTimeStampFastString": "2025-10-29T23:07:19.576Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-29T23:07:19.576Z"
     }
 }

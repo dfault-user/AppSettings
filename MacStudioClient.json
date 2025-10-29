@@ -12970,6 +12970,8 @@
         "FFlagOCEnableDualHistory": "True",
         "FStringAEGIS1AgeVerifiedRealtimeNamespace": "AgeVerificationStatusChange",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
+        "FFlagVideoFixMockContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T22:36:29",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14785,7 +14787,6 @@
         "FFlagAICOFixClearTextControllerCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T22:03:49",
         "DFFlagSimCSG4UseOperationGraphEvaluate23": "True",
         "FFlagUpdateRigVisualization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T22:07:33",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -15173,6 +15174,8 @@
         "FFlagSocialCarouselEnableTilesSeenCollection2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:39:41",
         "DFFlagVideoLodPriorityListFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:48:40",
         "DFFlagFixRetrieveCapture_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:55:05",
+        "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Desktop.AudioDevice.MuteFix;598274160;flagbank",
+        "FFlagMicInitialMuteStateFix_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Desktop.AudioDevice.MuteFix;598274160;flagbank",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -15209,9 +15212,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;293614516;2025-10-29T21:35:52",
-        "FStringFlagRepoGitHashFastString": "f43b90031ba2cb9b0c25511e7036daefabe14155",
-        "DFStringFlagRepoGitHashDynamicString": "f43b90031ba2cb9b0c25511e7036daefabe14155",
-        "FStringFlipTimeStampFastString": "2025-10-29T22:53:30.885Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-29T22:53:30.885Z"
+        "FStringFlagRepoGitHashFastString": "c81eabe3264833d259405dffa8b3583c8fb97765",
+        "DFStringFlagRepoGitHashDynamicString": "c81eabe3264833d259405dffa8b3583c8fb97765",
+        "FStringFlipTimeStampFastString": "2025-10-29T23:07:49.522Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-29T23:07:49.522Z"
     }
 }
