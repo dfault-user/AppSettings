@@ -12961,9 +12961,6 @@
         "DFIntReportLargeReplicatorDetailedHundredths": "100",
         "FFlagAXCatalogItemCardAvailabilityState2": "True",
         "FFlagAXUnavailableItemsPrompt2": "True",
-        "FFlagAXEnableAssetIEC_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:33:22",
-        "FFlagWrapDeformerUsesLayeredClothingBufferingFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:34:23",
-        "DFFlagDynamicTextureManagerMarkAppearanceDirty_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T21:54:34",
         "FFlagOCEnableDualHistory": "True",
         "FStringAEGIS1AgeVerifiedRealtimeNamespace": "AgeVerificationStatusChange",
         "DFFlagAllowAlwaysCreateFile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T22:25:22",
@@ -12972,6 +12969,9 @@
         "FFlagOnlyAllowMeshParts": "True",
         "FFlagActionsBridgeListenToPluginActionsIconChanged": "True",
         "DFFlagRobloxTelemetryNewESIHeader_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T22:36:47",
+        "FFlagAXEnableAssetIEC": "True",
+        "FFlagWrapDeformerUsesLayeredClothingBufferingFix": "True",
+        "DFFlagDynamicTextureManagerMarkAppearanceDirty": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13879,12 +13879,12 @@
         "FFlagAEGISPhase1UseFAECopyV3": "True",
         "FFlagFixUIRayGoingThruExistingVerts4": "True",
         "FFlagSelfieConsentPrivacyLink": "True",
-        "FFlagMaxSizeUseCorrectPadding_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;616933823;2025-10-29T21:36:43",
         "FFlagCapturesDragAffordanceRemovalEnabled_Staged": "false;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;921134528;2025-10-29T22:07:08",
         "FFlagCapturesDragEdgeOffsetEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;921134528;2025-10-29T22:07:08",
-        "FStringFlagRepoGitHashFastString": "0c7402fdc172f575111c1bbdbe9733298a97ffe7",
-        "DFStringFlagRepoGitHashDynamicString": "0c7402fdc172f575111c1bbdbe9733298a97ffe7",
-        "FStringFlipTimeStampFastString": "2025-10-29T23:09:29.378Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-29T23:09:29.378Z"
+        "FFlagMaxSizeUseCorrectPadding": "True",
+        "FStringFlagRepoGitHashFastString": "154199d1e880fd96b55fbf4acba87cd94fa9cd85",
+        "DFStringFlagRepoGitHashDynamicString": "154199d1e880fd96b55fbf4acba87cd94fa9cd85",
+        "FStringFlipTimeStampFastString": "2025-10-29T23:11:23.870Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-29T23:11:23.870Z"
     }
 }
