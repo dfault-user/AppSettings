@@ -12635,7 +12635,7 @@
         "FFlagAXUnifiedMarketplaceResultsFetcherV2": "False",
         "FFlagAssetInsertComponent": "True",
         "DFFlagWebViewAdjustWithScreenScale": "True",
-        "FFlagVoiceWebrtcConnectionOperationEnabled": "True",
+        "FFlagVoiceWebrtcConnectionOperationEnabled": "False",
         "DFFlagVoiceSdpCompressionSendProtoParseErrorTelemetry": "True",
         "FFlagEnableProfilePlatformDisabledReasonText": "True",
         "FFlagLuaAppDerivedStackAndSwitchState": "False",
@@ -13417,7 +13417,6 @@
         "DFFlagSQLiteBadSizeTelemetry": "True",
         "FFlagAEGISPhase1UseFAECopyV3": "True",
         "DFIntSQLiteBadSizeTelemetryThresholdMB": "90",
-        "FFlagVoiceWebrtcConnectionOperationEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;315023659;2025-10-29T16:31:25",
         "FFlagShowNewConnectErrorsMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T17:30:12",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13870,9 +13869,9 @@
         "FFlagEnableNetStackDummyClientVersionCheck": "False",
         "FStringNetStackDummyClientEnabledMajorVersions": "",
         "DFIntTestEBOnProd_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;539555615;2025-10-29T16:59:07",
-        "FStringFlagRepoGitHashFastString": "c827fa0e58a18a5748677019f5fb0e96c465ac9e",
-        "DFStringFlagRepoGitHashDynamicString": "c827fa0e58a18a5748677019f5fb0e96c465ac9e",
-        "FStringFlipTimeStampFastString": "2025-10-29T17:36:50.295Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-29T17:36:50.295Z"
+        "FStringFlagRepoGitHashFastString": "3b908d95eaac4564c4c53f5c0da52318357fbe58",
+        "DFStringFlagRepoGitHashDynamicString": "3b908d95eaac4564c4c53f5c0da52318357fbe58",
+        "FStringFlipTimeStampFastString": "2025-10-29T17:37:59.957Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-29T17:37:59.957Z"
     }
 }
