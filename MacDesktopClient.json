@@ -13860,13 +13860,11 @@
         "FFlagMaxSizeUseCorrectPadding": "True",
         "DFFlagGetHlsLodManifest2": "True",
         "FFlagWhitelistUserModerationAPI": "True",
-        "FFlagEnableNetStackDummyClientVersionCheck": "True",
-        "FStringNetStackDummyClientEnabledMajorVersions": "0",
-        "FFlagEnableNetStackDummyClientVersionCheck_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2109041983;2025-10-28T23:35:47",
-        "FStringNetStackDummyClientEnabledMajorVersions_Staged": ";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2109041983;2025-10-28T23:35:47",
-        "FStringFlagRepoGitHashFastString": "31288e0342dfd5f3be7761133cb5af3c01a077e7",
-        "DFStringFlagRepoGitHashDynamicString": "31288e0342dfd5f3be7761133cb5af3c01a077e7",
-        "FStringFlipTimeStampFastString": "2025-10-29T00:25:11.753Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-29T00:25:11.753Z"
+        "FFlagEnableNetStackDummyClientVersionCheck": "False",
+        "FStringNetStackDummyClientEnabledMajorVersions": "",
+        "FStringFlagRepoGitHashFastString": "b1a238893d8c070d599e9961b10991ba3a1d95f5",
+        "DFStringFlagRepoGitHashDynamicString": "b1a238893d8c070d599e9961b10991ba3a1d95f5",
+        "FStringFlipTimeStampFastString": "2025-10-29T00:40:48.579Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-29T00:40:48.579Z"
     }
 }
