@@ -13439,7 +13439,7 @@
         "FFlagEnableAEGIS1HomePageBanner4": "True",
         "FFlagAEGISPhase1UseFAECopyV3": "True",
         "DFFlagSQLiteBadSizeTelemetry": "True",
-        "DFIntSQLiteBadSizeTelemetryThresholdMB_Staged": "90;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-28T23:50:34",
+        "DFIntSQLiteBadSizeTelemetryThresholdMB": "90",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13911,9 +13911,9 @@
         "DFFlagGetHlsLodManifest2": "True",
         "FFlagMaxSizeUseCorrectPadding": "True",
         "DFFlagAggCpuMemRCC_IXP": "1;Portal.Does-the-RCC-telemetry-flag-affect-clients-1761682793;Does-the-RCC-telemetry-flag-affect-clients;1655873222;flagbank",
-        "FStringFlagRepoGitHashFastString": "b1a238893d8c070d599e9961b10991ba3a1d95f5",
-        "DFStringFlagRepoGitHashDynamicString": "b1a238893d8c070d599e9961b10991ba3a1d95f5",
-        "FStringFlipTimeStampFastString": "2025-10-29T00:40:48.579Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-29T00:40:48.579Z"
+        "FStringFlagRepoGitHashFastString": "40c2edf9844f25c9d69d93a78bed2feb82dc3621",
+        "DFStringFlagRepoGitHashDynamicString": "40c2edf9844f25c9d69d93a78bed2feb82dc3621",
+        "FStringFlipTimeStampFastString": "2025-10-29T00:58:50.497Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-29T00:58:50.497Z"
     }
 }
