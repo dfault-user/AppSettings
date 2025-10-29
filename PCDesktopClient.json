@@ -12534,7 +12534,7 @@
         "FFlagVoiceMutexMigration": "True",
         "FFlagLuaAppFixOmniFeedViewScrollCutoff2": "True",
         "FFlagFoundationNumberInputSpinboxRespectSnap": "True",
-        "FFlagShowNewConnectErrorsMessage": "False",
+        "FFlagShowNewConnectErrorsMessage": "True",
         "FFlagAssistantAtCommandBarSecurity": "True",
         "FFlagFoundationNumberInputInvalidError": "True",
         "DFIntVideoCaptureSelfTestResultTTLSec": "86400",
@@ -12940,7 +12940,6 @@
         "FFlagFastClusterFixBoundingBoxUpdates": "False",
         "FIntWidgetDataRecentlyPlayedListMaxCount": "12",
         "FFlagLuaAppChartsAppUseHoverTileIxpEnabled": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagFixAssetIECPromptNaming_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T17:33:45",
         "FFlagCleanUpMouseWrapMode2": "True",
         "FFlagUGCValidatePropertiesSensible2": "True",
@@ -12948,6 +12947,8 @@
         "FFlagSurfaceLightNoAllocateShadowMask2": "True",
         "FFlagVideoWinHwEncoderReportQuickSyncDLLVersion_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T18:23:44",
         "DFFlagConnectionStateServerFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T18:27:43",
+        "DFFlagReportDummyClientConnectionAttemptResult_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T18:30:52",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13447,7 +13448,6 @@
         "FFlagAEGISPhase1UseFAECopyV3": "True",
         "DFFlagSQLiteBadSizeTelemetry": "True",
         "DFIntSQLiteBadSizeTelemetryThresholdMB": "90",
-        "FFlagShowNewConnectErrorsMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T17:30:12",
         "DFFlagEnableStabilityMilestoneReport2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-29T17:37:38",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
@@ -13920,9 +13920,9 @@
         "DFFlagGetHlsLodManifest2": "True",
         "FFlagMaxSizeUseCorrectPadding": "True",
         "DFFlagAggCpuMemRCC_IXP": "1;Portal.Does-the-RCC-telemetry-flag-affect-clients-1761682793;Does-the-RCC-telemetry-flag-affect-clients;1655873222;flagbank",
-        "FStringFlagRepoGitHashFastString": "59e93c6c889ad29b4cb7e26696c24965adbc3b5f",
-        "DFStringFlagRepoGitHashDynamicString": "59e93c6c889ad29b4cb7e26696c24965adbc3b5f",
-        "FStringFlipTimeStampFastString": "2025-10-29T18:32:49.070Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-29T18:32:49.070Z"
+        "FStringFlagRepoGitHashFastString": "63de3c6f67a8e64b45c3d4ce9b902d6c86af2547",
+        "DFStringFlagRepoGitHashDynamicString": "63de3c6f67a8e64b45c3d4ce9b902d6c86af2547",
+        "FStringFlipTimeStampFastString": "2025-10-29T18:35:42.857Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-29T18:35:42.857Z"
     }
 }
