@@ -12991,9 +12991,6 @@
         "FFlagCancelDeferOnShutdown": "True",
         "DFFlagPMDHeaderBlockDetection": "True",
         "DFFlagPMDReportCerrs": "True",
-        "FFlagAppChatFocusInputBarFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:36:40",
-        "FFlagEnableAppChatFocusableFixesUpdate2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:36:57",
-        "FFlagEnableAppChatFocusableFixes4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:37:13",
         "FFlagStudioChannelDontPreallocate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:46:15",
         "DFFlagGetPrimaryPartUpdate": "True",
         "DFFlagOptimizeBvhCollideSphere": "True",
@@ -13007,6 +13004,10 @@
         "FFlagAESAddTimedOptions": "True",
         "FFlagEnableTelemetryIntegrationCheck2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T19:30:53",
         "FFlagAnimatorLodServerEarlyOut": "True",
+        "FFlagAudioEngineFasterDspDisconnect_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T19:40:00",
+        "FFlagAppChatFocusInputBarFix": "True",
+        "FFlagEnableAppChatFocusableFixes4": "True",
+        "FFlagEnableAppChatFocusableFixesUpdate2": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13495,6 +13496,7 @@
         "FFlagLuaAppHapticTriggeredTelemetry": "True",
         "FIntHapticTriggerAttemptThrottleHundredthsPercent": "10000",
         "FFlagAXCatalogRealTimeRecommendationsIXPV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;5041727;2025-10-30T19:30:13",
+        "FFlagVoiceChatEnableSdpCompressionMaster4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T19:39:46",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13948,9 +13950,9 @@
         "FFlagLuaAppAddEdpVideoBlockingTelemetry": "True",
         "FIntEdpVideoBlockingTelemetryThrottleHundredthsPercent": "10000",
         "FIntNewTextureTranscoderHundredthPercent_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T19:39:09",
-        "FStringFlagRepoGitHashFastString": "a6f47db6e754e18f6301d15f3cf47a93e6e2bc4b",
-        "DFStringFlagRepoGitHashDynamicString": "a6f47db6e754e18f6301d15f3cf47a93e6e2bc4b",
-        "FStringFlipTimeStampFastString": "2025-10-30T19:38:16.083Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-30T19:38:16.083Z"
+        "FStringFlagRepoGitHashFastString": "2539e6ed22e6bec689cde5f18f7a84eee82b386b",
+        "DFStringFlagRepoGitHashDynamicString": "2539e6ed22e6bec689cde5f18f7a84eee82b386b",
+        "FStringFlipTimeStampFastString": "2025-10-30T19:42:51.463Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-30T19:42:51.463Z"
     }
 }
