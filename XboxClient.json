@@ -12976,12 +12976,8 @@
         "FFlagFixBlackSky2": "True",
         "FFlagAddSurfaceTypeToAnalytics2": "True",
         "FFlagWhitelistUserModerationAPI": "True",
-        "FFlagAddToSessionTrackingNetworkType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:11:56",
-        "FFlagCheckIfInstanceIsSerializable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:15:24",
         "FFlagWrapDeformerUsesLayeredClothing6": "True",
         "FFlagAudioEngineFasterDspDisconnect": "True",
-        "FFlagCapsUnparentedClone_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:16:53",
-        "FFlagCancelDeferOnShutdown_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:20:23",
         "DFFlagPMDReportCerrs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:22:18",
         "DFFlagPMDHeaderBlockDetection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:24:59",
         "DFFlagGetPrimaryPartUpdate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:47:23",
@@ -12999,6 +12995,10 @@
         "FFlagStatsItemRemoveGcInterval": "True",
         "FFlagVulkanCacheSwapChainSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:11:47",
         "FFlagEnableAEGIS1HomePageBanner4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:16:26",
+        "FFlagAddToSessionTrackingNetworkType": "True",
+        "FFlagCapsUnparentedClone": "True",
+        "FFlagCheckIfInstanceIsSerializable": "True",
+        "FFlagCancelDeferOnShutdown": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13363,9 +13363,9 @@
         "FFlagAXMarketplaceResultsFetcherCategoryInfoFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;769685850;2025-10-30T17:52:09",
         "FFlagAXResetFetchMarketplaceLogicV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;769685850;2025-10-30T17:52:09",
         "FFlagAXUnifiedMarketplaceResultsFetcherV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;769685850;2025-10-30T17:52:09",
-        "FStringFlagRepoGitHashFastString": "e5bb48985919a11848c098076b7b19c10e7b97a2",
-        "DFStringFlagRepoGitHashDynamicString": "e5bb48985919a11848c098076b7b19c10e7b97a2",
-        "FStringFlipTimeStampFastString": "2025-10-30T18:20:07.326Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-30T18:20:07.326Z"
+        "FStringFlagRepoGitHashFastString": "16b251bc91342b5441c77a3d5a0671dd2bd3aa4c",
+        "DFStringFlagRepoGitHashDynamicString": "16b251bc91342b5441c77a3d5a0671dd2bd3aa4c",
+        "FStringFlipTimeStampFastString": "2025-10-30T18:25:37.443Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-30T18:25:37.443Z"
     }
 }
