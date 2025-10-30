@@ -12978,7 +12978,7 @@
         "FFlagAudioEngineFasterDspDisconnect": "True",
         "FFlagEnableClientSideUserBucketingCheckForExperimentation2": "True",
         "FFlagLuaAppDataModelStreamEnableTestIdTag": "True",
-        "FFlagEnableTelemetryIntegrationCheck2": "True",
+        "FFlagEnableTelemetryIntegrationCheck2": "False",
         "FFlagEnableAEGIS1Upsell4": "True",
         "FFlagFixReverbGetParameter": "True",
         "DFFlagGetHlsLodManifest2": "True",
@@ -12998,7 +12998,6 @@
         "FFlagEnableAEGIS1HomePageBanner4": "True",
         "FFlagVulkanCacheSwapChainSize": "True",
         "FFlagAESAddTimedOptions": "True",
-        "FFlagEnableTelemetryIntegrationCheck2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T19:30:53",
         "FFlagAnimatorLodServerEarlyOut": "True",
         "FFlagAudioEngineFasterDspDisconnect_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T19:40:00",
         "FFlagAppChatFocusInputBarFix": "True",
@@ -13954,9 +13953,9 @@
         "FFlagLuaAppAddEdpVideoBlockingTelemetry": "True",
         "FIntEdpVideoBlockingTelemetryThrottleHundredthsPercent": "10000",
         "FIntNewTextureTranscoderHundredthPercent_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T19:39:09",
-        "FStringFlagRepoGitHashFastString": "9b71418395b5c0f17b0a3e807ee86055a4a4bebb",
-        "DFStringFlagRepoGitHashDynamicString": "9b71418395b5c0f17b0a3e807ee86055a4a4bebb",
-        "FStringFlipTimeStampFastString": "2025-10-30T20:34:19.506Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-30T20:34:19.506Z"
+        "FStringFlagRepoGitHashFastString": "7cd4d31d60f4f7b48f6bc99a70ef0507836ea03d",
+        "DFStringFlagRepoGitHashDynamicString": "7cd4d31d60f4f7b48f6bc99a70ef0507836ea03d",
+        "FStringFlipTimeStampFastString": "2025-10-30T20:38:18.178Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-30T20:38:18.178Z"
     }
 }
