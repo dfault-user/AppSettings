@@ -12973,8 +12973,6 @@
         "DFFlagRobloxTelemetryNewESIHeader": "True",
         "FFlagVideoFixMockContext": "True",
         "FFlagEnableSeamlessVoiceFeature": "True",
-        "FFlagWhitelistUserModerationAPI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:07:36",
-        "FFlagAddSurfaceTypeToAnalytics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:07:58",
         "AllowVideoPreRoll": "True",
         "FFlagAudioEngineFasterDspDisconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:13:31",
         "FFlagLuaAppDataModelStreamEnableTestIdTag_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:42:02",
@@ -12987,6 +12985,9 @@
         "FFlagLuauCompileTypeofFold_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:09:24",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "AxisAdornmentGrabSize": "12",
+        "FFlagAddSurfaceTypeToAnalytics2": "True",
+        "FFlagWhitelistUserModerationAPI": "True",
+        "FFlagAddToSessionTrackingNetworkType_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:11:56",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -15262,9 +15263,10 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "True",
-        "FStringFlagRepoGitHashFastString": "fa72ae7d79fea1a3a5aced1b44afcab00cdacd4b",
-        "DFStringFlagRepoGitHashDynamicString": "fa72ae7d79fea1a3a5aced1b44afcab00cdacd4b",
-        "FStringFlipTimeStampFastString": "2025-10-30T17:13:37.139Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-30T17:13:37.139Z"
+        "DFFlagNoCallstackAppendTarget_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:11:34",
+        "FStringFlagRepoGitHashFastString": "5dc12197d37e2b6aa57560040b69fb7fbba70b89",
+        "DFStringFlagRepoGitHashDynamicString": "5dc12197d37e2b6aa57560040b69fb7fbba70b89",
+        "FStringFlipTimeStampFastString": "2025-10-30T17:15:24.054Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-30T17:15:24.054Z"
     }
 }
