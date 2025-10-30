@@ -11618,7 +11618,7 @@
         "FFlagFixIntervalStatsSynchronization": "True",
         "DFFlagISRBlockStaleCFrameImprovements": "True",
         "FFlagLuauRefineDistributesOverUnions": "True",
-        "FStringEngineVoiceSdpCompressionIxpLayer": "Engine.Voice.SdpCompression.Exposure ",
+        "FStringEngineVoiceSdpCompressionIxpLayer": "Engine.Voice.SdpCompression.2",
         "DFFlagISRPerfPass": "True",
         "DFFlagVideoWinEncodeUseComPtrForSw": "True",
         "DFFlagISRDoNotCrashCanSkipNewInstanceCheckIfPropNull": "True",
@@ -11643,7 +11643,6 @@
         "FFlagFixTexturePackLoadingRetries": "True",
         "FFlagFlyweightTrackId": "True",
         "FFlagSduiSupportArrayParsing": "True",
-        "FStringEngineVoiceSdpCompressionIxpLayer_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
         "FFlagEngineVoiceSdpCompressionIxpEnabled_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
         "FFlagVoiceChatEnableSdpCompressionMaster3_IXP": "1;Engine.Voice.SdpCompression.Exposure;Engine.Voice.SdpCompression.Portal.2;2062099502;dev_controlled",
         "FFlagFixKeyboardFocusInfiniteLoop": "False",
@@ -13005,6 +13004,7 @@
         "FFlagEnableAppChatFocusableFixes4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:37:13",
         "FFlagStudioChannelDontPreallocate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:46:15",
         "DFFlagGetPrimaryPartUpdate": "True",
+        "FFlagLargeReplicatorSerializeWrite4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:52:32",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13304,9 +13304,9 @@
         "FFlagSessionTrackingUseMovedRelaunch": "True",
         "FFlagRobloxTelemetryEnableSenderCallback": "True",
         "FFlagWrapDeformersSupportWrapLayers4": "True",
-        "FStringFlagRepoGitHashFastString": "2739bb64ba8efa240de3687bec52e7ab42c1fc9d",
-        "DFStringFlagRepoGitHashDynamicString": "2739bb64ba8efa240de3687bec52e7ab42c1fc9d",
-        "FStringFlipTimeStampFastString": "2025-10-30T18:53:28.178Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-30T18:53:28.178Z"
+        "FStringFlagRepoGitHashFastString": "39727e5a68924d1ac8c7b2d3ff4ce85404843cf0",
+        "DFStringFlagRepoGitHashDynamicString": "39727e5a68924d1ac8c7b2d3ff4ce85404843cf0",
+        "FStringFlipTimeStampFastString": "2025-10-30T18:56:09.302Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-30T18:56:09.302Z"
     }
 }
