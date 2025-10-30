@@ -12991,7 +12991,6 @@
         "FFlagCancelDeferOnShutdown": "True",
         "DFFlagPMDHeaderBlockDetection": "True",
         "DFFlagPMDReportCerrs": "True",
-        "FFlagStudioChannelDontPreallocate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:46:15",
         "DFFlagGetPrimaryPartUpdate": "True",
         "DFFlagOptimizeBvhCollideSphere": "True",
         "FFlagPreHomePageRoutingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:58:36",
@@ -13008,6 +13007,7 @@
         "FFlagAppChatFocusInputBarFix": "True",
         "FFlagEnableAppChatFocusableFixes4": "True",
         "FFlagEnableAppChatFocusableFixesUpdate2": "True",
+        "FFlagStudioChannelDontPreallocate": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13950,9 +13950,9 @@
         "FFlagLuaAppAddEdpVideoBlockingTelemetry": "True",
         "FIntEdpVideoBlockingTelemetryThrottleHundredthsPercent": "10000",
         "FIntNewTextureTranscoderHundredthPercent_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T19:39:09",
-        "FStringFlagRepoGitHashFastString": "9b87e982e3474b3e33ab27c1ad8549a67160601a",
-        "DFStringFlagRepoGitHashDynamicString": "9b87e982e3474b3e33ab27c1ad8549a67160601a",
-        "FStringFlipTimeStampFastString": "2025-10-30T19:49:23.666Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-30T19:49:23.666Z"
+        "FStringFlagRepoGitHashFastString": "2e657233e1e63140dd3c440c76c4dfe6d0133bde",
+        "DFStringFlagRepoGitHashDynamicString": "2e657233e1e63140dd3c440c76c4dfe6d0133bde",
+        "FStringFlipTimeStampFastString": "2025-10-30T19:52:00.219Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-30T19:52:00.219Z"
     }
 }
