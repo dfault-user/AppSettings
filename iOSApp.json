@@ -12980,7 +12980,6 @@
         "FFlagEnableClientSideUserBucketingCheckForExperimentation2": "True",
         "FFlagLuaAppDataModelStreamEnableTestIdTag": "True",
         "FFlagEnableTelemetryIntegrationCheck2": "True",
-        "DFFlagOCUseDualHistory_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:02:38",
         "FFlagWrapDeformersSupportWrapLayers4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:08:44",
         "FFlagEnableAEGIS1Upsell4": "True",
         "FFlagFixReverbGetParameter": "True",
@@ -13006,6 +13005,7 @@
         "FFlagLargeReplicatorSerializeWrite4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:52:32",
         "DFFlagOptimizeBvhCollideSphere": "True",
         "FFlagPreHomePageRoutingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T18:58:36",
+        "DFFlagOCUseDualHistory": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13930,9 +13930,9 @@
         "FFlagAXMarketplaceResultsFetcherCategoryInfoFix": "True",
         "FFlagAXResetFetchMarketplaceLogicV2": "True",
         "FFlagAXUnifiedMarketplaceResultsFetcherV3": "True",
-        "FStringFlagRepoGitHashFastString": "6f391173b8a3cbdb5fe9d1ed69c5e593a899c052",
-        "DFStringFlagRepoGitHashDynamicString": "6f391173b8a3cbdb5fe9d1ed69c5e593a899c052",
-        "FStringFlipTimeStampFastString": "2025-10-30T19:00:56.328Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-30T19:00:56.328Z"
+        "FStringFlagRepoGitHashFastString": "f2cfbffc7f5ac5bc5051a98fed144480c6ffcc46",
+        "DFStringFlagRepoGitHashDynamicString": "f2cfbffc7f5ac5bc5051a98fed144480c6ffcc46",
+        "FStringFlipTimeStampFastString": "2025-10-30T19:10:51.032Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-30T19:10:51.032Z"
     }
 }
