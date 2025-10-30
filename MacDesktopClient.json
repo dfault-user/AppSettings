@@ -12973,6 +12973,7 @@
         "DFFlagRobloxTelemetryNewESIHeader": "True",
         "FFlagVideoFixMockContext": "True",
         "FFlagEnableSeamlessVoiceFeature": "True",
+        "FFlagFixBlackSky2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:03:25",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13905,9 +13906,11 @@
         "FFlagWhitelistUserModerationAPI": "True",
         "FFlagEnableNetStackDummyClientVersionCheck": "False",
         "FStringNetStackDummyClientEnabledMajorVersions": "",
-        "FStringFlagRepoGitHashFastString": "35965ab8d89d524e914b496300605527e9f821b6",
-        "DFStringFlagRepoGitHashDynamicString": "35965ab8d89d524e914b496300605527e9f821b6",
-        "FStringFlipTimeStampFastString": "2025-10-30T16:02:35.867Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-30T16:02:35.867Z"
+        "FFlagLuaAppUnmountPreviewVideoOnAppBackground_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:03:43",
+        "FFlagLuaAppUnmountPreviewVideoOnGameJoin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:04:24",
+        "FStringFlagRepoGitHashFastString": "c245acfc7ebc96dd7434888ded3dab705fff5b97",
+        "DFStringFlagRepoGitHashDynamicString": "c245acfc7ebc96dd7434888ded3dab705fff5b97",
+        "FStringFlipTimeStampFastString": "2025-10-30T16:06:10.579Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-30T16:06:10.579Z"
     }
 }
