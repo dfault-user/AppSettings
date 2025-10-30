@@ -12973,7 +12973,6 @@
         "DFFlagRobloxTelemetryNewESIHeader": "True",
         "FFlagVideoFixMockContext": "True",
         "FFlagEnableSeamlessVoiceFeature": "True",
-        "FFlagFixBlackSky2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:03:25",
         "FFlagWhitelistUserModerationAPI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:07:36",
         "FFlagAddSurfaceTypeToAnalytics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:07:58",
         "FFlagWrapDeformerUsesLayeredClothing6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:11:19",
@@ -12983,7 +12982,9 @@
         "FFlagEnableTelemetryIntegrationCheck2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:51:54",
         "FFlagFixReverbGetParameter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:06:22",
         "FFlagBootcampCLI174517_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:06:26",
+        "FFlagFixBlackSky2": "True",
         "AllowVideoPreRoll": "True",
+        "FFlagLuauCompileTypeofFold_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T17:09:24",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13893,8 +13894,6 @@
         "FFlagMaxSizeUseCorrectPadding": "True",
         "FFlagCapturesDragAffordanceRemovalEnabled": "false",
         "FFlagCapturesDragEdgeOffsetEnabled": "True",
-        "FFlagLuaAppUnmountPreviewVideoOnAppBackground_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:03:43",
-        "FFlagLuaAppUnmountPreviewVideoOnGameJoin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:04:24",
         "FFlagLuaAppAddEdpVideoBlockingTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:07:26",
         "FFlagLuaAppGameTileOverflowMenuTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:11:33",
         "FIntGameTileOverflowMenuActionThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:28:06",
@@ -13902,9 +13901,11 @@
         "FFlagSocialCarouselEnableTilesSeenCollection2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:39:32",
         "FFlagLuaAppMakeDisclaimerOptInForFeedbackForm_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:41:37",
         "FIntEdpVideoBlockingTelemetryThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T16:54:45",
-        "FStringFlagRepoGitHashFastString": "6daf40fd19f1da8bdc60f0c00d194607356d7d49",
-        "DFStringFlagRepoGitHashDynamicString": "6daf40fd19f1da8bdc60f0c00d194607356d7d49",
-        "FStringFlipTimeStampFastString": "2025-10-30T17:11:41.656Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-30T17:11:41.656Z"
+        "FFlagLuaAppUnmountPreviewVideoOnAppBackground": "True",
+        "FFlagLuaAppUnmountPreviewVideoOnGameJoin": "True",
+        "FStringFlagRepoGitHashFastString": "0202d8fe7a133edcdb38076df0307e8b4f339d79",
+        "DFStringFlagRepoGitHashDynamicString": "0202d8fe7a133edcdb38076df0307e8b4f339d79",
+        "FStringFlipTimeStampFastString": "2025-10-30T17:13:15.141Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-30T17:13:15.141Z"
     }
 }
