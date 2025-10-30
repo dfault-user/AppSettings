@@ -12659,7 +12659,7 @@
         "FFlagStepTransparencyEvenNotInteractable": "True",
         "FFlagVideoCaptureFixFrameRate": "True",
         "FFlagUKOSAUpdatedCopy2": "True",
-        "FIntNewTextureTranscoderHundredthPercent": "10000",
+        "FIntNewTextureTranscoderHundredthPercent": "0",
         "FFlagEnableBackgroundCheckV2": "False",
         "DFFlagWriteFlagCacheAfterDynamicFetch": "True",
         "FFlagFixFadeOutRaceCondition": "True",
@@ -12975,7 +12975,7 @@
         "FFlagAddSurfaceTypeToAnalytics2": "True",
         "FFlagWhitelistUserModerationAPI": "True",
         "FFlagWrapDeformerUsesLayeredClothing6": "True",
-        "FFlagAudioEngineFasterDspDisconnect": "True",
+        "FFlagAudioEngineFasterDspDisconnect": "False",
         "FFlagEnableClientSideUserBucketingCheckForExperimentation2": "True",
         "FFlagLuaAppDataModelStreamEnableTestIdTag": "True",
         "FFlagEnableTelemetryIntegrationCheck2": "False",
@@ -12999,7 +12999,6 @@
         "FFlagVulkanCacheSwapChainSize": "True",
         "FFlagAESAddTimedOptions": "True",
         "FFlagAnimatorLodServerEarlyOut": "True",
-        "FFlagAudioEngineFasterDspDisconnect_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T19:40:00",
         "FFlagAppChatFocusInputBarFix": "True",
         "FFlagEnableAppChatFocusableFixes4": "True",
         "FFlagEnableAppChatFocusableFixesUpdate2": "True",
@@ -13310,10 +13309,9 @@
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "FFlagSessionTrackingUseMovedRelaunch": "True",
         "FFlagRobloxTelemetryEnableSenderCallback": "True",
-        "FIntNewTextureTranscoderHundredthPercent_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T19:39:09",
-        "FStringFlagRepoGitHashFastString": "7cd4d31d60f4f7b48f6bc99a70ef0507836ea03d",
-        "DFStringFlagRepoGitHashDynamicString": "7cd4d31d60f4f7b48f6bc99a70ef0507836ea03d",
-        "FStringFlipTimeStampFastString": "2025-10-30T20:38:18.178Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-30T20:38:18.178Z"
+        "FStringFlagRepoGitHashFastString": "3e4c36fa374feaf5d9580f3ea2f3a51220ae7d69",
+        "DFStringFlagRepoGitHashDynamicString": "3e4c36fa374feaf5d9580f3ea2f3a51220ae7d69",
+        "FStringFlipTimeStampFastString": "2025-10-30T20:42:19.615Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-30T20:42:19.615Z"
     }
 }
