@@ -13011,6 +13011,7 @@
         "FFlagWrapDeformerEfficientLayerMeshBuilding": "True",
         "AllowVideoPreRoll": "True",
         "FFlagUGCValidateMeshVertColors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-10-30T20:25:00",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14836,7 +14837,6 @@
         "DFIntStudioReportLuauSlowTypeCheckStatsInfluxHundredthsPercentage": "100",
         "FFlagLuauAddRefinementToAssertions": "True",
         "FFlagAXCatalogRealTimeRecommendationsIXPV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;5041727;2025-10-30T19:30:13",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15267,9 +15267,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "True",
         "DFFlagHttp2AllInternalReqs_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;293614516;2025-10-30T19:45:45",
-        "FStringFlagRepoGitHashFastString": "c6c1a9e2df84119fdc7d1758130d57794196fdfe",
-        "DFStringFlagRepoGitHashDynamicString": "c6c1a9e2df84119fdc7d1758130d57794196fdfe",
-        "FStringFlipTimeStampFastString": "2025-10-30T20:26:44.528Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-30T20:26:44.528Z"
+        "FStringFlagRepoGitHashFastString": "ddb92f68a52de9169beed288442836064cb750b8",
+        "DFStringFlagRepoGitHashDynamicString": "ddb92f68a52de9169beed288442836064cb750b8",
+        "FStringFlipTimeStampFastString": "2025-10-30T20:29:34.154Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-30T20:29:34.154Z"
     }
 }
