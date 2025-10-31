@@ -13025,10 +13025,11 @@
         "DFIntDeserializeRestrictedInstanceEventHundredthsPercent": "10000",
         "FFlagNewLightAttenuation3": "True",
         "FFlagEnableLvmsOptimization": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "DFFlagTeamCreateMeansTeamCreate": "True",
         "DFIntTeamCreateMeansTeamCreateReportHundredths": "10000",
         "DFFlagCreatorConfigAssetProviderUseCdn": "True",
+        "DFFlagRbxStorageWalCheckpointAfterCleanup": "True",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13447,7 +13448,6 @@
         "DFFlagMicroprofilerHiddenClicksFix": "True",
         "DFFlagMicroprofilerPersistOffMode": "True",
         "FFlagAXCategoryPillPositionAnimation_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;731719989;dev_controlled",
-        "DFFlagRbxStorageWalCheckpointAfterCleanup": "True",
         "FFlagAXEnableCategoryPills7_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;2029261985;dev_controlled",
         "FFlagAXEnableCategoryPillsExposureLogging2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.CatalogCategoryPills-1760560748692;1228557301;dev_controlled",
         "FFlagVideoPlaybackManagerFixForVideoPlayer": "True",
@@ -13972,9 +13972,9 @@
         "FFlagLuaAppUnmountPreviewVideoOnGameJoin": "True",
         "FFlagLuaAppAddEdpVideoBlockingTelemetry": "True",
         "FIntEdpVideoBlockingTelemetryThrottleHundredthsPercent": "10000",
-        "FStringFlagRepoGitHashFastString": "a644ba253c4de7ed54573853c26c6543a68691fe",
-        "DFStringFlagRepoGitHashDynamicString": "a644ba253c4de7ed54573853c26c6543a68691fe",
-        "FStringFlipTimeStampFastString": "2025-10-31T19:58:03.890Z",
-        "DFStringFlipTimeStampDynamicString": "2025-10-31T19:58:03.890Z"
+        "FStringFlagRepoGitHashFastString": "81e8953024d18bc06f63479dc97cf97f1954d6d5",
+        "DFStringFlagRepoGitHashDynamicString": "81e8953024d18bc06f63479dc97cf97f1954d6d5",
+        "FStringFlipTimeStampFastString": "2025-10-31T20:02:34.294Z",
+        "DFStringFlipTimeStampDynamicString": "2025-10-31T20:02:34.294Z"
     }
 }
