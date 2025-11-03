@@ -13029,9 +13029,8 @@
         "DFIntTeamCreateMeansTeamCreateReportHundredths": "10000",
         "DFFlagCreatorConfigAssetProviderUseCdn": "True",
         "DFFlagRbxStorageWalCheckpointAfterCleanup": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "DFFlagHttpClientLocalThrottleMoreStatus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T17:23:23",
-        "FFlagEnableAdsMouseUnlock": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "AxisAdornmentGrabSize": "12",
         "FFlagReportLightTypeTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T17:38:23",
         "AllowVideoPreRoll": "True",
@@ -13043,6 +13042,7 @@
         "DFFlagCreatorConfigProviderAssetFailedFallbackToPoll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T18:13:16",
         "DFFlagControllerManagerFuzzyToleranceDirectionChanges": "True",
         "FFlagFoundationFixUseScaledValueWarning": "True",
+        "DFFlagSunsetFadingSun": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -14871,6 +14871,7 @@
         "FFlagPartyEmulatorBetaFeature": "True",
         "FFlagTrackVertexOrderingInSkinningSubsets": "True",
         "FFlagLuauNonStrictFetchScopeOnce": "True",
+        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -15237,7 +15238,6 @@
         "FFlagMoveInExperienceModeToEditProfile_V2_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
         "FFlagProfilePlatformUseNewLayoutForAssetsCarousel_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
         "FFlagRefactorPeoplePage7_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
-        "DFFlagSunsetFadingSun": "True",
         "FFlagGamePassPrefetchOnJoinEnabled_PlaceFilter": "True;85537329004957;112780263016678;70451556031302;131716211654599;106011698424775;16732694052;105044186406168;72907489978215;99519129453387;17800150007;121864768012064;97005321375460",
         "FFlagWeCanHaveFonts": "True",
         "FFlagAXOverlayShouldNotAutofocusForNonDirectionalInput": "True",
@@ -15327,9 +15327,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "4306965c46449031813f457588de828c8aa18360",
-        "DFStringFlagRepoGitHashDynamicString": "4306965c46449031813f457588de828c8aa18360",
-        "FStringFlipTimeStampFastString": "2025-11-03T18:17:41.070Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T18:17:41.070Z"
+        "FStringFlagRepoGitHashFastString": "a59c3f28c72ebbb2b0153eae5aec73e25db9a86e",
+        "DFStringFlagRepoGitHashDynamicString": "a59c3f28c72ebbb2b0153eae5aec73e25db9a86e",
+        "FStringFlipTimeStampFastString": "2025-11-03T18:22:39.773Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T18:22:39.773Z"
     }
 }
