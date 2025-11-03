@@ -11289,7 +11289,7 @@
         "FFlagRemovePeekViewScrimBorder": "True",
         "FFlagAXDoNotUnrenderQuickMenuRobuxButtons": "True",
         "FFlagDisableCloudsAndroidAndMac": "True",
-        "FFlagPPVEnabledOnConsole": "False",
+        "FFlagPPVEnabledOnConsole": "True",
         "FFlagLargeReplicatorEnabled9": "True",
         "DFFlagZoomToExtentsApi": "True",
         "FFlagIASMousePosition2": "True",
@@ -13061,8 +13061,6 @@
         "FFlagEnableUIManagerPackgify8_IXP": "1;Experience.Menu.VR;Experience.Menu.VR.InExperienceControls.4;838454771;flagbank",
         "FFlagLuaAppIECVREnabled8_IXP": "1;Experience.Menu.VR;Experience.Menu.VR.InExperienceControls.4;838454771;flagbank",
         "FFlagLuauCodegenStorePriority": "True",
-        "FFlagAllowRecursiveSidechain_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T22:15:15",
-        "FFlagPPVEnabledOnConsole_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T22:15:37",
         "FFlagLuaAppSupportCustomSduiFeedStoreKey": "True",
         "FFlagLuaAppUpdateValidateInterfaceLogs": "True",
         "FIntDiscoveryEventErrorDetailsHundredthsPercent": "10000",
@@ -13088,6 +13086,8 @@
         "FFlagFFlagAXRemoveCatalogCategoryIconOnOff3": "True",
         "FFlagPluginGuiPluginProp": "True",
         "FFlagAXFixWidgetInfoCategorySelection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:15:14",
+        "FFlagAllowRecursiveSidechain": "True",
+        "FFlagShowRatingDuringPublish_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:21:25",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15376,9 +15376,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "65b81a855ab817d4bad7509193584270d4141bf2",
-        "DFStringFlagRepoGitHashDynamicString": "65b81a855ab817d4bad7509193584270d4141bf2",
-        "FStringFlipTimeStampFastString": "2025-11-03T23:18:54.778Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T23:18:54.778Z"
+        "FStringFlagRepoGitHashFastString": "b8b5a9e0f090768ba152d1bca4625a12387041f0",
+        "DFStringFlagRepoGitHashDynamicString": "b8b5a9e0f090768ba152d1bca4625a12387041f0",
+        "FStringFlipTimeStampFastString": "2025-11-03T23:27:09.618Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T23:27:09.618Z"
     }
 }
