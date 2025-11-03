@@ -13066,8 +13066,6 @@
         "FIntDiscoveryEventErrorDetailsHundredthsPercent": "10000",
         "FFlagLuaAppSearchPillCarouselNavToTopResults": "True",
         "FFlagEnableScreenSizeImpressionsTrackerDefaultValues": "True",
-        "FFlagUseNewHapticServiceInUA4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T22:21:43",
-        "FFlagSplitHashFixCopy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T22:21:51",
         "FFlagShowFAELoadingModalForWebView": "True",
         "FFlagAppChatEnableFormFactor": "True",
         "FFlagEnableDeepLinkEventReceiverAmpApiProviderFAE": "True",
@@ -13088,6 +13086,8 @@
         "FFlagAXFixWidgetInfoCategorySelection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:15:14",
         "FFlagAllowRecursiveSidechain": "True",
         "FFlagShowRatingDuringPublish_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:21:25",
+        "FFlagUseNewHapticServiceInUA4": "True",
+        "FFlagSplitHashFixCopy": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13579,6 +13579,7 @@
         "FFlagFCRouteSecondaryParts3": "True",
         "DFFlagSimHumanoidSkipWake": "True",
         "FFlagAXEnableUnifiedPurchaseFlowForLooks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T22:25:16",
+        "DFFlagTextChatFireLegacyChattedOnCommands_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1007929816;2025-11-03T23:23:48",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14037,9 +14038,9 @@
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
         "DFIntTriangleMeshPartMigrationTelemetryThrottle": "10000",
         "DFFlagSetDummyInertiaToNAN": "True",
-        "FStringFlagRepoGitHashFastString": "b8b5a9e0f090768ba152d1bca4625a12387041f0",
-        "DFStringFlagRepoGitHashDynamicString": "b8b5a9e0f090768ba152d1bca4625a12387041f0",
-        "FStringFlipTimeStampFastString": "2025-11-03T23:27:09.618Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T23:27:09.618Z"
+        "FStringFlagRepoGitHashFastString": "7556dfba425848659ee85fdbba83ef5ea52fba17",
+        "DFStringFlagRepoGitHashDynamicString": "7556dfba425848659ee85fdbba83ef5ea52fba17",
+        "FStringFlipTimeStampFastString": "2025-11-03T23:30:55.137Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T23:30:55.137Z"
     }
 }
