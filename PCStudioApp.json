@@ -13031,6 +13031,8 @@
         "DFFlagRbxStorageWalCheckpointAfterCleanup": "True",
         "AllowVideoPreRoll": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagFoundationFixUseScaledValueWarning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T17:14:52",
+        "FFlagEnableAdsMouseUnlock": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14862,7 +14864,6 @@
         "FFlagPartyEmulatorBetaFeature": "True",
         "FFlagTrackVertexOrderingInSkinningSubsets": "True",
         "FFlagLuauNonStrictFetchScopeOnce_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T17:05:51",
-        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -15320,9 +15321,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_Staged": "True;SteadyState;10;30;Revert;true;2078364741;2025-11-03T17:06:43",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "1feeb33a2ad323bdcff1d5b1d082dd68756a124f",
-        "DFStringFlagRepoGitHashDynamicString": "1feeb33a2ad323bdcff1d5b1d082dd68756a124f",
-        "FStringFlipTimeStampFastString": "2025-11-03T17:12:25.943Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T17:12:25.943Z"
+        "FStringFlagRepoGitHashFastString": "0df3e44eae0f178367170f2f2b25aad8cafaf1a7",
+        "DFStringFlagRepoGitHashDynamicString": "0df3e44eae0f178367170f2f2b25aad8cafaf1a7",
+        "FStringFlipTimeStampFastString": "2025-11-03T17:17:08.651Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T17:17:08.651Z"
     }
 }
