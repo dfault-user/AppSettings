@@ -13058,10 +13058,6 @@
         "FFlagExpChatConnectInitCommands": "True",
         "FFlagFoundationIconButtonBiggerBuilderIcons": "True",
         "FFlagFoundationPopoverContentStateFix": "True",
-        "FFlagAppChatEnableFormFactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T21:21:33",
-        "FFlagEnableDeepLinkEventReceiverAmpApiProviderFAE_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T21:22:52",
-        "FFlagFixSelfieConsentStyleLinks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1281606292;2025-11-03T21:24:36",
-        "FFlagShowFAELoadingModalForWebView_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T21:25:00",
         "FFlagEnableUIManagerPackgify8_IXP": "1;Experience.Menu.VR;Experience.Menu.VR.InExperienceControls.4;838454771;flagbank",
         "FFlagLuaAppIECVREnabled8_IXP": "1;Experience.Menu.VR;Experience.Menu.VR.InExperienceControls.4;838454771;flagbank",
         "FFlagMobilePlayerListCheckGamepadOnVisible_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T21:39:25",
@@ -13082,6 +13078,12 @@
         "FIntDiscoveryEventErrorDetailsHundredthsPercent": "10000",
         "FFlagLuaAppSearchPillCarouselNavToTopResults": "True",
         "FFlagEnableScreenSizeImpressionsTrackerDefaultValues": "True",
+        "FFlagUseNewHapticServiceInUA4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T22:21:43",
+        "FFlagSplitHashFixCopy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T22:21:51",
+        "FFlagShowFAELoadingModalForWebView": "True",
+        "FFlagAppChatEnableFormFactor": "True",
+        "FFlagEnableDeepLinkEventReceiverAmpApiProviderFAE": "True",
+        "FFlagFixSelfieConsentStyleLinks": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13443,9 +13445,9 @@
         "FFlagAXUnifiedMarketplaceResultsFetcherV3": "True",
         "FFlagAXCatalogRealTimeRecommendationsIXPV2": "True",
         "FFlagSocialCarouselEnableTilesSeenCollection2": "True",
-        "FStringFlagRepoGitHashFastString": "178be6dd10d9b1a8df44dbd7b9aeef34d13d964b",
-        "DFStringFlagRepoGitHashDynamicString": "178be6dd10d9b1a8df44dbd7b9aeef34d13d964b",
-        "FStringFlipTimeStampFastString": "2025-11-03T22:29:41.802Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T22:29:41.802Z"
+        "FStringFlagRepoGitHashFastString": "58f6093160f4ecbe4e4de0837877306911a979eb",
+        "DFStringFlagRepoGitHashDynamicString": "58f6093160f4ecbe4e4de0837877306911a979eb",
+        "FStringFlipTimeStampFastString": "2025-11-03T22:31:15.164Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T22:31:15.164Z"
     }
 }
