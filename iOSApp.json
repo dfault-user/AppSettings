@@ -13029,7 +13029,6 @@
         "DFIntTeamCreateMeansTeamCreateReportHundredths": "10000",
         "DFFlagCreatorConfigAssetProviderUseCdn": "True",
         "DFFlagRbxStorageWalCheckpointAfterCleanup": "True",
-        "FFlagLuauBatchedExecuteTask_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T16:57:55",
         "AllowVideoPreRoll": "True",
         "FFlagFoundationFixUseScaledValueWarning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T17:14:52",
         "DFFlagSunsetFadingSun_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T17:15:52",
@@ -13039,6 +13038,7 @@
         "FFlagReportLightTypeTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T17:38:23",
         "FFlagSessionTrackingUseMovedRelaunch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T17:53:42",
         "AxisAdornmentGrabSize": "12",
+        "FFlagLuauBatchedExecuteTask": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13968,9 +13968,9 @@
         "FFlagEnableRemoveUnregisterForTraitChanges": "True",
         "FFlagCreateUncompressedRbxmForOta2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T17:02:39",
         "FFlagFixFriendStatusImageLabelAccess_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;453421122;2025-11-03T17:53:01",
-        "FStringFlagRepoGitHashFastString": "5c723fcccbfd35c9238852c6a5229e6c50558c5d",
-        "DFStringFlagRepoGitHashDynamicString": "5c723fcccbfd35c9238852c6a5229e6c50558c5d",
-        "FStringFlipTimeStampFastString": "2025-11-03T18:02:02.381Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T18:02:02.381Z"
+        "FStringFlagRepoGitHashFastString": "fcf45a8ce4fafbfdc02734ce37f16575938a57ae",
+        "DFStringFlagRepoGitHashDynamicString": "fcf45a8ce4fafbfdc02734ce37f16575938a57ae",
+        "FStringFlipTimeStampFastString": "2025-11-03T18:02:18.651Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T18:02:18.651Z"
     }
 }
