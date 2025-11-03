@@ -13086,6 +13086,7 @@
         "FIntEnableUnifiedProductPurchaseFlowThrottleHundredthsPercent": "5000",
         "FFlagEnableAudioSpeechToText": "True",
         "AxisAdornmentGrabSize": "12",
+        "DFFlagEarlyReturnOnDeserializeRestrictedInstance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:10:08",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -15348,9 +15349,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "DFIntMemoryUtilityCurveTotalMemoryReserve_Staged": "25000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T22:18:13",
-        "FStringFlagRepoGitHashFastString": "c80e892a5a024ea45c4614068cd4e5e640d89b6c",
-        "DFStringFlagRepoGitHashDynamicString": "c80e892a5a024ea45c4614068cd4e5e640d89b6c",
-        "FStringFlipTimeStampFastString": "2025-11-03T23:15:13.531Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T23:15:13.531Z"
+        "FStringFlagRepoGitHashFastString": "5e7570dd5b05a28dbff61cc28fe0688af454b867",
+        "DFStringFlagRepoGitHashDynamicString": "5e7570dd5b05a28dbff61cc28fe0688af454b867",
+        "FStringFlipTimeStampFastString": "2025-11-03T23:15:35.778Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T23:15:35.778Z"
     }
 }
