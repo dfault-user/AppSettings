@@ -13051,8 +13051,6 @@
         "FFlagSelfieConsentAuditLog": "True",
         "FFlagFoundationOverlayLuaAppInsetsFix": "True",
         "FFlagEnableUnifiedPurchasePromptForEDPGamepass": "True",
-        "DFFlagPath2DFixVisibleChangeRerender_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T20:48:39",
-        "FFlagLuauCodegenStorePriority_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T20:49:14",
         "FFlagCLI165167_RCC": "True",
         "FFlagVoiceLeaveOperationInvestigationMetrics": "True",
         "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesOriginalSdp": "True",
@@ -13076,6 +13074,7 @@
         "FFlagPlayerListHideUnusedStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T21:41:02",
         "FIntBulkPurchaseMaxLineItems_Staged": "30;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T21:47:27",
         "FIntEnableUnifiedProductPurchaseFlowThrottleHundredthsPercent_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T21:49:47",
+        "FFlagLuauCodegenStorePriority": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13438,9 +13437,9 @@
         "FFlagAXUnifiedMarketplaceResultsFetcherV3": "True",
         "FFlagAXCatalogRealTimeRecommendationsIXPV2": "True",
         "FFlagSocialCarouselEnableTilesSeenCollection2": "True",
-        "FStringFlagRepoGitHashFastString": "4f45e32aeee74acc268cf0a3e0d0bb7a19d6f03f",
-        "DFStringFlagRepoGitHashDynamicString": "4f45e32aeee74acc268cf0a3e0d0bb7a19d6f03f",
-        "FStringFlipTimeStampFastString": "2025-11-03T21:52:53.475Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T21:52:53.475Z"
+        "FStringFlagRepoGitHashFastString": "76203f9cd6cfcc72f282f8b09ead5c6c684046e1",
+        "DFStringFlagRepoGitHashDynamicString": "76203f9cd6cfcc72f282f8b09ead5c6c684046e1",
+        "FStringFlipTimeStampFastString": "2025-11-03T21:56:49.535Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T21:56:49.535Z"
     }
 }
