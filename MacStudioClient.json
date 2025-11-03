@@ -13045,7 +13045,6 @@
         "DFFlagTeamCreateMeansTeamCreateAndIReallyMeanIt": "True",
         "FFlagDynamicReportPrettyErrorMessage": "True",
         "DFFlagActionsListenForUISelectionInteractions": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagEnableCorescriptExecutionTime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T20:07:50",
         "FFlagExpChatConnectInitCommands_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;565937652;2025-11-03T20:10:01",
         "FFlagFoundationDialogBackdropColorUpdate": "True",
@@ -13060,6 +13059,7 @@
         "FFlagLuauCodegenStorePriority_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T20:49:14",
         "FFlagCLI165167_RCC": "True",
         "FFlagVoiceLeaveOperationInvestigationMetrics": "True",
+        "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesOriginalSdp": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14891,6 +14891,7 @@
         "FFlagLDP570LuaSupport2": "True",
         "FFlagSocialCarouselEnableTilesSeenCollection2": "True",
         "DFFlagSetDummyInertiaToNAN": "True",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15236,7 +15237,6 @@
         "FFlagAXOverlayShouldNotAutofocusForNonDirectionalInput": "True",
         "DFFlagLetRagdolledHumanoidsSleep_PlaceFilter": "True;102669905873657;95110357124286;74420304866897;112408689884212",
         "DFFlagSimScaleSleepAcceleration_PlaceFilter": "True;102669905873657;95110357124286;74420304866897;112408689884212",
-        "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesOriginalSdp": "True",
         "FFlagVoiceUseModularDeviceManager4": "False",
         "FFlagLuaAppFixInlineSignalsReactPattern": "True",
         "FFlagLuaAppSduiSeeAllLayoutParamsFix": "True",
@@ -15320,9 +15320,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
-        "FStringFlagRepoGitHashFastString": "e096e6b5ed682f59dadb841894d6b711c2b3652c",
-        "DFStringFlagRepoGitHashDynamicString": "e096e6b5ed682f59dadb841894d6b711c2b3652c",
-        "FStringFlipTimeStampFastString": "2025-11-03T21:00:48.702Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T21:00:48.702Z"
+        "FStringFlagRepoGitHashFastString": "e071ea0ff3552c2d778d481b9cce76732e7a1944",
+        "DFStringFlagRepoGitHashDynamicString": "e071ea0ff3552c2d778d481b9cce76732e7a1944",
+        "FStringFlipTimeStampFastString": "2025-11-03T21:07:08.949Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T21:07:08.949Z"
     }
 }
