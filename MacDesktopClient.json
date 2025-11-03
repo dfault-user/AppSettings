@@ -13029,8 +13029,6 @@
         "DFIntTeamCreateMeansTeamCreateReportHundredths": "10000",
         "DFFlagCreatorConfigAssetProviderUseCdn": "True",
         "DFFlagRbxStorageWalCheckpointAfterCleanup": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
-        "FFlagStatsItemRenameLanguage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T17:26:46",
         "FFlagReportLightTypeTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T17:38:23",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "AllowVideoPreRoll": "True",
@@ -13044,6 +13042,10 @@
         "DFFlagSunsetFadingSun": "True",
         "DFFlagTeamCreateMeansTeamCreateAndIReallyMeanIt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T18:25:23",
         "DFFlagHttpClientLocalThrottleMoreStatus": "True",
+        "DFFlagNoCallstackAppendTarget": "True",
+        "FFlagStatsItemRenameLanguage": "True",
+        "FFlagDynamicReportPrettyErrorMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T18:31:26",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13449,7 +13451,6 @@
         "FFlagComponentManagerImproveValidation": "True",
         "FFlagMigrateNoFriendsViewToFoundation": "True",
         "DFFlagDataPingTrace": "True",
-        "DFFlagNoCallstackAppendTarget": "True",
         "FFlagAXCustomizeOverhaulEditorExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;569904381;dev_controlled",
         "FFlagVoiceForceRunOnLeave": "False",
         "FFlagEnableNapIxpLayerExposure_IXP": "1;UserSafety.NotApprovedPage.UserID;UserSafety.NotApprovedPage.UserID.NotApprovedPageRedesignNoVR.2025Q4;1465647331;dev_controlled",
@@ -13983,9 +13984,9 @@
         "FFlagLuaAppUnmountPreviewVideoOnGameJoin": "True",
         "FFlagLuaAppAddEdpVideoBlockingTelemetry": "True",
         "FIntEdpVideoBlockingTelemetryThrottleHundredthsPercent": "10000",
-        "FStringFlagRepoGitHashFastString": "63d1b44446b931a3302878c982837b12975789e3",
-        "DFStringFlagRepoGitHashDynamicString": "63d1b44446b931a3302878c982837b12975789e3",
-        "FStringFlipTimeStampFastString": "2025-11-03T18:29:55.209Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T18:29:55.209Z"
+        "FStringFlagRepoGitHashFastString": "00a388bec73d8e86ab5535944aa516e91bd2f595",
+        "DFStringFlagRepoGitHashDynamicString": "00a388bec73d8e86ab5535944aa516e91bd2f595",
+        "FStringFlipTimeStampFastString": "2025-11-03T18:34:11.929Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T18:34:11.929Z"
     }
 }
