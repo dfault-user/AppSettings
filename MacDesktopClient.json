@@ -13028,7 +13028,6 @@
         "DFIntTeamCreateMeansTeamCreateReportHundredths": "10000",
         "DFFlagCreatorConfigAssetProviderUseCdn": "True",
         "DFFlagRbxStorageWalCheckpointAfterCleanup": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagLuauBatchedExecuteTask": "True",
         "FFlagFoundationLazyOverlayLoading_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1640827242;2025-11-03T18:09:15",
         "FFlagFoundationOverlayProviderFrameTiming_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1640827242;2025-11-03T18:09:15",
@@ -13045,6 +13044,7 @@
         "FFlagReportLightTypeTelemetry": "True",
         "DFFlagActionsListenForUISelectionInteractions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T18:42:23",
         "FFlagSessionTrackingUseMovedRelaunch": "True",
+        "FFlagReportInGameAssetSales": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13533,7 +13533,8 @@
         "FFlagPropertyDescriptorsToArray4": "True",
         "FFlagTrackVertexOrderingInSkinningSubsets": "True",
         "FFlagYieldFunctionDescriptorsToArray3": "True",
-        "FFlagReserveMemDescContSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T17:56:33",
+        "FFlagReserveMemDescContSize": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13588,7 +13589,6 @@
         "FFlagLocServicePerformanceAnalyticsEnabled": "True",
         "FFlagLuaAppConvertUniverseIdToStringV364": "False",
         "FFlagLuaAppGameSearchPlayerSuggestion376": "True",
-        "FFlagReportInGameAssetSales": "True",
         "FFlagTextMeasureTemporaryPatch": "True",
         "FFlagUnlockMouseIfKicked": "True",
         "FFlagUserBetterDynamicTouchstickCamera": "True",
@@ -13984,9 +13984,9 @@
         "FFlagLuaAppUnmountPreviewVideoOnGameJoin": "True",
         "FFlagLuaAppAddEdpVideoBlockingTelemetry": "True",
         "FIntEdpVideoBlockingTelemetryThrottleHundredthsPercent": "10000",
-        "FStringFlagRepoGitHashFastString": "4ac39f5639427455bcbac75c0edd77e879afa8ff",
-        "DFStringFlagRepoGitHashDynamicString": "4ac39f5639427455bcbac75c0edd77e879afa8ff",
-        "FStringFlipTimeStampFastString": "2025-11-03T18:57:51.685Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T18:57:51.685Z"
+        "FStringFlagRepoGitHashFastString": "a5a85ff412db973eb6a55e54bb3a0b6ee23da21e",
+        "DFStringFlagRepoGitHashDynamicString": "a5a85ff412db973eb6a55e54bb3a0b6ee23da21e",
+        "FStringFlipTimeStampFastString": "2025-11-03T19:03:27.735Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T19:03:27.735Z"
     }
 }
