@@ -13029,8 +13029,6 @@
         "DFFlagCreatorConfigAssetProviderUseCdn": "True",
         "DFFlagRbxStorageWalCheckpointAfterCleanup": "True",
         "FFlagLuauBatchedExecuteTask": "True",
-        "FFlagSelfieConsentPrivacyLink_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T18:10:59",
-        "DFFlagCreatorConfigProviderAssetFailedFallbackToPoll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T18:13:16",
         "DFFlagControllerManagerFuzzyToleranceDirectionChanges": "True",
         "FFlagFoundationFixUseScaledValueWarning": "True",
         "DFFlagSunsetFadingSun": "True",
@@ -13047,6 +13045,8 @@
         "FFlagFoundationLazyOverlayLoading": "True",
         "FFlagFoundationOverlayProviderFrameTiming": "True",
         "FFlagFoundationDialogUpdateZIndex_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1560882211;2025-11-03T19:11:42",
+        "FFlagSelfieConsentPrivacyLink": "True",
+        "DFFlagCreatorConfigProviderAssetFailedFallbackToPoll": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13537,6 +13537,7 @@
         "FFlagYieldFunctionDescriptorsToArray3": "True",
         "FFlagReserveMemDescContSize": "True",
         "FFlagUnifiedPurchaseModalUiImprovements_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T19:03:58",
+        "FFlagSelfieConsentPrivacyLinkAndroid_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T19:15:33",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13994,9 +13995,9 @@
         "DFIntMigrateTriangleMeshPartTestScale_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1579969648;2025-11-03T19:06:27",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "100000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1579969648;2025-11-03T19:06:27",
         "DFIntTriangleMeshPartMigrationTelemetryThrottle_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1579969648;2025-11-03T19:06:27",
-        "FStringFlagRepoGitHashFastString": "6434f3509368cdda1e919e8d4a4806155d3be221",
-        "DFStringFlagRepoGitHashDynamicString": "6434f3509368cdda1e919e8d4a4806155d3be221",
-        "FStringFlipTimeStampFastString": "2025-11-03T19:14:17.148Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T19:14:17.148Z"
+        "FStringFlagRepoGitHashFastString": "2f0bff24193cf713bc4ab7f4ef4d3a42f2f1d377",
+        "DFStringFlagRepoGitHashDynamicString": "2f0bff24193cf713bc4ab7f4ef4d3a42f2f1d377",
+        "FStringFlipTimeStampFastString": "2025-11-03T19:20:44.363Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T19:20:44.363Z"
     }
 }

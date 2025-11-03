@@ -13029,8 +13029,6 @@
         "DFFlagCreatorConfigAssetProviderUseCdn": "True",
         "DFFlagRbxStorageWalCheckpointAfterCleanup": "True",
         "FFlagLuauBatchedExecuteTask": "True",
-        "AllowVideoPreRoll": "True",
-        "DFFlagCreatorConfigProviderAssetFailedFallbackToPoll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T18:13:16",
         "DFFlagControllerManagerFuzzyToleranceDirectionChanges": "True",
         "FFlagFoundationFixUseScaledValueWarning": "True",
         "DFFlagSunsetFadingSun": "True",
@@ -13047,6 +13045,9 @@
         "FFlagFoundationLazyOverlayLoading": "True",
         "FFlagFoundationOverlayProviderFrameTiming": "True",
         "FFlagFoundationDialogUpdateZIndex_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1560882211;2025-11-03T19:11:42",
+        "FFlagSelfieConsentPrivacyLink": "True",
+        "DFFlagCreatorConfigProviderAssetFailedFallbackToPoll": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13946,7 +13947,6 @@
         "FFlagEnableAEGIS1AppChatBanner4": "True",
         "FFlagAEGISPhase1UseFAECopyV3": "True",
         "FFlagFixUIRayGoingThruExistingVerts4": "True",
-        "FFlagSelfieConsentPrivacyLink": "True",
         "FFlagMaxSizeUseCorrectPadding": "True",
         "FFlagCapturesDragAffordanceRemovalEnabled": "false",
         "FFlagLuaAppUnmountPreviewVideoOnAppBackground": "True",
@@ -13976,9 +13976,10 @@
         "FFlagCreateUncompressedRbxmForOta2": "True",
         "FFlagFixFriendStatusImageLabelAccess": "True",
         "FFlagUnifiedPurchaseModalUiImprovements_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T19:03:58",
-        "FStringFlagRepoGitHashFastString": "6434f3509368cdda1e919e8d4a4806155d3be221",
-        "DFStringFlagRepoGitHashDynamicString": "6434f3509368cdda1e919e8d4a4806155d3be221",
-        "FStringFlipTimeStampFastString": "2025-11-03T19:14:17.148Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T19:14:17.148Z"
+        "FFlagSelfieConsentPrivacyLinkAndroid_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T19:15:33",
+        "FStringFlagRepoGitHashFastString": "2f0bff24193cf713bc4ab7f4ef4d3a42f2f1d377",
+        "DFStringFlagRepoGitHashDynamicString": "2f0bff24193cf713bc4ab7f4ef4d3a42f2f1d377",
+        "FStringFlipTimeStampFastString": "2025-11-03T19:20:44.363Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T19:20:44.363Z"
     }
 }
