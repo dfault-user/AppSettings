@@ -13045,8 +13045,6 @@
         "DFFlagTeamCreateMeansTeamCreateAndIReallyMeanIt": "True",
         "FFlagDynamicReportPrettyErrorMessage": "True",
         "DFFlagActionsListenForUISelectionInteractions": "True",
-        "FFlagCLI165167_RCC_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T19:51:48",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableCorescriptExecutionTime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T20:07:50",
         "FFlagExpChatConnectInitCommands_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;565937652;2025-11-03T20:10:01",
@@ -13060,6 +13058,9 @@
         "FFlagEnableUnifiedPurchasePromptForEDPGamepass": "True",
         "DFFlagPath2DFixVisibleChangeRerender_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T20:48:39",
         "FFlagLuauCodegenStorePriority_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T20:49:14",
+        "FFlagCLI165167_RCC": "True",
+        "FFlagVoiceLeaveOperationInvestigationMetrics": "True",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13336,7 +13337,6 @@
         "FFlagAXSlotBasedEditorPrimaryEntryPoint2": "True",
         "FFlagAXTransitionMenuV2_2": "True",
         "FFlagFFlagAXEnableFullSceneInteractionFrame3": "True",
-        "FFlagVoiceLeaveOperationInvestigationMetrics": "True",
         "FFlagAXCharacterToAvatarStrings": "True",
         "FFlagAXColorGradientRenderFlatWithJustOneColor": "True",
         "FFlagAXPickStateInsteadOfOmit": "True",
@@ -14061,9 +14061,9 @@
         "DFIntMigrateTriangleMeshPartTestScale": "1",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
         "DFIntTriangleMeshPartMigrationTelemetryThrottle": "10000",
-        "FStringFlagRepoGitHashFastString": "049af55f7d403488ee2efc58a52bd146acbac6fe",
-        "DFStringFlagRepoGitHashDynamicString": "049af55f7d403488ee2efc58a52bd146acbac6fe",
-        "FStringFlipTimeStampFastString": "2025-11-03T20:57:29.189Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T20:57:29.189Z"
+        "FStringFlagRepoGitHashFastString": "af78396dff0f6d7ac3d430f110086e4097ac2d0b",
+        "DFStringFlagRepoGitHashDynamicString": "af78396dff0f6d7ac3d430f110086e4097ac2d0b",
+        "FStringFlipTimeStampFastString": "2025-11-03T20:57:51.631Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-03T20:57:51.631Z"
     }
 }
