@@ -13114,6 +13114,8 @@
         "FFlagAXSafeMinMaxPrice_Staged": "True;SteadyState;10;30;Revert;2025-11-04T17:48:09",
         "FFlagFixConsoleReportModalCutoff_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:52:39",
         "FFlagCliWorkspaceAwareness_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:53:48",
+        "FFlagLuauBuiltinTypeFunctionsArentGlobal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:54:36",
+        "FFlagLuauForInRangesConsiderInLocation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:55:09",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
@@ -14053,9 +14055,9 @@
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
         "DFIntTriangleMeshPartMigrationTelemetryThrottle": "10000",
         "DFFlagSetDummyInertiaToNAN": "True",
-        "FStringFlagRepoGitHashFastString": "eaacd63b9df258729d8e538ec053d2c181dc35a6",
-        "DFStringFlagRepoGitHashDynamicString": "eaacd63b9df258729d8e538ec053d2c181dc35a6",
-        "FStringFlipTimeStampFastString": "2025-11-04T17:55:21.302Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T17:55:21.302Z"
+        "FStringFlagRepoGitHashFastString": "9701bf24062d0b5bb4c15764dba35e47c3913c65",
+        "DFStringFlagRepoGitHashDynamicString": "9701bf24062d0b5bb4c15764dba35e47c3913c65",
+        "FStringFlipTimeStampFastString": "2025-11-04T17:56:47.259Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T17:56:47.259Z"
     }
 }
