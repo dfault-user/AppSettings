@@ -13076,7 +13076,6 @@
         "FIntBulkPurchaseMaxLineItems": "30",
         "FIntEnableUnifiedProductPurchaseFlowThrottleHundredthsPercent": "5000",
         "FFlagEnableAudioSpeechToText": "True",
-        "AxisAdornmentGrabSize": "12",
         "DFFlagEarlyReturnOnDeserializeRestrictedInstance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:10:08",
         "FFlagAXCategoryPillScrollToStart": "True",
         "FFlagAXFunctionalArrowFrame": "True",
@@ -13093,6 +13092,8 @@
         "FFlagToggleVerbActionContexts": "True",
         "FFlagAXCatalogDefaultCategoryConst_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:52:40",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagModifyEmitPlacePublish": "True",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14881,7 +14882,6 @@
         "FFlagLuauPushTypeConstraintSingleton": "True",
         "FFlagUGCValidationEnableFolderStructure2": "True",
         "FFlagStudioShutdownCoordinator2": "True",
-        "FFlagModifyEmitPlacePublish": "True",
         "FFlagRemoveActionsFromRobloxMainWindowD": "True",
         "FFlagFetchFullVersionHistory": "True",
         "FIntFavoritesCommandSizeLimit": "100000",
@@ -15381,9 +15381,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "b37099368c8a2e10fd03818150bb100d3c83dd10",
-        "DFStringFlagRepoGitHashDynamicString": "b37099368c8a2e10fd03818150bb100d3c83dd10",
-        "FStringFlipTimeStampFastString": "2025-11-04T00:08:25.382Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T00:08:25.382Z"
+        "FStringFlagRepoGitHashFastString": "5a92f9ade89e0d5577226c67324d3c47e37ab029",
+        "DFStringFlagRepoGitHashDynamicString": "5a92f9ade89e0d5577226c67324d3c47e37ab029",
+        "FStringFlipTimeStampFastString": "2025-11-04T00:13:13.211Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T00:13:13.211Z"
     }
 }
