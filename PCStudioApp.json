@@ -13093,10 +13093,6 @@
         "FFlagAXCatalogDefaultCategoryConst": "True",
         "FFlagSelfieConsentPrivacyLinkAndroid": "True",
         "FFlagTargetPartLayerPartMeshContent": "True",
-        "FFlagFixConsoleReportModalCutoff_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:52:39",
-        "FFlagCliWorkspaceAwareness_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:53:48",
-        "FFlagLuauBuiltinTypeFunctionsArentGlobal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:54:36",
-        "FFlagLuauForInRangesConsiderInLocation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:55:09",
         "CaptureCountersIntervalInMinutes": "5",
         "FFlagUIBloxAddTestIdToActionBar_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:56:04",
         "DFFlagEnableRemoteProfiling": "True",
@@ -13135,6 +13131,11 @@
         "FIntEdpVideoBlockingTelemetryThrottleHundredthsPercent": "10000",
         "FFlagAudioDiscoveryMigrateToActions": "True",
         "DFFlagEnforceInstanceIdForPromptCollectiblesPurchase": "False",
+        "FFlagAndroidCheckTouchScreen_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T18:55:26",
+        "FFlagFixConsoleReportModalCutoff": "True",
+        "FFlagCliWorkspaceAwareness": "True",
+        "FFlagLuauBuiltinTypeFunctionsArentGlobal": "True",
+        "FFlagLuauForInRangesConsiderInLocation": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
         "DFFlagLockViolationInstanceCrash": "False",
@@ -15412,9 +15413,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "35c4624bce9089ca3035b10497d550bc07ec7a01",
-        "DFStringFlagRepoGitHashDynamicString": "35c4624bce9089ca3035b10497d550bc07ec7a01",
-        "FStringFlipTimeStampFastString": "2025-11-04T18:51:39.266Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T18:51:39.266Z"
+        "FStringFlagRepoGitHashFastString": "f6b36e57fef480aff5b182be372646b5c2df871a",
+        "DFStringFlagRepoGitHashDynamicString": "f6b36e57fef480aff5b182be372646b5c2df871a",
+        "FStringFlipTimeStampFastString": "2025-11-04T18:59:06.315Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T18:59:06.315Z"
     }
 }
