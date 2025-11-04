@@ -13076,7 +13076,6 @@
         "FIntBulkPurchaseMaxLineItems": "30",
         "FIntEnableUnifiedProductPurchaseFlowThrottleHundredthsPercent": "5000",
         "FFlagEnableAudioSpeechToText": "True",
-        "DFFlagEarlyReturnOnDeserializeRestrictedInstance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:10:08",
         "FFlagAXCategoryPillScrollToStart": "True",
         "FFlagAXFunctionalArrowFrame": "True",
         "FFlagFFlagAXRemoveCatalogCategoryIconOnOff3": "True",
@@ -13093,6 +13092,7 @@
         "FFlagAXCatalogDefaultCategoryConst_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:52:40",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagModifyEmitPlacePublish": "True",
+        "DFFlagEarlyReturnOnDeserializeRestrictedInstance": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14041,9 +14041,9 @@
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
         "DFIntTriangleMeshPartMigrationTelemetryThrottle": "10000",
         "DFFlagSetDummyInertiaToNAN": "True",
-        "FStringFlagRepoGitHashFastString": "5a92f9ade89e0d5577226c67324d3c47e37ab029",
-        "DFStringFlagRepoGitHashDynamicString": "5a92f9ade89e0d5577226c67324d3c47e37ab029",
-        "FStringFlipTimeStampFastString": "2025-11-04T00:13:13.211Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T00:13:13.211Z"
+        "FStringFlagRepoGitHashFastString": "3dfd1ebf465ea7de23270f5c3774ef042216c38e",
+        "DFStringFlagRepoGitHashDynamicString": "3dfd1ebf465ea7de23270f5c3774ef042216c38e",
+        "FStringFlipTimeStampFastString": "2025-11-04T00:17:07.196Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T00:17:07.196Z"
     }
 }
