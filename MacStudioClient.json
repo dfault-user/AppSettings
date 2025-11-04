@@ -13073,7 +13073,6 @@
         "FFlagFixPlayerListBlockingModalFocusNav": "True",
         "FFlagMobilePlayerListCheckGamepadOnVisible": "True",
         "FFlagPlayerListHideUnusedStats": "True",
-        "FFlagToggleVerbActionContexts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T22:47:30",
         "FIntBulkPurchaseMaxLineItems": "30",
         "FIntEnableUnifiedProductPurchaseFlowThrottleHundredthsPercent": "5000",
         "FFlagEnableAudioSpeechToText": "True",
@@ -13091,6 +13090,9 @@
         "DFFlagPath2DStillMarkChildrenDirty_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:29:14",
         "AllowVideoPreRoll": "True",
         "FFlagTargetPartLayerPartMeshContent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:43:15",
+        "FFlagToggleVerbActionContexts": "True",
+        "FFlagAXCatalogDefaultCategoryConst_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:52:40",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14919,10 +14921,9 @@
         "FFlagLDP570LuaSupport2": "True",
         "FFlagSocialCarouselEnableTilesSeenCollection2": "True",
         "DFFlagSetDummyInertiaToNAN": "True",
-        "DFFlagOnlyMigrateInNonEditMode_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T22:47:27",
         "FFlagEnablePublishNotification_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-03T23:24:25",
         "DFFlagOnlyMigrateInEditMode": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "DFFlagOnlyMigrateInNonEditMode": "False",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15353,9 +15354,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
-        "FStringFlagRepoGitHashFastString": "08d5776836da993d137a3d20b9dac2715c23056e",
-        "DFStringFlagRepoGitHashDynamicString": "08d5776836da993d137a3d20b9dac2715c23056e",
-        "FStringFlipTimeStampFastString": "2025-11-03T23:55:23.236Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-03T23:55:23.236Z"
+        "FStringFlagRepoGitHashFastString": "dc3b2e6993bb179861908d7049f91097b82f2820",
+        "DFStringFlagRepoGitHashDynamicString": "dc3b2e6993bb179861908d7049f91097b82f2820",
+        "FStringFlipTimeStampFastString": "2025-11-04T00:01:37.533Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T00:01:37.533Z"
     }
 }
