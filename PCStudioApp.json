@@ -13161,8 +13161,6 @@
         "FFlagEnableDataModelChangeTrackingDeps2": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
-        "CaptureQTStudioCountersEnabled": "True",
-        "FFlagResolvePropertySourceConflictWithPseudo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:04:40",
         "FFlagEnableMoreCtrDebuggingTelemetry": "True",
         "FFlagEnableAndroidHybridModuleTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:11:05",
         "FFlagLuaAppAddUniverseIdToGameDetailsEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:11:48",
@@ -13178,6 +13176,9 @@
         "FFlagAXRemoveCatalogTopicBarOnDidFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:45:14",
         "FFlagHomePhoneVerificationUpsellNewCopy": "True",
         "DFIntTriangleMeshPartMigrationTelemetryThrottle_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T22:10:01",
+        "FFlagResolvePropertySourceConflictWithPseudo": "True",
+        "FFlagLuaExplorerFileSync2": "True",
+        "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -13777,7 +13778,6 @@
         "FFlagLanguageServiceCancelCbCheckAsync": "True",
         "FFlagAXEnableRecentlyViewedSearchItemsErrorLogging": "True",
         "FFlagCollab6803SyncPackages": "True",
-        "FFlagLuaExplorerFileSync2": "True",
         "FFlagAXFixLooksTileAnalytics": "True",
         "FFlagDevFrameworkViewTypeSelectorIcons": "True",
         "FFlagEnableModerationController5": "True",
@@ -15448,9 +15448,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "04a521b598ace86a2c1e2293c7c504a61e127890",
-        "DFStringFlagRepoGitHashDynamicString": "04a521b598ace86a2c1e2293c7c504a61e127890",
-        "FStringFlipTimeStampFastString": "2025-11-04T22:29:29.031Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T22:29:29.031Z"
+        "FStringFlagRepoGitHashFastString": "5680118452e92873c3310a67d028af8357bbebdf",
+        "DFStringFlagRepoGitHashDynamicString": "5680118452e92873c3310a67d028af8357bbebdf",
+        "FStringFlipTimeStampFastString": "2025-11-04T22:37:01.455Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T22:37:01.455Z"
     }
 }
