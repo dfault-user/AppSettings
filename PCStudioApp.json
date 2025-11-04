@@ -13162,7 +13162,6 @@
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "FFlagEnableMoreCtrDebuggingTelemetry": "True",
-        "FFlagEnableAndroidHybridModuleTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:11:05",
         "FFlagLuaAppAddUniverseIdToGameDetailsEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:11:48",
         "FFlagPTFControllerLayoutAdjustment_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;608266280;2025-11-04T21:16:06",
         "FFlagPTFControllerLayoutSupport": "True",
@@ -13179,6 +13178,7 @@
         "FFlagResolvePropertySourceConflictWithPseudo": "True",
         "FFlagLuaExplorerFileSync2": "True",
         "DFIntOpenCloudHttpRequestSuccessEventThrottleHundredthPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T22:16:41",
+        "FFlagEnableAndroidHybridModuleTelemetry": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -15451,9 +15451,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "74c2a96854d80d10b610ad5e760e71aa8f31f300",
-        "DFStringFlagRepoGitHashDynamicString": "74c2a96854d80d10b610ad5e760e71aa8f31f300",
-        "FStringFlipTimeStampFastString": "2025-11-04T23:13:22.816Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T23:13:22.816Z"
+        "FStringFlagRepoGitHashFastString": "6b4e38e8e1c6928044e2e827e643f647ff297eb8",
+        "DFStringFlagRepoGitHashDynamicString": "6b4e38e8e1c6928044e2e827e643f647ff297eb8",
+        "FStringFlipTimeStampFastString": "2025-11-04T23:30:30.600Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T23:30:30.600Z"
     }
 }
