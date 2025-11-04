@@ -13093,7 +13093,6 @@
         "FFlagAXCatalogDefaultCategoryConst": "True",
         "FFlagSelfieConsentPrivacyLinkAndroid": "True",
         "FFlagTargetPartLayerPartMeshContent": "True",
-        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagLuaAppRemoveEDPLoadingState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:17:44",
@@ -13109,7 +13108,7 @@
         "AxisAdornmentGrabSize": "12",
         "AllowVideoPreRoll": "True",
         "FFlagKtx2LoaderScratchOpt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:39:08",
-        "FFlagEnableAdsMouseUnlock": "True",
+        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagAXSafeMinMaxPrice_Staged": "True;SteadyState;10;30;Revert;2025-11-04T17:48:09",
         "FFlagFixConsoleReportModalCutoff_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:52:39",
         "FFlagCliWorkspaceAwareness_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T17:53:48",
@@ -13126,6 +13125,8 @@
         "DFLogBootcampCLI173012Log_Staged": "Verbose;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T18:04:52",
         "FFlagEnableOnlyAllowAdClicksAfterImpression2": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
+        "FFlagTrackVertexOrderingInSkinningSubsets": "True",
+        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
@@ -13603,7 +13604,6 @@
         "FFlagAXWidgetImpressionThemeId": "True",
         "FFlagFCReportBuiltStatsWithLCParts": "True",
         "FFlagPropertyDescriptorsToArray4": "True",
-        "FFlagTrackVertexOrderingInSkinningSubsets": "True",
         "FFlagYieldFunctionDescriptorsToArray3": "True",
         "FFlagReserveMemDescContSize": "True",
         "FFlagUnifiedPurchaseModalUiImprovements": "True",
@@ -14064,9 +14064,9 @@
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
         "DFIntTriangleMeshPartMigrationTelemetryThrottle": "10000",
         "DFFlagSetDummyInertiaToNAN": "True",
-        "FStringFlagRepoGitHashFastString": "102595a32365b013731912a2a7d8a15e07afe3ae",
-        "DFStringFlagRepoGitHashDynamicString": "102595a32365b013731912a2a7d8a15e07afe3ae",
-        "FStringFlipTimeStampFastString": "2025-11-04T18:10:37.550Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T18:10:37.550Z"
+        "FStringFlagRepoGitHashFastString": "a09a2007ff3e8d1dd798746b95c483be8b322669",
+        "DFStringFlagRepoGitHashDynamicString": "a09a2007ff3e8d1dd798746b95c483be8b322669",
+        "FStringFlipTimeStampFastString": "2025-11-04T18:12:32.889Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T18:12:32.889Z"
     }
 }
