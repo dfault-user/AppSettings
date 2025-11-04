@@ -14138,9 +14138,13 @@
         "DFIntTriangleMeshPartMigrationTelemetryThrottle": "10000",
         "DFFlagSetDummyInertiaToNAN": "True",
         "DFIntNetStackDummyClientMaxConnectionAttempts_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:06:50",
-        "FStringFlagRepoGitHashFastString": "d9daa6e72beca7bfced82c078a3a43b5ca010528",
-        "DFStringFlagRepoGitHashDynamicString": "d9daa6e72beca7bfced82c078a3a43b5ca010528",
-        "FStringFlipTimeStampFastString": "2025-11-04T19:31:40.833Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T19:31:40.833Z"
+        "DFFlagEnableNetStackEphemeralEarlyPubKeyPlayerClientLoading_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;725626447;2025-11-04T19:31:22",
+        "DFIntNetStackDummyClientConnectResultPointsThrottleHP_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;725626447;2025-11-04T19:31:22",
+        "DFIntNetStackDummyClientPingStatsThrottleHP_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;725626447;2025-11-04T19:31:22",
+        "DFFlagNetStackDummyClientEnablePingTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;725626447;2025-11-04T19:31:22",
+        "FStringFlagRepoGitHashFastString": "10a57fd671d2bd82f076bb4b42fadfa8ad4312c1",
+        "DFStringFlagRepoGitHashDynamicString": "10a57fd671d2bd82f076bb4b42fadfa8ad4312c1",
+        "FStringFlipTimeStampFastString": "2025-11-04T19:32:55.813Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T19:32:55.813Z"
     }
 }
