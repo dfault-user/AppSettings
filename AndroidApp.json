@@ -11289,7 +11289,7 @@
         "FFlagRemovePeekViewScrimBorder": "True",
         "FFlagAXDoNotUnrenderQuickMenuRobuxButtons": "True",
         "FFlagDisableCloudsAndroidAndMac": "True",
-        "FFlagPPVEnabledOnConsole": "True",
+        "FFlagPPVEnabledOnConsole": "False",
         "FFlagLargeReplicatorEnabled9": "True",
         "DFFlagZoomToExtentsApi": "True",
         "FFlagIASMousePosition2": "True",
@@ -13129,9 +13129,6 @@
         "FFlagEnableRefactorAdServiceLogic": "True",
         "FFlagAXSafeMinMaxPrice": "True",
         "FFlagAppChatHideMoreButtonFAE": "True",
-        "FFlagPPVEnabledOnConsole_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T20:38:16",
-        "FFlagAddNumCloudTableEntriesLocalizedInLocale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:44:17",
-        "DFFlagSimRemoveDuplicateUpdateJointCall_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:45:40",
         "DFFlagHttpUrlStats": "True",
         "DFFlagEnableFeatureRestrictionManagerEvents2": "True",
         "DFFlagEnableUpdateClientFeatureTimeoutListener3": "True",
@@ -13162,6 +13159,8 @@
         "FFlagDeroduxVRMenuIcon": "True",
         "DFFlagEnforceValidUuidForPromptCollectiblesPurchase": "True",
         "FFlagHomePhoneVerificationUpsellNewCopy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T20:46:17",
+        "FFlagAddNumCloudTableEntriesLocalizedInLocale": "True",
+        "DFFlagSimRemoveDuplicateUpdateJointCall": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14105,9 +14104,10 @@
         "FFlagAXEnableUnifiedPurchaseFlowForLooks": "True",
         "FFlagUseResumedActivityCount": "True",
         "FFlagStartRbxStorageInitRighAfterFlags": "True",
-        "FStringFlagRepoGitHashFastString": "bcbd4e7ef3ce03cae6c026c8e36a0f43c3bac510",
-        "DFStringFlagRepoGitHashDynamicString": "bcbd4e7ef3ce03cae6c026c8e36a0f43c3bac510",
-        "FStringFlipTimeStampFastString": "2025-11-04T20:51:36.321Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T20:51:36.321Z"
+        "FFlagPPVEnabledOnConsole_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T20:38:16",
+        "FStringFlagRepoGitHashFastString": "0647ec4785419453b2169c3384571f4e322e9b4b",
+        "DFStringFlagRepoGitHashDynamicString": "0647ec4785419453b2169c3384571f4e322e9b4b",
+        "FStringFlipTimeStampFastString": "2025-11-04T20:52:39.908Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T20:52:39.908Z"
     }
 }
