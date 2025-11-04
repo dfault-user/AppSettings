@@ -13126,11 +13126,6 @@
         "DFFlagNetStackDummyClientEnablePingTelemetry": "True",
         "DFLogBootcampCLI173012Log": "Verbose",
         "DFFlagCapsReparentBetterMessage": "True",
-        "FFlagLuaAppEnableConsolidatedGameRefundPolicy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:22:07",
-        "FFlagAXCatalogRealTimeRecommendationsIXPV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1774112811;2025-11-04T19:25:02",
-        "FFlagAXMarketplaceResultsFetcherCategoryInfoFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1774112811;2025-11-04T19:25:02",
-        "FFlagAXResetFetchMarketplaceLogicV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1774112811;2025-11-04T19:25:02",
-        "FFlagAXUnifiedMarketplaceResultsFetcherV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1774112811;2025-11-04T19:25:02",
         "FStringPartyEmulatorBetaFeatureUrl_Staged": "https://devforum.roblox.com/t/beta-studio-party-simulator-play-test-your-party-based-logic;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:27:20",
         "DFFlagEnforceValidUuidForPromptCollectiblesPurchase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1018477481;2025-11-04T19:32:04",
         "DFFlagSQLiteImprovedSizeBytes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:33:58",
@@ -13161,6 +13156,11 @@
         "FFlagAcousticSimulationApproximateTerrainRaycasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T20:15:39",
         "FFlagRbxStorageRunInitInStdThreadLatch": "True",
         "FFlagLCRemoveDMDependencies": "True",
+        "FFlagLuaAppEnableConsolidatedGameRefundPolicy": "True",
+        "FFlagAXCatalogRealTimeRecommendationsIXPV2": "True",
+        "FFlagAXMarketplaceResultsFetcherCategoryInfoFix": "True",
+        "FFlagAXResetFetchMarketplaceLogicV2": "True",
+        "FFlagAXUnifiedMarketplaceResultsFetcherV3": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14104,9 +14104,9 @@
         "FFlagAXEnableUnifiedPurchaseFlowForLooks": "True",
         "FFlagStartRbxStorageInitRighAfterFlags_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:30:04",
         "FFlagUseResumedActivityCount": "True",
-        "FStringFlagRepoGitHashFastString": "525bb0874d1a0e9433e2c9b7cf7a72912e503bb3",
-        "DFStringFlagRepoGitHashDynamicString": "525bb0874d1a0e9433e2c9b7cf7a72912e503bb3",
-        "FStringFlipTimeStampFastString": "2025-11-04T20:24:04.132Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T20:24:04.132Z"
+        "FStringFlagRepoGitHashFastString": "d6adfbcd170cdd6e324a85514db4b52414c73582",
+        "DFStringFlagRepoGitHashDynamicString": "d6adfbcd170cdd6e324a85514db4b52414c73582",
+        "FStringFlipTimeStampFastString": "2025-11-04T20:27:33.391Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T20:27:33.391Z"
     }
 }
