@@ -13170,6 +13170,9 @@
         "FFlagEnableMoreCtrDebuggingTelemetry": "True",
         "FFlagEnableAndroidHybridModuleTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:11:05",
         "FFlagLuaAppAddUniverseIdToGameDetailsEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:11:48",
+        "FFlagPTFControllerLayoutAdjustment_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;608266280;2025-11-04T21:16:06",
+        "FFlagPTFControllerLayoutSupport": "True",
+        "FFlagPTFKeyboardReceiveKeyEvents": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -15440,9 +15443,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "b1c9ae3b0b350bd6c3249d11ab9bd053235a50ff",
-        "DFStringFlagRepoGitHashDynamicString": "b1c9ae3b0b350bd6c3249d11ab9bd053235a50ff",
-        "FStringFlipTimeStampFastString": "2025-11-04T21:17:02.832Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T21:17:02.832Z"
+        "FStringFlagRepoGitHashFastString": "bf278350c5a1c4d44119680b3fffbd01c72fb714",
+        "DFStringFlagRepoGitHashDynamicString": "bf278350c5a1c4d44119680b3fffbd01c72fb714",
+        "FStringFlipTimeStampFastString": "2025-11-04T21:19:04.447Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T21:19:04.447Z"
     }
 }
