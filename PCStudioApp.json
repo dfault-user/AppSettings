@@ -13121,8 +13121,6 @@
         "FFlagLuauInitializeDefaultGenericParamsAtProgramPoint": "True",
         "FFlagLuauNumericUnaryOpsDontProduceNegationRefinements": "True",
         "FFlagLuauUnreducedTypeFunctionsDontTriggerWarnings": "True",
-        "FFlagLuaAppAddTestIdsForEdpAndGameTile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:01:11",
-        "FFlagLuaAppAddTestIdsForEdpInfoTable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:01:44",
         "FFlagAuthSecExclusions8_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:07:14",
         "FFlagInExperiencePhoneUpsellNewCopy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:08:54",
         "FFlagRbxStorageRunInitInStdThreadLatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:11:29",
@@ -13157,6 +13155,9 @@
         "FFlagFoundationPopoverNegateAlignOffsetOnFlip_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:54:15",
         "FFlagEnableDataModelChangeTrackingDeps2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:58:45",
         "FFlagAndroidCheckTouchScreen": "True",
+        "FFlagLuaAppAddTestIdsForEdpAndGameTile": "True",
+        "FFlagLuaAppAddTestIdsForEdpInfoTable": "True",
+        "FFlagEnableMoreCtrDebuggingTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T20:07:51",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -15432,9 +15433,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "31f447a2d5cff0f887030598233f56ddb407069b",
-        "DFStringFlagRepoGitHashDynamicString": "31f447a2d5cff0f887030598233f56ddb407069b",
-        "FStringFlipTimeStampFastString": "2025-11-04T20:03:49.070Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T20:03:49.070Z"
+        "FStringFlagRepoGitHashFastString": "850fb7a932c25d47e90d717d571fdef851a8ef57",
+        "DFStringFlagRepoGitHashDynamicString": "850fb7a932c25d47e90d717d571fdef851a8ef57",
+        "FStringFlipTimeStampFastString": "2025-11-04T20:11:30.917Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T20:11:30.917Z"
     }
 }
