@@ -13126,7 +13126,6 @@
         "DFFlagNetStackDummyClientEnablePingTelemetry": "True",
         "DFLogBootcampCLI173012Log": "Verbose",
         "DFFlagCapsReparentBetterMessage": "True",
-        "FFlagLCRemoveDMDependencies_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:18:25",
         "FFlagLuaAppEnableConsolidatedGameRefundPolicy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:22:07",
         "AxisAdornmentGrabSize": "12",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -13161,6 +13160,7 @@
         "FFlagInteractionGroupConsolidateLoops_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T20:15:14",
         "FFlagAcousticSimulationApproximateTerrainRaycasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T20:15:39",
         "FFlagRbxStorageRunInitInStdThreadLatch": "True",
+        "FFlagLCRemoveDMDependencies": "True",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
@@ -13518,9 +13518,9 @@
         "FFlagAXUnifiedMarketplaceResultsFetcherV3": "True",
         "FFlagAXCatalogRealTimeRecommendationsIXPV2": "True",
         "FFlagPPVEnabledOnConsole_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:41:19",
-        "FStringFlagRepoGitHashFastString": "d226a1f0ebe77e5c7356140245d710107ed2b23a",
-        "DFStringFlagRepoGitHashDynamicString": "d226a1f0ebe77e5c7356140245d710107ed2b23a",
-        "FStringFlipTimeStampFastString": "2025-11-04T20:18:28.612Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T20:18:28.612Z"
+        "FStringFlagRepoGitHashFastString": "525bb0874d1a0e9433e2c9b7cf7a72912e503bb3",
+        "DFStringFlagRepoGitHashDynamicString": "525bb0874d1a0e9433e2c9b7cf7a72912e503bb3",
+        "FStringFlipTimeStampFastString": "2025-11-04T20:24:04.132Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T20:24:04.132Z"
     }
 }
