@@ -13121,7 +13121,6 @@
         "FFlagLuauInitializeDefaultGenericParamsAtProgramPoint": "True",
         "FFlagLuauNumericUnaryOpsDontProduceNegationRefinements": "True",
         "FFlagLuauUnreducedTypeFunctionsDontTriggerWarnings": "True",
-        "FFlagRbxStorageRunInitInStdThreadLatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T19:11:29",
         "FFlagNoStrokeOutlineEmojiGlyph": "True",
         "DFFlagSimCSG4UseOperationGraphEvaluate23": "True",
         "DFFlagNetStackDummyClientEnablePingTelemetry": "True",
@@ -13161,6 +13160,7 @@
         "DFFlagParallelForViaForEach_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T20:14:09",
         "FFlagInteractionGroupConsolidateLoops_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T20:15:14",
         "FFlagAcousticSimulationApproximateTerrainRaycasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T20:15:39",
+        "FFlagRbxStorageRunInitInStdThreadLatch": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -15408,9 +15408,10 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
-        "FStringFlagRepoGitHashFastString": "e683afce235f5c30bfae6d9da10fbaaba1fd1b86",
-        "DFStringFlagRepoGitHashDynamicString": "e683afce235f5c30bfae6d9da10fbaaba1fd1b86",
-        "FStringFlipTimeStampFastString": "2025-11-04T20:17:50.367Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-04T20:17:50.367Z"
+        "FStringPerformanceControlIncludedTunables_Staged": "Texture quality, Streaming Distance, Sound Cache;SteadyState;10;30;Revert;2025-11-04T20:16:02",
+        "FStringFlagRepoGitHashFastString": "d226a1f0ebe77e5c7356140245d710107ed2b23a",
+        "DFStringFlagRepoGitHashDynamicString": "d226a1f0ebe77e5c7356140245d710107ed2b23a",
+        "FStringFlipTimeStampFastString": "2025-11-04T20:18:28.612Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-04T20:18:28.612Z"
     }
 }
