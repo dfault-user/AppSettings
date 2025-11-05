@@ -13181,7 +13181,6 @@
         "FFlagSimRuntimeContentLean2": "True",
         "DFFlagOnlyMigrateInNonEditMode": "False",
         "DFFlagTriangleMeshPartMigrationTelemetry": "True",
-        "FFlagShadowMapTextureUvOffset_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:07:44",
         "DFIntRenderTextureMaxRetries_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:14:06",
         "FFlagProfilePlatformStandardSecondaryButtonStylingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:17:58",
         "FFlagFFlagFixDetailsPageIconShadowSlicing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:21:20",
@@ -13201,6 +13200,7 @@
         "DFFlagCrashOnMigrateWithoutWriteLock": "True",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
         "FFlagReportTextureStreamingTelemetry5": "True",
+        "FFlagShadowMapTextureUvOffset": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15440,9 +15440,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
-        "FStringFlagRepoGitHashFastString": "6e1ffd651ea6f432af5cb23c202d9419b878023c",
-        "DFStringFlagRepoGitHashDynamicString": "6e1ffd651ea6f432af5cb23c202d9419b878023c",
-        "FStringFlipTimeStampFastString": "2025-11-05T18:09:06.668Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:09:06.668Z"
+        "FStringFlagRepoGitHashFastString": "5ba787c7c0b020a9c8691b7f5029878b95044678",
+        "DFStringFlagRepoGitHashDynamicString": "5ba787c7c0b020a9c8691b7f5029878b95044678",
+        "FStringFlipTimeStampFastString": "2025-11-05T18:13:07.875Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:13:07.875Z"
     }
 }
