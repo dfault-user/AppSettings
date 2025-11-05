@@ -13179,6 +13179,8 @@
         "FFlagEnableAndroidHybridModuleTelemetry": "True",
         "AllowVideoPreRoll": "True",
         "DFFlagRbxStorageReportSysMem": "True",
+        "CaptureQTStudioCountersEnabled": "True",
+        "CaptureCountersIntervalInMinutes": "5",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13658,8 +13660,6 @@
         "FFlagYieldFunctionDescriptorsToArray3": "True",
         "FFlagUnifiedPurchaseModalUiImprovements": "True",
         "FFlagAXEnableUnifiedPurchaseFlowForLooks": "True",
-        "CaptureCountersIntervalInMinutes": "5",
-        "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -14110,9 +14110,9 @@
         "DFIntTriangleMeshPartMigrationTelemetryThrottle": "10000",
         "DFFlagSetDummyInertiaToNAN": "True",
         "DFIntNetStackDummyClientMaxConnectionAttempts": "10000",
-        "FStringFlagRepoGitHashFastString": "1bee57d4f71d9c8079e876d21f082e8ff32aaad3",
-        "DFStringFlagRepoGitHashDynamicString": "1bee57d4f71d9c8079e876d21f082e8ff32aaad3",
-        "FStringFlipTimeStampFastString": "2025-11-05T01:09:37.721Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T01:09:37.721Z"
+        "FStringFlagRepoGitHashFastString": "e6a73613633be5dd999c392f88b4de40a0668205",
+        "DFStringFlagRepoGitHashDynamicString": "e6a73613633be5dd999c392f88b4de40a0668205",
+        "FStringFlipTimeStampFastString": "2025-11-05T01:11:29.170Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T01:11:29.170Z"
     }
 }
