@@ -13705,6 +13705,9 @@
         "DFFlagHlsCheckInitSegReady_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:42:14",
         "FFlagLuaAppFixExplicitFeedbackTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:48:10",
         "FFlagMicroprofilerThreadSizeV1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:53:40",
+        "DFFlagVideoHandlePtsDiscontinuity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:56:13",
+        "FFlagHlsParseInSeek_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:56:23",
+        "FFlagHlsPlaylistNoCacheByDefault_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:57:04",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14161,9 +14164,9 @@
         "FIntAPNumCompressionFibers_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:45:42",
         "DFIntAPMinBytesToMMapUncompressedAssetRegular_Staged": "10485760;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:46:04",
         "DFIntAPDecompressChunkSize_Staged": "32768;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:46:25",
-        "FStringFlagRepoGitHashFastString": "a7e9c820f87af53c381cde723bf3f04255dad155",
-        "DFStringFlagRepoGitHashDynamicString": "a7e9c820f87af53c381cde723bf3f04255dad155",
-        "FStringFlipTimeStampFastString": "2025-11-05T22:57:45.340Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T22:57:45.340Z"
+        "FStringFlagRepoGitHashFastString": "7989c91f52ed2265b99290b4ad194b3053ecfe6b",
+        "DFStringFlagRepoGitHashDynamicString": "7989c91f52ed2265b99290b4ad194b3053ecfe6b",
+        "FStringFlipTimeStampFastString": "2025-11-05T23:07:39.275Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T23:07:39.275Z"
     }
 }

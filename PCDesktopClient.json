@@ -13735,6 +13735,8 @@
         "DFFlagHlsCheckInitSegReady_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:42:14",
         "FFlagLuaAppFixExplicitFeedbackTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:48:10",
         "FFlagMicroprofilerThreadSizeV1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:53:40",
+        "DFFlagVideoHandlePtsDiscontinuity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:56:13",
+        "FFlagHlsParseInSeek_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:56:23",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14217,9 +14219,9 @@
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.WindowsMacSharedStringCaching-1762382334;WindowsMacSharedStringCaching;47481494;flagbank",
         "FIntSharedStringCacheThrottleHP_Staged": "50;SteadyState;10;30;Revert;true;47481494;2025-11-05T22:39:45",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.WindowsMacSharedStringCaching-1762382334;WindowsMacSharedStringCaching;47481494;flagbank",
-        "FStringFlagRepoGitHashFastString": "a7e9c820f87af53c381cde723bf3f04255dad155",
-        "DFStringFlagRepoGitHashDynamicString": "a7e9c820f87af53c381cde723bf3f04255dad155",
-        "FStringFlipTimeStampFastString": "2025-11-05T22:57:45.340Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T22:57:45.340Z"
+        "FStringFlagRepoGitHashFastString": "c7d2c1797836894ef1a2ceeb4427a987a6ab0531",
+        "DFStringFlagRepoGitHashDynamicString": "c7d2c1797836894ef1a2ceeb4427a987a6ab0531",
+        "FStringFlipTimeStampFastString": "2025-11-05T23:07:04.943Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T23:07:04.943Z"
     }
 }
