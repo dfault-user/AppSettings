@@ -13228,6 +13228,9 @@
         "DFFlagSimOptimizeBoneUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:30:25",
         "DFIntClientShowRewardedVideoAdResultEventThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:33:11",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagEnableEconomicRestrictionInAvatarExperienceLook_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:48:03",
+        "FFlagDisableLvmsOptimization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:50:59",
+        "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -13728,6 +13731,7 @@
         "FFlagEnableConsoleExpControls684": "True",
         "FFlagFCHighlightOptimization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:31:24",
         "DFFlagHlsCheckInitSegReady_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:42:14",
+        "FFlagLuaAppFixExplicitFeedbackTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:48:10",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14185,7 +14189,6 @@
         "FFlagAXCustomizeOverhaulCatalogExposure2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;1693274933;dev_controlled",
         "FFlagAXAddInventoryItemsListProps_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;150869807;dev_controlled",
         "FFlagAXImproveSlotBasedEditorPerformance_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;193760623;dev_controlled",
-        "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "FFlagAXRootSlotBasedEditorFlag6_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;108964855;dev_controlled",
         "DFFlagAllowIncorrectCofm_PlaceFilter": "True;2788229376;7213786345;83022801532074",
         "FFlagFCRouteSecondaryParts": "False",
@@ -14211,9 +14214,9 @@
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.WindowsMacSharedStringCaching-1762382334;WindowsMacSharedStringCaching;47481494;flagbank",
         "FIntSharedStringCacheThrottleHP_Staged": "50;SteadyState;10;30;Revert;true;47481494;2025-11-05T22:39:45",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.WindowsMacSharedStringCaching-1762382334;WindowsMacSharedStringCaching;47481494;flagbank",
-        "FStringFlagRepoGitHashFastString": "95faefdc026417ae6d6d76c08c7e2ac8cfbb0a66",
-        "DFStringFlagRepoGitHashDynamicString": "95faefdc026417ae6d6d76c08c7e2ac8cfbb0a66",
-        "FStringFlipTimeStampFastString": "2025-11-05T22:50:32.574Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T22:50:32.574Z"
+        "FStringFlagRepoGitHashFastString": "b46e8fc559295d434cbcb8fe51a36c51e4ae3ba6",
+        "DFStringFlagRepoGitHashDynamicString": "b46e8fc559295d434cbcb8fe51a36c51e4ae3ba6",
+        "FStringFlipTimeStampFastString": "2025-11-05T22:53:44.418Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T22:53:44.418Z"
     }
 }
