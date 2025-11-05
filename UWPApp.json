@@ -13200,12 +13200,8 @@
         "FFlagPropertyDescriptorsToArray4": "True",
         "AdsCtrDebuggingLoggingThrottleHundredthsPercent": "10000",
         "FFlagSendTelemetryOnWebViewOpenRequest": "True",
-        "FFlagAndroidScreenDensityExceptionInExceptionHandler_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:17:49",
         "FFlagAXEnableInspectAndBuyVersionAnalytics": "True",
         "FFlagVideoCaptureWallTimeTimeout": "True",
-        "FFlagGraphicsTextureCopyFixGL_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:18:47",
-        "FFlagFixWindowsFullscreenSwitchingMonitorBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:19:21",
-        "FFlagFixWindowsWindowStatePersistence_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:19:55",
         "AllowVideoPreRoll": "True",
         "FFlagGameLocaleUseConstant_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:34:24",
         "DFFlagLessDataPingTrace": "True",
@@ -13218,6 +13214,10 @@
         "DFFlagEnableRefactorShowAdResultCounters": "True",
         "FFlagFFlagAXLookDetailsBottomBarRobux": "True",
         "DFFlagAddConnectionErrors": "True",
+        "FFlagAndroidScreenDensityExceptionInExceptionHandler": "True",
+        "FFlagGraphicsTextureCopyFixGL": "True",
+        "FFlagFixWindowsFullscreenSwitchingMonitorBug": "True",
+        "FFlagFixWindowsWindowStatePersistence": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13514,9 +13514,9 @@
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "FFlagRobloxTelemetryEnableSenderCallback": "True",
         "FFlagSimCSGLargeAssetSolidMesh16_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:24:39",
-        "FStringFlagRepoGitHashFastString": "535cc4222457663882512307e41747a6c385f3e4",
-        "DFStringFlagRepoGitHashDynamicString": "535cc4222457663882512307e41747a6c385f3e4",
-        "FStringFlipTimeStampFastString": "2025-11-05T20:19:52.956Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T20:19:52.956Z"
+        "FStringFlagRepoGitHashFastString": "d16595db8c875a5c26e5e4d9e762d3ef75a91e57",
+        "DFStringFlagRepoGitHashDynamicString": "d16595db8c875a5c26e5e4d9e762d3ef75a91e57",
+        "FStringFlipTimeStampFastString": "2025-11-05T20:24:31.047Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T20:24:31.047Z"
     }
 }
