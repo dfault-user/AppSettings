@@ -13181,14 +13181,11 @@
         "FFlagSimRuntimeContentLean2": "True",
         "DFFlagOnlyMigrateInNonEditMode": "True",
         "DFFlagTriangleMeshPartMigrationTelemetry": "True",
-        "FFlagVoiceSendPeerConnectionTransitions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:54:46",
         "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
         "FFlagAXDefaultNewAdaptiveScrollingTransitions_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
         "FFlagAXExpandPeekViewOnFirstScroll1_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
         "FFlagAXExpandPeekViewOnFirstScrollExposureLogging_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
         "FFlagAXHideMenuOnScroll1_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
-        "FFlagProfilePlatformFixAnalyticsPrimaryAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1053698450;2025-11-05T17:56:34",
-        "FFlagPropertyDescriptorsToArray4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:56:57",
         "FFlagSendTelemetryOnWebViewOpenRequest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:01:51",
         "DFFlagCrashOnMigrateWithoutWriteLock": "True",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
@@ -13207,6 +13204,9 @@
         "FFlagStartRbxStorageInitRighAfterFlags_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:49:10",
         "FFlagDelayDspFixInterpolatorTemporalWrap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:56:14",
         "FFlagDelayDspFixHermiteInterpolation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:57:28",
+        "FFlagVoiceSendPeerConnectionTransitions": "True",
+        "FFlagProfilePlatformFixAnalyticsPrimaryAction": "True",
+        "FFlagPropertyDescriptorsToArray4": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13564,9 +13564,9 @@
         "FFlagUseXboxPaymentsProtocolCommonFunctions": "False",
         "DFIntSQLiteBadSizeTelemetryThresholdMB": "90",
         "DFFlagEnableStabilityMilestoneReport2": "True",
-        "FStringFlagRepoGitHashFastString": "f4e8de422660f92a2f90ee2bc809ca25b9f747bb",
-        "DFStringFlagRepoGitHashDynamicString": "f4e8de422660f92a2f90ee2bc809ca25b9f747bb",
-        "FStringFlipTimeStampFastString": "2025-11-05T19:00:35.548Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T19:00:35.548Z"
+        "FStringFlagRepoGitHashFastString": "17fb8794e246d0ac9740a310abdf5bcdc8f48e62",
+        "DFStringFlagRepoGitHashDynamicString": "17fb8794e246d0ac9740a310abdf5bcdc8f48e62",
+        "FStringFlipTimeStampFastString": "2025-11-05T19:03:07.099Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T19:03:07.099Z"
     }
 }
