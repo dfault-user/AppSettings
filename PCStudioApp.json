@@ -15055,6 +15055,7 @@
         "FFlagFoundationNumberInputRefAndCallbacks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1220807992;2025-11-05T22:32:17",
         "FFlagActionsBridgeListenToPluginActionsIconChanged_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:01:05",
         "FFlagFixMultiStrokePseudo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2028828118;2025-11-05T23:25:39",
+        "FFlagRemoveUnsafeDMUsagePreview_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:27:06",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
@@ -15506,9 +15507,10 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "7124a8db012662a8845abb0671cab6f2a91de4a6",
-        "DFStringFlagRepoGitHashDynamicString": "7124a8db012662a8845abb0671cab6f2a91de4a6",
-        "FStringFlipTimeStampFastString": "2025-11-05T23:33:39.788Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T23:33:39.788Z"
+        "FFlagVulkanReduceMipsUseImmCB_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:26:42",
+        "FStringFlagRepoGitHashFastString": "2f1924ebf522e79dba0ee8cbd574d0bf92ab7a25",
+        "DFStringFlagRepoGitHashDynamicString": "2f1924ebf522e79dba0ee8cbd574d0bf92ab7a25",
+        "FStringFlipTimeStampFastString": "2025-11-05T23:35:13.141Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T23:35:13.141Z"
     }
 }
