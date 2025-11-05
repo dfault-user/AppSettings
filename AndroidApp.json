@@ -13190,9 +13190,7 @@
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
         "FFlagReportTextureStreamingTelemetry5": "True",
         "FFlagShadowMapTextureUvOffset": "True",
-        "FFlagVideoCaptureWallTimeTimeout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:13:27",
         "DFIntRenderTextureMaxRetries": "0",
-        "FFlagAXEnableInspectAndBuyVersionAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:17:41",
         "FFlagProfilePlatformStandardSecondaryButtonStylingEnabled": "True",
         "FFlagFFlagFixDetailsPageIconShadowSlicing": "True",
         "FFlagBtidLogicCleanup": "True",
@@ -13215,6 +13213,9 @@
         "FFlagFFlagAXLookDetailsBottomBarRobux_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:13:25",
         "FFlagLuaAppUnmountPreviewVideoOnGameJoin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:14:50",
         "FFlagAndroidScreenDensityExceptionInExceptionHandler_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:17:49",
+        "FFlagAXEnableInspectAndBuyVersionAnalytics": "True",
+        "FFlagVideoCaptureWallTimeTimeout": "True",
+        "FFlagGraphicsTextureCopyFixGL_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:18:47",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -14164,9 +14165,9 @@
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Reboot.MuteFix;2099811864;flagbank",
         "FFlagVoiceRtcStatsEnabled8_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Reboot.MuteFix;2099811864;flagbank",
         "FFlagMicInitialMuteStateFix_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Reboot.MuteFix;2099811864;flagbank",
-        "FStringFlagRepoGitHashFastString": "a07fdf9d49687fd9df1c35f5499119b22f1a7e6d",
-        "DFStringFlagRepoGitHashDynamicString": "a07fdf9d49687fd9df1c35f5499119b22f1a7e6d",
-        "FStringFlipTimeStampFastString": "2025-11-05T19:20:50.483Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T19:20:50.483Z"
+        "FStringFlagRepoGitHashFastString": "462e27cd682f3b72881dd2dd0cea01a67a0a35d8",
+        "DFStringFlagRepoGitHashDynamicString": "462e27cd682f3b72881dd2dd0cea01a67a0a35d8",
+        "FStringFlipTimeStampFastString": "2025-11-05T19:23:41.192Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T19:23:41.192Z"
     }
 }
