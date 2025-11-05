@@ -13222,6 +13222,10 @@
         "FFlagYieldFunctionDescriptorsToArray3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:20:00",
         "FFlagVoiceNullCheckForTimeStamp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:21:06",
         "DFFlagJsonWriterWritesNanAndInfAsString2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:21:32",
+        "DFFlagHttp2AllDevOriginatedReqs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1333674331;2025-11-05T22:24:08",
+        "DFFlagHttp2GranularConfig_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1333674331;2025-11-05T22:24:08",
+        "DFFlagHttp2NonUploadReqs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1333674331;2025-11-05T22:24:08",
+        "DFFlagSimOptimizeBoneUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:30:25",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13579,9 +13583,9 @@
         "DFIntSQLiteBadSizeTelemetryThresholdMB": "90",
         "DFFlagEnableStabilityMilestoneReport2": "True",
         "FFlagSimCSGLargeAssetSolidMesh16": "True",
-        "FStringFlagRepoGitHashFastString": "7f10089e36fdb6db00b4412073e2f7750989512c",
-        "DFStringFlagRepoGitHashDynamicString": "7f10089e36fdb6db00b4412073e2f7750989512c",
-        "FStringFlipTimeStampFastString": "2025-11-05T22:26:33.608Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T22:26:33.608Z"
+        "FStringFlagRepoGitHashFastString": "862e6146a36242be508b91b5d342234a2db95e2a",
+        "DFStringFlagRepoGitHashDynamicString": "862e6146a36242be508b91b5d342234a2db95e2a",
+        "FStringFlipTimeStampFastString": "2025-11-05T22:35:41.192Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T22:35:41.192Z"
     }
 }
