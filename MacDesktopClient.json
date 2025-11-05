@@ -13191,6 +13191,8 @@
         "FFlagFFlagFixDetailsPageIconShadowSlicing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:21:20",
         "FFlagBtidLogicCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:24:45",
         "CaptureCountersIntervalInMinutes": "5",
+        "FFlagFoundationOverlayLuaAppInsetsFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:43:19",
+        "DFFlagServerStreamingPerfStatsPlayerCount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:43:39",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14116,9 +14118,9 @@
         "DFIntMigrateTriangleMeshPartTestScale": "5",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
         "DFIntNetStackDummyClientMaxConnectionAttempts": "10000",
-        "FStringFlagRepoGitHashFastString": "3c395d542221be7d69bf3f6216da9b0c6be97ad9",
-        "DFStringFlagRepoGitHashDynamicString": "3c395d542221be7d69bf3f6216da9b0c6be97ad9",
-        "FStringFlipTimeStampFastString": "2025-11-05T17:41:32.048Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T17:41:32.048Z"
+        "FStringFlagRepoGitHashFastString": "3cbe60b4f921f74fd3649becf7120bfad38eb429",
+        "DFStringFlagRepoGitHashDynamicString": "3cbe60b4f921f74fd3649becf7120bfad38eb429",
+        "FStringFlipTimeStampFastString": "2025-11-05T17:47:33.392Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T17:47:33.392Z"
     }
 }
