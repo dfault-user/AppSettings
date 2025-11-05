@@ -13056,7 +13056,7 @@
         "DFFlagVoiceSdpCompressionRemoteEventFieldReceivesOriginalSdp": "True",
         "FFlagEnableCorescriptExecutionTime": "True",
         "FFlagExpChatConnectInitCommands": "True",
-        "FFlagFoundationIconButtonBiggerBuilderIcons": "True",
+        "FFlagFoundationIconButtonBiggerBuilderIcons": "False",
         "FFlagFoundationPopoverContentStateFix": "True",
         "FFlagEnableUIManagerPackgify8_IXP": "1;Experience.Menu.VR;Experience.Menu.VR.InExperienceControls.4;838454771;flagbank",
         "FFlagLuaAppIECVREnabled8_IXP": "1;Experience.Menu.VR;Experience.Menu.VR.InExperienceControls.4;838454771;flagbank",
@@ -13181,10 +13181,6 @@
         "FFlagSimRuntimeContentLean2": "True",
         "DFFlagOnlyMigrateInNonEditMode": "True",
         "DFFlagTriangleMeshPartMigrationTelemetry": "True",
-        "DFFlagCrashOnMigrateWithoutWriteLock_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:04:25",
-        "FFlagReportTextureStreamingTelemetry5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:04:58",
-        "FFlagFoundationIconButtonBiggerBuilderIcons_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:05:08",
-        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "100000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:05:14",
         "FFlagShadowMapTextureUvOffset_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:07:44",
         "DFIntRenderTextureMaxRetries_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:14:06",
         "FFlagProfilePlatformStandardSecondaryButtonStylingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:17:58",
@@ -13202,6 +13198,9 @@
         "FFlagProfilePlatformFixAnalyticsPrimaryAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1053698450;2025-11-05T17:56:34",
         "FFlagPropertyDescriptorsToArray4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:56:57",
         "FFlagSendTelemetryOnWebViewOpenRequest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:01:51",
+        "DFFlagCrashOnMigrateWithoutWriteLock": "True",
+        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
+        "FFlagReportTextureStreamingTelemetry5": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14148,9 +14147,9 @@
         "FFlagEnableUnifiedProductPurchaseFlowV35_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:06:18",
         "FFlagStickyTotalBackgroundedTime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:07:40",
         "FFlagDisablePauseSessionInPersonaFlow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:25:11",
-        "FStringFlagRepoGitHashFastString": "5a11ef89f846cf2d41eeb378d14d5931811242f4",
-        "DFStringFlagRepoGitHashDynamicString": "5a11ef89f846cf2d41eeb378d14d5931811242f4",
-        "FStringFlipTimeStampFastString": "2025-11-05T18:03:25.136Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:03:25.136Z"
+        "FStringFlagRepoGitHashFastString": "6e1ffd651ea6f432af5cb23c202d9419b878023c",
+        "DFStringFlagRepoGitHashDynamicString": "6e1ffd651ea6f432af5cb23c202d9419b878023c",
+        "FStringFlipTimeStampFastString": "2025-11-05T18:09:06.668Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:09:06.668Z"
     }
 }
