@@ -13218,7 +13218,6 @@
         "FFlagFixWindowsWindowStatePersistence": "True",
         "DFFlagMicroProfilerNetworkPlugin2": "True",
         "FFlagGameLocaleUseConstant": "True",
-        "FFlagEnableEconomicRestrictionForCollectibleInExperience_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T21:39:23",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceNullCheckForTimeStamp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:21:06",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -13231,6 +13230,9 @@
         "FFlagEnableEconomicRestrictionInAvatarExperienceLook_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:48:03",
         "FFlagDisableLvmsOptimization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:50:59",
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
+        "FFlagRbxStorageDepricateCacheDir1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:51:58",
+        "FFlagEnableEconomicRestrictionForCollectibleInExperience": "True",
+        "FFlagAXFixSubcategorySelectionById_Staged": "True;SteadyState;10;30;Revert;2025-11-05T22:53:03",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "DFFlagEnableFdTracking": "True",
@@ -14158,9 +14160,9 @@
         "FIntAPNumCompressionFibers_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:45:42",
         "DFIntAPMinBytesToMMapUncompressedAssetRegular_Staged": "10485760;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:46:04",
         "DFIntAPDecompressChunkSize_Staged": "32768;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:46:25",
-        "FStringFlagRepoGitHashFastString": "b46e8fc559295d434cbcb8fe51a36c51e4ae3ba6",
-        "DFStringFlagRepoGitHashDynamicString": "b46e8fc559295d434cbcb8fe51a36c51e4ae3ba6",
-        "FStringFlipTimeStampFastString": "2025-11-05T22:53:44.418Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T22:53:44.418Z"
+        "FStringFlagRepoGitHashFastString": "ffd574e0a69b6b90229213dab6933d91e6cc4eb9",
+        "DFStringFlagRepoGitHashDynamicString": "ffd574e0a69b6b90229213dab6933d91e6cc4eb9",
+        "FStringFlipTimeStampFastString": "2025-11-05T22:57:20.845Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T22:57:20.845Z"
     }
 }
