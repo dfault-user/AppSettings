@@ -13181,7 +13181,6 @@
         "FFlagSimRuntimeContentLean2": "True",
         "DFFlagOnlyMigrateInNonEditMode": "True",
         "DFFlagTriangleMeshPartMigrationTelemetry": "True",
-        "DFIntRenderTextureMaxRetries_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:14:06",
         "FFlagProfilePlatformStandardSecondaryButtonStylingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:17:58",
         "FFlagFFlagFixDetailsPageIconShadowSlicing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:21:20",
         "FFlagBtidLogicCleanup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:24:45",
@@ -13201,6 +13200,8 @@
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
         "FFlagReportTextureStreamingTelemetry5": "True",
         "FFlagShadowMapTextureUvOffset": "True",
+        "FFlagVideoCaptureWallTimeTimeout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:13:27",
+        "DFIntRenderTextureMaxRetries": "0",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14125,9 +14126,10 @@
         "FFlagLuaAppRfySignalApportioningIxp3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1584196128;2025-11-05T18:06:28",
         "FFlagUpdateDiscoveryEventErrorDetailsLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1584196128;2025-11-05T18:06:28",
         "FFlagStickyTotalBackgroundedTime": "True",
-        "FStringFlagRepoGitHashFastString": "61bc1ebba88f7e7262e81e46cb50ee62b44222fb",
-        "DFStringFlagRepoGitHashDynamicString": "61bc1ebba88f7e7262e81e46cb50ee62b44222fb",
-        "FStringFlipTimeStampFastString": "2025-11-05T18:15:55.812Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:15:55.812Z"
+        "FFlagAddStyleProviderInvitePrompt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:14:44",
+        "FStringFlagRepoGitHashFastString": "1ab6cece2570b29197efe97e5cc0f599102b356d",
+        "DFStringFlagRepoGitHashDynamicString": "1ab6cece2570b29197efe97e5cc0f599102b356d",
+        "FStringFlipTimeStampFastString": "2025-11-05T18:17:53.452Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:17:53.452Z"
     }
 }
