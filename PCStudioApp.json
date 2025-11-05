@@ -2060,7 +2060,7 @@
         "DFIntReportBroadPhasePairCountPercent_PlaceFilter": "100;333164326;10128144192",
         "DFIntSimBroadPhaseMaxTotalPairCount_PlaceFilter": "10000;333164326;10128144192",
         "FFlagIOSSendAsymmetricSafeInsets": "True",
-        "FStringPerformanceControlIncludedTunables": "None",
+        "FStringPerformanceControlIncludedTunables": "Texture quality, Streaming Distance, Sound Cache",
         "FIntAvatarEditorTimeBetweenSaves": "90",
         "FFlagChangeTopbarHeightCalculation": "True",
         "FFlagVoiceChatNewServerJoinFlow2": "False",
@@ -13194,8 +13194,6 @@
         "FFlagProfilePlatformStandardSecondaryButtonStylingEnabled": "True",
         "FFlagFFlagFixDetailsPageIconShadowSlicing": "True",
         "FFlagBtidLogicCleanup": "True",
-        "DFFlagUnlimitedHttpRequestsForRobloxApisEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:33:39",
-        "DFFlagLessDataPingTrace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:34:21",
         "AllowVideoPreRoll": "True",
         "DFFlagServerStreamingPerfStatsPlayerCount": "True",
         "FFlagStartRbxStorageInitRighAfterFlags_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:49:10",
@@ -13220,6 +13218,8 @@
         "FFlagFixWindowsWindowStatePersistence_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:19:55",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "FFlagGameLocaleUseConstant_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:34:24",
+        "DFFlagLessDataPingTrace": "True",
+        "DFFlagUnlimitedHttpRequestsForRobloxApisEnabled": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15484,10 +15484,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringPerformanceControlIncludedTunables_Staged": "Texture quality, Streaming Distance, Sound Cache;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:35:03",
-        "FStringFlagRepoGitHashFastString": "1cc6b65740bffb8d52dccb5f86195542d05ff1dd",
-        "DFStringFlagRepoGitHashDynamicString": "1cc6b65740bffb8d52dccb5f86195542d05ff1dd",
-        "FStringFlipTimeStampFastString": "2025-11-05T19:38:04.435Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T19:38:04.435Z"
+        "FStringFlagRepoGitHashFastString": "af5fce7903b4182baa28310beeef334b71331b44",
+        "DFStringFlagRepoGitHashDynamicString": "af5fce7903b4182baa28310beeef334b71331b44",
+        "FStringFlipTimeStampFastString": "2025-11-05T19:41:16.173Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T19:41:16.173Z"
     }
 }
