@@ -13049,7 +13049,7 @@
         "FFlagFoundationDialogUpdateZIndex": "True",
         "DFFlagCleanUpTeamCreateDeprecatedTelemetry": "True",
         "FFlagSelfieConsentAuditLog": "True",
-        "FFlagFoundationOverlayLuaAppInsetsFix": "True",
+        "FFlagFoundationOverlayLuaAppInsetsFix": "False",
         "FFlagEnableUnifiedPurchasePromptForEDPGamepass": "True",
         "FFlagCLI165167_RCC": "True",
         "FFlagVoiceLeaveOperationInvestigationMetrics": "True",
@@ -13181,8 +13181,6 @@
         "FFlagSimRuntimeContentLean2": "True",
         "DFFlagOnlyMigrateInNonEditMode": "True",
         "DFFlagTriangleMeshPartMigrationTelemetry": "True",
-        "FFlagFoundationOverlayLuaAppInsetsFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:43:19",
-        "DFFlagServerStreamingPerfStatsPlayerCount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:43:39",
         "FFlagVoiceSendPeerConnectionTransitions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:54:46",
         "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
         "FFlagAXDefaultNewAdaptiveScrollingTransitions_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
@@ -13205,6 +13203,7 @@
         "DFFlagUnlimitedHttpRequestsForRobloxApisEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:33:39",
         "DFFlagLessDataPingTrace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:34:21",
         "FFlagCachelessPluginLoadingReportOTALoadTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:43:38",
+        "DFFlagServerStreamingPerfStatsPlayerCount": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13562,9 +13561,9 @@
         "FFlagUseXboxPaymentsProtocolCommonFunctions": "False",
         "DFIntSQLiteBadSizeTelemetryThresholdMB": "90",
         "DFFlagEnableStabilityMilestoneReport2": "True",
-        "FStringFlagRepoGitHashFastString": "524b43d7245f4d157a45dc1efd963ced6aba94f5",
-        "DFStringFlagRepoGitHashDynamicString": "524b43d7245f4d157a45dc1efd963ced6aba94f5",
-        "FStringFlipTimeStampFastString": "2025-11-05T18:48:35.403Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:48:35.403Z"
+        "FStringFlagRepoGitHashFastString": "e79dd3cf012014cda2f9d9a789f309a0ac5276c6",
+        "DFStringFlagRepoGitHashDynamicString": "e79dd3cf012014cda2f9d9a789f309a0ac5276c6",
+        "FStringFlipTimeStampFastString": "2025-11-05T18:51:39.487Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:51:39.487Z"
     }
 }
