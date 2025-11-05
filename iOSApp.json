@@ -13216,6 +13216,8 @@
         "FFlagAXEnableInspectAndBuyVersionAnalytics": "True",
         "FFlagVideoCaptureWallTimeTimeout": "True",
         "FFlagGraphicsTextureCopyFixGL_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:18:47",
+        "FFlagFixWindowsFullscreenSwitchingMonitorBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:19:21",
+        "FFlagFixWindowsWindowStatePersistence_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:19:55",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14142,9 +14144,9 @@
         "FFlagAddStyleProviderInvitePrompt": "True",
         "FFlagLuaAppRfySignalApportioningIxp3": "True",
         "FFlagUpdateDiscoveryEventErrorDetailsLogging": "True",
-        "FStringFlagRepoGitHashFastString": "462e27cd682f3b72881dd2dd0cea01a67a0a35d8",
-        "DFStringFlagRepoGitHashDynamicString": "462e27cd682f3b72881dd2dd0cea01a67a0a35d8",
-        "FStringFlipTimeStampFastString": "2025-11-05T19:23:41.192Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T19:23:41.192Z"
+        "FStringFlagRepoGitHashFastString": "e9fe62df47e7a27f3acc8422d822967a40d65a0e",
+        "DFStringFlagRepoGitHashDynamicString": "e9fe62df47e7a27f3acc8422d822967a40d65a0e",
+        "FStringFlipTimeStampFastString": "2025-11-05T19:24:24.481Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T19:24:24.481Z"
     }
 }

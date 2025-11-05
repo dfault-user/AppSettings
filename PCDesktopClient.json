@@ -13215,6 +13215,9 @@
         "FFlagAndroidScreenDensityExceptionInExceptionHandler_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:17:49",
         "FFlagAXEnableInspectAndBuyVersionAnalytics": "True",
         "FFlagVideoCaptureWallTimeTimeout": "True",
+        "FFlagGraphicsTextureCopyFixGL_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:18:47",
+        "FFlagFixWindowsFullscreenSwitchingMonitorBug_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:19:21",
+        "FFlagFixWindowsWindowStatePersistence_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:19:55",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14197,9 +14200,9 @@
         "DFIntNetStackDummyClientPingStatsThrottleHP": "100",
         "FFlagEnableNetStackDummyClientVersionCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:34:31",
         "DFIntMinSizeToCacheSharedStringBytes": "25000",
-        "FStringFlagRepoGitHashFastString": "eecb0980bfe2383fa7a531ed42d1968bc9d392bc",
-        "DFStringFlagRepoGitHashDynamicString": "eecb0980bfe2383fa7a531ed42d1968bc9d392bc",
-        "FStringFlipTimeStampFastString": "2025-11-05T19:23:13.376Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T19:23:13.376Z"
+        "FStringFlagRepoGitHashFastString": "e9fe62df47e7a27f3acc8422d822967a40d65a0e",
+        "DFStringFlagRepoGitHashDynamicString": "e9fe62df47e7a27f3acc8422d822967a40d65a0e",
+        "FStringFlipTimeStampFastString": "2025-11-05T19:24:24.481Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T19:24:24.481Z"
     }
 }
