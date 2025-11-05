@@ -13194,6 +13194,13 @@
         "FFlagFoundationOverlayLuaAppInsetsFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:43:19",
         "DFFlagServerStreamingPerfStatsPlayerCount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:43:39",
         "FFlagVoiceSendPeerConnectionTransitions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:54:46",
+        "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
+        "FFlagAXDefaultNewAdaptiveScrollingTransitions_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
+        "FFlagAXExpandPeekViewOnFirstScroll1_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
+        "FFlagAXExpandPeekViewOnFirstScrollExposureLogging_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
+        "FFlagAXHideMenuOnScroll1_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
+        "FFlagProfilePlatformFixAnalyticsPrimaryAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1053698450;2025-11-05T17:56:34",
+        "FFlagPropertyDescriptorsToArray4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:56:57",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14140,9 +14147,9 @@
         "FFlagEnableUnifiedProductPurchaseFlowV35_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:06:18",
         "FFlagStickyTotalBackgroundedTime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:07:40",
         "FFlagDisablePauseSessionInPersonaFlow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:25:11",
-        "FStringFlagRepoGitHashFastString": "f588bcded0285eac7bb7a9d44906c61ec3e0c1c7",
-        "DFStringFlagRepoGitHashDynamicString": "f588bcded0285eac7bb7a9d44906c61ec3e0c1c7",
-        "FStringFlipTimeStampFastString": "2025-11-05T17:57:41.989Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T17:57:41.989Z"
+        "FStringFlagRepoGitHashFastString": "de896446e0125fbab45bf4a1ba61fe8cd5ff7590",
+        "DFStringFlagRepoGitHashDynamicString": "de896446e0125fbab45bf4a1ba61fe8cd5ff7590",
+        "FStringFlipTimeStampFastString": "2025-11-05T17:59:11.316Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T17:59:11.316Z"
     }
 }
