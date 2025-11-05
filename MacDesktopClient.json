@@ -13233,6 +13233,7 @@
         "FFlagYieldFunctionDescriptorsToArray3": "True",
         "DFFlagJsonWriterWritesNanAndInfAsString2": "True",
         "DFFlagSimOptimizeBoneUpdates": "True",
+        "FFlagTrackCrashpadInitFailureInSessionTracking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:38:39",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14168,9 +14169,12 @@
         "DFIntAPDecompressChunkSize_Staged": "32768;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:46:25",
         "FFlagEnableEdpStoreClicksLogging3_Staged": "True;SteadyState;10;30;Revert;2025-11-05T23:06:29",
         "FFlagFixGridMinSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;672337488;2025-11-05T23:27:25",
-        "FStringFlagRepoGitHashFastString": "97d6b9c05760a7a6d89ffe88c3731790d1caea5f",
-        "DFStringFlagRepoGitHashDynamicString": "97d6b9c05760a7a6d89ffe88c3731790d1caea5f",
-        "FStringFlipTimeStampFastString": "2025-11-05T23:40:25.096Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T23:40:25.096Z"
+        "FIntEdpStoreClicksDetectorThrottlingHundredthsPercent_Staged": "10000;SteadyState;10;30;Revert;2025-11-05T23:38:34",
+        "FFlagLuaAppEdpBackendV2LogMissingFetchEventData2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:39:58",
+        "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:41:17",
+        "FStringFlagRepoGitHashFastString": "55da4bc604f8f093b330982c0822ec7729a37513",
+        "DFStringFlagRepoGitHashDynamicString": "55da4bc604f8f093b330982c0822ec7729a37513",
+        "FStringFlipTimeStampFastString": "2025-11-05T23:47:07.227Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T23:47:07.227Z"
     }
 }
