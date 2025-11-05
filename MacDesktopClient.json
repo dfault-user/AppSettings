@@ -14152,9 +14152,12 @@
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.WindowsMacSharedStringCaching-1762382334;WindowsMacSharedStringCaching;47481494;flagbank",
         "FIntSharedStringCacheThrottleHP_Staged": "50;SteadyState;10;30;Revert;true;47481494;2025-11-05T22:39:45",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.WindowsMacSharedStringCaching-1762382334;WindowsMacSharedStringCaching;47481494;flagbank",
-        "FStringFlagRepoGitHashFastString": "0b2741f13a04a3dbb8fb032a930c78b1a580ed98",
-        "DFStringFlagRepoGitHashDynamicString": "0b2741f13a04a3dbb8fb032a930c78b1a580ed98",
-        "FStringFlipTimeStampFastString": "2025-11-05T22:49:09.027Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T22:49:09.027Z"
+        "FIntAPNumCompressionFibers_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:45:42",
+        "DFIntAPMinBytesToMMapUncompressedAssetRegular_Staged": "10485760;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:46:04",
+        "DFIntAPDecompressChunkSize_Staged": "32768;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:46:25",
+        "FStringFlagRepoGitHashFastString": "95faefdc026417ae6d6d76c08c7e2ac8cfbb0a66",
+        "DFStringFlagRepoGitHashDynamicString": "95faefdc026417ae6d6d76c08c7e2ac8cfbb0a66",
+        "FStringFlipTimeStampFastString": "2025-11-05T22:50:32.574Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T22:50:32.574Z"
     }
 }
