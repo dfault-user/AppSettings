@@ -13157,13 +13157,9 @@
         "FFlagFoundationPopoverOverflow": "True",
         "FFlagEnableDataModelChangeTrackingDeps2": "True",
         "FFlagEnableMoreCtrDebuggingTelemetry": "True",
-        "FFlagLuaAppAddUniverseIdToGameDetailsEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:11:48",
-        "FFlagPTFControllerLayoutAdjustment_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;608266280;2025-11-04T21:16:06",
         "FFlagPTFControllerLayoutSupport": "True",
         "FFlagPTFKeyboardReceiveKeyEvents": "True",
         "FFlagInteractionGroupConsolidateLoops": "True",
-        "DFFlagCaptureServiceHandleAssetUploadQuotaReached_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;560125445;2025-11-04T21:21:01",
-        "FFlagAXFetchMoreCollectibleWhileFetchAssetOrBundleInfo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:28:30",
         "FFlagSimRuntimeContentLean2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:32:30",
         "FStringAXMISExperimentLayerName_Staged": "AvatarExperience.UA.AllViews;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:35:01",
         "FFlagAXRemoveCatalogTopicBarOnDidFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-04T21:45:14",
@@ -13181,6 +13177,10 @@
         "FFlagExplorerHandleCoreGuiVisibilityProjectSetting": "True",
         "FFlagHandlesUseVisualSize": "True",
         "FFlagStyledInstanceContext": "True",
+        "FFlagLuaAppAddUniverseIdToGameDetailsEvents": "True",
+        "FFlagPTFControllerLayoutAdjustment": "True",
+        "FFlagAXFetchMoreCollectibleWhileFetchAssetOrBundleInfo": "True",
+        "DFFlagCaptureServiceHandleAssetUploadQuotaReached": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -14110,9 +14110,9 @@
         "DFIntTriangleMeshPartMigrationTelemetryThrottle": "10000",
         "DFFlagSetDummyInertiaToNAN": "True",
         "DFIntNetStackDummyClientMaxConnectionAttempts": "10000",
-        "FStringFlagRepoGitHashFastString": "6b4d600669916eea4ecda1453dc555d091745425",
-        "DFStringFlagRepoGitHashDynamicString": "6b4d600669916eea4ecda1453dc555d091745425",
-        "FStringFlipTimeStampFastString": "2025-11-05T01:13:57.847Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T01:13:57.847Z"
+        "FStringFlagRepoGitHashFastString": "30f81075f0b360d445ee668fa3d027e533559496",
+        "DFStringFlagRepoGitHashDynamicString": "30f81075f0b360d445ee668fa3d027e533559496",
+        "FStringFlipTimeStampFastString": "2025-11-05T01:20:05.755Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T01:20:05.755Z"
     }
 }
