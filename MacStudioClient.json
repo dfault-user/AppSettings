@@ -15440,6 +15440,7 @@
         "DFFlagVideoHandlePtsDiscontinuity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:56:13",
         "FFlagHlsParseInSeek_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:56:23",
         "FFlagHlsPlaylistNoCacheByDefault_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:57:04",
+        "FFlagFixNullPtrOnMemoryStatsCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:08:27",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -15478,9 +15479,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "DFIntMemoryUtilityCurvePenaltyBuffer_Staged": "50000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:55:27",
         "DFIntMemoryUtilityCurveTotalMemoryReserve_Staged": "15000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:57:18",
-        "FStringFlagRepoGitHashFastString": "68596fcaeefe80189aab8d96adc5ba8fadccb081",
-        "DFStringFlagRepoGitHashDynamicString": "68596fcaeefe80189aab8d96adc5ba8fadccb081",
-        "FStringFlipTimeStampFastString": "2025-11-05T23:11:27.515Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T23:11:27.515Z"
+        "FStringFlagRepoGitHashFastString": "c0e8ade6e534605dc4b115b8d674f6b583ecdacd",
+        "DFStringFlagRepoGitHashDynamicString": "c0e8ade6e534605dc4b115b8d674f6b583ecdacd",
+        "FStringFlipTimeStampFastString": "2025-11-05T23:13:15.233Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T23:13:15.233Z"
     }
 }
