@@ -13205,6 +13205,8 @@
         "AllowVideoPreRoll": "True",
         "DFFlagServerStreamingPerfStatsPlayerCount": "True",
         "FFlagStartRbxStorageInitRighAfterFlags_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:49:10",
+        "FFlagDelayDspFixInterpolatorTemporalWrap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:56:14",
+        "FFlagDelayDspFixHermiteInterpolation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:57:28",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15472,9 +15474,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FStringPerformanceControlIncludedTunables_Staged": "Texture quality, Streaming Distance, Sound Cache;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:35:03",
-        "FStringFlagRepoGitHashFastString": "76308a61feec65997604967c50a6930a85725981",
-        "DFStringFlagRepoGitHashDynamicString": "76308a61feec65997604967c50a6930a85725981",
-        "FStringFlipTimeStampFastString": "2025-11-05T18:52:01.485Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:52:01.485Z"
+        "FStringFlagRepoGitHashFastString": "f4e8de422660f92a2f90ee2bc809ca25b9f747bb",
+        "DFStringFlagRepoGitHashDynamicString": "f4e8de422660f92a2f90ee2bc809ca25b9f747bb",
+        "FStringFlipTimeStampFastString": "2025-11-05T19:00:35.548Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T19:00:35.548Z"
     }
 }
