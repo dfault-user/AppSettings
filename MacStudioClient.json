@@ -13233,6 +13233,8 @@
         "FFlagRbxStorageDepricateCacheDir1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:51:58",
         "FFlagEnableEconomicRestrictionForCollectibleInExperience": "True",
         "FFlagAXFixSubcategorySelectionById_Staged": "True;SteadyState;10;30;Revert;2025-11-05T22:53:03",
+        "FFlagUIInstanceModifiers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:59:30",
+        "GmasdkIsolatedProcessDoNotRestartAds": "true",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15053,6 +15055,7 @@
         "FFlagFindReplaceAllLiveSearchSetting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:21:35",
         "DFFlagStopSendingChunkSizeStat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:21:56",
         "FFlagFoundationNumberInputRefAndCallbacks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1220807992;2025-11-05T22:32:17",
+        "FFlagActionsBridgeListenToPluginActionsIconChanged_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:01:05",
         "FFlagIncreaseFileDescriptorLimit": "True",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -15474,9 +15477,10 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "DFIntMemoryUtilityCurvePenaltyBuffer_Staged": "50000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:55:27",
-        "FStringFlagRepoGitHashFastString": "7989c91f52ed2265b99290b4ad194b3053ecfe6b",
-        "DFStringFlagRepoGitHashDynamicString": "7989c91f52ed2265b99290b4ad194b3053ecfe6b",
-        "FStringFlipTimeStampFastString": "2025-11-05T23:07:39.275Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T23:07:39.275Z"
+        "DFIntMemoryUtilityCurveTotalMemoryReserve_Staged": "15000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:57:18",
+        "FStringFlagRepoGitHashFastString": "e617993b4f2179b0b5f36089ef6c0c4642e90aa7",
+        "DFStringFlagRepoGitHashDynamicString": "e617993b4f2179b0b5f36089ef6c0c4642e90aa7",
+        "FStringFlipTimeStampFastString": "2025-11-05T23:09:38.842Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T23:09:38.842Z"
     }
 }
