@@ -13202,8 +13202,6 @@
         "FFlagSendTelemetryOnWebViewOpenRequest": "True",
         "FFlagAXEnableInspectAndBuyVersionAnalytics": "True",
         "FFlagVideoCaptureWallTimeTimeout": "True",
-        "AllowVideoPreRoll": "True",
-        "FFlagGameLocaleUseConstant_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:34:24",
         "DFFlagLessDataPingTrace": "True",
         "DFFlagUnlimitedHttpRequestsForRobloxApisEnabled": "True",
         "FFlagCachelessPluginLoadingReportOTALoadTelemetry": "True",
@@ -13218,6 +13216,9 @@
         "FFlagGraphicsTextureCopyFixGL": "True",
         "FFlagFixWindowsFullscreenSwitchingMonitorBug": "True",
         "FFlagFixWindowsWindowStatePersistence": "True",
+        "DFFlagMicroProfilerNetworkPlugin2": "True",
+        "FFlagGameLocaleUseConstant": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13996,7 +13997,6 @@
         "FFlagRefactorPeoplePage5_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile;1951626196;flagbank",
         "FFlagCapturesVideoSupportLegacyVideos": "True",
         "FFlagExpChatUseAdorneeStoreV4_IXP": "1;ExperienceChat.Performance;FFlagExpChatUseAdorneeStoreV4-1756405212321;726159443;flagbank",
-        "DFFlagMicroProfilerNetworkPlugin2": "True",
         "FFlagEnableBackgroundTask_IXP": "1;Portal.FFlagEnableBackgroundTask.exp-1756845520;FFlagEnableBackgroundTask.exp;1207551334;flagbank",
         "FIntNativePurchaseRobuxPageWrapperStatThrottlingPercentage": "100",
         "FFlagNativePurchaseRobuxPageWrapperEnableTelemetry": "False",
@@ -14144,9 +14144,9 @@
         "FFlagLuaAppRfySignalApportioningIxp3": "True",
         "FFlagUpdateDiscoveryEventErrorDetailsLogging": "True",
         "FFlagSimCSGLargeAssetSolidMesh16": "True",
-        "FStringFlagRepoGitHashFastString": "52e8a1e97d08a5af663658eab8b4abc528da50dc",
-        "DFStringFlagRepoGitHashDynamicString": "52e8a1e97d08a5af663658eab8b4abc528da50dc",
-        "FStringFlipTimeStampFastString": "2025-11-05T20:27:26.173Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T20:27:26.173Z"
+        "FStringFlagRepoGitHashFastString": "a6ea7353e9a26f20d83688d8f35fde70db5be283",
+        "DFStringFlagRepoGitHashDynamicString": "a6ea7353e9a26f20d83688d8f35fde70db5be283",
+        "FStringFlipTimeStampFastString": "2025-11-05T20:41:40.191Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T20:41:40.191Z"
     }
 }

@@ -13202,8 +13202,6 @@
         "FFlagSendTelemetryOnWebViewOpenRequest": "True",
         "FFlagAXEnableInspectAndBuyVersionAnalytics": "True",
         "FFlagVideoCaptureWallTimeTimeout": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
-        "FFlagGameLocaleUseConstant_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T19:34:24",
         "DFFlagLessDataPingTrace": "True",
         "DFFlagUnlimitedHttpRequestsForRobloxApisEnabled": "True",
         "FFlagCachelessPluginLoadingReportOTALoadTelemetry": "True",
@@ -13218,6 +13216,8 @@
         "FFlagGraphicsTextureCopyFixGL": "True",
         "FFlagFixWindowsFullscreenSwitchingMonitorBug": "True",
         "FFlagFixWindowsWindowStatePersistence": "True",
+        "DFFlagMicroProfilerNetworkPlugin2": "True",
+        "FFlagGameLocaleUseConstant": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15035,6 +15035,7 @@
         "FFlagAnnotationsPerThreadNotifPrefs": "True",
         "FFlagCOLLAB9285AnnotationsPerPlaceNotifPrefs3": "True",
         "FFlagCinUploadController": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -15327,7 +15328,6 @@
         "FFlagGetHumanoidDescriptionUpdatesV2B": "False",
         "FFlagGetHumanoidDescriptionUpdatesV2A": "False",
         "DFFlagRenderFastClusterOcclusionCulling": "False",
-        "DFFlagMicroProfilerNetworkPlugin2": "True",
         "DFIntSQLiteFullChkpointMaxReport": "3",
         "FFlagBootcampCLI164914": "True",
         "DFLogBootcampCLI164914Log": "6",
@@ -15482,9 +15482,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "52e8a1e97d08a5af663658eab8b4abc528da50dc",
-        "DFStringFlagRepoGitHashDynamicString": "52e8a1e97d08a5af663658eab8b4abc528da50dc",
-        "FStringFlipTimeStampFastString": "2025-11-05T20:27:26.173Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T20:27:26.173Z"
+        "FStringFlagRepoGitHashFastString": "a6ea7353e9a26f20d83688d8f35fde70db5be283",
+        "DFStringFlagRepoGitHashDynamicString": "a6ea7353e9a26f20d83688d8f35fde70db5be283",
+        "FStringFlipTimeStampFastString": "2025-11-05T20:41:40.191Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T20:41:40.191Z"
     }
 }
