@@ -13107,7 +13107,7 @@
         "FFlagKtx2LoaderScratchOpt": "True",
         "FFlagLuaAppAddEdpVideoBlockingTelemetry": "True",
         "FFlagLuaAppUnmountPreviewVideoOnAppBackground": "True",
-        "FFlagLuaAppUnmountPreviewVideoOnGameJoin": "True",
+        "FFlagLuaAppUnmountPreviewVideoOnGameJoin": "False",
         "FIntEdpVideoBlockingTelemetryThrottleHundredthsPercent": "10000",
         "FFlagAudioDiscoveryMigrateToActions": "True",
         "DFFlagEnforceInstanceIdForPromptCollectiblesPurchase": "False",
@@ -13181,7 +13181,6 @@
         "FFlagSimRuntimeContentLean2": "True",
         "DFFlagOnlyMigrateInNonEditMode": "True",
         "DFFlagTriangleMeshPartMigrationTelemetry": "True",
-        "FFlagLuaAppUnmountPreviewVideoOnGameJoin_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:34:01",
         "FFlagFoundationOverlayLuaAppInsetsFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:43:19",
         "DFFlagServerStreamingPerfStatsPlayerCount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:43:39",
         "FFlagVoiceSendPeerConnectionTransitions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:54:46",
@@ -13501,9 +13500,9 @@
         "FFlagAXMigrateMainNavigationInputBindings": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "FFlagRobloxTelemetryEnableSenderCallback": "True",
-        "FStringFlagRepoGitHashFastString": "e4349a17bc7da03f44573cfa97a3c5c84a979d7a",
-        "DFStringFlagRepoGitHashDynamicString": "e4349a17bc7da03f44573cfa97a3c5c84a979d7a",
-        "FStringFlipTimeStampFastString": "2025-11-05T18:39:20.821Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:39:20.821Z"
+        "FStringFlagRepoGitHashFastString": "49617a70eb9cff610919ceacfe44cb8620091515",
+        "DFStringFlagRepoGitHashDynamicString": "49617a70eb9cff610919ceacfe44cb8620091515",
+        "FStringFlipTimeStampFastString": "2025-11-05T18:43:34.719Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:43:34.719Z"
     }
 }

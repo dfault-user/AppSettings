@@ -13107,7 +13107,7 @@
         "FFlagKtx2LoaderScratchOpt": "True",
         "FFlagLuaAppAddEdpVideoBlockingTelemetry": "True",
         "FFlagLuaAppUnmountPreviewVideoOnAppBackground": "True",
-        "FFlagLuaAppUnmountPreviewVideoOnGameJoin": "True",
+        "FFlagLuaAppUnmountPreviewVideoOnGameJoin": "False",
         "FIntEdpVideoBlockingTelemetryThrottleHundredthsPercent": "10000",
         "FFlagAudioDiscoveryMigrateToActions": "True",
         "DFFlagEnforceInstanceIdForPromptCollectiblesPurchase": "False",
@@ -13181,7 +13181,6 @@
         "FFlagSimRuntimeContentLean2": "True",
         "DFFlagOnlyMigrateInNonEditMode": "True",
         "DFFlagTriangleMeshPartMigrationTelemetry": "True",
-        "FFlagLuaAppUnmountPreviewVideoOnGameJoin_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:34:01",
         "FFlagFoundationOverlayLuaAppInsetsFix_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:43:19",
         "DFFlagServerStreamingPerfStatsPlayerCount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:43:39",
         "FFlagVoiceSendPeerConnectionTransitions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T17:54:46",
@@ -14119,8 +14118,6 @@
         "FFlagPerformanceControlDeviceSpecificExperimentation": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "FFlagVoiceChatClientRebootOperationEnabled2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Reboot;564416378;flagbank",
-        "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Reboot;564416378;flagbank",
-        "FFlagVoiceRtcStatsEnabled8_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Reboot;564416378;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Reboot;278190683;flagbank",
         "DFFlagCollectSessionBatteryTelemetry": "True",
         "DFFlagEnableStandardizedFieldAddPlaySessionId": "True",
@@ -14152,9 +14149,11 @@
         "FFlagEnableNotificationsBackgroundJobEventNameChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:19:03",
         "FFlagEnableAckCallOnPushReceiveV4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:22:19",
         "FFlagDisablePauseSessionInPersonaFlow": "True",
-        "FStringFlagRepoGitHashFastString": "e4349a17bc7da03f44573cfa97a3c5c84a979d7a",
-        "DFStringFlagRepoGitHashDynamicString": "e4349a17bc7da03f44573cfa97a3c5c84a979d7a",
-        "FStringFlipTimeStampFastString": "2025-11-05T18:39:20.821Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:39:20.821Z"
+        "FIntRbxStorageMinMemoryRequirementMB_Staged": "3000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:37:48",
+        "FFlagMaxSizeUseCorrectPadding_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T18:37:53",
+        "FStringFlagRepoGitHashFastString": "043da879cac1c6366265167b6fb0163ad597d7d2",
+        "DFStringFlagRepoGitHashDynamicString": "043da879cac1c6366265167b6fb0163ad597d7d2",
+        "FStringFlipTimeStampFastString": "2025-11-05T18:43:57.649Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T18:43:57.649Z"
     }
 }
