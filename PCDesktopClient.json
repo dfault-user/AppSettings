@@ -13231,6 +13231,7 @@
         "FFlagEnableEconomicRestrictionForCollectibleInExperience": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "GmasdkIsolatedProcessDoNotRestartAds": "true",
+        "AllowVideoPreRoll": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
@@ -13739,7 +13740,6 @@
         "FFlagHlsParseInSeek_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:56:23",
         "FFlagHlsPlaylistNoCacheByDefault_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T22:57:04",
         "FFlagFixNullPtrOnMemoryStatsCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:08:27",
-        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14217,14 +14217,13 @@
         "DFIntMinSizeToCacheSharedStringBytes": "25000",
         "FFlagEnableNetStackDummyClientVersionCheck": "True",
         "FFlagSimCSGLargeAssetSolidMesh16": "True",
-        "FFlagEnableSharedStringCaching7_Staged": "True;SteadyState;10;30;Revert;true;47481494;2025-11-05T22:39:45",
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.WindowsMacSharedStringCaching-1762382334;WindowsMacSharedStringCaching;47481494;flagbank",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.WindowsMacSharedStringCaching-1762382334;WindowsMacSharedStringCaching;47481494;flagbank",
         "FFlagLuaAppEdpVideoAvailableRamDeny_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;65376489;2025-11-05T23:09:52",
         "FIntLuaAppEdpVideoAvailableRamThresholdMb_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;65376489;2025-11-05T23:09:52",
-        "FStringFlagRepoGitHashFastString": "4953c1c536ac6595f79c19e10431f97da313e041",
-        "DFStringFlagRepoGitHashDynamicString": "4953c1c536ac6595f79c19e10431f97da313e041",
-        "FStringFlipTimeStampFastString": "2025-11-05T23:14:05.944Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-05T23:14:05.944Z"
+        "FStringFlagRepoGitHashFastString": "8b0671c879a1e78d04e878e0307866ea8fa44086",
+        "DFStringFlagRepoGitHashDynamicString": "8b0671c879a1e78d04e878e0307866ea8fa44086",
+        "FStringFlipTimeStampFastString": "2025-11-05T23:20:52.039Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-05T23:20:52.039Z"
     }
 }
