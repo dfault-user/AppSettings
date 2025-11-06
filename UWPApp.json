@@ -12733,7 +12733,7 @@
         "FFlagSduiCleanupDataStoreApp": "True",
         "FFlagTouchInputServicePinchRotateVelocity": "True",
         "DFFlagVideoMp4AddRobloxMetaData": "True",
-        "FFlagGamePassPrefetchOnJoinEnabled": "True",
+        "FFlagGamePassPrefetchOnJoinEnabled": "False",
         "FFlagEnableEconomicRestrictionInAvatarExperience": "True",
         "FFlagVideoCaptureStopOnEncodeError": "True",
         "UseApplicationLifecycleCallbacks2": "True",
@@ -13235,7 +13235,6 @@
         "FFlagEncodingServiceEnabled": "True",
         "FFlagQueryInstancesEnabled": "True",
         "FFlagAssetProviderMiniMarkerBuffers": "True",
-        "FFlagGamePassPrefetchOnJoinEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:40:58",
         "FFlagAddToSessionTrackingHttpSuccessfulPostBodySizeAllPerSession_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;348429350;2025-11-06T18:50:51",
         "FFlagAddToSessionTrackingHttpSuccessfulPostBodySizeTelemetryPerSession_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;348429350;2025-11-06T18:50:51",
         "FFlagWindowsSystemThemeEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1833353946;2025-11-06T18:53:50",
@@ -13258,6 +13257,7 @@
         "FFlagStyleEditorFixSequenceNumPrecision": "True",
         "AllowVideoPreRoll": "True",
         "FFlagEnablePreferredInputForSignUp": "True",
+        "DFFlagEnableFeatureTimeoutListeners3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T19:50:28",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13550,9 +13550,9 @@
         "FFlagAXMigrateMainNavigationInputBindings": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "FFlagSimCSGLargeAssetSolidMesh16": "True",
-        "FStringFlagRepoGitHashFastString": "cb924beeec576f33eafd727441d3216a4fb043f4",
-        "DFStringFlagRepoGitHashDynamicString": "cb924beeec576f33eafd727441d3216a4fb043f4",
-        "FStringFlipTimeStampFastString": "2025-11-06T19:48:22.399Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T19:48:22.399Z"
+        "FStringFlagRepoGitHashFastString": "51ab8456dcf56f86aa7c7930698adeaaa3ff61ef",
+        "DFStringFlagRepoGitHashDynamicString": "51ab8456dcf56f86aa7c7930698adeaaa3ff61ef",
+        "FStringFlipTimeStampFastString": "2025-11-06T19:53:55.653Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T19:53:55.653Z"
     }
 }

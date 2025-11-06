@@ -12733,7 +12733,7 @@
         "FFlagSduiCleanupDataStoreApp": "True",
         "FFlagTouchInputServicePinchRotateVelocity": "True",
         "DFFlagVideoMp4AddRobloxMetaData": "True",
-        "FFlagGamePassPrefetchOnJoinEnabled": "True",
+        "FFlagGamePassPrefetchOnJoinEnabled": "False",
         "FFlagEnableEconomicRestrictionInAvatarExperience": "True",
         "FFlagVideoCaptureStopOnEncodeError": "True",
         "UseApplicationLifecycleCallbacks2": "True",
@@ -13235,7 +13235,6 @@
         "FFlagEncodingServiceEnabled": "True",
         "FFlagQueryInstancesEnabled": "True",
         "FFlagAssetProviderMiniMarkerBuffers": "True",
-        "FFlagGamePassPrefetchOnJoinEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:40:58",
         "FFlagAddToSessionTrackingHttpSuccessfulPostBodySizeAllPerSession_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;348429350;2025-11-06T18:50:51",
         "FFlagAddToSessionTrackingHttpSuccessfulPostBodySizeTelemetryPerSession_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;348429350;2025-11-06T18:50:51",
         "FFlagWindowsSystemThemeEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1833353946;2025-11-06T18:53:50",
@@ -15522,6 +15521,7 @@
         "FStringJoinGameCardViewProfileExperimentLayer": "Social.JoinGameCardViewProfile",
         "DFFlagRenderFastClusterOcclusionCulling3": "True",
         "FFlagSessionTrackingReportReliability_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:46:12",
+        "FFlagFastClusterFixBoundingBoxUpdates2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T19:48:04",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -15556,9 +15556,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "cb924beeec576f33eafd727441d3216a4fb043f4",
-        "DFStringFlagRepoGitHashDynamicString": "cb924beeec576f33eafd727441d3216a4fb043f4",
-        "FStringFlipTimeStampFastString": "2025-11-06T19:48:22.399Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T19:48:22.399Z"
+        "FStringFlagRepoGitHashFastString": "0fe7a25baecfca7314cfe9081c1132662cccc920",
+        "DFStringFlagRepoGitHashDynamicString": "0fe7a25baecfca7314cfe9081c1132662cccc920",
+        "FStringFlipTimeStampFastString": "2025-11-06T19:53:34.042Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T19:53:34.042Z"
     }
 }
