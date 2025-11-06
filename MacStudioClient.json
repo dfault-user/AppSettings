@@ -13265,6 +13265,10 @@
         "FFlagHideBackButtonOnSignUpPage2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2119583380;2025-11-06T21:03:57",
         "FFlagEnableSignUpExitModal3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;430739814;2025-11-06T21:04:37",
         "FFlagEventDescriptorsToArray3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:05:22",
+        "FFlagNewFindAllReplaceAll2BetaFeature_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1651807077;2025-11-06T21:13:30",
+        "FFlagEnableFindReplaceAll2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1651807077;2025-11-06T21:13:30",
+        "FFlagFindAllHighlightsInScriptEditor2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1651807077;2025-11-06T21:13:30",
+        "FFlagNewFindReplaceTasker4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1651807077;2025-11-06T21:13:30",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14978,7 +14982,6 @@
         "FFlagLuauNormalizerUnionTyvarsTakeMaxSize": "True",
         "DFFlagMeshImportWildMeshSimplifier2": "True",
         "FIntUGCValidateMaxSensibleSharedStringLength": "150000",
-        "FFlagRuntimeEnabled13": "False",
         "FFlagRemoveShowErrorMessageRobloxMainWindow2": "True",
         "DFFlagJointsUseTimeDelta": "True",
         "FFlagStudioAddPscToIntentConversion": "True",
@@ -15541,9 +15544,10 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
-        "FStringFlagRepoGitHashFastString": "3ae2823c1916a3ea22c9923b56fb7c62771994af",
-        "DFStringFlagRepoGitHashDynamicString": "3ae2823c1916a3ea22c9923b56fb7c62771994af",
-        "FStringFlipTimeStampFastString": "2025-11-06T21:11:09.971Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T21:11:09.971Z"
+        "FFlagRuntimeEnabled13_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:11:08",
+        "FStringFlagRepoGitHashFastString": "986a829191c8d5240bd3831baff8612f847f640b",
+        "DFStringFlagRepoGitHashDynamicString": "986a829191c8d5240bd3831baff8612f847f640b",
+        "FStringFlipTimeStampFastString": "2025-11-06T21:17:02.254Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T21:17:02.254Z"
     }
 }
