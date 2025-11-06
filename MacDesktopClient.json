@@ -13245,6 +13245,10 @@
         "FFlagSelfViewFixMakeup_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:02:06",
         "FFlagAssetProviderMiniMarkerBuffers": "True",
         "FFlagEnableFixAdProgressStuckAtZero_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:10:57",
+        "DFFlagEnableGamepadInWebView_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;215563439;2025-11-06T18:14:15",
+        "DFFlagEnableWebViewGamepadNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;215563439;2025-11-06T18:14:15",
+        "DFFlagEnableWebViewMoveFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;215563439;2025-11-06T18:14:15",
+        "FFlagInvokeOnScreenKeyboardFromWebview_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:14:49",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -14200,9 +14204,9 @@
         "FIntApiFetchExperienceDetailsPageCounterThrottlingHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T17:29:44",
         "FFlagFixMultiStrokePseudo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1716825240;2025-11-06T17:32:58",
         "FFlagFixBorderOffsetScaleWithUIScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T17:35:29",
-        "FStringFlagRepoGitHashFastString": "4476881bd32992bac9a8a150626c81ac5d50c3a1",
-        "DFStringFlagRepoGitHashDynamicString": "4476881bd32992bac9a8a150626c81ac5d50c3a1",
-        "FStringFlipTimeStampFastString": "2025-11-06T18:13:38.024Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T18:13:38.024Z"
+        "FStringFlagRepoGitHashFastString": "0db39bfdad20d516f9eff285ed5c9ce1f4a996e4",
+        "DFStringFlagRepoGitHashDynamicString": "0db39bfdad20d516f9eff285ed5c9ce1f4a996e4",
+        "FStringFlipTimeStampFastString": "2025-11-06T18:17:45.145Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T18:17:45.145Z"
     }
 }
