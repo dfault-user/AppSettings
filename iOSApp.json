@@ -13235,7 +13235,6 @@
         "FFlagEncodingServiceEnabled": "True",
         "FFlagQueryInstancesEnabled": "True",
         "FFlagAssetProviderMiniMarkerBuffers": "True",
-        "FFlagEnablePreferredInputForSignUp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;348685304;2025-11-06T18:38:16",
         "FFlagGamePassPrefetchOnJoinEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:40:58",
         "FFlagAddToSessionTrackingHttpSuccessfulPostBodySizeAllPerSession_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;348429350;2025-11-06T18:50:51",
         "FFlagAddToSessionTrackingHttpSuccessfulPostBodySizeTelemetryPerSession_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;348429350;2025-11-06T18:50:51",
@@ -13258,6 +13257,7 @@
         "FFlagFunctionDescriptorsToArray2": "True",
         "FFlagStyleEditorFixSequenceNumPrecision": "True",
         "AxisAdornmentGrabSize": "12",
+        "FFlagEnablePreferredInputForSignUp": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14191,9 +14191,9 @@
         "FStringJoinGameCardViewProfileExperimentLayer": "Social.JoinGameCardViewProfile",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData2": "True",
         "FIntApiFetchExperienceDetailsPageCounterThrottlingHundredthsPercent": "1000",
-        "FStringFlagRepoGitHashFastString": "5f14eda6b63bb87183885959c19f91bf1aa123f9",
-        "DFStringFlagRepoGitHashDynamicString": "5f14eda6b63bb87183885959c19f91bf1aa123f9",
-        "FStringFlipTimeStampFastString": "2025-11-06T19:43:04.817Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T19:43:04.817Z"
+        "FStringFlagRepoGitHashFastString": "1decb76c09c8a84f78348f2a6d43476573942eb6",
+        "DFStringFlagRepoGitHashDynamicString": "1decb76c09c8a84f78348f2a6d43476573942eb6",
+        "FStringFlipTimeStampFastString": "2025-11-06T19:47:49.957Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T19:47:49.957Z"
     }
 }
