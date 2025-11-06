@@ -13742,6 +13742,7 @@
         "FFlagLuaAppFixExplicitFeedbackTelemetry": "True",
         "FFlagFixNullPtrOnMemoryStatsCheck": "True",
         "DFFlagWsFixLoggableUrl_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1413077126;2025-11-06T00:26:07",
+        "FFlagRemoveStaleChildConnections2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T00:30:09",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14225,9 +14226,9 @@
         "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:41:17",
         "FFlagLuaAppEdpVideoAvailableRamDeny": "True",
         "FIntLuaAppEdpVideoAvailableRamThresholdMb": "500",
-        "FStringFlagRepoGitHashFastString": "08e4b7653ea950afbe6a7db3c9285ef09c91c3b0",
-        "DFStringFlagRepoGitHashDynamicString": "08e4b7653ea950afbe6a7db3c9285ef09c91c3b0",
-        "FStringFlipTimeStampFastString": "2025-11-06T00:30:35.102Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T00:30:35.102Z"
+        "FStringFlagRepoGitHashFastString": "70894e3a4ec7285ae54283b14172c16f2bc19953",
+        "DFStringFlagRepoGitHashDynamicString": "70894e3a4ec7285ae54283b14172c16f2bc19953",
+        "FStringFlipTimeStampFastString": "2025-11-06T00:43:07.897Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T00:43:07.897Z"
     }
 }
