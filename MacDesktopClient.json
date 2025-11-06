@@ -12752,7 +12752,6 @@
         "FFlagPlayerSearchEnableOnlineFrequentsForAll": "True",
         "FFlagProfilePlatformEnableEditAvatar": "true",
         "DFIntGamePassPrefetchRefreshSeconds_PlaceFilter": "290;121864768012064",
-        "DFIntGetProductInfoGamepassCacheSecs_PlaceFilter": "300;121864768012064",
         "FFlagAMVRendererUseProtobuf": "True",
         "FFlagCLI156525": "True",
         "FFlagWindowsCheckTabletMode": "True",
@@ -13254,7 +13253,6 @@
         "FFlagFiberAwareRenderEvent": "True",
         "DFFlagRobloxTelemetryRemoveEphemeralStatsDualReport": "True",
         "DFFlagEnableFeatureTimeoutListeners3": "True",
-        "DFFlagEnableUpdateClientFeatureTimeoutMigration3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T20:51:18",
         "DFFlagFixUICornerStrokeConflict_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;656327793;2025-11-06T20:55:44",
         "FFlagHideBackButtonOnSignUpPage2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2119583380;2025-11-06T21:03:57",
         "FFlagEnableSignUpExitModal3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;430739814;2025-11-06T21:04:37",
@@ -13269,6 +13267,8 @@
         "FFlagAddTelemetrytoToolConfirmation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:43:21",
         "FFlagMappedFileFlushFix": "True",
         "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:46:35",
+        "DFFlagEnableUpdateClientFeatureTimeoutMigration3": "True",
+        "FFlagAACShareUniverseAccessToAssetsAsync_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:59:37",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -14237,9 +14237,9 @@
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
         "FFlagPerformanceControlBudgetSystemRollout8_Staged": "True;SteadyState;10;30;Revert;true;746803258;2025-11-06T21:52:20",
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
-        "FStringFlagRepoGitHashFastString": "155801f2e15e8352d54304b8cdd72cfe7385c525",
-        "DFStringFlagRepoGitHashDynamicString": "155801f2e15e8352d54304b8cdd72cfe7385c525",
-        "FStringFlipTimeStampFastString": "2025-11-06T21:58:31.229Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T21:58:31.229Z"
+        "FStringFlagRepoGitHashFastString": "3a7d20ffa130f5de2efe6ea1933b061d40077b11",
+        "DFStringFlagRepoGitHashDynamicString": "3a7d20ffa130f5de2efe6ea1933b061d40077b11",
+        "FStringFlipTimeStampFastString": "2025-11-06T22:03:25.379Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T22:03:25.379Z"
     }
 }
