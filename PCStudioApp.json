@@ -15475,10 +15475,10 @@
         "FFlagHlsPlaylistNoCacheByDefault": "True",
         "FFlagLuaAppFixExplicitFeedbackTelemetry": "True",
         "FFlagFixNullPtrOnMemoryStatsCheck": "True",
-        "DFFlagWsFixLoggableUrl_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1413077126;2025-11-06T00:26:07",
         "FFlagRemoveStaleChildConnections2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T00:30:09",
         "FIntEdpStoreClicksDetectorThrottlingHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T00:34:54",
         "FFlagRbxStorageAltInitDuration": "True",
+        "DFFlagWsFixLoggableUrl": "True",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -15513,9 +15513,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "d03610c290bacbfb97afd69d9423d8db656cc6a4",
-        "DFStringFlagRepoGitHashDynamicString": "d03610c290bacbfb97afd69d9423d8db656cc6a4",
-        "FStringFlipTimeStampFastString": "2025-11-06T01:27:29.447Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T01:27:29.447Z"
+        "FStringFlagRepoGitHashFastString": "b9c96c28b90511136ec1f4b95f1797207d4538d8",
+        "DFStringFlagRepoGitHashDynamicString": "b9c96c28b90511136ec1f4b95f1797207d4538d8",
+        "FStringFlipTimeStampFastString": "2025-11-06T01:32:52.762Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T01:32:52.762Z"
     }
 }
