@@ -13218,8 +13218,6 @@
         "FFlagTopBarSignalizeKeepOutAreas5_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;1966207974;flagbank",
         "FFlagEnableEconomicRestrictionForCollectibleInExperience": "True",
         "GmasdkIsolatedProcessDoNotRestartAds": "true",
-        "FFlagLuaAppGamepadHoldToast2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:17:09",
-        "DFFlagAnimationPoseBugFixes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:19:35",
         "FFlagVoiceNullCheckForTimeStamp": "True",
         "FFlagYieldFunctionDescriptorsToArray3": "True",
         "DFFlagJsonWriterWritesNanAndInfAsString2": "True",
@@ -13233,6 +13231,8 @@
         "FFlagUIInstanceModifiers": "True",
         "FIntVideoCaptureMaxLongSideLowMem_Staged": "854;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T00:11:27",
         "FIntVideoCaptureMaxShortSideLowMem_Staged": "480;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T00:12:22",
+        "FFlagLuaAppGamepadHoldToast2": "True",
+        "DFFlagAnimationPoseBugFixes": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14178,10 +14178,10 @@
         "FFlagMaxSizeUseCorrectPadding": "True",
         "FFlagSimCSGLargeAssetSolidMesh16": "True",
         "FFlagFixUIRayGoingThruExistingVerts4": "True",
-        "FFlagEnableWebViewCameraPermission_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:07:38",
-        "FStringFlagRepoGitHashFastString": "a40bb7456e4b1061d9da3c8ac5b72e7473b4eaa9",
-        "DFStringFlagRepoGitHashDynamicString": "a40bb7456e4b1061d9da3c8ac5b72e7473b4eaa9",
-        "FStringFlipTimeStampFastString": "2025-11-06T00:25:09.778Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T00:25:09.778Z"
+        "FFlagEnableWebViewCameraPermission": "True",
+        "FStringFlagRepoGitHashFastString": "08e4b7653ea950afbe6a7db3c9285ef09c91c3b0",
+        "DFStringFlagRepoGitHashDynamicString": "08e4b7653ea950afbe6a7db3c9285ef09c91c3b0",
+        "FStringFlipTimeStampFastString": "2025-11-06T00:30:35.102Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T00:30:35.102Z"
     }
 }
