@@ -13235,11 +13235,6 @@
         "FFlagEncodingServiceEnabled": "True",
         "FFlagQueryInstancesEnabled": "True",
         "FFlagAssetProviderMiniMarkerBuffers": "True",
-        "FFlagEnableFixAdProgressStuckAtZero_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:10:57",
-        "DFFlagEnableGamepadInWebView_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;215563439;2025-11-06T18:14:15",
-        "DFFlagEnableWebViewGamepadNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;215563439;2025-11-06T18:14:15",
-        "DFFlagEnableWebViewMoveFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;215563439;2025-11-06T18:14:15",
-        "FFlagInvokeOnScreenKeyboardFromWebview_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:14:49",
         "FFlagStyleEditorFixSequenceNumPrecision_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;512919081;2025-11-06T18:16:02",
         "FFlagEnableDataCenterIdInBacktraceAttribute_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:19:03",
         "FFlagFunctionDescriptorsToArray2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:19:57",
@@ -13258,6 +13253,11 @@
         "FFlagUseScaledStrokes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1417081738;2025-11-06T19:09:52",
         "FFlagFiberAwareRenderEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T19:14:03",
         "AllowVideoPreRoll": "True",
+        "FFlagEnableFixAdProgressStuckAtZero": "True",
+        "DFFlagEnableGamepadInWebView": "True",
+        "DFFlagEnableWebViewGamepadNavigation": "True",
+        "DFFlagEnableWebViewMoveFocus": "True",
+        "FFlagInvokeOnScreenKeyboardFromWebview": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14203,9 +14203,9 @@
         "FFlagFixUIRayGoingThruExistingVerts4": "True",
         "FFlagEnableWebViewCameraPermission": "True",
         "FFlagDisableBackgroundPushSettingsReporting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:46:19",
-        "FStringFlagRepoGitHashFastString": "2b1f584d52639930149f50f94972dc9670a97432",
-        "DFStringFlagRepoGitHashDynamicString": "2b1f584d52639930149f50f94972dc9670a97432",
-        "FStringFlipTimeStampFastString": "2025-11-06T19:17:48.490Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T19:17:48.490Z"
+        "FStringFlagRepoGitHashFastString": "2ef5a26743b5dffcc1cedcc231892fbf6f9b5575",
+        "DFStringFlagRepoGitHashDynamicString": "2ef5a26743b5dffcc1cedcc231892fbf6f9b5575",
+        "FStringFlipTimeStampFastString": "2025-11-06T19:19:37.802Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T19:19:37.802Z"
     }
 }
