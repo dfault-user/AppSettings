@@ -13234,6 +13234,8 @@
         "FIntVideoCaptureMaxLongSideLowMem": "1280",
         "FIntVideoCaptureMaxShortSideLowMem": "720",
         "FFlagRobloxTelemetryEnableSenderCallback": "True",
+        "FFlagEncodingServiceEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T16:58:03",
+        "FFlagQueryInstancesEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T16:58:34",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13746,6 +13748,7 @@
         "FFlagRemoveStaleChildConnections2": "True",
         "FFlagEnableEdpStoreClicksLogging3": "True",
         "FIntEdpStoreClicksDetectorThrottlingHundredthsPercent": "1000",
+        "DFFlagQueryExtraSyntaxErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T17:00:12",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14229,9 +14232,9 @@
         "FIntLuaAppEdpVideoAvailableRamThresholdMb": "500",
         "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure2": "True",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData2": "True",
-        "FStringFlagRepoGitHashFastString": "2b48bdc9ffcb7aab0896e75445c85a4eabdc5866",
-        "DFStringFlagRepoGitHashDynamicString": "2b48bdc9ffcb7aab0896e75445c85a4eabdc5866",
-        "FStringFlipTimeStampFastString": "2025-11-06T02:38:54.056Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T02:38:54.056Z"
+        "FStringFlagRepoGitHashFastString": "78986599a0286efd7d87e07fe23871cfaa09d98c",
+        "DFStringFlagRepoGitHashDynamicString": "78986599a0286efd7d87e07fe23871cfaa09d98c",
+        "FStringFlipTimeStampFastString": "2025-11-06T17:01:10.147Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T17:01:10.147Z"
     }
 }
