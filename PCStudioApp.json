@@ -13231,6 +13231,8 @@
         "FFlagEnableEconomicRestrictionInAvatarExperienceLook": "True",
         "FFlagDisableLvmsOptimization": "True",
         "FFlagUIInstanceModifiers": "True",
+        "FFlagEnableAdsMouseUnlock": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15055,8 +15057,6 @@
         "FFlagFixBorderOffsetScaleWithUIScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:34:09",
         "FFlagFoundationNumberInputRefAndCallbacks": "True",
         "FFlagUpdate17to18age_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:56:40",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
-        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -15509,9 +15509,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagVulkanReduceMipsUseImmCB_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-05T23:26:42",
-        "FStringFlagRepoGitHashFastString": "88d8ed20880a32db40aa8d88b6be06e4aaa0ae40",
-        "DFStringFlagRepoGitHashDynamicString": "88d8ed20880a32db40aa8d88b6be06e4aaa0ae40",
-        "FStringFlipTimeStampFastString": "2025-11-06T00:15:02.887Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T00:15:02.887Z"
+        "FStringFlagRepoGitHashFastString": "7e82bb0d363c7faa7fec6cfeddd74c2e86f9910b",
+        "DFStringFlagRepoGitHashDynamicString": "7e82bb0d363c7faa7fec6cfeddd74c2e86f9910b",
+        "FStringFlipTimeStampFastString": "2025-11-06T00:18:57.679Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T00:18:57.679Z"
     }
 }
