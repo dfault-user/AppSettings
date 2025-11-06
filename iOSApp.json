@@ -13277,6 +13277,7 @@
         "FFlagDeprecateSystemPrimaryAndSecondaryButtonABTest3": "True",
         "DFIntOpenCloudHttpRequestSuccessEventThrottleHundredthPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T23:20:01",
         "FFlagVideoPlaybackIxpLayerEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T23:34:47",
+        "FFlagEnableToolConfirmationforThirdPartyMCP_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T23:36:18",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14222,9 +14223,11 @@
         "FFlagAXUpdateAnalyticsFiltersEnums": "True",
         "FIntEdpStoreImpressionsDetectorThrottlingHundredthsPercent": "10000",
         "FFlagEnableEdpStoreImpressionsLogging2": "True",
-        "FStringFlagRepoGitHashFastString": "9fa98ed71a9bc31698e01216bf8ec0966abd31aa",
-        "DFStringFlagRepoGitHashDynamicString": "9fa98ed71a9bc31698e01216bf8ec0966abd31aa",
-        "FStringFlipTimeStampFastString": "2025-11-06T23:37:26.600Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T23:37:26.600Z"
+        "FFlagVideoPlaybackIxpLayerEnabled_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
+        "FFlagEnableMacOSHardwareDecode3_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
+        "FStringFlagRepoGitHashFastString": "fd9cb6811c8652d959ca7304a0b7d1a6992f0849",
+        "DFStringFlagRepoGitHashDynamicString": "fd9cb6811c8652d959ca7304a0b7d1a6992f0849",
+        "FStringFlipTimeStampFastString": "2025-11-06T23:41:51.047Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T23:41:51.047Z"
     }
 }
