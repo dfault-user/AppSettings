@@ -13253,6 +13253,7 @@
         "FFlagEnableDataCenterIdInBacktraceAttribute_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:19:03",
         "FFlagFunctionDescriptorsToArray2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:19:57",
         "DFIntJoinLimitWin32x64_Staged": "696;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T18:27:03",
+        "FFlagEnablePreferredInputForSignUp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;348685304;2025-11-06T18:38:16",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13678,7 +13679,6 @@
         "FFlagProfilePlatformUseNewLayoutForAssetsCarousel_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
         "FFlagRefactorPeoplePage7_IXP": "1;UIEcosystem.User.Migration;User.Experience.Menu.ReactPeoplePageAndCardLayout;571424577;flagbank",
         "FFlagInGameMenuAddChatLineReporting5_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1-1761068633;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1;1401781319;flagbank",
-        "FFlagGamePassPrefetchOnJoinEnabled_PlaceFilter": "True;85537329004957;112780263016678;70451556031302;131716211654599;106011698424775;16732694052;105044186406168;72907489978215;99519129453387;17800150007;121864768012064;97005321375460",
         "FFlagWeCanHaveFonts": "True",
         "FFlagAXOverlayShouldNotAutofocusForNonDirectionalInput": "True",
         "DFFlagLetRagdolledHumanoidsSleep_PlaceFilter": "True;102669905873657;95110357124286;74420304866897;112408689884212",
@@ -14205,12 +14205,12 @@
         "FFlagFixGridMinSize": "True",
         "FFlagAPCompression3": "True",
         "FFlagRbxStorageFCinCache": "True",
-        "FFlagFixMultiStrokePseudo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1716825240;2025-11-06T17:32:58",
-        "FFlagFixBorderOffsetScaleWithUIScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T17:35:29",
         "FIntApiFetchExperienceDetailsPageCounterThrottlingHundredthsPercent": "1000",
-        "FStringFlagRepoGitHashFastString": "fdab4b5f6053b8bd72bc8e2970a80493f2e7c585",
-        "DFStringFlagRepoGitHashDynamicString": "fdab4b5f6053b8bd72bc8e2970a80493f2e7c585",
-        "FStringFlipTimeStampFastString": "2025-11-06T18:34:53.298Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T18:34:53.298Z"
+        "FFlagFixBorderOffsetScaleWithUIScale": "True",
+        "FFlagFixMultiStrokePseudo": "True",
+        "FStringFlagRepoGitHashFastString": "3acbd724776d171911cc5cd939af2d10187cdac3",
+        "DFStringFlagRepoGitHashDynamicString": "3acbd724776d171911cc5cd939af2d10187cdac3",
+        "FStringFlipTimeStampFastString": "2025-11-06T18:45:37.428Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T18:45:37.428Z"
     }
 }
