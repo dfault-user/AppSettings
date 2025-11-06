@@ -9977,7 +9977,7 @@
         "FFlagVideoCaptureFastEos": "True",
         "FFlagUGCValidateAllowThumbnailFieldOfView": "True",
         "FFlagUGCValidateAnimationRequiredFieldsFix": "True",
-        "DFFlagFixUICornerStrokeConflict": "False",
+        "DFFlagFixUICornerStrokeConflict": "True",
         "FFlagEnableGuacV2UrlForIntlAuthCompliance": "True",
         "FFlagLuaAppEnableVirtualEventPlaceId": "True",
         "FFlagCLI_154965_GenerationServiceAllowVectorOptions": "True",
@@ -13253,7 +13253,6 @@
         "FFlagFiberAwareRenderEvent": "True",
         "DFFlagRobloxTelemetryRemoveEphemeralStatsDualReport": "True",
         "DFFlagEnableFeatureTimeoutListeners3": "True",
-        "DFFlagFixUICornerStrokeConflict_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;656327793;2025-11-06T20:55:44",
         "FFlagHideBackButtonOnSignUpPage2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2119583380;2025-11-06T21:03:57",
         "FFlagEnableSignUpExitModal3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;430739814;2025-11-06T21:04:37",
         "FFlagEventDescriptorsToArray3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:05:22",
@@ -13269,6 +13268,7 @@
         "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:46:35",
         "DFFlagEnableUpdateClientFeatureTimeoutMigration3": "True",
         "FFlagAACShareUniverseAccessToAssetsAsync_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:59:37",
+        "FFlagStudioUnsavedPlaceGrantPermissions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T22:01:18",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13631,9 +13631,9 @@
         "FFlagAXPrefetchMarketplaceIXP4": "True",
         "FFlagFmodCompressorNanDetection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:52:56",
         "FFlagUseXboxPaymentsProtocolCommonFunctions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:53:32",
-        "FStringFlagRepoGitHashFastString": "3a7d20ffa130f5de2efe6ea1933b061d40077b11",
-        "DFStringFlagRepoGitHashDynamicString": "3a7d20ffa130f5de2efe6ea1933b061d40077b11",
-        "FStringFlipTimeStampFastString": "2025-11-06T22:03:25.379Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T22:03:25.379Z"
+        "FStringFlagRepoGitHashFastString": "1654ffae33822ba23cbc1c989cfc5a0b3dd6fe89",
+        "DFStringFlagRepoGitHashDynamicString": "1654ffae33822ba23cbc1c989cfc5a0b3dd6fe89",
+        "FStringFlipTimeStampFastString": "2025-11-06T22:07:26.015Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T22:07:26.015Z"
     }
 }
