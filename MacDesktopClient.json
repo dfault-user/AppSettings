@@ -13259,6 +13259,7 @@
         "FFlagEnableCreatorConfigSystemMenu_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1759254168;2025-11-06T20:29:10",
         "FFlagDisableOldVoiceSettingDevices_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T20:39:23",
         "DFFlagRobloxTelemetryRemoveEphemeralStatsDualReport": "True",
+        "FFlagMappedFileFlushFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T20:43:53",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -14216,12 +14217,13 @@
         "FIntApiFetchExperienceDetailsPageCounterThrottlingHundredthsPercent": "1000",
         "FFlagFixBorderOffsetScaleWithUIScale": "True",
         "FFlagFixMultiStrokePseudo": "True",
-        "FFlagFixFACSRigsCache3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T19:44:13",
         "FFlagProMotionSupport_Staged": "True;SteadyState;10;30;Revert;2025-11-06T20:24:50",
         "FFlagAddStyleProviderInvitePrompt": "True",
-        "FStringFlagRepoGitHashFastString": "71a57c44dddc59377dfc765513d0ee1cef6012d2",
-        "DFStringFlagRepoGitHashDynamicString": "71a57c44dddc59377dfc765513d0ee1cef6012d2",
-        "FStringFlipTimeStampFastString": "2025-11-06T20:45:37.643Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T20:45:37.643Z"
+        "DFIntPerformanceControlMemoryCriticalBufferSizeMB_Staged": "20;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T20:44:41",
+        "FFlagFixFACSRigsCache3": "True",
+        "FStringFlagRepoGitHashFastString": "ea7a53354a809b592ab2669fdcf8c9361f43ddb8",
+        "DFStringFlagRepoGitHashDynamicString": "ea7a53354a809b592ab2669fdcf8c9361f43ddb8",
+        "FStringFlipTimeStampFastString": "2025-11-06T20:47:20.289Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T20:47:20.289Z"
     }
 }
