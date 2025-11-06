@@ -13755,7 +13755,7 @@
         "DFFlagWsFixLoggableUrl": "True",
         "FFlagRemoveStaleChildConnections2": "True",
         "FFlagEnableEdpStoreClicksLogging3": "True",
-        "FIntEdpStoreClicksDetectorThrottlingHundredthsPercent": "1000",
+        "FIntEdpStoreClicksDetectorThrottlingHundredthsPercent": "10000",
         "FFlagJoinGameCardViewProfileNavigateToProfilePlatform_IXP": "1;Social.JoinGameCardViewProfile;Social.JoinGameCardViewProfile.JoinGameCardViewProfileNavigation;1066170773;dev_controlled",
         "DFFlagQueryExtraSyntaxErrors": "True",
         "FFlagFastClusterFixBoundingBoxUpdates2": "False",
@@ -13765,7 +13765,6 @@
         "DFFlagNewReflectionUseReflectable": "True",
         "DFFlagNewReflectionUseStringable": "True",
         "FFlagSessionTrackingReportReliability": "True",
-        "FIntEdpStoreClicksDetectorThrottlingHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:24:48",
         "FFlagVoiceSendTimeStampInReliabilityEvent": "True",
         "FFlagAXUpdateAnalyticsFiltersEnums_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:37:05",
         "FFlagAXUnifiedLoggingIsolatedFixes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:37:48",
@@ -14236,14 +14235,12 @@
         "FFlagFixFACSRigsCache3": "True",
         "FFlagRbxStorageFileCachePerm3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T21:39:42",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB": "20",
-        "FStringPerformanceControlExperimentName_Staged": "Harmony_Budget_Based_IXP_1_Desktop_Treatment;SteadyState;10;30;Revert;true;746803258;2025-11-06T21:52:20",
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
-        "FFlagPerformanceControlBudgetSystemRollout8_Staged": "True;SteadyState;10;30;Revert;true;746803258;2025-11-06T21:52:20",
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
         "FFlagProMotionSupport": "True",
-        "FStringFlagRepoGitHashFastString": "302239f93cdfd4b16bf93438cd6cdc7e6a72702f",
-        "DFStringFlagRepoGitHashDynamicString": "302239f93cdfd4b16bf93438cd6cdc7e6a72702f",
-        "FStringFlipTimeStampFastString": "2025-11-06T22:25:03.686Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T22:25:03.686Z"
+        "FStringFlagRepoGitHashFastString": "e494cd63cef5f50fd1839198266976f6caf2787f",
+        "DFStringFlagRepoGitHashDynamicString": "e494cd63cef5f50fd1839198266976f6caf2787f",
+        "FStringFlipTimeStampFastString": "2025-11-06T22:30:29.977Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T22:30:29.977Z"
     }
 }
