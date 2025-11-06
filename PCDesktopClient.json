@@ -13263,6 +13263,7 @@
         "DFFlagEnableUpdateClientFeatureTimeoutMigration3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T20:51:18",
         "DFFlagFixUICornerStrokeConflict_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;656327793;2025-11-06T20:55:44",
         "FFlagHideBackButtonOnSignUpPage2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2119583380;2025-11-06T21:03:57",
+        "FFlagEnableSignUpExitModal3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;430739814;2025-11-06T21:04:37",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14276,9 +14277,9 @@
         "FFlagUsePaymentsProtocolFailureMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T20:34:31",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T20:43:45",
         "FFlagFixFACSRigsCache3": "True",
-        "FStringFlagRepoGitHashFastString": "17e0ee6adacf7bdf49f0afb44d436548788e4cbc",
-        "DFStringFlagRepoGitHashDynamicString": "17e0ee6adacf7bdf49f0afb44d436548788e4cbc",
-        "FStringFlipTimeStampFastString": "2025-11-06T21:07:28.346Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T21:07:28.346Z"
+        "FStringFlagRepoGitHashFastString": "af5a3e50ce2eba92e5e8fac48c25cfbc936304fc",
+        "DFStringFlagRepoGitHashDynamicString": "af5a3e50ce2eba92e5e8fac48c25cfbc936304fc",
+        "FStringFlipTimeStampFastString": "2025-11-06T21:07:50.790Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T21:07:50.790Z"
     }
 }
