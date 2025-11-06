@@ -13234,8 +13234,6 @@
         "FIntVideoCaptureMaxLongSideLowMem": "854",
         "FIntVideoCaptureMaxShortSideLowMem": "480",
         "FFlagRobloxTelemetryEnableSenderCallback": "True",
-        "FFlagEncodingServiceEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T16:58:03",
-        "FFlagQueryInstancesEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T16:58:34",
         "FFlagAssetProviderMiniMarkerBuffers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T17:01:26",
         "FFlagFCRouteSecondaryParts3_IXP": "1;Portal.FastClusterToolsOptimization-1762449203;FastClusterToolsOptimization;1971557908;flagbank",
         "FFlagFCTransformsDiffCheckOnUpdateGeometry_IXP": "1;Portal.FastClusterToolsOptimization-1762449203;FastClusterToolsOptimization;1971557908;flagbank",
@@ -13243,6 +13241,8 @@
         "DFFlagUseFastFromAxisTimesAngle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T17:54:30",
         "FFlagGatherContentIdsSupportContent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T17:55:45",
         "FFlagRemoteCommandServiceEnabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T17:57:14",
+        "FFlagEncodingServiceEnabled": "True",
+        "FFlagQueryInstancesEnabled": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14179,9 +14179,9 @@
         "FFlagJoinGameCardViewProfileNavigateToProfilePlatform_IXP": "1;Social.JoinGameCardViewProfile;Social.JoinGameCardViewProfile.JoinGameCardViewProfileNavigation;1066170773;dev_controlled",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T17:27:37",
         "FIntApiFetchExperienceDetailsPageCounterThrottlingHundredthsPercent_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T17:29:44",
-        "FStringFlagRepoGitHashFastString": "70106c361cd6f7a4634c5f285feaaadd1804e3e1",
-        "DFStringFlagRepoGitHashDynamicString": "70106c361cd6f7a4634c5f285feaaadd1804e3e1",
-        "FStringFlipTimeStampFastString": "2025-11-06T17:58:40.834Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T17:58:40.834Z"
+        "FStringFlagRepoGitHashFastString": "1796a8b3b778b495175ba0d036eda1e720bba15a",
+        "DFStringFlagRepoGitHashDynamicString": "1796a8b3b778b495175ba0d036eda1e720bba15a",
+        "FStringFlipTimeStampFastString": "2025-11-06T18:03:17.935Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T18:03:17.935Z"
     }
 }
