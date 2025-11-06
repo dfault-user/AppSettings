@@ -13262,6 +13262,8 @@
         "DFFlagEnableFeatureTimeoutListeners3": "True",
         "DFFlagEnableUpdateClientFeatureTimeoutMigration3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T20:51:18",
         "DFFlagFixUICornerStrokeConflict_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;656327793;2025-11-06T20:55:44",
+        "FFlagHideBackButtonOnSignUpPage2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2119583380;2025-11-06T21:03:57",
+        "FFlagEnableSignUpExitModal3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;430739814;2025-11-06T21:04:37",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13622,9 +13624,9 @@
         "FFlagAddStyleProviderInvitePrompt": "True",
         "FFlagUsePaymentsProtocolFailureMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T20:34:31",
         "FFlagAXPrefetchMarketplaceIXP4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1208367087;2025-11-06T20:42:44",
-        "FStringFlagRepoGitHashFastString": "67081eaaee654e478aaf7d7b4c42dd775b7c2532",
-        "DFStringFlagRepoGitHashDynamicString": "67081eaaee654e478aaf7d7b4c42dd775b7c2532",
-        "FStringFlipTimeStampFastString": "2025-11-06T21:03:02.029Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-06T21:03:02.029Z"
+        "FStringFlagRepoGitHashFastString": "af5a3e50ce2eba92e5e8fac48c25cfbc936304fc",
+        "DFStringFlagRepoGitHashDynamicString": "af5a3e50ce2eba92e5e8fac48c25cfbc936304fc",
+        "FStringFlipTimeStampFastString": "2025-11-06T21:07:50.790Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-06T21:07:50.790Z"
     }
 }
