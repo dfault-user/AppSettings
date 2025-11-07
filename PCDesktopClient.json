@@ -13280,6 +13280,7 @@
         "FFlagEnableContactListTeleportWithCallId": "True",
         "DFFlagMigratePlayerFeatureTimeoutsWrites5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T17:28:43",
         "FFlagFmodCheckForValidMixBuffers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T17:32:18",
+        "FIntBulkPurchaseRequestLimit_Staged": "30;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T17:47:29",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14305,9 +14306,9 @@
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_150_Windows;1999708510;flagbank",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_150_Windows;1999708510;flagbank",
         "FFlagFixFACSRigsCache3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T17:24:19",
-        "FStringFlagRepoGitHashFastString": "1909a241d64487d775763843a10192cb02825fe7",
-        "DFStringFlagRepoGitHashDynamicString": "1909a241d64487d775763843a10192cb02825fe7",
-        "FStringFlipTimeStampFastString": "2025-11-07T17:33:43.058Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-07T17:33:43.058Z"
+        "FStringFlagRepoGitHashFastString": "05757b3b9f8e6ddd696ac1c29850870a2c27e80b",
+        "DFStringFlagRepoGitHashDynamicString": "05757b3b9f8e6ddd696ac1c29850870a2c27e80b",
+        "FStringFlipTimeStampFastString": "2025-11-07T17:49:28.559Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-07T17:49:28.559Z"
     }
 }
