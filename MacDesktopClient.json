@@ -13777,6 +13777,11 @@
         "FFlagAXUpdateAnalyticsFiltersEnums": "True",
         "FFlagRemoveUnsafeDMUsagePreview": "True",
         "DFFlagDebugHlsAssumeLiveByDefaultForUnknownSource_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T00:17:41",
+        "FFlagAXFlagBasedExposureLoggingCatalogPage_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
+        "FFlagAXMoveAllTabToWidgetOnly2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
+        "FFlagAXPassScreenSizeToWidgetApi2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
+        "FFlagAXPassScreenSizeToWidgetApiLogExposure_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
+        "FStringAXPassScreenSizeToWidgetApiExposureLayer_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14245,9 +14250,9 @@
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
         "FFlagProMotionSupport": "False",
         "FFlagRbxStorageFileCachePerm3": "True",
-        "FStringFlagRepoGitHashFastString": "215a69be802b0a877f83e578a4601133bafc2b75",
-        "DFStringFlagRepoGitHashDynamicString": "215a69be802b0a877f83e578a4601133bafc2b75",
-        "FStringFlipTimeStampFastString": "2025-11-07T00:48:49.636Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-07T00:48:49.636Z"
+        "FStringFlagRepoGitHashFastString": "bfef6f4a86b37c017ca25b28fdea5eb970060b4e",
+        "DFStringFlagRepoGitHashDynamicString": "bfef6f4a86b37c017ca25b28fdea5eb970060b4e",
+        "FStringFlipTimeStampFastString": "2025-11-07T00:53:33.037Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-07T00:53:33.037Z"
     }
 }
