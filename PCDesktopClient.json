@@ -13270,7 +13270,6 @@
         "FFlagStudioUnsavedPlaceGrantPermissions": "True",
         "DFFlagAutoReverbSmoothedInitialization": "True",
         "FFlagExpChatTranslationToggleSpacingFix": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "DFFlagEnableFeatureTimeoutMigration3": "True",
         "FFlagDeprecateSystemPrimaryAndSecondaryButtonABTest3": "True",
         "DFIntOpenCloudHttpRequestSuccessEventThrottleHundredthPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T23:20:01",
@@ -13279,6 +13278,8 @@
         "FFlagCallBackDescriptorsToArray3": "True",
         "FFlagEnableNewBadgeVisibilityCopy": "True",
         "FFlagEnableContactListTeleportWithCallId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T00:03:04",
+        "DFFlagHttp2GranularConfig": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13745,7 +13746,6 @@
         "FFlagCallBackDescriptorsToArray2": "True",
         "FFlagComponentManagerAddDedicatedInjectedComponent": "True",
         "FFlagStatusFileManagerV22": "True",
-        "DFFlagHttp2GranularConfig": "True",
         "DFFlagHttp2NonUploadReqs": "True",
         "FFlagWinUseNewStatusFileManager": "True",
         "DFFlagHttp2AllDevOriginatedReqs": "True",
@@ -13803,6 +13803,7 @@
         "FFlagAXUnifiedLoggingIsolatedFixes": "True",
         "FFlagAXUpdateAnalyticsFiltersEnums": "True",
         "FFlagRemoveUnsafeDMUsagePreview": "True",
+        "DFFlagDebugHlsAssumeLiveByDefaultForUnknownSource_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T00:17:41",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14295,9 +14296,9 @@
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB": "100",
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
-        "FStringFlagRepoGitHashFastString": "aa08006181a0ac35b860219058b509b1fb5742b1",
-        "DFStringFlagRepoGitHashDynamicString": "aa08006181a0ac35b860219058b509b1fb5742b1",
-        "FStringFlipTimeStampFastString": "2025-11-07T00:15:46.395Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-07T00:15:46.395Z"
+        "FStringFlagRepoGitHashFastString": "7edd5b40281603a8fa8684bf636650aa3646c432",
+        "DFStringFlagRepoGitHashDynamicString": "7edd5b40281603a8fa8684bf636650aa3646c432",
+        "FStringFlipTimeStampFastString": "2025-11-07T00:19:17.570Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-07T00:19:17.570Z"
     }
 }
