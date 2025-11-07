@@ -7921,7 +7921,7 @@
         "FFlagRBSEnableSelfAliasRuntime": "True",
         "FFlagSongDetailsAnalyticsEvents": "True",
         "FFlagSongDetailsAudioScrubberPositionFix": "True",
-        "FIntRelocateMobileMenuButtonsVariant_IXP": "1;Experience.Menu;User.ExperienceMenu.MenuAndConfirmationButtonColorRedesign.3;453317709;flagbank",
+        "FIntRelocateMobileMenuButtonsVariant_IXP": "1;Experience.Menu;User.ExperienceMenu.MenuAndConfirmationButtonColorRedesign.2;453317709;flagbank",
         "FFlagSongDetailsStaticAlbumArtImageFallback": "True",
         "FFlagSongDetailsAudioPlayer3": "True",
         "FFlagPropertiesPanelResetModifiedProperty4": "True",
@@ -10185,7 +10185,7 @@
         "FFlagIxpCrashTaggingStudio": "True",
         "FFlagCreateSurfaceAppearanceBetaFeature": "True",
         "FFlagToolboxUseGetItemsByCreator": "True",
-        "FFlagRefactorMenuConfirmationButtons3_IXP": "1;Experience.Menu;User.ExperienceMenu.MenuAndConfirmationButtonColorRedesign.3;453317709;flagbank",
+        "FFlagRefactorMenuConfirmationButtons3_IXP": "1;Experience.Menu;User.ExperienceMenu.MenuAndConfirmationButtonColorRedesign.2;453317709;flagbank",
         "FFlagCheckBodyPartMeshSize": "True",
         "FFlagCheckLayeredClothingMeshSize": "True",
         "FFlagCheckAccessoryMeshSize": "True",
@@ -13285,6 +13285,7 @@
         "FFlagNeverUseJoinBlobRobloxLocaleEvenAsDefault_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T18:02:24",
         "FFlagRestoreAndroidAudioDucking2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T18:03:18",
         "AllowVideoPreRoll": "True",
+        "FFlagInhibitPeopleRenderOnLeaveAndJoin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2027174441;2025-11-07T18:26:54",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13655,7 +13656,6 @@
         "DFIntSQLiteFullChkpointMaxReport": "3",
         "FFlagBootcampCLI164914": "True",
         "DFLogBootcampCLI164914Log": "6",
-        "FFlagEnableDesktopUILessMode_IXP": "1;Experience.Menu.UILess.Exposure;User.ExperienceMenuUILessExposure.UILessMode3;981580002;dev_controlled",
         "FFlagFixVulkanGetSwapChainSizeCrash": "True",
         "FFlagGetSwapChainSizeSupportBiggerSize": "True",
         "DFFlagDataStoreGetKeyVersionInfoRdbFlag_PlaceFilter": "True;16101250253;18412633979;16146832113;4924922222;126884695634066",
@@ -14301,9 +14301,9 @@
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_150_Windows;1999708510;flagbank",
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_150_Windows;1999708510;flagbank",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_150_Windows;1999708510;flagbank",
-        "FStringFlagRepoGitHashFastString": "3c6566420b699494abf4914091fc5f3f43bc4bc7",
-        "DFStringFlagRepoGitHashDynamicString": "3c6566420b699494abf4914091fc5f3f43bc4bc7",
-        "FStringFlipTimeStampFastString": "2025-11-07T18:27:34.547Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-07T18:27:34.547Z"
+        "FStringFlagRepoGitHashFastString": "8a3fb59ee2283b55630493fbc4271e2f336b6811",
+        "DFStringFlagRepoGitHashDynamicString": "8a3fb59ee2283b55630493fbc4271e2f336b6811",
+        "FStringFlipTimeStampFastString": "2025-11-07T18:31:58.462Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-07T18:31:58.462Z"
     }
 }
