@@ -13278,6 +13278,7 @@
         "FFlagVideoPlaybackIxpLayerEnabled": "True",
         "FFlagEnableToolConfirmationforThirdPartyMCP": "True",
         "FFlagEnableContactListTeleportWithCallId": "True",
+        "DFFlagMigratePlayerFeatureTimeoutsWrites5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T17:28:43",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14230,9 +14231,9 @@
         "FFlagAXPassScreenSizeToWidgetApi2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
         "FFlagAXPassScreenSizeToWidgetApiLogExposure_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
         "FStringAXPassScreenSizeToWidgetApiExposureLayer_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "f20cd5a57ea99af620bcb9406e3e8d4fd1e0e9ed",
-        "DFStringFlagRepoGitHashDynamicString": "f20cd5a57ea99af620bcb9406e3e8d4fd1e0e9ed",
-        "FStringFlipTimeStampFastString": "2025-11-07T17:25:37.581Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-07T17:25:37.581Z"
+        "FStringFlagRepoGitHashFastString": "558b6b33be91e22fa4a74b06a256f3ed7f95b83a",
+        "DFStringFlagRepoGitHashDynamicString": "558b6b33be91e22fa4a74b06a256f3ed7f95b83a",
+        "FStringFlipTimeStampFastString": "2025-11-07T17:29:59.296Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-07T17:29:59.296Z"
     }
 }
