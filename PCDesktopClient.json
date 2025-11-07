@@ -14293,11 +14293,15 @@
         "FFlagFixFACSRigsCache3": "True",
         "FFlagUsePaymentsProtocolFailureMetrics": "True",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB": "100",
-        "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
-        "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
-        "FStringFlagRepoGitHashFastString": "092105f0ce1a11a9722ed205d40f017ec393591d",
-        "DFStringFlagRepoGitHashDynamicString": "092105f0ce1a11a9722ed205d40f017ec393591d",
-        "FStringFlipTimeStampFastString": "2025-11-07T00:31:27.885Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-07T00:31:27.885Z"
+        "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_150_Windows;1999708510;flagbank",
+        "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_150_Windows;1999708510;flagbank",
+        "FFlagPerformanceControlBudgetSystemRollout8_Staged": "True;SteadyState;10;30;Revert;true;1999708510;2025-11-07T00:24:06",
+        "FStringPerformanceControlExperimentName_Staged": "Harmony_Budget_Based_IXP_150_Windows_Treatment;SteadyState;10;30;Revert;true;1999708510;2025-11-07T00:24:06",
+        "DFIntPerformanceControlMemoryCriticalBufferSizeMB_Staged": "150;SteadyState;10;30;Revert;false;1999708510;2025-11-07T00:24:06",
+        "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_150_Windows;1999708510;flagbank",
+        "FStringFlagRepoGitHashFastString": "1a243cea937d529186731b039ce99f9a4811ba95",
+        "DFStringFlagRepoGitHashDynamicString": "1a243cea937d529186731b039ce99f9a4811ba95",
+        "FStringFlipTimeStampFastString": "2025-11-07T00:33:02.167Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-07T00:33:02.167Z"
     }
 }
