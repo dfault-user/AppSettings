@@ -7921,7 +7921,7 @@
         "FFlagRBSEnableSelfAliasRuntime": "True",
         "FFlagSongDetailsAnalyticsEvents": "True",
         "FFlagSongDetailsAudioScrubberPositionFix": "True",
-        "FIntRelocateMobileMenuButtonsVariant_IXP": "1;Experience.Menu;User.ExperienceMenu.MenuAndConfirmationButtonColorRedesign.3;453317709;flagbank",
+        "FIntRelocateMobileMenuButtonsVariant_IXP": "1;Experience.Menu;User.ExperienceMenu.MenuAndConfirmationButtonColorRedesign.2;453317709;flagbank",
         "FFlagSongDetailsStaticAlbumArtImageFallback": "True",
         "FFlagSongDetailsAudioPlayer3": "True",
         "FFlagPropertiesPanelResetModifiedProperty4": "True",
@@ -10185,7 +10185,7 @@
         "FFlagIxpCrashTaggingStudio": "True",
         "FFlagCreateSurfaceAppearanceBetaFeature": "True",
         "FFlagToolboxUseGetItemsByCreator": "True",
-        "FFlagRefactorMenuConfirmationButtons3_IXP": "1;Experience.Menu;User.ExperienceMenu.MenuAndConfirmationButtonColorRedesign.3;453317709;flagbank",
+        "FFlagRefactorMenuConfirmationButtons3_IXP": "1;Experience.Menu;User.ExperienceMenu.MenuAndConfirmationButtonColorRedesign.2;453317709;flagbank",
         "FFlagCheckBodyPartMeshSize": "True",
         "FFlagCheckLayeredClothingMeshSize": "True",
         "FFlagCheckAccessoryMeshSize": "True",
@@ -13278,7 +13278,6 @@
         "FFlagVideoPlaybackIxpLayerEnabled": "True",
         "FFlagEnableToolConfirmationforThirdPartyMCP": "True",
         "FFlagEnableContactListTeleportWithCallId": "True",
-        "DFFlagMigratePlayerFeatureTimeoutsWrites5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T17:28:43",
         "FFlagFmodCheckForValidMixBuffers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T17:32:18",
         "FIntBulkPurchaseRequestLimit_Staged": "30;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T17:47:29",
         "FFlagAddRelaunchAppSessionIdL0_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T18:00:23",
@@ -13286,6 +13285,8 @@
         "FFlagRestoreAndroidAudioDucking2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T18:03:18",
         "FFlagFixDeviceSettingsFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;629333263;2025-11-07T18:12:59",
         "FFlagInhibitPeopleRenderOnLeaveAndJoin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2027174441;2025-11-07T18:26:54",
+        "DFFlagMigratePlayerFeatureTimeoutsWrites5": "True",
+        "FFlagRenameReactPageRoot_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T18:31:45",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15562,9 +15563,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagRuntimeEnabled13": "True",
-        "FStringFlagRepoGitHashFastString": "6a9641339e5f43491c5f9e19ef5f1f9b3efe319a",
-        "DFStringFlagRepoGitHashDynamicString": "6a9641339e5f43491c5f9e19ef5f1f9b3efe319a",
-        "FStringFlipTimeStampFastString": "2025-11-07T18:30:12.756Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-07T18:30:12.756Z"
+        "FStringFlagRepoGitHashFastString": "e2bede6abed2cb50461570d09e9818250e0f0668",
+        "DFStringFlagRepoGitHashDynamicString": "e2bede6abed2cb50461570d09e9818250e0f0668",
+        "FStringFlipTimeStampFastString": "2025-11-07T18:33:19.817Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-07T18:33:19.817Z"
     }
 }
