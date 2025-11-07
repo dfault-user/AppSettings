@@ -13266,7 +13266,6 @@
         "FFlagDisableOldVoiceSettingDevices": "True",
         "FFlagAddTelemetrytoToolConfirmation": "True",
         "FFlagCeaseUAPresenceRealtimeNotificationUpdatesInGameV2": "True",
-        "FFlagEnableNewBadgeVisibilityCopy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T22:57:20",
         "FFlagAACShareUniverseAccessToAssetsAsync": "False",
         "FFlagStudioUnsavedPlaceGrantPermissions": "False",
         "DFFlagAutoReverbSmoothedInitialization": "True",
@@ -13278,6 +13277,8 @@
         "FFlagVideoPlaybackIxpLayerEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T23:34:47",
         "FFlagEnableToolConfirmationforThirdPartyMCP_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T23:36:18",
         "FFlagCallBackDescriptorsToArray3": "True",
+        "FFlagEnableNewBadgeVisibilityCopy": "True",
+        "FFlagEnableContactListTeleportWithCallId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T00:03:04",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15114,8 +15115,8 @@
         "FFlagAmrNavButtons2": "True",
         "FFlagAmrUiAnalytics": "True",
         "FFlagEnableZoomExtentsAction": "True",
-        "FFlagViewInstanceLaunchTask_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T22:55:51",
         "FFlagDebugLuaAppValidateProps": "True",
+        "FFlagViewInstanceLaunchTask": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -15579,9 +15580,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagStudioUnsavedPlaceGrantPermissions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-06T23:58:23",
-        "FStringFlagRepoGitHashFastString": "04d217bc16e24d88f25e36e79f19861e16459440",
-        "DFStringFlagRepoGitHashDynamicString": "04d217bc16e24d88f25e36e79f19861e16459440",
-        "FStringFlipTimeStampFastString": "2025-11-07T00:01:53.728Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-07T00:01:53.728Z"
+        "FStringFlagRepoGitHashFastString": "53aa07dac17702f3f3da631e7aa49badbd28cb50",
+        "DFStringFlagRepoGitHashDynamicString": "53aa07dac17702f3f3da631e7aa49badbd28cb50",
+        "FStringFlipTimeStampFastString": "2025-11-07T00:07:29.293Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-07T00:07:29.293Z"
     }
 }
