@@ -14293,7 +14293,7 @@
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.WindowsMacSharedStringCaching-1762382334;WindowsMacSharedStringCaching;47481494;flagbank",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.WindowsMacSharedStringCaching-1762382334;WindowsMacSharedStringCaching;47481494;flagbank",
         "FFlagLuaAppEdpVideoAvailableRamDeny": "True",
-        "FIntLuaAppEdpVideoAvailableRamThresholdMb": "500",
+        "FIntLuaAppEdpVideoAvailableRamThresholdMb": "1000",
         "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure2": "True",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData2": "True",
         "FIntApiFetchExperienceDetailsPageCounterThrottlingHundredthsPercent": "1000",
@@ -14309,10 +14309,9 @@
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_150_Windows;1999708510;flagbank",
         "FFlagUsePaymentsProtocolPurchaseTypeDimension": "True",
         "FFlagUsePCGDKPaymentsProtocolMetricsPurchaseType": "True",
-        "FIntLuaAppEdpVideoAvailableRamThresholdMb_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T22:20:33",
-        "FStringFlagRepoGitHashFastString": "ecfb266a2f009ca0f37ad7e13a0dd38c67749421",
-        "DFStringFlagRepoGitHashDynamicString": "ecfb266a2f009ca0f37ad7e13a0dd38c67749421",
-        "FStringFlipTimeStampFastString": "2025-11-07T23:08:23.607Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-07T23:08:23.607Z"
+        "FStringFlagRepoGitHashFastString": "c3c6364b0911be563159bc8445fb79c85ecf2e78",
+        "DFStringFlagRepoGitHashDynamicString": "c3c6364b0911be563159bc8445fb79c85ecf2e78",
+        "FStringFlipTimeStampFastString": "2025-11-07T23:22:13.962Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-07T23:22:13.962Z"
     }
 }
