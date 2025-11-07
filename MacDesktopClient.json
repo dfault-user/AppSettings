@@ -13785,10 +13785,12 @@
         "FStringAXPassScreenSizeToWidgetApiExposureLayer_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
         "DFFlagDebugHlsAssumeLiveByDefaultForUnknownSource": "True",
         "FFlagRenderParticlesSimulateNonVisible7": "True",
-        "AxisAdornmentGrabSize": "12",
-        "AllowVideoPreRoll": "True",
         "FFlagEnableEdpStoreImpressionsLogging2": "True",
         "FIntEdpStoreImpressionsDetectorThrottlingHundredthsPercent": "10000",
+        "FFlagRbxStorageFileCachePerm3": "True",
+        "FFlagRbxStorageFCinCache": "True",
+        "AllowVideoPreRoll": "True",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14243,7 +14245,6 @@
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData2": "True",
         "FFlagFixGridMinSize": "True",
         "FFlagAPCompression3": "False",
-        "FFlagRbxStorageFCinCache": "True",
         "FIntApiFetchExperienceDetailsPageCounterThrottlingHundredthsPercent": "1000",
         "FFlagFixBorderOffsetScaleWithUIScale": "True",
         "FFlagFixMultiStrokePseudo": "True",
@@ -14253,11 +14254,10 @@
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
         "FFlagProMotionSupport": "True",
-        "FFlagRbxStorageFileCachePerm3": "True",
         "FFlagRbxStorageCleanPermCache_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T19:55:35",
-        "FStringFlagRepoGitHashFastString": "8c760def58162a3eb084000160015874d42bdd44",
-        "DFStringFlagRepoGitHashDynamicString": "8c760def58162a3eb084000160015874d42bdd44",
-        "FStringFlipTimeStampFastString": "2025-11-07T20:47:21.252Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-07T20:47:21.252Z"
+        "FStringFlagRepoGitHashFastString": "2d22f6fd55a03e0e3d696752e1c3f5f510888593",
+        "DFStringFlagRepoGitHashDynamicString": "2d22f6fd55a03e0e3d696752e1c3f5f510888593",
+        "FStringFlipTimeStampFastString": "2025-11-07T20:56:34.196Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-07T20:56:34.196Z"
     }
 }

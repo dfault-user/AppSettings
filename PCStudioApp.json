@@ -15116,7 +15116,7 @@
         "DFFlagNewReflectionUseStringable": "True",
         "FFlagLuauNormalizerStepwiseFuel": "True",
         "FFlagUpdate17to18age": "True",
-        "FFlagFixCrashWithQTableWidget": "True",
+        "FFlagFixCrashWithQTableWidget": "False",
         "FFlagAvatarPreviewerMakeup": "True",
         "FFlagSimCSGLargeAssetSolidMesh16": "False",
         "FFlagMeshpartAccessoryCheckAvatarPartScaleType": "True",
@@ -15132,13 +15132,12 @@
         "FFlagAXPassScreenSizeToWidgetApiLogExposure_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
         "FStringAXPassScreenSizeToWidgetApiExposureLayer_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
         "FFlagSTUDIOPLAT_41427_Report5SecHangs_IXP": "1;Portal.Studio-Report-Hangs-At-5-Sec-1762540913;Studio-Report-Hangs-At-5-Sec;930758326;flagbank",
-        "FFlagFixCrashWithQTableWidget_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T19:48:35",
-        "FFlagAssistantLogRequestStop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T19:50:25",
         "FFlagEnableRibbonDefaultSettingsIXP_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T19:51:59",
         "FFlagAssistantSendExperimentationInfoGrafana": "True",
         "FFlagScriptNavigationContextUtil": "True",
         "FFlagEnableEdpStoreImpressionsLogging2": "True",
         "FIntEdpStoreImpressionsDetectorThrottlingHundredthsPercent": "10000",
+        "FFlagAssistantLogRequestStop": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15596,9 +15595,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "8c760def58162a3eb084000160015874d42bdd44",
-        "DFStringFlagRepoGitHashDynamicString": "8c760def58162a3eb084000160015874d42bdd44",
-        "FStringFlipTimeStampFastString": "2025-11-07T20:47:21.252Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-07T20:47:21.252Z"
+        "FStringFlagRepoGitHashFastString": "2d22f6fd55a03e0e3d696752e1c3f5f510888593",
+        "DFStringFlagRepoGitHashDynamicString": "2d22f6fd55a03e0e3d696752e1c3f5f510888593",
+        "FStringFlipTimeStampFastString": "2025-11-07T20:56:34.196Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-07T20:56:34.196Z"
     }
 }
