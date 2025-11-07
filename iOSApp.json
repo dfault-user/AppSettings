@@ -13285,6 +13285,7 @@
         "FFlagNeverUseJoinBlobRobloxLocaleEvenAsDefault_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T18:02:24",
         "FFlagRestoreAndroidAudioDucking2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-07T18:03:18",
         "FFlagFixDeviceSettingsFocus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;629333263;2025-11-07T18:12:59",
+        "FFlagInhibitPeopleRenderOnLeaveAndJoin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2027174441;2025-11-07T18:26:54",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14083,7 +14084,6 @@
         "FFlagAXMigratePeekViewToFocusNavigation": "True",
         "FFlagReportBatchedRaycastTelemetry": "True",
         "FFlagDiffractionSolverUsesGraphicsQualityLevel": "True",
-        "FFlagInhibitPeopleRenderOnLeaveAndJoin_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
         "FFlagMemoizePersonButton_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
         "FFlagRefactorPeoplePage6_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
         "DFFlagRbxstorageHTTPUseMemoryTrackingForEnforcingSysRam": "True",
@@ -14232,9 +14232,9 @@
         "FFlagAXPassScreenSizeToWidgetApi2_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
         "FFlagAXPassScreenSizeToWidgetApiLogExposure_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
         "FStringAXPassScreenSizeToWidgetApiExposureLayer_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.AllViews.RFYMigrationV2;1333966594;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "3c6566420b699494abf4914091fc5f3f43bc4bc7",
-        "DFStringFlagRepoGitHashDynamicString": "3c6566420b699494abf4914091fc5f3f43bc4bc7",
-        "FStringFlipTimeStampFastString": "2025-11-07T18:27:34.547Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-07T18:27:34.547Z"
+        "FStringFlagRepoGitHashFastString": "fb34eb1d00f427728e61b05a518594e9e6dc4b6f",
+        "DFStringFlagRepoGitHashDynamicString": "fb34eb1d00f427728e61b05a518594e9e6dc4b6f",
+        "FStringFlipTimeStampFastString": "2025-11-07T18:29:56.137Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-07T18:29:56.137Z"
     }
 }
