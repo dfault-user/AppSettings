@@ -13309,8 +13309,6 @@
         "FFlagMCPAssistantRunCodeMaxHeight": "True",
         "FFlagEnableRecommendationService_PlaceFilter": "True;119524072047648",
         "FFlagScriptErrorsActionContext2": "True",
-        "FFlagSTM6148ToolboxMinWidth_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:19:08",
-        "FFlagWebBrowserSTM6856Enabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:20:07",
         "FFlagWebBrowserSTM6353MemoryTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:20:25",
         "FFlagWebBrowserContextSTM6463Enabled4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:20:40",
         "FFlagWebBrowserPreInitializeMemoryTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:21:02",
@@ -13337,6 +13335,10 @@
         "DFFlagCLI_157490_DelayBroadPhaseForBulkMove_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1635480703;2025-11-10T22:11:43",
         "FFlagCanReplicateAudioVideoContentPropertiesServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;881260776;2025-11-10T22:15:53",
         "FFlagContentPropertiesAudioVideo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;881260776;2025-11-10T22:15:53",
+        "DFFlagEnableFeatureTimeoutAttempt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:17:45",
+        "FFlagEnableNewAvatarViewportProps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:20:44",
+        "FFlagSTM6148ToolboxMinWidth": "True",
+        "FFlagWebBrowserSTM6856Enabled": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14296,9 +14298,9 @@
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_iOS_225;1483039976;flagbank",
         "FStringPerformanceControlExperimentName_Staged": "Harmony_Budget_Based_IXP_iOS_225_Treatment;SteadyState;10;30;Revert;true;1483039976;2025-11-10T22:13:29",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_Staged": "225;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:14:26",
-        "FStringFlagRepoGitHashFastString": "48e6e136cb2b0e5e834edd43609d105c119ec328",
-        "DFStringFlagRepoGitHashDynamicString": "48e6e136cb2b0e5e834edd43609d105c119ec328",
-        "FStringFlipTimeStampFastString": "2025-11-10T22:21:37.366Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T22:21:37.366Z"
+        "FStringFlagRepoGitHashFastString": "47ae3c9d3b176d4615a0168c8fe79d157a146af7",
+        "DFStringFlagRepoGitHashDynamicString": "47ae3c9d3b176d4615a0168c8fe79d157a146af7",
+        "FStringFlipTimeStampFastString": "2025-11-10T22:23:09.514Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T22:23:09.514Z"
     }
 }
