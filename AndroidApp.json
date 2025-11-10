@@ -13314,7 +13314,6 @@
         "DFFlagRefactorFeatureRestrictionManagerRecourse4": "True",
         "FFlagAXParseAdditionalItemDetailsFromCatalog4": "True",
         "FFlagFoundationDialogUpdateSelection": "True",
-        "FFlagAXEnableFavoritesInfoForAssetsAndBundles_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:00:59",
         "FFlagEnableSoundPreviewForAudioPlayerContentProperty_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:09:08",
         "DFFlagCLI_157490_DelayBroadPhaseForBulkMove_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1635480703;2025-11-10T22:11:43",
         "FFlagCanReplicateAudioVideoContentPropertiesServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;881260776;2025-11-10T22:15:53",
@@ -13340,6 +13339,7 @@
         "DFFlagHttp2NonUploadReqs": "True",
         "FFlagToolboxFireAndForget": "True",
         "FFlagAXEnableFetchAvatarPreview9_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T23:04:50",
+        "FFlagAXEnableFavoritesInfoForAssetsAndBundles": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14291,9 +14291,9 @@
         "FFlagEnableGooglePlayGamesIntegration_IXP": "1;ConsumerPlatforms.GameAchievements;ConsumerPlatforms.GameAchievements.Android.2;457212349;flagbank",
         "FFlagLuaAppEdpVideoMaxMemoryDeny": "True",
         "FIntLuaAppEdpVideoMaxMemoryThresholdMb": "3900",
-        "FStringFlagRepoGitHashFastString": "b4a559d1bbc3b71d9e62a731c9c37697c00e36f2",
-        "DFStringFlagRepoGitHashDynamicString": "b4a559d1bbc3b71d9e62a731c9c37697c00e36f2",
-        "FStringFlipTimeStampFastString": "2025-11-10T23:06:48.447Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T23:06:48.447Z"
+        "FStringFlagRepoGitHashFastString": "5324f0b8afa2c74a49c40a36a48bec4c38ff901e",
+        "DFStringFlagRepoGitHashDynamicString": "5324f0b8afa2c74a49c40a36a48bec4c38ff901e",
+        "FStringFlipTimeStampFastString": "2025-11-10T23:12:28.037Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T23:12:28.037Z"
     }
 }
