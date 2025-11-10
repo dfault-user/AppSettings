@@ -13327,6 +13327,8 @@
         "FFlagStudioTimeoutBuiltInPlugins_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1881105882;2025-11-10T21:27:38",
         "FFlagStudioTimeoutUserPlugins_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1881105882;2025-11-10T21:27:38",
         "FFlagTurnOffPluginHangMonitorIfDebuggerPresent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1881105882;2025-11-10T21:27:38",
+        "DFFlagRefactorPopulateFeatureRestrictions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:33:52",
+        "FFlagUserPSFixCameraControllerReset_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:34:50",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14340,9 +14342,9 @@
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_150_Windows;1999708510;flagbank",
         "FFlagUsePaymentsProtocolPurchaseTypeDimension": "True",
         "FFlagUsePCGDKPaymentsProtocolMetricsPurchaseType": "True",
-        "FStringFlagRepoGitHashFastString": "c68cd8f2e6ed368a7cdf66f32169260e6c7e72be",
-        "DFStringFlagRepoGitHashDynamicString": "c68cd8f2e6ed368a7cdf66f32169260e6c7e72be",
-        "FStringFlipTimeStampFastString": "2025-11-10T21:34:11.165Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T21:34:11.165Z"
+        "FStringFlagRepoGitHashFastString": "45445b04194823c606d0d33fbd1500421c762e5d",
+        "DFStringFlagRepoGitHashDynamicString": "45445b04194823c606d0d33fbd1500421c762e5d",
+        "FStringFlipTimeStampFastString": "2025-11-10T21:37:24.204Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T21:37:24.204Z"
     }
 }
