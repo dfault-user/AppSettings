@@ -13316,6 +13316,7 @@
         "FFlagEnableRecommendationService_PlaceFilter": "True;119524072047648",
         "FFlagFoundationDialogUpdateSelection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1227771317;2025-11-10T20:52:40",
         "FFlagScriptErrorsActionContext2": "True",
+        "FFlagDebugLuaAppValidateProps": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15590,7 +15591,8 @@
         "FFlagRenderParticlesSimulateNonVisible7": "True",
         "FFlagVoiceRunEverythinginOneStateDuringLeave2": "True",
         "DFFlagDebugHlsAssumeLiveByDefaultForUnknownSource_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T20:18:06",
-        "FFlagDebugLuaAppValidateProps": "True",
+        "FFlagDeprecateLayoutInstancePointers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2141673656;2025-11-10T21:19:19",
+        "FFlagRefactorScrollableToModifier2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2141673656;2025-11-10T21:19:19",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
         "FLogCloseDataModel": "6",
@@ -15624,9 +15626,9 @@
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "da2a8f54895e01310babfa2dbbc9262333193938",
-        "DFStringFlagRepoGitHashDynamicString": "da2a8f54895e01310babfa2dbbc9262333193938",
-        "FStringFlipTimeStampFastString": "2025-11-10T21:18:11.359Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T21:18:11.359Z"
+        "FStringFlagRepoGitHashFastString": "882899ec33d0363a6cbf2b3a5c52298d309f1f65",
+        "DFStringFlagRepoGitHashDynamicString": "882899ec33d0363a6cbf2b3a5c52298d309f1f65",
+        "FStringFlipTimeStampFastString": "2025-11-10T21:21:23.091Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T21:21:23.091Z"
     }
 }
