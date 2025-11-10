@@ -14241,13 +14241,13 @@
         "FFlagEnableEdpStoreImpressionsLogging2": "True",
         "FFlagVideoPlaybackIxpLayerEnabled_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
         "FFlagEnableMacOSHardwareDecode3_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
-        "FFlagAssetManifestInsideLuaPatchConfig_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:23:50",
-        "DFFlagDeserializeOnlySigningInfo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:25:02",
         "FFlagLuaAppEdpVideoAvailableRamDeny_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1321493053;2025-11-10T17:36:49",
         "FIntLuaAppEdpVideoAvailableRamThresholdMb_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1321493053;2025-11-10T17:36:49",
-        "FStringFlagRepoGitHashFastString": "a2a57d5db5fdce27c3459cbcbce2c6dc1cf11eec",
-        "DFStringFlagRepoGitHashDynamicString": "a2a57d5db5fdce27c3459cbcbce2c6dc1cf11eec",
-        "FStringFlipTimeStampFastString": "2025-11-10T18:27:13.422Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T18:27:13.422Z"
+        "DFFlagDeserializeOnlySigningInfo": "True",
+        "FFlagAssetManifestInsideLuaPatchConfig": "True",
+        "FStringFlagRepoGitHashFastString": "a6000a5134450f0d5ab9bc843e40d3a06392775a",
+        "DFStringFlagRepoGitHashDynamicString": "a6000a5134450f0d5ab9bc843e40d3a06392775a",
+        "FStringFlipTimeStampFastString": "2025-11-10T18:34:25.993Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T18:34:25.993Z"
     }
 }
