@@ -13305,8 +13305,6 @@
         "FFlagMicInitialMuteStateFix": "True",
         "FFlagAddManagedMessageStream2": "True",
         "DFFlagFixRetrieveCapture": "True",
-        "AllowVideoPreRoll": "True",
-        "FFlagFindReplaceHighlightsOptimization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T20:18:58",
         "DFFlagRefactorFeatureRestrictionManagerRecourse4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T20:24:22",
         "FFlagACSReturnPromiseException": "True",
         "FFlagMacSystemThemeEnabled3": "True",
@@ -13318,6 +13316,12 @@
         "FFlagScriptErrorsActionContext2": "True",
         "FFlagSTM6148ToolboxMinWidth_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:19:08",
         "FFlagWebBrowserSTM6856Enabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:20:07",
+        "FFlagWebBrowserSTM6353MemoryTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:20:25",
+        "FFlagWebBrowserContextSTM6463Enabled4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:20:40",
+        "FFlagWebBrowserPreInitializeMemoryTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:21:02",
+        "FFlagFindReplaceHighlightsOptimization": "True",
+        "FFlagFixFriendStatusImageLabelAccess": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14219,7 +14223,6 @@
         "FFlagEnableUnifiedProductPurchaseFlowV35": "True",
         "FFlagUseNewDiscoverabilityModal_v2": "True",
         "FFlagEnableRemoveUnregisterForTraitChanges": "True",
-        "FFlagFixFriendStatusImageLabelAccess": "True",
         "FFlagUnifiedPurchaseModalUiImprovements": "True",
         "FFlagVoiceChatEnableSdpCompressionMaster4": "True",
         "FFlagAXEnableUnifiedPurchaseFlowForLooks": "True",
@@ -14267,9 +14270,9 @@
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
         "FFlagRbxStorageAltInitDuration": "True",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB": "125",
-        "FStringFlagRepoGitHashFastString": "f97e9c9291d52a1607144ad269f2ed0c919725a6",
-        "DFStringFlagRepoGitHashDynamicString": "f97e9c9291d52a1607144ad269f2ed0c919725a6",
-        "FStringFlipTimeStampFastString": "2025-11-10T21:23:13.046Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T21:23:13.046Z"
+        "FStringFlagRepoGitHashFastString": "40d76e7e262075fd4d37a356c7e0a14d46fd3b20",
+        "DFStringFlagRepoGitHashDynamicString": "40d76e7e262075fd4d37a356c7e0a14d46fd3b20",
+        "FStringFlipTimeStampFastString": "2025-11-10T21:24:45.544Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T21:24:45.544Z"
     }
 }
