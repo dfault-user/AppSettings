@@ -13296,8 +13296,6 @@
         "FFlagEnableDebugCtrTelemetry": "True",
         "FFlagFixMediaKeysMapping": "True",
         "DFFlagLetRagdolledHumanoidsSleep": "True",
-        "DFFlagFixRetrieveCapture_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:55:27",
-        "FFlagAddManagedMessageStream2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:56:28",
         "FFlagRemoveGetAssetDetails": "True",
         "DFFlagCreatorConfigProviderReadAsset2": "True",
         "FFlagFixSystemBarHidingDuringRewardedVideoAdPlay": "True",
@@ -13310,6 +13308,8 @@
         "FFlagVideoPlayerBetaFix1": "True",
         "FFlagScriptErrorsActionContext2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T19:51:11",
         "FFlagMicInitialMuteStateFix": "True",
+        "FFlagAddManagedMessageStream2": "True",
+        "DFFlagFixRetrieveCapture": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13605,9 +13605,9 @@
         "FFlagLuaAppEdpVideoMaxMemoryDeny": "True",
         "FIntLuaAppEdpVideoMaxMemoryThresholdMb": "5000",
         "DFIntMinSizeToCacheSharedStringBytes": "35000",
-        "FStringFlagRepoGitHashFastString": "6131d7a285a0cfdb4ffa61be1b04bc006c866bbd",
-        "DFStringFlagRepoGitHashDynamicString": "6131d7a285a0cfdb4ffa61be1b04bc006c866bbd",
-        "FStringFlipTimeStampFastString": "2025-11-10T19:54:47.962Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T19:54:47.962Z"
+        "FStringFlagRepoGitHashFastString": "98776538dd8299c8fff97c7e834c32e9d9d82fdf",
+        "DFStringFlagRepoGitHashDynamicString": "98776538dd8299c8fff97c7e834c32e9d9d82fdf",
+        "FStringFlipTimeStampFastString": "2025-11-10T20:04:18.080Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T20:04:18.080Z"
     }
 }
