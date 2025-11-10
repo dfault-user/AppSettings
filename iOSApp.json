@@ -13312,11 +13312,6 @@
         "FFlagFindReplaceHighlightsOptimization": "True",
         "FFlagFixFriendStatusImageLabelAccess": "True",
         "DFFlagRefactorFeatureRestrictionManagerRecourse4": "True",
-        "FFlagHandleNoneCaseInPluginHangMonitorDialogs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1881105882;2025-11-10T21:27:38",
-        "FFlagStudioPluginTimeoutExemptions2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1881105882;2025-11-10T21:27:38",
-        "FFlagStudioTimeoutBuiltInPlugins_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1881105882;2025-11-10T21:27:38",
-        "FFlagStudioTimeoutUserPlugins_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1881105882;2025-11-10T21:27:38",
-        "FFlagTurnOffPluginHangMonitorIfDebuggerPresent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1881105882;2025-11-10T21:27:38",
         "DFFlagRefactorPopulateFeatureRestrictions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:33:52",
         "FFlagUserPSFixCameraControllerReset_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:34:50",
         "FFlagAXParseAdditionalItemDetailsFromCatalog4": "True",
@@ -13339,6 +13334,11 @@
         "FFlagWebBrowserContextSTM6463Enabled4": "True",
         "FFlagWebBrowserPreInitializeMemoryTelemetry": "True",
         "FFlagWebBrowserSTM6353MemoryTelemetry": "True",
+        "FFlagHandleNoneCaseInPluginHangMonitorDialogs": "True",
+        "FFlagStudioPluginTimeoutExemptions2": "True",
+        "FFlagStudioTimeoutBuiltInPlugins": "True",
+        "FFlagStudioTimeoutUserPlugins": "True",
+        "FFlagTurnOffPluginHangMonitorIfDebuggerPresent": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14298,9 +14298,9 @@
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_iOS_225;1483039976;flagbank",
         "FStringPerformanceControlExperimentName_Staged": "Harmony_Budget_Based_IXP_iOS_225_Treatment;SteadyState;10;30;Revert;true;1483039976;2025-11-10T22:13:29",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_Staged": "225;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:14:26",
-        "FStringFlagRepoGitHashFastString": "2589f4f1ee0e7f116f3af51e72a4d0d14a69d466",
-        "DFStringFlagRepoGitHashDynamicString": "2589f4f1ee0e7f116f3af51e72a4d0d14a69d466",
-        "FStringFlipTimeStampFastString": "2025-11-10T22:29:19.065Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T22:29:19.065Z"
+        "FStringFlagRepoGitHashFastString": "a1d7a5d6f2a610c3ff49e45db2d337a7cac08c0a",
+        "DFStringFlagRepoGitHashDynamicString": "a1d7a5d6f2a610c3ff49e45db2d337a7cac08c0a",
+        "FStringFlipTimeStampFastString": "2025-11-10T22:33:53.320Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T22:33:53.320Z"
     }
 }
