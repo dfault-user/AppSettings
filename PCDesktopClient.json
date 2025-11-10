@@ -13296,6 +13296,8 @@
         "AllowVideoPreRoll": "True",
         "DFFlagMigratePlayerFeatureTimeoutsReads_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:09:45",
         "FIntSceneUpdaterProcessPendingPartsBudgetMs_Staged": "24;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:10:00",
+        "FFlagLuaAppRemoveEDPLoadingState_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:13:23",
+        "FFlagEnableDebugCtrTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:14:07",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14312,9 +14314,9 @@
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_150_Windows;1999708510;flagbank",
         "FFlagUsePaymentsProtocolPurchaseTypeDimension": "True",
         "FFlagUsePCGDKPaymentsProtocolMetricsPurchaseType": "True",
-        "FStringFlagRepoGitHashFastString": "a91ae3dd6211793e224aa138e997e48b995e0d06",
-        "DFStringFlagRepoGitHashDynamicString": "a91ae3dd6211793e224aa138e997e48b995e0d06",
-        "FStringFlipTimeStampFastString": "2025-11-10T17:12:16.578Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T17:12:16.578Z"
+        "FStringFlagRepoGitHashFastString": "a2e36a9f9b4a627065038194f03661830ba02c85",
+        "DFStringFlagRepoGitHashDynamicString": "a2e36a9f9b4a627065038194f03661830ba02c85",
+        "FStringFlipTimeStampFastString": "2025-11-10T17:15:15.240Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T17:15:15.240Z"
     }
 }
