@@ -13295,7 +13295,6 @@
         "FIntTooltipShowDelay": "1000",
         "FFlagEnableDebugCtrTelemetry": "True",
         "FFlagFixMediaKeysMapping": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "DFFlagLetRagdolledHumanoidsSleep": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagAddManagedMessageStream2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:56:28",
@@ -13309,6 +13308,8 @@
         "FFlagAppChatRefactorConversationBottomModalv697": "True",
         "FFlagEnableAdOpportunityTracker4": "True",
         "FFlagVideoPlayerBetaFix1": "True",
+        "FFlagScriptErrorsActionContext2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T19:51:11",
+        "FFlagMicInitialMuteStateFix": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15157,6 +15158,7 @@
         "FFlagRemoveActionsFromRobloxMainWindowE2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T19:05:39",
         "FFlagRigGeneratorCHSFix": "True",
         "FFlagStudioFixReconnectDialogPlaceId": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -15506,7 +15508,6 @@
         "FFlagAEGISPhase1UseFAECopyV3": "True",
         "DFIntSQLiteBadSizeTelemetryThresholdMB": "90",
         "DFFlagEnableStabilityMilestoneReport2": "True",
-        "FFlagMicInitialMuteStateFix": "True",
         "DFFlagFixRetrieveCapture": "True",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Desktop.MuteFix;278190683;flagbank",
         "FFlagMicInitialMuteStateFix_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Desktop.MuteFix;515109360;flagbank",
@@ -15591,9 +15592,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagRuntimeEnabled13": "False",
         "FFlagAeroNormalizeLBFGSLoss": "True",
-        "FStringFlagRepoGitHashFastString": "481542330e3b0b25763b45f080721decd781516d",
-        "DFStringFlagRepoGitHashDynamicString": "481542330e3b0b25763b45f080721decd781516d",
-        "FStringFlipTimeStampFastString": "2025-11-10T19:49:09.247Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T19:49:09.247Z"
+        "FStringFlagRepoGitHashFastString": "6131d7a285a0cfdb4ffa61be1b04bc006c866bbd",
+        "DFStringFlagRepoGitHashDynamicString": "6131d7a285a0cfdb4ffa61be1b04bc006c866bbd",
+        "FStringFlipTimeStampFastString": "2025-11-10T19:54:47.962Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T19:54:47.962Z"
     }
 }
