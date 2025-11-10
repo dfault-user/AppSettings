@@ -13335,6 +13335,8 @@
         "FFlagAXEnableFavoritesInfoForAssetsAndBundles_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:00:59",
         "FFlagEnableSoundPreviewForAudioPlayerContentProperty_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:09:08",
         "DFFlagCLI_157490_DelayBroadPhaseForBulkMove_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1635480703;2025-11-10T22:11:43",
+        "FFlagCanReplicateAudioVideoContentPropertiesServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;881260776;2025-11-10T22:15:53",
+        "FFlagContentPropertiesAudioVideo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;881260776;2025-11-10T22:15:53",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13703,9 +13705,9 @@
         "FFlagEnableSocialProfilePeekViewSecondaryExposureEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:36:50",
         "FFlagLuaAppEdpBackendV2LogUniverseIdForEvents": "True",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData2": "True",
-        "FStringFlagRepoGitHashFastString": "2d4f720458066ed28a08676f6defcade3ab1d8ec",
-        "DFStringFlagRepoGitHashDynamicString": "2d4f720458066ed28a08676f6defcade3ab1d8ec",
-        "FStringFlipTimeStampFastString": "2025-11-10T22:17:31.015Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T22:17:31.015Z"
+        "FStringFlagRepoGitHashFastString": "48e6e136cb2b0e5e834edd43609d105c119ec328",
+        "DFStringFlagRepoGitHashDynamicString": "48e6e136cb2b0e5e834edd43609d105c119ec328",
+        "FStringFlipTimeStampFastString": "2025-11-10T22:21:37.366Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T22:21:37.366Z"
     }
 }
