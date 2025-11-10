@@ -13289,7 +13289,6 @@
         "DFFlagSimCsgFixConcaveSphere": "True",
         "FFlagUseWorkManagerForPushRegistration": "True",
         "DFFlagLoadNetAssetChildren": "True",
-        "FFlagFixMediaKeysMapping_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:35:11",
         "DFFlagLetRagdolledHumanoidsSleep_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:46:25",
         "FFlagUseDynamicStrokePositioning_PlaceFilter": "False;9798463281;12679345678;13995639090;13218680461",
         "FFlagRemoveGetAssetDetails_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1381995751;2025-11-10T18:02:58",
@@ -13302,6 +13301,8 @@
         "FFlagEnableDebugCtrTelemetry": "True",
         "FFlagEnableAdOpportunityTracker4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:35:13",
         "FFlagAppChatRefactorConversationBottomModalv697_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;809340649;2025-11-10T18:35:23",
+        "FFlagFixMediaKeysMapping": "True",
+        "FFlagVideoPlayerBetaFix1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:40:53",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14243,14 +14244,14 @@
         "FFlagEnableEdpStoreImpressionsLogging2": "True",
         "FFlagVideoPlaybackIxpLayerEnabled_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
         "FFlagEnableMacOSHardwareDecode3_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
-        "FFlagLuaAppEdpVideoAvailableRamDeny_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1321493053;2025-11-10T17:36:49",
-        "FIntLuaAppEdpVideoAvailableRamThresholdMb_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1321493053;2025-11-10T17:36:49",
         "DFFlagDeserializeOnlySigningInfo": "True",
         "FFlagAssetManifestInsideLuaPatchConfig": "True",
         "DFIntMinSizeToCacheSharedStringBytes_Staged": "35000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:34:33",
-        "FStringFlagRepoGitHashFastString": "e3c49da06e281dea3551963bac615983b93749f1",
-        "DFStringFlagRepoGitHashDynamicString": "e3c49da06e281dea3551963bac615983b93749f1",
-        "FStringFlipTimeStampFastString": "2025-11-10T18:38:46.484Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T18:38:46.484Z"
+        "FFlagLuaAppEdpVideoAvailableRamDeny": "True",
+        "FIntLuaAppEdpVideoAvailableRamThresholdMb": "500",
+        "FStringFlagRepoGitHashFastString": "8de821b36c0274afb230efe61c948ab56be016cb",
+        "DFStringFlagRepoGitHashDynamicString": "8de821b36c0274afb230efe61c948ab56be016cb",
+        "FStringFlipTimeStampFastString": "2025-11-10T18:43:41.861Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T18:43:41.861Z"
     }
 }
