@@ -13079,7 +13079,7 @@
         "FFlagTargetPartLayerPartMeshContent": "True",
         "FFlagEnableOnlyAllowAdClicksAfterImpression2": "True",
         "FFlagTrackVertexOrderingInSkinningSubsets": "True",
-        "FFlagFCRouteSecondaryParts3": "True",
+        "FFlagFCRouteSecondaryParts3": "False",
         "FFlagDecodeHSROnLCThread": "True",
         "FFlagLuaAppRemoveEDPLoadingState": "False",
         "DFFlagTextChatFireLegacyChattedOnCommands": "True",
@@ -13315,7 +13315,6 @@
         "FFlagAXParseAdditionalItemDetailsFromCatalog4": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
-        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagFoundationDialogUpdateSelection": "True",
         "FFlagToolboxFireAndForget_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:57:06",
         "FFlagToolboxFixCreatorStoreUrl_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:57:37",
@@ -13341,6 +13340,7 @@
         "FFlagIASThumbstickDirections_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:32:04",
         "DFFlagRefactorPopulateFeatureRestrictions": "True",
         "FFlagUserPSFixCameraControllerReset": "True",
+        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -13855,7 +13855,6 @@
         "FFlagEnableEdpStoreImpressionsLogging2": "True",
         "FIntEdpStoreImpressionsDetectorThrottlingHundredthsPercent": "10000",
         "FFlagVoiceRunEverythinginOneStateDuringLeave2": "True",
-        "FFlagFCRouteSecondaryParts3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1900170094;2025-11-10T21:53:38",
         "FFlagCapturesEnableDownloadForU13_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:10:47",
         "DFFlagDebugHlsAssumeLiveByDefaultForUnknownSource_PlaceFilter": "True;136954310107221;104100464651673",
         "DFFlagDebugHlsAssumeLiveByDefaultForUnknownSource_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1742871204;2025-11-10T22:12:44",
@@ -14357,9 +14356,9 @@
         "FFlagUsePCGDKPaymentsProtocolMetricsPurchaseType": "True",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_Staged": "200;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:04:53",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp9_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:24:19",
-        "FStringFlagRepoGitHashFastString": "cdda07953d73da4837e9700db3e8f6b13f0c5c41",
-        "DFStringFlagRepoGitHashDynamicString": "cdda07953d73da4837e9700db3e8f6b13f0c5c41",
-        "FStringFlipTimeStampFastString": "2025-11-10T22:54:27.501Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T22:54:27.501Z"
+        "FStringFlagRepoGitHashFastString": "592e42d0b45b730ecd5b4be719b8adcdf51a1c31",
+        "DFStringFlagRepoGitHashDynamicString": "592e42d0b45b730ecd5b4be719b8adcdf51a1c31",
+        "FStringFlipTimeStampFastString": "2025-11-10T23:01:06.168Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T23:01:06.168Z"
     }
 }
