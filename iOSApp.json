@@ -14245,9 +14245,10 @@
         "FIntLuaAppEdpVideoAvailableRamThresholdMb_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1321493053;2025-11-10T17:36:49",
         "DFFlagDeserializeOnlySigningInfo": "True",
         "FFlagAssetManifestInsideLuaPatchConfig": "True",
-        "FStringFlagRepoGitHashFastString": "a6000a5134450f0d5ab9bc843e40d3a06392775a",
-        "DFStringFlagRepoGitHashDynamicString": "a6000a5134450f0d5ab9bc843e40d3a06392775a",
-        "FStringFlipTimeStampFastString": "2025-11-10T18:34:25.993Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T18:34:25.993Z"
+        "DFIntMinSizeToCacheSharedStringBytes_Staged": "35000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:34:33",
+        "FStringFlagRepoGitHashFastString": "efc770760ac01b8f17cdfabe3345a3f61464e565",
+        "DFStringFlagRepoGitHashDynamicString": "efc770760ac01b8f17cdfabe3345a3f61464e565",
+        "FStringFlipTimeStampFastString": "2025-11-10T18:36:16.995Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T18:36:16.995Z"
     }
 }
