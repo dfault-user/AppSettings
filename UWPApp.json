@@ -11753,7 +11753,7 @@
         "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformEnableChipSocialRow-v1;1703536934;dev_controlled",
         "DFFlagProductInfoCacheHitRateAnalyticsEnabled": "True",
         "DFIntRobloxTelemetryProductInfoCacheHitRateThrottleHundredthsPercent": "1",
-        "DFFlagSolverV2CleanupPendingModelStreamingModeModels": "True",
+        "DFFlagSolverV2CleanupPendingModelStreamingModeModels": "False",
         "FFlagSolverV2RefactorReplicationStateUpdate": "True",
         "FFlagDeltaFactoryCloneCountryRegionCode": "True",
         "FFlagOCClearStaleOccluderMeshIdx": "True",
@@ -13290,8 +13290,6 @@
         "DFFlagSimCsgFixConcaveSphere": "True",
         "FFlagUseWorkManagerForPushRegistration": "True",
         "DFFlagLoadNetAssetChildren": "True",
-        "DFFlagSolverV2NoModelModeChangesFromNonWorkspaceContainer_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:02:14",
-        "DFFlagSolverV2CleanupPendingModelStreamingModeModels_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:04:40",
         "FIntTooltipShowDelay_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:05:09",
         "AllowVideoPreRoll": "True",
         "DFFlagMigratePlayerFeatureTimeoutsReads_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:09:45",
@@ -13302,6 +13300,9 @@
         "DFFlagLetRagdolledHumanoidsSleep_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:46:25",
         "FFlagUseDynamicStrokePositioning_PlaceFilter": "False;9798463281;12679345678;13995639090;13218680461",
         "FFlagRemoveGetAssetDetails_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1381995751;2025-11-10T18:02:58",
+        "DFFlagCreatorConfigProviderReadAsset2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:05:11",
+        "DFFlagSolverV2NoModelModeChangesFromNonWorkspaceContainer": "False",
+        "FFlagFixSystemBarHidingDuringRewardedVideoAdPlay_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:06:58",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13595,9 +13596,9 @@
         "FFlagSimCSGLargeAssetSolidMesh16": "True",
         "FFlagLuaAppEdpVideoMaxMemoryDeny": "True",
         "FIntLuaAppEdpVideoMaxMemoryThresholdMb": "5000",
-        "FStringFlagRepoGitHashFastString": "04551a04fffb5c02c84e19f99e4dbbd108c89ab4",
-        "DFStringFlagRepoGitHashDynamicString": "04551a04fffb5c02c84e19f99e4dbbd108c89ab4",
-        "FStringFlipTimeStampFastString": "2025-11-10T18:06:59.412Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T18:06:59.412Z"
+        "FStringFlagRepoGitHashFastString": "58d901272dee0becc6b9187759d1369aac6c9a2d",
+        "DFStringFlagRepoGitHashDynamicString": "58d901272dee0becc6b9187759d1369aac6c9a2d",
+        "FStringFlipTimeStampFastString": "2025-11-10T18:11:00.137Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T18:11:00.137Z"
     }
 }
