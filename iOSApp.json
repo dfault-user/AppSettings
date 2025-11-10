@@ -13304,6 +13304,8 @@
         "FFlagVideoPlayerBetaFix1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:40:53",
         "FFlagMicInitialMuteStateFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:47:39",
         "DFFlagLetRagdolledHumanoidsSleep": "True",
+        "DFFlagFixRetrieveCapture_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:55:27",
+        "FFlagAddManagedMessageStream2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:56:28",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14250,9 +14252,9 @@
         "DFIntMinSizeToCacheSharedStringBytes_Staged": "35000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:34:33",
         "FFlagLuaAppEdpVideoAvailableRamDeny": "True",
         "FIntLuaAppEdpVideoAvailableRamThresholdMb": "500",
-        "FStringFlagRepoGitHashFastString": "071f5c909ea8432d31370fb1e2440cbcba1a420b",
-        "DFStringFlagRepoGitHashDynamicString": "071f5c909ea8432d31370fb1e2440cbcba1a420b",
-        "FStringFlipTimeStampFastString": "2025-11-10T18:56:36.079Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T18:56:36.079Z"
+        "FStringFlagRepoGitHashFastString": "006a80c4f7e3370614a00179be826b0eca50aaba",
+        "DFStringFlagRepoGitHashDynamicString": "006a80c4f7e3370614a00179be826b0eca50aaba",
+        "FStringFlipTimeStampFastString": "2025-11-10T18:59:22.739Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T18:59:22.739Z"
     }
 }
