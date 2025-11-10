@@ -15145,10 +15145,10 @@
         "FIntEdpStoreImpressionsDetectorThrottlingHundredthsPercent": "10000",
         "FFlagAssistantLogRequestStop": "True",
         "FFlagEnableRibbonDefaultSettingsIXP": "True",
-        "DFIntMigrateTriangleMeshPartTimeLimit_Staged": "30;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:44:10",
         "FFlagRigGeneratorCHSFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:25:18",
         "FFlagLuauMetatableAvoidSingletonUnion": "True",
         "FFlagStudioFixReconnectDialogPlaceId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:45:02",
+        "DFIntMigrateTriangleMeshPartTimeLimit": "30",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15582,11 +15582,11 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "FFlagToolboxFireAndForget": "True",
         "DFFlagHttp2AllInternalReqs": "False",
-        "FFlagRuntimeEnabled13_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T17:45:54",
         "FFlagAeroNormalizeLBFGSLoss_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T18:44:00",
-        "FStringFlagRepoGitHashFastString": "16a819524e09e5677ec9ccfda92fa6e45752be13",
-        "DFStringFlagRepoGitHashDynamicString": "16a819524e09e5677ec9ccfda92fa6e45752be13",
-        "FStringFlipTimeStampFastString": "2025-11-10T18:46:53.975Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T18:46:53.975Z"
+        "FFlagRuntimeEnabled13": "False",
+        "FStringFlagRepoGitHashFastString": "1764a063d9fcaaa396cb0747ccf61d77f7ec0b3c",
+        "DFStringFlagRepoGitHashDynamicString": "1764a063d9fcaaa396cb0747ccf61d77f7ec0b3c",
+        "FStringFlipTimeStampFastString": "2025-11-10T18:49:07.674Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T18:49:07.674Z"
     }
 }
