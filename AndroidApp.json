@@ -13221,7 +13221,6 @@
         "FIntVideoCaptureMaxLongSideLowMem": "854",
         "FIntVideoCaptureMaxShortSideLowMem": "480",
         "FFlagRobloxTelemetryEnableSenderCallback": "True",
-        "FFlagFCRouteSecondaryParts3_IXP": "1;Portal.FastClusterToolsOptimization-1762449203;FastClusterToolsOptimization;1971557908;flagbank",
         "FFlagFCTransformsDiffCheckOnUpdateGeometry_IXP": "1;Portal.FastClusterToolsOptimization-1762449203;FastClusterToolsOptimization;1971557908;flagbank",
         "FFlagEncodingServiceEnabled": "True",
         "FFlagQueryInstancesEnabled": "True",
@@ -13329,6 +13328,7 @@
         "DFFlagRefactorPopulateFeatureRestrictions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:33:52",
         "FFlagUserPSFixCameraControllerReset_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:34:50",
         "FFlagAXParseAdditionalItemDetailsFromCatalog4": "True",
+        "FFlagFCRouteSecondaryParts3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1900170094;2025-11-10T21:53:38",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14280,9 +14280,9 @@
         "FFlagEnableGooglePlayGamesIntegration_IXP": "1;ConsumerPlatforms.GameAchievements;ConsumerPlatforms.GameAchievements.Android.2;457212349;flagbank",
         "FFlagLuaAppEdpVideoMaxMemoryDeny": "True",
         "FIntLuaAppEdpVideoMaxMemoryThresholdMb": "3900",
-        "FStringFlagRepoGitHashFastString": "2b065472d637481506d568a4d4aa20803c41eaec",
-        "DFStringFlagRepoGitHashDynamicString": "2b065472d637481506d568a4d4aa20803c41eaec",
-        "FStringFlipTimeStampFastString": "2025-11-10T21:49:09.281Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T21:49:09.281Z"
+        "FStringFlagRepoGitHashFastString": "4373e39f1464a1e5686d171a644743ff17216799",
+        "DFStringFlagRepoGitHashDynamicString": "4373e39f1464a1e5686d171a644743ff17216799",
+        "FStringFlipTimeStampFastString": "2025-11-10T21:55:44.888Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T21:55:44.888Z"
     }
 }
