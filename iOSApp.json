@@ -14257,16 +14257,16 @@
         "FFlagAssetManifestInsideLuaPatchConfig": "True",
         "FFlagLuaAppEdpVideoAvailableRamDeny": "True",
         "FIntLuaAppEdpVideoAvailableRamThresholdMb": "500",
-        "DFIntPerformanceControlMemoryCriticalBufferSizeMB_Staged": "125;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T19:29:52",
         "DFIntMinSizeToCacheSharedStringBytes": "35000",
         "FIntSharedStringCacheThrottleHP_Staged": "50;SteadyState;10;30;Revert;true;610014736;2025-11-10T20:06:46",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
         "FFlagEnableSharedStringCaching7_Staged": "True;SteadyState;10;30;Revert;true;610014736;2025-11-10T20:06:46",
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
         "FFlagRbxStorageAltInitDuration": "True",
-        "FStringFlagRepoGitHashFastString": "cdce50080613277ca6632fdc3a485ff4747cfec7",
-        "DFStringFlagRepoGitHashDynamicString": "cdce50080613277ca6632fdc3a485ff4747cfec7",
-        "FStringFlipTimeStampFastString": "2025-11-10T20:29:25.096Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T20:29:25.096Z"
+        "DFIntPerformanceControlMemoryCriticalBufferSizeMB": "125",
+        "FStringFlagRepoGitHashFastString": "6fbde17e95acc6baeed2ab5ae790805f3fc0f686",
+        "DFStringFlagRepoGitHashDynamicString": "6fbde17e95acc6baeed2ab5ae790805f3fc0f686",
+        "FStringFlipTimeStampFastString": "2025-11-10T20:33:53.200Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T20:33:53.200Z"
     }
 }
