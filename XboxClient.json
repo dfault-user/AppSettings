@@ -13334,6 +13334,7 @@
         "FFlagToolboxFixCreatorStoreUrl_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:57:37",
         "FFlagAXEnableFavoritesInfoForAssetsAndBundles_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:00:59",
         "FFlagEnableSoundPreviewForAudioPlayerContentProperty_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:09:08",
+        "DFFlagCLI_157490_DelayBroadPhaseForBulkMove_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1635480703;2025-11-10T22:11:43",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13697,14 +13698,14 @@
         "DFIntMinSizeToCacheSharedStringBytes": "35000",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
-        "FFlagLuaAppEdpBackendV2LogMissingFetchEventData2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:07:22",
         "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure2": "True",
         "FIntApiFetchExperienceDetailsPageCounterThrottlingHundredthsPercent": "1000",
         "FFlagEnableSocialProfilePeekViewSecondaryExposureEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T21:36:50",
         "FFlagLuaAppEdpBackendV2LogUniverseIdForEvents": "True",
-        "FStringFlagRepoGitHashFastString": "221371aa95516ea5e3060814469877b6b14d4a85",
-        "DFStringFlagRepoGitHashDynamicString": "221371aa95516ea5e3060814469877b6b14d4a85",
-        "FStringFlipTimeStampFastString": "2025-11-10T22:11:48.098Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T22:11:48.098Z"
+        "FFlagLuaAppEdpBackendV2LogMissingFetchEventData2": "True",
+        "FStringFlagRepoGitHashFastString": "9fc01ab86169c5b299bf99d633c90254c5360e2a",
+        "DFStringFlagRepoGitHashDynamicString": "9fc01ab86169c5b299bf99d633c90254c5360e2a",
+        "FStringFlipTimeStampFastString": "2025-11-10T22:14:59.321Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T22:14:59.321Z"
     }
 }
