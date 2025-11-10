@@ -13314,7 +13314,6 @@
         "DFFlagRefactorFeatureRestrictionManagerRecourse4": "True",
         "FFlagAXParseAdditionalItemDetailsFromCatalog4": "True",
         "FFlagFoundationDialogUpdateSelection": "True",
-        "FFlagEnableNewAvatarViewportProps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:20:44",
         "FFlagSTM6148ToolboxMinWidth": "True",
         "FFlagWebBrowserSTM6856Enabled": "True",
         "FFlagToolboxUseGenericWebView6": "True",
@@ -13326,8 +13325,6 @@
         "FFlagStudioTimeoutBuiltInPlugins": "True",
         "FFlagStudioTimeoutUserPlugins": "True",
         "FFlagTurnOffPluginHangMonitorIfDebuggerPresent": "True",
-        "FFlagNativeDialogManager1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:31:24",
-        "FFlagIASThumbstickDirections_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T22:32:04",
         "DFFlagRefactorPopulateFeatureRestrictions": "True",
         "FFlagUserPSFixCameraControllerReset": "True",
         "DFFlagHttp2AllDevOriginatedReqs": "True",
@@ -13341,6 +13338,9 @@
         "FFlagCanReplicateAudioVideoContentPropertiesServer": "True",
         "FFlagContentPropertiesAudioVideo": "True",
         "DFFlagNoEndianConversion_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T23:31:40",
+        "FFlagEnableNewAvatarViewportProps": "True",
+        "FFlagNativeDialogManager1": "True",
+        "FFlagIASThumbstickDirections": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14292,9 +14292,9 @@
         "FFlagEnableGooglePlayGamesIntegration_IXP": "1;ConsumerPlatforms.GameAchievements;ConsumerPlatforms.GameAchievements.Android.2;457212349;flagbank",
         "FFlagLuaAppEdpVideoMaxMemoryDeny": "True",
         "FIntLuaAppEdpVideoMaxMemoryThresholdMb": "3900",
-        "FStringFlagRepoGitHashFastString": "e567a698d4a1ad98419e9a53b3c9130525633934",
-        "DFStringFlagRepoGitHashDynamicString": "e567a698d4a1ad98419e9a53b3c9130525633934",
-        "FStringFlipTimeStampFastString": "2025-11-10T23:33:03.706Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-10T23:33:03.706Z"
+        "FStringFlagRepoGitHashFastString": "2482d2fbe2c7ac92cb775b8b14c2010b9b85f6af",
+        "DFStringFlagRepoGitHashDynamicString": "2482d2fbe2c7ac92cb775b8b14c2010b9b85f6af",
+        "FStringFlipTimeStampFastString": "2025-11-10T23:36:25.374Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-10T23:36:25.374Z"
     }
 }
