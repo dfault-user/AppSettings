@@ -13344,12 +13344,12 @@
         "DFFlagNoEndianConversion": "True",
         "FFlagProfilePlatformOnlyUseFollowOnSupportedProfileTypes": "True",
         "FIntRelayoutPerFrameLimit": "100",
-        "FFlagCanReplicateUICursorPropertiesServer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;702958939;2025-11-11T18:44:29",
-        "FFlagContentPropertiesCursor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;702958939;2025-11-11T18:44:29",
-        "FStringFAEUpsellOverlayDeepLinkPattern_Staged": "roblox.*://navigation/aegis_upsell_overlay.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T18:56:09",
         "FFlagEnablePublishNotification": "True",
         "FFlagAppChatHandleAgeChange": "True",
         "FFlagUseSelectionChangedThisFrameForSomePlugins": "True",
+        "FFlagCanReplicateUICursorPropertiesServer": "True",
+        "FFlagContentPropertiesCursor": "True",
+        "FStringFAEUpsellOverlayDeepLinkPattern": "roblox.*://navigation/aegis_upsell_overlay.*",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14301,9 +14301,9 @@
         "FFlagEnableGooglePlayGamesIntegration_IXP": "1;ConsumerPlatforms.GameAchievements;ConsumerPlatforms.GameAchievements.Android.2;457212349;flagbank",
         "FFlagLuaAppEdpVideoMaxMemoryDeny": "True",
         "FIntLuaAppEdpVideoMaxMemoryThresholdMb": "3900",
-        "FStringFlagRepoGitHashFastString": "5df7ce6967fa1e273e638d72b2582ae1581cbf9b",
-        "DFStringFlagRepoGitHashDynamicString": "5df7ce6967fa1e273e638d72b2582ae1581cbf9b",
-        "FStringFlipTimeStampFastString": "2025-11-11T19:26:27.195Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-11T19:26:27.195Z"
+        "FStringFlagRepoGitHashFastString": "79b5d1cd9024e187a9b3d8b5c5a30224f81da0c5",
+        "DFStringFlagRepoGitHashDynamicString": "79b5d1cd9024e187a9b3d8b5c5a30224f81da0c5",
+        "FStringFlipTimeStampFastString": "2025-11-11T20:21:56.634Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-11T20:21:56.634Z"
     }
 }
