@@ -13342,7 +13342,6 @@
         "FFlagAXEnableFetchAvatarPreview9": "True",
         "FFlagAssetManifestInsideLuaPatchConfig": "True",
         "DFFlagNoEndianConversion": "True",
-        "FFlagEnablePublishNotification_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T18:09:21",
         "FFlagUseSelectionChangedThisFrameForSomePlugins_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T18:19:12",
         "FFlagProfilePlatformOnlyUseFollowOnSupportedProfileTypes": "True",
         "DFFlagHttpUrlStats_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1960987483;2025-11-11T18:22:19",
@@ -13351,6 +13350,7 @@
         "FFlagContentPropertiesCursor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;702958939;2025-11-11T18:44:29",
         "FFlagAppChatHandleAgeChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;609619829;2025-11-11T18:46:51",
         "FStringFAEUpsellOverlayDeepLinkPattern_Staged": "roblox.*://navigation/aegis_upsell_overlay.*;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T18:56:09",
+        "FFlagEnablePublishNotification": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14376,9 +14376,9 @@
         "DFIntAPCompressionLowEndRAMinMegaBytesThreshold_IXP": "1;Portal.ZAPCompressionWinIxp-1762819040;ZAPCompressionWinIxp;1812507501;flagbank",
         "DFIntAPMinBytesToMMapUncompressedAssetLowEnd_IXP": "1;Portal.ZAPCompressionWinIxp-1762819040;ZAPCompressionWinIxp;1812507501;flagbank",
         "DFStringContentProviderToAssetDeliveryMarkFromLodLoadStudy_IXP": "1;Portal.ZAPCompressionWinIxp-1762819040;ZAPCompressionWinIxp;1812507501;flagbank",
-        "FStringFlagRepoGitHashFastString": "a1022aabaeff2eabdcb4602ae470275e43204ef2",
-        "DFStringFlagRepoGitHashDynamicString": "a1022aabaeff2eabdcb4602ae470275e43204ef2",
-        "FStringFlipTimeStampFastString": "2025-11-11T19:20:57.756Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-11T19:20:57.756Z"
+        "FStringFlagRepoGitHashFastString": "5df7ce6967fa1e273e638d72b2582ae1581cbf9b",
+        "DFStringFlagRepoGitHashDynamicString": "5df7ce6967fa1e273e638d72b2582ae1581cbf9b",
+        "FStringFlipTimeStampFastString": "2025-11-11T19:26:27.195Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-11T19:26:27.195Z"
     }
 }
