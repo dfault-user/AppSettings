@@ -13355,6 +13355,8 @@
         "FFlagTouchInputServiceGestureCoalesceFingers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1057613799;2025-11-11T21:26:42",
         "FFlagEnableSHARE15233_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T21:35:27",
         "FFlagSBT5735": "True",
+        "FFlagFlagRolloutTestStaticBool14_Staged": "True;SteadyState;10;30;Revert;true;1861598235;2025-11-11T21:50:51",
+        "FFlagFlagRolloutTestStaticBool14_IXP": "1;Portal.TestIxpLayerCreationWithDraftMode-1762897815;TestIxpLayerCreationWithDraftMode;1861598235;flagbank",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13991,7 +13993,6 @@
         "EnablePaymentSessionOnAndoridRobuxPurchase": "True",
         "FFlagPerformanceControlAddSupportForOomBox2": "True",
         "DFFlagAddProfilerScopesForPerformanceControlStreaming_IXP": "1;HarmonyExposure;Harmony.IXPFlags.ManualExposureTest;434264036;dev_controlled",
-        "FStringPerformanceControlIXPFlagsExposureHardwareCheck_IXP": "1;HarmonyExposure;Harmony.IXPFlags.ManualExposureTest;434264036;dev_controlled",
         "FFlagThreadSafeAssetReadLogger": "True",
         "FFlagPerformanceControlLimitScopeOfSingleSurfaceAppTunable_IXP": "1;HarmonyExposure;HarmonyExposure.ReverseFlagTestForLimitScopeOfSingleSurfaceAppTunable;67377802;flagbank",
         "AndroidLogAssetReads": "True",
@@ -14310,9 +14311,9 @@
         "DFFlagGetHlsLodManifest2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T21:09:55",
         "FFlagUseGsonForEventUpload_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T21:40:30",
         "FIntRbxStorageMinMemoryRequirementMB_Staged": "1050;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T21:48:48",
-        "FStringFlagRepoGitHashFastString": "24ffdcd74c0794e48a6478b2847443cf3940a627",
-        "DFStringFlagRepoGitHashDynamicString": "24ffdcd74c0794e48a6478b2847443cf3940a627",
-        "FStringFlipTimeStampFastString": "2025-11-11T21:52:13.499Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-11T21:52:13.499Z"
+        "FStringFlagRepoGitHashFastString": "f13a465506d22c96eb7a2aebcd340c444949c63d",
+        "DFStringFlagRepoGitHashDynamicString": "f13a465506d22c96eb7a2aebcd340c444949c63d",
+        "FStringFlipTimeStampFastString": "2025-11-11T21:55:09.631Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-11T21:55:09.631Z"
     }
 }
