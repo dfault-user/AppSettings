@@ -13326,7 +13326,7 @@
         "FFlagStudioTimeoutUserPlugins": "True",
         "FFlagTurnOffPluginHangMonitorIfDebuggerPresent": "True",
         "DFFlagRefactorPopulateFeatureRestrictions": "True",
-        "FFlagUserPSFixCameraControllerReset": "True",
+        "FFlagUserPSFixCameraControllerReset": "False",
         "DFFlagHttp2AllDevOriginatedReqs": "True",
         "DFFlagHttp2NonUploadReqs": "True",
         "FFlagToolboxFireAndForget": "True",
@@ -15180,6 +15180,7 @@
         "FFlagEnableSocialProfilePeekViewSecondaryExposureEvents": "True",
         "FFlagViewInstanceLaunchTaskHandler_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T23:14:00",
         "FFlagUseZoomExtentsActionForViewInstanceLaunchTask_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T23:54:47",
+        "DFFlagSimDisableDcdForStudioCSG_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T00:00:10",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -15614,9 +15615,9 @@
         "FFlagRuntimeEnabled13": "False",
         "FFlagAeroNormalizeLBFGSLoss": "True",
         "FFlagSimDetailedThrottlingTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "8f6216a2a4d7a6eb3c9ef1ce0b2c5dc87894e43b",
-        "DFStringFlagRepoGitHashDynamicString": "8f6216a2a4d7a6eb3c9ef1ce0b2c5dc87894e43b",
-        "FStringFlipTimeStampFastString": "2025-11-11T00:51:29.837Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-11T00:51:29.837Z"
+        "FStringFlagRepoGitHashFastString": "34fa2962eb06234ede629ab5ffa02e53c721353f",
+        "DFStringFlagRepoGitHashDynamicString": "34fa2962eb06234ede629ab5ffa02e53c721353f",
+        "FStringFlipTimeStampFastString": "2025-11-11T00:53:26.022Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-11T00:53:26.022Z"
     }
 }
