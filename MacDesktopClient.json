@@ -13350,11 +13350,12 @@
         "FFlagCanReplicateUICursorPropertiesServer": "True",
         "FFlagContentPropertiesCursor": "True",
         "FStringFAEUpsellOverlayDeepLinkPattern": "roblox.*://navigation/aegis_upsell_overlay.*",
-        "DFFlagMigrateFeatureRestrictionDialog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T20:52:47",
         "FFlagEnableWarmStartMilestoneV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T21:15:37",
         "FFlagTouchInputServiceGestureCoalesceFingers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1057613799;2025-11-11T21:26:42",
         "FFlagEnableSHARE15233_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T21:35:27",
         "FFlagSBT5735": "True",
+        "DFFlagEditableMeshFixTangentUint82_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T21:53:35",
+        "DFFlagMigrateFeatureRestrictionDialog": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -14312,7 +14313,6 @@
         "FFlagAddStyleProviderInvitePrompt": "True",
         "FFlagFixFACSRigsCache3": "False",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB": "20",
-        "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_1_Desktop;746803258;flagbank",
         "FFlagProMotionSupport": "False",
         "FFlagRbxStorageCleanPermCache": "True",
@@ -14320,9 +14320,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp9": "True",
         "DFFlagGetHlsLodManifest2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T21:09:55",
-        "FStringFlagRepoGitHashFastString": "b05cc58b8bb8ecedfd4b136fe33b5612c994f696",
-        "DFStringFlagRepoGitHashDynamicString": "b05cc58b8bb8ecedfd4b136fe33b5612c994f696",
-        "FStringFlipTimeStampFastString": "2025-11-11T21:56:49.210Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-11T21:56:49.210Z"
+        "FStringFlagRepoGitHashFastString": "c822ed31f4aeefd0c944bb56ff236dc196f9f1ec",
+        "DFStringFlagRepoGitHashDynamicString": "c822ed31f4aeefd0c944bb56ff236dc196f9f1ec",
+        "FStringFlipTimeStampFastString": "2025-11-11T21:59:36.224Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-11T21:59:36.224Z"
     }
 }
