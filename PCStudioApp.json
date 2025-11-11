@@ -13330,7 +13330,6 @@
         "DFFlagHttp2AllDevOriginatedReqs": "True",
         "DFFlagHttp2NonUploadReqs": "True",
         "FFlagToolboxFireAndForget": "True",
-        "FFlagAXEnableFetchAvatarPreview9_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T23:04:50",
         "FFlagAXEnableFavoritesInfoForAssetsAndBundles": "True",
         "FFlagEnableSoundPreviewForAudioPlayerContentProperty": "True",
         "DFFlagCLI_157490_DelayBroadPhaseForBulkMove": "True",
@@ -13343,6 +13342,7 @@
         "FFlagIASThumbstickDirections": "True",
         "FIntEnableUnifiedProductPurchaseFlowThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T23:42:11",
         "FFlagAssetManifestInsideLuaPatchConfig_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T23:54:07",
+        "FFlagAXEnableFetchAvatarPreview9": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15178,9 +15178,9 @@
         "FFlagStudioRemoveRemoteDebuggerTcpConnection": "True",
         "FFlagRemoveActionsFromRobloxMainWindowE2": "False",
         "FFlagEnableSocialProfilePeekViewSecondaryExposureEvents": "True",
-        "FFlagViewInstanceLaunchTaskHandler_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T23:14:00",
         "FFlagUseZoomExtentsActionForViewInstanceLaunchTask_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-10T23:54:47",
         "DFFlagSimDisableDcdForStudioCSG_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T00:00:10",
+        "FFlagViewInstanceLaunchTaskHandler": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15636,9 +15636,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "1cf0ca50916df26de77837af05fe3adda2448ee9",
-        "DFStringFlagRepoGitHashDynamicString": "1cf0ca50916df26de77837af05fe3adda2448ee9",
-        "FStringFlipTimeStampFastString": "2025-11-11T00:55:50.458Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-11T00:55:50.458Z"
+        "FStringFlagRepoGitHashFastString": "cb4fd15cf16aa657e9aff6e6670d1506b8326989",
+        "DFStringFlagRepoGitHashDynamicString": "cb4fd15cf16aa657e9aff6e6670d1506b8326989",
+        "FStringFlipTimeStampFastString": "2025-11-11T00:57:08.621Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-11T00:57:08.621Z"
     }
 }
