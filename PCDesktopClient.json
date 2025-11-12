@@ -13368,8 +13368,6 @@
         "FFlagEnableRecommendationService": "True",
         "DFFlagEnableCaptureUpload": "True",
         "DFFlagEnableCapturesGalleryRetrieval2": "True",
-        "FFlagVideoCaptureSelfTestReportError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T18:58:41",
-        "DFFlagNavigationReportUsageByPlaceId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;566914347;2025-11-12T18:58:50",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagAXEnableInspectAndBuyBulkPurchase3": "True",
         "FFlagSongDetailsPageDesignPass_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:08:29",
@@ -13384,6 +13382,8 @@
         "DFIntRbxStorageMinAvailableSpaceBeforeCleanupMB": "100",
         "DFFlagHandleAllSetOperations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:37:47",
         "FFlagCancelButtonWidthToState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:57:45",
+        "FFlagVideoCaptureSelfTestReportError": "True",
+        "DFFlagNavigationReportUsageByPlaceId": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14410,9 +14410,9 @@
         "DFStringContentProviderToAssetDeliveryMarkFromLodLoadStudy_IXP": "1;Portal.ZAPCompressionWinIxp-1762819040;ZAPCompressionWinIxp;1812507501;flagbank",
         "FFlagAXFixBulkPurchaseFreeItems": "True",
         "FFlagAXPurchaseFromQuantityFirst": "True",
-        "FStringFlagRepoGitHashFastString": "02e4c1b79a9aabaf1de244a82ccf168a214a85b5",
-        "DFStringFlagRepoGitHashDynamicString": "02e4c1b79a9aabaf1de244a82ccf168a214a85b5",
-        "FStringFlipTimeStampFastString": "2025-11-12T19:59:55.591Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T19:59:55.591Z"
+        "FStringFlagRepoGitHashFastString": "678279c9026528a657b53e5e85aa1e67d092d7c4",
+        "DFStringFlagRepoGitHashDynamicString": "678279c9026528a657b53e5e85aa1e67d092d7c4",
+        "FStringFlipTimeStampFastString": "2025-11-12T20:02:12.157Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T20:02:12.157Z"
     }
 }
