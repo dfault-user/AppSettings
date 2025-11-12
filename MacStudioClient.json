@@ -15249,6 +15249,7 @@
         "FFlagAnnotationsAdjustNotifOptionsPadding_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T22:30:34",
         "FFlagFixFormatIssueOnContentAssetIds": "True",
         "FFlagUpdateScriptSyncBetaText": "True",
+        "FFlagAddScriptDiffTelemetry4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T22:38:02",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -15656,6 +15657,8 @@
         "FFlagMenuButtonsMountWithIEM": "True",
         "FFlagMenuButtonsReplaceUseEffect": "True",
         "FFlagRelocateMobileMenuButtons3": "True",
+        "FIntSQLiteCacheKeysExternalReserve_Staged": "50000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T22:36:26",
+        "FFlagRbxStorageImprovedFindAndRemoveOrphanedFiles_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T22:37:10",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -15694,9 +15697,9 @@
         "FFlagAeroNormalizeLBFGSLoss": "True",
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
-        "FStringFlagRepoGitHashFastString": "73891a287322651aadde2e7354905a3e11689b4d",
-        "DFStringFlagRepoGitHashDynamicString": "73891a287322651aadde2e7354905a3e11689b4d",
-        "FStringFlipTimeStampFastString": "2025-11-12T22:36:57.465Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T22:36:57.465Z"
+        "FStringFlagRepoGitHashFastString": "d92325e9651741e3c8ff949075908b80c0ed5123",
+        "DFStringFlagRepoGitHashDynamicString": "d92325e9651741e3c8ff949075908b80c0ed5123",
+        "FStringFlipTimeStampFastString": "2025-11-12T22:41:20.477Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T22:41:20.477Z"
     }
 }
