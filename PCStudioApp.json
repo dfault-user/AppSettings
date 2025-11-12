@@ -13393,6 +13393,9 @@
         "FFlagLuaAppEdpMediaGalleryGamePreviewVideoSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T23:12:15",
         "FFlagCallTeamCreateServerShutdownWhenRCCVerificationFailed": "True",
         "FFlagDisableRCCAntiHarrasmentAllowList": "True",
+        "FFlagChromeWindowSignalConstraintsToggle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1316552908;2025-11-12T23:20:01",
+        "FFlagInExperienceAvatarSwitcherPlaceFilter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1316552908;2025-11-12T23:20:01",
+        "FFlagAXUpdateAvatarOnGameLeave_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;159099440;2025-11-12T23:21:46",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15724,9 +15727,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "58ac89097091266627f326a1069ba6395a205434",
-        "DFStringFlagRepoGitHashDynamicString": "58ac89097091266627f326a1069ba6395a205434",
-        "FStringFlipTimeStampFastString": "2025-11-12T23:25:22.414Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T23:25:22.414Z"
+        "FStringFlagRepoGitHashFastString": "239537b802967c593f730e5963546b831cd0b692",
+        "DFStringFlagRepoGitHashDynamicString": "239537b802967c593f730e5963546b831cd0b692",
+        "FStringFlipTimeStampFastString": "2025-11-12T23:26:05.047Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T23:26:05.047Z"
     }
 }
