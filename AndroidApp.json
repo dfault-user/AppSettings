@@ -14342,10 +14342,14 @@
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.DeviceSpecificConstantMemoryBuffer.Android.Top21.V3;445688834;dev_controlled",
         "FStringPerformanceControlIXPFlagsExposureHardwareCheck_IXP": "1;HarmonyExposure;HarmonyExposure.DeviceSpecificConstantMemoryBuffer.Android.Top21.V3;445688834;dev_controlled",
         "FFlagUseGsonForEventUpload": "True",
-        "DFIntMinSizeToCacheSharedStringBytes_Staged": "35000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T21:37:28",
-        "FStringFlagRepoGitHashFastString": "d92325e9651741e3c8ff949075908b80c0ed5123",
-        "DFStringFlagRepoGitHashDynamicString": "d92325e9651741e3c8ff949075908b80c0ed5123",
-        "FStringFlipTimeStampFastString": "2025-11-12T22:41:20.477Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T22:41:20.477Z"
+        "DFIntMinSizeToCacheSharedStringBytes": "35000",
+        "FIntSharedStringCacheThrottleHP_Staged": "50;SteadyState;10;30;Revert;true;1641168062;2025-11-12T22:41:29",
+        "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.Android_SharedStringCaching_IXP-1762987228;Android_SharedStringCaching_IXP;1641168062;flagbank",
+        "FFlagEnableSharedStringCaching7_Staged": "True;SteadyState;10;30;Revert;true;1641168062;2025-11-12T22:41:29",
+        "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Android_SharedStringCaching_IXP-1762987228;Android_SharedStringCaching_IXP;1641168062;flagbank",
+        "FStringFlagRepoGitHashFastString": "63f2efe9c3c4278d18d9d821285cf9ab59cbf923",
+        "DFStringFlagRepoGitHashDynamicString": "63f2efe9c3c4278d18d9d821285cf9ab59cbf923",
+        "FStringFlipTimeStampFastString": "2025-11-12T22:44:24.450Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T22:44:24.450Z"
     }
 }
