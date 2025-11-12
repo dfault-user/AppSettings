@@ -14363,9 +14363,6 @@
         "FFlagShowRatingPromptOnGameLeave2_IXP": "1;ConsumerPlatforms.AppRatingPrompt;ConsumerPlatforms.iOSAppRatingPromptABTestV2;944157671;flagbank",
         "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesign;1406855834;dev_controlled",
         "FFlagFMDVariableNumSubsetJoints_IXP": "1;Portal.FMDVariableNumSubsetJoints-1762981571;FMDVariableNumSubsetJoints;1449756257;flagbank",
-        "FFlagAddIEMProfilePage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T21:41:52",
-        "FFlagPeoplePageEnablePersonSignalStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T21:42:35",
-        "FFlagPeoplePageLazyRenderCards_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T21:43:14",
         "FFlagDebugIosUnlockOrientation_IXP": "1;ConsumerPlatforms.UnlockedMobileOrientation;ConsumerPlatforms.UnlockedMobileOrientation.IOSDogfooding;1833561890;flagbank",
         "FFlagEnableOTAChannels_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T22:15:38",
         "FFlagFixPeoplePageReportTelemetry": "True",
@@ -14374,9 +14371,12 @@
         "FFlagRelocateMobileMenuButtons3": "True",
         "FFlagAXFix2DClothingTryOn": "True",
         "FFlagRbxStorageRunInitInStdThread_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T22:44:43",
-        "FStringFlagRepoGitHashFastString": "c95f6b22bb287cdc95a6d32dd22a9b54af676790",
-        "DFStringFlagRepoGitHashDynamicString": "c95f6b22bb287cdc95a6d32dd22a9b54af676790",
-        "FStringFlipTimeStampFastString": "2025-11-12T23:01:46.786Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T23:01:46.786Z"
+        "FFlagAddIEMProfilePage": "True",
+        "FFlagPeoplePageEnablePersonSignalStore": "True",
+        "FFlagPeoplePageLazyRenderCards": "True",
+        "FStringFlagRepoGitHashFastString": "c6ad94303e20fb6d85d60547195e4023f6ac7066",
+        "DFStringFlagRepoGitHashDynamicString": "c6ad94303e20fb6d85d60547195e4023f6ac7066",
+        "FStringFlipTimeStampFastString": "2025-11-12T23:02:06.330Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T23:02:06.330Z"
     }
 }
