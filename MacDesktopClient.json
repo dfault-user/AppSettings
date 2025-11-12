@@ -10495,7 +10495,7 @@
         "DFFlagFileCacheFixAllKeys": "True",
         "FFlagReportAbuseThankYouPageGamepadEnable": "True",
         "DFFlagRbxStorageDropCacheErrorsEnable": "True",
-        "DFIntRbxStorageDropCacheErrorsThreshold": "100000",
+        "DFIntRbxStorageDropCacheErrorsThreshold": "1000000000",
         "FFlagWiresDontTrustReentrantAncestryChanges": "True",
         "FFlagAXFixCameraManagerInitialization": "False",
         "FFlagReportGameServerInitializationSuccessAsV2Counter": "True",
@@ -13368,7 +13368,6 @@
         "FFlagEnableRecommendationService": "True",
         "DFFlagEnableCaptureUpload": "True",
         "DFFlagEnableCapturesGalleryRetrieval2": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVideoCaptureSelfTestReportError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T18:58:41",
         "DFFlagNavigationReportUsageByPlaceId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;566914347;2025-11-12T18:58:50",
         "AllowVideoPreRoll": "True",
@@ -13384,6 +13383,7 @@
         "FFlagAXMakeBulkPurchaseBlue": "True",
         "DFIntRbxStorageMinAvailableSpaceBeforeCleanupMB": "100",
         "DFFlagHandleAllSetOperations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:37:47",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -13879,7 +13879,6 @@
         "FFlagGfxASTCGLESFormatTelemetry": "True",
         "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
         "DFFlagNIIStricterPrefilter2": "True",
-        "DFIntRbxStorageDropCacheErrorsThreshold_Staged": "1000000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T18:36:02",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14348,9 +14347,9 @@
         "FFlagAXFixBulkPurchaseFreeItems": "True",
         "FFlagAXPurchaseFromQuantityFirst": "True",
         "FFlagFixGridContentSize": "True",
-        "FStringFlagRepoGitHashFastString": "8bc5eb76df50f978987349fd40a88255f6821025",
-        "DFStringFlagRepoGitHashDynamicString": "8bc5eb76df50f978987349fd40a88255f6821025",
-        "FStringFlipTimeStampFastString": "2025-11-12T19:44:57.195Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T19:44:57.195Z"
+        "FStringFlagRepoGitHashFastString": "a30c9e597b04bdccb1ebdeca856be16a607b6902",
+        "DFStringFlagRepoGitHashDynamicString": "a30c9e597b04bdccb1ebdeca856be16a607b6902",
+        "FStringFlipTimeStampFastString": "2025-11-12T19:51:39.793Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T19:51:39.793Z"
     }
 }
