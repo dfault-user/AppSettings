@@ -13356,7 +13356,6 @@
         "FFlagEnableSHARE15233": "True",
         "DFFlagEditableMeshFixTangentUint82": "True",
         "FFlagAddFriendsPYMKPresenceAnalytics_v1": "True",
-        "FFlagUserSearchGoBackOnCancel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T23:25:42",
         "DFFlagHumanoidDescriptionAssetTypeVerificationDefaultAlways": "True",
         "DFIntDynamicTranslationSenderMaxEntriesPerHttpMessage_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T23:37:02",
         "FFlagAXEnableNewInspectAndBuyContainer21": "True",
@@ -13367,6 +13366,7 @@
         "FFlagRenderTextureRetryWhenStillTranscoding_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T00:15:53",
         "FFlagUGCValidateMeshBBoxIsCentered_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T00:19:46",
         "FFlagUGCValidateMeshBBoxMinSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T00:20:37",
+        "FFlagUserSearchGoBackOnCancel": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14327,12 +14327,12 @@
         "FFlagLuaAppEdpVideoFrameCleanupWrapper": "True",
         "FFlagEnableNotificationTypeInNotificationsOSSettingsEvent": "True",
         "FFlagAudioPlayerFixAudioNeverPlaying": "True",
-        "FFlagDurationAlertOnlyForLongFlows_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T23:25:49",
-        "FFlagAXPurchaseFromQuantityFirst_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T23:29:48",
         "FFlagAXFixBulkPurchaseFreeItems": "True",
-        "FStringFlagRepoGitHashFastString": "38a8323204239f96daadf498e044708094dc78bd",
-        "DFStringFlagRepoGitHashDynamicString": "38a8323204239f96daadf498e044708094dc78bd",
-        "FStringFlipTimeStampFastString": "2025-11-12T00:27:21.627Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T00:27:21.627Z"
+        "FFlagAXPurchaseFromQuantityFirst": "True",
+        "FFlagDurationAlertOnlyForLongFlows": "True",
+        "FStringFlagRepoGitHashFastString": "2bf01ee77f4d59d2acced16b288dd83dfc1cebb2",
+        "DFStringFlagRepoGitHashDynamicString": "2bf01ee77f4d59d2acced16b288dd83dfc1cebb2",
+        "FStringFlipTimeStampFastString": "2025-11-12T00:32:59.486Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T00:32:59.486Z"
     }
 }
