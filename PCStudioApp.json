@@ -13366,6 +13366,8 @@
         "FFlagUGCValidateMeshBBoxIsCentered": "True",
         "FFlagUGCValidateMeshBBoxMinSize": "True",
         "DFIntRenderTextureMaxRetriesNonPreload": "0",
+        "FFlagEnableRecommendationService_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T17:03:20",
+        "DFFlagEnableCaptureUpload_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T17:04:05",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15673,9 +15675,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "f7bb930bf8897bd8ce76f125048086da5b61ec61",
-        "DFStringFlagRepoGitHashDynamicString": "f7bb930bf8897bd8ce76f125048086da5b61ec61",
-        "FStringFlipTimeStampFastString": "2025-11-12T02:06:21.650Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T02:06:21.650Z"
+        "FStringFlagRepoGitHashFastString": "489aef2c1bcb14440b70faafe7b8bc1b46a3088c",
+        "DFStringFlagRepoGitHashDynamicString": "489aef2c1bcb14440b70faafe7b8bc1b46a3088c",
+        "FStringFlipTimeStampFastString": "2025-11-12T17:05:07.573Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T17:05:07.573Z"
     }
 }
