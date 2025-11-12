@@ -13366,6 +13366,8 @@
         "FFlagRemoveVerbsFromPublishMediator3": "True",
         "DFIntRenderTextureMaxRetriesNonPreload_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T00:14:27",
         "FFlagRenderTextureRetryWhenStillTranscoding_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T00:15:53",
+        "FFlagUGCValidateMeshBBoxIsCentered_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T00:19:46",
+        "FFlagUGCValidateMeshBBoxMinSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T00:20:37",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -14331,9 +14333,9 @@
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp9": "True",
         "FFlagAXFixBulkPurchaseFreeItems_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T23:23:08",
         "FFlagAXPurchaseFromQuantityFirst_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-11T23:29:48",
-        "FStringFlagRepoGitHashFastString": "278a407c721f88705d8de53d659034e743e63542",
-        "DFStringFlagRepoGitHashDynamicString": "278a407c721f88705d8de53d659034e743e63542",
-        "FStringFlipTimeStampFastString": "2025-11-12T00:19:39.510Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T00:19:39.510Z"
+        "FStringFlagRepoGitHashFastString": "076d65a13f198a88007717c987f2a8adc0976411",
+        "DFStringFlagRepoGitHashDynamicString": "076d65a13f198a88007717c987f2a8adc0976411",
+        "FStringFlipTimeStampFastString": "2025-11-12T00:25:11.852Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T00:25:11.852Z"
     }
 }
