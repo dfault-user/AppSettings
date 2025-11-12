@@ -14214,7 +14214,7 @@
         "FFlagEnableNSEPayloadParsingFix": "True",
         "FFlagAXSlotsDesktopCrashFix": "True",
         "FFlagAXHidePBRInfoRowOnAnimatedBudles": "True",
-        "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_iOS_225;1512710661;flagbank",
+        "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_IOS_125;1483039976;flagbank",
         "DFIntMemoryUtilityCurveTotalMemoryReserve_IXP": "1;HarmonyExposure;HarmonyExposure.AveragedConstantMemoryBuffer.iOS;1340269764;dev_controlled",
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.AveragedConstantMemoryBuffer.iOS;1340269764;dev_controlled",
         "FFlagAXSlotsPeekViewScrollFix": "True",
@@ -14329,7 +14329,7 @@
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
         "FFlagRbxStorageAltInitDuration": "True",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB": "225",
-        "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_iOS_225;1483039976;flagbank",
+        "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_IOS_125;1483039976;flagbank",
         "FFlagEnableSocialProfilePeekViewSecondaryExposureEvents": "True",
         "FFlagCapturesEnableDownloadForU13": "True",
         "FFlagLogNetworkStatusiOS": "True",
@@ -14359,9 +14359,11 @@
         "FFlagShowRatingPromptOnGameLeave2_IXP": "1;ConsumerPlatforms.AppRatingPrompt;ConsumerPlatforms.iOSAppRatingPromptABTestV2;944157671;flagbank",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_Staged": "125;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T18:54:00",
         "FFlagRbxStorageRunInitBlockingCall_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:09:05",
-        "FStringFlagRepoGitHashFastString": "8e8838f4d00b38b89c71544eb08db85d10577323",
-        "DFStringFlagRepoGitHashDynamicString": "8e8838f4d00b38b89c71544eb08db85d10577323",
-        "FStringFlipTimeStampFastString": "2025-11-12T19:41:33.725Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T19:41:33.725Z"
+        "FFlagPerformanceControlBudgetSystemRollout8_Staged": "True;SteadyState;10;30;Revert;true;1483039976;2025-11-12T19:43:31",
+        "FStringPerformanceControlExperimentName_Staged": "Harmony_Budget_Based_IXP_IOS_125_Treatment;SteadyState;10;30;Revert;true;1483039976;2025-11-12T19:43:31",
+        "FStringFlagRepoGitHashFastString": "8bc5eb76df50f978987349fd40a88255f6821025",
+        "DFStringFlagRepoGitHashDynamicString": "8bc5eb76df50f978987349fd40a88255f6821025",
+        "FStringFlipTimeStampFastString": "2025-11-12T19:44:57.195Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T19:44:57.195Z"
     }
 }
