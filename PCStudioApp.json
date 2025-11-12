@@ -13368,10 +13368,7 @@
         "FFlagEnableRecommendationService": "True",
         "DFFlagEnableCaptureUpload": "True",
         "DFFlagEnableCapturesGalleryRetrieval2": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagAXEnableInspectAndBuyBulkPurchase3": "True",
-        "FFlagSongDetailsPageDesignPass_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:08:29",
-        "FFlagSongDetailsSheetReportingFlow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:10:49",
         "FIntCreateAnimationFromVideoBetaFeatureRolloutPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:18:12",
         "DFFlagPathfindingReportWaitingTimeInQueue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:19:18",
         "FFlagAXSlotsScrollAway2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:19:57",
@@ -13384,6 +13381,8 @@
         "FFlagCancelButtonWidthToState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:57:45",
         "FFlagVideoCaptureSelfTestReportError": "True",
         "DFFlagNavigationReportUsageByPlaceId": "True",
+        "FFlagSongDetailsPageDesignPass": "True",
+        "FFlagSongDetailsSheetReportingFlow": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15235,6 +15234,7 @@
         "FFlagCinUploadController2": "True",
         "FFlagStudioAddStatsTelemetryForStartupTime2": "True",
         "DFFlagSimCSG3EnableNewAPIPluginUse2": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -15692,9 +15692,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "678279c9026528a657b53e5e85aa1e67d092d7c4",
-        "DFStringFlagRepoGitHashDynamicString": "678279c9026528a657b53e5e85aa1e67d092d7c4",
-        "FStringFlipTimeStampFastString": "2025-11-12T20:02:12.157Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T20:02:12.157Z"
+        "FStringFlagRepoGitHashFastString": "c9fa138a29a3a588e7b6a10c43704c2de49cc21e",
+        "DFStringFlagRepoGitHashDynamicString": "c9fa138a29a3a588e7b6a10c43704c2de49cc21e",
+        "FStringFlipTimeStampFastString": "2025-11-12T20:15:02.178Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T20:15:02.178Z"
     }
 }
