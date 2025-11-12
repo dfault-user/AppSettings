@@ -13374,6 +13374,8 @@
         "DFFlagOptimizeUnrelatedSecurityTasks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T18:17:44",
         "DFIntRbxStorageMinAvailableSpaceBeforeCleanupMB_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T18:26:33",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagVideoCaptureSelfTestReportError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T18:58:41",
+        "DFFlagNavigationReportUsageByPlaceId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;566914347;2025-11-12T18:58:50",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15660,9 +15662,9 @@
         "FFlagRuntimeEnabled13": "False",
         "FFlagAeroNormalizeLBFGSLoss": "True",
         "FFlagSimDetailedThrottlingTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "05da910e07eebe29078e0cfeb60d9558ce8f2001",
-        "DFStringFlagRepoGitHashDynamicString": "05da910e07eebe29078e0cfeb60d9558ce8f2001",
-        "FStringFlipTimeStampFastString": "2025-11-12T18:58:14.626Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T18:58:14.626Z"
+        "FStringFlagRepoGitHashFastString": "f67678b3c4aa7641c6e9874351e72763aa5761b2",
+        "DFStringFlagRepoGitHashDynamicString": "f67678b3c4aa7641c6e9874351e72763aa5761b2",
+        "FStringFlipTimeStampFastString": "2025-11-12T19:00:40.373Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T19:00:40.373Z"
     }
 }
