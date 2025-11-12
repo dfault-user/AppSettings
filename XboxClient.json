@@ -13361,7 +13361,7 @@
         "FFlagRefactorBodyAttachmentOrientationsCheck2": "True",
         "FFlagToolboxDeprecateAssetSelection": "True",
         "FFlagUGCValidateMeshBBoxIsCentered": "True",
-        "FFlagUGCValidateMeshBBoxMinSize": "True",
+        "FFlagUGCValidateMeshBBoxMinSize": "False",
         "DFIntRenderTextureMaxRetriesNonPreload": "0",
         "FFlagPPVBackgroundEnabledV2_IXP": "1;Social.ProfilePeekView.Secondary;Social.ProfilePeekView.Profile3DCharacters;460092599;dev_controlled",
         "FFlagPPVBackgroundUse2DAsLoadingState_IXP": "1;Social.ProfilePeekView.Secondary;Social.ProfilePeekView.Profile3DCharacters;460092599;dev_controlled",
@@ -13377,8 +13377,6 @@
         "DFFlagNavigationReportUsageByPlaceId": "True",
         "FFlagSongDetailsPageDesignPass": "True",
         "FFlagSongDetailsSheetReportingFlow": "True",
-        "FFlagUGCValidateMeshBBoxMinSize_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T20:14:33",
-        "FFlagAXSwapOuterwearSubcategoryOrder_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T20:15:53",
         "FFlagAXEnableManualSaving4_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T20:44:51",
         "FFlagGetVoiceChatStateFromControlPlane": "True",
         "FFlagAXSlotsScrollAway2": "True",
@@ -13389,6 +13387,7 @@
         "AllowVideoPreRoll": "True",
         "FFlagAppChatFixSendingMessageColor2": "True",
         "FFlagExperienceEventsListingAPIEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T21:16:31",
+        "FFlagAXSwapOuterwearSubcategoryOrder": "False",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13762,9 +13761,9 @@
         "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesign;1406855834;dev_controlled",
         "FFlagFMDVariableNumSubsetJoints_Staged": "True;SteadyState;10;30;Revert;true;1449756257;2025-11-12T21:06:54",
         "FFlagFMDVariableNumSubsetJoints_IXP": "1;Portal.FMDVariableNumSubsetJoints-1762981571;FMDVariableNumSubsetJoints;1449756257;flagbank",
-        "FStringFlagRepoGitHashFastString": "31cbbc9afb1d315f6183a76d9965c0810dc18012",
-        "DFStringFlagRepoGitHashDynamicString": "31cbbc9afb1d315f6183a76d9965c0810dc18012",
-        "FStringFlipTimeStampFastString": "2025-11-12T21:17:37.308Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T21:17:37.308Z"
+        "FStringFlagRepoGitHashFastString": "1b7c0cf9694a04c407d03cca91520237b36708b2",
+        "DFStringFlagRepoGitHashDynamicString": "1b7c0cf9694a04c407d03cca91520237b36708b2",
+        "FStringFlipTimeStampFastString": "2025-11-12T21:27:26.138Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T21:27:26.138Z"
     }
 }
