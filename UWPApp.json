@@ -13368,9 +13368,6 @@
         "FFlagEnableRecommendationService": "True",
         "DFFlagEnableCaptureUpload": "True",
         "DFFlagEnableCapturesGalleryRetrieval2": "True",
-        "FFlagAppChatFixPartyTabNumberedBadgeClearing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;657733096;2025-11-12T18:11:47",
-        "FFlagAXMakeBulkPurchaseBlue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T18:13:47",
-        "DFFlagOptimizeUnrelatedSecurityTasks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T18:17:44",
         "DFIntRbxStorageMinAvailableSpaceBeforeCleanupMB_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T18:26:33",
         "DFIntRbxStorageDropCacheErrorsThreshold_Staged": "1000000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T18:36:02",
         "FFlagVideoCaptureSelfTestReportError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T18:58:41",
@@ -13384,6 +13381,9 @@
         "DFFlagPathfindingReportWaitingTimeInQueue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:19:18",
         "FFlagAXSlotsScrollAway2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:19:57",
         "FFlagGetVoiceChatStateFromControlPlane_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T19:22:43",
+        "DFFlagOptimizeUnrelatedSecurityTasks": "True",
+        "FFlagAppChatFixPartyTabNumberedBadgeClearing": "True",
+        "FFlagAXMakeBulkPurchaseBlue": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13687,9 +13687,9 @@
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData2": "True",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp9": "True",
         "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
-        "FStringFlagRepoGitHashFastString": "51ed35e0ac7f04b7e6adaaf640328566f66b3eef",
-        "DFStringFlagRepoGitHashDynamicString": "51ed35e0ac7f04b7e6adaaf640328566f66b3eef",
-        "FStringFlipTimeStampFastString": "2025-11-12T19:25:56.070Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T19:25:56.070Z"
+        "FStringFlagRepoGitHashFastString": "f45e8d6b489b65ef69f2fcfa00095bf379e29429",
+        "DFStringFlagRepoGitHashDynamicString": "f45e8d6b489b65ef69f2fcfa00095bf379e29429",
+        "FStringFlipTimeStampFastString": "2025-11-12T19:28:17.345Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T19:28:17.345Z"
     }
 }
