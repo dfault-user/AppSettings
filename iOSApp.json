@@ -13387,6 +13387,8 @@
         "FFlagCancelButtonWidthToState": "True",
         "FLogDesktopInstaller_Staged": "Debug;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T21:04:41",
         "CaptureCountersIntervalInMinutes": "5",
+        "FFlagAppChatFixSendingMessageColor2": "True",
+        "FFlagExperienceEventsListingAPIEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T21:16:31",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -14361,9 +14363,9 @@
         "FIntRbxStorageMinMemoryRequirementMB_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T20:51:43",
         "FFlagFMDVariableNumSubsetJoints_Staged": "True;SteadyState;10;30;Revert;true;1449756257;2025-11-12T21:06:54",
         "FFlagFMDVariableNumSubsetJoints_IXP": "1;Portal.FMDVariableNumSubsetJoints-1762981571;FMDVariableNumSubsetJoints;1449756257;flagbank",
-        "FStringFlagRepoGitHashFastString": "074617ec5efb6472f841c5f2a05bd14b4f6fbf68",
-        "DFStringFlagRepoGitHashDynamicString": "074617ec5efb6472f841c5f2a05bd14b4f6fbf68",
-        "FStringFlipTimeStampFastString": "2025-11-12T21:10:16.954Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-12T21:10:16.954Z"
+        "FStringFlagRepoGitHashFastString": "31cbbc9afb1d315f6183a76d9965c0810dc18012",
+        "DFStringFlagRepoGitHashDynamicString": "31cbbc9afb1d315f6183a76d9965c0810dc18012",
+        "FStringFlipTimeStampFastString": "2025-11-12T21:17:37.308Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-12T21:17:37.308Z"
     }
 }
