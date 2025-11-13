@@ -7992,7 +7992,7 @@
         "DFFlagTempPhysicsCollisionDataReceivedStats": "True",
         "DFFlagEnableRewardedAdsFunnelEvents2": "True",
         "FIntLuaAppStartupReactSchedulerDelayMs": "15000",
-        "FFlagDisableReactSchedulingAvgMaxMsStats": "False",
+        "FFlagDisableReactSchedulingAvgMaxMsStats": "True",
         "FFlagDisableReactSchedulingTimePctStats": "True",
         "FFlagPerformanceControlRequestCompleteCount": "True",
         "DFFlagAssetProviderWriteToDiskCacheOnInMemUpdate": "True",
@@ -13400,8 +13400,6 @@
         "FFlagLuauEGFixGenericsList": "True",
         "DFFlagSimCSGAddOperationTimeTelemetry": "True",
         "FFlagProfilePlatformEnableLazyLoadingComponentsV5_IXP": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-        "FFlagDisableReactSchedulingAvgMaxMsStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;401758145;2025-11-13T17:33:43",
-        "FFlagEnableAutoLoginAfterRecovery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:33:47",
         "AllowVideoPreRoll": "True",
         "FFlagFixNotificationReportsMobile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:52:55",
         "FFlagRenderEditableMeshDecals_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:56:02",
@@ -13417,6 +13415,7 @@
         "FFlagFlagRolloutTestStaticBool40_IXP": "1;IxpFlagsTestLayer;;1370301076;flagbank",
         "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;;1325120134;dev_controlled",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:35:05",
+        "FFlagEnableAutoLoginAfterRecovery": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14419,9 +14418,9 @@
         "FFlagEnableInExperienceAvatarSwitcher9_IXP": "1;UIEcosystem.User.Migration;;1312725306;flagbank",
         "FFlagRemoveAvatarSwitcherIfUnsupported_IXP": "1;UIEcosystem.User.Migration;;1312725306;flagbank",
         "FFlagExtractImpressionNavigationDep": "True",
-        "FStringFlagRepoGitHashFastString": "7dbf365ef20329b7b54824ef05d0dd8a3d76b57c",
-        "DFStringFlagRepoGitHashDynamicString": "7dbf365ef20329b7b54824ef05d0dd8a3d76b57c",
-        "FStringFlipTimeStampFastString": "2025-11-13T18:37:45.448Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:37:45.448Z"
+        "FStringFlagRepoGitHashFastString": "a7c481f10047461db784485be16f514ff027db1f",
+        "DFStringFlagRepoGitHashDynamicString": "a7c481f10047461db784485be16f514ff027db1f",
+        "FStringFlipTimeStampFastString": "2025-11-13T18:39:43.327Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:39:43.327Z"
     }
 }
