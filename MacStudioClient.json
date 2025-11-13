@@ -13415,7 +13415,7 @@
         "FFlagRenderEditableMeshDecals": "True",
         "AxisAdornmentGrabSize": "12",
         "AllowVideoPreRoll": "True",
-        "CaptureCountersIntervalInMinutes": "5",
+        "CaptureQTStudioCountersEnabled": "True",
         "DFFlagDeserializeOnlySigningInfo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:37:02",
         "FFlagProfilePlatformEnableBundlesInAssetsCarousel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:37:08",
         "FFlagAddStyleProviderInvitePrompt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1918778389;2025-11-13T19:38:25",
@@ -13424,7 +13424,7 @@
         "FFlagLuauExtendSealedTableUpperBounds_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:45:00",
         "FFlagLuaAppFixExplicitFeedbackTelemetry": "True",
         "FFlagUpdateDiscoveryEventErrorDetailsLogging": "True",
-        "CaptureQTStudioCountersEnabled": "True",
+        "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:53:11",
         "FFlagStudioBackgroundUpdatesAdditionalLog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:54:23",
         "FFlagSduiLoggerRemoveContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;684760871;2025-11-13T19:56:22",
@@ -13440,7 +13440,7 @@
         "FFlagLogoutPhoneVerificationUpsellCopy_v3": "True",
         "DFFlagVideoDynamicAcrPriorityListGeneration": "True",
         "FFlagEnableVoiceChatDevConsoleTab": "True",
-        "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
+        "CaptureCountersIntervalInMinutes": "5",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
@@ -15788,9 +15788,9 @@
         "FFlagAeroNormalizeLBFGSLoss": "True",
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
-        "FStringFlagRepoGitHashFastString": "9bb33ab30ebb917e8cf56ab2dfb8e3d4dfda130b",
-        "DFStringFlagRepoGitHashDynamicString": "9bb33ab30ebb917e8cf56ab2dfb8e3d4dfda130b",
-        "FStringFlipTimeStampFastString": "2025-11-13T20:15:24.889Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T20:15:24.889Z"
+        "FStringFlagRepoGitHashFastString": "aa9f627d27b053f4bc41c5b111a46f67434d9d6a",
+        "DFStringFlagRepoGitHashDynamicString": "aa9f627d27b053f4bc41c5b111a46f67434d9d6a",
+        "FStringFlipTimeStampFastString": "2025-11-13T20:19:42.961Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T20:19:42.961Z"
     }
 }
