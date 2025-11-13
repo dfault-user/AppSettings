@@ -13399,8 +13399,6 @@
         "FFlagLuaAppDataModelStreamEnableTestIdAttribute": "True",
         "FFlagLuauEGFixGenericsList": "True",
         "DFFlagSimCSGAddOperationTimeTelemetry": "True",
-        "FIntTraversalTelemetryThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:04:09",
-        "FIntMaximumTraversalHistoryItemsFetch_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:04:44",
         "FFlagFixFlakyMusicTests_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:06:20",
         "FFlagUseTeleportedPlacesBackHistory2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:07:39",
         "FFlagIEMButtonsResponsiveLayout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:09:09",
@@ -13414,6 +13412,8 @@
         "FFlagFixNotificationReportsMobile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:52:55",
         "FFlagRenderEditableMeshDecals_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:56:02",
         "FFlagEnableLuafiedRecoveryFlow2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:58:40",
+        "FIntMaximumTraversalHistoryItemsFetch": "100",
+        "FIntTraversalTelemetryThrottleHundrethsPercent": "10000",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13966,6 +13966,7 @@
         "FFlagAXEnableManualSaving4_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:49:04",
         "FFlagAXEnableManualSavingBlockingPrompt3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:52:39",
         "FFlagFoundationPopoverFocusTrap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1641865407;2025-11-13T17:57:18",
+        "FFlagUpdateDescriptorByNameForDescV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:07:02",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14473,9 +14474,9 @@
         "FFlagAXEnableBatchItemDetailsFetchV2": "True",
         "DFIntFacialAgeEstimationFlowTelemetryThrottle_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;875439224;2025-11-13T17:45:43",
         "FFlagEnableAmpUpsellLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1133023034;2025-11-13T17:47:29",
-        "FStringFlagRepoGitHashFastString": "e54f5cc9e6228ac9cff23e7732f23c8053798bf5",
-        "DFStringFlagRepoGitHashDynamicString": "e54f5cc9e6228ac9cff23e7732f23c8053798bf5",
-        "FStringFlipTimeStampFastString": "2025-11-13T18:03:14.535Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:03:14.535Z"
+        "FStringFlagRepoGitHashFastString": "c3a7eadc67b611a86f4d5bc5cca152d171f0eea6",
+        "DFStringFlagRepoGitHashDynamicString": "c3a7eadc67b611a86f4d5bc5cca152d171f0eea6",
+        "FStringFlipTimeStampFastString": "2025-11-13T18:08:04.693Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:08:04.693Z"
     }
 }
