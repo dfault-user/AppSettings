@@ -13439,7 +13439,6 @@
         "FFlagHlsPlaylistNoCacheByDefault": "True",
         "FFlagSduiLoggerRemoveContext": "True",
         "DFFlagHlsCheckInitSegReady": "True",
-        "FFlagRemoveSingleSurfaceAppVideoRecorder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:08:45",
         "FFlagFileCacheFixPS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:12:22",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "2000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;910570647;2025-11-13T21:15:22",
         "FFlagFoundationNumberInputRefAndCallbacks": "True",
@@ -13458,6 +13457,8 @@
         "DFFlagSupportMeshLOD": "True",
         "FFlagReimportBetaFeature": "True",
         "FStringTextureTranscodeNewFidelityETC_Staged": "UAI=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:07:04",
+        "FFlagHideInstallerDialogAfterLaunchClient_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:08:02",
+        "FFlagRemoveSingleSurfaceAppVideoRecorder": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14384,7 +14385,6 @@
         "FFlagUseResumedActivityCount": "True",
         "FFlagStickyTotalBackgroundedTime": "True",
         "FFlagDisablePauseSessionInPersonaFlow": "True",
-        "FFlagVoiceChatClientRebootOperationEnabled2_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Reboot.MuteFix;2099811864;flagbank",
         "FFlagMicInitialMuteStateFix_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.ClientRewrite.Android.Reboot.MuteFix;2099811864;flagbank",
         "FFlagEnableAckCallOnPushReceiveV4": "True",
         "FFlagEnableNotificationsBackgroundJobEventNameChange": "True",
@@ -14417,9 +14417,10 @@
         "FFlagEnableNetworkStatusObserving_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:29:58",
         "DFIntFacialAgeEstimationFlowTelemetryThrottle": "10000",
         "FFlagEnableRemoveTopIconsFromProfileWebView_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:57:54",
-        "FStringFlagRepoGitHashFastString": "3f051ca2fa94047bd8b1ad10127caa7a8f94474d",
-        "DFStringFlagRepoGitHashDynamicString": "3f051ca2fa94047bd8b1ad10127caa7a8f94474d",
-        "FStringFlipTimeStampFastString": "2025-11-13T22:11:37.694Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:11:37.694Z"
+        "DFFlagDataPingTrace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:08:56",
+        "FStringFlagRepoGitHashFastString": "97c4e601edb443575c3202a4a837f0e713e64865",
+        "DFStringFlagRepoGitHashDynamicString": "97c4e601edb443575c3202a4a837f0e713e64865",
+        "FStringFlipTimeStampFastString": "2025-11-13T22:14:03.821Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:14:03.821Z"
     }
 }
