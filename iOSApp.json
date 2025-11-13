@@ -13423,7 +13423,7 @@
         "FFlagIxpControllerGenericLayerStorage3": "True",
         "FFlagLogoutPhoneVerificationUpsellCopy_v3": "True",
         "DFFlagVideoDynamicAcrPriorityListGeneration": "True",
-        "FFlagEnableVoiceChatDevConsoleTab": "True",
+        "FFlagEnableVoiceChatDevConsoleTab": "False",
         "DFFlagNewReflectionUseReflectable": "True",
         "DFFlagNewReflectionUseStringable": "True",
         "DFFlagStopSendingChunkSizeStat": "True",
@@ -13462,6 +13462,7 @@
         "FFlagUserFixOrbitalCameraAzimuth_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:26:44",
         "FFlagLargeReplicatorSerializeWrite4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:32:28",
         "FFlagLuaAppAddTestIdsForEdpInfoTable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:34:51",
+        "FFlagAppChatEnableConversationUserTileAvatars_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:35:29",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14468,9 +14469,9 @@
         "FFlagFixTextNotShowingInBillboard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1399531302;2025-11-13T21:44:35",
         "FFlagAXTryOnScreenImprovements6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:00:51",
         "FFlagFixGridContentSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:21:17",
-        "FStringFlagRepoGitHashFastString": "c1ff3e5c3b0889183c924a25c5abb387a6857e0c",
-        "DFStringFlagRepoGitHashDynamicString": "c1ff3e5c3b0889183c924a25c5abb387a6857e0c",
-        "FStringFlipTimeStampFastString": "2025-11-13T22:37:48.982Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:37:48.982Z"
+        "FStringFlagRepoGitHashFastString": "84789af33891440b63bcdc38901e0da1f24d9cdd",
+        "DFStringFlagRepoGitHashDynamicString": "84789af33891440b63bcdc38901e0da1f24d9cdd",
+        "FStringFlipTimeStampFastString": "2025-11-13T22:39:29.616Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:39:29.616Z"
     }
 }
