@@ -13410,8 +13410,8 @@
         "FFlagFlagRolloutTestStaticBool40_IXP": "1;IxpFlagsTestLayer;;1370301076;flagbank",
         "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;;1325120134;dev_controlled",
         "FFlagEnableAutoLoginAfterRecovery": "True",
+        "CaptureCountersIntervalInMinutes": "5",
         "AxisAdornmentGrabSize": "12",
-        "AllowVideoPreRoll": "True",
         "FFlagEnableSocialProfilePeekViewSecondaryExposureEvents": "True",
         "FFlagRemoveUnsafeDMUsagePreview_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:51:42",
         "FFlagRemoveStaleChildConnections2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:52:41",
@@ -13428,7 +13428,9 @@
         "DFFlagNewReflectionUseReflectable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;594301016;2025-11-13T19:17:52",
         "DFFlagNewReflectionUseStringable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;594301016;2025-11-13T19:17:52",
         "DFFlagStopSendingChunkSizeStat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:18:17",
-        "CaptureCountersIntervalInMinutes": "5",
+        "FFlagRenderHighlightManagerPrepare6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:36:45",
+        "AllowVideoPreRoll": "True",
+        "FFlagProfilePlatformEnableBundlesInAssetsCarousel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:37:08",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -14434,9 +14436,9 @@
         "FFlagRefactorPeoplePage8_IXP": "1;UIEcosystem.User.Migration;;398703262;flagbank",
         "FIntRelocateMobileMenuButtonsVariant_IXP": "1;UIEcosystem.User.Migration;;398703262;flagbank",
         "FFlagFoundationPopoverFocusTrap": "True",
-        "FStringFlagRepoGitHashFastString": "bc378b035855343ffd0af8c9a12d63a6edb5e5af",
-        "DFStringFlagRepoGitHashDynamicString": "bc378b035855343ffd0af8c9a12d63a6edb5e5af",
-        "FStringFlipTimeStampFastString": "2025-11-13T19:39:45.887Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T19:39:45.887Z"
+        "FStringFlagRepoGitHashFastString": "f70e134cd5185502a9da54c100674cc4333b90ee",
+        "DFStringFlagRepoGitHashDynamicString": "f70e134cd5185502a9da54c100674cc4333b90ee",
+        "FStringFlipTimeStampFastString": "2025-11-13T19:41:29.388Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T19:41:29.388Z"
     }
 }
