@@ -13406,6 +13406,7 @@
         "FFlagIEMButtonsResponsiveLayout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:09:09",
         "FFlagFixUnibarRefactoringInTopBarApp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:09:42",
         "FFlagFixLocalHistoryLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:10:07",
+        "DFFlagSimAdaptiveUseNewVelocityCriteria_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:12:43",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15685,6 +15686,10 @@
         "FFlagDeferPlayerInfoRequests": "True",
         "FFlagUseVRMainScreenResForDisplayStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:07:12",
         "FFlagCreateInExperienceMenuReact6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:10:51",
+        "FFlagAddGuiInsetToDisplayStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:12:27",
+        "FFlagAddTraversalBackButton699v1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:13:06",
+        "FFlagAddTraversalBackButtonAnimation699v1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:14:18",
+        "FFlagAddTraversalHistory699v1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:14:52",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -15723,9 +15728,9 @@
         "FFlagAeroNormalizeLBFGSLoss": "True",
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
-        "FStringFlagRepoGitHashFastString": "cfab1ca4891d4e857008cbe90eec55e12c29c1e0",
-        "DFStringFlagRepoGitHashDynamicString": "cfab1ca4891d4e857008cbe90eec55e12c29c1e0",
-        "FStringFlipTimeStampFastString": "2025-11-13T17:11:47.408Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T17:11:47.408Z"
+        "FStringFlagRepoGitHashFastString": "68b820bd5b94323e9eaa1bebf29d6e43bacef107",
+        "DFStringFlagRepoGitHashDynamicString": "68b820bd5b94323e9eaa1bebf29d6e43bacef107",
+        "FStringFlipTimeStampFastString": "2025-11-13T17:15:41.647Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T17:15:41.647Z"
     }
 }
