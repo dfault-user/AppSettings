@@ -11673,7 +11673,7 @@
         "DFIntSlimLODSelectionMode": "1",
         "DFIntSlimModelsSnapshotEventThrottleHundredthsPercent": "100",
         "DFIntSlimTransitionStreamingRadiusPercentage": "75",
-        "DFStringSlimMajorVersion": "v0.21",
+        "DFStringSlimMajorVersion": "v0.22",
         "DFFlagPlaceLauncherHttpResponseTelemetryFieldForFix": "True",
         "FFlagLuauCompileVectorLerp": "True",
         "FFlagLuauTypeCheckerVectorLerp": "True",
@@ -13069,7 +13069,7 @@
         "DFFlagTextChatFireLegacyChattedOnCommands": "True",
         "FFlagReserveMemDescContSize": "True",
         "FFlagDevFrameworkMultiImageRenameFix": "True",
-        "FFlagUIBloxAddTestIdToComboButtonAndCellTailDescription": "False",
+        "FFlagUIBloxAddTestIdToComboButtonAndCellTailDescription": "True",
         "FFlagSmoothClusterGeometryMultipleMutexes": "True",
         "DFFlagForEachOneWorker": "True",
         "FFlagKtx2LoaderScratchOpt": "True",
@@ -13443,8 +13443,6 @@
         "FFlagEnableSurveyPromptTelemetry": "True",
         "FFlagNullCheckPlayersNameLabel": "True",
         "FFlagVoiceChatAddLeaveReasonToTelemetry": "True",
-        "FFlagUIBloxAddTestIdToComboButtonAndCellTailDescription_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:27:28",
-        "DFStringSlimMajorVersion_Staged": "v0.22;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:29:54",
         "FFlagVoiceChatSynchronizeMuteMicrophoneState": "True",
         "FFlagAXUpdateResultsListFunctionalWrapper": "True",
         "FFlagEnableVoiceChatDevConsoleTab_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:34:23",
@@ -13463,6 +13461,7 @@
         "FFlagDevConsoleTopBarDragFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1892687716;2025-11-13T22:22:28",
         "FFlagFixNullPtrOnMemoryStatsCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:23:59",
         "FFlagUserFixOrbitalCameraAzimuth_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:26:44",
+        "FFlagLargeReplicatorSerializeWrite4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:32:28",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13766,9 +13765,9 @@
         "FFlagFixWindowDragError": "True",
         "FIntUwpDeprecationDate_Staged": "1763672400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:31:30",
         "FFlagUwpAlwaysLinkToSlashDownload": "True",
-        "FStringFlagRepoGitHashFastString": "ebe64186ebb9949e0d02ecc9514c042e1872ee21",
-        "DFStringFlagRepoGitHashDynamicString": "ebe64186ebb9949e0d02ecc9514c042e1872ee21",
-        "FStringFlipTimeStampFastString": "2025-11-13T22:29:17.943Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:29:17.943Z"
+        "FStringFlagRepoGitHashFastString": "a012c64cb231c4924541e7b97d2970c1293acd84",
+        "DFStringFlagRepoGitHashDynamicString": "a012c64cb231c4924541e7b97d2970c1293acd84",
+        "FStringFlipTimeStampFastString": "2025-11-13T22:35:26.416Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:35:26.416Z"
     }
 }
