@@ -13410,6 +13410,7 @@
         "FFlagProfilePlatformEnableLazyLoadingComponentsV5_IXP": "1;Social.ProfilePeekView;;810962997;dev_controlled",
         "FFlagDisableReactSchedulingAvgMaxMsStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;401758145;2025-11-13T17:33:43",
         "FFlagEnableAutoLoginAfterRecovery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:33:47",
+        "FFlagEnableSocialProfilePeekViewSecondaryExposureEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:49:41",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13714,9 +13715,10 @@
         "FFlagAvatarSwitcher3DPreview": "True",
         "FFlagFixWindowDragError": "True",
         "FFlagAXEnableManualSaving4_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:49:04",
-        "FStringFlagRepoGitHashFastString": "6213ec02e5a12f24e06baeac9127580e71c2908f",
-        "DFStringFlagRepoGitHashDynamicString": "6213ec02e5a12f24e06baeac9127580e71c2908f",
-        "FStringFlipTimeStampFastString": "2025-11-13T17:51:19.283Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T17:51:19.283Z"
+        "FFlagAXEnableManualSavingBlockingPrompt3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:52:39",
+        "FStringFlagRepoGitHashFastString": "163a198d6e770ec4c118cce38b515f2c7478140c",
+        "DFStringFlagRepoGitHashDynamicString": "163a198d6e770ec4c118cce38b515f2c7478140c",
+        "FStringFlipTimeStampFastString": "2025-11-13T17:53:55.527Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T17:53:55.527Z"
     }
 }
