@@ -13434,6 +13434,9 @@
         "FFlagLuauExtendSealedTableUpperBounds_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:45:00",
         "FFlagLuaAppFixExplicitFeedbackTelemetry": "True",
         "FFlagUpdateDiscoveryEventErrorDetailsLogging": "True",
+        "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
+        "CaptureQTStudioCountersEnabled": "True",
+        "FFlagStudioBackgroundUpdatesAdditionalLog_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:54:23",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -13998,8 +14001,6 @@
         "FFlagAXPurchaseFromQuantityFirst": "True",
         "FFlagMergeImpressionsViewportCalculations": "True",
         "FFlagTraversalHistoryDiscoveryTelemetry": "True",
-        "CaptureQTStudioCountersEnabled": "True",
-        "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
@@ -14500,9 +14501,9 @@
         "FFlagAXEnableBatchItemDetailsFetchV2": "True",
         "DFIntFacialAgeEstimationFlowTelemetryThrottle": "10000",
         "FFlagEnableAmpUpsellLogging": "True",
-        "FStringFlagRepoGitHashFastString": "8b6fbc63277ebac3cdce1f5bfacea5f493a2335a",
-        "DFStringFlagRepoGitHashDynamicString": "8b6fbc63277ebac3cdce1f5bfacea5f493a2335a",
-        "FStringFlipTimeStampFastString": "2025-11-13T19:52:21.819Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T19:52:21.819Z"
+        "FStringFlagRepoGitHashFastString": "9a0b79cd0b313bfbf1665a41e066dc8133b101c7",
+        "DFStringFlagRepoGitHashDynamicString": "9a0b79cd0b313bfbf1665a41e066dc8133b101c7",
+        "FStringFlipTimeStampFastString": "2025-11-13T19:55:37.481Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T19:55:37.481Z"
     }
 }
