@@ -13438,7 +13438,6 @@
         "FFlagHlsParseInSeek": "True",
         "FFlagHlsPlaylistNoCacheByDefault": "True",
         "FFlagSduiLoggerRemoveContext": "True",
-        "FFlagReimportBetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:03:36",
         "DFFlagHlsCheckInitSegReady": "True",
         "FFlagRemoveSingleSurfaceAppVideoRecorder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:08:45",
         "FFlagFileCacheFixPS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:12:22",
@@ -13457,6 +13456,7 @@
         "FFlagRbxStorageAltInitDuration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:48:35",
         "FFlagFmodLockFreeDspGetIdle": "True",
         "DFFlagSupportMeshLOD": "True",
+        "FFlagReimportBetaFeature": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14417,9 +14417,9 @@
         "FFlagEnableNetworkStatusObserving_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:29:58",
         "DFIntFacialAgeEstimationFlowTelemetryThrottle": "10000",
         "FFlagEnableRemoveTopIconsFromProfileWebView_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:57:54",
-        "FStringFlagRepoGitHashFastString": "908a5fba81439efd535cf81f3037f2f8774f7541",
-        "DFStringFlagRepoGitHashDynamicString": "908a5fba81439efd535cf81f3037f2f8774f7541",
-        "FStringFlipTimeStampFastString": "2025-11-13T22:06:51.636Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:06:51.636Z"
+        "FStringFlagRepoGitHashFastString": "f6855f6f14312041a49ee1a0de6bc841855e6efc",
+        "DFStringFlagRepoGitHashDynamicString": "f6855f6f14312041a49ee1a0de6bc841855e6efc",
+        "FStringFlipTimeStampFastString": "2025-11-13T22:09:35.274Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:09:35.274Z"
     }
 }

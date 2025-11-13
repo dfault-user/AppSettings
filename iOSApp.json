@@ -13438,7 +13438,6 @@
         "FFlagHlsParseInSeek": "True",
         "FFlagHlsPlaylistNoCacheByDefault": "True",
         "FFlagSduiLoggerRemoveContext": "True",
-        "FFlagReimportBetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:03:36",
         "DFFlagHlsCheckInitSegReady": "True",
         "FFlagRemoveSingleSurfaceAppVideoRecorder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:08:45",
         "FFlagFileCacheFixPS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:12:22",
@@ -13457,6 +13456,7 @@
         "AxisAdornmentGrabSize": "12",
         "FFlagFmodLockFreeDspGetIdle": "True",
         "DFFlagSupportMeshLOD": "True",
+        "FFlagReimportBetaFeature": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14463,9 +14463,9 @@
         "FFlagFixGridMinSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:42:56",
         "FFlagFixTextNotShowingInBillboard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1399531302;2025-11-13T21:44:35",
         "FFlagAXTryOnScreenImprovements6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:00:51",
-        "FStringFlagRepoGitHashFastString": "908a5fba81439efd535cf81f3037f2f8774f7541",
-        "DFStringFlagRepoGitHashDynamicString": "908a5fba81439efd535cf81f3037f2f8774f7541",
-        "FStringFlipTimeStampFastString": "2025-11-13T22:06:51.636Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:06:51.636Z"
+        "FStringFlagRepoGitHashFastString": "f6855f6f14312041a49ee1a0de6bc841855e6efc",
+        "DFStringFlagRepoGitHashDynamicString": "f6855f6f14312041a49ee1a0de6bc841855e6efc",
+        "FStringFlipTimeStampFastString": "2025-11-13T22:09:35.274Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:09:35.274Z"
     }
 }
