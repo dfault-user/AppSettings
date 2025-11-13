@@ -13417,6 +13417,8 @@
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:35:05",
         "FFlagEnableAutoLoginAfterRecovery": "True",
         "FFlagUpdateDiscoveryEventErrorDetailsLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:36:30",
+        "FFlagEnableNavmeshThreadYield_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:42:41",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -15273,7 +15275,6 @@
         "FFlagEnableStudioAnnotationsNotificationsExperiment": "True",
         "FFlagAvatarAssetIECGetModeratedTextResult": "True",
         "FFlagExplorerFixBlurryTextHopefully": "True",
-        "FFlagAvoidSimpleTimerOutsideTaskInPublishService_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:42:34",
         "FFlagEmissiveMaps2BetaFeature": "True",
         "FIntTooltipShowDelay_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:12:34",
         "FFlagEnableAimMeshSimplifyAnalytics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:16:24",
@@ -15285,7 +15286,7 @@
         "FFlagStudioUIThreadRunAfterEventLoop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:35:47",
         "FFlagReflectBufferAsBuffer": "True",
         "FFlagStudioFixPluginsUnloadingSignal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:36:25",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagAvoidSimpleTimerOutsideTaskInPublishService": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -15752,6 +15753,7 @@
         "FFlagMergeImpressionsViewportCalculations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:41:18",
         "FFlagAXDeprecateAnalyticsFiltersEnums_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:41:36",
         "FFlagAXMigrateCategoryTooltip_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:42:22",
+        "FFlagAXPurchaseFromQuantityFirst_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;39569452;2025-11-13T18:44:02",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -15784,9 +15786,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "ec5efcfff4330d59fc8824c83ac3d9cff79c936c",
-        "DFStringFlagRepoGitHashDynamicString": "ec5efcfff4330d59fc8824c83ac3d9cff79c936c",
-        "FStringFlipTimeStampFastString": "2025-11-13T18:47:19.094Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:47:19.094Z"
+        "FStringFlagRepoGitHashFastString": "a7cc9324a49035d426028a652e328cf639c01156",
+        "DFStringFlagRepoGitHashDynamicString": "a7cc9324a49035d426028a652e328cf639c01156",
+        "FStringFlipTimeStampFastString": "2025-11-13T18:49:16.394Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:49:16.394Z"
     }
 }

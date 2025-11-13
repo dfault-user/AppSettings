@@ -13416,8 +13416,9 @@
         "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;;1325120134;dev_controlled",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:35:05",
         "FFlagEnableAutoLoginAfterRecovery": "True",
-        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
+        "FFlagEnableNavmeshThreadYield_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:42:41",
+        "AxisAdornmentGrabSize": "12",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -14422,9 +14423,10 @@
         "FFlagMergeImpressionsViewportCalculations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:41:18",
         "FFlagAXDeprecateAnalyticsFiltersEnums_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:41:36",
         "FFlagAXMigrateCategoryTooltip_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:42:22",
-        "FStringFlagRepoGitHashFastString": "ec5efcfff4330d59fc8824c83ac3d9cff79c936c",
-        "DFStringFlagRepoGitHashDynamicString": "ec5efcfff4330d59fc8824c83ac3d9cff79c936c",
-        "FStringFlipTimeStampFastString": "2025-11-13T18:47:19.094Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:47:19.094Z"
+        "FFlagTraversalHistoryDiscoveryTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:43:41",
+        "FStringFlagRepoGitHashFastString": "f0cf98a9979d1a43313e0de5955b1708474e1d43",
+        "DFStringFlagRepoGitHashDynamicString": "f0cf98a9979d1a43313e0de5955b1708474e1d43",
+        "FStringFlipTimeStampFastString": "2025-11-13T18:49:37.913Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:49:37.913Z"
     }
 }

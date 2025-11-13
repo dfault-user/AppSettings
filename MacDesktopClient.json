@@ -13414,7 +13414,7 @@
         "FIntTooltipShowDelay_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:12:34",
         "FFlagFlagRolloutTestStaticBool40_IXP": "1;IxpFlagsTestLayer;;1370301076;flagbank",
         "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;;1325120134;dev_controlled",
-        "AxisAdornmentGrabSize": "12",
+        "CaptureCountersIntervalInMinutes": "5",
         "FFlagEnableAutoLoginAfterRecovery": "True",
         "FFlagUpdateDiscoveryEventErrorDetailsLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:36:30",
         "FFlagEnableNavmeshThreadYield_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:42:41",
@@ -13949,11 +13949,12 @@
         "FFlagVoiceChatClientRebootOperationEnabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:28:18",
         "DFFlagAdditionalFontChecks": "True",
         "FFlagAXUnifiedLoggingValidation3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:40:36",
-        "AllowVideoPreRoll": "True",
+        "AxisAdornmentGrabSize": "12",
         "FFlagMergeImpressionsViewportCalculations_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:41:18",
         "FFlagAXDeprecateAnalyticsFiltersEnums_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:41:36",
         "FFlagAXMigrateCategoryTooltip_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:42:22",
-        "CaptureCountersIntervalInMinutes": "5",
+        "AllowVideoPreRoll": "True",
+        "FFlagTraversalHistoryDiscoveryTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:43:41",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -14425,9 +14426,9 @@
         "DFIntFacialAgeEstimationFlowTelemetryThrottle_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;875439224;2025-11-13T17:45:43",
         "FFlagEnableAmpUpsellLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1133023034;2025-11-13T17:47:29",
         "DFIntMigrateTriangleMeshPartTestScale_Staged": "0;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;201450723;2025-11-13T18:25:51",
-        "FStringFlagRepoGitHashFastString": "eacb38905bbaa5b24f654f63f7d3ecc7cdffd90a",
-        "DFStringFlagRepoGitHashDynamicString": "eacb38905bbaa5b24f654f63f7d3ecc7cdffd90a",
-        "FStringFlipTimeStampFastString": "2025-11-13T18:47:43.943Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:47:43.943Z"
+        "FStringFlagRepoGitHashFastString": "f0cf98a9979d1a43313e0de5955b1708474e1d43",
+        "DFStringFlagRepoGitHashDynamicString": "f0cf98a9979d1a43313e0de5955b1708474e1d43",
+        "FStringFlipTimeStampFastString": "2025-11-13T18:49:37.913Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:49:37.913Z"
     }
 }
