@@ -13451,8 +13451,6 @@
         "FFlagRemoveSingleSurfaceAppVideoRecorder": "True",
         "FFlagFileCacheFixPS": "True",
         "FFlagDurationAlertOnlyForLongFlows": "False",
-        "FFlagAppChatEnableConversationUserTileAvatars_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:35:29",
-        "AllowVideoPreRoll": "True",
         "DFFlagEnableChatAvailabilityStatus": "True",
         "FFlagRbxStorageAltInitDuration": "True",
         "FFlagLuauTidyTypeUtils_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:52:23",
@@ -13472,6 +13470,10 @@
         "FFlagExpandWarmStartMetricsCollection": "True",
         "FFlagNoEndianConversionClientBit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T23:31:23",
         "FFlagInstallerUseRemoveItemNamed_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T23:40:52",
+        "DFFlagJointsUseTimeDelta_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T23:47:10",
+        "FFlagEnableOTAChannels": "True",
+        "FFlagAppChatEnableConversationUserTileAvatars": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14440,7 +14442,6 @@
         "FFlagAddIEMProfilePage": "True",
         "FFlagPeoplePageEnablePersonSignalStore": "True",
         "FFlagPeoplePageLazyRenderCards": "True",
-        "FFlagEnableOTAChannels": "True",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_IOS_1;698378276;flagbank",
         "FFlagNewPeoplePageIcons5": "True",
         "FFlagAvatarSwitcher3DPreview": "True",
@@ -14478,9 +14479,9 @@
         "FFlagAXTryOnScreenImprovements6": "True",
         "FFlagTelemetryProtoSerializationForBatch2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T23:16:36",
         "FFlagFixGridContentSize": "True",
-        "FStringFlagRepoGitHashFastString": "44798d183f9996e495260115a9d9e6a63a9d92c6",
-        "DFStringFlagRepoGitHashDynamicString": "44798d183f9996e495260115a9d9e6a63a9d92c6",
-        "FStringFlipTimeStampFastString": "2025-11-13T23:43:03.284Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T23:43:03.284Z"
+        "FStringFlagRepoGitHashFastString": "45cbb90e8dbe1d710b45ad05a8cb32e779396756",
+        "DFStringFlagRepoGitHashDynamicString": "45cbb90e8dbe1d710b45ad05a8cb32e779396756",
+        "FStringFlipTimeStampFastString": "2025-11-13T23:54:08.103Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T23:54:08.103Z"
     }
 }
