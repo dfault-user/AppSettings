@@ -13155,7 +13155,7 @@
         "FFlagAXExpandPeekViewOnFirstScrollExposureLogging_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
         "FFlagAXHideMenuOnScroll1_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
         "DFFlagCrashOnMigrateWithoutWriteLock": "True",
-        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
+        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "10000",
         "FFlagReportTextureStreamingTelemetry5": "True",
         "FFlagShadowMapTextureUvOffset": "True",
         "DFIntRenderTextureMaxRetries": "0",
@@ -13409,7 +13409,6 @@
         "FFlagUseTeleportedPlacesBackHistory2": "True",
         "FFlagFlagRolloutTestStaticBool40_IXP": "1;IxpFlagsTestLayer;;1370301076;flagbank",
         "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;;1325120134;dev_controlled",
-        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:35:05",
         "FFlagEnableAutoLoginAfterRecovery": "True",
         "FFlagUpdateDiscoveryEventErrorDetailsLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:36:30",
         "FFlagLuaAppFixExplicitFeedbackTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:44:20",
@@ -14383,11 +14382,11 @@
         "DFIntMinSizeToCacheSharedStringBytes": "35000",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.Android_SharedStringCaching_IXP-1762987228;Android_SharedStringCaching_IXP;1641168062;flagbank",
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Android_SharedStringCaching_IXP-1762987228;Android_SharedStringCaching_IXP;1641168062;flagbank",
-        "FFlagVoiceChatClientRebootOperationEnabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:28:18",
         "FFlagVoiceRtcStatsEnabled8_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:36:53",
-        "FStringFlagRepoGitHashFastString": "960a071f12b4c99024e9beb89bc7c7bd4d41a279",
-        "DFStringFlagRepoGitHashDynamicString": "960a071f12b4c99024e9beb89bc7c7bd4d41a279",
-        "FStringFlipTimeStampFastString": "2025-11-13T19:25:45.136Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T19:25:45.136Z"
+        "FFlagVoiceChatClientRebootOperationEnabled2": "True",
+        "FStringFlagRepoGitHashFastString": "bc378b035855343ffd0af8c9a12d63a6edb5e5af",
+        "DFStringFlagRepoGitHashDynamicString": "bc378b035855343ffd0af8c9a12d63a6edb5e5af",
+        "FStringFlipTimeStampFastString": "2025-11-13T19:39:45.887Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T19:39:45.887Z"
     }
 }
