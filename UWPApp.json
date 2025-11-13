@@ -13438,7 +13438,6 @@
         "FFlagHlsParseInSeek": "True",
         "FFlagHlsPlaylistNoCacheByDefault": "True",
         "FFlagSduiLoggerRemoveContext": "True",
-        "FFlagReimportBetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:03:36",
         "DFFlagHlsCheckInitSegReady": "True",
         "FFlagRemoveSingleSurfaceAppVideoRecorder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:08:45",
         "FFlagFileCacheFixPS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:12:22",
@@ -13457,6 +13456,8 @@
         "FFlagRbxStorageAltInitDuration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:48:35",
         "FFlagFmodLockFreeDspGetIdle": "True",
         "DFFlagSupportMeshLOD": "True",
+        "FFlagReimportBetaFeature": "True",
+        "FStringTextureTranscodeNewFidelityETC_Staged": "UAI=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:07:04",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13761,9 +13762,9 @@
         "FFlagFixWindowDragError": "True",
         "FIntUwpDeprecationDate_Staged": "1763672400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:31:30",
         "FFlagUwpAlwaysLinkToSlashDownload": "True",
-        "FStringFlagRepoGitHashFastString": "908a5fba81439efd535cf81f3037f2f8774f7541",
-        "DFStringFlagRepoGitHashDynamicString": "908a5fba81439efd535cf81f3037f2f8774f7541",
-        "FStringFlipTimeStampFastString": "2025-11-13T22:06:51.636Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:06:51.636Z"
+        "FStringFlagRepoGitHashFastString": "e837df5002ee31d46c8f44d1996069443587308e",
+        "DFStringFlagRepoGitHashDynamicString": "e837df5002ee31d46c8f44d1996069443587308e",
+        "FStringFlipTimeStampFastString": "2025-11-13T22:11:14.443Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:11:14.443Z"
     }
 }
