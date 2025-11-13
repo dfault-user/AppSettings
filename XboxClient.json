@@ -13424,8 +13424,6 @@
         "FFlagLogoutPhoneVerificationUpsellCopy_v3": "True",
         "DFFlagVideoDynamicAcrPriorityListGeneration": "True",
         "FFlagEnableVoiceChatDevConsoleTab": "True",
-        "FFlagEnableSurveyPromptTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;785794533;2025-11-13T20:17:37",
-        "FFlagNullCheckPlayersNameLabel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;134043941;2025-11-13T20:19:05",
         "DFFlagNewReflectionUseReflectable": "True",
         "DFFlagNewReflectionUseStringable": "True",
         "DFFlagStopSendingChunkSizeStat": "True",
@@ -13452,6 +13450,8 @@
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "2000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;910570647;2025-11-13T21:15:22",
         "FFlagFoundationNumberInputRefAndCallbacks": "True",
         "FFlagDurationAlertOnlyForLongFlows_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2047048599;2025-11-13T21:16:50",
+        "FFlagEnableSurveyPromptTelemetry": "True",
+        "FFlagNullCheckPlayersNameLabel": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13821,9 +13821,9 @@
         "FFlagEnableInGameMenuChromeABTest4": "True",
         "FFlagFMDVariableNumSubsetJoints_IXP": "1;Portal.FMDVariableNumSubsetJoints-1762981571;FMDVariableNumSubsetJoints;1449756257;flagbank",
         "FFlagPerfDataOptimization3": "True",
-        "FStringFlagRepoGitHashFastString": "aeff7df65fcf9468b845e283504f6b87a98abd35",
-        "DFStringFlagRepoGitHashDynamicString": "aeff7df65fcf9468b845e283504f6b87a98abd35",
-        "FStringFlipTimeStampFastString": "2025-11-13T21:19:46.468Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T21:19:46.468Z"
+        "FStringFlagRepoGitHashFastString": "eed9b36700ca755696ed62964746c9a587c84ab6",
+        "DFStringFlagRepoGitHashDynamicString": "eed9b36700ca755696ed62964746c9a587c84ab6",
+        "FStringFlipTimeStampFastString": "2025-11-13T21:23:47.508Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T21:23:47.508Z"
     }
 }

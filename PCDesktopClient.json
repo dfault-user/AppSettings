@@ -14518,9 +14518,13 @@
         "DFIntFacialAgeEstimationFlowTelemetryThrottle": "10000",
         "FFlagEnableAmpUpsellLogging": "True",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;910570647;2025-11-13T21:15:22",
-        "FStringFlagRepoGitHashFastString": "aeff7df65fcf9468b845e283504f6b87a98abd35",
-        "DFStringFlagRepoGitHashDynamicString": "aeff7df65fcf9468b845e283504f6b87a98abd35",
-        "FStringFlipTimeStampFastString": "2025-11-13T21:19:46.468Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T21:19:46.468Z"
+        "FFlagSlimDecalInheritPartMaterial_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;758529966;2025-11-13T21:18:56",
+        "FFlagSlimHandleMeshLoadException_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;758529966;2025-11-13T21:18:56",
+        "FFlagSlimInstancingDeepGeometryPtr_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;758529966;2025-11-13T21:18:56",
+        "FFlagSlimOnlyUploadInStreamingEnabledGames_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;758529966;2025-11-13T21:18:56",
+        "FStringFlagRepoGitHashFastString": "e6424e475ed31379d1e74a3dc7eb84b95b1bbf08",
+        "DFStringFlagRepoGitHashDynamicString": "e6424e475ed31379d1e74a3dc7eb84b95b1bbf08",
+        "FStringFlipTimeStampFastString": "2025-11-13T21:22:00.998Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T21:22:00.998Z"
     }
 }
