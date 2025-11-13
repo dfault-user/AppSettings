@@ -13155,7 +13155,7 @@
         "FFlagAXExpandPeekViewOnFirstScrollExposureLogging_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
         "FFlagAXHideMenuOnScroll1_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
         "DFFlagCrashOnMigrateWithoutWriteLock": "True",
-        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "5000",
+        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "2000",
         "FFlagReportTextureStreamingTelemetry5": "True",
         "FFlagShadowMapTextureUvOffset": "True",
         "DFIntRenderTextureMaxRetries": "0",
@@ -13439,8 +13439,6 @@
         "FFlagHlsPlaylistNoCacheByDefault": "True",
         "FFlagSduiLoggerRemoveContext": "True",
         "DFFlagHlsCheckInitSegReady": "True",
-        "FFlagFileCacheFixPS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:12:22",
-        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "2000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;910570647;2025-11-13T21:15:22",
         "FFlagFoundationNumberInputRefAndCallbacks": "True",
         "FFlagDurationAlertOnlyForLongFlows_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2047048599;2025-11-13T21:16:50",
         "FFlagEnableSurveyPromptTelemetry": "True",
@@ -13459,6 +13457,7 @@
         "FStringTextureTranscodeNewFidelityETC_Staged": "UAI=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:07:04",
         "FFlagHideInstallerDialogAfterLaunchClient_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:08:02",
         "FFlagRemoveSingleSurfaceAppVideoRecorder": "True",
+        "FFlagFileCacheFixPS": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14417,9 +14416,9 @@
         "DFIntFacialAgeEstimationFlowTelemetryThrottle": "10000",
         "FFlagEnableRemoveTopIconsFromProfileWebView_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:57:54",
         "DFFlagDataPingTrace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:08:56",
-        "FStringFlagRepoGitHashFastString": "127a25dc4ceb02730cc51269906db536c00d2020",
-        "DFStringFlagRepoGitHashDynamicString": "127a25dc4ceb02730cc51269906db536c00d2020",
-        "FStringFlipTimeStampFastString": "2025-11-13T22:16:30.545Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:16:30.545Z"
+        "FStringFlagRepoGitHashFastString": "46940a2fe60192770ba5b385f7196853bde87409",
+        "DFStringFlagRepoGitHashDynamicString": "46940a2fe60192770ba5b385f7196853bde87409",
+        "FStringFlipTimeStampFastString": "2025-11-13T22:18:19.134Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:18:19.134Z"
     }
 }
