@@ -13377,7 +13377,6 @@
         "FLogDesktopInstaller": "Debug",
         "FFlagAXSlotsPeekViewScrollFix": "True",
         "FFlagExperienceEventsListingAPIEnabled": "True",
-        "FFlagLuaAppEdpMediaGalleryGamePreviewVideoSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T23:12:15",
         "FFlagCallTeamCreateServerShutdownWhenRCCVerificationFailed": "True",
         "FFlagDisableRCCAntiHarrasmentAllowList": "True",
         "FFlagChromeWindowSignalConstraintsToggle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1316552908;2025-11-12T23:20:01",
@@ -13397,6 +13396,7 @@
         "FFlagFixStrikeThrough_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;316165029;2025-11-12T23:53:16",
         "DFFlagCLI172864": "True",
         "FFlagLuaAppDataModelStreamEnableTestIdAttribute_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T00:04:38",
+        "FFlagLuaAppEdpMediaGalleryGamePreviewVideoSupport": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13769,9 +13769,9 @@
         "FFlagEnableInGameMenuChromeABTest4": "True",
         "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesign;1406855834;dev_controlled",
         "FFlagFMDVariableNumSubsetJoints_IXP": "1;Portal.FMDVariableNumSubsetJoints-1762981571;FMDVariableNumSubsetJoints;1449756257;flagbank",
-        "FStringFlagRepoGitHashFastString": "8611132d083417aae756c16fc0b8205253eed24b",
-        "DFStringFlagRepoGitHashDynamicString": "8611132d083417aae756c16fc0b8205253eed24b",
-        "FStringFlipTimeStampFastString": "2025-11-13T00:21:11.435Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T00:21:11.435Z"
+        "FStringFlagRepoGitHashFastString": "c0afdd85cb27ffa6184b1396e8484e8146f176c1",
+        "DFStringFlagRepoGitHashDynamicString": "c0afdd85cb27ffa6184b1396e8484e8146f176c1",
+        "FStringFlipTimeStampFastString": "2025-11-13T00:23:45.167Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T00:23:45.167Z"
     }
 }
