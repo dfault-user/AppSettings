@@ -13433,6 +13433,7 @@
         "AllowVideoPreRoll": "True",
         "FFlagLargeReplicatorSerializeWrite4_Staged": "True;SteadyState;10;30;Revert;2025-11-13T19:40:30",
         "DFFlagVideoHandlePtsDiscontinuity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:44:30",
+        "FFlagLuauExtendSealedTableUpperBounds_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:45:00",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13802,9 +13803,9 @@
         "FFlagRbxStorageAltInitDuration": "True",
         "FFlagEnableInGameMenuChromeABTest4": "True",
         "FFlagFMDVariableNumSubsetJoints_IXP": "1;Portal.FMDVariableNumSubsetJoints-1762981571;FMDVariableNumSubsetJoints;1449756257;flagbank",
-        "FStringFlagRepoGitHashFastString": "f8c7c0c41e6a233085ff3c740924cac914f30682",
-        "DFStringFlagRepoGitHashDynamicString": "f8c7c0c41e6a233085ff3c740924cac914f30682",
-        "FStringFlipTimeStampFastString": "2025-11-13T19:47:44.613Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T19:47:44.613Z"
+        "FStringFlagRepoGitHashFastString": "49f3687afe8e7fed0602fc18e13af173c567f0d8",
+        "DFStringFlagRepoGitHashDynamicString": "49f3687afe8e7fed0602fc18e13af173c567f0d8",
+        "FStringFlipTimeStampFastString": "2025-11-13T19:48:10.993Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T19:48:10.993Z"
     }
 }
