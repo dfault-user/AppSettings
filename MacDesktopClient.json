@@ -13463,6 +13463,7 @@
         "FFlagLargeReplicatorSerializeWrite4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:32:28",
         "FFlagLuaAppAddTestIdsForEdpInfoTable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:34:51",
         "FFlagAppChatEnableConversationUserTileAvatars_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:35:29",
+        "FFlagEnableOTAChannels_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:44:31",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14472,9 +14473,11 @@
         "FFlagSlimHandleMeshLoadException": "True",
         "FFlagSlimInstancingDeepGeometryPtr": "True",
         "FFlagSlimOnlyUploadInStreamingEnabledGames": "True",
-        "FStringFlagRepoGitHashFastString": "9fa311d4be2e6afe44a900555813b0ba33f5295f",
-        "DFStringFlagRepoGitHashDynamicString": "9fa311d4be2e6afe44a900555813b0ba33f5295f",
-        "FStringFlipTimeStampFastString": "2025-11-13T22:41:58.931Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:41:58.931Z"
+        "FFlagSlimContentProvider2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1977196099;2025-11-13T22:44:26",
+        "FFlagSlimService19_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1977196099;2025-11-13T22:44:26",
+        "FStringFlagRepoGitHashFastString": "aa471fcf604fda762269e76e73f26781af160f9a",
+        "DFStringFlagRepoGitHashDynamicString": "aa471fcf604fda762269e76e73f26781af160f9a",
+        "FStringFlipTimeStampFastString": "2025-11-13T22:47:26.165Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:47:26.165Z"
     }
 }
