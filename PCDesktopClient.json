@@ -13411,6 +13411,7 @@
         "FFlagDisableReactSchedulingAvgMaxMsStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;401758145;2025-11-13T17:33:43",
         "FFlagEnableAutoLoginAfterRecovery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:33:47",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagFixNotificationReportsMobile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:52:55",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13961,6 +13962,7 @@
         "DFFlagAdditionalFontChecks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:30:49",
         "FFlagAXSwapOuterwearSubcategoryOrder_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:45:59",
         "FFlagAXEnableManualSaving4_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:49:04",
+        "FFlagAXEnableManualSavingBlockingPrompt3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:52:39",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14468,9 +14470,9 @@
         "FFlagAXEnableBatchItemDetailsFetchV2": "True",
         "DFIntFacialAgeEstimationFlowTelemetryThrottle_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;875439224;2025-11-13T17:45:43",
         "FFlagEnableAmpUpsellLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1133023034;2025-11-13T17:47:29",
-        "FStringFlagRepoGitHashFastString": "0c6fb926b2b3a706c67c5920b425989c70ae69da",
-        "DFStringFlagRepoGitHashDynamicString": "0c6fb926b2b3a706c67c5920b425989c70ae69da",
-        "FStringFlipTimeStampFastString": "2025-11-13T17:51:36.831Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T17:51:36.831Z"
+        "FStringFlagRepoGitHashFastString": "32a3a55e5c57aa7fd4a4b161b94fb00d3d68266c",
+        "DFStringFlagRepoGitHashDynamicString": "32a3a55e5c57aa7fd4a4b161b94fb00d3d68266c",
+        "FStringFlipTimeStampFastString": "2025-11-13T17:54:12.962Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T17:54:12.962Z"
     }
 }
