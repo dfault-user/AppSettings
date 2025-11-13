@@ -15279,6 +15279,7 @@
         "FIntTooltipShowDelay_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:12:34",
         "FFlagEnableAimMeshSimplifyAnalytics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:16:24",
         "FFlagEnableMultipartForMeshImage2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:18:52",
+        "FFlagCorrectSdfShaderCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:20:04",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15723,7 +15724,6 @@
         "FFlagFixWindowDragError": "True",
         "FFlagPerfDataOptimization3": "True",
         "FFlagDeferPlayerInfoRequests": "True",
-        "FFlagExtractImpressionNavigationDep_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:16:31",
         "DFFlagAdditionalFontChecks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:30:49",
         "FFlagAXSwapOuterwearSubcategoryOrder_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:45:59",
         "FFlagAXEnableManualSaving4_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:49:04",
@@ -15736,6 +15736,11 @@
         "FFlagAddTraversalBackButtonAnimation699v1": "True",
         "FFlagAddTraversalHistory699v1": "True",
         "FFlagCreateInExperienceMenuReact6": "True",
+        "FFlagAXUpdateAvatarOnGameLeave_IXP": "1;UIEcosystem.User.Migration;;1312725306;flagbank",
+        "FFlagAvatarSwitcherFtuxTooltip_IXP": "1;UIEcosystem.User.Migration;;1312725306;flagbank",
+        "FFlagEnableInExperienceAvatarSwitcher9_IXP": "1;UIEcosystem.User.Migration;;1312725306;flagbank",
+        "FFlagRemoveAvatarSwitcherIfUnsupported_IXP": "1;UIEcosystem.User.Migration;;1312725306;flagbank",
+        "FFlagExtractImpressionNavigationDep": "True",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -15768,9 +15773,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "2779fff8d4f2c6cf878f070e2de41eb5b5980dae",
-        "DFStringFlagRepoGitHashDynamicString": "2779fff8d4f2c6cf878f070e2de41eb5b5980dae",
-        "FStringFlipTimeStampFastString": "2025-11-13T18:20:22.660Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:20:22.660Z"
+        "FStringFlagRepoGitHashFastString": "c079ef813ba7646fa2fae33db4c451631d9e452a",
+        "DFStringFlagRepoGitHashDynamicString": "c079ef813ba7646fa2fae33db4c451631d9e452a",
+        "FStringFlipTimeStampFastString": "2025-11-13T18:23:38.360Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:23:38.360Z"
     }
 }

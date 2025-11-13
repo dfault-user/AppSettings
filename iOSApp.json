@@ -14402,7 +14402,6 @@
         "FFlagAXUseStarIconForFavorites": "True",
         "FFlagDeferPlayerInfoRequests": "True",
         "FFlagAXEnableBatchItemDetailsFetchV2": "True",
-        "FFlagExtractImpressionNavigationDep_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:16:31",
         "FFlagAXSwapOuterwearSubcategoryOrder_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:45:59",
         "FFlagAXEnableManualSaving4_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:49:04",
         "FFlagAXEnableManualSavingBlockingPrompt3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:52:39",
@@ -14413,9 +14412,14 @@
         "FFlagAddTraversalBackButtonAnimation699v1": "True",
         "FFlagAddTraversalHistory699v1": "True",
         "FFlagCreateInExperienceMenuReact6": "True",
-        "FStringFlagRepoGitHashFastString": "6757158d104380e2186e35184f3fbf1eec3b9789",
-        "DFStringFlagRepoGitHashDynamicString": "6757158d104380e2186e35184f3fbf1eec3b9789",
-        "FStringFlipTimeStampFastString": "2025-11-13T18:21:54.209Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:21:54.209Z"
+        "FFlagAXUpdateAvatarOnGameLeave_IXP": "1;UIEcosystem.User.Migration;;1312725306;flagbank",
+        "FFlagAvatarSwitcherFtuxTooltip_IXP": "1;UIEcosystem.User.Migration;;1312725306;flagbank",
+        "FFlagEnableInExperienceAvatarSwitcher9_IXP": "1;UIEcosystem.User.Migration;;1312725306;flagbank",
+        "FFlagRemoveAvatarSwitcherIfUnsupported_IXP": "1;UIEcosystem.User.Migration;;1312725306;flagbank",
+        "FFlagExtractImpressionNavigationDep": "True",
+        "FStringFlagRepoGitHashFastString": "c079ef813ba7646fa2fae33db4c451631d9e452a",
+        "DFStringFlagRepoGitHashDynamicString": "c079ef813ba7646fa2fae33db4c451631d9e452a",
+        "FStringFlipTimeStampFastString": "2025-11-13T18:23:38.360Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:23:38.360Z"
     }
 }
