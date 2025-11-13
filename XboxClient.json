@@ -13418,6 +13418,8 @@
         "FFlagUpdateDiscoveryEventErrorDetailsLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:36:30",
         "FFlagLuaAppFixExplicitFeedbackTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:44:20",
         "FFlagEnableSocialProfilePeekViewSecondaryExposureEvents": "True",
+        "FFlagRemoveUnsafeDMUsagePreview_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:51:42",
+        "FFlagRemoveStaleChildConnections2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:52:41",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13788,9 +13790,9 @@
         "FFlagRbxStorageAltInitDuration": "True",
         "FFlagEnableInGameMenuChromeABTest4": "True",
         "FFlagFMDVariableNumSubsetJoints_IXP": "1;Portal.FMDVariableNumSubsetJoints-1762981571;FMDVariableNumSubsetJoints;1449756257;flagbank",
-        "FStringFlagRepoGitHashFastString": "fb0e608b86d8103834b4bf14d3b8b8113c6ee79b",
-        "DFStringFlagRepoGitHashDynamicString": "fb0e608b86d8103834b4bf14d3b8b8113c6ee79b",
-        "FStringFlipTimeStampFastString": "2025-11-13T18:53:27.698Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:53:27.698Z"
+        "FStringFlagRepoGitHashFastString": "34ed34d23092b75170cd36b7b7bd15e884e7c6d8",
+        "DFStringFlagRepoGitHashDynamicString": "34ed34d23092b75170cd36b7b7bd15e884e7c6d8",
+        "FStringFlipTimeStampFastString": "2025-11-13T18:55:54.430Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:55:54.430Z"
     }
 }
