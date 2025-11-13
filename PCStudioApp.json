@@ -13415,6 +13415,7 @@
         "FFlagUseTeleportedPlacesBackHistory2": "True",
         "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;;1345270401;dev_controlled",
         "AxisAdornmentGrabSize": "12",
+        "FFlagFlagRolloutTestStaticBool40_IXP": "1;IxpFlagsTestLayer;;1370301076;flagbank",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -15271,8 +15272,6 @@
         "FFlagEnableStudioAnnotationsNotificationsExperiment": "True",
         "FFlagAvatarAssetIECGetModeratedTextResult": "True",
         "FFlagExplorerFixBlurryTextHopefully": "True",
-        "FFlagAvatarAssetCreationLogAssetId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1367534665;2025-11-13T17:23:17",
-        "DFFlagAvatarFetchTrackingDMLockFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:24:06",
         "FFlagReflectBufferAsBuffer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:32:11",
         "FFlagAvoidSimpleTimerOutsideTaskInPublishService_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:42:34",
         "FFlagEmissiveMaps2BetaFeature": "True",
@@ -15280,6 +15279,8 @@
         "FFlagEnableAimMeshSimplifyAnalytics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:16:24",
         "FFlagEnableMultipartForMeshImage2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:18:52",
         "FFlagCorrectSdfShaderCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:20:04",
+        "DFFlagAvatarFetchTrackingDMLockFix": "True",
+        "FFlagAvatarAssetCreationLogAssetId": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15773,9 +15774,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "c079ef813ba7646fa2fae33db4c451631d9e452a",
-        "DFStringFlagRepoGitHashDynamicString": "c079ef813ba7646fa2fae33db4c451631d9e452a",
-        "FStringFlipTimeStampFastString": "2025-11-13T18:23:38.360Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:23:38.360Z"
+        "FStringFlagRepoGitHashFastString": "a093614ce98b410001a17b51a58b2044e06dcd3a",
+        "DFStringFlagRepoGitHashDynamicString": "a093614ce98b410001a17b51a58b2044e06dcd3a",
+        "FStringFlipTimeStampFastString": "2025-11-13T18:27:39.649Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:27:39.649Z"
     }
 }
