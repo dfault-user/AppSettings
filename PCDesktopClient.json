@@ -12981,7 +12981,7 @@
         "FFlagStudioAssistantApplicationImageDecodeRefactor": "True",
         "FFlagEnableAvatarAssetModerationCompleted": "True",
         "FFlagEnablePromptCreateAvatarAssetAsync": "True",
-        "FFlagLargeReplicatorSerializeWrite4": "False",
+        "FFlagLargeReplicatorSerializeWrite4": "True",
         "FFlagCLI171069SubDataModelWithServiceProvider": "True",
         "FFlagLuauConsiderErrorSuppressionInTypes": "True",
         "FFlagDontShowInvalidProximityPrompts": "True",
@@ -13105,7 +13105,7 @@
         "FFlagFoundationMenuItemStyles": "True",
         "FFlagAndroidCheckTouchScreen": "True",
         "FFlagLuaAppAddTestIdsForEdpAndGameTile": "True",
-        "FFlagLuaAppAddTestIdsForEdpInfoTable": "False",
+        "FFlagLuaAppAddTestIdsForEdpInfoTable": "True",
         "FFlagAuthSecExclusions8": "True",
         "FFlagInExperiencePhoneUpsellNewCopy": "True",
         "FFlagRbxStorageRunInitInStdThreadLatch": "True",
@@ -13451,8 +13451,6 @@
         "FFlagRemoveSingleSurfaceAppVideoRecorder": "True",
         "FFlagFileCacheFixPS": "True",
         "FFlagDurationAlertOnlyForLongFlows": "False",
-        "FFlagLargeReplicatorSerializeWrite4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:32:28",
-        "FFlagLuaAppAddTestIdsForEdpInfoTable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:34:51",
         "FFlagAppChatEnableConversationUserTileAvatars_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:35:29",
         "FFlagEnableOTAChannels_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:44:31",
         "DFFlagEnableChatAvailabilityStatus": "True",
@@ -14548,9 +14546,9 @@
         "FFlagSlimService19_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1977196099;2025-11-13T22:44:26",
         "DFStringVideoAllCapturesBlacklistForGPUsCsv_Staged": ";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1184599097;2025-11-13T22:54:28",
         "FFlagAXTryOnScreenImprovements6": "True",
-        "FStringFlagRepoGitHashFastString": "17aa72fe67226eb4f3d9119f45faa934c19ebe0d",
-        "DFStringFlagRepoGitHashDynamicString": "17aa72fe67226eb4f3d9119f45faa934c19ebe0d",
-        "FStringFlipTimeStampFastString": "2025-11-13T23:37:14.772Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T23:37:14.772Z"
+        "FStringFlagRepoGitHashFastString": "c787bc631f9a14ceb205a51f9e94e265240d3e98",
+        "DFStringFlagRepoGitHashDynamicString": "c787bc631f9a14ceb205a51f9e94e265240d3e98",
+        "FStringFlipTimeStampFastString": "2025-11-13T23:37:32.038Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T23:37:32.038Z"
     }
 }
