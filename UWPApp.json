@@ -13445,7 +13445,6 @@
         "FFlagVoiceChatAddLeaveReasonToTelemetry": "True",
         "FFlagVoiceChatSynchronizeMuteMicrophoneState": "True",
         "FFlagAXUpdateResultsListFunctionalWrapper": "True",
-        "FFlagRbxStorageAltInitDuration_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:48:35",
         "FFlagFmodLockFreeDspGetIdle": "True",
         "DFFlagSupportMeshLOD": "True",
         "FFlagReimportBetaFeature": "True",
@@ -13464,6 +13463,8 @@
         "FFlagAppChatEnableConversationUserTileAvatars_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:35:29",
         "FFlagEnableOTAChannels_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:44:31",
         "DFFlagEnableChatAvailabilityStatus": "True",
+        "FFlagRbxStorageAltInitDuration": "True",
+        "FFlagLuauTidyTypeUtils_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:52:23",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13767,9 +13768,9 @@
         "FFlagFixWindowDragError": "True",
         "FFlagUwpAlwaysLinkToSlashDownload": "True",
         "FIntUwpDeprecationDate": "1763672400",
-        "FStringFlagRepoGitHashFastString": "9f3067c2655840c35bba4681702ebc532c923d13",
-        "DFStringFlagRepoGitHashDynamicString": "9f3067c2655840c35bba4681702ebc532c923d13",
-        "FStringFlipTimeStampFastString": "2025-11-13T22:48:57.101Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:48:57.101Z"
+        "FStringFlagRepoGitHashFastString": "728bf343651abc0d35c219c4799b2e3b65aec3de",
+        "DFStringFlagRepoGitHashDynamicString": "728bf343651abc0d35c219c4799b2e3b65aec3de",
+        "FStringFlipTimeStampFastString": "2025-11-13T22:54:53.622Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:54:53.622Z"
     }
 }

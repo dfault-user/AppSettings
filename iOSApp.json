@@ -13445,7 +13445,6 @@
         "FFlagVoiceChatAddLeaveReasonToTelemetry": "True",
         "FFlagVoiceChatSynchronizeMuteMicrophoneState": "True",
         "FFlagAXUpdateResultsListFunctionalWrapper": "True",
-        "AxisAdornmentGrabSize": "12",
         "FFlagFmodLockFreeDspGetIdle": "True",
         "DFFlagSupportMeshLOD": "True",
         "FFlagReimportBetaFeature": "True",
@@ -13455,7 +13454,7 @@
         "FFlagFileCacheFixPS": "True",
         "FFlagExpandWarmStartMetricsCollection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:18:32",
         "FFlagDurationAlertOnlyForLongFlows": "False",
-        "CaptureCountersIntervalInMinutes": "5",
+        "AxisAdornmentGrabSize": "12",
         "FFlagDevConsoleTopBarDragFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1892687716;2025-11-13T22:22:28",
         "FFlagFixNullPtrOnMemoryStatsCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:23:59",
         "FFlagUserFixOrbitalCameraAzimuth_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:26:44",
@@ -13464,6 +13463,9 @@
         "FFlagAppChatEnableConversationUserTileAvatars_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:35:29",
         "AllowVideoPreRoll": "True",
         "DFFlagEnableChatAvailabilityStatus": "True",
+        "FFlagRbxStorageAltInitDuration": "True",
+        "FFlagLuauTidyTypeUtils_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:52:23",
+        "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -14394,7 +14396,6 @@
         "DFIntMinSizeToCacheSharedStringBytes": "35000",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
-        "FFlagRbxStorageAltInitDuration": "True",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB": "125",
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_IOS_1;698378276;flagbank",
         "FFlagCapturesEnableDownloadForU13": "True",
@@ -14469,9 +14470,9 @@
         "FFlagFixGridContentSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:21:17",
         "FFlagFixGridMinSize": "True",
         "FFlagFixTextNotShowingInBillboard": "True",
-        "FStringFlagRepoGitHashFastString": "9f3067c2655840c35bba4681702ebc532c923d13",
-        "DFStringFlagRepoGitHashDynamicString": "9f3067c2655840c35bba4681702ebc532c923d13",
-        "FStringFlipTimeStampFastString": "2025-11-13T22:48:57.101Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:48:57.101Z"
+        "FStringFlagRepoGitHashFastString": "728bf343651abc0d35c219c4799b2e3b65aec3de",
+        "DFStringFlagRepoGitHashDynamicString": "728bf343651abc0d35c219c4799b2e3b65aec3de",
+        "FStringFlipTimeStampFastString": "2025-11-13T22:54:53.622Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:54:53.622Z"
     }
 }
