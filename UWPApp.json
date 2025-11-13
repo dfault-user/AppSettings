@@ -13377,7 +13377,6 @@
         "FLogDesktopInstaller": "Debug",
         "FFlagAXSlotsPeekViewScrollFix": "True",
         "FFlagExperienceEventsListingAPIEnabled": "True",
-        "DFFlagCLI172864_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T22:46:52",
         "FFlagLuaAppEdpMediaGalleryGamePreviewVideoSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-12T23:12:15",
         "FFlagCallTeamCreateServerShutdownWhenRCCVerificationFailed": "True",
         "FFlagDisableRCCAntiHarrasmentAllowList": "True",
@@ -13396,6 +13395,8 @@
         "FFlagMorePageSwapProfileIcon": "True",
         "FFlagUIBloxMigrateBuilderIcon8": "True",
         "FFlagFixStrikeThrough_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;316165029;2025-11-12T23:53:16",
+        "DFFlagCLI172864": "True",
+        "FFlagLuaAppDataModelStreamEnableTestIdAttribute_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T00:04:38",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13699,9 +13700,9 @@
         "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
         "FFlagAvatarSwitcher3DPreview_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;525490592;2025-11-12T23:26:40",
         "FFlagFixWindowDragError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;525490592;2025-11-12T23:26:40",
-        "FStringFlagRepoGitHashFastString": "d245a516035f610d49d122bfd991702c60a305ae",
-        "DFStringFlagRepoGitHashDynamicString": "d245a516035f610d49d122bfd991702c60a305ae",
-        "FStringFlipTimeStampFastString": "2025-11-13T00:05:13.094Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T00:05:13.094Z"
+        "FStringFlagRepoGitHashFastString": "cd816b1d6612e392096f22668cd132e02ee94f85",
+        "DFStringFlagRepoGitHashDynamicString": "cd816b1d6612e392096f22668cd132e02ee94f85",
+        "FStringFlipTimeStampFastString": "2025-11-13T00:07:32.625Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T00:07:32.625Z"
     }
 }
