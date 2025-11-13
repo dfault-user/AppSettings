@@ -13451,8 +13451,6 @@
         "FFlagRemoveSingleSurfaceAppVideoRecorder": "True",
         "FFlagFileCacheFixPS": "True",
         "FFlagDurationAlertOnlyForLongFlows": "False",
-        "FFlagAppChatEnableConversationUserTileAvatars_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:35:29",
-        "FFlagEnableOTAChannels_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:44:31",
         "DFFlagEnableChatAvailabilityStatus": "True",
         "FFlagRbxStorageAltInitDuration": "True",
         "FFlagLuauTidyTypeUtils_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:52:23",
@@ -13473,6 +13471,8 @@
         "FFlagNoEndianConversionClientBit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T23:31:23",
         "FFlagInstallerUseRemoveItemNamed_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T23:40:52",
         "AxisAdornmentGrabSize": "12",
+        "FFlagEnableOTAChannels": "True",
+        "FFlagAppChatEnableConversationUserTileAvatars": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -15347,9 +15347,9 @@
         "DFFlagMicroProfilerNetworkPlugin3": "True",
         "FStringAdvancedCommandBarBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-multi-line-studio-command-bar/4032717",
         "FStringUGCValidationReferenceMeshIdWhitelistForIEC": "\"95042539578838\"",
-        "FFlagSlimContentProvider2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1977196099;2025-11-13T22:44:26",
-        "FFlagSlimService19_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1977196099;2025-11-13T22:44:26",
         "FFlagStyleEditorPluginStyleSheets2": "True",
+        "FFlagSlimContentProvider2": "True",
+        "FFlagSlimService19": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15857,9 +15857,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "9e46cd99db1f9db3bc2c78f2ed25ef67f4e49514",
-        "DFStringFlagRepoGitHashDynamicString": "9e46cd99db1f9db3bc2c78f2ed25ef67f4e49514",
-        "FStringFlipTimeStampFastString": "2025-11-13T23:51:59.507Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T23:51:59.507Z"
+        "FStringFlagRepoGitHashFastString": "45cbb90e8dbe1d710b45ad05a8cb32e779396756",
+        "DFStringFlagRepoGitHashDynamicString": "45cbb90e8dbe1d710b45ad05a8cb32e779396756",
+        "FStringFlipTimeStampFastString": "2025-11-13T23:54:08.103Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T23:54:08.103Z"
     }
 }
