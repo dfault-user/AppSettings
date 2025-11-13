@@ -13404,6 +13404,8 @@
         "FFlagFixFlakyMusicTests_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:06:20",
         "FFlagUseTeleportedPlacesBackHistory2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:07:39",
         "FFlagIEMButtonsResponsiveLayout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:09:09",
+        "FFlagFixUnibarRefactoringInTopBarApp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:09:42",
+        "FFlagFixLocalHistoryLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:10:07",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14358,9 +14360,9 @@
         "DFIntMinSizeToCacheSharedStringBytes": "35000",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.Android_SharedStringCaching_IXP-1762987228;Android_SharedStringCaching_IXP;1641168062;flagbank",
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Android_SharedStringCaching_IXP-1762987228;Android_SharedStringCaching_IXP;1641168062;flagbank",
-        "FStringFlagRepoGitHashFastString": "133b64bda8f89214a1363dcc8113a5a430f0d36d",
-        "DFStringFlagRepoGitHashDynamicString": "133b64bda8f89214a1363dcc8113a5a430f0d36d",
-        "FStringFlipTimeStampFastString": "2025-11-13T17:09:56.860Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T17:09:56.860Z"
+        "FStringFlagRepoGitHashFastString": "cfab1ca4891d4e857008cbe90eec55e12c29c1e0",
+        "DFStringFlagRepoGitHashDynamicString": "cfab1ca4891d4e857008cbe90eec55e12c29c1e0",
+        "FStringFlipTimeStampFastString": "2025-11-13T17:11:47.408Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T17:11:47.408Z"
     }
 }
