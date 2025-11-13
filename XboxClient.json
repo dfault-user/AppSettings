@@ -13399,11 +13399,6 @@
         "FFlagLuaAppDataModelStreamEnableTestIdAttribute": "True",
         "FFlagLuauEGFixGenericsList": "True",
         "DFFlagSimCSGAddOperationTimeTelemetry": "True",
-        "FFlagFixFlakyMusicTests_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:06:20",
-        "FFlagUseTeleportedPlacesBackHistory2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:07:39",
-        "FFlagIEMButtonsResponsiveLayout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:09:09",
-        "FFlagFixUnibarRefactoringInTopBarApp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:09:42",
-        "FFlagFixLocalHistoryLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:10:07",
         "DFFlagSimAdaptiveUseNewVelocityCriteria_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:12:43",
         "FFlagProfilePlatformEnableLazyLoadingComponentsV5_IXP": "1;Social.ProfilePeekView;;810962997;dev_controlled",
         "FFlagDisableReactSchedulingAvgMaxMsStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;401758145;2025-11-13T17:33:43",
@@ -13414,6 +13409,11 @@
         "FFlagEnableLuafiedRecoveryFlow2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:58:40",
         "FIntMaximumTraversalHistoryItemsFetch": "100",
         "FIntTraversalTelemetryThrottleHundrethsPercent": "10000",
+        "FFlagFixFlakyMusicTests": "True",
+        "FFlagFixLocalHistoryLogging": "True",
+        "FFlagFixUnibarRefactoringInTopBarApp": "True",
+        "FFlagIEMButtonsResponsiveLayout": "True",
+        "FFlagUseTeleportedPlacesBackHistory2": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13785,9 +13785,9 @@
         "FFlagEnableInGameMenuChromeABTest4": "True",
         "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesign;1406855834;dev_controlled",
         "FFlagFMDVariableNumSubsetJoints_IXP": "1;Portal.FMDVariableNumSubsetJoints-1762981571;FMDVariableNumSubsetJoints;1449756257;flagbank",
-        "FStringFlagRepoGitHashFastString": "c3a7eadc67b611a86f4d5bc5cca152d171f0eea6",
-        "DFStringFlagRepoGitHashDynamicString": "c3a7eadc67b611a86f4d5bc5cca152d171f0eea6",
-        "FStringFlipTimeStampFastString": "2025-11-13T18:08:04.693Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:08:04.693Z"
+        "FStringFlagRepoGitHashFastString": "377c3b26b33d210623b11f03e721f9495836c53d",
+        "DFStringFlagRepoGitHashDynamicString": "377c3b26b33d210623b11f03e721f9495836c53d",
+        "FStringFlipTimeStampFastString": "2025-11-13T18:13:00.910Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:13:00.910Z"
     }
 }
