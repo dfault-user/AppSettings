@@ -13400,7 +13400,6 @@
         "FFlagLuauEGFixGenericsList": "True",
         "DFFlagSimCSGAddOperationTimeTelemetry": "True",
         "FFlagProfilePlatformEnableLazyLoadingComponentsV5_IXP": "1;Social.ProfilePeekView;;810962997;dev_controlled",
-        "FFlagFixNotificationReportsMobile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:52:55",
         "FFlagRenderEditableMeshDecals_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:56:02",
         "FFlagEnableLuafiedRecoveryFlow2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:58:40",
         "FIntMaximumTraversalHistoryItemsFetch": "100",
@@ -13420,6 +13419,9 @@
         "FFlagEnableSocialProfilePeekViewSecondaryExposureEvents": "True",
         "FFlagRemoveUnsafeDMUsagePreview_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:51:42",
         "FFlagRemoveStaleChildConnections2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:52:41",
+        "FFlagLogoutPhoneVerificationUpsellCopy_v3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:53:47",
+        "FFlagGfxASTCGLESFormatTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:54:00",
+        "FFlagFixNotificationReportsMobile": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14079,7 +14081,7 @@
         "FFlagAXEnableBatchUnequips2": "True",
         "FFlagAXEnableClearAllConfirmationPrompt2": "True",
         "FFlagAXEnableInventorySortsAndFilters2": "True",
-        "FFlagAXEnableManualSavingBlockingPrompt3": "True",
+        "FFlagAXEnableManualSavingBlockingPrompt3": "False",
         "FFlagAXEnableNewInventoryItemsList2": "True",
         "FFlagAXEnableSlotsFtux2": "True",
         "FFlagAXExtractEmotesCategory2": "True",
@@ -14374,12 +14376,11 @@
         "DFIntMinSizeToCacheSharedStringBytes": "35000",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.Android_SharedStringCaching_IXP-1762987228;Android_SharedStringCaching_IXP;1641168062;flagbank",
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Android_SharedStringCaching_IXP-1762987228;Android_SharedStringCaching_IXP;1641168062;flagbank",
-        "FFlagAXEnableManualSavingBlockingPrompt3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T17:52:39",
         "FFlagVoiceChatClientRebootOperationEnabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:28:18",
         "FFlagVoiceRtcStatsEnabled8_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T18:36:53",
-        "FStringFlagRepoGitHashFastString": "34ed34d23092b75170cd36b7b7bd15e884e7c6d8",
-        "DFStringFlagRepoGitHashDynamicString": "34ed34d23092b75170cd36b7b7bd15e884e7c6d8",
-        "FStringFlipTimeStampFastString": "2025-11-13T18:55:54.430Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:55:54.430Z"
+        "FStringFlagRepoGitHashFastString": "fb9f564c30f06ed58e0a4af4a0852de6a05ad98a",
+        "DFStringFlagRepoGitHashDynamicString": "fb9f564c30f06ed58e0a4af4a0852de6a05ad98a",
+        "FStringFlipTimeStampFastString": "2025-11-13T18:57:02.501Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T18:57:02.501Z"
     }
 }
