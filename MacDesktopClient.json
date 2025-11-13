@@ -13439,7 +13439,7 @@
         "FFlagProfilePlatformEnableBundlesInAssetsCarousel": "True",
         "DFFlagVideoHandlePtsDiscontinuity": "True",
         "FFlagAddStyleProviderInvitePrompt": "True",
-        "AllowVideoPreRoll": "True",
+        "AxisAdornmentGrabSize": "12",
         "FFlagFmodLockFreeDspGetIdle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T20:52:51",
         "FFlagFixUIRayGoingThruExistingVerts4": "True",
         "FFlagStudioBackgroundUpdatesAdditionalLog": "True",
@@ -13450,6 +13450,7 @@
         "DFFlagHlsCheckInitSegReady": "True",
         "FFlagRemoveSingleSurfaceAppVideoRecorder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:08:45",
         "FFlagFileCacheFixPS_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:12:22",
+        "AllowVideoPreRoll": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -13989,7 +13990,6 @@
         "FFlagEnableInspectAndBuyV2RootFlag2_IXP": "1;UIEcosystem.User.Migration;IxpFlagLink;1032734099;flagbank",
         "DFFlagDirectFieldSet_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:04:28",
         "DFIntBandwidthMetricsPointsThrottle": "10",
-        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14454,9 +14454,10 @@
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "DFIntFacialAgeEstimationFlowTelemetryThrottle": "10000",
         "FFlagEnableAmpUpsellLogging": "True",
-        "FStringFlagRepoGitHashFastString": "24518ac45ba99404b892efb89af9e5a851fb84ea",
-        "DFStringFlagRepoGitHashDynamicString": "24518ac45ba99404b892efb89af9e5a851fb84ea",
-        "FStringFlipTimeStampFastString": "2025-11-13T21:14:04.961Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T21:14:04.961Z"
+        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;910570647;2025-11-13T21:15:22",
+        "FStringFlagRepoGitHashFastString": "bc77821de83ce70735db5485f70b684a81c66ce2",
+        "DFStringFlagRepoGitHashDynamicString": "bc77821de83ce70735db5485f70b684a81c66ce2",
+        "FStringFlipTimeStampFastString": "2025-11-13T21:17:19.266Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T21:17:19.266Z"
     }
 }
