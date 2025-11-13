@@ -13459,7 +13459,10 @@
         "FFlagFileCacheFixPS": "True",
         "FFlagExpandWarmStartMetricsCollection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:18:32",
         "FFlagDurationAlertOnlyForLongFlows": "False",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
+        "FFlagDevConsoleTopBarDragFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1892687716;2025-11-13T22:22:28",
         "FFlagEnableAdsMouseUnlock": "True",
+        "FFlagUserFixOrbitalCameraAzimuth_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:26:44",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15324,7 +15327,6 @@
         "FFlagSmootherRoundRects6": "False",
         "FFlagLuauUnknownGlobalFixSuggestion": "True",
         "FFlagDownloadPlaceCopyFallbackToLocal1": "True",
-        "DFFlagMicroProfilerNetworkPlugin3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;831095883;2025-11-13T21:23:04",
         "FStringAdvancedCommandBarBetaFeatureUrl_Staged": "https://devforum.roblox.com/t/studio-beta-multi-line-studio-command-bar/4032717;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T21:28:00",
         "FStringUGCValidationReferenceMeshIdWhitelistForIEC_Staged": "\"95042539578838\";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1572939255;2025-11-13T21:39:57",
         "DFFlagForEachPropagateDefaultProfilerTokens": "True",
@@ -15337,7 +15339,7 @@
         "FFlagSlimHandleMeshLoadException": "True",
         "FFlagSlimInstancingDeepGeometryPtr": "True",
         "FFlagSlimOnlyUploadInStreamingEnabledGames": "True",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
+        "DFFlagMicroProfilerNetworkPlugin3": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -15843,9 +15845,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "35fd3d37432940383a073c407e8c9e96c99d730b",
-        "DFStringFlagRepoGitHashDynamicString": "35fd3d37432940383a073c407e8c9e96c99d730b",
-        "FStringFlipTimeStampFastString": "2025-11-13T22:27:14.842Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:27:14.842Z"
+        "FStringFlagRepoGitHashFastString": "ebe64186ebb9949e0d02ecc9514c042e1872ee21",
+        "DFStringFlagRepoGitHashDynamicString": "ebe64186ebb9949e0d02ecc9514c042e1872ee21",
+        "FStringFlipTimeStampFastString": "2025-11-13T22:29:17.943Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:29:17.943Z"
     }
 }
