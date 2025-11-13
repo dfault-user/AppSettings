@@ -13440,7 +13440,6 @@
         "FFlagSduiLoggerRemoveContext": "True",
         "DFFlagHlsCheckInitSegReady": "True",
         "FFlagFoundationNumberInputRefAndCallbacks": "True",
-        "FFlagDurationAlertOnlyForLongFlows_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2047048599;2025-11-13T21:16:50",
         "FFlagEnableSurveyPromptTelemetry": "True",
         "FFlagNullCheckPlayersNameLabel": "True",
         "FFlagVoiceChatAddLeaveReasonToTelemetry": "True",
@@ -13459,6 +13458,8 @@
         "FFlagRemoveSingleSurfaceAppVideoRecorder": "True",
         "FFlagFileCacheFixPS": "True",
         "FFlagExpandWarmStartMetricsCollection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:18:32",
+        "FFlagDurationAlertOnlyForLongFlows": "False",
+        "FFlagAXMigrateAENavigationToFunctionalReact2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T22:21:37",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -13827,9 +13828,9 @@
         "FFlagEnableInGameMenuChromeABTest4": "True",
         "FFlagFMDVariableNumSubsetJoints_IXP": "1;Portal.FMDVariableNumSubsetJoints-1762981571;FMDVariableNumSubsetJoints;1449756257;flagbank",
         "FFlagPerfDataOptimization3": "True",
-        "FStringFlagRepoGitHashFastString": "57e9967ebf696531bf96733193a641717c65adb0",
-        "DFStringFlagRepoGitHashDynamicString": "57e9967ebf696531bf96733193a641717c65adb0",
-        "FStringFlipTimeStampFastString": "2025-11-13T22:21:58.595Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:21:58.595Z"
+        "FStringFlagRepoGitHashFastString": "35fd3d37432940383a073c407e8c9e96c99d730b",
+        "DFStringFlagRepoGitHashDynamicString": "35fd3d37432940383a073c407e8c9e96c99d730b",
+        "FStringFlipTimeStampFastString": "2025-11-13T22:27:14.842Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T22:27:14.842Z"
     }
 }
