@@ -13413,13 +13413,9 @@
         "FFlagFixNotificationReportsMobile": "True",
         "FFlagEnableLuafiedRecoveryFlow2": "True",
         "FFlagRenderEditableMeshDecals": "True",
-        "DFFlagNewReflectionUseReflectable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;594301016;2025-11-13T19:17:52",
-        "DFFlagNewReflectionUseStringable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;594301016;2025-11-13T19:17:52",
-        "DFFlagStopSendingChunkSizeStat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:18:17",
         "DFFlagDeserializeOnlySigningInfo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:37:02",
         "FFlagProfilePlatformEnableBundlesInAssetsCarousel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:37:08",
         "FFlagAddStyleProviderInvitePrompt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1918778389;2025-11-13T19:38:25",
-        "FFlagLargeReplicatorSerializeWrite4_Staged": "True;SteadyState;10;30;Revert;2025-11-13T19:40:30",
         "DFFlagVideoHandlePtsDiscontinuity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:44:30",
         "FFlagLuauExtendSealedTableUpperBounds_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:45:00",
         "FFlagLuaAppFixExplicitFeedbackTelemetry": "True",
@@ -13443,6 +13439,9 @@
         "FFlagFoundationNumberInputRefAndCallbacks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;244609085;2025-11-13T20:15:30",
         "FFlagEnableSurveyPromptTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;785794533;2025-11-13T20:17:37",
         "FFlagNullCheckPlayersNameLabel_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;134043941;2025-11-13T20:19:05",
+        "DFFlagNewReflectionUseReflectable": "True",
+        "DFFlagNewReflectionUseStringable": "True",
+        "DFFlagStopSendingChunkSizeStat": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14403,9 +14402,9 @@
         "FFlagEnableLoggingFieldsOnNotificationIntent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T19:52:45",
         "DFStringVideoAcrPriorityList_PlaceFilter": "(hls,1,540);136954310107221;105796526973604",
         "FFlagEnableAmpUpsellLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;307082999;2025-11-13T20:16:22",
-        "FStringFlagRepoGitHashFastString": "0ddb191a6037467771a641cdc7d3c0a16afb4184",
-        "DFStringFlagRepoGitHashDynamicString": "0ddb191a6037467771a641cdc7d3c0a16afb4184",
-        "FStringFlipTimeStampFastString": "2025-11-13T20:20:54.123Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-13T20:20:54.123Z"
+        "FStringFlagRepoGitHashFastString": "cb925df35f9d6ef47949af2810d6c6837c862760",
+        "DFStringFlagRepoGitHashDynamicString": "cb925df35f9d6ef47949af2810d6c6837c862760",
+        "FStringFlipTimeStampFastString": "2025-11-13T20:22:49.022Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-13T20:22:49.022Z"
     }
 }
