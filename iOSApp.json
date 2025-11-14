@@ -13477,7 +13477,6 @@
         "FFlagLuaGetCanManageAsync": "True",
         "DFFlagQueryExtraSyntaxErrors": "True",
         "DFFlagNetworkSchemaNoDeltaFix": "True",
-        "DFFlagFixTriMeshRayCasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T19:18:39",
         "DFFlagVideoUseVideoServiceContentImplBase": "True",
         "FFlagUseGetCanManageAsync_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T19:30:37",
         "DFFlagReducedPseudoTraceFromAttributes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T19:43:47",
@@ -13490,6 +13489,7 @@
         "FFlagUpdateDescriptorByNameForDescV2": "True",
         "DFFlagQuantizeCollisionCost": "True",
         "FFlagWrapDeformerRePublishesReferenceMesh2": "True",
+        "DFFlagFixTriMeshRayCasts": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14497,9 +14497,9 @@
         "FFlagFixGridContentSize": "True",
         "FFlagTelemetryProtoSerializationForBatch2": "True",
         "FIntRbxStorageMinMemoryRequirementMB_Staged": "4000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T19:43:52",
-        "FStringFlagRepoGitHashFastString": "45d1a3966ddeab55f6aeb4fc9a86f5f6d21dd5d2",
-        "DFStringFlagRepoGitHashDynamicString": "45d1a3966ddeab55f6aeb4fc9a86f5f6d21dd5d2",
-        "FStringFlipTimeStampFastString": "2025-11-14T20:17:44.219Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-14T20:17:44.219Z"
+        "FStringFlagRepoGitHashFastString": "dc1c46799bb8a4c7d7e655a15b377145917136c9",
+        "DFStringFlagRepoGitHashDynamicString": "dc1c46799bb8a4c7d7e655a15b377145917136c9",
+        "FStringFlipTimeStampFastString": "2025-11-14T20:23:07.088Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-14T20:23:07.088Z"
     }
 }
