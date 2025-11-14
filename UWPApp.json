@@ -13472,7 +13472,6 @@
         "DFFlagJointsUseTimeDelta": "True",
         "FFlagSlimControllerTelemetry2": "True",
         "DFIntUseFtsThumbEnrollHeaderHundredthPercent": "10000",
-        "DFFlagNetworkSchemaNoDeltaFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T17:48:19",
         "FFlagAddThumbnailSelectorReport5": "True",
         "FFlagFixAssetIECPromptNaming_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T18:12:02",
         "DFFlagVideoUseVideoServiceContentImplBase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T18:19:40",
@@ -13480,6 +13479,9 @@
         "FFlagFCHighlightOptimization": "True",
         "FFlagLuaGetCanManageAsync": "True",
         "DFFlagQueryExtraSyntaxErrors": "True",
+        "FFlagInstallerUnzipStudioInPrepareStage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T18:48:06",
+        "FFlagUseGetCanManageAsync_Staged": "True;SteadyState;10;30;Revert;2025-11-14T18:49:05",
+        "DFFlagNetworkSchemaNoDeltaFix": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13783,9 +13785,9 @@
         "FFlagFixWindowDragError": "True",
         "FFlagUwpAlwaysLinkToSlashDownload": "True",
         "FIntUwpDeprecationDate": "1763672400",
-        "FStringFlagRepoGitHashFastString": "9159016c623c98b7ae27b5ba5fe86fccd2bcbdbc",
-        "DFStringFlagRepoGitHashDynamicString": "9159016c623c98b7ae27b5ba5fe86fccd2bcbdbc",
-        "FStringFlipTimeStampFastString": "2025-11-14T18:41:37.826Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-14T18:41:37.826Z"
+        "FStringFlagRepoGitHashFastString": "17f5fcb800ea7ffaf7cf0d66a902ea80a456a19a",
+        "DFStringFlagRepoGitHashDynamicString": "17f5fcb800ea7ffaf7cf0d66a902ea80a456a19a",
+        "FStringFlipTimeStampFastString": "2025-11-14T18:51:43.432Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-14T18:51:43.432Z"
     }
 }
