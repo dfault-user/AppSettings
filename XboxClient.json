@@ -13459,7 +13459,6 @@
         "FFlagAXMigrateAENavigationToFunctionalReact2": "True",
         "FFlagFixNullPtrOnMemoryStatsCheck": "True",
         "FFlagExpandWarmStartMetricsCollection": "True",
-        "FFlagNoEndianConversionClientBit_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T23:31:23",
         "FFlagInstallerUseRemoveItemNamed_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T23:40:52",
         "DFFlagJointsUseTimeDelta_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T23:47:10",
         "FFlagEnableOTAChannels": "True",
@@ -13472,6 +13471,7 @@
         "FFlagAddClientDisconnectVerboselyModeratedGame": "True",
         "DFFlagLargeSenderMultipleStateTransitionsPerUpdate": "True",
         "FFlagFixBorderOffsetScaleWithUIScale": "True",
+        "FFlagNoEndianConversionClientBit": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13840,9 +13840,9 @@
         "FFlagEnableInGameMenuChromeABTest4": "True",
         "FFlagFMDVariableNumSubsetJoints_IXP": "1;Portal.FMDVariableNumSubsetJoints-1762981571;FMDVariableNumSubsetJoints;1449756257;flagbank",
         "FFlagPerfDataOptimization3": "True",
-        "FStringFlagRepoGitHashFastString": "03d1dd0488a6666d508b31b29eed261d6c9658a5",
-        "DFStringFlagRepoGitHashDynamicString": "03d1dd0488a6666d508b31b29eed261d6c9658a5",
-        "FStringFlipTimeStampFastString": "2025-11-14T00:36:38.222Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-14T00:36:38.222Z"
+        "FStringFlagRepoGitHashFastString": "508c2d96aac10278029e020eadea5b5669a7d458",
+        "DFStringFlagRepoGitHashDynamicString": "508c2d96aac10278029e020eadea5b5669a7d458",
+        "FStringFlipTimeStampFastString": "2025-11-14T00:39:11.963Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-14T00:39:11.963Z"
     }
 }
