@@ -10608,7 +10608,6 @@
         "FFlagSimAeroNewInterpolatedForceModel": "True",
         "FFlagExpChatMemoBillboardGui_IXP": "1;ExperienceChat.Performance;Experience.ExpChat.BubbleChat.DevTools5;2065932627;flagbank",
         "FFlagExpChatRemoveBubbleChatAppUserMessagesState_IXP": "1;ExperienceChat.Performance;Experience.ExpChat.BubbleChat.DevTools5;2065932627;flagbank",
-        "FFlagProfilePlatformEnableClickToCopyUsername_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ClickToCopyUsernameV2;698399716;dev_controlled",
         "DFFlagSpeechToTextEnableHttpCompression": "True",
         "FFlagMacOSMemorylessTextureSupport": "True",
         "FFlagRenderCorrectStudioHighlightStoreState": "True",
@@ -15825,6 +15824,7 @@
         "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_Staged": "AMD,Qualcomm;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;841675406;2025-11-13T23:24:51",
         "DFStringVideoWinHwEncoderBlacklistCsv_Staged": "AMD,Qualcomm;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1732214714;2025-11-13T23:25:53",
         "DFIntPerfDataOnHiveGlobalThrottleHundredthsPercent_Staged": "40;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T23:33:39",
+        "DFFlagBtfUseAssetRequest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1578305185;2025-11-14T00:11:49",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -15857,9 +15857,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "b21b7761c8d42e1a08c42af86f80e1f3c5f0110b",
-        "DFStringFlagRepoGitHashDynamicString": "b21b7761c8d42e1a08c42af86f80e1f3c5f0110b",
-        "FStringFlipTimeStampFastString": "2025-11-14T00:04:28.170Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-14T00:04:28.170Z"
+        "FStringFlagRepoGitHashFastString": "f8ccc6e0e1a1a83dfa2821be9734381c90d952fc",
+        "DFStringFlagRepoGitHashDynamicString": "f8ccc6e0e1a1a83dfa2821be9734381c90d952fc",
+        "FStringFlipTimeStampFastString": "2025-11-14T00:15:29.892Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-14T00:15:29.892Z"
     }
 }

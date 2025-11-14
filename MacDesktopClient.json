@@ -10608,7 +10608,6 @@
         "FFlagSimAeroNewInterpolatedForceModel": "True",
         "FFlagExpChatMemoBillboardGui_IXP": "1;ExperienceChat.Performance;Experience.ExpChat.BubbleChat.DevTools5;2065932627;flagbank",
         "FFlagExpChatRemoveBubbleChatAppUserMessagesState_IXP": "1;ExperienceChat.Performance;Experience.ExpChat.BubbleChat.DevTools5;2065932627;flagbank",
-        "FFlagProfilePlatformEnableClickToCopyUsername_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ClickToCopyUsernameV2;698399716;dev_controlled",
         "DFFlagSpeechToTextEnableHttpCompression": "True",
         "FFlagMacOSMemorylessTextureSupport": "True",
         "FFlagRenderCorrectStudioHighlightStoreState": "True",
@@ -14012,6 +14011,7 @@
         "FFlagClarifyPingNaming": "True",
         "FFlagPerfStatNetworkPing2": "True",
         "DFIntPerfDataOnHiveGlobalThrottleHundredthsPercent_Staged": "40;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-13T23:33:39",
+        "DFFlagBtfUseAssetRequest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1578305185;2025-11-14T00:11:49",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14484,9 +14484,9 @@
         "FFlagAXTryOnScreenImprovements6": "True",
         "FFlagSlimContentProvider2": "True",
         "FFlagSlimService19": "True",
-        "FStringFlagRepoGitHashFastString": "b21b7761c8d42e1a08c42af86f80e1f3c5f0110b",
-        "DFStringFlagRepoGitHashDynamicString": "b21b7761c8d42e1a08c42af86f80e1f3c5f0110b",
-        "FStringFlipTimeStampFastString": "2025-11-14T00:04:28.170Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-14T00:04:28.170Z"
+        "FStringFlagRepoGitHashFastString": "f8ccc6e0e1a1a83dfa2821be9734381c90d952fc",
+        "DFStringFlagRepoGitHashDynamicString": "f8ccc6e0e1a1a83dfa2821be9734381c90d952fc",
+        "FStringFlipTimeStampFastString": "2025-11-14T00:15:29.892Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-14T00:15:29.892Z"
     }
 }
