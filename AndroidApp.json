@@ -13477,9 +13477,6 @@
         "FFlagLuaGetCanManageAsync": "True",
         "DFFlagQueryExtraSyntaxErrors": "True",
         "DFFlagNetworkSchemaNoDeltaFix": "True",
-        "DFFlagQuantizeCollisionCost_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T18:58:37",
-        "FFlagWrapDeformerOffsetOriginsBasedOnRecentering_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;551101047;2025-11-14T19:03:19",
-        "FFlagUpdateDescriptorByNameForDescV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T19:05:02",
         "FFlagWrapDeformerRePublishesReferenceMesh2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1276434901;2025-11-14T19:09:26",
         "FFlagAddThumbnailSelectorReport5_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T19:10:12",
         "DFFlagFixTriMeshRayCasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T19:18:39",
@@ -13491,6 +13488,9 @@
         "DFFlagVideoUseVideoServiceContentImplBase_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T19:52:12",
         "FFlagEnableIAFlyoutIXPHomeProfileRemoval_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1585123696;2025-11-14T19:55:19",
         "FFlagFlyoutHideFriendsHeader_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1563538552;2025-11-14T19:57:09",
+        "FFlagWrapDeformerOffsetOriginsBasedOnRecentering": "True",
+        "FFlagUpdateDescriptorByNameForDescV2": "True",
+        "DFFlagQuantizeCollisionCost": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14451,9 +14451,9 @@
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Voice.Client.Rewrite.Android.Rollout;1259266197;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Voice.Client.Rewrite.Android.Rollout;1259266197;flagbank",
         "FFlagVoiceChatEnableSdpCompressionMaster4": "True",
-        "FStringFlagRepoGitHashFastString": "e6d6dbac881425fb9bbbce812ed5d755f3f7d2a5",
-        "DFStringFlagRepoGitHashDynamicString": "e6d6dbac881425fb9bbbce812ed5d755f3f7d2a5",
-        "FStringFlipTimeStampFastString": "2025-11-14T20:00:52.808Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-14T20:00:52.808Z"
+        "FStringFlagRepoGitHashFastString": "83dcb1433aa5e975dbeb86597ab83e6973c1f887",
+        "DFStringFlagRepoGitHashDynamicString": "83dcb1433aa5e975dbeb86597ab83e6973c1f887",
+        "FStringFlipTimeStampFastString": "2025-11-14T20:07:35.059Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-14T20:07:35.059Z"
     }
 }
