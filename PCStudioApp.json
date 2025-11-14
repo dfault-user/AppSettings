@@ -15833,6 +15833,7 @@
         "FFlagPerfStatNetworkPing2": "True",
         "DFFlagBtfUseAssetRequest": "True",
         "FFlagVideoReportRebufferingsInVideoServiceClient2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T18:16:51",
+        "DFIntVideoWinHwEncoderMinQuickSyncH264ProductVersionLower32_Staged": "101258265;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T18:54:48",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -15866,9 +15867,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_Staged": "Intel,AMD,Qualcomm;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T18:18:32",
-        "FStringFlagRepoGitHashFastString": "17f5fcb800ea7ffaf7cf0d66a902ea80a456a19a",
-        "DFStringFlagRepoGitHashDynamicString": "17f5fcb800ea7ffaf7cf0d66a902ea80a456a19a",
-        "FStringFlipTimeStampFastString": "2025-11-14T18:51:43.432Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-14T18:51:43.432Z"
+        "FStringFlagRepoGitHashFastString": "5c32f7a2831a7f0f4f588bb9657d672355be9d96",
+        "DFStringFlagRepoGitHashDynamicString": "5c32f7a2831a7f0f4f588bb9657d672355be9d96",
+        "FStringFlipTimeStampFastString": "2025-11-14T18:55:30.363Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-14T18:55:30.363Z"
     }
 }
