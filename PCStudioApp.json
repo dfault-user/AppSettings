@@ -12907,7 +12907,7 @@
         "FFlagCleanUpMouseWrapMode2": "True",
         "FFlagUGCValidatePropertiesSensible2": "True",
         "FFlagSurfaceLightNoAllocateShadowMask2": "True",
-        "FFlagFixAssetIECPromptNaming": "True",
+        "FFlagFixAssetIECPromptNaming": "False",
         "FFlagVideoWinHwEncoderReportQuickSyncDLLVersion": "True",
         "DFFlagConnectionStateServerFix": "True",
         "DFFlagReportDummyClientConnectionAttemptResult": "True",
@@ -13473,7 +13473,6 @@
         "FFlagSlimControllerTelemetry2": "True",
         "DFIntUseFtsThumbEnrollHeaderHundredthPercent": "10000",
         "FFlagAddThumbnailSelectorReport5": "True",
-        "FFlagFixAssetIECPromptNaming_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T18:12:02",
         "DFFlagVideoUseVideoServiceContentImplBase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T18:19:40",
         "FFlagEnableAdsMouseUnlock": "True",
         "FFlagFCHighlightOptimization": "True",
@@ -15868,9 +15867,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "DFStringVideoAllCapturesGraphicsAPIBlacklistForGPUsCsv_Staged": "Intel,AMD,Qualcomm;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-14T18:18:32",
-        "FStringFlagRepoGitHashFastString": "38f6dc49ef44890adf3c50f141c8167598aeb8ab",
-        "DFStringFlagRepoGitHashDynamicString": "38f6dc49ef44890adf3c50f141c8167598aeb8ab",
-        "FStringFlipTimeStampFastString": "2025-11-14T19:15:10.555Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-14T19:15:10.555Z"
+        "FStringFlagRepoGitHashFastString": "f90e245b727f84d6cae4ac4e0c4e0cf4587a7b7c",
+        "DFStringFlagRepoGitHashDynamicString": "f90e245b727f84d6cae4ac4e0c4e0cf4587a7b7c",
+        "FStringFlipTimeStampFastString": "2025-11-14T19:16:39.801Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-14T19:16:39.801Z"
     }
 }
