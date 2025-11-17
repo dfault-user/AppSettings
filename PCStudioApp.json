@@ -13551,6 +13551,8 @@
         "FFlagDisableMicRejectedPromiseReject": "True",
         "FFlagEnableVoiceSelectorTranslations_AEGIS2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T23:52:17",
         "AllowVideoPreRoll": "True",
+        "FFlagAddAEGIS2Analytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T23:55:00",
+        "FFlagAddSessionizationToAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T23:55:56",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15933,9 +15935,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "dc0b985a52a7e0228f0a03c1166f72a1a01eb4c4",
-        "DFStringFlagRepoGitHashDynamicString": "dc0b985a52a7e0228f0a03c1166f72a1a01eb4c4",
-        "FStringFlipTimeStampFastString": "2025-11-17T23:54:26.666Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T23:54:26.666Z"
+        "FStringFlagRepoGitHashFastString": "a99e7ecfe130fc8f7407373d23f9864bcba88f2e",
+        "DFStringFlagRepoGitHashDynamicString": "a99e7ecfe130fc8f7407373d23f9864bcba88f2e",
+        "FStringFlipTimeStampFastString": "2025-11-17T23:57:21.264Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T23:57:21.264Z"
     }
 }
