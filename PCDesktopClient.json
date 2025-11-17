@@ -13488,7 +13488,6 @@
         "DFFlagReducedPseudoTraceFromAttributes": "True",
         "FFlagEnableIAFlyoutIXPHomeProfileRemoval": "True",
         "FFlagFlyoutHideFriendsHeader": "True",
-        "AxisAdornmentGrabSize": "12",
         "FFlagLuauLimitUnification": "True",
         "FFlagLuauTrackUniqueness_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T18:05:02",
         "AllowVideoPreRoll": "True",
@@ -13500,6 +13499,7 @@
         "FFlagAXRemoveCatalogCategoryNavKey4_Staged": "True;SteadyState;10;30;Revert;2025-11-17T18:31:18",
         "FFlagAXEnableCategoryPills7_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T18:32:24",
         "FStringFlyoutIxpLayer": "Universality.MorePage.Access",
+        "FFlagQuestNESONoState": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14069,6 +14069,7 @@
         "FFlagPlayerListIgnoreDevGamepadBindings2": "True",
         "FFlagEnableUnifiedProductPurchaseFlowV35_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T18:31:13",
         "FFlagICCheckBinding": "True",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14524,7 +14525,6 @@
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "FFlagMaxSizeUseCorrectPadding": "True",
         "DFIntSimSolverWakeDisplacementMultiplier_PlaceFilter": "200;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
-        "FFlagQuestNESONoState": "True",
         "FFlagLuaAppEdpVideoMaxMemoryDeny": "True",
         "FIntLuaAppEdpVideoMaxMemoryThresholdMb": "5000",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
@@ -14576,9 +14576,9 @@
         "DFFlagCLI178587": "True",
         "FFlagMeshManagerAvoidVTableFix": "True",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1718155456;2025-11-17T18:06:59",
-        "FStringFlagRepoGitHashFastString": "77915241359c1facb20cd5025fa684b343e3b3df",
-        "DFStringFlagRepoGitHashDynamicString": "77915241359c1facb20cd5025fa684b343e3b3df",
-        "FStringFlipTimeStampFastString": "2025-11-17T18:52:47.849Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T18:52:47.849Z"
+        "FStringFlagRepoGitHashFastString": "0dddfbabdde06c713f5701188167af5b006dc6fc",
+        "DFStringFlagRepoGitHashDynamicString": "0dddfbabdde06c713f5701188167af5b006dc6fc",
+        "FStringFlipTimeStampFastString": "2025-11-17T18:57:48.454Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T18:57:48.454Z"
     }
 }
