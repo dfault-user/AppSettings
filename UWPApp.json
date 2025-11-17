@@ -13500,9 +13500,6 @@
         "FFlagOpenUserLuaProfileFromEDP_V4_IXP": "1;Portal.OpenUserLuaProfileFromEDP_V3-1757006083;OpenUserLuaProfileFromEDP_V4;854963152;dev_controlled",
         "FFlagOpenUserLuaProfileIxpEnabled_IXP": "1;Portal.Open_User_Lua_Profile_From_Item_Details_Page_V2-1757009637;Open_User_Lua_Profile_From_Item_Details_Page_V3;962259398;dev_controlled",
         "FFlagOpenUserLuaProfileFromItemPage_V3_IXP": "1;Portal.Open_User_Lua_Profile_From_Item_Details_Page_V2-1757009637;Open_User_Lua_Profile_From_Item_Details_Page_V3;962259398;dev_controlled",
-        "FIntTM2NotSupportedUserMask_Staged": "1048722;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:19:17",
-        "FIntTextureHighQNotSupportedUserMask_Staged": "66978015;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:19:52",
-        "FFlagCheckTextureHighQSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:20:23",
         "FFlagUGCValidateCheckHSRFileData2": "True",
         "FFlagNewNavBarPlacement": "True",
         "FFlagAllowLogpointsInNonyieldableCode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:31:39",
@@ -13518,6 +13515,9 @@
         "FFlagJoinGameCardViewProfileEnableExposureLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1409965564;2025-11-17T20:14:59",
         "FStringJoinGameCardViewProfileExperimentLayer_Staged": "Social.JoinGameCardViewProfile;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;728164376;2025-11-17T20:15:29",
         "FFlagAXRemoveCatalogCategoryNavKey4": "True",
+        "FFlagCheckTextureHighQSupport": "True",
+        "FIntTM2NotSupportedUserMask": "1048722",
+        "FIntTextureHighQNotSupportedUserMask": "66978015",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13821,9 +13821,9 @@
         "FFlagFixWindowDragError": "True",
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
-        "FStringFlagRepoGitHashFastString": "bffc7c36c8fc2ccee6300ce4bc93398248ce45a3",
-        "DFStringFlagRepoGitHashDynamicString": "bffc7c36c8fc2ccee6300ce4bc93398248ce45a3",
-        "FStringFlipTimeStampFastString": "2025-11-17T20:19:59.460Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T20:19:59.460Z"
+        "FStringFlagRepoGitHashFastString": "ae67f35b4752b5f86a0ef4ee4ba3463e7686b7b6",
+        "DFStringFlagRepoGitHashDynamicString": "ae67f35b4752b5f86a0ef4ee4ba3463e7686b7b6",
+        "FStringFlipTimeStampFastString": "2025-11-17T20:22:30.601Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T20:22:30.601Z"
     }
 }
