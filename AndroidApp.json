@@ -11249,7 +11249,7 @@
         "FFlagFixLeaderboardCleanup_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerList;1196207538;flagbank",
         "FFlagFixLeaderboardStatSortTypeMismatch_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerList;1196207538;flagbank",
         "FFlagMoveNewPlayerListDividers_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerList;1196207538;flagbank",
-        "FFlagUseNewPlayerList3_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerList;1196207538;flagbank",
+        "FFlagUseNewPlayerList3_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerListConsoleXbox.2;1667226940;flagbank",
         "FFlagEnablePartyNudgeNotification2": "False",
         "FStringRecommendationUniverseAllowList": "4165164803,4186319221,8231627698,6548636559,5851048107,4163704174,4165042864,7855235382,4839130907,4161017735,4163697901,7733912770,7367558687,7442383135,7624019656,8170239170,8357232245,8311011078,8311006275,8311009382,8421256174,4163697901,8231627698",
         "FFlagProfilePlatformEnableSessionization": "True",
@@ -13501,6 +13501,9 @@
         "FStringFlyoutIxpLayer": "Universality.MorePage.Access",
         "FFlagQuestNESONoState": "True",
         "FFlagVoiceRunEverythinginOneStateDuringLeave2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;920217153;2025-11-17T18:56:00",
+        "FFlagEnableMobilePlayerListOnConsole_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerListConsoleXbox.2;1667226940;flagbank",
+        "FFlagPlayerListClosedNoRender_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerListConsoleXbox.2;1667226940;flagbank",
+        "FFlagAnnotationsNotificationsIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;615792299;2025-11-17T18:59:30",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14460,9 +14463,9 @@
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Voice.Client.Rewrite.Android.Rollout;1259266197;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Voice.Client.Rewrite.Android.Rollout;1259266197;flagbank",
         "FFlagVoiceChatEnableSdpCompressionMaster4": "True",
-        "FStringFlagRepoGitHashFastString": "0dddfbabdde06c713f5701188167af5b006dc6fc",
-        "DFStringFlagRepoGitHashDynamicString": "0dddfbabdde06c713f5701188167af5b006dc6fc",
-        "FStringFlipTimeStampFastString": "2025-11-17T18:57:48.454Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T18:57:48.454Z"
+        "FStringFlagRepoGitHashFastString": "1c338d6495dd83427d2fdcae658b8d01707726e5",
+        "DFStringFlagRepoGitHashDynamicString": "1c338d6495dd83427d2fdcae658b8d01707726e5",
+        "FStringFlipTimeStampFastString": "2025-11-17T19:01:33.008Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T19:01:33.008Z"
     }
 }
