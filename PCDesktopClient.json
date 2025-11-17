@@ -13490,8 +13490,6 @@
         "FFlagFlyoutHideFriendsHeader": "True",
         "FFlagLuauLimitUnification": "True",
         "FFlagEnableSocialCounterpartyManager": "True",
-        "FFlagUGCValidateCheckHSRFileData2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T18:22:15",
-        "FFlagNewNavBarPlacement_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1031127708;2025-11-17T18:23:43",
         "FFlagEnableAEGIS1AppChatBanner4": "True",
         "FFlagPlayerListPersistVisibilityDesktopOnly": "True",
         "FFlagAXEnableCategoryPills7_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T18:32:24",
@@ -13510,6 +13508,8 @@
         "FIntTM2NotSupportedUserMask_Staged": "1048722;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:19:17",
         "FIntTextureHighQNotSupportedUserMask_Staged": "66978015;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:19:52",
         "FFlagCheckTextureHighQSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:20:23",
+        "FFlagUGCValidateCheckHSRFileData2": "True",
+        "FFlagNewNavBarPlacement": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14078,6 +14078,7 @@
         "FFlagICCheckBinding": "True",
         "FFlagExpChatTextChatCommandRemoved": "True",
         "DFFlagGamePassesRequestOrchestratorEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:18:25",
+        "FFlagAXEnableUnifiedPurchaseFlowForLooks_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:24:53",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14586,9 +14587,9 @@
         "DFFlagCLI178587": "True",
         "FFlagMeshManagerAvoidVTableFix": "True",
         "DFFlagMigrateTriangleMeshPart_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1085395778;2025-11-17T19:15:35",
-        "FStringFlagRepoGitHashFastString": "24caad90b1cc6d26eb76ec81e26f570aed683dcf",
-        "DFStringFlagRepoGitHashDynamicString": "24caad90b1cc6d26eb76ec81e26f570aed683dcf",
-        "FStringFlipTimeStampFastString": "2025-11-17T19:22:22.084Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T19:22:22.084Z"
+        "FStringFlagRepoGitHashFastString": "e9e30254b689507836f2ac39fd609cf173eb530e",
+        "DFStringFlagRepoGitHashDynamicString": "e9e30254b689507836f2ac39fd609cf173eb530e",
+        "FStringFlipTimeStampFastString": "2025-11-17T19:27:43.958Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T19:27:43.958Z"
     }
 }
