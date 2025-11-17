@@ -14437,7 +14437,7 @@
         "EnablePushReceivedDismissFix": "true",
         "FFlagUnifiedPurchaseModalUiImprovements": "True",
         "FFlagEnableUnifiedProductPurchaseFlowV35": "False",
-        "FFlagAXEnableUnifiedPurchaseFlowForLooks": "True",
+        "FFlagAXEnableUnifiedPurchaseFlowForLooks": "False",
         "FFlagUseResumedActivityCount": "True",
         "FFlagStickyTotalBackgroundedTime": "True",
         "FFlagDisablePauseSessionInPersonaFlow": "True",
@@ -14476,12 +14476,11 @@
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Voice.Client.Rewrite.Android.Rollout;1259266197;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Voice.Client.Rewrite.Android.Rollout;1259266197;flagbank",
         "FFlagVoiceChatEnableSdpCompressionMaster4": "True",
-        "FFlagAXEnableUnifiedPurchaseFlowForLooks_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:24:53",
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
-        "FStringFlagRepoGitHashFastString": "242961944f86df79f8259af688a653cf2df63d6c",
-        "DFStringFlagRepoGitHashDynamicString": "242961944f86df79f8259af688a653cf2df63d6c",
-        "FStringFlipTimeStampFastString": "2025-11-17T20:31:45.054Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T20:31:45.054Z"
+        "FStringFlagRepoGitHashFastString": "770f0f513f4f9fc67ccd70d1e4f062af009e86fd",
+        "DFStringFlagRepoGitHashDynamicString": "770f0f513f4f9fc67ccd70d1e4f062af009e86fd",
+        "FStringFlipTimeStampFastString": "2025-11-17T20:32:30.313Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T20:32:30.313Z"
     }
 }
