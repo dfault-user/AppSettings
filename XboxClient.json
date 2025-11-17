@@ -13538,6 +13538,8 @@
         "FFlagVoiceStopRecordingImmediatelyDuringShutdown_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T23:09:18",
         "DFFlagFixFitScalingNegativeOffsets": "True",
         "FFlagVoiceWebrtcConnectionOperationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1903198202;2025-11-17T23:13:40",
+        "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2010245835;2025-11-17T23:17:41",
+        "DFFlagNewReflectionService_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;190975859;2025-11-17T23:18:45",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13910,9 +13912,9 @@
         "FFlagExpChatTextChatCommandRemoved": "True",
         "FFlagProfilePlatformEnableReportAllEntryPoints": "True",
         "FFlagEnableNewChatTimeouts3": "True",
-        "FStringFlagRepoGitHashFastString": "270095f770f35444ac5d100199e5d5bf20e734d5",
-        "DFStringFlagRepoGitHashDynamicString": "270095f770f35444ac5d100199e5d5bf20e734d5",
-        "FStringFlipTimeStampFastString": "2025-11-17T23:15:35.731Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T23:15:35.731Z"
+        "FStringFlagRepoGitHashFastString": "0df96180d5c56f5527d1bd191ab716ac6e6c9a05",
+        "DFStringFlagRepoGitHashDynamicString": "0df96180d5c56f5527d1bd191ab716ac6e6c9a05",
+        "FStringFlipTimeStampFastString": "2025-11-17T23:20:44.340Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T23:20:44.340Z"
     }
 }
