@@ -14018,7 +14018,7 @@
         "DFFlagRbxStorageWalCheckpoint": "True",
         "EventUploadEnableRetryAttemptCount": "True",
         "DFFlagFreeMemoryIgnoreSwap": "True",
-        "FFlagAppChatHideChatToastExperimentEnabled": "True",
+        "FFlagAppChatHideChatToastExperimentEnabled": "False",
         "FFlagNotificationsUsePolicyForEDP": "True",
         "DFIntImmersiveAdPerfDataEventThrottleHundredthsPercent": "10000",
         "FIntmi_option_eager_commit": "0",
@@ -14459,10 +14459,9 @@
         "FFlagVoiceChatClientRewrite_OneFlagToRuleThemAll_Client2_IXP": "1;Engine.Voice.Exposure.1;Voice.Client.Rewrite.Android.Rollout;1259266197;flagbank",
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Voice.Client.Rewrite.Android.Rollout;1259266197;flagbank",
         "FFlagVoiceChatEnableSdpCompressionMaster4": "True",
-        "FFlagAppChatHideChatToastExperimentEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1978094090;2025-11-17T17:45:06",
-        "FStringFlagRepoGitHashFastString": "1aca9c62fec42ea92c20bc216b9e902f30a90c2d",
-        "DFStringFlagRepoGitHashDynamicString": "1aca9c62fec42ea92c20bc216b9e902f30a90c2d",
-        "FStringFlipTimeStampFastString": "2025-11-17T18:33:24.320Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T18:33:24.320Z"
+        "FStringFlagRepoGitHashFastString": "9b58700c1bbe50fd6cf30c6db18714ab8b14a88c",
+        "DFStringFlagRepoGitHashDynamicString": "9b58700c1bbe50fd6cf30c6db18714ab8b14a88c",
+        "FStringFlipTimeStampFastString": "2025-11-17T18:47:27.881Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T18:47:27.881Z"
     }
 }
