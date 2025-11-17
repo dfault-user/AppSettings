@@ -13492,7 +13492,6 @@
         "FFlagEnableSocialCounterpartyManager": "True",
         "FFlagEnableAEGIS1AppChatBanner4": "True",
         "FFlagPlayerListPersistVisibilityDesktopOnly": "True",
-        "FFlagAXEnableCategoryPills7_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T18:32:24",
         "FStringFlyoutIxpLayer": "Universality.MorePage.Access",
         "FFlagQuestNESONoState": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -13512,6 +13511,7 @@
         "FFlagNewNavBarPlacement": "True",
         "FFlagAllowLogpointsInNonyieldableCode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:31:39",
         "FFlagEnableClientSideUserBucketingCheckForExperimentation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:32:52",
+        "FFlagAXEnableCategoryPills7": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13951,7 +13951,7 @@
         "FFlagLuaAppHapticTriggeredTelemetry": "True",
         "FIntHapticTriggerAttemptThrottleHundredthsPercent": "10000",
         "FFlagVoiceChatEnableSdpCompressionMaster4": "True",
-        "FFlagEnableUnifiedProductPurchaseFlowV35": "True",
+        "FFlagEnableUnifiedProductPurchaseFlowV35": "False",
         "FFlagAXWidgetImpressionThemeId": "True",
         "FFlagFCReportBuiltStatsWithLCParts": "True",
         "FFlagUnifiedPurchaseModalUiImprovements": "True",
@@ -14046,7 +14046,6 @@
         "DFFlagBtfUseAssetRequest": "True",
         "FFlagVideoReportRebufferingsInVideoServiceClient2": "True",
         "FFlagPlayerListIgnoreDevGamepadBindings2": "True",
-        "FFlagEnableUnifiedProductPurchaseFlowV35_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T18:31:13",
         "FFlagExpChatTextChatCommandRemoved": "True",
         "DFFlagGamePassesRequestOrchestratorEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:18:25",
         "FFlagAXEnableUnifiedPurchaseFlowForLooks_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:24:53",
@@ -14524,9 +14523,9 @@
         "FFlagSlimService19": "True",
         "FFlagMeshManagerAvoidVTableFix": "True",
         "DFFlagMigrateTriangleMeshPart_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1085395778;2025-11-17T19:15:35",
-        "FStringFlagRepoGitHashFastString": "cdd72df3e5449cd748f91d3cacd894cccb661966",
-        "DFStringFlagRepoGitHashDynamicString": "cdd72df3e5449cd748f91d3cacd894cccb661966",
-        "FStringFlipTimeStampFastString": "2025-11-17T19:35:20.151Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T19:35:20.151Z"
+        "FStringFlagRepoGitHashFastString": "64386804d848cae885bcd352bef7e6eb100956bb",
+        "DFStringFlagRepoGitHashDynamicString": "64386804d848cae885bcd352bef7e6eb100956bb",
+        "FStringFlipTimeStampFastString": "2025-11-17T19:37:37.671Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T19:37:37.671Z"
     }
 }
