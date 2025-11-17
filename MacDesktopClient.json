@@ -13525,7 +13525,6 @@
         "DFIntReportReplicatorStatsToInfluxHundredthsPercent_PlaceFilter": "1000;17276564408;15075482336;844929123;17218764178;166986752;6269446951",
         "DFFlagAddRobloxModerationVerboseShutdown": "True",
         "FFlagRemoveSleepDataFromAssembly": "True",
-        "DFFlagFixFitScalingNegativeOffsets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T22:10:03",
         "FFlagLuauNoMoreComparisonTypeFunctions": "True",
         "FFlagBadgeVisibilitySettingEnabled_v3_IXP": "1;Experience.Menu.Settings.Exposure;Experience.Menu.Settings.Exposure.VisibilitySettings;141898958;dev_controlled",
         "FFlagEnablePlayerNamesEnabledSetting_IXP": "1;Experience.Menu.Settings.Exposure;Experience.Menu.Settings.Exposure.VisibilitySettings;141898958;dev_controlled",
@@ -13536,6 +13535,8 @@
         "DFIntSQLiteDiskFullCleanMB_Staged": "64;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T22:57:34",
         "FFlagUseNewRobloxIconInNotifications": "True",
         "DFFlagIASReportNewActionTypes": "True",
+        "FFlagVoiceStopRecordingImmediatelyDuringShutdown_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T23:09:18",
+        "DFFlagFixFitScalingNegativeOffsets": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -14543,10 +14544,10 @@
         "FFlagSlimContentProvider2": "True",
         "FFlagSlimService19": "True",
         "FFlagMeshManagerAvoidVTableFix": "True",
-        "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T22:05:47",
-        "FStringFlagRepoGitHashFastString": "bcc12153eb55ae6effab4878137751a3935f904b",
-        "DFStringFlagRepoGitHashDynamicString": "bcc12153eb55ae6effab4878137751a3935f904b",
-        "FStringFlipTimeStampFastString": "2025-11-17T23:09:13.022Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T23:09:13.022Z"
+        "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": "True",
+        "FStringFlagRepoGitHashFastString": "270095f770f35444ac5d100199e5d5bf20e734d5",
+        "DFStringFlagRepoGitHashDynamicString": "270095f770f35444ac5d100199e5d5bf20e734d5",
+        "FStringFlipTimeStampFastString": "2025-11-17T23:15:35.731Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T23:15:35.731Z"
     }
 }
