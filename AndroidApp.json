@@ -14453,7 +14453,7 @@
         "FFlagLuaAppEdpVideoMaxMemoryDeny": "True",
         "FIntLuaAppEdpVideoMaxMemoryThresholdMb": "3900",
         "DFStringPerformanceControlDeviceMemoryBufferConfig_IXP": "1;HarmonyExposure;HarmonyExposure.DeviceSpecificConstantMemoryBuffer.Android.Top21.V3;445688834;dev_controlled",
-        "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.DeviceSpecificConstantMemoryBuffer.Android.Top21.V3;445688834;dev_controlled",
+        "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
         "FStringPerformanceControlIXPFlagsExposureHardwareCheck_IXP": "1;HarmonyExposure;HarmonyExposure.DeviceSpecificConstantMemoryBuffer.Android.Top21.V3;445688834;dev_controlled",
         "FFlagUseGsonForEventUpload": "True",
         "DFIntMinSizeToCacheSharedStringBytes": "35000",
@@ -14474,9 +14474,11 @@
         "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Voice.Client.Rewrite.Android.Rollout;1259266197;flagbank",
         "FFlagVoiceChatEnableSdpCompressionMaster4": "True",
         "FFlagAXEnableUnifiedPurchaseFlowForLooks_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:24:53",
-        "FStringFlagRepoGitHashFastString": "986f6dd710e0475272b78674142ff7556971cecb",
-        "DFStringFlagRepoGitHashDynamicString": "986f6dd710e0475272b78674142ff7556971cecb",
-        "FStringFlipTimeStampFastString": "2025-11-17T20:13:22.697Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T20:13:22.697Z"
+        "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
+        "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
+        "FStringFlagRepoGitHashFastString": "b428f33ab5be7a5fc943b7ed9457aaaf2093ff06",
+        "DFStringFlagRepoGitHashDynamicString": "b428f33ab5be7a5fc943b7ed9457aaaf2093ff06",
+        "FStringFlipTimeStampFastString": "2025-11-17T20:14:43.510Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T20:14:43.510Z"
     }
 }
