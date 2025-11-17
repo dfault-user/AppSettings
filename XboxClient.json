@@ -12054,7 +12054,7 @@
         "FFlagLuaAppFixSearchGameGridInitialItemsPerRow": "True",
         "FFlagEnableFixAdsClickoutPassthroughSafeArea": "True",
         "FFlagFixUninitializedMenuKeyBindings": "True",
-        "FFlagShowAntiHarassmentSettings_IXP": "1;Experience.Menu;User.ExperienceMenu.MenuButtonRelocation;894854197;flagbank",
+        "FFlagShowAntiHarassmentSettings_IXP": "1;Experience.Menu.Settings.Exposure;Experience.Menu.Settings.Exposure.VisibilitySettings;141898958;dev_controlled",
         "FFlagPlayerListIgnoreDevGamepadBindings": "True",
         "FFlagPlayerListSetIsGamepadOnMount": "True",
         "FFlagLuaAppSduiItemImpressionsStartRow": "True",
@@ -13530,6 +13530,8 @@
         "DFFlagIASReportNewActionTypes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T22:04:52",
         "DFFlagFixFitScalingNegativeOffsets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T22:10:03",
         "FFlagLuauNoMoreComparisonTypeFunctions": "True",
+        "FFlagBadgeVisibilitySettingEnabled_v3_IXP": "1;Experience.Menu.Settings.Exposure;Experience.Menu.Settings.Exposure.VisibilitySettings;141898958;dev_controlled",
+        "FFlagEnablePlayerNamesEnabledSetting_IXP": "1;Experience.Menu.Settings.Exposure;Experience.Menu.Settings.Exposure.VisibilitySettings;141898958;dev_controlled",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13902,9 +13904,9 @@
         "FFlagExpChatTextChatCommandRemoved": "True",
         "FFlagProfilePlatformEnableReportAllEntryPoints": "True",
         "FFlagEnableNewChatTimeouts3": "True",
-        "FStringFlagRepoGitHashFastString": "efd84562411257b5124bf4186347adc592e7d35a",
-        "DFStringFlagRepoGitHashDynamicString": "efd84562411257b5124bf4186347adc592e7d35a",
-        "FStringFlipTimeStampFastString": "2025-11-17T22:26:49.066Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T22:26:49.066Z"
+        "FStringFlagRepoGitHashFastString": "2dfea0ee93fcb1ee19c271c929dcb84fd392a80b",
+        "DFStringFlagRepoGitHashDynamicString": "2dfea0ee93fcb1ee19c271c929dcb84fd392a80b",
+        "FStringFlipTimeStampFastString": "2025-11-17T22:31:12.384Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T22:31:12.384Z"
     }
 }
