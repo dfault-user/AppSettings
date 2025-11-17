@@ -13494,10 +13494,8 @@
         "FFlagPlayerListPersistVisibilityDesktopOnly": "True",
         "FStringFlyoutIxpLayer": "Universality.MorePage.Access",
         "FFlagQuestNESONoState": "True",
-        "FFlagVoiceRunEverythinginOneStateDuringLeave2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;920217153;2025-11-17T18:56:00",
         "FFlagEnableMobilePlayerListOnConsole_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerListConsoleXbox.2;1667226940;flagbank",
         "FFlagPlayerListClosedNoRender_IXP": "1;InExperience.Performance;InExperience.Performance.NewPlayerListConsoleXbox.2;1667226940;flagbank",
-        "FFlagAnnotationsNotificationsIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;615792299;2025-11-17T18:59:30",
         "FFlagVoiceSendTimeStampInReliabilityEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:00:34",
         "FFlagLuauTrackUniqueness": "True",
         "FFlagOpenUserLuaProfileFromEDP_V4_IXP": "1;Portal.OpenUserLuaProfileFromEDP_V3-1757006083;OpenUserLuaProfileFromEDP_V4;854963152;dev_controlled",
@@ -13515,6 +13513,8 @@
         "FFlagCloudEditPropertiesToNetworkFilter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:43:16",
         "DFFlagRefactorGetScriptForLuaState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:54:53",
         "DFIntCreatorConfigProviderReportPeriodMilliseconds_Staged": "900000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T19:58:23",
+        "FFlagVoiceRunEverythinginOneStateDuringLeave2": "True",
+        "FFlagAnnotationsNotificationsIxpEnabled": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13885,9 +13885,9 @@
         "FFlagPerfDataOptimization3": "True",
         "FFlagPlayerListIgnoreDevGamepadBindings2": "True",
         "FFlagExpChatTextChatCommandRemoved": "True",
-        "FStringFlagRepoGitHashFastString": "ba4407649d74ddb118024fd1e442aef48a14d812",
-        "DFStringFlagRepoGitHashDynamicString": "ba4407649d74ddb118024fd1e442aef48a14d812",
-        "FStringFlipTimeStampFastString": "2025-11-17T20:01:13.593Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-17T20:01:13.593Z"
+        "FStringFlagRepoGitHashFastString": "5459de1594608524a90b6e3b502e30310974d374",
+        "DFStringFlagRepoGitHashDynamicString": "5459de1594608524a90b6e3b502e30310974d374",
+        "FStringFlipTimeStampFastString": "2025-11-17T20:02:43.067Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-17T20:02:43.067Z"
     }
 }
