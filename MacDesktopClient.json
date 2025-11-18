@@ -13574,6 +13574,8 @@
         "FFlagEnableConsoleJoinVoiceTranslation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:35:49",
         "DFFlagCLI175686_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:40:00",
         "DFFlagGCJobMRFEarlierRemoval": "True",
+        "AllowVideoPreRoll": "True",
+        "DFFlagFetchAndWriteFlagsAfterSuccessfulCachedFlagsLoad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:49:20",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14107,7 +14109,6 @@
         "DFIntRobloxTelemetryGamePassOwnershipBatchingAnalyticsThrottleHundredthsPercent": "1",
         "DFIntRobloxTelemetryGamePassesProductInfoBatchingAnalyticsThrottleHundredthsPercent": "1",
         "FFlagTopLeftOrigin2DUI6": "True",
-        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14580,9 +14581,9 @@
         "FFlagSlimService19": "True",
         "FFlagMeshManagerAvoidVTableFix": "True",
         "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "7c5cfbe74aad0fa611a8159876039176c88fefde",
-        "DFStringFlagRepoGitHashDynamicString": "7c5cfbe74aad0fa611a8159876039176c88fefde",
-        "FStringFlipTimeStampFastString": "2025-11-18T18:48:00.806Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T18:48:00.806Z"
+        "FStringFlagRepoGitHashFastString": "fd3f8bd357f885334d7a9b85580b7705bc23b365",
+        "DFStringFlagRepoGitHashDynamicString": "fd3f8bd357f885334d7a9b85580b7705bc23b365",
+        "FStringFlipTimeStampFastString": "2025-11-18T18:51:29.647Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T18:51:29.647Z"
     }
 }
