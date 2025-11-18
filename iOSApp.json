@@ -14611,7 +14611,6 @@
         "FFlagLuaAppDataHydrationDataResolverOnClear": "True",
         "FFlagLuaAppDataHydrationFavoritesStore2": "True",
         "FFlagLuaAppDataHydrationFollowingsStore": "True",
-        "FFlagSduiEnableChips_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:41:26",
         "FIntGameVoteThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:49:24",
         "FIntUSER_VOTE_CACHE_TTL_SECONDS_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:50:07",
         "FIntVideoPlaylistSelectionLogic_Staged": "6;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:55:10",
@@ -14625,9 +14624,11 @@
         "FFlagLuaAppDataHydrationUserVotesStore2": "True",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:39:13",
         "FFlagSduiEnableAssociatedItemsRow": "True",
-        "FStringFlagRepoGitHashFastString": "0bcd7c6d468f35125062c3bbb7bdca1601a7f618",
-        "DFStringFlagRepoGitHashDynamicString": "0bcd7c6d468f35125062c3bbb7bdca1601a7f618",
-        "FStringFlipTimeStampFastString": "2025-11-18T22:44:18.836Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:44:18.836Z"
+        "FFlagSduiEnableChips": "True",
+        "FFlagLuaAppDataHydrationPlayerCountGameInfoStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:46:24",
+        "FStringFlagRepoGitHashFastString": "2da83d12b832a88422e0976d0c78fefa01eb2b5b",
+        "DFStringFlagRepoGitHashDynamicString": "2da83d12b832a88422e0976d0c78fefa01eb2b5b",
+        "FStringFlipTimeStampFastString": "2025-11-18T22:48:33.623Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:48:33.623Z"
     }
 }
