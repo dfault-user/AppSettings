@@ -13594,6 +13594,7 @@
         "FFlagAXSendSessionForEvents_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:57:37",
         "DFIntWrapDeformerEventHundredthsPercentage_Staged": "20;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;23609967;2025-11-18T23:19:50",
         "DFFlagReverbLimitMaxRotationAngle": "True",
+        "DFFlagResetNetworkOwnerOnRemovePrimitive2_Staged": "True;SteadyState;10;30;Revert;2025-11-18T23:26:59",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14551,9 +14552,9 @@
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
         "FFlagTelemetryProtoSerializationForBatch2": "True",
         "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":100},{\"maxsize\":4400,\"reservePct\":0.09,\"reserveMB\":0},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":994},{\"maxsize\":8800,\"reservePct\":0.0,\"reserveMB\":1485}]};SteadyState;10;30;Revert;2025-11-18T23:10:34",
-        "FStringFlagRepoGitHashFastString": "2a4845aaee916eb36029ca5842f2b1ab7c086bf6",
-        "DFStringFlagRepoGitHashDynamicString": "2a4845aaee916eb36029ca5842f2b1ab7c086bf6",
-        "FStringFlipTimeStampFastString": "2025-11-18T23:26:31.435Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T23:26:31.435Z"
+        "FStringFlagRepoGitHashFastString": "af6467ffdc5845f9c6beb104bfec675f5a109c8a",
+        "DFStringFlagRepoGitHashDynamicString": "af6467ffdc5845f9c6beb104bfec675f5a109c8a",
+        "FStringFlipTimeStampFastString": "2025-11-18T23:28:03.921Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T23:28:03.921Z"
     }
 }
