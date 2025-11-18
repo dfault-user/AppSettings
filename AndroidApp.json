@@ -13533,11 +13533,7 @@
         "DFFlagFixFitScalingNegativeOffsets": "True",
         "DFIntClientReplicatorStatsEventsThrottleHP_PlaceFilter": "5000;6269446951;17276564408;15075482336;844929123;17218764178;166986752",
         "FFlagLuaAppNilApportionedItems": "True",
-        "FFlagCleanupMuteSelfButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T23:50:56",
         "FFlagDisableMicRejectedPromiseReject": "True",
-        "FFlagEnableVoiceSelectorTranslations_AEGIS2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T23:52:17",
-        "FFlagLoadFontAssetsFromAllAssetPaths_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T23:52:41",
-        "FFlagAddAEGIS2Analytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T23:55:00",
         "FFlagAddSessionizationToAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T23:55:56",
         "FFlagNewLegacyCapDetection": "True",
         "FFlagFoundationDialogHeroMediaGradientFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;641500893;2025-11-17T23:59:37",
@@ -13549,6 +13545,10 @@
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
         "FFlagUGCValidateAccurateBoundingBoxRasterMethodTopViewFix": "True",
         "FFlagCheckButtonFrameBeforeDestroy": "True",
+        "FFlagCleanupMuteSelfButton": "True",
+        "FFlagEnableVoiceSelectorTranslations_AEGIS2": "True",
+        "FFlagLoadFontAssetsFromAllAssetPaths": "True",
+        "FFlagAddAEGIS2Analytics": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14507,9 +14507,9 @@
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
         "FFlagTelemetryProtoSerializationForBatch2": "True",
-        "FStringFlagRepoGitHashFastString": "e207c3881e0f3917e20e06a4e2fd8120ccc21cb9",
-        "DFStringFlagRepoGitHashDynamicString": "e207c3881e0f3917e20e06a4e2fd8120ccc21cb9",
-        "FStringFlipTimeStampFastString": "2025-11-18T00:51:32.115Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T00:51:32.115Z"
+        "FStringFlagRepoGitHashFastString": "d2e41d6b82a1a9a3c41b685ecacd605d8216bdd2",
+        "DFStringFlagRepoGitHashDynamicString": "d2e41d6b82a1a9a3c41b685ecacd605d8216bdd2",
+        "FStringFlipTimeStampFastString": "2025-11-18T00:56:54.349Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T00:56:54.349Z"
     }
 }
