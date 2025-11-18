@@ -13584,7 +13584,6 @@
         "DFFlagVoiceChatRecordRoomMetricsFromRCC3": "True",
         "DFIntHttpServiceEventReportThrottleHundredthPercent": "50",
         "DFFlagIxpSendExposureSignalImmediately": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagDelayBackgroundDMLocalPlayerLoading_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:26:48",
         "FFlagUserCheckTouchControlMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:33:28",
         "FFlagPlayerSearchEnableOnlineFrequentsForAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:49:52",
@@ -13594,6 +13593,7 @@
         "FFlagAddThumbnailReportToPlayerFeedback": "True",
         "DFFlagReverbLimitMaxRotationAngle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:17:04",
         "FFlagPerformanceControlCreateImGuiOnPlaceStart": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14496,7 +14496,7 @@
         "FFlagCallBackDescriptorsToArray2": "True",
         "FFlagEnableAppSessionStartEnd": "True",
         "FFlagEnableRefactorGoogleAdViewControlsFadeLogic": "True",
-        "FFlagDelayAudioFocusReplication": "True",
+        "FFlagDelayAudioFocusReplication": "False",
         "FFlagIncludePowerSaverMode": "True",
         "FFlagAddPowerSaverStats": "True",
         "FFlagAEGISPhase1UseFAECopyV3": "True",
@@ -14549,11 +14549,10 @@
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
         "FFlagTelemetryProtoSerializationForBatch2": "True",
-        "FFlagDelayAudioFocusReplication_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:24:48",
         "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds_Staged": "40;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:27:54",
-        "FStringFlagRepoGitHashFastString": "88f5b56306bf7c24c4048a4350be3f635ac0f32e",
-        "DFStringFlagRepoGitHashDynamicString": "88f5b56306bf7c24c4048a4350be3f635ac0f32e",
-        "FStringFlipTimeStampFastString": "2025-11-18T22:24:06.401Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:24:06.401Z"
+        "FStringFlagRepoGitHashFastString": "e2a2416aadde9877d78e839640acfc5f27308a61",
+        "DFStringFlagRepoGitHashDynamicString": "e2a2416aadde9877d78e839640acfc5f27308a61",
+        "FStringFlipTimeStampFastString": "2025-11-18T22:27:26.557Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:27:26.557Z"
     }
 }
