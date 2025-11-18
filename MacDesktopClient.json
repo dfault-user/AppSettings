@@ -13584,7 +13584,6 @@
         "DFFlagVoiceChatRecordRoomMetricsFromRCC3": "True",
         "DFIntHttpServiceEventReportThrottleHundredthPercent": "50",
         "DFFlagIxpSendExposureSignalImmediately": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagUserCheckTouchControlMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:33:28",
         "FFlagPlayerSearchEnableOnlineFrequentsForAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:49:52",
@@ -13594,6 +13593,7 @@
         "FFlagAddThumbnailReportToPlayerFeedback": "True",
         "DFFlagReverbLimitMaxRotationAngle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:17:04",
         "FFlagPerformanceControlCreateImGuiOnPlaceStart": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14555,7 +14555,7 @@
         "DFFlagEnableNetStackEphemeralEarlyPubKeyPlayerClientLoading": "True",
         "DFIntNetStackDummyClientConnectResultPointsThrottleHP": "100",
         "DFIntNetStackDummyClientPingStatsThrottleHP": "100",
-        "FFlagDelayAudioFocusReplication": "True",
+        "FFlagDelayAudioFocusReplication": "False",
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
         "FFlagMaxSizeUseCorrectPadding": "True",
         "FFlagEnableNetStackDummyClientVersionCheck": "True",
@@ -14597,11 +14597,10 @@
         "FFlagSlimService19": "True",
         "FFlagMeshManagerAvoidVTableFix": "True",
         "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": "True",
-        "FFlagDelayAudioFocusReplication_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:24:48",
         "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds_Staged": "40;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:27:54",
-        "FStringFlagRepoGitHashFastString": "88f5b56306bf7c24c4048a4350be3f635ac0f32e",
-        "DFStringFlagRepoGitHashDynamicString": "88f5b56306bf7c24c4048a4350be3f635ac0f32e",
-        "FStringFlipTimeStampFastString": "2025-11-18T22:24:06.401Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:24:06.401Z"
+        "FStringFlagRepoGitHashFastString": "e2a2416aadde9877d78e839640acfc5f27308a61",
+        "DFStringFlagRepoGitHashDynamicString": "e2a2416aadde9877d78e839640acfc5f27308a61",
+        "FStringFlipTimeStampFastString": "2025-11-18T22:27:26.557Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:27:26.557Z"
     }
 }
