@@ -13978,7 +13978,7 @@
         "FFlagExperienceAffiliateHomeIntegrationEnabled": "True",
         "FFlagProfilePlatformEnableFriendStatusInQuickLinksEvent": "True",
         "FFlagLuaAppForceWebViewVisibleAfterTimeoutEnabled": "True",
-        "FIntLuaAppChallengeForceWebViewVisibleTimeoutSeconds": "10",
+        "FIntLuaAppChallengeForceWebViewVisibleTimeoutSeconds": "5",
         "DFFlagBatchThumbnailEnableAnyWebP": "True",
         "FFlagAppChatInExpToastSnoozeMenuDismissFix": "True",
         "FFlagAppChatReappearIfClosedByTiltMenu": "False",
@@ -14611,8 +14611,6 @@
         "FFlagLuaAppDataHydrationDataResolverOnClear": "True",
         "FFlagLuaAppDataHydrationFavoritesStore2": "True",
         "FFlagLuaAppDataHydrationFollowingsStore": "True",
-        "FFlagSduiEnableAssociatedItemsRow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:35:39",
-        "FIntLuaAppChallengeForceWebViewVisibleTimeoutSeconds_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;979564661;2025-11-18T21:36:28",
         "FFlagSduiEnableChips_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:41:26",
         "FIntGameVoteThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:49:24",
         "FIntUSER_VOTE_CACHE_TTL_SECONDS_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:50:07",
@@ -14626,9 +14624,10 @@
         "FIntVideoCaptureMaxLongSide_Staged": "9999999;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:04:01",
         "FFlagLuaAppDataHydrationUserVotesStore2": "True",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:39:13",
-        "FStringFlagRepoGitHashFastString": "7bf16b4e443ed23350aaf5b42012a99aa6864877",
-        "DFStringFlagRepoGitHashDynamicString": "7bf16b4e443ed23350aaf5b42012a99aa6864877",
-        "FStringFlipTimeStampFastString": "2025-11-18T22:42:16.913Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:42:16.913Z"
+        "FFlagSduiEnableAssociatedItemsRow": "True",
+        "FStringFlagRepoGitHashFastString": "0bcd7c6d468f35125062c3bbb7bdca1601a7f618",
+        "DFStringFlagRepoGitHashDynamicString": "0bcd7c6d468f35125062c3bbb7bdca1601a7f618",
+        "FStringFlipTimeStampFastString": "2025-11-18T22:44:18.836Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:44:18.836Z"
     }
 }
