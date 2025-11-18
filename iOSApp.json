@@ -2735,7 +2735,7 @@
         "DFStringOpenCloudSupportedMethodNamesCsv": "userNotification,ListInventoryItems,GetUniverse,GetPlace,GetGroup,ListGroupMemberships,GetOperation,GenerateUserThumbnail,TranslateText,GenerateText",
         "DFIntOpenCloudInvokeAsyncPerMinuteThrottle": "150",
         "FFlagDeviceIdUsesAfterFirstUnlockKeychainAccess": "True",
-        "DFFlagHttpCurlFallbackIPv4": "True",
+        "DFFlagHttpCurlFallbackIPv4": "False",
         "DFFlagStreamJobIterationStats": "True",
         "DFFlagFixHumanoidStateTypeNameNullTelemetryCrash": "True",
         "FIntStandardOutputMaximumCharacterLength": "100000",
@@ -13531,7 +13531,6 @@
         "FFlagUseNewRobloxIconInNotifications": "True",
         "DFFlagIASReportNewActionTypes": "True",
         "DFFlagFixFitScalingNegativeOffsets": "True",
-        "DFFlagHttpCurlFallbackIPv4_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T23:30:52",
         "DFIntClientReplicatorStatsEventsThrottleHP_PlaceFilter": "5000;6269446951;17276564408;15075482336;844929123;17218764178;166986752",
         "FFlagCheckButtonFrameBeforeDestroy_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-17T23:40:47",
         "FFlagLuaAppNilApportionedItems": "True",
@@ -14565,9 +14564,9 @@
         "FFlagAXPassScreenSizeToWidgetApi4_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.RFYMigrationV3;1076997365;dev_controlled",
         "FFlagAXPassScreenSizeToWidgetApiLogExposure_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.RFYMigrationV3;1076997365;dev_controlled",
         "FStringAXPassScreenSizeToWidgetApiExposureLayer_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.RFYMigrationV3;1076997365;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "ee70739a0c7f900785c69b2a300f6eb93e5bb5e2",
-        "DFStringFlagRepoGitHashDynamicString": "ee70739a0c7f900785c69b2a300f6eb93e5bb5e2",
-        "FStringFlipTimeStampFastString": "2025-11-18T00:35:44.875Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T00:35:44.875Z"
+        "FStringFlagRepoGitHashFastString": "6e7f0169009010f1f07f14fc1d640346bc8c966d",
+        "DFStringFlagRepoGitHashDynamicString": "6e7f0169009010f1f07f14fc1d640346bc8c966d",
+        "FStringFlipTimeStampFastString": "2025-11-18T00:37:54.448Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T00:37:54.448Z"
     }
 }
