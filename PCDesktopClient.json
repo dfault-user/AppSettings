@@ -13549,8 +13549,6 @@
         "FFlagFoundationDialogHeroMediaGradientFix": "True",
         "FFlagAddSessionizationToAnalytics": "True",
         "FFlagLuauSimplifyRefinementOfReadOnlyProperty": "True",
-        "FFlagSduiGetItemCollectionKeys_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T17:28:10",
-        "FFlagEnableDeferVoiceConnection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T17:30:32",
         "DFFlagGCJobMRFEarlierRemoval_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T17:41:09",
         "FFlagUseConvexDecompV8Format_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T17:46:35",
         "DFIntUnexpectedSetChangeCombinationThrottleHP_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T17:52:26",
@@ -13570,6 +13568,10 @@
         "FFlagCountAcousticSimulationUsageTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:23:59",
         "FFlagRenderParticlesSimulateNonVisible7": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagSduiGetItemCollectionKeys": "True",
+        "FFlagEnableDeferVoiceConnection": "True",
+        "DFFlagSocialCounterpartyManagerPopulateOnChatSignal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1831058373;2025-11-18T18:31:44",
+        "DFFlagSocialCounterpartyManagerReplicateProperty_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1831058373;2025-11-18T18:31:44",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14644,9 +14646,9 @@
         "FFlagMeshManagerAvoidVTableFix": "True",
         "FFlagFixTextNotShowingInBillboard": "True",
         "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "40ff43c97690d55d12ac85cb8cf39f8a9193aea2",
-        "DFStringFlagRepoGitHashDynamicString": "40ff43c97690d55d12ac85cb8cf39f8a9193aea2",
-        "FStringFlipTimeStampFastString": "2025-11-18T18:29:01.335Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T18:29:01.335Z"
+        "FStringFlagRepoGitHashFastString": "8d84f51ba6a768134e8310d4b2c70b2ee7ab890f",
+        "DFStringFlagRepoGitHashDynamicString": "8d84f51ba6a768134e8310d4b2c70b2ee7ab890f",
+        "FStringFlipTimeStampFastString": "2025-11-18T18:33:42.370Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T18:33:42.370Z"
     }
 }
