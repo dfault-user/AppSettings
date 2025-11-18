@@ -13596,6 +13596,7 @@
         "FFlagSlimNoRandomSeedFromPart_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T23:31:41",
         "DFFlagTelemetryServiceAsBridge": "True",
         "FFlagEmitterSharedCurvePool": "True",
+        "DFIntSQLiteFullChkpointMaxReport_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T23:51:58",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14620,7 +14621,6 @@
         "FFlagLuaAppDataHydrationUserVotesStore2": "True",
         "FFlagSduiEnableAssociatedItemsRow": "True",
         "FFlagSduiEnableChips": "True",
-        "FFlagLuaAppDataHydrationPlayerCountGameInfoStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:46:24",
         "FIntGameVoteThrottleHundrethsPercent": "10000",
         "FIntUSER_VOTE_CACHE_TTL_SECONDS": "10",
         "FIntVideoPlaylistSelectionLogic": "6",
@@ -14631,9 +14631,10 @@
         "DFIntRbxStorageMinAvailableSpaceBeforeCleanupThresholdMB_Staged": "200;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T23:16:13",
         "FFlagLuaAppChangeRecommendedGamesTitleLogExposure_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T23:24:16",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData3": "True",
-        "FStringFlagRepoGitHashFastString": "167e8d785234faffd67dc573ae9c567da7d0c3e7",
-        "DFStringFlagRepoGitHashDynamicString": "167e8d785234faffd67dc573ae9c567da7d0c3e7",
-        "FStringFlipTimeStampFastString": "2025-11-18T23:48:43.222Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T23:48:43.222Z"
+        "FFlagLuaAppDataHydrationPlayerCountGameInfoStore": "True",
+        "FStringFlagRepoGitHashFastString": "5a9ef12d52b47957d5656a59ed596be414c6971b",
+        "DFStringFlagRepoGitHashDynamicString": "5a9ef12d52b47957d5656a59ed596be414c6971b",
+        "FStringFlipTimeStampFastString": "2025-11-18T23:53:56.349Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T23:53:56.349Z"
     }
 }
