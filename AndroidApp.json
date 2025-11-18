@@ -13549,6 +13549,9 @@
         "FFlagFoundationDialogHeroMediaGradientFix": "True",
         "FFlagAddSessionizationToAnalytics": "True",
         "FFlagLuauSimplifyRefinementOfReadOnlyProperty": "True",
+        "DFFlagChatReconcileAccess2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;76061020;2025-11-18T17:04:57",
+        "DFFlagChatReconcileAccessRateLimiter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;76061020;2025-11-18T17:04:57",
+        "DFFlagChatReconcileAccessServer2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;76061020;2025-11-18T17:04:57",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14507,9 +14510,9 @@
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
         "FFlagTelemetryProtoSerializationForBatch2": "True",
-        "FStringFlagRepoGitHashFastString": "8469cbf623c6704792cd9c2c18089a5e77ac578b",
-        "DFStringFlagRepoGitHashDynamicString": "8469cbf623c6704792cd9c2c18089a5e77ac578b",
-        "FStringFlipTimeStampFastString": "2025-11-18T17:02:19.826Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T17:02:19.826Z"
+        "FStringFlagRepoGitHashFastString": "8f832c8c3c347bc2a1e6a333051f25d5a192f4c0",
+        "DFStringFlagRepoGitHashDynamicString": "8f832c8c3c347bc2a1e6a333051f25d5a192f4c0",
+        "FStringFlipTimeStampFastString": "2025-11-18T17:07:32.439Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T17:07:32.439Z"
     }
 }
