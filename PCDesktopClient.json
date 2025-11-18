@@ -10951,7 +10951,7 @@
         "FFlagLuaAppEdpFetchLatencyTracking": "True",
         "FFlagEnableDisplaySize9": "True",
         "FFlagRecordCevJoinAttemptIdInObserverSetup": "True",
-        "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds": "25",
+        "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds": "40",
         "FStringFStringTimeoutLoadingLocalPlayerInBackgroundDM": "EnableManualRetry",
         "FFlagLuaAppProcessGameSocialLinks": "True",
         "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure": "True",
@@ -13584,7 +13584,6 @@
         "DFFlagVoiceChatRecordRoomMetricsFromRCC3": "True",
         "DFIntHttpServiceEventReportThrottleHundredthPercent": "50",
         "DFFlagIxpSendExposureSignalImmediately": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagUserCheckTouchControlMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:33:28",
         "FFlagPlayerSearchEnableOnlineFrequentsForAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:49:52",
         "FFlagEmitterSharedCurvePool_Staged": "True;SteadyState;10;30;Revert;2025-11-18T21:56:08",
@@ -13593,6 +13592,8 @@
         "FFlagAddThumbnailReportToPlayerFeedback": "True",
         "DFFlagReverbLimitMaxRotationAngle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:17:04",
         "FFlagPerformanceControlCreateImGuiOnPlaceStart": "True",
+        "DFFlagTelemetryServiceAsBridge_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:30:58",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14666,10 +14667,9 @@
         "DFFlagCLI178587": "True",
         "FFlagMeshManagerAvoidVTableFix": "True",
         "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": "True",
-        "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds_Staged": "40;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:27:54",
-        "FStringFlagRepoGitHashFastString": "e2a2416aadde9877d78e839640acfc5f27308a61",
-        "DFStringFlagRepoGitHashDynamicString": "e2a2416aadde9877d78e839640acfc5f27308a61",
-        "FStringFlipTimeStampFastString": "2025-11-18T22:27:26.557Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:27:26.557Z"
+        "FStringFlagRepoGitHashFastString": "65efe345aad6f20afbdc2fb36a1fb1095b351164",
+        "DFStringFlagRepoGitHashDynamicString": "65efe345aad6f20afbdc2fb36a1fb1095b351164",
+        "FStringFlipTimeStampFastString": "2025-11-18T22:32:44.596Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:32:44.596Z"
     }
 }
