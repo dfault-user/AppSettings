@@ -13584,7 +13584,6 @@
         "DFFlagVoiceChatRecordRoomMetricsFromRCC3": "True",
         "DFIntHttpServiceEventReportThrottleHundredthPercent": "50",
         "DFFlagIxpSendExposureSignalImmediately": "True",
-        "FFlagUserCheckTouchControlMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:33:28",
         "FFlagPlayerSearchEnableOnlineFrequentsForAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:49:52",
         "FFlagEnableNewChatTimeouts2": "True",
         "FFlagEnableNewChatTimeouts3": "True",
@@ -13592,6 +13591,7 @@
         "DFFlagReverbLimitMaxRotationAngle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:17:04",
         "FFlagPerformanceControlCreateImGuiOnPlaceStart": "True",
         "DFFlagTelemetryServiceAsBridge_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:30:58",
+        "FFlagUserCheckTouchControlMode": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15474,9 +15474,9 @@
         "FFlagLuauPushTypeConstraintIndexer": "True",
         "DFFlagTriangleMeshPartMigrationOnlyMigratedTelemetry": "True",
         "FFlagSimHumanoidCanCollideHashMap": "True",
-        "FFlagLuauNormalizationPreservesAny_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:33:24",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:49:19",
         "FFlagFixRibbonOutdatedUseControls_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:29:21",
+        "FFlagLuauNormalizationPreservesAny": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15982,9 +15982,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "c32d185d02cad74dc2f82791cea6997e7b05a169",
-        "DFStringFlagRepoGitHashDynamicString": "c32d185d02cad74dc2f82791cea6997e7b05a169",
-        "FStringFlipTimeStampFastString": "2025-11-18T22:33:56.973Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:33:56.973Z"
+        "FStringFlagRepoGitHashFastString": "619d89a77cf533d384c4d5e7efb249db22247424",
+        "DFStringFlagRepoGitHashDynamicString": "619d89a77cf533d384c4d5e7efb249db22247424",
+        "FStringFlipTimeStampFastString": "2025-11-18T22:38:51.512Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:38:51.512Z"
     }
 }
