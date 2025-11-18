@@ -13554,8 +13554,6 @@
         "DFFlagChatReconcileAccessServer2": "True",
         "FFlagSimCSGLargeAssetSolidMesh16": "True",
         "DFFlagMicroprofilerShowFrameRangeOnGraph": "True",
-        "FFlagUpdateVoiceConnectionToasts_AEGIS2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:14:10",
-        "DFFlagXboxDeeplinkAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:14:51",
         "FFlagGlyphRenderErrorChecking": "True",
         "FFlagEnableVoiceVrVoiceConnectDisconnect_AEGIS2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:21:03",
         "FFlagLuauUseNativeStackGuard": "True",
@@ -13582,6 +13580,8 @@
         "AllowVideoPreRoll": "True",
         "FFlagVoiceChatClientRebootOperationEnabled2": "True",
         "FFlagEnableInitialJoinVoiceButton": "True",
+        "FFlagUpdateVoiceConnectionToasts_AEGIS2": "True",
+        "DFFlagXboxDeeplinkAnalytics": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15967,9 +15967,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "6d20854a01dd396afacd24ded473f67458ec2a61",
-        "DFStringFlagRepoGitHashDynamicString": "6d20854a01dd396afacd24ded473f67458ec2a61",
-        "FStringFlipTimeStampFastString": "2025-11-18T19:17:31.005Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T19:17:31.005Z"
+        "FStringFlagRepoGitHashFastString": "ea6978806b211fb8d0bd0024208eef0303e44bf5",
+        "DFStringFlagRepoGitHashDynamicString": "ea6978806b211fb8d0bd0024208eef0303e44bf5",
+        "FStringFlipTimeStampFastString": "2025-11-18T19:17:56.169Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T19:17:56.169Z"
     }
 }
