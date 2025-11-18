@@ -13584,7 +13584,6 @@
         "DFFlagVoiceChatRecordRoomMetricsFromRCC3": "True",
         "DFIntHttpServiceEventReportThrottleHundredthPercent": "50",
         "DFFlagIxpSendExposureSignalImmediately": "True",
-        "FFlagPerformanceControlCreateImGuiOnPlaceStart_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:16:52",
         "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds_Staged": "40;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:23:35",
         "FFlagDelayBackgroundDMLocalPlayerLoading_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:26:48",
         "FFlagUserCheckTouchControlMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:33:28",
@@ -13594,6 +13593,7 @@
         "FFlagEnableNewChatTimeouts3": "True",
         "FFlagAddThumbnailReportToPlayerFeedback": "True",
         "DFFlagReverbLimitMaxRotationAngle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:17:04",
+        "FFlagPerformanceControlCreateImGuiOnPlaceStart": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13966,9 +13966,9 @@
         "FFlagUnibarMenuOpenHamburgerGamepadIXP684_IXP": "1;Experience.Menu;Unibar.InExperience.Controls.ConsoleV4;1272844578;flagbank",
         "FFlagAddFriendsIgnoreAllRefactor": "True",
         "DFFlagRbxStorageReportVersion": "True",
-        "FStringFlagRepoGitHashFastString": "3cb4035f4cab05fcb1749e169d2cc368db9e32ed",
-        "DFStringFlagRepoGitHashDynamicString": "3cb4035f4cab05fcb1749e169d2cc368db9e32ed",
-        "FStringFlipTimeStampFastString": "2025-11-18T22:18:33.470Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:18:33.470Z"
+        "FStringFlagRepoGitHashFastString": "88f5b56306bf7c24c4048a4350be3f635ac0f32e",
+        "DFStringFlagRepoGitHashDynamicString": "88f5b56306bf7c24c4048a4350be3f635ac0f32e",
+        "FStringFlipTimeStampFastString": "2025-11-18T22:24:06.401Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:24:06.401Z"
     }
 }
