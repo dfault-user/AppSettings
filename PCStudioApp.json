@@ -13154,7 +13154,7 @@
         "FFlagAXExpandPeekViewOnFirstScrollExposureLogging_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
         "FFlagAXHideMenuOnScroll1_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
         "DFFlagCrashOnMigrateWithoutWriteLock": "True",
-        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "100000",
+        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "10000",
         "FFlagReportTextureStreamingTelemetry5": "True",
         "FFlagShadowMapTextureUvOffset": "True",
         "DFIntRenderTextureMaxRetries": "0",
@@ -13584,7 +13584,6 @@
         "DFFlagVoiceChatRecordRoomMetricsFromRCC3": "True",
         "DFIntHttpServiceEventReportThrottleHundredthPercent": "50",
         "DFFlagIxpSendExposureSignalImmediately": "True",
-        "FFlagPlayerSearchEnableOnlineFrequentsForAll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:49:52",
         "FFlagEnableNewChatTimeouts2": "True",
         "FFlagEnableNewChatTimeouts3": "True",
         "FFlagAddThumbnailReportToPlayerFeedback": "True",
@@ -15475,7 +15474,6 @@
         "FFlagLuauPushTypeConstraintIndexer": "True",
         "DFFlagTriangleMeshPartMigrationOnlyMigratedTelemetry": "True",
         "FFlagSimHumanoidCanCollideHashMap": "True",
-        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:49:19",
         "FFlagFixRibbonOutdatedUseControls_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:29:21",
         "FFlagLuauNormalizationPreservesAny": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -15986,9 +15984,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "2da83d12b832a88422e0976d0c78fefa01eb2b5b",
-        "DFStringFlagRepoGitHashDynamicString": "2da83d12b832a88422e0976d0c78fefa01eb2b5b",
-        "FStringFlipTimeStampFastString": "2025-11-18T22:48:33.623Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:48:33.623Z"
+        "FStringFlagRepoGitHashFastString": "d7c13a2c538c9d789b3107bf93c8ee737a1c981a",
+        "DFStringFlagRepoGitHashDynamicString": "d7c13a2c538c9d789b3107bf93c8ee737a1c981a",
+        "FStringFlipTimeStampFastString": "2025-11-18T22:52:04.568Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:52:04.568Z"
     }
 }
