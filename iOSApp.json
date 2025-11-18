@@ -13577,6 +13577,9 @@
         "DFFlagFetchAndWriteFlagsAfterSuccessfulCachedFlagsLoad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:49:20",
         "DFFlagInitTombstoneAfterBlockingFetch3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:49:57",
         "FFlagUseConvexDecompV8Format": "True",
+        "DFFlagSendFlagCacheLoadTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:51:15",
+        "DFFlagStartupRobloxTelemetryFlagCacheUtils_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:51:54",
+        "DFFlagWriteFlagCacheAfterFlagFetch2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:53:07",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14595,9 +14598,9 @@
         "FFlagFixFlyoutPremiumContext": "True",
         "FFlagLuaAppExperienceDetailsLayoutOrderConfig2": "True",
         "FFlagEnableFlyoutIxp5": "True",
-        "FStringFlagRepoGitHashFastString": "393aba006bd3d0b582869abc1f58b1772b8fc592",
-        "DFStringFlagRepoGitHashDynamicString": "393aba006bd3d0b582869abc1f58b1772b8fc592",
-        "FStringFlipTimeStampFastString": "2025-11-18T18:54:00.296Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T18:54:00.296Z"
+        "FStringFlagRepoGitHashFastString": "45421fd289aeb08ba7f8be6ea32a64fca223c375",
+        "DFStringFlagRepoGitHashDynamicString": "45421fd289aeb08ba7f8be6ea32a64fca223c375",
+        "FStringFlipTimeStampFastString": "2025-11-18T18:55:39.994Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T18:55:39.994Z"
     }
 }
