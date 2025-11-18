@@ -13595,6 +13595,7 @@
         "DFIntWrapDeformerEventHundredthsPercentage_Staged": "20;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;23609967;2025-11-18T23:19:50",
         "DFFlagReverbLimitMaxRotationAngle": "True",
         "DFFlagResetNetworkOwnerOnRemovePrimitive2_Staged": "True;SteadyState;10;30;Revert;2025-11-18T23:26:59",
+        "FFlagSlimNoRandomSeedFromPart_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T23:31:41",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15477,8 +15478,8 @@
         "FFlagLuauPushTypeConstraintIndexer": "True",
         "DFFlagTriangleMeshPartMigrationOnlyMigratedTelemetry": "True",
         "FFlagSimHumanoidCanCollideHashMap": "True",
-        "FFlagFixRibbonOutdatedUseControls_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:29:21",
         "FFlagLuauNormalizationPreservesAny": "True",
+        "FFlagFixRibbonOutdatedUseControls": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -15960,9 +15961,9 @@
         "FFlagAeroNormalizeLBFGSLoss": "True",
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
-        "FStringFlagRepoGitHashFastString": "af6467ffdc5845f9c6beb104bfec675f5a109c8a",
-        "DFStringFlagRepoGitHashDynamicString": "af6467ffdc5845f9c6beb104bfec675f5a109c8a",
-        "FStringFlipTimeStampFastString": "2025-11-18T23:28:03.921Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T23:28:03.921Z"
+        "FStringFlagRepoGitHashFastString": "fbfb6e62929cadeb2a6c655ade0ce9cdf667470e",
+        "DFStringFlagRepoGitHashDynamicString": "fbfb6e62929cadeb2a6c655ade0ce9cdf667470e",
+        "FStringFlipTimeStampFastString": "2025-11-18T23:33:41.632Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T23:33:41.632Z"
     }
 }
