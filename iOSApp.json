@@ -14623,9 +14623,12 @@
         "FIntGameVoteThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:49:24",
         "FIntUSER_VOTE_CACHE_TTL_SECONDS_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:50:07",
         "FIntVideoPlaylistSelectionLogic_Staged": "6;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T21:55:10",
-        "FStringFlagRepoGitHashFastString": "833d0730c65f0b603f5ed2aed6e64c9b3213994b",
-        "DFStringFlagRepoGitHashDynamicString": "833d0730c65f0b603f5ed2aed6e64c9b3213994b",
-        "FStringFlipTimeStampFastString": "2025-11-18T21:58:19.601Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T21:58:19.601Z"
+        "FIntVideoCaptureMaxShortSide_Staged": "9999999;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:00:35",
+        "FIntVideoCaptureMaxShortSideLowMem_Staged": "720;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:00:42",
+        "FIntVideoCaptureMaxLongSideLowMem_Staged": "1280;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:00:44",
+        "FStringFlagRepoGitHashFastString": "cf9f2d0c18024b63ea0d269bbb4b2ff7617dc2b2",
+        "DFStringFlagRepoGitHashDynamicString": "cf9f2d0c18024b63ea0d269bbb4b2ff7617dc2b2",
+        "FStringFlipTimeStampFastString": "2025-11-18T22:03:48.648Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T22:03:48.648Z"
     }
 }
