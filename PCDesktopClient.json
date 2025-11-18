@@ -13559,8 +13559,6 @@
         "FFlagRenderParticlesSimulateNonVisible7": "True",
         "FFlagSduiGetItemCollectionKeys": "True",
         "FFlagEnableDeferVoiceConnection": "True",
-        "FFlagEnableConsoleJoinVoiceTranslation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:35:49",
-        "DFFlagCLI175686_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:40:00",
         "DFFlagGCJobMRFEarlierRemoval": "True",
         "AllowVideoPreRoll": "True",
         "DFFlagFetchAndWriteFlagsAfterSuccessfulCachedFlagsLoad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:49:20",
@@ -13583,6 +13581,8 @@
         "DFFlagSocialCounterpartyManagerPopulateOnChatSignal": "True",
         "DFFlagSocialCounterpartyManagerReplicateProperty": "True",
         "FFlagCollab7848SupportHistoryWaypoints_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T19:38:16",
+        "FFlagEnableConsoleJoinVoiceTranslation": "True",
+        "DFFlagCLI175686": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14656,9 +14656,9 @@
         "FFlagMeshManagerAvoidVTableFix": "True",
         "FFlagFixTextNotShowingInBillboard": "True",
         "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "69c204499f880acf81a7e692572299147d304eaa",
-        "DFStringFlagRepoGitHashDynamicString": "69c204499f880acf81a7e692572299147d304eaa",
-        "FStringFlipTimeStampFastString": "2025-11-18T19:40:52.950Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T19:40:52.950Z"
+        "FStringFlagRepoGitHashFastString": "427f9802c9fa1e31c5fff80354f4e2cadb676336",
+        "DFStringFlagRepoGitHashDynamicString": "427f9802c9fa1e31c5fff80354f4e2cadb676336",
+        "FStringFlipTimeStampFastString": "2025-11-18T19:43:32.742Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T19:43:32.742Z"
     }
 }
