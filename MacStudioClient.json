@@ -13556,6 +13556,7 @@
         "DFFlagMicroprofilerShowFrameRangeOnGraph_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T17:09:38",
         "AllowVideoPreRoll": "True",
         "FFlagLuauUseNativeStackGuard_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T17:17:47",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -15434,7 +15435,6 @@
         "DFIntMigrateTriangleMeshPartTestScale": "100000",
         "DFIntMigrateTriangleMeshPartTestScaleOnEachPart": "100",
         "FFlagExplorerFieldColumns": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15917,9 +15917,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagUseConvexDecompV8Format": "True",
-        "FStringFlagRepoGitHashFastString": "7582ce77db25cdc735eb513adcf1ed7be50acde1",
-        "DFStringFlagRepoGitHashDynamicString": "7582ce77db25cdc735eb513adcf1ed7be50acde1",
-        "FStringFlipTimeStampFastString": "2025-11-18T17:18:55.188Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T17:18:55.188Z"
+        "FStringFlagRepoGitHashFastString": "63994032c5d3c3ff8a33f1f3e4889f7c10011be2",
+        "DFStringFlagRepoGitHashDynamicString": "63994032c5d3c3ff8a33f1f3e4889f7c10011be2",
+        "FStringFlipTimeStampFastString": "2025-11-18T17:26:03.754Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T17:26:03.754Z"
     }
 }
