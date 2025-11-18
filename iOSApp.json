@@ -13572,6 +13572,7 @@
         "FFlagEnableDeferVoiceConnection": "True",
         "DFFlagSocialCounterpartyManagerPopulateOnChatSignal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1831058373;2025-11-18T18:31:44",
         "DFFlagSocialCounterpartyManagerReplicateProperty_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1831058373;2025-11-18T18:31:44",
+        "FFlagEnableConsoleJoinVoiceTranslation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:35:49",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14586,15 +14587,15 @@
         "FFlagAXPassScreenSizeToWidgetApi4_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.RFYMigrationV3;1076997365;dev_controlled",
         "FFlagAXPassScreenSizeToWidgetApiLogExposure_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.RFYMigrationV3;1076997365;dev_controlled",
         "FStringAXPassScreenSizeToWidgetApiExposureLayer_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.RFYMigrationV3;1076997365;dev_controlled",
-        "FFlagFixFlyoutPremiumContext_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;525316733;2025-11-18T17:33:32",
         "FFlagLuaAppExperienceDetailsLayoutOrderConfig2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T17:35:35",
         "FFlagEnableFlyoutIxp5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1214649965;2025-11-18T17:36:51",
         "FFlagAXCatalogCategoriesStore6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:02:17",
         "FFlagLuaAppDataHydrationDataCacheReplaceItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:02:39",
         "FFlagAXUseNewChevronIcon": "True",
-        "FStringFlagRepoGitHashFastString": "8d84f51ba6a768134e8310d4b2c70b2ee7ab890f",
-        "DFStringFlagRepoGitHashDynamicString": "8d84f51ba6a768134e8310d4b2c70b2ee7ab890f",
-        "FStringFlipTimeStampFastString": "2025-11-18T18:33:42.370Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T18:33:42.370Z"
+        "FFlagFixFlyoutPremiumContext": "True",
+        "FStringFlagRepoGitHashFastString": "37fd9bb85f41a03ead1137e45416a3838327dc7d",
+        "DFStringFlagRepoGitHashDynamicString": "37fd9bb85f41a03ead1137e45416a3838327dc7d",
+        "FStringFlipTimeStampFastString": "2025-11-18T18:39:32.277Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T18:39:32.277Z"
     }
 }
