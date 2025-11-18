@@ -13201,8 +13201,8 @@
         "FFlagLuaAppGamepadHoldToast2": "True",
         "DFFlagAnimationPoseBugFixes": "True",
         "FFlagTrackCrashpadInitFailureInSessionTracking": "True",
-        "FIntVideoCaptureMaxLongSideLowMem": "854",
-        "FIntVideoCaptureMaxShortSideLowMem": "480",
+        "FIntVideoCaptureMaxLongSideLowMem": "1280",
+        "FIntVideoCaptureMaxShortSideLowMem": "720",
         "FFlagRobloxTelemetryEnableSenderCallback": "True",
         "FFlagEncodingServiceEnabled": "True",
         "FFlagQueryInstancesEnabled": "True",
@@ -14611,12 +14611,9 @@
         "FFlagLuaAppDataHydrationDataResolverOnClear": "True",
         "FFlagLuaAppDataHydrationFavoritesStore2": "True",
         "FFlagLuaAppDataHydrationFollowingsStore": "True",
-        "FIntVideoCaptureMaxShortSideLowMem_Staged": "720;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:00:42",
-        "FIntVideoCaptureMaxLongSideLowMem_Staged": "1280;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:00:44",
         "FFlagLuaAppDataHydrationSupportsMultiGet": "True",
         "FFlagLuaAppDataHydrationUpdateItem": "True",
         "FFlagLuaAppDataHydrationUserVoteFeedbackMetadataStore": "True",
-        "FIntVideoCaptureMaxLongSide_Staged": "9999999;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:04:01",
         "FFlagLuaAppDataHydrationUserVotesStore2": "True",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T22:39:13",
         "FFlagSduiEnableAssociatedItemsRow": "True",
@@ -14626,9 +14623,10 @@
         "FIntUSER_VOTE_CACHE_TTL_SECONDS": "10",
         "FIntVideoPlaylistSelectionLogic": "6",
         "FIntVideoCaptureMaxShortSide": "9999999",
-        "FStringFlagRepoGitHashFastString": "d19187578f4b06fd2477be93c114590e30d607c9",
-        "DFStringFlagRepoGitHashDynamicString": "d19187578f4b06fd2477be93c114590e30d607c9",
-        "FStringFlipTimeStampFastString": "2025-11-18T23:07:29.295Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T23:07:29.295Z"
+        "FIntVideoCaptureMaxLongSide": "9999999",
+        "FStringFlagRepoGitHashFastString": "91daf3a47e662cf021a90e6318cf26e5458e995b",
+        "DFStringFlagRepoGitHashDynamicString": "91daf3a47e662cf021a90e6318cf26e5458e995b",
+        "FStringFlipTimeStampFastString": "2025-11-18T23:09:40.165Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T23:09:40.165Z"
     }
 }
