@@ -13576,6 +13576,7 @@
         "DFFlagGCJobMRFEarlierRemoval": "True",
         "AllowVideoPreRoll": "True",
         "DFFlagFetchAndWriteFlagsAfterSuccessfulCachedFlagsLoad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:49:20",
+        "DFFlagInitTombstoneAfterBlockingFetch3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T18:49:57",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14648,9 +14649,9 @@
         "FFlagMeshManagerAvoidVTableFix": "True",
         "FFlagFixTextNotShowingInBillboard": "True",
         "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "fd3f8bd357f885334d7a9b85580b7705bc23b365",
-        "DFStringFlagRepoGitHashDynamicString": "fd3f8bd357f885334d7a9b85580b7705bc23b365",
-        "FStringFlipTimeStampFastString": "2025-11-18T18:51:29.647Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-18T18:51:29.647Z"
+        "FStringFlagRepoGitHashFastString": "67b4488d12f60c1e025956db3567b22dc71e053c",
+        "DFStringFlagRepoGitHashDynamicString": "67b4488d12f60c1e025956db3567b22dc71e053c",
+        "FStringFlipTimeStampFastString": "2025-11-18T18:51:57.589Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-18T18:51:57.589Z"
     }
 }
