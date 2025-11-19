@@ -13592,7 +13592,6 @@
         "DFFlagReverbLimitMaxRotationAngle": "True",
         "DFFlagTelemetryServiceAsBridge": "True",
         "FFlagEmitterSharedCurvePool": "True",
-        "AxisAdornmentGrabSize": "12",
         "FFlagAXSendSessionForEvents": "True",
         "FFlagBlockLoadWhenAdIsPlaying_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:01:31",
         "FFlagAXFixConsoleTitleDropdownMissing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:08:35",
@@ -13601,6 +13600,8 @@
         "FFlagSlimNoRandomSeedFromPart": "True",
         "FFlagUsePresenceDataFromRtn_IXP": "1;Social.Presence.Frontend;Social.Presence.BackendOnlineFriendsSort.M1.V2;225515523;flagbank",
         "FFlagEnableCreatePartyNudge_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:46:59",
+        "DFIntSQLiteFullChkpointMaxReport": "3",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -14385,7 +14386,6 @@
         "FFlagAndroidScreenDensityManufacturerFilterEnabled": "True",
         "FStringAndroidScreenDensityManufacturerFilter": "HUAWEI",
         "SetFastFollowTelemetryThrottle100HundredthsPercent": "True",
-        "DFIntSQLiteFullChkpointMaxReport": "3",
         "FFlagEnableCacheDirSizeTelemetry": "True",
         "FIntEnableCacheDirSizeTelemetryHundredthPercent": "10",
         "DFIntCacheDirSizeThrottleHundredthsPercent": "10000",
@@ -14556,9 +14556,10 @@
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
         "FFlagTelemetryProtoSerializationForBatch2": "True",
         "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":100},{\"maxsize\":4400,\"reservePct\":0.09,\"reserveMB\":0},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":994},{\"maxsize\":8800,\"reservePct\":0.0,\"reserveMB\":1485}]};SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:00:53",
-        "FStringFlagRepoGitHashFastString": "5d3c6c6a9272c0b8058c3404f1b163143a92a50b",
-        "DFStringFlagRepoGitHashDynamicString": "5d3c6c6a9272c0b8058c3404f1b163143a92a50b",
-        "FStringFlipTimeStampFastString": "2025-11-19T00:49:20.339Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-19T00:49:20.339Z"
+        "FIntVideoPlaylistSelectionLogic_Staged": "7;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:55:45",
+        "FStringFlagRepoGitHashFastString": "17406f9a7900751086081ec3f16e6899efb8668b",
+        "DFStringFlagRepoGitHashDynamicString": "17406f9a7900751086081ec3f16e6899efb8668b",
+        "FStringFlipTimeStampFastString": "2025-11-19T01:02:42.796Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-19T01:02:42.796Z"
     }
 }
