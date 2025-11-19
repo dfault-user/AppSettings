@@ -10905,7 +10905,7 @@
         "FFlagUseRuntimeMutexMemoryCategoriesFacet": "True",
         "DFFlagSafetyRCCTelemetryJobId": "True",
         "FFlagStyleEditorFixWarnings": "True",
-        "FFlagEnableCreatePartyNudge": "True",
+        "FFlagEnableCreatePartyNudge": "False",
         "FFlagVisualizationModesAddContextStack": "True",
         "FFlagSafetyRCCTelemetrySafer": "True",
         "FFlagUseRuntimeMutexNetworkSecurityChannel": "True",
@@ -13595,7 +13595,6 @@
         "FFlagAXSendSessionForEvents": "True",
         "FFlagSlimNoRandomSeedFromPart": "True",
         "FFlagUsePresenceDataFromRtn_IXP": "1;Social.Presence.Frontend;Social.Presence.BackendOnlineFriendsSort.M1.V2;225515523;flagbank",
-        "FFlagEnableCreatePartyNudge_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:46:59",
         "DFIntSQLiteFullChkpointMaxReport": "3",
         "FFlagBlockLoadWhenAdIsPlaying": "True",
         "DFFlagEnableAdsLifecycleErrorEvent": "True",
@@ -15929,8 +15928,8 @@
         "FFlagAXMISExposureLogging_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.MultiItemShoppingDesktopOnly;2142854400;dev_controlled",
         "FFlagLuaAppChangeRecommendedGamesTitleLogExposure": "True",
         "DFIntSQLiteBusyChkpointMaxReport": "0",
-        "DFFlagUseTranslationDisplayModeAsAbTestIdentifier_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:46:54",
         "FFlagLuaAppEnableWhyThisAdModal": "True",
+        "DFFlagUseTranslationDisplayModeAsAbTestIdentifier": "True",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -15969,9 +15968,9 @@
         "FFlagAeroNormalizeLBFGSLoss": "True",
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
-        "FStringFlagRepoGitHashFastString": "646797d114e7005eee3cd397540dedad4b7e0014",
-        "DFStringFlagRepoGitHashDynamicString": "646797d114e7005eee3cd397540dedad4b7e0014",
-        "FStringFlipTimeStampFastString": "2025-11-19T01:47:00.654Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-19T01:47:00.654Z"
+        "FStringFlagRepoGitHashFastString": "e8e9cff372e79ae26724a3498601100b25710cd8",
+        "DFStringFlagRepoGitHashDynamicString": "e8e9cff372e79ae26724a3498601100b25710cd8",
+        "FStringFlipTimeStampFastString": "2025-11-19T01:51:35.826Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-19T01:51:35.826Z"
     }
 }
