@@ -13613,7 +13613,6 @@
         "FFlagAXMigrateReportAvatarEventCounter2": "True",
         "FFlagUseNewDiscoverabilityModal_v2": "True",
         "FFlagUseTextureTranscoderClientConfig": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagRelativeSkinningTransferEnabled3": "True",
         "FFlagRemoveDeprecatedValidationChecks": "True",
         "FFlagUGCValidationEyebrowEyelashSupport": "True",
@@ -13622,6 +13621,8 @@
         "DFIntWrapDeformerEventHundredthsPercentage_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;23609967;2025-11-19T21:09:54",
         "FFlagSongDetailsPageDesignPass_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T21:31:29",
         "FFlagStopBubbleChatReactWarning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;349345942;2025-11-19T21:51:01",
+        "FFlagAudioPlayerFixAudioNeverPlaying": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14547,7 +14548,6 @@
         "DFIntFacialAgeEstimationFlowTelemetryThrottle": "10000",
         "FFlagLuaAppEdpVideoFrameCleanupWrapper": "True",
         "FFlagEnableNotificationTypeInNotificationsOSSettingsEvent": "True",
-        "FFlagAudioPlayerFixAudioNeverPlaying": "True",
         "FFlagAXFixBulkPurchaseFreeItems": "True",
         "FFlagAXPurchaseFromQuantityFirst": "True",
         "FFlagAXMISEnableMultiShopping10_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.MultiItemShopping1;2081473037;dev_controlled",
@@ -14653,11 +14653,11 @@
         "FFlagLuaAppEnableWhyThisAdModal": "True",
         "FFlagFoundationUseAlphaCompositingForStateLayer": "True",
         "FFlagLuaAppSduiExperienceDetailsComponents2": "True",
-        "FFlagLuaAppEdpBackendV2SduiInterleaveIxp3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T20:47:10",
         "FFlagLuaAppAddVideoBlockingToEventStream_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T21:41:40",
-        "FStringFlagRepoGitHashFastString": "1ec1d226d19ba036c0d9801c853ddb606856672b",
-        "DFStringFlagRepoGitHashDynamicString": "1ec1d226d19ba036c0d9801c853ddb606856672b",
-        "FStringFlipTimeStampFastString": "2025-11-19T21:53:54.734Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-19T21:53:54.734Z"
+        "FFlagLuaAppEdpBackendV2SduiInterleaveIxp3": "True",
+        "FStringFlagRepoGitHashFastString": "b29dc2f9f0971d53435d732651db9546d9ef463a",
+        "DFStringFlagRepoGitHashDynamicString": "b29dc2f9f0971d53435d732651db9546d9ef463a",
+        "FStringFlipTimeStampFastString": "2025-11-19T21:55:52.457Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-19T21:55:52.457Z"
     }
 }
