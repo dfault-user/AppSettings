@@ -13600,7 +13600,6 @@
         "DFFlagEnableAdsLifecycleErrorEvent": "True",
         "FFlagAXFixConsoleTitleDropdownMissing": "True",
         "FFlagFixExperienceDetailsNavigation": "True",
-        "FFlagSetUniverseWithPlaceAndDC2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T18:06:57",
         "FFlagEnableAdsLifecycleManager2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T18:15:40",
         "DFFlagStartupRobloxTelemetryFlagCacheUtils_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T18:16:27",
         "FFlagCrossPlayUseAppLifecycleObserver": "True",
@@ -13613,6 +13612,9 @@
         "FFlagAXMigrateReportAvatarEventCounter2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T18:50:31",
         "FFlagEnableRefactorGoogleAdViewControlsFadeLogic": "True",
         "FFlagStyleEditorPluginStyleSheets2": "True",
+        "FFlagUseNewDiscoverabilityModal_v2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1266679527;2025-11-19T19:10:19",
+        "DFFlagSQLiteCacheReportSizeMismatch_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T19:10:59",
+        "FFlagSetUniverseWithPlaceAndDC2": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -13912,9 +13914,9 @@
         "FFlagFixWindowDragError": "True",
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
-        "FStringFlagRepoGitHashFastString": "723a81f2b539e9bc5a8c818082d7aed2150aadc7",
-        "DFStringFlagRepoGitHashDynamicString": "723a81f2b539e9bc5a8c818082d7aed2150aadc7",
-        "FStringFlipTimeStampFastString": "2025-11-19T19:08:26.116Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-19T19:08:26.116Z"
+        "FStringFlagRepoGitHashFastString": "7667cbfd4cbcf57e64243c8d628fb884d8f65b71",
+        "DFStringFlagRepoGitHashDynamicString": "7667cbfd4cbcf57e64243c8d628fb884d8f65b71",
+        "FStringFlipTimeStampFastString": "2025-11-19T19:14:33.424Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-19T19:14:33.424Z"
     }
 }

@@ -13600,7 +13600,6 @@
         "DFFlagEnableAdsLifecycleErrorEvent": "True",
         "FFlagAXFixConsoleTitleDropdownMissing": "True",
         "FFlagFixExperienceDetailsNavigation": "True",
-        "FFlagSetUniverseWithPlaceAndDC2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T18:06:57",
         "FFlagEnableAdsLifecycleManager2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T18:15:40",
         "DFFlagStartupRobloxTelemetryFlagCacheUtils_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T18:16:27",
         "FFlagCrossPlayUseAppLifecycleObserver": "True",
@@ -13614,6 +13613,8 @@
         "FFlagEnableRefactorGoogleAdViewControlsFadeLogic": "True",
         "FFlagStyleEditorPluginStyleSheets2": "True",
         "FFlagUseNewDiscoverabilityModal_v2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1266679527;2025-11-19T19:10:19",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagSetUniverseWithPlaceAndDC2": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -15500,7 +15501,6 @@
         "FFlagImprovedStrokesBetaFeature_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;94620851;2025-11-19T18:36:16",
         "FFlagAmrNewFilterTypes4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T18:54:00",
         "FFlagSlimProfileTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T19:00:59",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -16009,9 +16009,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "ec8a438f71b8574b5bc8d9eb3772a385adfa64c0",
-        "DFStringFlagRepoGitHashDynamicString": "ec8a438f71b8574b5bc8d9eb3772a385adfa64c0",
-        "FStringFlipTimeStampFastString": "2025-11-19T19:12:09.689Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-19T19:12:09.689Z"
+        "FStringFlagRepoGitHashFastString": "7667cbfd4cbcf57e64243c8d628fb884d8f65b71",
+        "DFStringFlagRepoGitHashDynamicString": "7667cbfd4cbcf57e64243c8d628fb884d8f65b71",
+        "FStringFlipTimeStampFastString": "2025-11-19T19:14:33.424Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-19T19:14:33.424Z"
     }
 }
