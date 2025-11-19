@@ -13593,7 +13593,6 @@
         "DFFlagTelemetryServiceAsBridge": "True",
         "FFlagEmitterSharedCurvePool": "True",
         "FFlagAXSendSessionForEvents": "True",
-        "FFlagFixExperienceDetailsNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:25:44",
         "FFlagSlimNoRandomSeedFromPart": "True",
         "FFlagUsePresenceDataFromRtn_IXP": "1;Social.Presence.Frontend;Social.Presence.BackendOnlineFriendsSort.M1.V2;225515523;flagbank",
         "FFlagEnableCreatePartyNudge_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:46:59",
@@ -13601,6 +13600,7 @@
         "FFlagBlockLoadWhenAdIsPlaying": "True",
         "DFFlagEnableAdsLifecycleErrorEvent": "True",
         "FFlagAXFixConsoleTitleDropdownMissing": "True",
+        "FFlagFixExperienceDetailsNavigation": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15970,9 +15970,9 @@
         "FFlagAeroNormalizeLBFGSLoss": "True",
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
-        "FStringFlagRepoGitHashFastString": "4a701f1f1a59e66ed7c67227fb022766ed8354c8",
-        "DFStringFlagRepoGitHashDynamicString": "4a701f1f1a59e66ed7c67227fb022766ed8354c8",
-        "FStringFlipTimeStampFastString": "2025-11-19T01:13:22.170Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-19T01:13:22.170Z"
+        "FStringFlagRepoGitHashFastString": "85a8140140ad42203491b87a4f8bc1b4525c0ea7",
+        "DFStringFlagRepoGitHashDynamicString": "85a8140140ad42203491b87a4f8bc1b4525c0ea7",
+        "FStringFlipTimeStampFastString": "2025-11-19T01:33:36.539Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-19T01:33:36.539Z"
     }
 }
