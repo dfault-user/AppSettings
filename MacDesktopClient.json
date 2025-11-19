@@ -13536,7 +13536,7 @@
         "FFlagDisableMicRejectedPromiseReject": "True",
         "FFlagNewLegacyCapDetection": "True",
         "DFIntSQLiteDiskFullCleanMB": "64",
-        "DFIntWrapDeformerEventHundredthsPercentage": "20",
+        "DFIntWrapDeformerEventHundredthsPercentage": "1000",
         "FFlagVoiceStopRecordingImmediatelyDuringShutdown": "True",
         "DFFlagNewReflectionService": "True",
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
@@ -13600,7 +13600,6 @@
         "DFFlagEnableAdsLifecycleErrorEvent": "True",
         "FFlagAXFixConsoleTitleDropdownMissing": "True",
         "FFlagFixExperienceDetailsNavigation": "True",
-        "DFIntWrapDeformerEventHundredthsPercentage_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;23609967;2025-11-19T17:40:23",
         "DFFlagInitTombstoneAfterBlockingFetch3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T17:41:57",
         "DFFlagWriteFlagCacheAfterFlagFetch2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T17:42:34",
         "FFlagPassThemeToAppStyleProviderSettingsHub_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1166292571;2025-11-19T17:42:43",
@@ -13612,9 +13611,9 @@
         "FFlagCrossPlayUseAppLifecycleObserver": "True",
         "FFlagEnableAdCtaUseNewTouchListener_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T18:27:32",
         "FFlagAEGISFixUpsellOverlayTextCutoff": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14623,9 +14622,9 @@
         "FFlagSlimService19": "True",
         "FFlagMeshManagerAvoidVTableFix": "True",
         "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "22be89c221f35d9f3147eecb0cfd11fa67ddbb51",
-        "DFStringFlagRepoGitHashDynamicString": "22be89c221f35d9f3147eecb0cfd11fa67ddbb51",
-        "FStringFlipTimeStampFastString": "2025-11-19T18:41:41.075Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-19T18:41:41.075Z"
+        "FStringFlagRepoGitHashFastString": "e2d969ee562bc1091d71bd2a41396fd55233373c",
+        "DFStringFlagRepoGitHashDynamicString": "e2d969ee562bc1091d71bd2a41396fd55233373c",
+        "FStringFlipTimeStampFastString": "2025-11-19T18:42:21.053Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-19T18:42:21.053Z"
     }
 }
