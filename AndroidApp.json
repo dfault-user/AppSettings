@@ -13598,6 +13598,7 @@
         "FFlagBlockLoadWhenAdIsPlaying_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:01:31",
         "FFlagAXFixConsoleTitleDropdownMissing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:08:35",
         "AllowVideoPreRoll": "True",
+        "FFlagFixExperienceDetailsNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:25:44",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -14553,9 +14554,9 @@
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_3;308118441;flagbank",
         "FFlagTelemetryProtoSerializationForBatch2": "True",
         "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":100},{\"maxsize\":4400,\"reservePct\":0.09,\"reserveMB\":0},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":994},{\"maxsize\":8800,\"reservePct\":0.0,\"reserveMB\":1485}]};SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:00:53",
-        "FStringFlagRepoGitHashFastString": "0b80b350d39330a6bcbc9f2b3a32f9e31abcf6c3",
-        "DFStringFlagRepoGitHashDynamicString": "0b80b350d39330a6bcbc9f2b3a32f9e31abcf6c3",
-        "FStringFlipTimeStampFastString": "2025-11-19T00:24:46.932Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-19T00:24:46.932Z"
+        "FStringFlagRepoGitHashFastString": "81f5d7971a66b0fb7c6f6df05b3e044c0b4dad1d",
+        "DFStringFlagRepoGitHashDynamicString": "81f5d7971a66b0fb7c6f6df05b3e044c0b4dad1d",
+        "FStringFlipTimeStampFastString": "2025-11-19T00:27:26.319Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-19T00:27:26.319Z"
     }
 }
