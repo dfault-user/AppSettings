@@ -13536,7 +13536,7 @@
         "FFlagDisableMicRejectedPromiseReject": "True",
         "FFlagNewLegacyCapDetection": "True",
         "DFIntSQLiteDiskFullCleanMB": "64",
-        "DFIntWrapDeformerEventHundredthsPercentage": "5",
+        "DFIntWrapDeformerEventHundredthsPercentage": "20",
         "FFlagVoiceStopRecordingImmediatelyDuringShutdown": "True",
         "DFFlagNewReflectionService": "True",
         "FFlagVoiceChatSendPeerConnectionSuccessDuringDisconnect": "True",
@@ -13589,7 +13589,6 @@
         "FFlagAddThumbnailReportToPlayerFeedback": "True",
         "FFlagPerformanceControlCreateImGuiOnPlaceStart": "True",
         "FFlagUserCheckTouchControlMode": "True",
-        "DFIntWrapDeformerEventHundredthsPercentage_Staged": "20;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;23609967;2025-11-18T23:19:50",
         "DFFlagReverbLimitMaxRotationAngle": "True",
         "FFlagSlimNoRandomSeedFromPart_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-18T23:31:41",
         "DFFlagTelemetryServiceAsBridge": "True",
@@ -15993,9 +15992,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "0a4ceb72e8e0c06ad03ef6c2668496e4f0069fa3",
-        "DFStringFlagRepoGitHashDynamicString": "0a4ceb72e8e0c06ad03ef6c2668496e4f0069fa3",
-        "FStringFlipTimeStampFastString": "2025-11-19T00:18:51.858Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-19T00:18:51.858Z"
+        "FStringFlagRepoGitHashFastString": "0b80b350d39330a6bcbc9f2b3a32f9e31abcf6c3",
+        "DFStringFlagRepoGitHashDynamicString": "0b80b350d39330a6bcbc9f2b3a32f9e31abcf6c3",
+        "FStringFlipTimeStampFastString": "2025-11-19T00:24:46.932Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-19T00:24:46.932Z"
     }
 }
