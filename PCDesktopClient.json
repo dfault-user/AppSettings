@@ -13611,7 +13611,6 @@
         "FFlagAXMigratePurchasePromptInteractiveToFocusNavigation2": "True",
         "FFlagAXRemoveColorAdjustmentPageGamepadBindings": "True",
         "FFlagAXMigrateReportAvatarEventCounter2": "True",
-        "DFFlagVoiceChatRoomCreationOnFirstUserJoin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2128335163;2025-11-19T20:02:42",
         "FFlagUseNewDiscoverabilityModal_v2": "True",
         "FFlagUseTextureTranscoderClientConfig": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -13619,6 +13618,7 @@
         "FFlagRemoveDeprecatedValidationChecks": "True",
         "FFlagUGCValidationEyebrowEyelashSupport": "True",
         "FFlagWarnDropSpecialJointsBodyPartSkinnedOnly": "True",
+        "DFFlagVoiceChatRoomCreationOnFirstUserJoin": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14693,9 +14693,9 @@
         "FFlagMeshManagerAvoidVTableFix": "True",
         "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": "True",
         "FFlagSlimProfileTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "38e91fb7363d6c73e3bb44a7569e21d23d4c50e7",
-        "DFStringFlagRepoGitHashDynamicString": "38e91fb7363d6c73e3bb44a7569e21d23d4c50e7",
-        "FStringFlipTimeStampFastString": "2025-11-19T20:58:49.053Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-19T20:58:49.053Z"
+        "FStringFlagRepoGitHashFastString": "0ec54712fbdea0ee811e9872158f10c07b334007",
+        "DFStringFlagRepoGitHashDynamicString": "0ec54712fbdea0ee811e9872158f10c07b334007",
+        "FStringFlipTimeStampFastString": "2025-11-19T21:09:04.661Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-19T21:09:04.661Z"
     }
 }
