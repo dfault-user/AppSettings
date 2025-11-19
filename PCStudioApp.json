@@ -13600,7 +13600,6 @@
         "DFFlagEnableAdsLifecycleErrorEvent": "True",
         "FFlagAXFixConsoleTitleDropdownMissing": "True",
         "FFlagFixExperienceDetailsNavigation": "True",
-        "FFlagEnableRefactorGoogleAdViewControlsFadeLogic_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T17:47:49",
         "AllowVideoPreRoll": "True",
         "FFlagSetUniverseWithPlaceAndDC2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T18:06:57",
         "FFlagEnableAdsLifecycleManager2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T18:15:40",
@@ -13612,6 +13611,8 @@
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "FFlagPassThemeToAppStyleProviderSettingsHub": "True",
+        "FFlagAXMigrateReportAvatarEventCounter2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T18:50:31",
+        "FFlagEnableRefactorGoogleAdViewControlsFadeLogic": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -16005,9 +16006,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "20e129281d4f760b23b18a348d4a70f36149f61c",
-        "DFStringFlagRepoGitHashDynamicString": "20e129281d4f760b23b18a348d4a70f36149f61c",
-        "FStringFlipTimeStampFastString": "2025-11-19T18:47:45.336Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-19T18:47:45.336Z"
+        "FStringFlagRepoGitHashFastString": "46ef386b08df3894fdeebd48db76a67197350231",
+        "DFStringFlagRepoGitHashDynamicString": "46ef386b08df3894fdeebd48db76a67197350231",
+        "FStringFlipTimeStampFastString": "2025-11-19T18:52:35.300Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-19T18:52:35.300Z"
     }
 }
