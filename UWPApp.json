@@ -13593,7 +13593,6 @@
         "DFFlagTelemetryServiceAsBridge": "True",
         "FFlagEmitterSharedCurvePool": "True",
         "FFlagAXSendSessionForEvents": "True",
-        "FFlagBlockLoadWhenAdIsPlaying_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:01:31",
         "FFlagAXFixConsoleTitleDropdownMissing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:08:35",
         "DFFlagEnableAdsLifecycleErrorEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:09:00",
         "FFlagFixExperienceDetailsNavigation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:25:44",
@@ -13601,6 +13600,7 @@
         "FFlagUsePresenceDataFromRtn_IXP": "1;Social.Presence.Frontend;Social.Presence.BackendOnlineFriendsSort.M1.V2;225515523;flagbank",
         "FFlagEnableCreatePartyNudge_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-19T00:46:59",
         "DFIntSQLiteFullChkpointMaxReport": "3",
+        "FFlagBlockLoadWhenAdIsPlaying": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13903,9 +13903,9 @@
         "FFlagFixWindowDragError": "True",
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
-        "FStringFlagRepoGitHashFastString": "17406f9a7900751086081ec3f16e6899efb8668b",
-        "DFStringFlagRepoGitHashDynamicString": "17406f9a7900751086081ec3f16e6899efb8668b",
-        "FStringFlipTimeStampFastString": "2025-11-19T01:02:42.796Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-19T01:02:42.796Z"
+        "FStringFlagRepoGitHashFastString": "43215db6d7021ba941c257a204acf4502d5af577",
+        "DFStringFlagRepoGitHashDynamicString": "43215db6d7021ba941c257a204acf4502d5af577",
+        "FStringFlipTimeStampFastString": "2025-11-19T01:08:55.132Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-19T01:08:55.132Z"
     }
 }
