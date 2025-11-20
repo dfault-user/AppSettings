@@ -13648,7 +13648,6 @@
         "DFFlagEliminateLSCHashStorage6": "True",
         "FFlagFoundationDropdownGroups": "True",
         "DFFlagResetNetworkOwnerOnRemovePrimitive2": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagMeshManagerAvoidVTableFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T21:51:54",
         "DFFlagSessionTrackingPrepareToReport": "True",
         "FFlagShowToastWhenAgeGatingVoice_AEGIS": "True",
@@ -13658,6 +13657,8 @@
         "FFlagLuaAppSduiSeeAllLayoutParamsFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T22:34:44",
         "FIntRbxStorageRemoveOnInitThresholdMiB": "256",
         "DFIntJoinLimitWin32x64_Staged": "698;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;366482982;2025-11-20T22:40:55",
+        "FFlagRbxStorageFileCachePerm3": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14507,7 +14508,6 @@
         "FFlagFmodMixerCheckStream": "True",
         "DFIntPerformanceControlCrashMetricAlgorithmType": "4",
         "FFlagRbxStorageRecoverPermFromCache": "False",
-        "FFlagRbxStorageFileCachePerm3": "True",
         "FFlagCrashMetricStorageInitialize3": "False",
         "FIntSQLiteDisableSHM": "1",
         "DFFlagCrashMetricStorageEnableBufferConstantReporting": "True",
@@ -14611,9 +14611,9 @@
         "EnableMOBAPP1484Globally": "True",
         "EnableMOBAPP1484Globally_1": "True",
         "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":381},{\"maxsize\":4400,\"reservePct\":0.0,\"reserveMB\":620},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":994},{\"maxsize\":8800,\"reservePct\":0.0,\"reserveMB\":1485}]};SteadyState;10;30;Revert;2025-11-20T22:35:45",
-        "FStringFlagRepoGitHashFastString": "580f73df0672748cbddeecd066f9b52bacfa93c2",
-        "DFStringFlagRepoGitHashDynamicString": "580f73df0672748cbddeecd066f9b52bacfa93c2",
-        "FStringFlipTimeStampFastString": "2025-11-20T22:47:49.396Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-20T22:47:49.396Z"
+        "FStringFlagRepoGitHashFastString": "682139f33e33b9c0b1854e1b78499cb0a67c2e88",
+        "DFStringFlagRepoGitHashDynamicString": "682139f33e33b9c0b1854e1b78499cb0a67c2e88",
+        "FStringFlipTimeStampFastString": "2025-11-20T22:49:00.167Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-20T22:49:00.167Z"
     }
 }
