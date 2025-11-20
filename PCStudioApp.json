@@ -13668,6 +13668,7 @@
         "FFlagNoBreakpointsOnInvalidGuids_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T23:24:15",
         "FFlagLuaAppFixInlineSignalsReactPattern": "True",
         "FFlagLuaAppSduiSeeAllLayoutParamsFix": "True",
+        "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15590,7 +15591,6 @@
         "FFlagNewTypeSolverFetcherForTelemetry": "True",
         "FFlagPullInUserFacingPluginNamesCloud_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T23:16:07",
         "FFlagSupportTabShortcut_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T23:28:58",
-        "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
         "FFlagVoxelGridFixRegionChanged": "True",
         "FFlagGameBasicSettingsFramerateCap5": "True",
         "DFIntEngineContextValidationReportingCap": "5",
@@ -16117,9 +16117,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "0c78b69ca9cb5af07501479f6216610978c52767",
-        "DFStringFlagRepoGitHashDynamicString": "0c78b69ca9cb5af07501479f6216610978c52767",
-        "FStringFlipTimeStampFastString": "2025-11-20T23:39:11.520Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-20T23:39:11.520Z"
+        "FStringFlagRepoGitHashFastString": "684ad9f126785a867f67f6a0502347fe96aed933",
+        "DFStringFlagRepoGitHashDynamicString": "684ad9f126785a867f67f6a0502347fe96aed933",
+        "FStringFlipTimeStampFastString": "2025-11-20T23:39:46.944Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-20T23:39:46.944Z"
     }
 }
