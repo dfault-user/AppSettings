@@ -13653,9 +13653,6 @@
         "FFlagEnableSocialUpsellButtonWrap": "True",
         "FIntRbxStorageRemoveOnInitThresholdMiB": "256",
         "FFlagRbxStorageFileCachePerm3": "True",
-        "FFlagLuaAppGameTileOverflowMenuTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;871979953;2025-11-20T22:48:49",
-        "FIntGameTileOverflowMenuActionThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;871979953;2025-11-20T22:48:49",
-        "FFlagFoundationBaseMenuScroll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T22:49:29",
         "FFlagMeshManagerAvoidVTableFix": "True",
         "DFIntDelayRewardedAdsInSeconds_PlaceFilter": "1;105555311806207;117253834608865",
         "FFlagLuaAppNotInterestedFeedbackFormTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;962052663;2025-11-20T23:00:07",
@@ -13670,6 +13667,9 @@
         "FFlagLuaAppLayoutParamsInContext2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T23:36:29",
         "FFlagTopLeftOrigin2DUI6_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T23:42:39",
         "DFIntVideoStatsInfluxReportHundredthsPercent_PlaceFilter": "10000;136954310107221;105796526973604;95047916580305",
+        "FFlagLuaAppGameTileOverflowMenuTelemetry2": "True",
+        "FIntGameTileOverflowMenuActionThrottleHundrethsPercent": "10000",
+        "FFlagFoundationBaseMenuScroll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14622,9 +14622,9 @@
         "EnableMOBAPP1484Globally": "True",
         "EnableMOBAPP1484Globally_1": "True",
         "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":381},{\"maxsize\":4400,\"reservePct\":0.0,\"reserveMB\":620},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":994},{\"maxsize\":8800,\"reservePct\":0.0,\"reserveMB\":1485}]};SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T23:38:46",
-        "FStringFlagRepoGitHashFastString": "5eda689fb82c1eb5c915089dd02f1e070a647941",
-        "DFStringFlagRepoGitHashDynamicString": "5eda689fb82c1eb5c915089dd02f1e070a647941",
-        "FStringFlipTimeStampFastString": "2025-11-20T23:53:26.321Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-20T23:53:26.321Z"
+        "FStringFlagRepoGitHashFastString": "0586110d9ee545b6651feeb2ddcfbdffe41c8fab",
+        "DFStringFlagRepoGitHashDynamicString": "0586110d9ee545b6651feeb2ddcfbdffe41c8fab",
+        "FStringFlipTimeStampFastString": "2025-11-20T23:53:45.081Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-20T23:53:45.081Z"
     }
 }
