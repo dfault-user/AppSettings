@@ -13638,6 +13638,7 @@
         "FFlagStudioPollStatusFileWithDifferentInterval": "True",
         "DFFlagTextServiceDMLockFix": "True",
         "FFlagVoiceChatCloseValidRoomFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;484003763;2025-11-20T18:36:14",
+        "DFFlagIncludeThermalStatusTimes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T18:49:18",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14008,9 +14009,9 @@
         "DFFlagRbxStorageReportVersion": "True",
         "FFlagLuaAppChangeRecommendedGamesTitleLogExposure": "True",
         "FFlagSduiDeprecateLogAction": "True",
-        "FStringFlagRepoGitHashFastString": "a21f169f08dce88138309c1e3dfdbb533de96a6b",
-        "DFStringFlagRepoGitHashDynamicString": "a21f169f08dce88138309c1e3dfdbb533de96a6b",
-        "FStringFlipTimeStampFastString": "2025-11-20T18:48:04.359Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-20T18:48:04.359Z"
+        "FStringFlagRepoGitHashFastString": "1c8effb92618a0b80a31b78e13c57963daedfef5",
+        "DFStringFlagRepoGitHashDynamicString": "1c8effb92618a0b80a31b78e13c57963daedfef5",
+        "FStringFlipTimeStampFastString": "2025-11-20T18:51:13.428Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-20T18:51:13.428Z"
     }
 }
