@@ -13653,9 +13653,10 @@
         "FFlagMeshManagerAvoidVTableFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T21:51:54",
         "DFFlagSessionTrackingPrepareToReport": "True",
         "FFlagShowToastWhenAgeGatingVoice_AEGIS": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagEnableAdsMouseUnlock": "True",
         "FFlagEnableSocialUpsellButtonWrap": "True",
         "FFlagUseRuntimeMutexStreamTransactionMessageSender_Staged": "True;SteadyState;10;30;Revert;2025-11-20T22:32:06",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15573,7 +15574,6 @@
         "FIntNextGenStudioBetaFeatureRolloutPercent_Staged": "400;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T21:56:30",
         "FFlagNewTypeSolverFetcherForTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T22:11:56",
         "FFlagComponentManagerUseManagedType4": "True",
-        "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -16072,6 +16072,8 @@
         "FFlagFixCountersForUpsellModalShown_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T22:01:46",
         "FFlagVulkanReduceMipsUseImmCB2": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;688193253;2025-11-20T22:18:36",
+        "FFlagAXUseNewChevronIcon_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T22:32:30",
+        "FFlagLuaAppEnableUpdatedGameTileBadgeContract_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T22:32:41",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -16104,9 +16106,9 @@
         "DFFlagConvexDecompCompressionAnalytics690": "True",
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
-        "FStringFlagRepoGitHashFastString": "71a3ca60537bbf03042e96534bdf03bf1363bf32",
-        "DFStringFlagRepoGitHashDynamicString": "71a3ca60537bbf03042e96534bdf03bf1363bf32",
-        "FStringFlipTimeStampFastString": "2025-11-20T22:37:38.726Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-20T22:37:38.726Z"
+        "FStringFlagRepoGitHashFastString": "a16938b8a157ab6d95610e98e5eecae3d5396eca",
+        "DFStringFlagRepoGitHashDynamicString": "a16938b8a157ab6d95610e98e5eecae3d5396eca",
+        "FStringFlipTimeStampFastString": "2025-11-20T22:39:45.301Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-20T22:39:45.301Z"
     }
 }
