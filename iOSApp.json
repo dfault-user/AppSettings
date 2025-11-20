@@ -13651,7 +13651,6 @@
         "DFFlagSessionTrackingPrepareToReport": "True",
         "FFlagShowToastWhenAgeGatingVoice_AEGIS": "True",
         "FFlagEnableSocialUpsellButtonWrap": "True",
-        "DFFlagGoodbyeChoiceActiveProperty": "True",
         "FIntRbxStorageRemoveOnInitThresholdMiB": "256",
         "DFIntJoinLimitWin32x64_Staged": "698;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;366482982;2025-11-20T22:40:55",
         "FFlagRbxStorageFileCachePerm3": "True",
@@ -13668,6 +13667,8 @@
         "FFlagCLI175868FixMissingComma_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T23:14:40",
         "FFlagNoBreakpointsOnInvalidGuids_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T23:24:15",
         "FFlagLuaAppFixInlineSignalsReactPattern": "True",
+        "FFlagLuaAppSduiSeeAllLayoutParamsFix": "True",
+        "DFFlagGoodbyeChoiceActiveProperty": "True",
         "DFFlagLockViolationInstanceCrash": "False",
         "DFFlagLockViolationScriptCrash": "False",
         "DFFlagOrder66": "False",
@@ -14520,7 +14521,6 @@
         "FFlagMonotonicBackground": "True",
         "FFlagMoveThermalStateLogging": "True",
         "FFlagAXMigrateAXFocusBehaviorRoot": "False",
-        "FFlagLuaAppSduiSeeAllLayoutParamsFix": "True",
         "FFlagLuaAppLayoutParamsInContext2": "True",
         "DFFlagCollectSessionBatteryTelemetry": "True",
         "FFlagEnableSessionIdInBacktraceAttribute": "False",
@@ -14701,12 +14701,12 @@
         "FFlagAXRootSlotBasedEditorFlag8_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV3;791280613;dev_controlled",
         "FFlagAvatarSwitcherUseAvatarInventoryEndpoint": "True",
         "FFlagLuaAppDecoupleOverflowMenu": "True",
-        "FFlagLuaAppEnableUpdatedGameTileBadgeContract_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T22:32:41",
         "FFlagFixCountersForUpsellModalShown": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
-        "FStringFlagRepoGitHashFastString": "19e414c37fd7227ab9ca6092aabf381d79d946b8",
-        "DFStringFlagRepoGitHashDynamicString": "19e414c37fd7227ab9ca6092aabf381d79d946b8",
-        "FStringFlipTimeStampFastString": "2025-11-20T23:33:05.989Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-20T23:33:05.989Z"
+        "FFlagLuaAppEnableUpdatedGameTileBadgeContract": "True",
+        "FStringFlagRepoGitHashFastString": "0c78b69ca9cb5af07501479f6216610978c52767",
+        "DFStringFlagRepoGitHashDynamicString": "0c78b69ca9cb5af07501479f6216610978c52767",
+        "FStringFlipTimeStampFastString": "2025-11-20T23:39:11.520Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-20T23:39:11.520Z"
     }
 }
