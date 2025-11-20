@@ -13658,6 +13658,9 @@
         "FIntRbxStorageRemoveOnInitThresholdMiB": "256",
         "DFIntJoinLimitWin32x64_Staged": "698;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;366482982;2025-11-20T22:40:55",
         "FFlagRbxStorageFileCachePerm3": "True",
+        "FFlagLuaAppGameTileOverflowMenuTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;871979953;2025-11-20T22:48:49",
+        "FIntGameTileOverflowMenuActionThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;871979953;2025-11-20T22:48:49",
+        "FFlagFoundationBaseMenuScroll_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T22:49:29",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14611,9 +14614,9 @@
         "EnableMOBAPP1484Globally": "True",
         "EnableMOBAPP1484Globally_1": "True",
         "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":381},{\"maxsize\":4400,\"reservePct\":0.0,\"reserveMB\":620},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":994},{\"maxsize\":8800,\"reservePct\":0.0,\"reserveMB\":1485}]};SteadyState;10;30;Revert;2025-11-20T22:35:45",
-        "FStringFlagRepoGitHashFastString": "682139f33e33b9c0b1854e1b78499cb0a67c2e88",
-        "DFStringFlagRepoGitHashDynamicString": "682139f33e33b9c0b1854e1b78499cb0a67c2e88",
-        "FStringFlipTimeStampFastString": "2025-11-20T22:49:00.167Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-20T22:49:00.167Z"
+        "FStringFlagRepoGitHashFastString": "9d0fddd9b292f92234c576b4b8c1ee93a3303626",
+        "DFStringFlagRepoGitHashDynamicString": "9d0fddd9b292f92234c576b4b8c1ee93a3303626",
+        "FStringFlipTimeStampFastString": "2025-11-20T22:51:34.021Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-20T22:51:34.021Z"
     }
 }
