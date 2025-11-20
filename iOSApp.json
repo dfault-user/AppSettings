@@ -13634,7 +13634,6 @@
         "FFlagVoiceSubscriberCountReportingFix": "True",
         "FFlagStudioPollStatusFileWithDifferentInterval": "True",
         "DFFlagTextServiceDMLockFix": "True",
-        "DFFlagIncludeThermalStatusTimes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T18:49:18",
         "FFlagAESAddTimedOptions_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;887615136;2025-11-20T18:55:01",
         "FFlagEnableSetChangeTypeBitmask3": "True",
         "AxisAdornmentGrabSize": "12",
@@ -13652,6 +13651,7 @@
         "DFFlagResetNetworkOwnerOnRemovePrimitive2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T19:33:43",
         "FIntSceneUpdaterProcessPendingPartsBudgetMs_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1230103986;2025-11-20T19:39:14",
         "FFlagVoiceChatCloseValidRoomFix": "True",
+        "DFFlagIncludeThermalStatusTimes": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14693,9 +14693,9 @@
         "FFlagLuaAppUpdateAdPreferencesLink": "True",
         "FFlagAvatarSwitcherUseAvatarInventoryEndpoint_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T19:35:13",
         "FFlagExpChatCheckTailVisibleInitValue": "True",
-        "FStringFlagRepoGitHashFastString": "717782c4f9c5f6ddd871abc6f81a5c60498f15f4",
-        "DFStringFlagRepoGitHashDynamicString": "717782c4f9c5f6ddd871abc6f81a5c60498f15f4",
-        "FStringFlipTimeStampFastString": "2025-11-20T19:53:05.128Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-20T19:53:05.128Z"
+        "FStringFlagRepoGitHashFastString": "a91ca0a823207d4d29037d17beac0033e97ce327",
+        "DFStringFlagRepoGitHashDynamicString": "a91ca0a823207d4d29037d17beac0033e97ce327",
+        "FStringFlipTimeStampFastString": "2025-11-20T19:54:47.724Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-20T19:54:47.724Z"
     }
 }
