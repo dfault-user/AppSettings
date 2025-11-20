@@ -13635,8 +13635,6 @@
         "FFlagStudioPollStatusFileWithDifferentInterval": "True",
         "DFFlagTextServiceDMLockFix": "True",
         "FFlagEnableSetChangeTypeBitmask3": "True",
-        "FFlagAvatarSwitcher3DPreview_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1767567370;2025-11-20T19:00:10",
-        "FFlagFixWindowDragError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1767567370;2025-11-20T19:00:10",
         "FIntFAEWithCallbackPollDelay_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T19:07:17",
         "FIntFAEWithWebViewCallbackPollDelay_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T19:08:00",
         "FFlagVoiceClientRewriteSkipJoinForPlaySolo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T19:09:37",
@@ -13652,6 +13650,7 @@
         "FFlagVoiceChatCloseValidRoomFix": "True",
         "DFFlagIncludeThermalStatusTimes": "True",
         "FFlagAvatarSwitcher3DPreview": "True",
+        "FFlagFixWindowDragError": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14022,9 +14021,9 @@
         "DFFlagRbxStorageReportVersion": "True",
         "FFlagLuaAppChangeRecommendedGamesTitleLogExposure": "True",
         "FFlagSduiDeprecateLogAction": "True",
-        "FStringFlagRepoGitHashFastString": "df94482379cd1600f4a51d6b290db22853090fa8",
-        "DFStringFlagRepoGitHashDynamicString": "df94482379cd1600f4a51d6b290db22853090fa8",
-        "FStringFlipTimeStampFastString": "2025-11-20T19:58:32.182Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-20T19:58:32.182Z"
+        "FStringFlagRepoGitHashFastString": "b1bd5c902fe8a1413e064642df4cb252109bb197",
+        "DFStringFlagRepoGitHashDynamicString": "b1bd5c902fe8a1413e064642df4cb252109bb197",
+        "FStringFlipTimeStampFastString": "2025-11-20T20:10:54.859Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-20T20:10:54.859Z"
     }
 }
