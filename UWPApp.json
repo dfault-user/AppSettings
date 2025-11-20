@@ -13630,7 +13630,6 @@
         "FFlagImporterSupportAlphaTransparencyMode": "True",
         "FFlagBootcampCLI165710": "True",
         "FFlagNonCompositeRespectNoFaceTag": "True",
-        "DFFlagTextServiceDMLockFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T17:26:21",
         "FFlagEnableSetChangeTypeBitmask3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T17:54:48",
         "FFlagVoiceChatEmptyRoomTelemetry": "True",
         "FFlagVoiceSubscriberCountReportingFix": "True",
@@ -13638,6 +13637,7 @@
         "FFlagTopLeftOrigin2DUI6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T18:09:50",
         "FFlagAEGIS2AppChatBannerFetchMetadataOnSuccess_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;612523874;2025-11-20T18:14:39",
         "FFlagStudioPollStatusFileWithDifferentInterval": "True",
+        "DFFlagTextServiceDMLockFix": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13937,9 +13937,9 @@
         "FFlagFixWindowDragError": "True",
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
-        "FStringFlagRepoGitHashFastString": "8d5a46e182c2774cd1762e84fb350d9ae24b64a5",
-        "DFStringFlagRepoGitHashDynamicString": "8d5a46e182c2774cd1762e84fb350d9ae24b64a5",
-        "FStringFlipTimeStampFastString": "2025-11-20T18:32:33.826Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-20T18:32:33.826Z"
+        "FStringFlagRepoGitHashFastString": "b15a8d74505c2c8a88a6328339d4cb85f760ab68",
+        "DFStringFlagRepoGitHashDynamicString": "b15a8d74505c2c8a88a6328339d4cb85f760ab68",
+        "FStringFlipTimeStampFastString": "2025-11-20T18:34:17.983Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-20T18:34:17.983Z"
     }
 }
