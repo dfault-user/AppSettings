@@ -12963,7 +12963,7 @@
         "FFlagWrapDeformersSupportWrapLayers4": "True",
         "FFlagEnableAEGIS1HomePageBanner4": "True",
         "FFlagVulkanCacheSwapChainSize": "True",
-        "FFlagAESAddTimedOptions": "True",
+        "FFlagAESAddTimedOptions": "False",
         "FFlagAnimatorLodServerEarlyOut": "True",
         "FFlagAppChatFocusInputBarFix": "True",
         "FFlagEnableAppChatFocusableFixes4": "True",
@@ -13634,7 +13634,6 @@
         "FFlagVoiceSubscriberCountReportingFix": "True",
         "FFlagStudioPollStatusFileWithDifferentInterval": "True",
         "DFFlagTextServiceDMLockFix": "True",
-        "FFlagAESAddTimedOptions_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;887615136;2025-11-20T18:55:01",
         "FFlagEnableSetChangeTypeBitmask3": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -15551,7 +15550,6 @@
         "FFlagReportLuauSolverModeInCrashes": "True",
         "FFlagStudioFixLocalPlaceFilePath": "True",
         "FFlagStudioFixTestServiceRun2": "True",
-        "FFlagRemoteCommandServiceEnabled3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T18:52:40",
         "DFFlagStudioLuauNewSolverOptOutPlacesWithStrictScripts": "True",
         "DFFlagUseLuauTypeCheckModeProperty": "True",
         "DFFlagUseNewLuauTypeSolverThreePhaseRolloutProperty": "True",
@@ -15561,6 +15559,7 @@
         "FFlagPathEditorControlPointVisualImprovements2": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagAICOCustomizedTabShortcut2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1929503928;2025-11-20T19:41:13",
+        "FFlagRemoteCommandServiceEnabled3": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -16090,9 +16089,9 @@
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagAACShareUniverseAccessToAssetsAsync_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T19:10:56",
         "FFlagStudioUnsavedPlaceGrantPermissions_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T19:12:00",
-        "FStringFlagRepoGitHashFastString": "a91ca0a823207d4d29037d17beac0033e97ce327",
-        "DFStringFlagRepoGitHashDynamicString": "a91ca0a823207d4d29037d17beac0033e97ce327",
-        "FStringFlipTimeStampFastString": "2025-11-20T19:54:47.724Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-20T19:54:47.724Z"
+        "FStringFlagRepoGitHashFastString": "df94482379cd1600f4a51d6b290db22853090fa8",
+        "DFStringFlagRepoGitHashDynamicString": "df94482379cd1600f4a51d6b290db22853090fa8",
+        "FStringFlipTimeStampFastString": "2025-11-20T19:58:32.182Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-20T19:58:32.182Z"
     }
 }
