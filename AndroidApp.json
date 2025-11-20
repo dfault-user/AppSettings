@@ -13648,7 +13648,6 @@
         "DFFlagEliminateLSCHashStorage6": "True",
         "FFlagFoundationDropdownGroups": "True",
         "DFFlagResetNetworkOwnerOnRemovePrimitive2": "True",
-        "FIntRbxStorageRemoveOnInitThresholdMiB_Staged": "256;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T21:31:02",
         "AllowVideoPreRoll": "True",
         "FFlagMeshManagerAvoidVTableFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T21:51:54",
         "DFFlagSessionTrackingPrepareToReport": "True",
@@ -13657,6 +13656,7 @@
         "FFlagEnableSocialUpsellButtonWrap": "True",
         "FFlagUseRuntimeMutexStreamTransactionMessageSender_Staged": "True;SteadyState;10;30;Revert;2025-11-20T22:32:06",
         "FFlagLuaAppSduiSeeAllLayoutParamsFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-20T22:34:44",
+        "FIntRbxStorageRemoveOnInitThresholdMiB": "256",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14610,9 +14610,9 @@
         "EnableMOBAPP1484Globally": "True",
         "EnableMOBAPP1484Globally_1": "True",
         "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":381},{\"maxsize\":4400,\"reservePct\":0.0,\"reserveMB\":620},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":994},{\"maxsize\":8800,\"reservePct\":0.0,\"reserveMB\":1485}]};SteadyState;10;30;Revert;2025-11-20T22:35:45",
-        "FStringFlagRepoGitHashFastString": "a16938b8a157ab6d95610e98e5eecae3d5396eca",
-        "DFStringFlagRepoGitHashDynamicString": "a16938b8a157ab6d95610e98e5eecae3d5396eca",
-        "FStringFlipTimeStampFastString": "2025-11-20T22:39:45.301Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-20T22:39:45.301Z"
+        "FStringFlagRepoGitHashFastString": "dff4c9222195198124850d400d360f46ed9d87a1",
+        "DFStringFlagRepoGitHashDynamicString": "dff4c9222195198124850d400d360f46ed9d87a1",
+        "FStringFlipTimeStampFastString": "2025-11-20T22:40:08.383Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-20T22:40:08.383Z"
     }
 }
