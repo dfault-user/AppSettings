@@ -11733,7 +11733,6 @@
         "DFFlagVoiceSdpCompressionRecordNetworkPriority": "True",
         "DFFlagCLI166894": "True",
         "FFlagUserProfileStoreQueryRefetch": "True",
-        "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;IxpFlagLink;1325120134;dev_controlled",
         "DFFlagProductInfoCacheHitRateAnalyticsEnabled": "True",
         "DFIntRobloxTelemetryProductInfoCacheHitRateThrottleHundredthsPercent": "1",
         "DFFlagSolverV2CleanupPendingModelStreamingModeModels": "False",
@@ -12753,7 +12752,6 @@
         "FFlagUISizeConstraintStopRequiringMinLtEqMax": "True",
         "FFlagFixWarningLocaleIAP": "True",
         "FFlagResetDescendantDirtyFlagAfterChildrenViewportLayout": "True",
-        "FFlagProfilePlatformNewAboutSection_v9_IXP": "1;Social.ProfilePeekView;IxpFlagLink;1325120134;dev_controlled",
         "DFIntPerfDataOnTelemetryV2ThrottleHundredthsPercent": "20",
         "FFlagRecentsWidgetTelemetryEnabled": "True",
         "FFlagTouchEnabledLegacySupport": "True",
@@ -13406,7 +13404,6 @@
         "FFlagFixUnibarRefactoringInTopBarApp": "True",
         "FFlagIEMButtonsResponsiveLayout": "True",
         "FFlagUseTeleportedPlacesBackHistory2": "True",
-        "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;IxpFlagLink;1325120134;dev_controlled",
         "FFlagEnableAutoLoginAfterRecovery": "True",
         "FFlagEnableSocialProfilePeekViewSecondaryExposureEvents": "True",
         "FFlagFixNotificationReportsMobile": "True",
@@ -13675,6 +13672,10 @@
         "FFlagMassPropertyMigrationTelemetry_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1496097243;2025-11-21T18:23:31",
         "FFlagUpdateHiddenGameTileText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-21T18:39:20",
         "FFlagVideoCaptureUseRenderResolutionDimension_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-21T18:44:02",
+        "FFlagEngineVoiceChatClientRewriteIxpEnabled_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.WebRtcSkipBackgroundNoiseGen;797033744;flagbank",
+        "FFlagVoiceWebrtcNeteqMaxPacketsEnable_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.WebRtcSkipBackgroundNoiseGen;797033744;flagbank",
+        "FFlagWebRtcBackgroundNoiseGenerationSkipped_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.WebRtcSkipBackgroundNoiseGen;797033744;flagbank",
+        "FIntVoiceWebrtcNeteqMaxPackets_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.WebRtcSkipBackgroundNoiseGen;797033744;flagbank",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14044,9 +14045,9 @@
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FStringFlagRepoGitHashFastString": "8a9c3c1ca7eae772d09be61fdea45231a3951a1e",
-        "DFStringFlagRepoGitHashDynamicString": "8a9c3c1ca7eae772d09be61fdea45231a3951a1e",
-        "FStringFlipTimeStampFastString": "2025-11-21T18:45:53.036Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-21T18:45:53.036Z"
+        "FStringFlagRepoGitHashFastString": "b782e2bcc7995ffaf666f16e08f0e5751e2e14dc",
+        "DFStringFlagRepoGitHashDynamicString": "b782e2bcc7995ffaf666f16e08f0e5751e2e14dc",
+        "FStringFlipTimeStampFastString": "2025-11-21T18:51:00.685Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-21T18:51:00.685Z"
     }
 }
