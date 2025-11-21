@@ -14630,9 +14630,10 @@
         "FFlagPerformanceControlEnableV2MemoryModifications_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
         "FStringPerformanceControlDefaultMemoryBufferConfig_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
         "FStringPerformanceControlMemoryBufferModificationsEnabledJson_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
-        "FStringFlagRepoGitHashFastString": "939237bf2b03836503a1eb6f5f5f25416a26f7bd",
-        "DFStringFlagRepoGitHashDynamicString": "939237bf2b03836503a1eb6f5f5f25416a26f7bd",
-        "FStringFlipTimeStampFastString": "2025-11-21T00:23:18.628Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-21T00:23:18.628Z"
+        "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":381},{\"maxsize\":4400,\"reservePct\":0.0,\"reserveMB\":620},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":994},{\"maxsize\":8800,\"reservePct\":0.0,\"reserveMB\":1485}]};SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-21T00:20:23",
+        "FStringFlagRepoGitHashFastString": "ca07d19ca7e4e737f07e9f67a48deb6cdb99389b",
+        "DFStringFlagRepoGitHashDynamicString": "ca07d19ca7e4e737f07e9f67a48deb6cdb99389b",
+        "FStringFlipTimeStampFastString": "2025-11-21T00:25:17.598Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-21T00:25:17.598Z"
     }
 }
