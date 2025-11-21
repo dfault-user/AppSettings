@@ -13675,6 +13675,9 @@
         "FIntVoiceWebrtcNeteqMaxPackets_IXP": "1;Engine.Voice.Exposure.1;Engine.Voice.WebRtcSkipBackgroundNoiseGen;797033744;flagbank",
         "FFlagLuaAppEnablePartySurfaceForFetchSearchLandingPage": "True",
         "FFlagEnableDynamicReportV2ForUserProfile_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;0;2025-11-21T19:11:46",
+        "FFlagProfilePlatformEnableChipSocialRow_v6_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesign-v3;1325120134;dev_controlled",
+        "FFlagProfilePlatformNewAboutSection_v9_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesign-v3;1325120134;dev_controlled",
+        "FFlagProfilePlatformNewProfileHeader_V10_IXP": "1;Social.ProfilePeekView;Social.ProfilePeekView.ProfilePlatformHeaderRedesign-v3;1325120134;dev_controlled",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14633,9 +14636,9 @@
         "FFlagPerformanceControlEnableV2MemoryModifications_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
         "FStringPerformanceControlDefaultMemoryBufferConfig_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
         "FStringPerformanceControlMemoryBufferModificationsEnabledJson_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
-        "FStringFlagRepoGitHashFastString": "5acab824e6434aaf706ced598faaf7a74cd9d175",
-        "DFStringFlagRepoGitHashDynamicString": "5acab824e6434aaf706ced598faaf7a74cd9d175",
-        "FStringFlipTimeStampFastString": "2025-11-21T19:35:00.813Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-21T19:35:00.813Z"
+        "FStringFlagRepoGitHashFastString": "ff28871395a141d20de5c9c756cc816cc3bf51d7",
+        "DFStringFlagRepoGitHashDynamicString": "ff28871395a141d20de5c9c756cc816cc3bf51d7",
+        "FStringFlipTimeStampFastString": "2025-11-21T19:38:46.173Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-21T19:38:46.173Z"
     }
 }
