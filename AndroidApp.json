@@ -13708,8 +13708,9 @@
         "FFlagExpChatOnShowIconChatAvailabilityStatus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:48:00",
         "FFlagFixWindowFocusedOnNewUIS3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:49:06",
         "FFlagAEGIS2ActivateEnableChatButtonTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:53:05",
-        "FFlagInExperienceVoiceUpsellAnalyticsV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:53:32",
+        "FFlagInExperienceVoiceUpsellAnalyticsV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;270575238;2025-11-24T19:56:21",
         "DFIntBase64NewDecodeReportHundredthsPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:54:51",
+        "FFlagManuallyInvokeAmpUpsell2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;270575238;2025-11-24T19:56:21",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -14668,7 +14669,6 @@
         "FStringPerformanceControlMemoryBufferModificationsEnabledJson_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
         "FFlagFCRouteSecondaryParts4": "True",
         "FFlagDisableAndroidLogInReleaseBuilds_IXP": "1;ConsumerPlatforms.Platform.ByUserId;ConsumerPlatforms.Platform.DisableAndroidLogInReleaseBuilds;182051492;flagbank",
-        "FStringSessionDataInclusionInHttpHeaders_Staged": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:50:32",
         "DFFlagPowerTraceHashFix": "True",
         "FFlagFFlagAXBuildSubcategoryMapWhenBuildingCategoryInfo": "True",
         "DFIntPowerTraceModuleEpochOffsetSeconds_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:10:48",
@@ -14682,9 +14682,10 @@
         "FFlagAXFixSubcategorySelectionById2": "True",
         "FFlagUseAndroidPaymentsProtocolThreadsafeSessionId": "True",
         "FFlagUseAndroidThreadsafeCheckoutSessionId2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:46:02",
-        "FStringFlagRepoGitHashFastString": "e84e73c619f422233fbba76a11bd6d499d65c1e8",
-        "DFStringFlagRepoGitHashDynamicString": "e84e73c619f422233fbba76a11bd6d499d65c1e8",
-        "FStringFlipTimeStampFastString": "2025-11-24T19:55:59.342Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:55:59.342Z"
+        "FStringSessionDataInclusionInHttpHeaders": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame",
+        "FStringFlagRepoGitHashFastString": "491148db7fc1cb51095e836ad0f15689edcd7ef5",
+        "DFStringFlagRepoGitHashDynamicString": "491148db7fc1cb51095e836ad0f15689edcd7ef5",
+        "FStringFlipTimeStampFastString": "2025-11-24T19:57:25.698Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:57:25.698Z"
     }
 }

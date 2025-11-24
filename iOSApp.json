@@ -13708,8 +13708,10 @@
         "FFlagExpChatOnShowIconChatAvailabilityStatus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:48:00",
         "FFlagFixWindowFocusedOnNewUIS3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:49:06",
         "FFlagAEGIS2ActivateEnableChatButtonTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:53:05",
-        "FFlagInExperienceVoiceUpsellAnalyticsV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:53:32",
+        "FFlagInExperienceVoiceUpsellAnalyticsV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;270575238;2025-11-24T19:56:21",
         "DFIntBase64NewDecodeReportHundredthsPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:54:51",
+        "FFlagManuallyInvokeAmpUpsell2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;270575238;2025-11-24T19:56:21",
+        "DFFlagBase64NewDecodeReport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:56:43",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -14746,15 +14748,15 @@
         "FFlagLuaAppChangeRecommendedGamesTitle_IXP": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.RecommendedSortTitle.V1;2117824759;dev_controlled",
         "FFlagSduiActionHandlerSharedRegistry2": "True",
         "FFlagFCRouteSecondaryParts4": "True",
-        "FStringSessionDataInclusionInHttpHeaders_Staged": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:50:32",
         "DFFlagPowerTraceHashFix": "True",
         "FFlagFFlagAXBuildSubcategoryMapWhenBuildingCategoryInfo": "True",
         "DFIntPowerTraceModuleEpochOffsetSeconds_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:10:48",
         "FFlagEnableNativeAdCtrLoggingIos": "True",
         "FFlagAXFixSubcategorySelectionById2": "True",
-        "FStringFlagRepoGitHashFastString": "e84e73c619f422233fbba76a11bd6d499d65c1e8",
-        "DFStringFlagRepoGitHashDynamicString": "e84e73c619f422233fbba76a11bd6d499d65c1e8",
-        "FStringFlipTimeStampFastString": "2025-11-24T19:55:59.342Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:55:59.342Z"
+        "FStringSessionDataInclusionInHttpHeaders": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame",
+        "FStringFlagRepoGitHashFastString": "7ffa4d5bda2bb3def38b5094f55c12b0b64c061c",
+        "DFStringFlagRepoGitHashDynamicString": "7ffa4d5bda2bb3def38b5094f55c12b0b64c061c",
+        "FStringFlipTimeStampFastString": "2025-11-24T19:57:52.689Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:57:52.689Z"
     }
 }

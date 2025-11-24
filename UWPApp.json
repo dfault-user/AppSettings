@@ -13708,7 +13708,9 @@
         "FFlagExpChatOnShowIconChatAvailabilityStatus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:48:00",
         "FFlagFixWindowFocusedOnNewUIS3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:49:06",
         "FFlagAEGIS2ActivateEnableChatButtonTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:53:05",
-        "FFlagInExperienceVoiceUpsellAnalyticsV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:53:32",
+        "FFlagInExperienceVoiceUpsellAnalyticsV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;270575238;2025-11-24T19:56:21",
+        "DFIntBase64NewDecodeReportHundredthsPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:54:51",
+        "FFlagManuallyInvokeAmpUpsell2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;270575238;2025-11-24T19:56:21",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14006,9 +14008,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "7610a065cafbab25303394642c252d33a93d5fa4",
-        "DFStringFlagRepoGitHashDynamicString": "7610a065cafbab25303394642c252d33a93d5fa4",
-        "FStringFlipTimeStampFastString": "2025-11-24T19:54:35.637Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:54:35.637Z"
+        "FStringFlagRepoGitHashFastString": "491148db7fc1cb51095e836ad0f15689edcd7ef5",
+        "DFStringFlagRepoGitHashDynamicString": "491148db7fc1cb51095e836ad0f15689edcd7ef5",
+        "FStringFlipTimeStampFastString": "2025-11-24T19:57:25.698Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:57:25.698Z"
     }
 }
