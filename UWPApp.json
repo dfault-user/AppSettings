@@ -13749,7 +13749,6 @@
         "DFFlagSimFixBodyAngularVelocity": "True",
         "FFlagReportTextureStreamingTelemetry6": "True",
         "FIntVideoExtraRingBufferPercent": "120",
-        "FIntUserHeartbeatsPulseIntervalSeconds_Staged": "60;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T22:43:35",
         "FFlagAvatarAssetCreationLogAssetId": "True",
         "DFFlagEnableFixClientShowRewardedVideoAdResultCounter": "True",
         "FFlagLuaAppNilCheckCurrentVideoItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T22:51:49",
@@ -13796,6 +13795,7 @@
         "FFlagDisableStopAtBcUnaligned": "True",
         "DFFlagFixTextTruncationWithFractionalScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;153934097;2025-11-24T23:42:49",
         "FFlagAllowUsingVisQueryInRenderQueue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:44:04",
+        "FIntUserHeartbeatsPulseIntervalSeconds": "60",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14094,9 +14094,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "92ed35d371d796e0d3a2348ec2d60bdd5bead9fc",
-        "DFStringFlagRepoGitHashDynamicString": "92ed35d371d796e0d3a2348ec2d60bdd5bead9fc",
-        "FStringFlipTimeStampFastString": "2025-11-24T23:45:12.201Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T23:45:12.201Z"
+        "FStringFlagRepoGitHashFastString": "ac1fd845cbb60a30309bcff70916fb191e8046b5",
+        "DFStringFlagRepoGitHashDynamicString": "ac1fd845cbb60a30309bcff70916fb191e8046b5",
+        "FStringFlipTimeStampFastString": "2025-11-24T23:47:33.286Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T23:47:33.286Z"
     }
 }

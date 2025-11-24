@@ -13749,10 +13749,9 @@
         "DFFlagSimFixBodyAngularVelocity": "True",
         "FFlagReportTextureStreamingTelemetry6": "True",
         "FIntVideoExtraRingBufferPercent": "120",
-        "FIntUserHeartbeatsPulseIntervalSeconds_Staged": "60;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T22:43:35",
         "FFlagAvatarAssetCreationLogAssetId": "True",
         "DFFlagEnableFixClientShowRewardedVideoAdResultCounter": "True",
-        "AllowVideoPreRoll": "True",
+        "AxisAdornmentGrabSize": "12",
         "FFlagAppChatTrustedConnectionRTNEventTypeNameFix": "True",
         "FFlagEnableSocialUpsellUIFixes5": "True",
         "FFlagToolboxRemoveGenre_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1564402867;2025-11-24T22:59:26",
@@ -13796,7 +13795,11 @@
         "FFlagDisableStopAtBcUnaligned": "True",
         "DFFlagFixTextTruncationWithFractionalScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;153934097;2025-11-24T23:42:49",
         "FFlagAllowUsingVisQueryInRenderQueue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:44:04",
-        "AxisAdornmentGrabSize": "12",
+        "FIntUserHeartbeatsPulseIntervalSeconds": "60",
+        "AllowVideoPreRoll": "True",
+        "FFlagFCRouteSecondaryParts4_IXP": "1;Portal.FastClusterToolsOptimizationNov24-1764027935;FastClusterToolsOptimizationNov24;580599053;flagbank",
+        "FFlagFCTransformsDiffCheckOnUpdateGeometry_Staged": "True;SteadyState;10;30;Revert;true;580599053;2025-11-24T23:46:15",
+        "FFlagFCTransformsDiffCheckOnUpdateGeometry_IXP": "1;Portal.FastClusterToolsOptimizationNov24-1764027935;FastClusterToolsOptimizationNov24;580599053;flagbank",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14840,9 +14843,9 @@
         "FFlagEnableDeferredAssets": "True",
         "FFlagAddDeferredAssetIndicator_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:31:38",
         "FFlagAXCloseFilterOnBackgroundTap": "True",
-        "FStringFlagRepoGitHashFastString": "92ed35d371d796e0d3a2348ec2d60bdd5bead9fc",
-        "DFStringFlagRepoGitHashDynamicString": "92ed35d371d796e0d3a2348ec2d60bdd5bead9fc",
-        "FStringFlipTimeStampFastString": "2025-11-24T23:45:12.201Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T23:45:12.201Z"
+        "FStringFlagRepoGitHashFastString": "b33273f19f67355a66b8353614ff31d509dd5ad2",
+        "DFStringFlagRepoGitHashDynamicString": "b33273f19f67355a66b8353614ff31d509dd5ad2",
+        "FStringFlipTimeStampFastString": "2025-11-24T23:47:54.331Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T23:47:54.331Z"
     }
 }
