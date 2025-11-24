@@ -13772,6 +13772,7 @@
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagAppChatTrustedConnectionRTNEventTypeNameFix": "True",
         "FFlagEnableSocialUpsellUIFixes5": "True",
+        "FFlagToolboxRemoveGenre_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1564402867;2025-11-24T22:59:26",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16185,7 +16186,6 @@
         "FStringSessionDataInclusionInHttpHeaders": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame",
         "FFlagLuaAppFixEmptyRecommendedGames": "True",
         "FFlagUnifiedPurchaseGamepassAddProductUniverseId": "True",
-        "FFlagDeprecateLayoutInstancePointers": "False",
         "FFlagRefactorScrollableToModifier3": "False",
         "FFlagTexturePacksFallbackReferenceManaged_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T22:02:46",
         "FFlagTexturePriorityBasedOnDistance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T22:02:58",
@@ -16222,9 +16222,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "d7118d6bdd38395700165bee1f64b8bf9f569761",
-        "DFStringFlagRepoGitHashDynamicString": "d7118d6bdd38395700165bee1f64b8bf9f569761",
-        "FStringFlipTimeStampFastString": "2025-11-24T22:57:08.746Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T22:57:08.746Z"
+        "FStringFlagRepoGitHashFastString": "27d2e60ed6cba807e186da11eb0eb4ae79f66141",
+        "DFStringFlagRepoGitHashDynamicString": "27d2e60ed6cba807e186da11eb0eb4ae79f66141",
+        "FStringFlipTimeStampFastString": "2025-11-24T23:01:07.160Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T23:01:07.160Z"
     }
 }
