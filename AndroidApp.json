@@ -13702,8 +13702,6 @@
         "DFFlagQueryRefactor": "True",
         "FFlagAEGIS2UseGuacToShowEnabledMessage": "True",
         "FFlagTraversalBackUseSettingsSignal": "True",
-        "AxisAdornmentGrabSize": "12",
-        "AllowVideoPreRoll": "True",
         "FFlagFixWindowFocusedOnNewUIS3": "True",
         "FFlagExpChatOnShowIconChatAvailabilityStatus": "True",
         "FFlagPerfDataOptimization3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:51:00",
@@ -13751,6 +13749,10 @@
         "FIntVideoExtraRingBufferPercent_Staged": "120;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:40:06",
         "FFlagAvatarAssetCreationLogAssetId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;795076256;2025-11-24T21:41:04",
         "DFFlagEnableFixClientShowRewardedVideoAdResultCounter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:46:13",
+        "FFlagExpChatCheckTailVisibleInitValue": "True",
+        "FFlagExpChatTextChatCommandRemoved": "True",
+        "AllowVideoPreRoll": "True",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -14712,8 +14714,6 @@
         "DFFlagPowerTraceHashFix": "True",
         "FFlagFFlagAXBuildSubcategoryMapWhenBuildingCategoryInfo": "True",
         "FFlagEnableIsolatedAdsBacktrace": "True",
-        "FFlagExpChatCheckTailVisibleInitValue": "True",
-        "FFlagExpChatTextChatCommandRemoved": "True",
         "FFlagUseAndroidPaymentsProtocolDuplicateMessageFix": "False",
         "FFlagUseAndroidThreadsafeCheckoutSessionId2": "False",
         "FFlagIASFixResetInRollback": "True",
@@ -14724,9 +14724,9 @@
         "FFlagUseAndroidThreadsafeCheckoutSessionId2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1950264606;2025-11-24T21:07:11",
         "FFlagEnablePowerTraceModule": "True",
         "FFlagPrefetchDeferredAssets": "True",
-        "FStringFlagRepoGitHashFastString": "820e4b234928e81dddd9bfbf5f4cf26e019f7ca0",
-        "DFStringFlagRepoGitHashDynamicString": "820e4b234928e81dddd9bfbf5f4cf26e019f7ca0",
-        "FStringFlipTimeStampFastString": "2025-11-24T21:47:26.236Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T21:47:26.236Z"
+        "FStringFlagRepoGitHashFastString": "7876ecca20a80d395000cc934d45e04311b14520",
+        "DFStringFlagRepoGitHashDynamicString": "7876ecca20a80d395000cc934d45e04311b14520",
+        "FStringFlipTimeStampFastString": "2025-11-24T21:51:55.098Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T21:51:55.098Z"
     }
 }
