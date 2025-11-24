@@ -14801,9 +14801,10 @@
         "DFIntPowerTraceModuleEpochOffsetSeconds": "1",
         "FFlagEnablePowerTraceModule": "True",
         "FFlagPrefetchDeferredAssets": "True",
-        "FStringFlagRepoGitHashFastString": "5d62c208d7b34402ca450da17b4c77c034156a13",
-        "DFStringFlagRepoGitHashDynamicString": "5d62c208d7b34402ca450da17b4c77c034156a13",
-        "FStringFlipTimeStampFastString": "2025-11-24T22:17:56.637Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T22:17:56.637Z"
+        "DFIntPowerTraceHashThrottleRateHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T22:19:47",
+        "FStringFlagRepoGitHashFastString": "6dff9e4239942c1c8c1561fa8cbd6c4121d6d7ba",
+        "DFStringFlagRepoGitHashDynamicString": "6dff9e4239942c1c8c1561fa8cbd6c4121d6d7ba",
+        "FStringFlipTimeStampFastString": "2025-11-24T22:21:24.119Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T22:21:24.119Z"
     }
 }
