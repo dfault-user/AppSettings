@@ -13732,6 +13732,10 @@
         "FFlagSharedWrapSolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:09:47",
         "DFFlagSimRemoveOnSteppedBuffers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:10:47",
         "FFlagMtlReduceMipsUseImmCB2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:13:59",
+        "FFlagClarifyPingNaming_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;993387147;2025-11-24T21:16:21",
+        "FFlagPerfStatNetworkPing2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;993387147;2025-11-24T21:16:21",
+        "FFlagVulkanReduceMipsUseImmCB2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:16:25",
+        "FFlagRecalcIdealMipOnFirstLoad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:17:35",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14099,9 +14103,9 @@
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FStringFlagRepoGitHashFastString": "682916379fbb14bd9170a93a537b525dc19b8d60",
-        "DFStringFlagRepoGitHashDynamicString": "682916379fbb14bd9170a93a537b525dc19b8d60",
-        "FStringFlipTimeStampFastString": "2025-11-24T21:15:04.137Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T21:15:04.137Z"
+        "FStringFlagRepoGitHashFastString": "9d044b018dc7a817ab604cd2b2ef2aee851d1cf9",
+        "DFStringFlagRepoGitHashDynamicString": "9d044b018dc7a817ab604cd2b2ef2aee851d1cf9",
+        "FStringFlipTimeStampFastString": "2025-11-24T21:19:11.559Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T21:19:11.559Z"
     }
 }
