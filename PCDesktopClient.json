@@ -13722,8 +13722,8 @@
         "FFlagSharedWrapSolution_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:09:47",
         "DFFlagSimRemoveOnSteppedBuffers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:10:47",
         "FFlagMtlReduceMipsUseImmCB2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:13:59",
-        "FFlagEnableAdsMouseUnlock": "True",
-        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagRecalcIdealMipOnFirstLoad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:17:35",
         "DFFlagTM2FixBBoxSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:18:07",
@@ -13755,8 +13755,8 @@
         "FFlagPerfDataOptimization3": "True",
         "FFlagTM2FixMeshDecalUVs": "True",
         "FFlagSimHumanoidCanCollideHashMap": "True",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
+        "FFlagEnableAdsMouseUnlock": "True",
+        "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -14337,6 +14337,7 @@
         "DFFlagSimFixBodyAngularVelocity": "True",
         "FFlagDeprecateLayoutInstancePointers": "False",
         "FFlagRefactorScrollableToModifier3": "False",
+        "FFlagTexturePacksFallbackReferenceManaged_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T22:02:46",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14846,9 +14847,9 @@
         "FStringNetStackDummyClientEnabledMinorVersions": "",
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
-        "FStringFlagRepoGitHashFastString": "3dc790fc5fb1e2b0e5a16aca431d4a6204413b4b",
-        "DFStringFlagRepoGitHashDynamicString": "3dc790fc5fb1e2b0e5a16aca431d4a6204413b4b",
-        "FStringFlipTimeStampFastString": "2025-11-24T22:02:22.482Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T22:02:22.482Z"
+        "FStringFlagRepoGitHashFastString": "2faa6ede81699502c7cd27ef5ad10585f1b04f78",
+        "DFStringFlagRepoGitHashDynamicString": "2faa6ede81699502c7cd27ef5ad10585f1b04f78",
+        "FStringFlipTimeStampFastString": "2025-11-24T22:05:38.200Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T22:05:38.200Z"
     }
 }
