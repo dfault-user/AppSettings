@@ -15616,6 +15616,7 @@
         "FFlagEnableGameTreeTool": "True",
         "FFlagEnableInspectInstanceTool": "True",
         "FFlagLuauSimplifyIntersectionNoTreeSet_Staged": "True;SteadyState;10;30;Revert;2025-11-24T18:26:39",
+        "FFlagIASFixResetInRollback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:32:37",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -16080,6 +16081,7 @@
         "FFlagLuaAppChangeRecommendedGamesTitle_IXP": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.RecommendedSortTitle.V1;414334630;dev_controlled",
         "FFlagSduiActionHandlerSharedRegistry2": "True",
         "FFlagFFlagAXBuildSubcategoryMapWhenBuildingCategoryInfo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:01:46",
+        "FFlagAXFixSubcategorySelectionById2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:33:45",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -16119,9 +16121,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "d1311867c545cb02aa75fc852d45ad2688b23ce2",
-        "DFStringFlagRepoGitHashDynamicString": "d1311867c545cb02aa75fc852d45ad2688b23ce2",
-        "FStringFlipTimeStampFastString": "2025-11-24T18:33:02.601Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T18:33:02.601Z"
+        "FStringFlagRepoGitHashFastString": "ef3e936ce6abcd429934c83bb25ecdf2fc95fd58",
+        "DFStringFlagRepoGitHashDynamicString": "ef3e936ce6abcd429934c83bb25ecdf2fc95fd58",
+        "FStringFlipTimeStampFastString": "2025-11-24T18:34:55.147Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T18:34:55.147Z"
     }
 }
