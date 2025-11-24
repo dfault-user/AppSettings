@@ -13693,6 +13693,8 @@
         "AllowVideoPreRoll": "True",
         "FFlagOptInOnlyForAegis_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:22:00",
         "FFlagSuspendOnlyForAegis_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:22:43",
+        "FFlagFlagRolloutTestStaticBool34_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:23:10",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -15623,7 +15625,6 @@
         "FFlagTryFixingSecretsControllerTest_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:55:31",
         "DFFlagSimSolidMeshSmoothingAngle_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:59:11",
         "FIntTPPreviewLimit_Staged": "8;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:13:03",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -16128,9 +16129,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "bccd957d807356441eca19e363fa227edcf48670",
-        "DFStringFlagRepoGitHashDynamicString": "bccd957d807356441eca19e363fa227edcf48670",
-        "FStringFlipTimeStampFastString": "2025-11-24T19:23:48.067Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:23:48.067Z"
+        "FStringFlagRepoGitHashFastString": "085cc7cabd4f6ef59315973ae5a277e462857a74",
+        "DFStringFlagRepoGitHashDynamicString": "085cc7cabd4f6ef59315973ae5a277e462857a74",
+        "FStringFlipTimeStampFastString": "2025-11-24T19:25:30.847Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:25:30.847Z"
     }
 }
