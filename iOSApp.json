@@ -13722,9 +13722,6 @@
         "FFlagDebounceConnectDisconnectSelector": "True",
         "FFlagHideVoiceChatSelectorForFae_AEGIS2": "True",
         "FFlagJoinVoiceOnAgeVerification2": "True",
-        "FFlagFixCopyTextureAlignmentMetal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:31:15",
-        "FFlagHsrDataContentProviderProvideErrorMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1483432330;2025-11-24T21:31:43",
-        "DFFlagAvatarFetchTrackingDMLockFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1241656404;2025-11-24T21:32:47",
         "DFFlagSimFixBodyAngularVelocity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:38:31",
         "FFlagReportTextureStreamingTelemetry6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:38:43",
         "FIntVideoExtraRingBufferPercent_Staged": "120;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:40:06",
@@ -13762,6 +13759,10 @@
         "FFlagFixCopyTextureAlignmentOrbis": "True",
         "FFlagFixCopyTextureAlignmentProspero": "True",
         "FFlagFixCopyTextureAlignmentVulkan": "True",
+        "DFFlagAvatarFetchTrackingDMLockFix": "True",
+        "FFlagHsrDataContentProviderProvideErrorMessage": "True",
+        "FFlagFixCopyTextureAlignmentMetal": "True",
+        "FFlagAEGIS2AppChatBannerUITagFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;27164750;2025-11-24T22:36:20",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14805,9 +14806,9 @@
         "DFIntPowerTraceHashThrottleRateHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T22:19:47",
         "FFlagEnableDeferredAssets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T22:21:04",
         "FFlagAXCloseFilterOnBackgroundTap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;298209507;2025-11-24T22:33:32",
-        "FStringFlagRepoGitHashFastString": "d94ecab39e027988ef48e0f3fb8b6435dd767d26",
-        "DFStringFlagRepoGitHashDynamicString": "d94ecab39e027988ef48e0f3fb8b6435dd767d26",
-        "FStringFlipTimeStampFastString": "2025-11-24T22:34:37.699Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T22:34:37.699Z"
+        "FStringFlagRepoGitHashFastString": "d0711a7c603c4bfaa8c61baae714b20140f729a5",
+        "DFStringFlagRepoGitHashDynamicString": "d0711a7c603c4bfaa8c61baae714b20140f729a5",
+        "FStringFlipTimeStampFastString": "2025-11-24T22:37:38.223Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T22:37:38.223Z"
     }
 }
