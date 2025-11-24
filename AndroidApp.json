@@ -13715,6 +13715,10 @@
         "DFFlagBase64NewEncode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:57:49",
         "FFlagLuaAppCleanupTopSearchResults_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:59:31",
         "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:01:11",
+        "FFlagLuaAppFixUserEmphasisTileSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:01:49",
+        "FFlagExpChatFocusViaLastModeFix2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:02:31",
+        "FFlagLuaAppAddVideoBlockingToEventStream_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:03:01",
+        "FFlagExpChatFocusChannelBarSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:03:09",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14688,9 +14692,9 @@
         "FFlagUseAndroidPaymentsProtocolThreadsafeSessionId": "True",
         "FFlagUseAndroidThreadsafeCheckoutSessionId2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:46:02",
         "FStringSessionDataInclusionInHttpHeaders": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame",
-        "FStringFlagRepoGitHashFastString": "36a42f12e0e33e99071ef59e51a070f5426c9eb4",
-        "DFStringFlagRepoGitHashDynamicString": "36a42f12e0e33e99071ef59e51a070f5426c9eb4",
-        "FStringFlipTimeStampFastString": "2025-11-24T20:03:07.368Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T20:03:07.368Z"
+        "FStringFlagRepoGitHashFastString": "a1e6e4db7472942be7e0b35f6e1dbda9701daafc",
+        "DFStringFlagRepoGitHashDynamicString": "a1e6e4db7472942be7e0b35f6e1dbda9701daafc",
+        "FStringFlipTimeStampFastString": "2025-11-24T20:05:15.604Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T20:05:15.604Z"
     }
 }
