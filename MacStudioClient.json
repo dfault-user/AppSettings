@@ -13714,6 +13714,7 @@
         "FFlagEnableAdsMouseUnlock": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "DFFlagBase64NewEncode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:57:49",
+        "FFlagLuaAppCleanupTopSearchResults_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:59:31",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -16105,6 +16106,7 @@
         "FFlagAXFixSubcategorySelectionById2": "True",
         "FFlagUnifiedPurchaseGamepassAddProductUniverseId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:36:56",
         "FStringSessionDataInclusionInHttpHeaders": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame",
+        "DFFlagSimFixBodyAngularVelocity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:58:39",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -16144,9 +16146,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "c11fe72f432bb0b4d22a6767e481908f9445393d",
-        "DFStringFlagRepoGitHashDynamicString": "c11fe72f432bb0b4d22a6767e481908f9445393d",
-        "FStringFlipTimeStampFastString": "2025-11-24T19:59:44.962Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:59:44.962Z"
+        "FStringFlagRepoGitHashFastString": "1885863c5fce9354534eeb24e5b32c13bcf6b5d5",
+        "DFStringFlagRepoGitHashDynamicString": "1885863c5fce9354534eeb24e5b32c13bcf6b5d5",
+        "FStringFlipTimeStampFastString": "2025-11-24T20:01:07.610Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T20:01:07.610Z"
     }
 }
