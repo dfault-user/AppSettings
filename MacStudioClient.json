@@ -13691,6 +13691,8 @@
         "FFlagExplorerStreaming3": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "AllowVideoPreRoll": "True",
+        "FFlagOptInOnlyForAegis_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:22:00",
+        "FFlagSuspendOnlyForAegis_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:22:43",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -16126,9 +16128,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "ad626da1286996e9e6b67816570a21d9172cc5aa",
-        "DFStringFlagRepoGitHashDynamicString": "ad626da1286996e9e6b67816570a21d9172cc5aa",
-        "FStringFlipTimeStampFastString": "2025-11-24T19:21:33.725Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:21:33.725Z"
+        "FStringFlagRepoGitHashFastString": "bccd957d807356441eca19e363fa227edcf48670",
+        "DFStringFlagRepoGitHashDynamicString": "bccd957d807356441eca19e363fa227edcf48670",
+        "FStringFlipTimeStampFastString": "2025-11-24T19:23:48.067Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:23:48.067Z"
     }
 }

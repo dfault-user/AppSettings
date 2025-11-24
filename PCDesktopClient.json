@@ -13691,6 +13691,8 @@
         "FFlagExplorerStreaming3": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagReflectBufferAsBuffer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:11:33",
+        "FFlagOptInOnlyForAegis_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:22:00",
+        "FFlagSuspendOnlyForAegis_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:22:43",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14277,11 +14279,11 @@
         "FFlagSduiSupportClientBindingAnalytics2": "True",
         "FFlagLuaAppChangeRecommendedGamesTitle_IXP": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.RecommendedSortTitle.V1;414334630;dev_controlled",
         "FFlagSduiActionHandlerSharedRegistry2": "True",
-        "DFFlagWindowsReduceFrameCapDuringMoveSizeLoop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:16:19",
         "FFlagAXFixSubcategorySelectionById2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:33:45",
         "FStringSessionDataInclusionInHttpHeaders_Staged": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:50:32",
         "FFlagFFlagAXBuildSubcategoryMapWhenBuildingCategoryInfo": "True",
         "FFlagLuaAppFixEmptyRecommendedGames_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:13:13",
+        "DFFlagWindowsReduceFrameCapDuringMoveSizeLoop": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14794,9 +14796,9 @@
         "FFlagEnableSocialUpsellButtonMediumSize": "True",
         "FFlagEnableSocialUpsellButtonMediumSize_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1940208657;2025-11-24T18:25:24",
         "FFlagIASFixResetInRollback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:32:37",
-        "FStringFlagRepoGitHashFastString": "ad626da1286996e9e6b67816570a21d9172cc5aa",
-        "DFStringFlagRepoGitHashDynamicString": "ad626da1286996e9e6b67816570a21d9172cc5aa",
-        "FStringFlipTimeStampFastString": "2025-11-24T19:21:33.725Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:21:33.725Z"
+        "FStringFlagRepoGitHashFastString": "bccd957d807356441eca19e363fa227edcf48670",
+        "DFStringFlagRepoGitHashDynamicString": "bccd957d807356441eca19e363fa227edcf48670",
+        "FStringFlipTimeStampFastString": "2025-11-24T19:23:48.067Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:23:48.067Z"
     }
 }
