@@ -13687,8 +13687,6 @@
         "FFlagFixAppInsetViewAdapterMemoryLeak": "True",
         "FFlagUserTileAddDataHydrationWrapper": "True",
         "FStringReimportBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-reimport-one-click-updates-for-imported-3d-content/4068650",
-        "FFlagExpChatOnShowIconChatAvailabilityStatus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:48:00",
-        "FFlagFixWindowFocusedOnNewUIS3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:49:06",
         "FFlagAEGIS2ActivateEnableChatButtonTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:53:05",
         "FFlagInExperienceVoiceUpsellAnalyticsV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;270575238;2025-11-24T19:56:21",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -13724,6 +13722,9 @@
         "FFlagTraversalBackUseSettingsSignal": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagVoxelGridFixUpsample": "True",
+        "FFlagFixWindowFocusedOnNewUIS3": "True",
+        "FFlagExpChatOnShowIconChatAvailabilityStatus": "True",
+        "FFlagVoxelGridFixTerrainRegionWater": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15653,7 +15654,6 @@
         "FFlagCleanupLoginFromRobloxMainWindow": "True",
         "FFlagTryFixingSecretsControllerTest": "True",
         "FIntTPPreviewLimit": "8",
-        "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
         "FFlagVoxelGridFixRegionChanged": "True",
         "FFlagGameBasicSettingsFramerateCap5": "True",
@@ -16183,9 +16183,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "e36f97616368b186f9cec3aab41fc61bdb3d11b7",
-        "DFStringFlagRepoGitHashDynamicString": "e36f97616368b186f9cec3aab41fc61bdb3d11b7",
-        "FStringFlipTimeStampFastString": "2025-11-24T20:50:55.084Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T20:50:55.084Z"
+        "FStringFlagRepoGitHashFastString": "1fd0cdebb282a0a55ab5ccad2fa3aeb0da3176b8",
+        "DFStringFlagRepoGitHashDynamicString": "1fd0cdebb282a0a55ab5ccad2fa3aeb0da3176b8",
+        "FStringFlipTimeStampFastString": "2025-11-24T20:52:21.734Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T20:52:21.734Z"
     }
 }
