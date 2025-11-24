@@ -14692,19 +14692,19 @@
         "FFlagEnableIsolatedAdsBacktrace": "True",
         "FFlagExpChatCheckTailVisibleInitValue": "True",
         "FFlagExpChatTextChatCommandRemoved": "True",
-        "FFlagUseAndroidPaymentsProtocolDuplicateMessageFix": "True",
-        "FFlagUseAndroidThreadsafeCheckoutSessionId2": "True",
+        "FFlagUseAndroidPaymentsProtocolDuplicateMessageFix": "False",
+        "FFlagUseAndroidThreadsafeCheckoutSessionId2": "False",
         "FFlagIASFixResetInRollback": "True",
         "FFlagAXFixSubcategorySelectionById2": "True",
-        "FFlagUseAndroidPaymentsProtocolThreadsafeSessionId": "True",
+        "FFlagUseAndroidPaymentsProtocolThreadsafeSessionId": "False",
         "FStringSessionDataInclusionInHttpHeaders": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame",
         "DFIntPowerTraceModuleEpochOffsetSeconds": "1",
         "FFlagEnablePowerTraceModule_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:16:42",
         "FFlagPrefetchDeferredAssets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:21:02",
-        "FFlagUseAndroidThreadsafeCheckoutSessionId2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:23:20",
-        "FStringFlagRepoGitHashFastString": "131f4ee40754d44cc7fa9647f0eb46ad02c774f4",
-        "DFStringFlagRepoGitHashDynamicString": "131f4ee40754d44cc7fa9647f0eb46ad02c774f4",
-        "FStringFlipTimeStampFastString": "2025-11-24T21:07:25.027Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T21:07:25.027Z"
+        "FFlagUseAndroidThreadsafeCheckoutSessionId2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1950264606;2025-11-24T21:07:11",
+        "FStringFlagRepoGitHashFastString": "40f885e9b1e65580d65f90cdfcf2d478c2b25e40",
+        "DFStringFlagRepoGitHashDynamicString": "40f885e9b1e65580d65f90cdfcf2d478c2b25e40",
+        "FStringFlipTimeStampFastString": "2025-11-24T21:09:25.698Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T21:09:25.698Z"
     }
 }
