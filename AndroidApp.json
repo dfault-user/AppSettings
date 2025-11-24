@@ -13794,6 +13794,8 @@
         "FFlagEnableAppChatMessageVisibilityv700": "True",
         "FFlagRemoveAEGIS2RTNFromAppChatEventReceiver": "True",
         "FFlagDisableStopAtBcUnaligned": "True",
+        "DFFlagFixTextTruncationWithFractionalScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;153934097;2025-11-24T23:42:49",
+        "FFlagAllowUsingVisQueryInRenderQueue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:44:04",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14770,9 +14772,9 @@
         "FFlagEnableDeferredAssets": "True",
         "FFlagAddDeferredAssetIndicator_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:31:38",
         "DFFlagDataPingTrace_Staged": "False;SteadyState;10;30;Revert;2025-11-24T23:35:00",
-        "FStringFlagRepoGitHashFastString": "90385aba3bb2b9b4b2bb1e033707c31687815d54",
-        "DFStringFlagRepoGitHashDynamicString": "90385aba3bb2b9b4b2bb1e033707c31687815d54",
-        "FStringFlipTimeStampFastString": "2025-11-24T23:42:02.372Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T23:42:02.372Z"
+        "FStringFlagRepoGitHashFastString": "92ed35d371d796e0d3a2348ec2d60bdd5bead9fc",
+        "DFStringFlagRepoGitHashDynamicString": "92ed35d371d796e0d3a2348ec2d60bdd5bead9fc",
+        "FStringFlipTimeStampFastString": "2025-11-24T23:45:12.201Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T23:45:12.201Z"
     }
 }
