@@ -13722,8 +13722,6 @@
         "FFlagDebounceConnectDisconnectSelector": "True",
         "FFlagHideVoiceChatSelectorForFae_AEGIS2": "True",
         "FFlagJoinVoiceOnAgeVerification2": "True",
-        "FFlagReportTextureStreamingTelemetry6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:38:43",
-        "FIntVideoExtraRingBufferPercent_Staged": "120;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:40:06",
         "AllowVideoPreRoll": "True",
         "DFFlagEnableFixClientShowRewardedVideoAdResultCounter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:46:13",
         "FFlagExpChatCheckTailVisibleInitValue": "True",
@@ -13771,6 +13769,7 @@
         "FFlagRemoveAEGIS2RTNFromAppChatEventReceiver_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;564765582;2025-11-24T22:39:15",
         "DFFlagSimFixBodyAngularVelocity": "True",
         "FFlagReportTextureStreamingTelemetry6": "True",
+        "FIntVideoExtraRingBufferPercent": "120",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -16193,9 +16192,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "fe9f3ccf1435dafd6c8fc2b499d279010e72bb7c",
-        "DFStringFlagRepoGitHashDynamicString": "fe9f3ccf1435dafd6c8fc2b499d279010e72bb7c",
-        "FStringFlipTimeStampFastString": "2025-11-24T22:40:32.189Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T22:40:32.189Z"
+        "FStringFlagRepoGitHashFastString": "b8819e286e3c219c6d21aca96648a69ff60a6940",
+        "DFStringFlagRepoGitHashDynamicString": "b8819e286e3c219c6d21aca96648a69ff60a6940",
+        "FStringFlipTimeStampFastString": "2025-11-24T22:41:41.511Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T22:41:41.511Z"
     }
 }
