@@ -13694,10 +13694,6 @@
         "FFlagOptInOnlyForAegis": "True",
         "FFlagSuspendOnlyForAegis": "True",
         "FFlagLuaAppEdpVideoFrameCleanupWrapper": "True",
-        "FFlagHideVoiceChatSelectorForFae_AEGIS2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:28:48",
-        "FFlagDebounceConnectDisconnectSelector_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:28:57",
-        "FFlagLcCompressUseHsrVisibility_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:29:33",
-        "FFlagJoinVoiceOnAgeVerification2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:30:04",
         "FFlagRegisterCallToActionView": "True",
         "FFlagRegisterFineGrainedAssetViews": "True",
         "FFlagAXTryOnScreenImprovements6": "True",
@@ -13743,6 +13739,13 @@
         "FFlagFixCopyTextureAlignmentOrbis_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:29:07",
         "FFlagAEGIS2ExpChatShowEnableChatButton3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:29:51",
         "FFlagFixCopyTextureAlignmentProspero_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:29:54",
+        "FFlagLcCompressUseHsrVisibility": "True",
+        "FFlagDebounceConnectDisconnectSelector": "True",
+        "FFlagHideVoiceChatSelectorForFae_AEGIS2": "True",
+        "FFlagJoinVoiceOnAgeVerification2": "True",
+        "FFlagFixCopyTextureAlignmentMetal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:31:15",
+        "FFlagHsrDataContentProviderProvideErrorMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1483432330;2025-11-24T21:31:43",
+        "DFFlagAvatarFetchTrackingDMLockFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1241656404;2025-11-24T21:32:47",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -14835,9 +14838,9 @@
         "FStringNetStackDummyClientEnabledMinorVersions": "",
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
-        "FStringFlagRepoGitHashFastString": "22aac8d19f8cdffee8daa7a8291c42484a3bb6fc",
-        "DFStringFlagRepoGitHashDynamicString": "22aac8d19f8cdffee8daa7a8291c42484a3bb6fc",
-        "FStringFlipTimeStampFastString": "2025-11-24T21:33:12.060Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T21:33:12.060Z"
+        "FStringFlagRepoGitHashFastString": "d210e81dd8c3be3c2d23f7a99cb390e3c9882e59",
+        "DFStringFlagRepoGitHashDynamicString": "d210e81dd8c3be3c2d23f7a99cb390e3c9882e59",
+        "FStringFlipTimeStampFastString": "2025-11-24T21:35:07.133Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T21:35:07.133Z"
     }
 }
