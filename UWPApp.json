@@ -13796,6 +13796,11 @@
         "DFFlagFixTextTruncationWithFractionalScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;153934097;2025-11-24T23:42:49",
         "FFlagAllowUsingVisQueryInRenderQueue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:44:04",
         "FIntUserHeartbeatsPulseIntervalSeconds": "60",
+        "FFlagFCRouteSecondaryParts4_Staged": "True;SteadyState;10;30;Revert;true;580599053;2025-11-24T23:46:15",
+        "FFlagFCRouteSecondaryParts4_IXP": "1;Portal.FastClusterToolsOptimizationNov24-1764027935;FastClusterToolsOptimizationNov24;580599053;flagbank",
+        "FFlagFCTransformsDiffCheckOnUpdateGeometry_Staged": "True;SteadyState;10;30;Revert;true;580599053;2025-11-24T23:46:15",
+        "FFlagFCTransformsDiffCheckOnUpdateGeometry_IXP": "1;Portal.FastClusterToolsOptimizationNov24-1764027935;FastClusterToolsOptimizationNov24;580599053;flagbank",
+        "FFlagFoundationMigrateCryoToDash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:48:15",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14094,9 +14099,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "ac1fd845cbb60a30309bcff70916fb191e8046b5",
-        "DFStringFlagRepoGitHashDynamicString": "ac1fd845cbb60a30309bcff70916fb191e8046b5",
-        "FStringFlipTimeStampFastString": "2025-11-24T23:47:33.286Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T23:47:33.286Z"
+        "FStringFlagRepoGitHashFastString": "2d978f8b04ef37b699104c9a389bb3812d637cf8",
+        "DFStringFlagRepoGitHashDynamicString": "2d978f8b04ef37b699104c9a389bb3812d637cf8",
+        "FStringFlipTimeStampFastString": "2025-11-24T23:49:17.191Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T23:49:17.191Z"
     }
 }
