@@ -13690,7 +13690,6 @@
         "FFlagExpUseCorrectReconcileFunction": "True",
         "DFFlagAdditionalFontChecks": "True",
         "FFlagReflectBufferAsBuffer": "True",
-        "FFlagExpChatReconcileOnAgeVerifiedChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1053043138;2025-11-24T20:19:05",
         "FIntIsolatedAdsBacktraceCrashUploadPercent": "100",
         "FFlagOptInOnlyForAegis": "True",
         "FFlagSuspendOnlyForAegis": "True",
@@ -13737,6 +13736,8 @@
         "FFlagVulkanReduceMipsUseImmCB2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:16:25",
         "FFlagRecalcIdealMipOnFirstLoad_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:17:35",
         "DFFlagTM2FixBBoxSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:18:07",
+        "FFlagExpChatReconcileOnAgeVerifiedChange": "True",
+        "FFlagFixCopyTextureAlignmentD3D11_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:21:34",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14035,9 +14036,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "caf1079e1665a354a02a664ddaabcb85c4f4a402",
-        "DFStringFlagRepoGitHashDynamicString": "caf1079e1665a354a02a664ddaabcb85c4f4a402",
-        "FStringFlipTimeStampFastString": "2025-11-24T21:19:32.987Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T21:19:32.987Z"
+        "FStringFlagRepoGitHashFastString": "b02488f74ee055bfb008598a9c4e9468dc948579",
+        "DFStringFlagRepoGitHashDynamicString": "b02488f74ee055bfb008598a9c4e9468dc948579",
+        "FStringFlipTimeStampFastString": "2025-11-24T21:23:01.198Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T21:23:01.198Z"
     }
 }
