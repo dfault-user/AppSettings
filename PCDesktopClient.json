@@ -13724,7 +13724,6 @@
         "FFlagJoinVoiceOnAgeVerification2": "True",
         "FFlagExpChatCheckTailVisibleInitValue": "True",
         "FFlagExpChatTextChatCommandRemoved": "True",
-        "FFlagAppChatReloadMessagesForEmptyConversation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1283552344;2025-11-24T21:55:33",
         "FFlagPerfDataOptimization3": "True",
         "FFlagTM2FixMeshDecalUVs": "True",
         "FFlagSimHumanoidCanCollideHashMap": "True",
@@ -13773,6 +13772,7 @@
         "FFlagAppChatTrustedConnectionRTNEventTypeNameFix": "True",
         "FFlagEnableSocialUpsellUIFixes5": "True",
         "FFlagToolboxRemoveGenre_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1564402867;2025-11-24T22:59:26",
+        "FFlagAppChatReloadMessagesForEmptyConversation": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
@@ -14861,9 +14861,9 @@
         "FStringNetStackDummyClientEnabledMinorVersions": "",
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
-        "FStringFlagRepoGitHashFastString": "27d2e60ed6cba807e186da11eb0eb4ae79f66141",
-        "DFStringFlagRepoGitHashDynamicString": "27d2e60ed6cba807e186da11eb0eb4ae79f66141",
-        "FStringFlipTimeStampFastString": "2025-11-24T23:01:07.160Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T23:01:07.160Z"
+        "FStringFlagRepoGitHashFastString": "a2046ec360f92aa8d5e345a7dfe92e7596f4a815",
+        "DFStringFlagRepoGitHashDynamicString": "a2046ec360f92aa8d5e345a7dfe92e7596f4a815",
+        "FStringFlipTimeStampFastString": "2025-11-24T23:02:30.767Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T23:02:30.767Z"
     }
 }
