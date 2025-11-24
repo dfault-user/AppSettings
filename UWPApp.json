@@ -13686,6 +13686,8 @@
         "FFlagEnableLocalesForExperienceLanguageSwitcher2": "True",
         "FFlagExplorerStreaming3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:08:51",
         "FFlagFixAppInsetViewAdapterMemoryLeak_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:22:59",
+        "FFlagExpChatReconcileOnAgeVerifiedChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1736074955;2025-11-24T18:29:45",
+        "FFlagExpUseCorrectReconcileFunction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1736074955;2025-11-24T18:29:45",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -13984,9 +13986,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "4ec116802a6949ae1c548dab91fae93ac792aac8",
-        "DFStringFlagRepoGitHashDynamicString": "4ec116802a6949ae1c548dab91fae93ac792aac8",
-        "FStringFlipTimeStampFastString": "2025-11-24T18:29:35.452Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T18:29:35.452Z"
+        "FStringFlagRepoGitHashFastString": "954f61f6c243080848fd64f8eb07ce216062068f",
+        "DFStringFlagRepoGitHashDynamicString": "954f61f6c243080848fd64f8eb07ce216062068f",
+        "FStringFlipTimeStampFastString": "2025-11-24T18:30:58.899Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T18:30:58.899Z"
     }
 }
