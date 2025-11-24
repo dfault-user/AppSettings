@@ -13687,9 +13687,7 @@
         "FFlagFixAppInsetViewAdapterMemoryLeak": "True",
         "FFlagUserTileAddDataHydrationWrapper": "True",
         "FStringReimportBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-reimport-one-click-updates-for-imported-3d-content/4068650",
-        "FFlagAEGIS2ActivateEnableChatButtonTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:53:05",
         "FFlagInExperienceVoiceUpsellAnalyticsV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;270575238;2025-11-24T19:56:21",
-        "DFIntBase64NewDecodeReportHundredthsPercentage_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:54:51",
         "FFlagManuallyInvokeAmpUpsell2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:00:45",
         "DFFlagBase64NewDecodeReport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:56:43",
         "DFFlagBase64NewDecodeWarning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:57:12",
@@ -13725,6 +13723,9 @@
         "FFlagFixWindowFocusedOnNewUIS3": "True",
         "FFlagExpChatOnShowIconChatAvailabilityStatus": "True",
         "AxisAdornmentGrabSize": "12",
+        "FFlagTM2FixMeshDecalUVs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:54:27",
+        "DFIntBase64NewDecodeReportHundredthsPercentage": "100",
+        "FFlagAEGIS2ActivateEnableChatButtonTelemetry": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14092,9 +14093,9 @@
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FStringFlagRepoGitHashFastString": "1fd0cdebb282a0a55ab5ccad2fa3aeb0da3176b8",
-        "DFStringFlagRepoGitHashDynamicString": "1fd0cdebb282a0a55ab5ccad2fa3aeb0da3176b8",
-        "FStringFlipTimeStampFastString": "2025-11-24T20:52:21.734Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T20:52:21.734Z"
+        "FStringFlagRepoGitHashFastString": "3ea5a6275145a71dce9a7738ffd849a35f1d69bc",
+        "DFStringFlagRepoGitHashDynamicString": "3ea5a6275145a71dce9a7738ffd849a35f1d69bc",
+        "FStringFlipTimeStampFastString": "2025-11-24T20:56:47.052Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T20:56:47.052Z"
     }
 }
