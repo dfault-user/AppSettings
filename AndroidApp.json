@@ -14649,9 +14649,6 @@
         "FStringPerformanceControlDefaultMemoryBufferConfig_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
         "FStringPerformanceControlMemoryBufferModificationsEnabledJson_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
         "FFlagFCRouteSecondaryParts4": "True",
-        "FFlagEnableIsolatedAdsBacktrace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:12:20",
-        "FFlagExpChatCheckTailVisibleInitValue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1907959846;2025-11-24T18:12:27",
-        "FIntIsolatedAdsBacktraceCrashUploadPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:12:51",
         "FFlagExpChatTextChatCommandRemoved_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;678484506;2025-11-24T18:15:21",
         "FFlagUseAndroidThreadsafeCheckoutSessionId2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:26:42",
         "FFlagUseAndroidPaymentsProtocolDuplicateMessageFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:30:16",
@@ -14663,9 +14660,12 @@
         "DFFlagPowerTraceHashFix": "True",
         "FFlagFFlagAXBuildSubcategoryMapWhenBuildingCategoryInfo": "True",
         "DFIntPowerTraceModuleEpochOffsetSeconds_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:10:48",
-        "FStringFlagRepoGitHashFastString": "0b481630467f10f1d2520bd219cf5b997695ce1a",
-        "DFStringFlagRepoGitHashDynamicString": "0b481630467f10f1d2520bd219cf5b997695ce1a",
-        "FStringFlipTimeStampFastString": "2025-11-24T19:15:18.187Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:15:18.187Z"
+        "FFlagEnableIsolatedAdsBacktrace": "True",
+        "FIntIsolatedAdsBacktraceCrashUploadPercent": "10",
+        "FFlagExpChatCheckTailVisibleInitValue": "True",
+        "FStringFlagRepoGitHashFastString": "b598c4e10b733d9be0313541fa3cba3ad20a7162",
+        "DFStringFlagRepoGitHashDynamicString": "b598c4e10b733d9be0313541fa3cba3ad20a7162",
+        "FStringFlipTimeStampFastString": "2025-11-24T19:16:53.537Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:16:53.537Z"
     }
 }
