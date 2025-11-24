@@ -13687,11 +13687,6 @@
         "FFlagFixAppInsetViewAdapterMemoryLeak": "True",
         "FFlagUserTileAddDataHydrationWrapper": "True",
         "FStringReimportBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-reimport-one-click-updates-for-imported-3d-content/4068650",
-        "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:01:11",
-        "FFlagLuaAppFixUserEmphasisTileSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:01:49",
-        "FFlagExpChatFocusViaLastModeFix2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:02:31",
-        "FFlagLuaAppAddVideoBlockingToEventStream_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:03:01",
-        "FFlagExpChatFocusChannelBarSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T20:03:09",
         "FFlagExpUseCorrectReconcileFunction": "True",
         "DFFlagAdditionalFontChecks": "True",
         "FFlagReflectBufferAsBuffer": "True",
@@ -13728,6 +13723,12 @@
         "DFFlagBase64NewEncode": "True",
         "FFlagInExperienceVoiceUpsellAnalyticsV2": "True",
         "FFlagAdjustTitleWidthForLayoutModes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:02:41",
+        "FStringCustomizedLandingExperienceSort_Staged": "trending-in-shooter;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T21:04:51",
+        "FFlagExpChatFocusChannelBarSupport": "True",
+        "FFlagExpChatFocusViaLastModeFix2": "True",
+        "FFlagLuaAppAddAvailRamToVideoBlockingTelemetry": "True",
+        "FFlagLuaAppAddVideoBlockingToEventStream": "True",
+        "FFlagLuaAppFixUserEmphasisTileSize": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -16157,9 +16158,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "d841cbd62873a3db982d1c3b869241122aebfb8b",
-        "DFStringFlagRepoGitHashDynamicString": "d841cbd62873a3db982d1c3b869241122aebfb8b",
-        "FStringFlipTimeStampFastString": "2025-11-24T21:04:39.467Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T21:04:39.467Z"
+        "FStringFlagRepoGitHashFastString": "131f4ee40754d44cc7fa9647f0eb46ad02c774f4",
+        "DFStringFlagRepoGitHashDynamicString": "131f4ee40754d44cc7fa9647f0eb46ad02c774f4",
+        "FStringFlipTimeStampFastString": "2025-11-24T21:07:25.027Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T21:07:25.027Z"
     }
 }
