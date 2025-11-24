@@ -13700,6 +13700,9 @@
         "FFlagFixAppInsetViewAdapterMemoryLeak": "True",
         "FFlagRegisterFineGrainedAssetViews_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:26:09",
         "AllowVideoPreRoll": "True",
+        "DFFlagBatchedInstancePush_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:33:03",
+        "DFFlagQueryRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:34:07",
+        "DFFlagQueryClassNameExact_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:33:26",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -14742,9 +14745,9 @@
         "FFlagFFlagAXBuildSubcategoryMapWhenBuildingCategoryInfo": "True",
         "DFIntPowerTraceModuleEpochOffsetSeconds_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:10:48",
         "FFlagEnableNativeAdCtrLoggingIos": "True",
-        "FStringFlagRepoGitHashFastString": "4ade587478a8f442239b210d90de88d1fadba4c4",
-        "DFStringFlagRepoGitHashDynamicString": "4ade587478a8f442239b210d90de88d1fadba4c4",
-        "FStringFlipTimeStampFastString": "2025-11-24T19:32:31.366Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:32:31.366Z"
+        "FStringFlagRepoGitHashFastString": "b8a8a49a3831a74cb210f95737b11d55ca8271a5",
+        "DFStringFlagRepoGitHashDynamicString": "b8a8a49a3831a74cb210f95737b11d55ca8271a5",
+        "FStringFlipTimeStampFastString": "2025-11-24T19:35:55.817Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:35:55.817Z"
     }
 }
