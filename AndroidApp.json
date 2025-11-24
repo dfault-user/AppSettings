@@ -13702,6 +13702,7 @@
         "FFlagAXTryOnScreenImprovements6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:27:06",
         "DFFlagBatchedInstancePush_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:33:03",
         "DFFlagQueryRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:34:07",
+        "DFFlagQueryClassNameExact_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:33:26",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -14660,9 +14661,6 @@
         "FStringPerformanceControlMemoryBufferModificationsEnabledJson_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
         "FFlagFCRouteSecondaryParts4": "True",
         "FFlagDisableAndroidLogInReleaseBuilds_IXP": "1;ConsumerPlatforms.Platform.ByUserId;ConsumerPlatforms.Platform.DisableAndroidLogInReleaseBuilds;182051492;flagbank",
-        "FFlagIASFixResetInRollback_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:32:37",
-        "FFlagAXFixSubcategorySelectionById2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:33:45",
-        "FFlagUseAndroidPaymentsProtocolThreadsafeSessionId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:35:13",
         "FStringSessionDataInclusionInHttpHeaders_Staged": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:50:32",
         "DFFlagPowerTraceHashFix": "True",
         "FFlagFFlagAXBuildSubcategoryMapWhenBuildingCategoryInfo": "True",
@@ -14673,9 +14671,12 @@
         "FFlagExpChatTextChatCommandRemoved": "True",
         "FFlagUseAndroidPaymentsProtocolDuplicateMessageFix": "True",
         "FFlagUseAndroidThreadsafeCheckoutSessionId2": "True",
-        "FStringFlagRepoGitHashFastString": "c13fa866f1ba1b1f5604462bd625a283fafc5bbd",
-        "DFStringFlagRepoGitHashDynamicString": "c13fa866f1ba1b1f5604462bd625a283fafc5bbd",
-        "FStringFlipTimeStampFastString": "2025-11-24T19:35:26.003Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:35:26.003Z"
+        "FFlagIASFixResetInRollback": "True",
+        "FFlagAXFixSubcategorySelectionById2": "True",
+        "FFlagUseAndroidPaymentsProtocolThreadsafeSessionId": "True",
+        "FStringFlagRepoGitHashFastString": "b1fe5aff6850a268c627147a993721afb601571a",
+        "DFStringFlagRepoGitHashDynamicString": "b1fe5aff6850a268c627147a993721afb601571a",
+        "FStringFlipTimeStampFastString": "2025-11-24T19:37:37.889Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T19:37:37.889Z"
     }
 }
