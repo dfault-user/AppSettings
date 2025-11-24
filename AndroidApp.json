@@ -14649,9 +14649,11 @@
         "FFlagUseAndroidPaymentsProtocolDuplicateMessageFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:08:58",
         "FFlagFCRouteSecondaryParts4": "True",
         "FFlagEnableIsolatedAdsBacktrace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:12:20",
-        "FStringFlagRepoGitHashFastString": "1111e55204f955ee213e7e58b6538e814c6a76e6",
-        "DFStringFlagRepoGitHashDynamicString": "1111e55204f955ee213e7e58b6538e814c6a76e6",
-        "FStringFlipTimeStampFastString": "2025-11-24T18:13:44.724Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T18:13:44.724Z"
+        "FFlagExpChatCheckTailVisibleInitValue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1907959846;2025-11-24T18:12:27",
+        "FIntIsolatedAdsBacktraceCrashUploadPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T18:12:51",
+        "FStringFlagRepoGitHashFastString": "a452f9011bf34161c9124376ad828c71219ff882",
+        "DFStringFlagRepoGitHashDynamicString": "a452f9011bf34161c9124376ad828c71219ff882",
+        "FStringFlipTimeStampFastString": "2025-11-24T18:15:14.287Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T18:15:14.287Z"
     }
 }
