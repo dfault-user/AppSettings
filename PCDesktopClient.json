@@ -14306,6 +14306,8 @@
         "FStringSessionDataInclusionInHttpHeaders": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame",
         "DFFlagSimFixBodyAngularVelocity_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T19:58:39",
         "FFlagLuaAppFixEmptyRecommendedGames": "True",
+        "FFlagDeprecateLayoutInstancePointers_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;368591656;2025-11-24T20:16:36",
+        "FFlagRefactorScrollableToModifier3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;368591656;2025-11-24T20:16:36",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -14815,9 +14817,9 @@
         "FStringNetStackDummyClientEnabledMinorVersions": "",
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
-        "FStringFlagRepoGitHashFastString": "cf7d817d53c0017917821b4c0c9347f7fd8dc0a9",
-        "DFStringFlagRepoGitHashDynamicString": "cf7d817d53c0017917821b4c0c9347f7fd8dc0a9",
-        "FStringFlipTimeStampFastString": "2025-11-24T20:17:26.996Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T20:17:26.996Z"
+        "FStringFlagRepoGitHashFastString": "56f4a756cd4ccc10300ddbd0e3aa12dd667c3b57",
+        "DFStringFlagRepoGitHashDynamicString": "56f4a756cd4ccc10300ddbd0e3aa12dd667c3b57",
+        "FStringFlipTimeStampFastString": "2025-11-24T20:18:19.864Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-24T20:18:19.864Z"
     }
 }
