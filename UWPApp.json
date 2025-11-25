@@ -13853,6 +13853,10 @@
         "FFlagAcousticSimulationEventDrivenCancellation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:42:12",
         "FFlagAcousticSimulationDisabledEvenFasterFastPath_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:42:37",
         "FFlagFmodLockFreeDspWetDryMix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:42:46",
+        "DFFlagQueryAttributeExists_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:45:15",
+        "FFlagVoiceOptInOnAgeVerification_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1931739336;2025-11-25T18:45:46",
+        "DFFlagQuerySelectorNot_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:46:01",
+        "FIntAudioEmitterIdlePanningUpdatePercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:46:23",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14151,9 +14155,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "b378869c138ee338fa8ebf673060a1ca5a77f42a",
-        "DFStringFlagRepoGitHashDynamicString": "b378869c138ee338fa8ebf673060a1ca5a77f42a",
-        "FStringFlipTimeStampFastString": "2025-11-25T18:46:55.504Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:46:55.504Z"
+        "FStringFlagRepoGitHashFastString": "a4cc5053fb5d2148a37935172258c28fbf03a068",
+        "DFStringFlagRepoGitHashDynamicString": "a4cc5053fb5d2148a37935172258c28fbf03a068",
+        "FStringFlipTimeStampFastString": "2025-11-25T18:49:27.576Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:49:27.576Z"
     }
 }
