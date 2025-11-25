@@ -13804,7 +13804,6 @@
         "DFFlagRegisterAdAssetViewsIos": "True",
         "DFFlagRegisterGranularAdAssetViewsIos": "True",
         "FFlagFixErrorPromptOnVR": "True",
-        "FFlagProMotionLimitWait_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:01:35",
         "FFlagAEGISPhase2ShowImageOnFAEOverlay_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:05:44",
         "AllowVideoPreRoll": "True",
         "DFFlagNewHumanoidChildUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:13:46",
@@ -13829,6 +13828,8 @@
         "DFFlagSCMAggressiveOptimization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2115096087;2025-11-25T17:33:17",
         "DFFlagSocialCounterpartyManagerOptimizationPairwiseRequests_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2115096087;2025-11-25T17:33:17",
         "FFlagRevisedReverbDistances_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:37:45",
+        "FFlagProMotionLimitWait": "True",
+        "FFlagEnableCtrDebuggingTelemetryAddOsVersion_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:06:07",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14803,8 +14804,6 @@
         "DFIntPowerTraceHashThrottleRateHundredthsPercent": "10000",
         "FFlagEnableDeferredAssets": "True",
         "FFlagAddDeferredAssetIndicator": "True",
-        "FFlagLuaAppEdpVideoAvailableRamDeny_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;190023617;2025-11-25T17:02:35",
-        "FIntLuaAppEdpVideoAvailableRamThresholdMb_Staged": "1250;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;190023617;2025-11-25T17:02:35",
         "FFlagLuaAppEdpVideoDeviceDeny_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1949873933;2025-11-25T17:18:05",
         "FFlagLuaAppUpdateDelimeterEdpVideoDeviceBlocking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1949873933;2025-11-25T17:18:05",
         "FStringLuaAppEdpVideoDevicePipeDenyList_Staged": "Xiaomi 23073RPBFG|Xiaomi 23124RA7EO|Xiaomi 2405CRPFDG|Xiaomi 23021RAAEG|Xiaomi 2312DRA50G|Xiaomi 23129RA5FL|Xiaomi 2409BRN2CA|Xiaomi 2311DRK48G|Xiaomi 23106RN0DA|Xiaomi 24090RA29G|Xiaomi 24116RACCG|Xiaomi 23129RAA4G|Samsung SM-A556B|Samsung SM-A165M|Motorola moto g84 5G;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1949873933;2025-11-25T17:18:05",
@@ -14816,9 +14815,11 @@
         "FStringLuaAppEdpVideoManufacturerPipeDenyList_Staged": "OPPO|TECNO|Realme|INFINIX;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1267469586;2025-11-25T17:22:25",
         "FFlagEnableDeferredAssets_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:22:28",
         "DFFlagPowerTraceCheckTimeWindowValidityForTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:34:34",
-        "FStringFlagRepoGitHashFastString": "b992bfb69fa3ec99ee37275f480d8f22d2ab35ff",
-        "DFStringFlagRepoGitHashDynamicString": "b992bfb69fa3ec99ee37275f480d8f22d2ab35ff",
-        "FStringFlipTimeStampFastString": "2025-11-25T17:49:16.809Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T17:49:16.809Z"
+        "FFlagLuaAppEdpVideoAvailableRamDeny": "True",
+        "FIntLuaAppEdpVideoAvailableRamThresholdMb": "1250",
+        "FStringFlagRepoGitHashFastString": "c13c9d765b088245d4692e70418270feb3eefe77",
+        "DFStringFlagRepoGitHashDynamicString": "c13c9d765b088245d4692e70418270feb3eefe77",
+        "FStringFlipTimeStampFastString": "2025-11-25T18:07:10.350Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:07:10.350Z"
     }
 }
