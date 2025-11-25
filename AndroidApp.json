@@ -13808,6 +13808,10 @@
         "FFlagEnableSocialUpsellFocusFixes_Staged": "True;SteadyState;10;30;Revert;2025-11-25T17:01:46",
         "FFlagAEGISPhase2ShowImageOnFAEOverlay_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:05:44",
         "AllowVideoPreRoll": "True",
+        "DFFlagNewHumanoidChildUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:13:46",
+        "FFlagProfilePlatformRenameToastStringsToConnection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:13:51",
+        "DFFlagBufferDataNewEncode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:14:23",
+        "DFFlagKeyStringRespectTableMeta_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:14:50",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14784,9 +14788,9 @@
         "FFlagAddDeferredAssetIndicator": "True",
         "FFlagLuaAppEdpVideoAvailableRamDeny_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;190023617;2025-11-25T17:02:35",
         "FIntLuaAppEdpVideoAvailableRamThresholdMb_Staged": "1250;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;190023617;2025-11-25T17:02:35",
-        "FStringFlagRepoGitHashFastString": "593e6ac130ea38bc8b72f248be6064719da08be6",
-        "DFStringFlagRepoGitHashDynamicString": "593e6ac130ea38bc8b72f248be6064719da08be6",
-        "FStringFlipTimeStampFastString": "2025-11-25T17:13:41.946Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T17:13:41.946Z"
+        "FStringFlagRepoGitHashFastString": "3ae178bf1c4fd0e95152e4973d8f9401085802bf",
+        "DFStringFlagRepoGitHashDynamicString": "3ae178bf1c4fd0e95152e4973d8f9401085802bf",
+        "FStringFlipTimeStampFastString": "2025-11-25T17:15:53.588Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T17:15:53.588Z"
     }
 }
