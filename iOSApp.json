@@ -13804,10 +13804,6 @@
         "DFFlagRegisterAdAssetViewsIos": "True",
         "DFFlagRegisterGranularAdAssetViewsIos": "True",
         "FFlagFixErrorPromptOnVR": "True",
-        "DFFlagNewHumanoidChildUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:13:46",
-        "FFlagProfilePlatformRenameToastStringsToConnection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:13:51",
-        "DFFlagBufferDataNewEncode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:14:23",
-        "DFFlagKeyStringRespectTableMeta_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:14:50",
         "FFlagEnableUserIdForExperienceInviteLink_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:21:48",
         "FFlagEnableConsoleAutoFocusForUEN1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:25:45",
         "FFlagAcousticSimulationDisabledFastPath_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:26:26",
@@ -13832,6 +13828,12 @@
         "DFFlagKeyframeSequenceApplyRemoveWeakPtrChecks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:07:09",
         "FFlagAEGISPhase1UseFAECopyV3": "True",
         "FFlagAEGISPhase2ShowImageOnFAEOverlay": "True",
+        "FFlagProfilePlatformRenameToastStringsToConnection": "True",
+        "DFFlagBufferDataNewEncode": "True",
+        "DFFlagKeyStringRespectTableMeta": "True",
+        "DFFlagNewHumanoidChildUpdates": "True",
+        "FFlagEnableRemoveUnusedIntentResults_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:16:27",
+        "FFlagAEGIS2PassDownUpsellEntryComponent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:16:23",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14879,9 +14881,9 @@
         "DFFlagPowerTraceCheckTimeWindowValidityForTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:34:34",
         "FFlagAXRootRFYMigration": "True",
         "DFIntPowerTraceHashThrottleRateHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:12:55",
-        "FStringFlagRepoGitHashFastString": "f7dc09fbbd19052fd73acf2fa6c04791e552c291",
-        "DFStringFlagRepoGitHashDynamicString": "f7dc09fbbd19052fd73acf2fa6c04791e552c291",
-        "FStringFlipTimeStampFastString": "2025-11-25T18:14:17.221Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:14:17.221Z"
+        "FStringFlagRepoGitHashFastString": "4b328e2d8a0624b28687a469f77eb925026d5154",
+        "DFStringFlagRepoGitHashDynamicString": "4b328e2d8a0624b28687a469f77eb925026d5154",
+        "FStringFlipTimeStampFastString": "2025-11-25T18:17:51.786Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:17:51.786Z"
     }
 }
