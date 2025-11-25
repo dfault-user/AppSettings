@@ -13862,6 +13862,7 @@
         "AppRatingsEnabled2": "true",
         "DFIntBase64NewDecodeReportHundredthsPercentage_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2065079186;2025-11-25T18:51:12",
         "FFlagAddFriendsBannersPropsChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:56:51",
+        "FFlagAudioEngineUpdateLottery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T19:00:43",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14849,12 +14850,11 @@
         "FFlagLuaAppEdpVideoManufacturerDeny2": "True",
         "FFlagLuaAppUpdateDelimeterEdpVideoManufacturerBlocking": "True",
         "FStringLuaAppEdpVideoManufacturerPipeDenyList": "OPPO|TECNO|Realme|INFINIX",
-        "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":100},{\"maxsize\":4400,\"reservePct\":0.09,\"reserveMB\":0},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":994},{\"maxsize\":8800,\"reservePct\":0.0,\"reserveMB\":1485}]};SteadyState;10;30;Revert;2025-11-25T18:28:34",
         "FFlagWeCanHaveFonts_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:28:47",
         "DFFlagPowerTraceCheckTimeWindowValidityForTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "07c25abeddce304515b488b486c157b0f488aa2d",
-        "DFStringFlagRepoGitHashDynamicString": "07c25abeddce304515b488b486c157b0f488aa2d",
-        "FStringFlipTimeStampFastString": "2025-11-25T18:58:00.348Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:58:00.348Z"
+        "FStringFlagRepoGitHashFastString": "02f5a6d4912dddd2b2aa436ed25aa06a8140b59e",
+        "DFStringFlagRepoGitHashDynamicString": "02f5a6d4912dddd2b2aa436ed25aa06a8140b59e",
+        "FStringFlipTimeStampFastString": "2025-11-25T19:02:49.921Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T19:02:49.921Z"
     }
 }
