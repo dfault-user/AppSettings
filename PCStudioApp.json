@@ -13761,7 +13761,7 @@
         "FFlagInitResourceBBoxForParts": "True",
         "FFlagTexturePacksReadyWhenMipTailLoaded": "True",
         "DFFlagSimCSG4RecenterCFrame": "True",
-        "FFlagWrapDeformerContextOutputFileMeshData5": "True",
+        "FFlagWrapDeformerContextOutputFileMeshData5": "False",
         "FFlagAEGIS2AppChatBannerUITagFix": "True",
         "FFlagAppChatEnableAgeVerifiedRTNInAccountSettingsReceiver": "True",
         "FFlagAppChatEnableHiddenMessagesv700": "True",
@@ -13811,10 +13811,6 @@
         "DFFlagBufferDataNewEncode": "True",
         "DFFlagKeyStringRespectTableMeta": "True",
         "DFFlagNewHumanoidChildUpdates": "True",
-        "FFlagEnableRemoveUnusedIntentResults_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:16:27",
-        "FFlagAEGIS2PassDownUpsellEntryComponent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:16:23",
-        "FFlagAddUpsellEntryComponentToAnalytics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:16:51",
-        "FFlagWrapDeformerContextOutputFileMeshData5_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1645146453;2025-11-25T18:19:18",
         "GmaSdkAdReportSetOnReportAdPressedListener": "true",
         "FFlagEnableUserIdForExperienceInviteLink": "True",
         "FFlagEnablePreviewLimitingTPGen": "True",
@@ -13867,6 +13863,9 @@
         "DFFlagAnimatorUseFastQuaternionToAA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T19:14:41",
         "DFFlagAddHardwareName_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T19:15:11",
         "FFlagAddMinorFixesToUpsellAnalytics4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T19:18:59",
+        "FFlagEnableRemoveUnusedIntentResults": "True",
+        "FFlagAEGIS2PassDownUpsellEntryComponent": "True",
+        "FFlagAddUpsellEntryComponentToAnalytics": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16302,9 +16301,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "147da3878bd143744406fbec7860bd1e30e569bb",
-        "DFStringFlagRepoGitHashDynamicString": "147da3878bd143744406fbec7860bd1e30e569bb",
-        "FStringFlipTimeStampFastString": "2025-11-25T19:20:38.413Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T19:20:38.413Z"
+        "FStringFlagRepoGitHashFastString": "fd76f0a1e1dcce312da47dca751866f53159f0fd",
+        "DFStringFlagRepoGitHashDynamicString": "fd76f0a1e1dcce312da47dca751866f53159f0fd",
+        "FStringFlipTimeStampFastString": "2025-11-25T19:22:40.903Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T19:22:40.903Z"
     }
 }
