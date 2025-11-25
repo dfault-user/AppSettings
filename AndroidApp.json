@@ -13804,6 +13804,9 @@
         "DFFlagRegisterAdAssetViewsIos": "True",
         "DFFlagRegisterGranularAdAssetViewsIos": "True",
         "FFlagFixErrorPromptOnVR": "True",
+        "FFlagProMotionLimitWait_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:01:35",
+        "FFlagEnableSocialUpsellFocusFixes_Staged": "True;SteadyState;10;30;Revert;2025-11-25T17:01:46",
+        "FFlagEnableSocialUpsellFocusRefactor_Staged": "True;SteadyState;10;30;Revert;2025-11-25T17:02:02",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14779,9 +14782,11 @@
         "DFIntPowerTraceHashThrottleRateHundredthsPercent": "10000",
         "FFlagEnableDeferredAssets": "True",
         "FFlagAddDeferredAssetIndicator": "True",
-        "FStringFlagRepoGitHashFastString": "19f6e0a4eae7700a343e812a56a9ab9abf7bcf5a",
-        "DFStringFlagRepoGitHashDynamicString": "19f6e0a4eae7700a343e812a56a9ab9abf7bcf5a",
-        "FStringFlipTimeStampFastString": "2025-11-25T17:01:14.684Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T17:01:14.684Z"
+        "FFlagLuaAppEdpVideoAvailableRamDeny_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;190023617;2025-11-25T17:02:35",
+        "FIntLuaAppEdpVideoAvailableRamThresholdMb_Staged": "1250;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;190023617;2025-11-25T17:02:35",
+        "FStringFlagRepoGitHashFastString": "e4aff562ac2a613fc7af3ec6552b84a15eda7228",
+        "DFStringFlagRepoGitHashDynamicString": "e4aff562ac2a613fc7af3ec6552b84a15eda7228",
+        "FStringFlipTimeStampFastString": "2025-11-25T17:04:03.972Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T17:04:03.972Z"
     }
 }
