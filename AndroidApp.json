@@ -13804,9 +13804,6 @@
         "DFFlagRegisterAdAssetViewsIos": "True",
         "DFFlagRegisterGranularAdAssetViewsIos": "True",
         "FFlagFixErrorPromptOnVR": "True",
-        "FFlagAddContextualInfoToUserTile_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:31:16",
-        "DFFlagSCMAggressiveOptimization_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2115096087;2025-11-25T17:33:17",
-        "DFFlagSocialCounterpartyManagerOptimizationPairwiseRequests_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2115096087;2025-11-25T17:33:17",
         "FFlagRevisedReverbDistances_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:37:45",
         "FFlagProMotionLimitWait": "True",
         "FFlagEnableCtrDebuggingTelemetryAddOsVersion_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:06:07",
@@ -13840,6 +13837,9 @@
         "FFlagUseNotificationGroupsConfig_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:30:55",
         "FFlagAddSnoozeSupportForSquadNudgeToasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:31:08",
         "FFlagLuaAppUpdateAdPreferencesLink_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:33:20",
+        "DFFlagSCMAggressiveOptimization": "True",
+        "DFFlagSocialCounterpartyManagerOptimizationPairwiseRequests": "True",
+        "FFlagAddContextualInfoToUserTile": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14815,7 +14815,6 @@
         "FFlagEnableDeferredAssets": "False",
         "FFlagAddDeferredAssetIndicator": "True",
         "FFlagUseConvexDecompV8Format_PlaceFilter": "False;3351674303",
-        "DFFlagPowerTraceCheckTimeWindowValidityForTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:34:34",
         "FFlagLuaAppEdpVideoAvailableRamDeny": "True",
         "FIntLuaAppEdpVideoAvailableRamThresholdMb": "1250",
         "FFlagPrefetchDeferredAssets_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:12:01",
@@ -14830,9 +14829,10 @@
         "FStringLuaAppEdpVideoManufacturerPipeDenyList": "OPPO|TECNO|Realme|INFINIX",
         "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":100},{\"maxsize\":4400,\"reservePct\":0.09,\"reserveMB\":0},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":994},{\"maxsize\":8800,\"reservePct\":0.0,\"reserveMB\":1485}]};SteadyState;10;30;Revert;2025-11-25T18:28:34",
         "FFlagWeCanHaveFonts_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:28:47",
-        "FStringFlagRepoGitHashFastString": "262b1829baf7a8d49ba4ba9e3ddab1d7721cd9f2",
-        "DFStringFlagRepoGitHashDynamicString": "262b1829baf7a8d49ba4ba9e3ddab1d7721cd9f2",
-        "FStringFlipTimeStampFastString": "2025-11-25T18:35:13.131Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:35:13.131Z"
+        "DFFlagPowerTraceCheckTimeWindowValidityForTelemetry": "True",
+        "FStringFlagRepoGitHashFastString": "caca28b61f8b5632b220ac867fffe8b8651ab711",
+        "DFStringFlagRepoGitHashDynamicString": "caca28b61f8b5632b220ac867fffe8b8651ab711",
+        "FStringFlipTimeStampFastString": "2025-11-25T18:37:21.893Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:37:21.893Z"
     }
 }
