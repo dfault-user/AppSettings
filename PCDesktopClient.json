@@ -13847,6 +13847,10 @@
         "FFlagAudioEngineSleepSystem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:40:39",
         "FFlagAudioEmitterListenerCheckCameraFirst_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:40:57",
         "FFlagRevisedReverbDistances": "True",
+        "DFFlagAcousticSimulationDeferCacheErasure_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:41:11",
+        "FFlagAcousticSimulationSinglePendingTrace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:41:19",
+        "FFlagAcousticSimulationSkipDisabledFilters_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:41:49",
+        "FFlagAcousticSimulationEventDrivenCancellation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:42:12",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14931,9 +14935,9 @@
         "FStringNetStackDummyClientEnabledMinorVersions": "",
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
-        "FStringFlagRepoGitHashFastString": "d2df22aa300aef6cdf6e029b145cea0cc1974771",
-        "DFStringFlagRepoGitHashDynamicString": "d2df22aa300aef6cdf6e029b145cea0cc1974771",
-        "FStringFlipTimeStampFastString": "2025-11-25T18:43:39.110Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:43:39.110Z"
+        "FStringFlagRepoGitHashFastString": "ca20e9840de0ed3c881a0c731a205adf91e1ff5d",
+        "DFStringFlagRepoGitHashDynamicString": "ca20e9840de0ed3c881a0c731a205adf91e1ff5d",
+        "FStringFlipTimeStampFastString": "2025-11-25T18:45:49.102Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:45:49.102Z"
     }
 }

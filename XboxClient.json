@@ -13847,6 +13847,9 @@
         "FFlagAudioEngineSleepSystem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:40:39",
         "FFlagAudioEmitterListenerCheckCameraFirst_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:40:57",
         "FFlagRevisedReverbDistances": "True",
+        "DFFlagAcousticSimulationDeferCacheErasure_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:41:11",
+        "FFlagAcousticSimulationSinglePendingTrace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:41:19",
+        "FFlagAcousticSimulationSkipDisabledFilters_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:41:49",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14214,9 +14217,9 @@
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FStringFlagRepoGitHashFastString": "d2df22aa300aef6cdf6e029b145cea0cc1974771",
-        "DFStringFlagRepoGitHashDynamicString": "d2df22aa300aef6cdf6e029b145cea0cc1974771",
-        "FStringFlipTimeStampFastString": "2025-11-25T18:43:39.110Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:43:39.110Z"
+        "FStringFlagRepoGitHashFastString": "c2b78a081de4c87c673f18b9b7ee793235fb4b9b",
+        "DFStringFlagRepoGitHashDynamicString": "c2b78a081de4c87c673f18b9b7ee793235fb4b9b",
+        "FStringFlipTimeStampFastString": "2025-11-25T18:45:17.940Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:45:17.940Z"
     }
 }
