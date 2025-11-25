@@ -13850,6 +13850,10 @@
         "DFFlagAcousticSimulationDeferCacheErasure_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:41:11",
         "FFlagAcousticSimulationSinglePendingTrace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:41:19",
         "FFlagAcousticSimulationSkipDisabledFilters_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:41:49",
+        "FFlagAcousticSimulationEventDrivenCancellation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:42:12",
+        "FFlagAcousticSimulationDisabledEvenFasterFastPath_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:42:37",
+        "FFlagFmodLockFreeDspWetDryMix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:42:46",
+        "DFFlagQueryAttributeExists_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:45:15",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14868,9 +14872,9 @@
         "FFlagMainThreadIdle": "True",
         "FFlagIASFixResetInRollback": "True",
         "DFIntMainThreadMinIdleTimeUs": "500",
-        "FStringFlagRepoGitHashFastString": "c2b78a081de4c87c673f18b9b7ee793235fb4b9b",
-        "DFStringFlagRepoGitHashDynamicString": "c2b78a081de4c87c673f18b9b7ee793235fb4b9b",
-        "FStringFlipTimeStampFastString": "2025-11-25T18:45:17.940Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:45:17.940Z"
+        "FStringFlagRepoGitHashFastString": "f40cae882cd793517aac6ceb476870723c7df970",
+        "DFStringFlagRepoGitHashDynamicString": "f40cae882cd793517aac6ceb476870723c7df970",
+        "FStringFlipTimeStampFastString": "2025-11-25T18:47:51.586Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:47:51.586Z"
     }
 }
