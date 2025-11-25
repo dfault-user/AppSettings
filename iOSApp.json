@@ -10951,7 +10951,7 @@
         "FFlagLuaAppEdpFetchLatencyTracking": "True",
         "FFlagEnableDisplaySize9": "True",
         "FFlagRecordCevJoinAttemptIdInObserverSetup": "True",
-        "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds": "40",
+        "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds": "25",
         "FStringFStringTimeoutLoadingLocalPlayerInBackgroundDM": "EnableManualRetry",
         "FFlagLuaAppProcessGameSocialLinks": "True",
         "FFlagLuaAppEdpBackendV2LogFetchSuccessAndFailure": "True",
@@ -13842,8 +13842,6 @@
         "FFlagEnableRemoveUnusedIntentResults": "True",
         "FFlagAEGIS2PassDownUpsellEntryComponent": "True",
         "FFlagAddUpsellEntryComponentToAnalytics": "True",
-        "AllowVideoPreRoll": "True",
-        "FFlagInExperienceVoiceUpsellAnalyticsV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T19:24:35",
         "FFlagLuaAppUpdateAdPreferencesLink": "True",
         "FFlagAddSnoozeSupportForSquadNudgeToasts": "True",
         "FFlagUseNotificationGroupsConfig": "True",
@@ -13873,6 +13871,7 @@
         "FFlagAudioEngineUpdateLottery": "True",
         "DFFlagAddHardwareName": "True",
         "FFlagAddMinorFixesToUpsellAnalytics4": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14918,12 +14917,11 @@
         "DFFlagPowerTraceCheckTimeWindowValidityForTelemetry": "True",
         "FFlagLuaAppFixHomeGridPlaceholderFlowIssues": "True",
         "FFlagLuaAppLogOmniRecommendationsMetadata": "True",
-        "FFlagEnableiOSLogExternalKeyboardAttached_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T19:21:51",
-        "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds_Staged": "25;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T19:23:10",
         "FFlagAddFriendsFixOnTileClick": "True",
-        "FStringFlagRepoGitHashFastString": "79d80f10cdac532d7fe03565d64f1d81bacf230b",
-        "DFStringFlagRepoGitHashDynamicString": "79d80f10cdac532d7fe03565d64f1d81bacf230b",
-        "FStringFlipTimeStampFastString": "2025-11-25T20:26:50.744Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T20:26:50.744Z"
+        "FFlagEnableiOSLogExternalKeyboardAttached": "True",
+        "FStringFlagRepoGitHashFastString": "248bc1f502fb283ab850844a8052191dcc70ecc9",
+        "DFStringFlagRepoGitHashDynamicString": "248bc1f502fb283ab850844a8052191dcc70ecc9",
+        "FStringFlipTimeStampFastString": "2025-11-25T20:57:20.012Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T20:57:20.012Z"
     }
 }
