@@ -13812,6 +13812,7 @@
         "FFlagProfilePlatformRenameToastStringsToConnection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:13:51",
         "DFFlagBufferDataNewEncode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:14:23",
         "DFFlagKeyStringRespectTableMeta_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:14:50",
+        "FFlagEnableUserIdForExperienceInviteLink_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:21:48",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14793,9 +14794,13 @@
         "FStringLuaAppEdpVideoDevicePipeDenyList_Staged": "Xiaomi 23073RPBFG|Xiaomi 23124RA7EO|Xiaomi 2405CRPFDG|Xiaomi 23021RAAEG|Xiaomi 2312DRA50G|Xiaomi 23129RA5FL|Xiaomi 2409BRN2CA|Xiaomi 2311DRK48G|Xiaomi 23106RN0DA|Xiaomi 24090RA29G|Xiaomi 24116RACCG|Xiaomi 23129RAA4G|Samsung SM-A556B|Samsung SM-A165M|Motorola moto g84 5G;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1949873933;2025-11-25T17:18:05",
         "FFlagUseAndroidPaymentsProtocolDisableThreadedCalls_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:19:11",
         "FFlagWeCanHaveFonts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:19:40",
-        "FStringFlagRepoGitHashFastString": "eea7aaeae81ed2922e2556d39ca6fa26347d8128",
-        "DFStringFlagRepoGitHashDynamicString": "eea7aaeae81ed2922e2556d39ca6fa26347d8128",
-        "FStringFlipTimeStampFastString": "2025-11-25T17:20:23.763Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T17:20:23.763Z"
+        "FFlagUseConvexDecompV8Format_PlaceFilter": "False;3351674303",
+        "FFlagLuaAppEdpVideoManufacturerDeny2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1267469586;2025-11-25T17:22:25",
+        "FFlagLuaAppUpdateDelimeterEdpVideoManufacturerBlocking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1267469586;2025-11-25T17:22:25",
+        "FStringLuaAppEdpVideoManufacturerPipeDenyList_Staged": "OPPO|TECNO|Realme|INFINIX;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1267469586;2025-11-25T17:22:25",
+        "FStringFlagRepoGitHashFastString": "03bb1a25f591d16b79758f2e5f03b80bfdfac41c",
+        "DFStringFlagRepoGitHashDynamicString": "03bb1a25f591d16b79758f2e5f03b80bfdfac41c",
+        "FStringFlipTimeStampFastString": "2025-11-25T17:23:51.468Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T17:23:51.468Z"
     }
 }
