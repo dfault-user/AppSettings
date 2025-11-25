@@ -13753,7 +13753,6 @@
         "DFFlagEnableFixClientShowRewardedVideoAdResultCounter": "True",
         "FFlagAppChatTrustedConnectionRTNEventTypeNameFix": "True",
         "FFlagEnableSocialUpsellUIFixes5": "True",
-        "FFlagToolboxRemoveGenre_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1564402867;2025-11-24T22:59:26",
         "FFlagAppChatReloadMessagesForEmptyConversation": "True",
         "FFlagAppChatReloadMessagesOnTrustedConnectionRTN": "True",
         "DFFlagBtfUseAssetRequest": "True",
@@ -13805,6 +13804,8 @@
         "CustomRewardedVideoCallToActionTimingMS": "1000",
         "DFFlagEnableStreamJobMinTime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:54:38",
         "FFlagLuaAppNilCheckCurrentVideoItem": "True",
+        "DFFlagRegisterGranularAdAssetViewsIos_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T00:00:50",
+        "FFlagToolboxRemoveGenre": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14172,9 +14173,9 @@
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FStringFlagRepoGitHashFastString": "24a423fe23c2a29c834e33c608080db19d8a0d34",
-        "DFStringFlagRepoGitHashDynamicString": "24a423fe23c2a29c834e33c608080db19d8a0d34",
-        "FStringFlipTimeStampFastString": "2025-11-24T23:57:20.019Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-24T23:57:20.019Z"
+        "FStringFlagRepoGitHashFastString": "40af4cbefc1691dd70545567cff314ae9a67cf8a",
+        "DFStringFlagRepoGitHashDynamicString": "40af4cbefc1691dd70545567cff314ae9a67cf8a",
+        "FStringFlipTimeStampFastString": "2025-11-25T00:03:40.872Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T00:03:40.872Z"
     }
 }
