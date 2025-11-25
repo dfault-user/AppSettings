@@ -13806,6 +13806,8 @@
         "FFlagFixErrorPromptOnVR": "True",
         "FFlagProMotionLimitWait_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:01:35",
         "FFlagEnableSocialUpsellFocusFixes_Staged": "True;SteadyState;10;30;Revert;2025-11-25T17:01:46",
+        "FFlagAEGISPhase2ShowImageOnFAEOverlay_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:05:44",
+        "FFlagAEGISPhase1UseFAECopyV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:06:45",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14173,9 +14175,9 @@
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FStringFlagRepoGitHashFastString": "61f7fce20f28954ab99c1a7cd1695718c1eb3ebc",
-        "DFStringFlagRepoGitHashDynamicString": "61f7fce20f28954ab99c1a7cd1695718c1eb3ebc",
-        "FStringFlipTimeStampFastString": "2025-11-25T17:04:48.060Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T17:04:48.060Z"
+        "FStringFlagRepoGitHashFastString": "4b08b480dd09190b3b633bc705c0de82337787ad",
+        "DFStringFlagRepoGitHashDynamicString": "4b08b480dd09190b3b633bc705c0de82337787ad",
+        "FStringFlipTimeStampFastString": "2025-11-25T17:07:44.604Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T17:07:44.604Z"
     }
 }
