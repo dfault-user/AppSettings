@@ -13804,7 +13804,6 @@
         "DFFlagRegisterAdAssetViewsIos": "True",
         "DFFlagRegisterGranularAdAssetViewsIos": "True",
         "FFlagFixErrorPromptOnVR": "True",
-        "FFlagRevisedReverbDistances_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:37:45",
         "FFlagProMotionLimitWait": "True",
         "FFlagEnableCtrDebuggingTelemetryAddOsVersion_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:06:07",
         "FFlagEnableSocialUpsellFocusFixes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:07:07",
@@ -13840,6 +13839,14 @@
         "DFFlagSCMAggressiveOptimization": "True",
         "DFFlagSocialCounterpartyManagerOptimizationPairwiseRequests": "True",
         "FFlagAddContextualInfoToUserTile": "True",
+        "DFIntUvMetricMethod_IXP": "1;Engine.Rendering.TextureStreaming;Texture_Streaming_V1;1782155329;flagbank",
+        "FFlagAssetProviderDisablePrioAwareStdWorkerThreadTaskFactory_IXP": "1;Engine.Rendering.TextureStreaming;Texture_Streaming_V1;1782155329;flagbank",
+        "FFlagOrchestratorTranscoderEnable_IXP": "1;Engine.Rendering.TextureStreaming;Texture_Streaming_V1;1782155329;flagbank",
+        "FFlagRenderUseTextureManager223_IXP": "1;Engine.Rendering.TextureStreaming;Texture_Streaming_V1;1782155329;flagbank",
+        "FIntOrchestratorTranscoderEnableHundredthPercent_IXP": "1;Engine.Rendering.TextureStreaming;Texture_Streaming_V1;1782155329;flagbank",
+        "FFlagAudioEngineSleepSystem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:40:39",
+        "FFlagAudioEmitterListenerCheckCameraFirst_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:40:57",
+        "FFlagRevisedReverbDistances": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14207,9 +14214,9 @@
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FStringFlagRepoGitHashFastString": "caca28b61f8b5632b220ac867fffe8b8651ab711",
-        "DFStringFlagRepoGitHashDynamicString": "caca28b61f8b5632b220ac867fffe8b8651ab711",
-        "FStringFlipTimeStampFastString": "2025-11-25T18:37:21.893Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:37:21.893Z"
+        "FStringFlagRepoGitHashFastString": "d2df22aa300aef6cdf6e029b145cea0cc1974771",
+        "DFStringFlagRepoGitHashDynamicString": "d2df22aa300aef6cdf6e029b145cea0cc1974771",
+        "FStringFlipTimeStampFastString": "2025-11-25T18:43:39.110Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:43:39.110Z"
     }
 }
