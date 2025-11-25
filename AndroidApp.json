@@ -13857,6 +13857,9 @@
         "FFlagVoiceOptInOnAgeVerification_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1931739336;2025-11-25T18:45:46",
         "DFFlagQuerySelectorNot_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:46:01",
         "FIntAudioEmitterIdlePanningUpdatePercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:46:23",
+        "DFFlagQuerySelectorHas_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:46:30",
+        "FFlagAcousticSimulationUpdateReverbRoutingUnderLock_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:47:37",
+        "AppRatingsEnabled2": "true",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14847,9 +14850,9 @@
         "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":100},{\"maxsize\":4400,\"reservePct\":0.09,\"reserveMB\":0},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":994},{\"maxsize\":8800,\"reservePct\":0.0,\"reserveMB\":1485}]};SteadyState;10;30;Revert;2025-11-25T18:28:34",
         "FFlagWeCanHaveFonts_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:28:47",
         "DFFlagPowerTraceCheckTimeWindowValidityForTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "a4cc5053fb5d2148a37935172258c28fbf03a068",
-        "DFStringFlagRepoGitHashDynamicString": "a4cc5053fb5d2148a37935172258c28fbf03a068",
-        "FStringFlipTimeStampFastString": "2025-11-25T18:49:27.576Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:49:27.576Z"
+        "FStringFlagRepoGitHashFastString": "d86191db47d4215a3992d38ee1602241b085090f",
+        "DFStringFlagRepoGitHashDynamicString": "d86191db47d4215a3992d38ee1602241b085090f",
+        "FStringFlipTimeStampFastString": "2025-11-25T18:50:57.997Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:50:57.997Z"
     }
 }
