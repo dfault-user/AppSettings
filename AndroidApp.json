@@ -13704,7 +13704,7 @@
         "FFlagTraversalBackUseSettingsSignal": "True",
         "FFlagFixWindowFocusedOnNewUIS3": "True",
         "FFlagExpChatOnShowIconChatAvailabilityStatus": "True",
-        "DFIntBase64NewDecodeReportHundredthsPercentage": "100",
+        "DFIntBase64NewDecodeReportHundredthsPercentage": "1000",
         "FFlagAEGIS2ActivateEnableChatButtonTelemetry": "True",
         "FFlagLuaAppCleanupTopSearchResults": "True",
         "FFlagManuallyInvokeAmpUpsell2": "True",
@@ -13836,7 +13836,6 @@
         "FIntOrchestratorTranscoderEnableHundredthPercent_IXP": "1;Engine.Rendering.TextureStreaming;Texture_Streaming_V1;1782155329;flagbank",
         "FFlagRevisedReverbDistances": "True",
         "AppRatingsEnabled2": "true",
-        "DFIntBase64NewDecodeReportHundredthsPercentage_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2065079186;2025-11-25T18:51:12",
         "FFlagAddFriendsBannersPropsChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:56:51",
         "FFlagAudioEngineUpdateLottery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T19:00:43",
         "FFlagDelayBackgroundDMLocalPlayerLoading_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T19:03:41",
@@ -13872,6 +13871,8 @@
         "FIntAudioEmitterIdlePanningUpdatePercent": "10",
         "DFFlagQuerySelectorHas": "True",
         "DFFlagQuerySelectorNot": "True",
+        "FFlagEnableSystemScrim_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;637460041;2025-11-25T19:54:36",
+        "FFlagEnableSystemScrimInSettingsHub_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;637460041;2025-11-25T19:54:36",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14860,9 +14861,9 @@
         "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":100},{\"maxsize\":4400,\"reservePct\":0.09,\"reserveMB\":0},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":100}]};SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T19:09:23",
         "FFlagDelayAudioFocusReplication_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T19:14:14",
         "FIntBackgroundDMLocalPlayerLoadingTimeoutSeconds_Staged": "25;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T19:23:10",
-        "FStringFlagRepoGitHashFastString": "1738014a3b6666aa5b44bd4467a1229e409bbd29",
-        "DFStringFlagRepoGitHashDynamicString": "1738014a3b6666aa5b44bd4467a1229e409bbd29",
-        "FStringFlipTimeStampFastString": "2025-11-25T19:52:47.521Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T19:52:47.521Z"
+        "FStringFlagRepoGitHashFastString": "3b6d4a457e3a2af64bb0a83cd2f59a54857d7fa0",
+        "DFStringFlagRepoGitHashDynamicString": "3b6d4a457e3a2af64bb0a83cd2f59a54857d7fa0",
+        "FStringFlipTimeStampFastString": "2025-11-25T19:56:24.210Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T19:56:24.210Z"
     }
 }
