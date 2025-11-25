@@ -13760,12 +13760,6 @@
         "FFlagLuaAppEnableWhyThisAdModal": "True",
         "FFlagInitResourceBBoxForParts": "True",
         "FFlagTexturePacksReadyWhenMipTailLoaded": "True",
-        "FFlagEnablePlayerViewRemoteEventCFrameValidation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:21:08",
-        "FFlagRenderHandle406ErrorCode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:21:28",
-        "FFlagAppChatDisableAbsorbInputSelectable_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:21:32",
-        "FStringTM2UncompressedMajorVersion_Staged": "6a;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:22:17",
-        "FFlagExpChatOnShowIconChatAvailabilityStatus_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;352365518;2025-11-24T23:23:15",
-        "FIntTexturePackContentPriorityOffset_Staged": "8;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:24:24",
         "FFlagAEGISPhase2UseFAECopyV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-24T23:25:28",
         "DFFlagSimCSG4RecenterCFrame": "True",
         "FFlagWrapDeformerContextOutputFileMeshData5": "True",
@@ -13805,6 +13799,11 @@
         "FFlagEnablePlayerViewRemoteEventUserIdValidation": "True",
         "FFlagEnableSocialUpsellRealtimeConnectFix": "True",
         "FFlagDelayBackgroundDMLocalPlayerLoading_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T00:21:36",
+        "FFlagAppChatDisableAbsorbInputSelectable": "True",
+        "FFlagEnablePlayerViewRemoteEventCFrameValidation": "True",
+        "FFlagRenderHandle406ErrorCode": "True",
+        "FIntTexturePackContentPriorityOffset": "8",
+        "FStringTM2UncompressedMajorVersion": "6a",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14103,9 +14102,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "6bc7befc75821adbb1e2c3527b8797868be0e61d",
-        "DFStringFlagRepoGitHashDynamicString": "6bc7befc75821adbb1e2c3527b8797868be0e61d",
-        "FStringFlipTimeStampFastString": "2025-11-25T00:23:58.185Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T00:23:58.185Z"
+        "FStringFlagRepoGitHashFastString": "2dc50e68e859316292fa3f804f16fa9d10c0bbf7",
+        "DFStringFlagRepoGitHashDynamicString": "2dc50e68e859316292fa3f804f16fa9d10c0bbf7",
+        "FStringFlipTimeStampFastString": "2025-11-25T00:26:36.952Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T00:26:36.952Z"
     }
 }
