@@ -13839,6 +13839,7 @@
         "FFlagFmodLockFreeDspActive": "True",
         "FFlagUseNotificationGroupsConfig_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:30:55",
         "FFlagAddSnoozeSupportForSquadNudgeToasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:31:08",
+        "FFlagLuaAppUpdateAdPreferencesLink_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:33:20",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14829,9 +14830,9 @@
         "FStringLuaAppEdpVideoManufacturerPipeDenyList": "OPPO|TECNO|Realme|INFINIX",
         "DFStringPerformanceControlDeviceMemoryBufferConfig_Staged": "{\"memory_bucket\":[{\"maxsize\":3300,\"reservePct\":0.0,\"reserveMB\":100},{\"maxsize\":4400,\"reservePct\":0.09,\"reserveMB\":0},{\"maxsize\":6600,\"reservePct\":0.0,\"reserveMB\":994},{\"maxsize\":8800,\"reservePct\":0.0,\"reserveMB\":1485}]};SteadyState;10;30;Revert;2025-11-25T18:28:34",
         "FFlagWeCanHaveFonts_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:28:47",
-        "FStringFlagRepoGitHashFastString": "2ddc3844eadbb42ad0fac16d42ac443e57544835",
-        "DFStringFlagRepoGitHashDynamicString": "2ddc3844eadbb42ad0fac16d42ac443e57544835",
-        "FStringFlipTimeStampFastString": "2025-11-25T18:33:36.166Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:33:36.166Z"
+        "FStringFlagRepoGitHashFastString": "262b1829baf7a8d49ba4ba9e3ddab1d7721cd9f2",
+        "DFStringFlagRepoGitHashDynamicString": "262b1829baf7a8d49ba4ba9e3ddab1d7721cd9f2",
+        "FStringFlipTimeStampFastString": "2025-11-25T18:35:13.131Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:35:13.131Z"
     }
 }
