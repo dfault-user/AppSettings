@@ -13804,8 +13804,6 @@
         "DFFlagRegisterAdAssetViewsIos": "True",
         "DFFlagRegisterGranularAdAssetViewsIos": "True",
         "FFlagFixErrorPromptOnVR": "True",
-        "FFlagAEGISPhase2ShowImageOnFAEOverlay_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:05:44",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "DFFlagNewHumanoidChildUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:13:46",
         "FFlagProfilePlatformRenameToastStringsToConnection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:13:51",
         "DFFlagBufferDataNewEncode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T17:14:23",
@@ -13832,6 +13830,9 @@
         "FFlagEnableCtrDebuggingTelemetryAddOsVersion_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:06:07",
         "FFlagEnableSocialUpsellFocusFixes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:07:07",
         "DFFlagKeyframeSequenceApplyRemoveWeakPtrChecks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-11-25T18:07:09",
+        "FFlagAEGISPhase1UseFAECopyV3": "True",
+        "FFlagAEGISPhase2ShowImageOnFAEOverlay": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14269,7 +14270,6 @@
         "FFlagComponentManagerAddDedicatedInjectedComponent": "True",
         "FFlagStatusFileManagerV22": "True",
         "FFlagWinUseNewStatusFileManager": "True",
-        "FFlagAEGISPhase1UseFAECopyV3": "True",
         "DFFlagSQLiteBadSizeTelemetry": "True",
         "DFIntSQLiteBadSizeTelemetryThresholdMB": "90",
         "DFFlagEnableStabilityMilestoneReport2": "True",
@@ -14918,9 +14918,9 @@
         "FStringNetStackDummyClientEnabledMinorVersions": "",
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
-        "FStringFlagRepoGitHashFastString": "e647b69a6a50d8c14543f9900afdcebd1aeb0b60",
-        "DFStringFlagRepoGitHashDynamicString": "e647b69a6a50d8c14543f9900afdcebd1aeb0b60",
-        "FStringFlipTimeStampFastString": "2025-11-25T18:08:46.362Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:08:46.362Z"
+        "FStringFlagRepoGitHashFastString": "b4cd7ab241f28e547c1bcb7f81d2ccb1507a88df",
+        "DFStringFlagRepoGitHashDynamicString": "b4cd7ab241f28e547c1bcb7f81d2ccb1507a88df",
+        "FStringFlipTimeStampFastString": "2025-11-25T18:11:57.908Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T18:11:57.908Z"
     }
 }
