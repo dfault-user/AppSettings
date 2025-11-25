@@ -14788,9 +14788,12 @@
         "FFlagAddDeferredAssetIndicator": "True",
         "FFlagLuaAppEdpVideoAvailableRamDeny_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;190023617;2025-11-25T17:02:35",
         "FIntLuaAppEdpVideoAvailableRamThresholdMb_Staged": "1250;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;190023617;2025-11-25T17:02:35",
-        "FStringFlagRepoGitHashFastString": "3ae178bf1c4fd0e95152e4973d8f9401085802bf",
-        "DFStringFlagRepoGitHashDynamicString": "3ae178bf1c4fd0e95152e4973d8f9401085802bf",
-        "FStringFlipTimeStampFastString": "2025-11-25T17:15:53.588Z",
-        "DFStringFlipTimeStampDynamicString": "2025-11-25T17:15:53.588Z"
+        "FFlagLuaAppEdpVideoDeviceDeny_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1949873933;2025-11-25T17:18:05",
+        "FFlagLuaAppUpdateDelimeterEdpVideoDeviceBlocking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1949873933;2025-11-25T17:18:05",
+        "FStringLuaAppEdpVideoDevicePipeDenyList_Staged": "Xiaomi 23073RPBFG|Xiaomi 23124RA7EO|Xiaomi 2405CRPFDG|Xiaomi 23021RAAEG|Xiaomi 2312DRA50G|Xiaomi 23129RA5FL|Xiaomi 2409BRN2CA|Xiaomi 2311DRK48G|Xiaomi 23106RN0DA|Xiaomi 24090RA29G|Xiaomi 24116RACCG|Xiaomi 23129RAA4G|Samsung SM-A556B|Samsung SM-A165M|Motorola moto g84 5G;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1949873933;2025-11-25T17:18:05",
+        "FStringFlagRepoGitHashFastString": "9c2ce1d603335e0a8abcdf0571a343f63e8d1b5d",
+        "DFStringFlagRepoGitHashDynamicString": "9c2ce1d603335e0a8abcdf0571a343f63e8d1b5d",
+        "FStringFlipTimeStampFastString": "2025-11-25T17:18:48.204Z",
+        "DFStringFlipTimeStampDynamicString": "2025-11-25T17:18:48.204Z"
     }
 }
