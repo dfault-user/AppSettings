@@ -13934,7 +13934,6 @@
         "FFlagRefactorIngressFlow": "True",
         "FFlagSimRuntimeContentNetworkSchema": "True",
         "DFFlagBGDropPatch3": "True",
-        "DFIntMigrateTriangleMeshPartTimeLimit_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1459696789;2025-12-01T21:43:13",
         "FFlagPerformanceControlExposeMemoryPressureLevels": "True",
         "DFFlagVideoAcrFixPriorityListDelimiter": "True",
         "FFlagSlimDecalInheritPartMaterial_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;408099724;2025-12-01T21:47:29",
@@ -13968,6 +13967,10 @@
         "FFlagFixPeoplePageReportTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:43:30",
         "FFlagAppChatFixAssetCardAdditionalProps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:45:20",
         "FFlagRelocateMobileMenuButtons3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:45:23",
+        "DFIntMigrateTriangleMeshPartTimeLimit": "1",
+        "FFlagMenuButtonsReplaceUseEffect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:46:31",
+        "FFlagAppChatAddClearButtonToSelectChatMembersSearch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:46:42",
+        "FFlagMenuButtonsMountWithIEM_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:47:10",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14265,9 +14268,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "4e24b1a0d907c8fad0056425dd6eab7727cb096f",
-        "DFStringFlagRepoGitHashDynamicString": "4e24b1a0d907c8fad0056425dd6eab7727cb096f",
-        "FStringFlipTimeStampFastString": "2025-12-01T22:46:38.592Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T22:46:38.592Z"
+        "FStringFlagRepoGitHashFastString": "6d8e1f594a61e56aca4a492761bcd1a4fed01580",
+        "DFStringFlagRepoGitHashDynamicString": "6d8e1f594a61e56aca4a492761bcd1a4fed01580",
+        "FStringFlipTimeStampFastString": "2025-12-01T22:49:27.670Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T22:49:27.670Z"
     }
 }
