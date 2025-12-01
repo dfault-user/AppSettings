@@ -13943,9 +13943,6 @@
         "FFlagUseBirthdayDropdownForGamepad6": "True",
         "DFIntBatchLogEventSenderNumTimestamps": "10",
         "FFlagFixExplorerDebugger": "True",
-        "FFlagenableBacktraceMetricKitReporterMinidump_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:06:39",
-        "DFIntBatchLogEventSenderLinearLoggingByUniverseIdServerOrSessionSamplingPerMille_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:06:57",
-        "FFlagPlayerListIgnoreDevGamepadBindings2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:07:27",
         "DFFlagVideoNewOpenStatusCounters": "True",
         "FFlagBootcampCLI179797_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:15:02",
         "FFlagOptimizeRegisterUnusedRef": "True",
@@ -13975,6 +13972,9 @@
         "FFlagTouchInputServiceGestureCoalesceFingers_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1057613799;2025-12-01T22:57:28",
         "DFFlagAnimatorUseFastQuaternionToAA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:58:34",
         "FFlagSimRuntimeContentEnableIsFromContentProvider": "True",
+        "FFlagPlayerListIgnoreDevGamepadBindings2": "True",
+        "FFlagenableBacktraceMetricKitReporterMinidump": "True",
+        "DFIntBatchLogEventSenderLinearLoggingByUniverseIdServerOrSessionSamplingPerMille": "1000",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14272,9 +14272,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "de57cba836378f6a58aea4f9215b631b6d5c674f",
-        "DFStringFlagRepoGitHashDynamicString": "de57cba836378f6a58aea4f9215b631b6d5c674f",
-        "FStringFlipTimeStampFastString": "2025-12-01T23:06:54.365Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T23:06:54.365Z"
+        "FStringFlagRepoGitHashFastString": "3c25ef607893a4d3c3ab7ebcf02196c2d7db9256",
+        "DFStringFlagRepoGitHashDynamicString": "3c25ef607893a4d3c3ab7ebcf02196c2d7db9256",
+        "FStringFlipTimeStampFastString": "2025-12-01T23:12:44.804Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T23:12:44.804Z"
     }
 }
