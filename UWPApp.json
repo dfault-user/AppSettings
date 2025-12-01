@@ -13872,9 +13872,6 @@
         "FIntInExperienceDetailsPromptOpenedHundredthsPercent": "10000",
         "FIntInExperienceDetailsPromptPlayClickedHundredthsPercent": "10000",
         "DFFlagGamePassesRequestOrchestratorEnabled": "True",
-        "FFlagEnableDevicePreferenceLayoutUpdate2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;426351685;2025-12-01T17:54:56",
-        "FFlagSystemThemeEnabled4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;426351685;2025-12-01T17:54:56",
-        "FFlagSystemThemeLuaEnabled9_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;426351685;2025-12-01T17:54:56",
         "FFlagFoundationDialogOversizedBackdrop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;175072;2025-12-01T18:00:30",
         "FFlagFoundationOverlayLuaAppInsetsFix2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;175072;2025-12-01T18:00:30",
         "FFlagFoundationPopoverOversizedBackdrop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;175072;2025-12-01T18:00:30",
@@ -13921,6 +13918,9 @@
         "FFlagAXRemoveCatalogCategoryDeprecatedAssetType": "True",
         "FFlagUsePaymentsProtocolIsInAppDimension_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:51:39",
         "FFlagLuaAppBannerVerticalPaddingConditionRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:52:34",
+        "FFlagEnableDevicePreferenceLayoutUpdate2": "True",
+        "FFlagSystemThemeEnabled4": "True",
+        "FFlagSystemThemeLuaEnabled9": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14219,9 +14219,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "bcce3b795c13432c215cb7d5153787bc9da839b9",
-        "DFStringFlagRepoGitHashDynamicString": "bcce3b795c13432c215cb7d5153787bc9da839b9",
-        "FStringFlipTimeStampFastString": "2025-12-01T18:53:32.096Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T18:53:32.096Z"
+        "FStringFlagRepoGitHashFastString": "022cfd5b9aa5e6160db22cbdf9e457095eee989d",
+        "DFStringFlagRepoGitHashDynamicString": "022cfd5b9aa5e6160db22cbdf9e457095eee989d",
+        "FStringFlipTimeStampFastString": "2025-12-01T18:57:14.839Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T18:57:14.839Z"
     }
 }
