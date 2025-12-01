@@ -13947,7 +13947,6 @@
         "FFlagOptimizeRegisterUnusedRef": "True",
         "DFIntRenderApiUsageThrottleHundredthsPercent": "15",
         "FFlagStudioRemoveServerInDestructor": "True",
-        "FFlagRenderDecalUseColorMapProperties2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:40:33",
         "FFlagVoiceChatSendChannelIdToVoiceApi": "True",
         "FFlagPluginStyleSheetIsActive": "True",
         "FFlagXboxStopRedundantHeartbeat": "True",
@@ -13980,6 +13979,8 @@
         "FFlagLuaAppOmniRecommendationsCacheRead3": "True",
         "FFlagEnableRenderApiUsageTelemetryV2": "True",
         "FFlagUseVRMainScreenResForDisplayStore": "True",
+        "FFlagRenderDecalUseColorMapProperties2": "True",
+        "DFIntRenderApiUsageThrottleHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T23:42:09",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "FFlagVoxelGridFixUpsample": "True",
@@ -15040,9 +15041,9 @@
         "FStringNetStackDummyClientEnabledMinorVersions": "",
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
-        "FStringFlagRepoGitHashFastString": "4cd95b5be0bbf1be6b64aab193c8528f3c6ffb04",
-        "DFStringFlagRepoGitHashDynamicString": "4cd95b5be0bbf1be6b64aab193c8528f3c6ffb04",
-        "FStringFlipTimeStampFastString": "2025-12-01T23:41:02.490Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T23:41:02.490Z"
+        "FStringFlagRepoGitHashFastString": "ba8004a147983af6bd07fd5a45a956f43d299209",
+        "DFStringFlagRepoGitHashDynamicString": "ba8004a147983af6bd07fd5a45a956f43d299209",
+        "FStringFlipTimeStampFastString": "2025-12-01T23:42:59.564Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T23:42:59.564Z"
     }
 }
