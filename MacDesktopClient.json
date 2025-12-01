@@ -14900,9 +14900,10 @@
         "FFlagMainThreadIdle": "True",
         "FFlagIASFixResetInRollback": "True",
         "DFIntMainThreadMinIdleTimeUs": "500",
-        "FStringFlagRepoGitHashFastString": "0273a1ed3d3f9a2bb36000b1bc0f629fb9a86b13",
-        "DFStringFlagRepoGitHashDynamicString": "0273a1ed3d3f9a2bb36000b1bc0f629fb9a86b13",
-        "FStringFlipTimeStampFastString": "2025-12-01T17:20:52.364Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T17:20:52.364Z"
+        "DFIntMainThreadMinIdleTimeUs_Staged": "2000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:20:27",
+        "FStringFlagRepoGitHashFastString": "3a5f600ca3ff9d08755af0598f7e9272c980feb7",
+        "DFStringFlagRepoGitHashDynamicString": "3a5f600ca3ff9d08755af0598f7e9272c980feb7",
+        "FStringFlipTimeStampFastString": "2025-12-01T17:21:26.268Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T17:21:26.268Z"
     }
 }
