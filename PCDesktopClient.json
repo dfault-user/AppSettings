@@ -13883,11 +13883,7 @@
         "FIntMaxEventCallsPerResumptionPoint": "10000",
         "FFlagVideoPlaybackManager3": "True",
         "FFlagFFlagAXBuildSubcategoryMapWhenBuildingCategoryInfo": "True",
-        "FFlagLuauTryFindSubstitutionReturnOptional_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:27:49",
-        "FFlagEnableContactListCallIdValidation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:29:05",
-        "FFlagAEGIS2EnableGatesForExpChat6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:29:49",
         "DFFlagSimFasterModelSize": "True",
-        "FFlagUIBloxTableCellStaleClosureFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:33:14",
         "DFFlagVoiceChatReactToFAEUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:35:44",
         "FFlagUpdateModelStreamingModePropertyChangeHandler_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:36:21",
         "FFlagLuaAppUpdateDelimeterEdpVideoDeviceBlocking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1795215011;2025-12-01T18:36:39",
@@ -13932,6 +13928,10 @@
         "FFlagFixBevelMiterStrokeOnRoundRect": "True",
         "FFlagOptimizeValidateThreadAccess": "True",
         "FFlagFoundationAnimateAccordion": "True",
+        "FFlagEnableContactListCallIdValidation": "True",
+        "FFlagAEGIS2EnableGatesForExpChat6": "True",
+        "FFlagLuauTryFindSubstitutionReturnOptional": "True",
+        "FFlagUIBloxTableCellStaleClosureFix": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -15006,9 +15006,9 @@
         "FStringNetStackDummyClientEnabledMinorVersions": "",
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
-        "FStringFlagRepoGitHashFastString": "7945d0a7c9328df9b909f1e328cc303d9108b42a",
-        "DFStringFlagRepoGitHashDynamicString": "7945d0a7c9328df9b909f1e328cc303d9108b42a",
-        "FStringFlipTimeStampFastString": "2025-12-01T19:26:40.289Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T19:26:40.289Z"
+        "FStringFlagRepoGitHashFastString": "9959b562b1c99dd480c7e0f02badabf142d9ec52",
+        "DFStringFlagRepoGitHashDynamicString": "9959b562b1c99dd480c7e0f02badabf142d9ec52",
+        "FStringFlipTimeStampFastString": "2025-12-01T19:36:51.748Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T19:36:51.748Z"
     }
 }
