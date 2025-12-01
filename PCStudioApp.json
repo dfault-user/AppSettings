@@ -13147,10 +13147,6 @@
         "DFFlagOnlyMigrateInNonEditMode": "False",
         "DFFlagTriangleMeshPartMigrationTelemetry": "True",
         "FFlagAXIncreaseDefaultPeekViewHeight_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
-        "FFlagAXDefaultNewAdaptiveScrollingTransitions_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
-        "FFlagAXExpandPeekViewOnFirstScroll1_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
-        "FFlagAXExpandPeekViewOnFirstScrollExposureLogging_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
-        "FFlagAXHideMenuOnScroll1_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.MarketplaceView.AdaptiveScrollingV2;1287809287;dev_controlled",
         "DFFlagCrashOnMigrateWithoutWriteLock": "True",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale": "10000",
         "FFlagReportTextureStreamingTelemetry5": "True",
@@ -13918,6 +13914,7 @@
         "FFlagEnableContactListCallIdValidation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:29:05",
         "FFlagAEGIS2EnableGatesForExpChat6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:29:49",
         "DFFlagSimFasterModelSize": "True",
+        "FFlagUIBloxTableCellStaleClosureFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:33:14",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -16346,9 +16343,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "377dfbe9d6133051b401fcfa5b813043dd269bc1",
-        "DFStringFlagRepoGitHashDynamicString": "377dfbe9d6133051b401fcfa5b813043dd269bc1",
-        "FStringFlipTimeStampFastString": "2025-12-01T18:32:29.728Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T18:32:29.728Z"
+        "FStringFlagRepoGitHashFastString": "c4c32f1cd3b8291787cdfb6b9a3a603b52607994",
+        "DFStringFlagRepoGitHashDynamicString": "c4c32f1cd3b8291787cdfb6b9a3a603b52607994",
+        "FStringFlipTimeStampFastString": "2025-12-01T18:35:00.766Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T18:35:00.766Z"
     }
 }
