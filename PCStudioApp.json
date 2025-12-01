@@ -13876,7 +13876,6 @@
         "FIntInExperienceDetailsPromptOpenedHundredthsPercent": "10000",
         "FIntInExperienceDetailsPromptPlayClickedHundredthsPercent": "10000",
         "DFFlagGamePassesRequestOrchestratorEnabled": "True",
-        "DFFlagSimFasterModelSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:25:36",
         "FFlagLuaAppFixGetEntitiesForPartialFeedItemCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:43:19",
         "FFlagEnableAEGIS2Upsellv700_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1372961315;2025-12-01T17:43:42",
         "FFlagLuaAppCleanupTopSearchResults_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:44:11",
@@ -13887,7 +13886,6 @@
         "FFlagEnableDevicePreferenceLayoutUpdate2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;426351685;2025-12-01T17:54:56",
         "FFlagSystemThemeEnabled4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;426351685;2025-12-01T17:54:56",
         "FFlagSystemThemeLuaEnabled9_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;426351685;2025-12-01T17:54:56",
-        "FFlagEnableCreatePartyNudge_Staged": "True;SteadyState;10;30;Revert;2025-12-01T17:57:29",
         "FFlagFoundationDialogOversizedBackdrop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;175072;2025-12-01T18:00:30",
         "FFlagFoundationOverlayLuaAppInsetsFix2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;175072;2025-12-01T18:00:30",
         "FFlagFoundationPopoverOversizedBackdrop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;175072;2025-12-01T18:00:30",
@@ -13919,6 +13917,7 @@
         "FFlagLuauTryFindSubstitutionReturnOptional_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:27:49",
         "FFlagEnableContactListCallIdValidation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:29:05",
         "FFlagAEGIS2EnableGatesForExpChat6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:29:49",
+        "DFFlagSimFasterModelSize": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -16347,9 +16346,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "3755f50984a0dd654bf7bf9aa5e2f2c26a27f523",
-        "DFStringFlagRepoGitHashDynamicString": "3755f50984a0dd654bf7bf9aa5e2f2c26a27f523",
-        "FStringFlipTimeStampFastString": "2025-12-01T18:31:02.609Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T18:31:02.609Z"
+        "FStringFlagRepoGitHashFastString": "377dfbe9d6133051b401fcfa5b813043dd269bc1",
+        "DFStringFlagRepoGitHashDynamicString": "377dfbe9d6133051b401fcfa5b813043dd269bc1",
+        "FStringFlipTimeStampFastString": "2025-12-01T18:32:29.728Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T18:32:29.728Z"
     }
 }
