@@ -13263,7 +13263,6 @@
         "DFFlagSimCsgFixConcaveSphere": "True",
         "FFlagUseWorkManagerForPushRegistration": "True",
         "DFFlagLoadNetAssetChildren": "True",
-        "FFlagUseDynamicStrokePositioning_PlaceFilter": "False;9798463281;12679345678;13995639090;13218680461",
         "DFFlagSolverV2NoModelModeChangesFromNonWorkspaceContainer": "True",
         "FIntSceneUpdaterProcessPendingPartsBudgetMs": "100",
         "DFFlagMigratePlayerFeatureTimeoutsReads": "True",
@@ -13932,7 +13931,6 @@
         "FFlagVoiceStartRunningOperationsOnVoiceJoin": "True",
         "FFlagLuaAppOmniRecommendationsCacheWrite1": "True",
         "DFFlagBase64NewDecodeStrict": "True",
-        "FFlagFixExplorerDebugger_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:04:49",
         "DFFlagVideoNewOpenStatusCounters_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:09:32",
         "FFlagUsePaymentsProtocolIsInAppDimension_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:16:30",
         "FFlagOptimizeRegisterUnusedRef_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:19:38",
@@ -13960,6 +13958,7 @@
         "FFlagUseBirthdayDropdownForGamepad6": "True",
         "DFIntBatchLogEventSenderNumTimestamps": "10",
         "FFlagSimRuntimeContentEnableIsFromContentProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:03:43",
+        "FFlagFixExplorerDebugger": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
         "DFFlagLockViolationInstanceCrash": "False",
@@ -15873,7 +15872,6 @@
         "FFlagLuauSimplifyIntersectionNoTreeSet": "True",
         "DFFlagHttpServiceOpenCloudLimitEnabled": "True",
         "DFFlagCapsModuleReparent": "True",
-        "FStringStudioEmergencyMessageV4_Staged": "eyJ2ZXJzaW9uU3RhcnQiOiAiMC4zMDAuMC4xIiwgInZlcnNpb25FbmQiOiAiMC42OTcuMC43MDAwOTM1IiwgInBsYXRmb3JtcyI6IFsiV2luZG93cyIsICJNYWMiXSwgIm1lc3NhZ2UiOiB7fSwgInNodXRkb3duIjogdHJ1ZX0=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:01:32",
         "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1215043333;2025-12-01T21:35:51",
         "FFlagRemoveMoreFromRobloxMainWindow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:41:12",
         "FFlagRemoveGeometryAndLayoutSaveRobloxMainWindow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:42:49",
@@ -16357,9 +16355,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "dcd0f9edcf51997be598c642ae940ead785fa006",
-        "DFStringFlagRepoGitHashDynamicString": "dcd0f9edcf51997be598c642ae940ead785fa006",
-        "FStringFlipTimeStampFastString": "2025-12-01T22:04:50.925Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T22:04:50.925Z"
+        "FStringFlagRepoGitHashFastString": "a43576a03c5ff7e8d16950b1f7ea240866f2749b",
+        "DFStringFlagRepoGitHashDynamicString": "a43576a03c5ff7e8d16950b1f7ea240866f2749b",
+        "FStringFlipTimeStampFastString": "2025-12-01T22:06:44.509Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T22:06:44.509Z"
     }
 }
