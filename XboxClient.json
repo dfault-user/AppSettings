@@ -13959,6 +13959,8 @@
         "DFIntBatchLogEventSenderNumTimestamps": "10",
         "FFlagSimRuntimeContentEnableIsFromContentProvider_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:03:43",
         "FFlagFixExplorerDebugger": "True",
+        "FFlagenableBacktraceMetricKitReporterMinidump_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:06:39",
+        "DFIntBatchLogEventSenderLinearLoggingByUniverseIdServerOrSessionSamplingPerMille_Staged": "1000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:06:57",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14325,9 +14327,9 @@
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FStringFlagRepoGitHashFastString": "a43576a03c5ff7e8d16950b1f7ea240866f2749b",
-        "DFStringFlagRepoGitHashDynamicString": "a43576a03c5ff7e8d16950b1f7ea240866f2749b",
-        "FStringFlipTimeStampFastString": "2025-12-01T22:06:44.509Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T22:06:44.509Z"
+        "FStringFlagRepoGitHashFastString": "83be5b3aa3200d11099ec640fe856f5bd4c08237",
+        "DFStringFlagRepoGitHashDynamicString": "83be5b3aa3200d11099ec640fe856f5bd4c08237",
+        "FStringFlipTimeStampFastString": "2025-12-01T22:09:38.244Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T22:09:38.244Z"
     }
 }
