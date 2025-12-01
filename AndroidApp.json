@@ -13792,7 +13792,7 @@
         "FFlagAppChatMakeTCConversationAvatarsNotSelectable": "True",
         "DFFlagTM2AlternateIdealCalc": "True",
         "FFlagTerrainProcessTPAsync": "True",
-        "FFlagDeprecatePrecomputeDeformedVertices": "True",
+        "FFlagDeprecatePrecomputeDeformedVertices": "False",
         "FFlagExpChatAddPaddingAroundARButton2": "True",
         "FFlagTexturePriorityApplyOffsets": "True",
         "FFlagAllowUsingVisQueryInRenderQueue": "True",
@@ -13876,7 +13876,6 @@
         "FIntInExperienceDetailsPromptOpenedHundredthsPercent": "10000",
         "FIntInExperienceDetailsPromptPlayClickedHundredthsPercent": "10000",
         "DFFlagGamePassesRequestOrchestratorEnabled": "True",
-        "FFlagDeprecatePrecomputeDeformedVertices_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;583235109;2025-12-01T16:56:27",
         "FFlagFixMutingOthersWhenAecIsActive_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:06:21",
         "AllowVideoPreRoll": "True",
         "FFlagLuaAppUseEffectInSignalPreprocessing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:07:15",
@@ -13902,6 +13901,10 @@
         "FFlagSystemThemeEnabled4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;426351685;2025-12-01T17:54:56",
         "FFlagSystemThemeLuaEnabled9_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;426351685;2025-12-01T17:54:56",
         "FFlagEnableCreatePartyNudge_Staged": "True;SteadyState;10;30;Revert;2025-12-01T17:57:29",
+        "FFlagFoundationDialogOversizedBackdrop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;175072;2025-12-01T18:00:30",
+        "FFlagFoundationOverlayLuaAppInsetsFix2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;175072;2025-12-01T18:00:30",
+        "FFlagFoundationPopoverOversizedBackdrop_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;175072;2025-12-01T18:00:30",
+        "FFlagFoundationPopoverRootZIndex_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;175072;2025-12-01T18:00:30",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -14884,9 +14887,9 @@
         "FStringLuaAppEdpVideoManufacturerPipeDenyList": "OPPO|TECNO|Realme|INFINIX",
         "DFFlagPowerTraceCheckTimeWindowValidityForTelemetry": "True",
         "FStringOrchestratorTranscoderVersion_Staged": "4;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:34:41",
-        "FStringFlagRepoGitHashFastString": "281cb2f6a3f1d2dd0cfe6d69b06627b29bef052e",
-        "DFStringFlagRepoGitHashDynamicString": "281cb2f6a3f1d2dd0cfe6d69b06627b29bef052e",
-        "FStringFlipTimeStampFastString": "2025-12-01T17:58:51.361Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T17:58:51.361Z"
+        "FStringFlagRepoGitHashFastString": "ef661c01cdd3b3165710ce67b4576cb6fc39c0f1",
+        "DFStringFlagRepoGitHashDynamicString": "ef661c01cdd3b3165710ce67b4576cb6fc39c0f1",
+        "FStringFlipTimeStampFastString": "2025-12-01T18:01:57.114Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T18:01:57.114Z"
     }
 }
