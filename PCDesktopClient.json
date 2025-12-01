@@ -13884,11 +13884,6 @@
         "FFlagVideoPlaybackManager3": "True",
         "FFlagFFlagAXBuildSubcategoryMapWhenBuildingCategoryInfo": "True",
         "DFFlagSimFasterModelSize": "True",
-        "DFFlagVoiceChatReactToFAEUpdates_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:35:44",
-        "FFlagUpdateModelStreamingModePropertyChangeHandler_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:36:21",
-        "FFlagLuaAppUpdateDelimeterEdpVideoDeviceBlocking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1795215011;2025-12-01T18:36:39",
-        "FFlagLuaAppUpdateDelimeterEdpVideoManufacturerBlocking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1795215011;2025-12-01T18:36:39",
-        "FFlagLuaAppCustomizeBannerIconVariantAndStyle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:37:29",
         "FFlagProfilePlatformEnableReportAllEntryPoints_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1633272118;2025-12-01T18:42:04",
         "FFlagLuaAppFixGetEntitiesForPartialFeedItemCrash": "True",
         "FFlagEnableAEGIS2Upsellv700": "True",
@@ -13932,6 +13927,11 @@
         "FFlagAEGIS2EnableGatesForExpChat6": "True",
         "FFlagLuauTryFindSubstitutionReturnOptional": "True",
         "FFlagUIBloxTableCellStaleClosureFix": "True",
+        "FFlagUpdateModelStreamingModePropertyChangeHandler": "True",
+        "DFFlagVoiceChatReactToFAEUpdates": "True",
+        "FFlagLuaAppCustomizeBannerIconVariantAndStyle": "True",
+        "FFlagLuaAppUpdateDelimeterEdpVideoDeviceBlocking": "True",
+        "FFlagLuaAppUpdateDelimeterEdpVideoManufacturerBlocking": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -15006,9 +15006,9 @@
         "FStringNetStackDummyClientEnabledMinorVersions": "",
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
-        "FStringFlagRepoGitHashFastString": "9959b562b1c99dd480c7e0f02badabf142d9ec52",
-        "DFStringFlagRepoGitHashDynamicString": "9959b562b1c99dd480c7e0f02badabf142d9ec52",
-        "FStringFlipTimeStampFastString": "2025-12-01T19:36:51.748Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T19:36:51.748Z"
+        "FStringFlagRepoGitHashFastString": "300d5db740c825ce61dbdb005ae808f277a13553",
+        "DFStringFlagRepoGitHashDynamicString": "300d5db740c825ce61dbdb005ae808f277a13553",
+        "FStringFlipTimeStampFastString": "2025-12-01T19:41:42.349Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T19:41:42.349Z"
     }
 }
