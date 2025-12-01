@@ -13931,7 +13931,6 @@
         "FFlagVoiceStartRunningOperationsOnVoiceJoin": "True",
         "FFlagLuaAppOmniRecommendationsCacheWrite1": "True",
         "DFFlagBase64NewDecodeStrict": "True",
-        "DFIntRenderApiUsageThrottleHundredthsPercent_Staged": "15;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:22:12",
         "FFlagStudioRemoveServerInDestructor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:25:23",
         "FFlagEnableCreatePartyNudge_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:31:16",
         "FFlagRefactorIngressFlow": "True",
@@ -13962,6 +13961,7 @@
         "DFFlagVideoNewOpenStatusCounters": "True",
         "FFlagBootcampCLI179797_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:15:02",
         "FFlagOptimizeRegisterUnusedRef": "True",
+        "DFIntRenderApiUsageThrottleHundredthsPercent": "15",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14965,9 +14965,9 @@
         "FFlagIASFixResetInRollback": "True",
         "DFIntMainThreadMinIdleTimeUs": "2000",
         "FIntRuntimeMaxNumOfMutexes_Staged": "4800;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:45:26",
-        "FStringFlagRepoGitHashFastString": "b14f774f3e00b44c3eb0570bd9839d0061ec29a8",
-        "DFStringFlagRepoGitHashDynamicString": "b14f774f3e00b44c3eb0570bd9839d0061ec29a8",
-        "FStringFlipTimeStampFastString": "2025-12-01T22:25:32.876Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T22:25:32.876Z"
+        "FStringFlagRepoGitHashFastString": "51ccacc06889dc7632508470795afd269f5c2c58",
+        "DFStringFlagRepoGitHashDynamicString": "51ccacc06889dc7632508470795afd269f5c2c58",
+        "FStringFlipTimeStampFastString": "2025-12-01T22:26:55.272Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T22:26:55.272Z"
     }
 }
