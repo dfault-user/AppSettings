@@ -13889,6 +13889,7 @@
         "FIntMaxEventCallsPerResumptionPoint_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:19:07",
         "FFlagFFlagAXBuildSubcategoryMapWhenBuildingCategoryInfo_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:24:03",
         "DFFlagSimFasterModelSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:25:36",
+        "FFlagAXRemoveCategoryInfoSortProperty_Staged": "True;SteadyState;10;30;Revert;2025-12-01T17:42:06",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14256,9 +14257,9 @@
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FStringFlagRepoGitHashFastString": "6419985154c7ccaef3b9e49b8a747a3ef705a1d1",
-        "DFStringFlagRepoGitHashDynamicString": "6419985154c7ccaef3b9e49b8a747a3ef705a1d1",
-        "FStringFlipTimeStampFastString": "2025-12-01T17:41:37.413Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T17:41:37.413Z"
+        "FStringFlagRepoGitHashFastString": "49c58155824dbb1304824a173325a22507435b75",
+        "DFStringFlagRepoGitHashDynamicString": "49c58155824dbb1304824a173325a22507435b75",
+        "FStringFlipTimeStampFastString": "2025-12-01T17:42:50.935Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T17:42:50.935Z"
     }
 }
