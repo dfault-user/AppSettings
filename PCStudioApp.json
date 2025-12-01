@@ -13925,14 +13925,12 @@
         "FFlagAXRemoveExtraBaseCategoryInfoProperties": "True",
         "FFlagChatUniverseConfigurationParseShortCircuit": "True",
         "FFlagInitializeMassUpdateError": "True",
-        "FFlagUsePaymentsProtocolIsInAppDimension": "False",
+        "FFlagUsePaymentsProtocolIsInAppDimension": "True",
         "FIntSduiCreateSduiFeedStoreLogDelayMs": "2000",
         "FFlagSimRuntimeContentFixCallBackDataLoss": "True",
         "FFlagVoiceStartRunningOperationsOnVoiceJoin": "True",
         "FFlagLuaAppOmniRecommendationsCacheWrite1": "True",
         "DFFlagBase64NewDecodeStrict": "True",
-        "FFlagUsePaymentsProtocolIsInAppDimension_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:16:30",
-        "FFlagOptimizeRegisterUnusedRef_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:19:38",
         "DFIntRenderApiUsageThrottleHundredthsPercent_Staged": "15;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:22:12",
         "FFlagStudioRemoveServerInDestructor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:25:23",
         "FFlagEnableCreatePartyNudge_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:31:16",
@@ -13963,6 +13961,7 @@
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "DFFlagVideoNewOpenStatusCounters": "True",
         "FFlagBootcampCLI179797_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:15:02",
+        "FFlagOptimizeRegisterUnusedRef": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
         "DFFlagLockViolationInstanceCrash": "False",
@@ -16387,9 +16386,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "a235c3a0db3da68756b26e200367d1c5c1708ef8",
-        "DFStringFlagRepoGitHashDynamicString": "a235c3a0db3da68756b26e200367d1c5c1708ef8",
-        "FStringFlipTimeStampFastString": "2025-12-01T22:16:05.986Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T22:16:05.986Z"
+        "FStringFlagRepoGitHashFastString": "0c6035917525a84caf60a218e997ceebc882cc32",
+        "DFStringFlagRepoGitHashDynamicString": "0c6035917525a84caf60a218e997ceebc882cc32",
+        "FStringFlipTimeStampFastString": "2025-12-01T22:21:52.661Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T22:21:52.661Z"
     }
 }
