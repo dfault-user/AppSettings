@@ -13955,6 +13955,10 @@
         "DFIntMigrateTriangleMeshPartTimeLimit_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1459696789;2025-12-01T21:43:13",
         "FFlagPerformanceControlExposeMemoryPressureLevels": "True",
         "DFFlagVideoAcrFixPriorityListDelimiter": "True",
+        "FFlagSlimDecalInheritPartMaterial_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;408099724;2025-12-01T21:47:29",
+        "FFlagSlimHandleMeshLoadException_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;408099724;2025-12-01T21:47:29",
+        "FFlagSlimInstancingDeepGeometryPtr_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;408099724;2025-12-01T21:47:29",
+        "FFlagSlimOnlyUploadInStreamingEnabledGames_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;408099724;2025-12-01T21:47:29",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14321,9 +14325,9 @@
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FStringFlagRepoGitHashFastString": "e7c299c6a899cc97865ec01123c407dfc8210914",
-        "DFStringFlagRepoGitHashDynamicString": "e7c299c6a899cc97865ec01123c407dfc8210914",
-        "FStringFlipTimeStampFastString": "2025-12-01T21:46:55.503Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:46:55.503Z"
+        "FStringFlagRepoGitHashFastString": "cfaf524de543cce85b6578eac1ae34e9498a3858",
+        "DFStringFlagRepoGitHashDynamicString": "cfaf524de543cce85b6578eac1ae34e9498a3858",
+        "FStringFlipTimeStampFastString": "2025-12-01T21:48:42.897Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:48:42.897Z"
     }
 }

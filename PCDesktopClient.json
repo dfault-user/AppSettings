@@ -13955,6 +13955,10 @@
         "DFIntMigrateTriangleMeshPartTimeLimit_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1459696789;2025-12-01T21:43:13",
         "FFlagPerformanceControlExposeMemoryPressureLevels": "True",
         "DFFlagVideoAcrFixPriorityListDelimiter": "True",
+        "CaptureQTStudioCountersEnabled": "True",
+        "CaptureCountersIntervalInMinutes": "5",
+        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14520,10 +14524,6 @@
         "FFlagRefactorScrollableToModifier3": "False",
         "FFlagTexturePacksFallbackReferenceManaged": "True",
         "FFlagTexturePriorityBasedOnDistance": "True",
-        "AllowVideoPreRoll": "True",
-        "AxisAdornmentGrabSize": "12",
-        "CaptureCountersIntervalInMinutes": "5",
-        "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -15027,9 +15027,9 @@
         "FStringNetStackDummyClientEnabledMinorVersions": "",
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
-        "FStringFlagRepoGitHashFastString": "e7c299c6a899cc97865ec01123c407dfc8210914",
-        "DFStringFlagRepoGitHashDynamicString": "e7c299c6a899cc97865ec01123c407dfc8210914",
-        "FStringFlipTimeStampFastString": "2025-12-01T21:46:55.503Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:46:55.503Z"
+        "FStringFlagRepoGitHashFastString": "cfaf524de543cce85b6578eac1ae34e9498a3858",
+        "DFStringFlagRepoGitHashDynamicString": "cfaf524de543cce85b6578eac1ae34e9498a3858",
+        "FStringFlipTimeStampFastString": "2025-12-01T21:48:42.897Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:48:42.897Z"
     }
 }
