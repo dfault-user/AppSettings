@@ -13932,8 +13932,6 @@
         "FFlagVoiceStartRunningOperationsOnVoiceJoin": "True",
         "FFlagLuaAppOmniRecommendationsCacheWrite1": "True",
         "DFFlagBase64NewDecodeStrict": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
-        "FFlagUIDragDetectorFixEventPositionIgnoreGuiInset3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:49:28",
         "DFFlagEnableTextChatCounterpartyEnforcement2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;501958085;2025-12-01T20:50:43",
         "DFFlagSCMNoRolloutBypass_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;501958085;2025-12-01T20:50:43",
         "FFlagUseBirthdayDropdownForGamepad6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1290358576;2025-12-01T20:52:36",
@@ -13960,6 +13958,9 @@
         "AxisAdornmentGrabSize": "12",
         "AllowVideoPreRoll": "True",
         "DFFlagBetterErrorForGenerateItemList_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:49:00",
+        "FFlagFoundationUseAlphaCompositingForStateLayer": "True",
+        "FFlagUIDragDetectorFixEventPositionIgnoreGuiInset3": "True",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14457,7 +14458,6 @@
         "FFlagPlayerListIgnoreDevGamepadBindings2": "True",
         "FFlagInstallerSplitFlow5": "True",
         "DFFlagGamePassOwnershipOrchestratorEnabled": "True",
-        "FFlagFoundationUseAlphaCompositingForStateLayer": "True",
         "DFIntRobloxTelemetryGamePassOwnershipBatchingAnalyticsThrottleHundredthsPercent": "1",
         "FFlagAddFriendsIgnoreAllRefactor": "True",
         "FFlagAXItemCardSelectedOverlayBorderInsteadOfCheckmark_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.MultiItemShoppingDesktopOnlyV2;2142854400;dev_controlled",
@@ -14963,9 +14963,9 @@
         "FFlagIASFixResetInRollback": "True",
         "DFIntMainThreadMinIdleTimeUs": "2000",
         "FIntRuntimeMaxNumOfMutexes_Staged": "4800;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:45:26",
-        "FStringFlagRepoGitHashFastString": "53e8ac1aea93a631d6660621f7c72a5c30023483",
-        "DFStringFlagRepoGitHashDynamicString": "53e8ac1aea93a631d6660621f7c72a5c30023483",
-        "FStringFlipTimeStampFastString": "2025-12-01T21:50:02.676Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:50:02.676Z"
+        "FStringFlagRepoGitHashFastString": "fa5b50427dc0d0e6c4d73f94419934d8963415f9",
+        "DFStringFlagRepoGitHashDynamicString": "fa5b50427dc0d0e6c4d73f94419934d8963415f9",
+        "FStringFlipTimeStampFastString": "2025-12-01T21:51:49.379Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:51:49.379Z"
     }
 }

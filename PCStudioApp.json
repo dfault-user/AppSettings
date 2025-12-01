@@ -13932,8 +13932,6 @@
         "FFlagVoiceStartRunningOperationsOnVoiceJoin": "True",
         "FFlagLuaAppOmniRecommendationsCacheWrite1": "True",
         "DFFlagBase64NewDecodeStrict": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
-        "FFlagUIDragDetectorFixEventPositionIgnoreGuiInset3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:49:28",
         "DFFlagEnableTextChatCounterpartyEnforcement2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;501958085;2025-12-01T20:50:43",
         "DFFlagSCMNoRolloutBypass_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;501958085;2025-12-01T20:50:43",
         "FFlagUseBirthdayDropdownForGamepad6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1290358576;2025-12-01T20:52:36",
@@ -13960,6 +13958,8 @@
         "AxisAdornmentGrabSize": "12",
         "AllowVideoPreRoll": "True",
         "DFFlagBetterErrorForGenerateItemList_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:49:00",
+        "FFlagFoundationUseAlphaCompositingForStateLayer": "True",
+        "FFlagUIDragDetectorFixEventPositionIgnoreGuiInset3": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
         "DFFlagLockViolationInstanceCrash": "False",
@@ -15878,6 +15878,7 @@
         "FFlagRemoveMoreFromRobloxMainWindow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:41:12",
         "FFlagRemoveGeometryAndLayoutSaveRobloxMainWindow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:42:49",
         "DFIntMigrateTriangleMeshPartTimeLimit_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1459696789;2025-12-01T21:43:13",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -16316,7 +16317,6 @@
         "FFlagICCheckBinding": "True",
         "FFlagInstallerSplitFlow5": "True",
         "DFFlagGamePassOwnershipOrchestratorEnabled": "True",
-        "FFlagFoundationUseAlphaCompositingForStateLayer": "True",
         "DFIntRobloxTelemetryGamePassOwnershipBatchingAnalyticsThrottleHundredthsPercent": "1",
         "DFFlagUseRealtimeProtocolLock": "False",
         "FFlagAddFriendsIgnoreAllRefactor": "True",
@@ -16386,9 +16386,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "53e8ac1aea93a631d6660621f7c72a5c30023483",
-        "DFStringFlagRepoGitHashDynamicString": "53e8ac1aea93a631d6660621f7c72a5c30023483",
-        "FStringFlipTimeStampFastString": "2025-12-01T21:50:02.676Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:50:02.676Z"
+        "FStringFlagRepoGitHashFastString": "fa5b50427dc0d0e6c4d73f94419934d8963415f9",
+        "DFStringFlagRepoGitHashDynamicString": "fa5b50427dc0d0e6c4d73f94419934d8963415f9",
+        "FStringFlipTimeStampFastString": "2025-12-01T21:51:49.379Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:51:49.379Z"
     }
 }
