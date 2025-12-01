@@ -13938,6 +13938,10 @@
         "FFlagPerformanceControlExposeMemoryPressureLevels_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:42:26",
         "DFFlagVideoAcrFixPriorityListDelimiter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:42:52",
         "FFlagLuaAppRemoveEDPLoadingState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:45:01",
+        "FFlagFoundationUseAlphaCompositingForStateLayer_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2019545430;2025-12-01T20:48:47",
+        "FFlagUIDragDetectorFixEventPositionIgnoreGuiInset3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:49:28",
+        "DFFlagEnableTextChatCounterpartyEnforcement2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;501958085;2025-12-01T20:50:43",
+        "DFFlagSCMNoRolloutBypass_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;501958085;2025-12-01T20:50:43",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14918,9 +14922,9 @@
         "FStringLuaAppEdpVideoManufacturerPipeDenyList": "OPPO|TECNO|Realme|INFINIX",
         "DFFlagPowerTraceCheckTimeWindowValidityForTelemetry": "True",
         "FStringOrchestratorTranscoderVersion": "4",
-        "FStringFlagRepoGitHashFastString": "625ec9a154c5a2f0be792e456bf47a311c082af8",
-        "DFStringFlagRepoGitHashDynamicString": "625ec9a154c5a2f0be792e456bf47a311c082af8",
-        "FStringFlipTimeStampFastString": "2025-12-01T20:46:18.723Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T20:46:18.723Z"
+        "FStringFlagRepoGitHashFastString": "d50db368a56bcc856574cc77f60b81b019f17698",
+        "DFStringFlagRepoGitHashDynamicString": "d50db368a56bcc856574cc77f60b81b019f17698",
+        "FStringFlipTimeStampFastString": "2025-12-01T20:51:45.872Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T20:51:45.872Z"
     }
 }
