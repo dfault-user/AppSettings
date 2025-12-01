@@ -13882,8 +13882,6 @@
         "FFlagFcOptimizeSolveSmoothingGroups": "True",
         "FIntMaxEventCallsPerResumptionPoint": "10000",
         "FFlagVideoPlaybackManager3": "True",
-        "FFlagOptimizeValidateThreadAccess_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:22:43",
-        "FFlagFoundationAnimateAccordion_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1372227265;2025-12-01T18:23:09",
         "FFlagFFlagAXBuildSubcategoryMapWhenBuildingCategoryInfo": "True",
         "FFlagLuauTryFindSubstitutionReturnOptional_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:27:49",
         "FFlagEnableContactListCallIdValidation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:29:05",
@@ -13932,6 +13930,8 @@
         "FFlagUniverseFilters": "True",
         "FFlagIgnoreParticleFlipbookSizeCheck": "True",
         "FFlagFixBevelMiterStrokeOnRoundRect": "True",
+        "FFlagOptimizeValidateThreadAccess": "True",
+        "FFlagFoundationAnimateAccordion": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -14912,9 +14912,9 @@
         "FStringLuaAppEdpVideoManufacturerPipeDenyList": "OPPO|TECNO|Realme|INFINIX",
         "DFFlagPowerTraceCheckTimeWindowValidityForTelemetry": "True",
         "FStringOrchestratorTranscoderVersion": "4",
-        "FStringFlagRepoGitHashFastString": "99f85415e3ae1a348ff366f5ffe331e5b2af346b",
-        "DFStringFlagRepoGitHashDynamicString": "99f85415e3ae1a348ff366f5ffe331e5b2af346b",
-        "FStringFlipTimeStampFastString": "2025-12-01T19:22:10.988Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T19:22:10.988Z"
+        "FStringFlagRepoGitHashFastString": "7945d0a7c9328df9b909f1e328cc303d9108b42a",
+        "DFStringFlagRepoGitHashDynamicString": "7945d0a7c9328df9b909f1e328cc303d9108b42a",
+        "FStringFlipTimeStampFastString": "2025-12-01T19:26:40.289Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T19:26:40.289Z"
     }
 }
