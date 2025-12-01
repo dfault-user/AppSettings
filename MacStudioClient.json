@@ -13062,7 +13062,7 @@
         "FFlagTrackVertexOrderingInSkinningSubsets": "True",
         "FFlagFCRouteSecondaryParts3": "False",
         "FFlagDecodeHSROnLCThread": "True",
-        "FFlagLuaAppRemoveEDPLoadingState": "False",
+        "FFlagLuaAppRemoveEDPLoadingState": "True",
         "DFFlagTextChatFireLegacyChattedOnCommands": "True",
         "FFlagReserveMemDescContSize": "True",
         "FFlagDevFrameworkMultiImageRenameFix": "True",
@@ -13932,9 +13932,6 @@
         "FFlagVoiceStartRunningOperationsOnVoiceJoin": "True",
         "FFlagLuaAppOmniRecommendationsCacheWrite1": "True",
         "DFFlagBase64NewDecodeStrict": "True",
-        "FFlagPerformanceControlExposeMemoryPressureLevels_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:42:26",
-        "DFFlagVideoAcrFixPriorityListDelimiter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:42:52",
-        "FFlagLuaAppRemoveEDPLoadingState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:45:01",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagUIDragDetectorFixEventPositionIgnoreGuiInset3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:49:28",
         "DFFlagEnableTextChatCounterpartyEnforcement2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;501958085;2025-12-01T20:50:43",
@@ -13956,6 +13953,8 @@
         "FFlagXboxStopRedundantHeartbeat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:40:16",
         "DFFlagBGDropPatch3": "True",
         "AxisAdornmentGrabSize": "12",
+        "FFlagPerformanceControlExposeMemoryPressureLevels": "True",
+        "DFFlagVideoAcrFixPriorityListDelimiter": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -16357,9 +16356,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "5e9356675d9584c9c4d24ee71abaab8a88a72b57",
-        "DFStringFlagRepoGitHashDynamicString": "5e9356675d9584c9c4d24ee71abaab8a88a72b57",
-        "FStringFlipTimeStampFastString": "2025-12-01T21:44:10.560Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:44:10.560Z"
+        "FStringFlagRepoGitHashFastString": "e7c299c6a899cc97865ec01123c407dfc8210914",
+        "DFStringFlagRepoGitHashDynamicString": "e7c299c6a899cc97865ec01123c407dfc8210914",
+        "FStringFlipTimeStampFastString": "2025-12-01T21:46:55.503Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:46:55.503Z"
     }
 }
