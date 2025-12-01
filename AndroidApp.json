@@ -13882,6 +13882,8 @@
         "FFlagLuaAppUseEffectInSignalPreprocessing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:07:15",
         "FFlagAXRemoveCatalogCategoryDeprecatedAssetType_Staged": "True;SteadyState;10;30;Revert;2025-12-01T17:10:13",
         "DFFlagVideoDropFrameIfTooLate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:12:45",
+        "FFlagVideoHandleSeekEAgain_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:13:27",
+        "FFlagVideoPlaylistSelectorByIndex_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T17:14:10",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14867,9 +14869,9 @@
         "FFlagLuaAppUpdateDelimeterEdpVideoManufacturerBlocking": "True",
         "FStringLuaAppEdpVideoManufacturerPipeDenyList": "OPPO|TECNO|Realme|INFINIX",
         "DFFlagPowerTraceCheckTimeWindowValidityForTelemetry": "True",
-        "FStringFlagRepoGitHashFastString": "1af6da2a3556159aa1909716bd7db13b416e9764",
-        "DFStringFlagRepoGitHashDynamicString": "1af6da2a3556159aa1909716bd7db13b416e9764",
-        "FStringFlipTimeStampFastString": "2025-12-01T17:13:37.620Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T17:13:37.620Z"
+        "FStringFlagRepoGitHashFastString": "b15ff8c8262823091f8f712790b9e752eb3dd73d",
+        "DFStringFlagRepoGitHashDynamicString": "b15ff8c8262823091f8f712790b9e752eb3dd73d",
+        "FStringFlipTimeStampFastString": "2025-12-01T17:15:44.395Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T17:15:44.395Z"
     }
 }
