@@ -13953,6 +13953,8 @@
         "FFlagRefactorIngressFlow": "True",
         "FFlagSimRuntimeContentNetworkSchema": "True",
         "FFlagVoiceChatSendChannelIdToVoiceApi_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:38:41",
+        "FFlagPluginStyleSheetIsActive_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:38:52",
+        "FFlagXboxStopRedundantHeartbeat_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:40:16",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14319,9 +14321,9 @@
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FStringFlagRepoGitHashFastString": "9958e9f19ef3e4ce8d01622a19f632e4d0065acf",
-        "DFStringFlagRepoGitHashDynamicString": "9958e9f19ef3e4ce8d01622a19f632e4d0065acf",
-        "FStringFlipTimeStampFastString": "2025-12-01T21:40:02.812Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:40:02.812Z"
+        "FStringFlagRepoGitHashFastString": "3dff69bd7e7f7bf205152eb35637622687f637db",
+        "DFStringFlagRepoGitHashDynamicString": "3dff69bd7e7f7bf205152eb35637622687f637db",
+        "FStringFlipTimeStampFastString": "2025-12-01T21:41:19.510Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:41:19.510Z"
     }
 }
