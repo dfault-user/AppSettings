@@ -13893,9 +13893,6 @@
         "FFlagEnableDevicePreferenceLayoutUpdate2": "True",
         "FFlagSystemThemeEnabled4": "True",
         "FFlagSystemThemeLuaEnabled9": "True",
-        "FFlagAXRemoveCategoryInfoSortProperty_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:58:08",
-        "FFlagAXRemoveExtraBaseCategoryInfoProperties_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T18:59:04",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagFoundationDialogOversizedBackdrop": "True",
         "FFlagFoundationOverlayLuaAppInsetsFix2": "True",
         "FFlagFoundationPopoverOversizedBackdrop": "True",
@@ -13932,6 +13929,10 @@
         "FFlagProfilePlatformEnableReportAllEntryPoints": "True",
         "DFFlagMPLabelRenderTotalTime": "True",
         "FFlagLuaAppBannerVerticalPaddingConditionRefactor": "True",
+        "DFIntRobloxTelemetryGamePassesProductInfoBatchingAnalyticsThrottleHundredthsPercent": "1",
+        "FFlagAXRemoveCategoryInfoSortProperty": "True",
+        "FFlagAXRemoveExtraBaseCategoryInfoProperties": "True",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14431,7 +14432,6 @@
         "DFFlagGamePassOwnershipOrchestratorEnabled": "True",
         "FFlagFoundationUseAlphaCompositingForStateLayer": "True",
         "DFIntRobloxTelemetryGamePassOwnershipBatchingAnalyticsThrottleHundredthsPercent": "1",
-        "DFIntRobloxTelemetryGamePassesProductInfoBatchingAnalyticsThrottleHundredthsPercent": "1",
         "FFlagAddFriendsIgnoreAllRefactor": "True",
         "FFlagAXItemCardSelectedOverlayBorderInsteadOfCheckmark_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.MultiItemShoppingDesktopOnlyV2;2142854400;dev_controlled",
         "FFlagAXMISEnableMultiShopping10_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UA.MultiItemShoppingDesktopOnlyV2;2142854400;dev_controlled",
@@ -14940,9 +14940,9 @@
         "FFlagMainThreadIdle": "True",
         "FFlagIASFixResetInRollback": "True",
         "DFIntMainThreadMinIdleTimeUs": "2000",
-        "FStringFlagRepoGitHashFastString": "8ee8a49ac414e3b0b65eef1a229d5fec82cad01d",
-        "DFStringFlagRepoGitHashDynamicString": "8ee8a49ac414e3b0b65eef1a229d5fec82cad01d",
-        "FStringFlipTimeStampFastString": "2025-12-01T19:56:25.933Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T19:56:25.933Z"
+        "FStringFlagRepoGitHashFastString": "07afd63d0944c2c4c23fe53de4c41eaf09bf15c5",
+        "DFStringFlagRepoGitHashDynamicString": "07afd63d0944c2c4c23fe53de4c41eaf09bf15c5",
+        "FStringFlipTimeStampFastString": "2025-12-01T20:02:18.747Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T20:02:18.747Z"
     }
 }
