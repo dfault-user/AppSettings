@@ -13932,8 +13932,6 @@
         "FFlagVoiceStartRunningOperationsOnVoiceJoin": "True",
         "FFlagLuaAppOmniRecommendationsCacheWrite1": "True",
         "DFFlagBase64NewDecodeStrict": "True",
-        "FFlagRefactorIngressFlow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:30:55",
-        "FFlagSimRuntimeContentNetworkSchema_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:31:06",
         "DFFlagBGDropPatch3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:37:30",
         "FFlagPerformanceControlExposeMemoryPressureLevels_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:42:26",
         "DFFlagVideoAcrFixPriorityListDelimiter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T20:42:52",
@@ -13952,6 +13950,8 @@
         "DFIntRenderApiUsageThrottleHundredthsPercent_Staged": "15;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:22:12",
         "FFlagStudioRemoveServerInDestructor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:25:23",
         "FFlagEnableCreatePartyNudge_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:31:16",
+        "FFlagRefactorIngressFlow": "True",
+        "FFlagSimRuntimeContentNetworkSchema": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15872,6 +15872,7 @@
         "DFFlagHttpServiceOpenCloudLimitEnabled": "True",
         "DFFlagCapsModuleReparent": "True",
         "FStringStudioEmergencyMessageV4_Staged": "eyJ2ZXJzaW9uU3RhcnQiOiAiMC4zMDAuMC4xIiwgInZlcnNpb25FbmQiOiAiMC42OTcuMC43MDAwOTM1IiwgInBsYXRmb3JtcyI6IFsiV2luZG93cyIsICJNYWMiXSwgIm1lc3NhZ2UiOiB7fSwgInNodXRkb3duIjogdHJ1ZX0=;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T21:01:32",
+        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1215043333;2025-12-01T21:35:51",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -16380,9 +16381,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "5fe704108167285579e8e14b4c775abca5d6d98f",
-        "DFStringFlagRepoGitHashDynamicString": "5fe704108167285579e8e14b4c775abca5d6d98f",
-        "FStringFlipTimeStampFastString": "2025-12-01T21:32:37.307Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:32:37.307Z"
+        "FStringFlagRepoGitHashFastString": "dfc56395f9ab31aa62c4962df2eb9f2ab3a90d99",
+        "DFStringFlagRepoGitHashDynamicString": "dfc56395f9ab31aa62c4962df2eb9f2ab3a90d99",
+        "FStringFlipTimeStampFastString": "2025-12-01T21:37:36.306Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-01T21:37:36.306Z"
     }
 }
