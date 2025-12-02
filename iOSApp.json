@@ -13987,7 +13987,6 @@
         "FFlagMeshpartAccessoryCheckAvatarPartScaleType": "True",
         "DFFlagRbxStorageReportVersion": "True",
         "FFlagRbxStorageImprovedFindAndRemoveOrphanedFiles": "True",
-        "AxisAdornmentGrabSize": "12",
         "DFIntJoinLimitWin32x64_Staged": "700;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;366482982;2025-12-02T17:17:25",
         "DFFlagAnimatorUpdateTracksOnServiceProviderChange_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T17:17:48",
         "FFlagCorrectSdfShaderCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T17:25:55",
@@ -14002,6 +14001,9 @@
         "FFlagLuaAppSearchHotlineText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T17:55:08",
         "FFlagEnableNavbarLabelExperiment2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;957644837;2025-12-02T17:58:01",
         "FFlagFixProductPurchaseEconomicRestrictionsCounter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T18:06:24",
+        "FFlagEnablePartyPageCarouselExperimentation3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T18:07:25",
+        "FFlagLuaAppDecoupleOverflowMenu": "True",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -15002,7 +15004,6 @@
         "FFlagEnableUnifiedProductPurchaseFlowV37": "True",
         "FFlagAXRootSlotBasedEditorFlag8_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV3;791280613;dev_controlled",
         "FFlagAvatarSwitcherUseAvatarInventoryEndpoint": "True",
-        "FFlagLuaAppDecoupleOverflowMenu": "True",
         "FFlagFixCountersForUpsellModalShown": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagLuaAppEnableUpdatedGameTileBadgeContract": "True",
@@ -15039,9 +15040,9 @@
         "FFlagAXPassScreenSizeToWidgetApi4": "True",
         "FFlagFixFriendsLandingFilterIcon": "True",
         "FFlagLuaAppForumsDeeplinkFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T17:55:31",
-        "FStringFlagRepoGitHashFastString": "0742943b9e5bd375a2e002d04cb51d14602f24af",
-        "DFStringFlagRepoGitHashDynamicString": "0742943b9e5bd375a2e002d04cb51d14602f24af",
-        "FStringFlipTimeStampFastString": "2025-12-02T18:07:16.545Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T18:07:16.545Z"
+        "FStringFlagRepoGitHashFastString": "f0bfc6120a6acbed4bf57795f79f5629d2b9e209",
+        "DFStringFlagRepoGitHashDynamicString": "f0bfc6120a6acbed4bf57795f79f5629d2b9e209",
+        "FStringFlipTimeStampFastString": "2025-12-02T18:11:51.777Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T18:11:51.777Z"
     }
 }
