@@ -14021,7 +14021,6 @@
         "DFFlagProductInfoBatchingRequestOrchestratorEnabled": "True",
         "FFlagSlimProfileTelemetry": "True",
         "DFFlagILikeToMoveItMoveIt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T20:57:22",
-        "FFlagConnectViaConnectionInternal_Staged": "True;SteadyState;10;30;Revert;2025-12-02T20:58:05",
         "FFlagFixPasteShirtPantsInTeamCreate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:05:16",
         "FFlagSimRuntimeContentTranscodeBlockingCall": "True",
         "FFlagGameSettingsAllowInsertFreeAssets2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:08:23",
@@ -14580,6 +14579,7 @@
         "FFlagTexturePacksFallbackReferenceManaged": "True",
         "FFlagTexturePriorityBasedOnDistance": "True",
         "FFlagFMDVariableNumSubsetJoints": "True",
+        "DFIntSimSleepAccelerationMultiplier_PlaceFilter": "1000;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15077,9 +15077,9 @@
         "FStringNetStackDummyClientEnabledMinorVersions": "",
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
-        "FStringFlagRepoGitHashFastString": "c8dad4fd0a85e1d1825d6e1566a99bff2d7051d1",
-        "DFStringFlagRepoGitHashDynamicString": "c8dad4fd0a85e1d1825d6e1566a99bff2d7051d1",
-        "FStringFlipTimeStampFastString": "2025-12-02T21:30:41.642Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T21:30:41.642Z"
+        "FStringFlagRepoGitHashFastString": "8ea3ee603a49b5eac1a20e79ad613d81ebf0b67d",
+        "DFStringFlagRepoGitHashDynamicString": "8ea3ee603a49b5eac1a20e79ad613d81ebf0b67d",
+        "FStringFlipTimeStampFastString": "2025-12-02T21:32:19.545Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T21:32:19.545Z"
     }
 }
