@@ -14028,6 +14028,7 @@
         "FFlagSessionEventV2MigrationWithBTID": "True",
         "FFlagAppChatClosedEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1704929988;2025-12-02T21:18:30",
         "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:20:47",
+        "FFlagUIEditorFixScrollingFrame_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:26:20",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15068,9 +15069,9 @@
         "FFlagLuaAppEdpVideoDeviceDeny": "True",
         "FStringLuaAppEdpVideoDevicePipeDenyList": "iPhone 7|iPhone 6S|iPhone 8|iPhone XR|iPad 9.7inch 6th Gen",
         "DFIntRuntimeConcurrency_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:05:03",
-        "FStringFlagRepoGitHashFastString": "714d59e196b8362002f1c9369716ae779c548972",
-        "DFStringFlagRepoGitHashDynamicString": "714d59e196b8362002f1c9369716ae779c548972",
-        "FStringFlipTimeStampFastString": "2025-12-02T21:21:42.544Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T21:21:42.544Z"
+        "FStringFlagRepoGitHashFastString": "cb1036c306ecf3e90c6d90c169a6c2ab4226ccff",
+        "DFStringFlagRepoGitHashDynamicString": "cb1036c306ecf3e90c6d90c169a6c2ab4226ccff",
+        "FStringFlipTimeStampFastString": "2025-12-02T21:27:35.591Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T21:27:35.591Z"
     }
 }
