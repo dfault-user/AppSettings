@@ -14024,7 +14024,7 @@
         "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:20:47",
         "FFlagUIEditorFixScrollingFrame_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:26:20",
         "FFlagFixColorSequenceColorPickerCrash2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:28:40",
-        "AllowVideoPreRoll": "True",
+        "CaptureCountersIntervalInMinutes": "5",
         "FIntRelayoutPerFrameLimit_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1832201734;2025-12-02T21:33:09",
         "FFlagLsbOptimizationIgnoreError": "True",
         "DFFlagDataStoreEnableModernRequestCounters_PlaceFilter": "True;82645084530330",
@@ -14047,6 +14047,8 @@
         "FFlagSimRuntimeContentSwithMappedFileOut_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T22:19:07",
         "FFlagAppChatClosedEvent": "True",
         "FFlagFixCropAndScaleWrapTextureImport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1412494011;2025-12-02T22:21:43",
+        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
@@ -14593,8 +14595,6 @@
         "FFlagTexturePriorityBasedOnDistance": "True",
         "FFlagFMDVariableNumSubsetJoints": "True",
         "DFIntSimSleepAccelerationMultiplier_PlaceFilter": "1000;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
-        "AxisAdornmentGrabSize": "12",
-        "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -15091,9 +15091,9 @@
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
         "FFlagRenderEmissiveMask5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T22:08:33",
-        "FStringFlagRepoGitHashFastString": "77e321592dd683336a214d21c475f04db66ea6eb",
-        "DFStringFlagRepoGitHashDynamicString": "77e321592dd683336a214d21c475f04db66ea6eb",
-        "FStringFlipTimeStampFastString": "2025-12-02T22:22:44.522Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T22:22:44.522Z"
+        "FStringFlagRepoGitHashFastString": "0b156c6481ac72b6a93bc988dc680d6e2a8de536",
+        "DFStringFlagRepoGitHashDynamicString": "0b156c6481ac72b6a93bc988dc680d6e2a8de536",
+        "FStringFlipTimeStampFastString": "2025-12-02T22:25:43.059Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T22:25:43.059Z"
     }
 }

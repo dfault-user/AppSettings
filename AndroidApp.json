@@ -14024,7 +14024,7 @@
         "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:20:47",
         "FFlagUIEditorFixScrollingFrame_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:26:20",
         "FFlagFixColorSequenceColorPickerCrash2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:28:40",
-        "AxisAdornmentGrabSize": "12",
+        "CaptureQTStudioCountersEnabled": "True",
         "FIntRelayoutPerFrameLimit_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1832201734;2025-12-02T21:33:09",
         "FFlagLsbOptimizationIgnoreError": "True",
         "DFFlagDataStoreEnableModernRequestCounters_PlaceFilter": "True;82645084530330",
@@ -14036,7 +14036,7 @@
         "DFFlagGamePassOwnershipOrchestratorEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:55:43",
         "DFIntRobloxTelemetryGamePassOwnershipBatchingAnalyticsThrottleHundredthsPercent_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:56:41",
         "DFFlagILikeToMoveItMoveIt": "True",
-        "AllowVideoPreRoll": "True",
+        "CaptureCountersIntervalInMinutes": "5",
         "FFlagFixPasteShirtPantsInTeamCreate": "True",
         "FFlagGameSettingsAllowInsertFreeAssets2": "True",
         "FFlagUnifiedPurchaseGamepassAddProductUniverseId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T22:11:42",
@@ -14047,8 +14047,8 @@
         "FFlagSimRuntimeContentSwithMappedFileOut_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T22:19:07",
         "FFlagAppChatClosedEvent": "True",
         "FFlagFixCropAndScaleWrapTextureImport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1412494011;2025-12-02T22:21:43",
-        "CaptureCountersIntervalInMinutes": "5",
-        "CaptureQTStudioCountersEnabled": "True",
+        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
         "CatalogPromoAssetId": "-1",
         "CrashpadUploadToBacktraceAndroidPlayerToken": "3fd27180e359d21ab86e48526adecaf75bfb062c138eb23e847ef1ed906f9aaf",
         "CrashpadUploadToBacktraceUrl": "https://upload.crashes.rbxinfra.com/post",
@@ -15028,9 +15028,9 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FIntIsolatedAdsBacktraceCrashUploadPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:45:56",
         "FFlagRenderEmissiveMask5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T22:08:33",
-        "FStringFlagRepoGitHashFastString": "11633f87204c7a0637ff4b9bb12a376ce05a1844",
-        "DFStringFlagRepoGitHashDynamicString": "11633f87204c7a0637ff4b9bb12a376ce05a1844",
-        "FStringFlipTimeStampFastString": "2025-12-02T22:21:26.441Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T22:21:26.441Z"
+        "FStringFlagRepoGitHashFastString": "0b156c6481ac72b6a93bc988dc680d6e2a8de536",
+        "DFStringFlagRepoGitHashDynamicString": "0b156c6481ac72b6a93bc988dc680d6e2a8de536",
+        "FStringFlipTimeStampFastString": "2025-12-02T22:25:43.059Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T22:25:43.059Z"
     }
 }
