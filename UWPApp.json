@@ -14024,8 +14024,6 @@
         "FFlagLsbOptimizationIgnoreError": "True",
         "DFFlagDataStoreEnableModernRequestCounters_PlaceFilter": "True;82645084530330",
         "DFFlagDataStoreEnableModernRequestThrottling_PlaceFilter": "True;82645084530330",
-        "DFFlagGamePassOwnershipOrchestratorEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:55:43",
-        "DFIntRobloxTelemetryGamePassOwnershipBatchingAnalyticsThrottleHundredthsPercent_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:56:41",
         "DFFlagILikeToMoveItMoveIt": "True",
         "AllowVideoPreRoll": "True",
         "FFlagFixPasteShirtPantsInTeamCreate": "True",
@@ -14053,6 +14051,8 @@
         "FFlagImprovePublishAllDescendantsErrorMessages": "True",
         "DFFlagUseUint8Quantizer": "True",
         "FFlagEditableImageProjectionFixFadeAngle": "True",
+        "DFFlagGamePassOwnershipOrchestratorEnabled": "True",
+        "DFIntRobloxTelemetryGamePassOwnershipBatchingAnalyticsThrottleHundredthsPercent": "1",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14348,9 +14348,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "5a3a41cc847f42133ff877568fc65acd98e8caca",
-        "DFStringFlagRepoGitHashDynamicString": "5a3a41cc847f42133ff877568fc65acd98e8caca",
-        "FStringFlipTimeStampFastString": "2025-12-02T22:58:06.980Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T22:58:06.980Z"
+        "FStringFlagRepoGitHashFastString": "856d4e908f62203987d8db6c7010d117b8c0ac17",
+        "DFStringFlagRepoGitHashDynamicString": "856d4e908f62203987d8db6c7010d117b8c0ac17",
+        "FStringFlipTimeStampFastString": "2025-12-02T23:02:14.279Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T23:02:14.279Z"
     }
 }
