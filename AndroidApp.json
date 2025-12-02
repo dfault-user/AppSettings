@@ -13319,7 +13319,7 @@
         "FFlagAssetManifestInsideLuaPatchConfig": "True",
         "DFFlagNoEndianConversion": "True",
         "FFlagProfilePlatformOnlyUseFollowOnSupportedProfileTypes": "True",
-        "FIntRelayoutPerFrameLimit": "100",
+        "FIntRelayoutPerFrameLimit": "10",
         "FFlagEnablePublishNotification": "True",
         "FFlagAppChatHandleAgeChange": "True",
         "FFlagUseSelectionChangedThisFrameForSomePlugins": "True",
@@ -14021,7 +14021,6 @@
         "FFlagSlimProfileTelemetry": "True",
         "FFlagSimRuntimeContentTranscodeBlockingCall": "True",
         "FFlagSessionEventV2MigrationWithBTID": "True",
-        "FIntRelayoutPerFrameLimit_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1832201734;2025-12-02T21:33:09",
         "FFlagLsbOptimizationIgnoreError": "True",
         "DFFlagDataStoreEnableModernRequestCounters_PlaceFilter": "True;82645084530330",
         "DFFlagDataStoreEnableModernRequestThrottling_PlaceFilter": "True;82645084530330",
@@ -15029,9 +15028,9 @@
         "FFlagVideoEnableHevcDecode": "True",
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FIntIsolatedAdsBacktraceCrashUploadPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:45:56",
-        "FStringFlagRepoGitHashFastString": "eb53d7dd7be267c92a62caf13e63c4348a7f8b9c",
-        "DFStringFlagRepoGitHashDynamicString": "eb53d7dd7be267c92a62caf13e63c4348a7f8b9c",
-        "FStringFlipTimeStampFastString": "2025-12-02T22:34:28.651Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T22:34:28.651Z"
+        "FStringFlagRepoGitHashFastString": "bfd633c700e1b49187b80b8b2576620bdee7390b",
+        "DFStringFlagRepoGitHashDynamicString": "bfd633c700e1b49187b80b8b2576620bdee7390b",
+        "FStringFlipTimeStampFastString": "2025-12-02T22:36:40.961Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T22:36:40.961Z"
     }
 }
