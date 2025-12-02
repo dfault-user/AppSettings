@@ -11690,7 +11690,7 @@
         "FFlagLargeReplicatorStats3": "True",
         "FFlagLargeReplicatorWrite5": "True",
         "DFIntIsrTimestampOffsetSmoothingHundredths": "2",
-        "FFlagDisableGalleryStopGap": "False",
+        "FFlagDisableGalleryStopGap": "True",
         "FFlagEnableLinkSharingEvent": "True",
         "FFlagRibbonIndicatorBugFix": "True",
         "FFlagEnableWebViewURLLoadTelemetry": "True",
@@ -14032,7 +14032,6 @@
         "FFlagExpChatGetLabelAndIconFromUtilUnibarHoldout": "True",
         "FFlagUIEditorFixScrollingFrame": "True",
         "FFlagFixColorSequenceColorPickerCrash2": "True",
-        "FFlagIBAttributionFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T22:41:51",
         "FFlagConnectViaConnectionInternal": "True",
         "DFFlagDirectFieldSet_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T22:48:12",
         "FFlagImprovePublishAllDescendantsErrorMessages": "True",
@@ -14058,6 +14057,7 @@
         "FFlagExpChatMicBubbleSingleImage_IXP": "1;ExperienceChat.Performance;FFlagExpChatMicBubbleSingleImage;1872202590;flagbank",
         "FFlagMaterialPickerFixPluginOpen": "True",
         "DFIntSlimControllerSessionEventThrottleHundredthsPercent": "10000",
+        "FFlagIBAttributionFix": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15035,13 +15035,12 @@
         "FStringOrchestratorTranscoderVersion": "4",
         "FFlagVideoEnableHevcDecode": "True",
         "FFlagEnableAecForAudioDeviceInput2": "True",
-        "FFlagDisableGalleryStopGap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T22:41:45",
         "FFlagEnableDeferredAssets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:07:55",
         "FIntRuntimeMaxNumOfMutexes_Staged": "2900;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:15:19",
         "FIntRuntimeMaxNumOfConditions_Staged": "2900;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:19:29",
-        "FStringFlagRepoGitHashFastString": "4d62d0a5329eeca03e1642ff983a43c0861d53e6",
-        "DFStringFlagRepoGitHashDynamicString": "4d62d0a5329eeca03e1642ff983a43c0861d53e6",
-        "FStringFlipTimeStampFastString": "2025-12-02T23:42:05.210Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T23:42:05.210Z"
+        "FStringFlagRepoGitHashFastString": "ead0688394e5f7e0ac0cd04f238053f1d98de628",
+        "DFStringFlagRepoGitHashDynamicString": "ead0688394e5f7e0ac0cd04f238053f1d98de628",
+        "FStringFlipTimeStampFastString": "2025-12-02T23:46:18.742Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T23:46:18.742Z"
     }
 }
