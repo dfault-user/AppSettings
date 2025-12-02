@@ -14006,7 +14006,6 @@
         "FFlagEnableFoundationLogoInCustomizedInviteLandingPage": "True",
         "DFFlagEnableDevProductInfoRequestorV2Endpoint": "True",
         "FIntReimportBetaFeatureRolloutPercent": "100",
-        "DFFlagEnableSecureTeleport3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T19:43:23",
         "DFStringBatchLogEventSenderLinearLoggingUniverseIds": "8842084130",
         "DFFlagProductInfoBatchingRequestOrchestratorEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T19:45:57",
         "FFlagSlimProfileTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T19:53:24",
@@ -14022,6 +14021,7 @@
         "FFlagLuaAppRfySignalApportioningIxp4": "True",
         "FFlagLsbOptimizationIgnoreError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T20:34:42",
         "FFlagAvoidSimpleTimerOutsideTaskInPublishService": "True",
+        "DFFlagEnableSecureTeleport3": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15061,9 +15061,9 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagLuaAppEdpVideoDeviceDeny_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;821510553;2025-12-02T19:51:17",
         "FStringLuaAppEdpVideoDevicePipeDenyList_Staged": "iPhone 7|iPhone 6S|iPhone 8|iPhone XR|iPad 9.7inch 6th Gen;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;821510553;2025-12-02T19:51:17",
-        "FStringFlagRepoGitHashFastString": "d6151d52602e193679d07b6669c8c4b3a72062ea",
-        "DFStringFlagRepoGitHashDynamicString": "d6151d52602e193679d07b6669c8c4b3a72062ea",
-        "FStringFlipTimeStampFastString": "2025-12-02T20:36:50.104Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T20:36:50.104Z"
+        "FStringFlagRepoGitHashFastString": "9bcf3eb7101e53ac6490ebefcb89f36b3ce5a999",
+        "DFStringFlagRepoGitHashDynamicString": "9bcf3eb7101e53ac6490ebefcb89f36b3ce5a999",
+        "FStringFlipTimeStampFastString": "2025-12-02T20:46:45.696Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T20:46:45.696Z"
     }
 }
