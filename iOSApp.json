@@ -14015,6 +14015,7 @@
         "AxisAdornmentGrabSize": "12",
         "AllowVideoPreRoll": "True",
         "FFlagEnableFoundationLogoInCustomizedInviteLandingPage": "True",
+        "FFlagAvoidSimpleTimerOutsideTaskInPublishService_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T19:32:49",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14547,7 +14548,7 @@
         "FFlagNewUpsellModalExperiment": "False",
         "FFlagPartyVoiceLogActiveDM": "True",
         "FIntAXLooksImageZoom": "1125",
-        "FFlagLuaAppSignUpColorExperiment2": "True",
+        "FFlagLuaAppSignUpColorExperiment2": "False",
         "FFlagAXColorAdjustmentButtonShouldAccountForTryOns": "True",
         "FFlagDebugDisableCodegen": "False",
         "FFlagAXNewItemGroupIncrementalHydration3": "True",
@@ -15049,15 +15050,14 @@
         "FFlagAXMoveAllTabToWidgetOnly4": "True",
         "FFlagAXPassScreenSizeToWidgetApi4": "True",
         "FFlagFixFriendsLandingFilterIcon": "True",
-        "FFlagEnableAecForAudioDeviceInput2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T18:27:25",
-        "FFlagLuaAppSignUpColorExperiment2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1053800968;2025-12-02T18:28:40",
         "FFlagProMotionSupport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T18:57:44",
         "FFlagLuaAppForumsDeeplinkFix": "True",
         "FFlagAddFriendsBannersNewUI_exp_IXP": "1;Social.AddFriendsPage;Social.AddFriends.NewConnectionChannelsUI;1676622440;dev_controlled",
         "FFlagAddFriendsOldIconForChannelsVariant_exp_IXP": "1;Social.AddFriendsPage;Social.AddFriends.NewConnectionChannelsUI;1676622440;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "5c8de2a0d0d80add6dd603d245a6d2dcdacd6d3b",
-        "DFStringFlagRepoGitHashDynamicString": "5c8de2a0d0d80add6dd603d245a6d2dcdacd6d3b",
-        "FStringFlipTimeStampFastString": "2025-12-02T19:28:51.412Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T19:28:51.412Z"
+        "FFlagEnableAecForAudioDeviceInput2": "True",
+        "FStringFlagRepoGitHashFastString": "2cebbbd5375545c0694d8ef80391d410d76d4578",
+        "DFStringFlagRepoGitHashDynamicString": "2cebbbd5375545c0694d8ef80391d410d76d4578",
+        "FStringFlipTimeStampFastString": "2025-12-02T19:33:55.392Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T19:33:55.392Z"
     }
 }
