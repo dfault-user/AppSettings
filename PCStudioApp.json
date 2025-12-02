@@ -14007,7 +14007,6 @@
         "DFFlagEnableDevProductInfoRequestorV2Endpoint": "True",
         "FIntReimportBetaFeatureRolloutPercent": "100",
         "DFStringBatchLogEventSenderLinearLoggingUniverseIds": "8842084130",
-        "AllowVideoPreRoll": "True",
         "FFlagSlimControllerUseNewChunkAPI": "True",
         "FFlagSlimPsetGeneratorRefactor2": "True",
         "FFlagSimRuntimeContentStorageImprove": "True",
@@ -14022,6 +14021,8 @@
         "FFlagAvoidSimpleTimerOutsideTaskInPublishService": "True",
         "DFFlagEnableSecureTeleport3": "True",
         "DFFlagProductInfoBatchingRequestOrchestratorEnabled": "False",
+        "FFlagSlimProfileTelemetry": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15754,7 +15755,6 @@
         "FFlagDefaultInstances2BetaFeature": "True",
         "DFIntSlimControllerSessionEventThrottleHundredthsPercent": "10000",
         "FFlagImportFromFileInAnimationEditor": "False",
-        "FFlagSlimProfileTelemetry": "True",
         "FFlagScriptLocationActionContext": "True",
         "FFlagRemoveActionsFromRobloxMainWindowB": "True",
         "FFlagMCPAssistantSecureStorage": "True",
@@ -16430,9 +16430,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "fdcf1f3bc14fdc45c7c3de8150071f2d8469568b",
-        "DFStringFlagRepoGitHashDynamicString": "fdcf1f3bc14fdc45c7c3de8150071f2d8469568b",
-        "FStringFlipTimeStampFastString": "2025-12-02T20:55:12.870Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T20:55:12.870Z"
+        "FStringFlagRepoGitHashFastString": "2a1740ebd0401cae276367f705d765d71237076b",
+        "DFStringFlagRepoGitHashDynamicString": "2a1740ebd0401cae276367f705d765d71237076b",
+        "FStringFlipTimeStampFastString": "2025-12-02T20:56:32.950Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T20:56:32.950Z"
     }
 }
