@@ -14054,6 +14054,9 @@
         "FFlagLuaAppEdpVideoAvailableRamDeny": "True",
         "FIntLuaAppEdpVideoAvailableRamThresholdMb": "500",
         "FFlagFixPropertiesTabFreezeOnDebugger_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:27:56",
+        "FFlagFixGradientEditorColorSelectionOnMacOS2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:28:38",
+        "FFlagFixShowHideServiceActionVisibility_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:29:11",
+        "FFlagFixNoPublishUntilOpenFileMenu_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:29:50",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14349,9 +14352,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "a562adb6ca95dae7972ba8d96c7c692cf8760929",
-        "DFStringFlagRepoGitHashDynamicString": "a562adb6ca95dae7972ba8d96c7c692cf8760929",
-        "FStringFlipTimeStampFastString": "2025-12-02T23:28:52.981Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T23:28:52.981Z"
+        "FStringFlagRepoGitHashFastString": "db8bc6d312e174f628a0ec0972461acfb5277236",
+        "DFStringFlagRepoGitHashDynamicString": "db8bc6d312e174f628a0ec0972461acfb5277236",
+        "FStringFlipTimeStampFastString": "2025-12-02T23:31:29.813Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T23:31:29.813Z"
     }
 }
