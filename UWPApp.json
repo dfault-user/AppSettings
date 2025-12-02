@@ -14007,7 +14007,6 @@
         "DFFlagEnableDevProductInfoRequestorV2Endpoint": "True",
         "FIntReimportBetaFeatureRolloutPercent": "100",
         "DFStringBatchLogEventSenderLinearLoggingUniverseIds": "8842084130",
-        "DFFlagProductInfoBatchingRequestOrchestratorEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T19:45:57",
         "FFlagSlimProfileTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T19:53:24",
         "FFlagSlimControllerUseNewChunkAPI": "True",
         "FFlagSlimPsetGeneratorRefactor2": "True",
@@ -14022,6 +14021,7 @@
         "FFlagLsbOptimizationIgnoreError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T20:34:42",
         "FFlagAvoidSimpleTimerOutsideTaskInPublishService": "True",
         "DFFlagEnableSecureTeleport3": "True",
+        "DFFlagProductInfoBatchingRequestOrchestratorEnabled": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14319,9 +14319,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "9bcf3eb7101e53ac6490ebefcb89f36b3ce5a999",
-        "DFStringFlagRepoGitHashDynamicString": "9bcf3eb7101e53ac6490ebefcb89f36b3ce5a999",
-        "FStringFlipTimeStampFastString": "2025-12-02T20:46:45.696Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T20:46:45.696Z"
+        "FStringFlagRepoGitHashFastString": "5f0ad5c2601ed7b1c0487ad1951192546f61d455",
+        "DFStringFlagRepoGitHashDynamicString": "5f0ad5c2601ed7b1c0487ad1951192546f61d455",
+        "FStringFlipTimeStampFastString": "2025-12-02T20:52:07.564Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T20:52:07.564Z"
     }
 }
