@@ -14013,6 +14013,8 @@
         "FFlagFixProductPurchaseEconomicRestrictionsCounter": "True",
         "FFlagCaptureServiceUploadFlowV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;155769759;2025-12-02T19:11:04",
         "AllowVideoPreRoll": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15931,8 +15933,6 @@
         "FFlagLuauPushTypeConstraintLambdas2": "True",
         "DFIntHttpServiceOpenCloudRequestsPerMinuteBaseLimit": "2500",
         "DFIntHttpServiceOpenCloudRequestsPerMinuteNoPlayersLimit": "2500",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -16400,9 +16400,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "f6d27acff2ab4f43932aa3ad5c63754aed7dcfc0",
-        "DFStringFlagRepoGitHashDynamicString": "f6d27acff2ab4f43932aa3ad5c63754aed7dcfc0",
-        "FStringFlipTimeStampFastString": "2025-12-02T19:17:47.753Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T19:17:47.753Z"
+        "FStringFlagRepoGitHashFastString": "8b31c605f5e50528591adb28972bd4fecd60c508",
+        "DFStringFlagRepoGitHashDynamicString": "8b31c605f5e50528591adb28972bd4fecd60c508",
+        "FStringFlipTimeStampFastString": "2025-12-02T19:21:39.294Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T19:21:39.294Z"
     }
 }
