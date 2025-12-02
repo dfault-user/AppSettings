@@ -14001,7 +14001,6 @@
         "FFlagLuaAppLinksInSearchTextBanner": "True",
         "FFlagLuaAppSearchHotlineText": "True",
         "DFFlagUseTranslationDisplayModeAsAbTestIdentifier": "True",
-        "DFFlagAuroraGrowRadiusWithMinArea_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T19:00:26",
         "FFlagEnablePartyPageCarouselExperimentation3": "True",
         "FFlagFixProductPurchaseEconomicRestrictionsCounter": "True",
         "FFlagCaptureServiceUploadFlowV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;155769759;2025-12-02T19:11:04",
@@ -14019,6 +14018,7 @@
         "FFlagSlimControllerUseNewChunkAPI": "True",
         "FFlagSlimPsetGeneratorRefactor2": "True",
         "FFlagSimRuntimeContentStorageImprove": "True",
+        "DFFlagAuroraGrowRadiusWithMinArea": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -15059,9 +15059,9 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagLuaAppEdpVideoDeviceDeny_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;821510553;2025-12-02T19:51:17",
         "FStringLuaAppEdpVideoDevicePipeDenyList_Staged": "iPhone 7|iPhone 6S|iPhone 8|iPhone XR|iPad 9.7inch 6th Gen;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;821510553;2025-12-02T19:51:17",
-        "FStringFlagRepoGitHashFastString": "d74d59a8747b613f4747dc15d3d5335e833edd07",
-        "DFStringFlagRepoGitHashDynamicString": "d74d59a8747b613f4747dc15d3d5335e833edd07",
-        "FStringFlipTimeStampFastString": "2025-12-02T20:01:37.381Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T20:01:37.381Z"
+        "FStringFlagRepoGitHashFastString": "841756481bad1c1e90c3909f62b3b8f55f9fef45",
+        "DFStringFlagRepoGitHashDynamicString": "841756481bad1c1e90c3909f62b3b8f55f9fef45",
+        "FStringFlipTimeStampFastString": "2025-12-02T20:01:59.623Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T20:01:59.623Z"
     }
 }

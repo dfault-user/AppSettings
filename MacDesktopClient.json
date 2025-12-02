@@ -14001,7 +14001,6 @@
         "FFlagLuaAppLinksInSearchTextBanner": "True",
         "FFlagLuaAppSearchHotlineText": "True",
         "DFFlagUseTranslationDisplayModeAsAbTestIdentifier": "True",
-        "DFFlagAuroraGrowRadiusWithMinArea_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T19:00:26",
         "FFlagEnablePartyPageCarouselExperimentation3": "True",
         "FFlagFixProductPurchaseEconomicRestrictionsCounter": "True",
         "FFlagCaptureServiceUploadFlowV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;155769759;2025-12-02T19:11:04",
@@ -14019,6 +14018,7 @@
         "FFlagSlimControllerUseNewChunkAPI": "True",
         "FFlagSlimPsetGeneratorRefactor2": "True",
         "FFlagSimRuntimeContentStorageImprove": "True",
+        "DFFlagAuroraGrowRadiusWithMinArea": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15003,9 +15003,9 @@
         "FFlagMainThreadIdle": "True",
         "FFlagIASFixResetInRollback": "True",
         "DFIntMainThreadMinIdleTimeUs": "0",
-        "FStringFlagRepoGitHashFastString": "d74d59a8747b613f4747dc15d3d5335e833edd07",
-        "DFStringFlagRepoGitHashDynamicString": "d74d59a8747b613f4747dc15d3d5335e833edd07",
-        "FStringFlipTimeStampFastString": "2025-12-02T20:01:37.381Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T20:01:37.381Z"
+        "FStringFlagRepoGitHashFastString": "841756481bad1c1e90c3909f62b3b8f55f9fef45",
+        "DFStringFlagRepoGitHashDynamicString": "841756481bad1c1e90c3909f62b3b8f55f9fef45",
+        "FStringFlipTimeStampFastString": "2025-12-02T20:01:59.623Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T20:01:59.623Z"
     }
 }
