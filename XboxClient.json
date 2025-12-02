@@ -13988,6 +13988,8 @@
         "DFFlagRbxStorageReportVersion": "True",
         "FFlagRbxStorageImprovedFindAndRemoveOrphanedFiles": "True",
         "FFlagLuaAppDecoupleOverflowMenu_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T17:06:58",
+        "FFlagEnableOctreeInputSanitize_Staged": "False;SteadyState;10;30;Revert;true;673707619;2025-12-02T17:09:11",
+        "FFlagEnableOctreeIsFiniteChecks2_Staged": "True;SteadyState;10;30;Revert;true;673707619;2025-12-02T17:09:11",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14351,9 +14353,9 @@
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FStringFlagRepoGitHashFastString": "187983d19f62835b5187ee5e8bb1a38a56f884fd",
-        "DFStringFlagRepoGitHashDynamicString": "187983d19f62835b5187ee5e8bb1a38a56f884fd",
-        "FStringFlipTimeStampFastString": "2025-12-02T17:08:05.813Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T17:08:05.813Z"
+        "FStringFlagRepoGitHashFastString": "d4ad647ffa45d8ea3d49202070938e9bbbf2958d",
+        "DFStringFlagRepoGitHashDynamicString": "d4ad647ffa45d8ea3d49202070938e9bbbf2958d",
+        "FStringFlipTimeStampFastString": "2025-12-02T17:10:04.155Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T17:10:04.155Z"
     }
 }
