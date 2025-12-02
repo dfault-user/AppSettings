@@ -14021,9 +14021,6 @@
         "FFlagSlimProfileTelemetry": "True",
         "FFlagSimRuntimeContentTranscodeBlockingCall": "True",
         "FFlagSessionEventV2MigrationWithBTID": "True",
-        "FFlagUIEditorFixScrollingFrame_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:26:20",
-        "FFlagFixColorSequenceColorPickerCrash2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:28:40",
-        "CaptureQTStudioCountersEnabled": "True",
         "FIntRelayoutPerFrameLimit_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1832201734;2025-12-02T21:33:09",
         "FFlagLsbOptimizationIgnoreError": "True",
         "DFFlagDataStoreEnableModernRequestCounters_PlaceFilter": "True;82645084530330",
@@ -14050,6 +14047,10 @@
         "AllowVideoPreRoll": "True",
         "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent": "10000",
         "FFlagDebugOpenPlaceLoadDataModelError_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;0;2025-12-02T22:27:27",
+        "FFlagExpChatGetLabelAndIconFromUtilUnibarHoldout": "True",
+        "FFlagUIEditorFixScrollingFrame": "True",
+        "FFlagFixColorSequenceColorPickerCrash2": "True",
+        "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
         "DFFlagGenerateMeshLOD_Fix1": "True",
@@ -14489,7 +14490,6 @@
         "FFlagAXSendAXStat": "True",
         "FFlagEnablePeekViewFocusNav": "True",
         "FFlagCommunitiesUseVisualConfigUtil2": "True",
-        "FFlagExpChatGetLabelAndIconFromUtilUnibarHoldout": "True",
         "FFlagUnibarHoldoutChatIconUseNewIconSize": "True",
         "FFlagAXAnimatedLooksThumbnails": "True",
         "FFlagAXDisableWidgetHydrationCacheForLooks": "True",
@@ -15085,9 +15085,9 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagLuaAppEdpVideoDeviceDeny": "True",
         "FStringLuaAppEdpVideoDevicePipeDenyList": "iPhone 7|iPhone 6S|iPhone 8|iPhone XR|iPad 9.7inch 6th Gen",
-        "FStringFlagRepoGitHashFastString": "1ae9d67e584dcd660137c5cc2487189aa4fb9b75",
-        "DFStringFlagRepoGitHashDynamicString": "1ae9d67e584dcd660137c5cc2487189aa4fb9b75",
-        "FStringFlipTimeStampFastString": "2025-12-02T22:28:53.232Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T22:28:53.232Z"
+        "FStringFlagRepoGitHashFastString": "5e481de146766eb2e3f9e42e35ea91603e1861d7",
+        "DFStringFlagRepoGitHashDynamicString": "5e481de146766eb2e3f9e42e35ea91603e1861d7",
+        "FStringFlipTimeStampFastString": "2025-12-02T22:32:51.687Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T22:32:51.687Z"
     }
 }
