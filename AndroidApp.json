@@ -14011,7 +14011,6 @@
         "FFlagSlimPsetGeneratorRefactor2": "True",
         "FFlagSimRuntimeContentStorageImprove": "True",
         "DFFlagAuroraGrowRadiusWithMinArea": "True",
-        "FFlagSimRuntimeContentTranscodeBlockingCall_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T20:04:26",
         "FFlagSessionEventV2MigrationWithBTID_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T20:12:33",
         "FFlagCaptureServiceUploadFlowV2": "True",
         "FFlagFixMultiStrokePseudo": "True",
@@ -14024,6 +14023,8 @@
         "FFlagSlimProfileTelemetry": "True",
         "DFFlagILikeToMoveItMoveIt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T20:57:22",
         "FFlagConnectViaConnectionInternal_Staged": "True;SteadyState;10;30;Revert;2025-12-02T20:58:05",
+        "FFlagFixPasteShirtPantsInTeamCreate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:05:16",
+        "FFlagSimRuntimeContentTranscodeBlockingCall": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15005,9 +15006,9 @@
         "FStringOrchestratorTranscoderVersion": "4",
         "FFlagVideoEnableHevcDecode": "True",
         "FFlagEnableAecForAudioDeviceInput2": "True",
-        "FStringFlagRepoGitHashFastString": "7c3d8bb3087ecf02626ecae50160d7d8293d9eb0",
-        "DFStringFlagRepoGitHashDynamicString": "7c3d8bb3087ecf02626ecae50160d7d8293d9eb0",
-        "FStringFlipTimeStampFastString": "2025-12-02T21:01:09.308Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T21:01:09.308Z"
+        "FStringFlagRepoGitHashFastString": "9f14b66fa9e8cd93f27ecfbe18c4ca15eb6e2f1a",
+        "DFStringFlagRepoGitHashDynamicString": "9f14b66fa9e8cd93f27ecfbe18c4ca15eb6e2f1a",
+        "FStringFlipTimeStampFastString": "2025-12-02T21:07:25.018Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T21:07:25.018Z"
     }
 }
