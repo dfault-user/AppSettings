@@ -13996,11 +13996,8 @@
         "FFlagLuaAppEnableUpdatedGameTileBadgeContract": "True",
         "DFFlagEnableSecureTeleport3_PlaceFilter": "True;123299900546761;84614285054116;4872321990;92203924029959",
         "FFlagEnableOctreeIsFiniteChecks2": "True",
-        "FFlagSimRuntimeContentStorageImprove_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T18:52:02",
         "FFlagEnableUseSortScoresForFriendsCarouselLoad_IXP": "1;Social.Presence.Frontend;Social.Presence.UseSortScoreFromOUR.M2.V2;1121520635;flagbank",
         "FFlagHandleSortScoreUpdatesFromRtn_IXP": "1;Social.Presence.Frontend;Social.Presence.UseSortScoreFromOUR.M2.V2;1121520635;flagbank",
-        "FFlagSlimPsetGeneratorRefactor2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T18:52:09",
-        "FFlagSlimControllerUseNewChunkAPI_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T18:52:32",
         "FFlagLuaAppLinksInSearchTextBanner": "True",
         "FFlagLuaAppSearchHotlineText": "True",
         "DFFlagUseTranslationDisplayModeAsAbTestIdentifier": "True",
@@ -14018,6 +14015,10 @@
         "DFFlagEnableSecureTeleport3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T19:43:23",
         "DFStringBatchLogEventSenderLinearLoggingUniverseIds": "8842084130",
         "DFFlagProductInfoBatchingRequestOrchestratorEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T19:45:57",
+        "FFlagSlimProfileTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T19:53:24",
+        "FFlagSlimControllerUseNewChunkAPI": "True",
+        "FFlagSlimPsetGeneratorRefactor2": "True",
+        "FFlagSimRuntimeContentStorageImprove": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14382,9 +14383,9 @@
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
         "FFlagEnableAecForAudioDeviceInput2": "True",
-        "FStringFlagRepoGitHashFastString": "80d2c994682374ce9a47d4093ceb2a3b53ca0037",
-        "DFStringFlagRepoGitHashDynamicString": "80d2c994682374ce9a47d4093ceb2a3b53ca0037",
-        "FStringFlipTimeStampFastString": "2025-12-02T19:52:21.677Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T19:52:21.677Z"
+        "FStringFlagRepoGitHashFastString": "8d7098072325c4ce851ddee2158c79076221693d",
+        "DFStringFlagRepoGitHashDynamicString": "8d7098072325c4ce851ddee2158c79076221693d",
+        "FStringFlipTimeStampFastString": "2025-12-02T19:56:49.368Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T19:56:49.368Z"
     }
 }
