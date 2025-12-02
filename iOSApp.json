@@ -13961,8 +13961,6 @@
         "FFlagenableBacktraceMetricKitReporterMinidump": "True",
         "DFIntBatchLogEventSenderLinearLoggingByUniverseIdServerOrSessionSamplingPerMille": "1000",
         "FFlagBootcampCLI179797": "True",
-        "AllowVideoPreRoll": "True",
-        "FFlagFoundationElevationSystem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;592279580;2025-12-01T23:28:11",
         "FFlagLuaAppOmniRecommendationsCacheRead3": "True",
         "FFlagEnableRenderApiUsageTelemetryV2": "True",
         "FFlagUseVRMainScreenResForDisplayStore": "True",
@@ -13983,6 +13981,9 @@
         "FFlagFindReplacePerformanceTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T00:13:41",
         "FFlagDeferPlayerInfoRequests": "True",
         "FFlagSimRuntimeContentReplicate4": "True",
+        "FFlagFoundationElevationSystem": "True",
+        "FFlagDiffractionSolverUsesGraphicsQualityLevel": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14764,7 +14765,6 @@
         "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
         "FFlagEnableCreatorSubtitleNavigation_v2_IXP": "1;PlayerApp.GameDetailsPage.Exposure;App_EDP_Creator_Subtitle_Linking_To_Profile_V1;1531928792;flagbank",
         "FFlagReportBatchedRaycastTelemetry": "True",
-        "FFlagDiffractionSolverUsesGraphicsQualityLevel": "True",
         "FFlagMemoizePersonButton_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
         "FFlagRefactorPeoplePage6_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
         "DFFlagRbxstorageHTTPUseMemoryTrackingForEnforcingSysRam": "True",
@@ -15020,9 +15020,9 @@
         "FStringAppChatChatBubbleUIRevampIxpLayer": "Party.ConversationPage",
         "FFlagAXMoveAllTabToWidgetOnly4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;265531848;2025-12-02T00:28:42",
         "FFlagAXPassScreenSizeToWidgetApi4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;265531848;2025-12-02T00:28:42",
-        "FStringFlagRepoGitHashFastString": "dfd53e319d9caf94387b985c741ff6cd7a4131bb",
-        "DFStringFlagRepoGitHashDynamicString": "dfd53e319d9caf94387b985c741ff6cd7a4131bb",
-        "FStringFlipTimeStampFastString": "2025-12-02T00:29:31.017Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T00:29:31.017Z"
+        "FStringFlagRepoGitHashFastString": "08910c85737404868429347f8f162ab333f6277e",
+        "DFStringFlagRepoGitHashDynamicString": "08910c85737404868429347f8f162ab333f6277e",
+        "FStringFlipTimeStampFastString": "2025-12-02T00:31:47.514Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T00:31:47.514Z"
     }
 }
