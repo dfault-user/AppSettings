@@ -14030,6 +14030,7 @@
         "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:20:47",
         "FFlagUIEditorFixScrollingFrame_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:26:20",
         "CaptureCountersIntervalInMinutes": "5",
+        "FFlagExpChatGetLabelAndIconFromUtilUnibarHoldout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;178183930;2025-12-02T21:29:16",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -16436,9 +16437,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "cb1036c306ecf3e90c6d90c169a6c2ab4226ccff",
-        "DFStringFlagRepoGitHashDynamicString": "cb1036c306ecf3e90c6d90c169a6c2ab4226ccff",
-        "FStringFlipTimeStampFastString": "2025-12-02T21:27:35.591Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T21:27:35.591Z"
+        "FStringFlagRepoGitHashFastString": "c8dad4fd0a85e1d1825d6e1566a99bff2d7051d1",
+        "DFStringFlagRepoGitHashDynamicString": "c8dad4fd0a85e1d1825d6e1566a99bff2d7051d1",
+        "FStringFlipTimeStampFastString": "2025-12-02T21:30:41.642Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T21:30:41.642Z"
     }
 }
