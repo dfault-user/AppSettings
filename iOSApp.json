@@ -14028,7 +14028,6 @@
         "FFlagFixPasteShirtPantsInTeamCreate": "True",
         "FFlagGameSettingsAllowInsertFreeAssets2": "True",
         "FFlagAppChatClosedEvent": "True",
-        "AllowVideoPreRoll": "True",
         "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent": "10000",
         "FFlagExpChatGetLabelAndIconFromUtilUnibarHoldout": "True",
         "FFlagUIEditorFixScrollingFrame": "True",
@@ -14054,6 +14053,9 @@
         "FFlagFixCropAndScaleWrapTextureImport": "True",
         "FFlagLuaAppEdpVideoAvailableRamDeny": "True",
         "FIntLuaAppEdpVideoAvailableRamThresholdMb": "500",
+        "FFlagFixPropertiesTabFreezeOnDebugger_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:27:56",
+        "FFlagFixGradientEditorColorSelectionOnMacOS2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:28:38",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15090,9 +15092,9 @@
         "FStringLuaAppEdpVideoDevicePipeDenyList": "iPhone 7|iPhone 6S|iPhone 8|iPhone XR|iPad 9.7inch 6th Gen",
         "FFlagDisableGalleryStopGap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T22:41:45",
         "FFlagRenderEmissiveMask5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:03:20",
-        "FStringFlagRepoGitHashFastString": "f59fe9b7e1c40ade48d659b103a2a2b584b8c749",
-        "DFStringFlagRepoGitHashDynamicString": "f59fe9b7e1c40ade48d659b103a2a2b584b8c749",
-        "FStringFlipTimeStampFastString": "2025-12-02T23:25:57.479Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T23:25:57.479Z"
+        "FStringFlagRepoGitHashFastString": "57619adefee007a041e012cf05c0a3e40824464c",
+        "DFStringFlagRepoGitHashDynamicString": "57619adefee007a041e012cf05c0a3e40824464c",
+        "FStringFlipTimeStampFastString": "2025-12-02T23:29:41.599Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T23:29:41.599Z"
     }
 }
