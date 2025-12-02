@@ -14028,8 +14028,6 @@
         "FFlagFixPasteShirtPantsInTeamCreate": "True",
         "FFlagGameSettingsAllowInsertFreeAssets2": "True",
         "FFlagAppChatClosedEvent": "True",
-        "FFlagFixCropAndScaleWrapTextureImport_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1412494011;2025-12-02T22:21:43",
-        "AxisAdornmentGrabSize": "12",
         "AllowVideoPreRoll": "True",
         "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent": "10000",
         "FFlagExpChatGetLabelAndIconFromUtilUnibarHoldout": "True",
@@ -14052,6 +14050,11 @@
         "FFlagUnifiedPurchaseGamepassAddProductUniverseId": "True",
         "FFlagAddAudioNameLengthErrorMessage": "True",
         "FFlagSimRuntimeContentSwithMappedFileOut": "True",
+        "FFlagUpdateThumbnailAssetDataLoaderRetryLogic_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:23:40",
+        "FFlagFixCropAndScaleWrapTextureImport": "True",
+        "FFlagLuaAppEdpVideoAvailableRamDeny": "True",
+        "FIntLuaAppEdpVideoAvailableRamThresholdMb": "500",
+        "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14941,8 +14944,6 @@
         "FFlagEnableEdpStoreImpressionsLogging2": "True",
         "FFlagVideoPlaybackIxpLayerEnabled_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
         "FFlagEnableMacOSHardwareDecode3_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
-        "FFlagLuaAppEdpVideoAvailableRamDeny": "True",
-        "FIntLuaAppEdpVideoAvailableRamThresholdMb": "500",
         "DFIntMinSizeToCacheSharedStringBytes": "35000",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
@@ -15089,9 +15090,9 @@
         "FStringLuaAppEdpVideoDevicePipeDenyList": "iPhone 7|iPhone 6S|iPhone 8|iPhone XR|iPad 9.7inch 6th Gen",
         "FFlagDisableGalleryStopGap_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T22:41:45",
         "FFlagRenderEmissiveMask5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:03:20",
-        "FStringFlagRepoGitHashFastString": "b7583d6c4d7a7aa1f3541f38c8e0b5ee60ee3640",
-        "DFStringFlagRepoGitHashDynamicString": "b7583d6c4d7a7aa1f3541f38c8e0b5ee60ee3640",
-        "FStringFlipTimeStampFastString": "2025-12-02T23:21:43.059Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T23:21:43.059Z"
+        "FStringFlagRepoGitHashFastString": "f59fe9b7e1c40ade48d659b103a2a2b584b8c749",
+        "DFStringFlagRepoGitHashDynamicString": "f59fe9b7e1c40ade48d659b103a2a2b584b8c749",
+        "FStringFlipTimeStampFastString": "2025-12-02T23:25:57.479Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T23:25:57.479Z"
     }
 }
