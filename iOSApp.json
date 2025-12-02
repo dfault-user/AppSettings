@@ -13329,7 +13329,7 @@
         "FFlagSBT5735": "True",
         "DFFlagMigrateFeatureRestrictionDialog": "True",
         "FFlagEnableWarmStartMilestoneV3": "True",
-        "FFlagTouchInputServiceGestureCoalesceFingers": "True",
+        "FFlagTouchInputServiceGestureCoalesceFingers": "False",
         "FFlagEnableSHARE15233": "True",
         "DFFlagEditableMeshFixTangentUint82": "True",
         "FFlagAddFriendsPYMKPresenceAnalytics_v1": "True",
@@ -13956,10 +13956,6 @@
         "FFlagSlimInstancingDeepGeometryPtr": "True",
         "FFlagSlimOnlyUploadInStreamingEnabledGames": "True",
         "DFFlagBetterErrorForGenerateItemList": "True",
-        "FFlagSlimContentProvider2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;108006031;2025-12-01T22:55:57",
-        "FFlagSlimService19_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;108006031;2025-12-01T22:55:57",
-        "FFlagTouchInputServiceGestureCoalesceFingers_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1057613799;2025-12-01T22:57:28",
-        "DFFlagAnimatorUseFastQuaternionToAA_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T22:58:34",
         "FFlagSimRuntimeContentEnableIsFromContentProvider": "True",
         "FFlagPlayerListIgnoreDevGamepadBindings2": "True",
         "FFlagenableBacktraceMetricKitReporterMinidump": "True",
@@ -13983,6 +13979,9 @@
         "FFlagAppChatAddClearButtonToSelectChatMembersSearch": "True",
         "FFlagSocialCarouselSquadPressedAnalyticsFixEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T23:52:23",
         "FFlagEnableSettingsHubUIDelegateRollout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T23:56:55",
+        "FFlagSlimContentProvider2": "True",
+        "FFlagSlimService19": "True",
+        "DFFlagAnimatorUseFastQuaternionToAA": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -15023,9 +15022,9 @@
         "FFlagEnableStopRegisteringOnHeartbeat": "True",
         "FFlagVideoEnableHevcDecode": "True",
         "FStringAppChatChatBubbleUIRevampIxpLayer_Staged": "Party.ConversationPage;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-01T23:13:13",
-        "FStringFlagRepoGitHashFastString": "19bba2b5442e6c0b17791da9f9f1226d5c089bc7",
-        "DFStringFlagRepoGitHashDynamicString": "19bba2b5442e6c0b17791da9f9f1226d5c089bc7",
-        "FStringFlipTimeStampFastString": "2025-12-01T23:57:51.179Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-01T23:57:51.179Z"
+        "FStringFlagRepoGitHashFastString": "df980842e23b8c7511518dfdabb7afff8771a228",
+        "DFStringFlagRepoGitHashDynamicString": "df980842e23b8c7511518dfdabb7afff8771a228",
+        "FStringFlipTimeStampFastString": "2025-12-02T00:02:02.950Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T00:02:02.950Z"
     }
 }
