@@ -14019,7 +14019,6 @@
         "DFFlagEnableSecureTeleport3": "True",
         "DFFlagProductInfoBatchingRequestOrchestratorEnabled": "True",
         "FFlagSlimProfileTelemetry": "True",
-        "FFlagFixPasteShirtPantsInTeamCreate_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:05:16",
         "FFlagSimRuntimeContentTranscodeBlockingCall": "True",
         "FFlagGameSettingsAllowInsertFreeAssets2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:08:23",
         "FFlagSessionEventV2MigrationWithBTID": "True",
@@ -14040,6 +14039,7 @@
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "DFFlagILikeToMoveItMoveIt": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagFixPasteShirtPantsInTeamCreate": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14752,7 +14752,7 @@
         "FFlagSelfViewCameraSettings": "True",
         "FFlagEnableNavBarLabels3": "True",
         "FFlagUpdateNudgeV3VoiceBanUI2": "True",
-        "FIntRuntimeMaxNumOfConditions": "2400",
+        "FIntRuntimeMaxNumOfConditions": "4800",
         "FIntRuntimeMaxNumOfMutexes": "4800",
         "DFFlagEnableMacWebViewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;18973713348",
         "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
@@ -15020,13 +15020,12 @@
         "FFlagMainThreadIdle": "True",
         "FFlagIASFixResetInRollback": "True",
         "DFIntMainThreadMinIdleTimeUs": "0",
-        "FIntRuntimeMaxNumOfConditions_Staged": "4800;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T21:04:40",
         "DFFlagIdempotentDevProductPurchasingEnabled": "True",
         "DFFlagRequestOrchestratorQueueExpirationEnabled": "True",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
-        "FStringFlagRepoGitHashFastString": "a2849cf888c7f326e53e4b921c848980e17fba6a",
-        "DFStringFlagRepoGitHashDynamicString": "a2849cf888c7f326e53e4b921c848980e17fba6a",
-        "FStringFlipTimeStampFastString": "2025-12-02T22:04:43.718Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-02T22:04:43.718Z"
+        "FStringFlagRepoGitHashFastString": "7e7f084b2249f5cfcdcdd20b1f1927c9e473e7d0",
+        "DFStringFlagRepoGitHashDynamicString": "7e7f084b2249f5cfcdcdd20b1f1927c9e473e7d0",
+        "FStringFlipTimeStampFastString": "2025-12-02T22:06:53.780Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-02T22:06:53.780Z"
     }
 }
