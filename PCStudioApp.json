@@ -14067,7 +14067,6 @@
         "DFIntRecommendTopProductsThrottleMaxCallsPerMinute": "15",
         "FFlagFoundationToggleDefaultPlacement": "True",
         "FFlagFoundationToggleEndPlacementJustifyContent": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagReverbFewerRaycasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:47:39",
         "FFlagInExpHistoryButtonClickLogFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:52:21",
         "DFFlagRbxStorageReportSessionErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:57:33",
@@ -14076,6 +14075,8 @@
         "AllowVideoPreRoll": "True",
         "FFlagReportISRInputPing": "True",
         "DFFlagFixForAutomaticScalingBreakingFACSInACE_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:29:53",
+        "FFlagFCRouteSecondaryParts4": "True",
+        "FFlagClearWatchesOnPlaceOpen_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:31:49",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15984,6 +15985,8 @@
         "FFlagCleanupThemeFromRobloxMainWindow2": "True",
         "FIntAdvancedCommandBarBetaFeatureRolloutPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:08:36",
         "FFlagUGCValidationEnableFolderStructure2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:21:41",
+        "FFlagAnnotationsFontUseBuilderSans_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:31:21",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -16421,7 +16424,6 @@
         "FFlagEnableUnifiedProductPurchaseFlowV37": "True",
         "DFFlagCLI179323": "True",
         "DFIntCLI179323ReportHundredthsPercent": "10000",
-        "FFlagFCRouteSecondaryParts4": "True",
         "FFlagSduiDeprecateLogAction": "True",
         "DFFlagCLI179323Enforce": "True",
         "FFlagAvatarSwitcherUseAvatarInventoryEndpoint": "True",
@@ -16472,9 +16474,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "3645d24317d0d61c874a1721b252673a8823e01c",
-        "DFStringFlagRepoGitHashDynamicString": "3645d24317d0d61c874a1721b252673a8823e01c",
-        "FStringFlipTimeStampFastString": "2025-12-03T18:31:05.470Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:31:05.470Z"
+        "FStringFlagRepoGitHashFastString": "c60b28c28492ddfb1c9734e36346ff49a4cf3d3e",
+        "DFStringFlagRepoGitHashDynamicString": "c60b28c28492ddfb1c9734e36346ff49a4cf3d3e",
+        "FStringFlipTimeStampFastString": "2025-12-03T18:32:50.399Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:32:50.399Z"
     }
 }

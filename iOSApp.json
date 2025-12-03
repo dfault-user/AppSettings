@@ -14067,7 +14067,6 @@
         "DFIntRecommendTopProductsThrottleMaxCallsPerMinute": "15",
         "FFlagFoundationToggleDefaultPlacement": "True",
         "FFlagFoundationToggleEndPlacementJustifyContent": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagReverbFewerRaycasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:47:39",
         "FFlagInExpHistoryButtonClickLogFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:52:21",
         "DFFlagRbxStorageReportSessionErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:57:33",
@@ -14076,6 +14075,9 @@
         "FFlagStudioFixPluginsUnloadingSignal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:20:27",
         "FFlagReportISRInputPing": "True",
         "DFFlagFixForAutomaticScalingBreakingFACSInACE_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:29:53",
+        "FFlagFCRouteSecondaryParts4": "True",
+        "FFlagClearWatchesOnPlaceOpen_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:31:49",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15074,7 +15076,6 @@
         "FFlagSduiSupportClientBindingAnalytics2": "True",
         "FFlagLuaAppChangeRecommendedGamesTitle_IXP": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.RecommendedSortTitle.V1;2117824759;dev_controlled",
         "FFlagSduiActionHandlerSharedRegistry2": "True",
-        "FFlagFCRouteSecondaryParts4": "True",
         "DFFlagPowerTraceHashFix": "True",
         "FFlagEnableNativeAdCtrLoggingIos": "True",
         "FStringSessionDataInclusionInHttpHeaders": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame",
@@ -15110,9 +15111,9 @@
         "FFlagLuaAppEdpVideoDeviceDeny": "True",
         "FStringLuaAppEdpVideoDevicePipeDenyList": "iPhone 7|iPhone 6S|iPhone 8|iPhone XR|iPad 9.7inch 6th Gen",
         "FFlagRenderEmissiveMask5": "False",
-        "FStringFlagRepoGitHashFastString": "3645d24317d0d61c874a1721b252673a8823e01c",
-        "DFStringFlagRepoGitHashDynamicString": "3645d24317d0d61c874a1721b252673a8823e01c",
-        "FStringFlipTimeStampFastString": "2025-12-03T18:31:05.470Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:31:05.470Z"
+        "FStringFlagRepoGitHashFastString": "c60b28c28492ddfb1c9734e36346ff49a4cf3d3e",
+        "DFStringFlagRepoGitHashDynamicString": "c60b28c28492ddfb1c9734e36346ff49a4cf3d3e",
+        "FStringFlipTimeStampFastString": "2025-12-03T18:32:50.399Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:32:50.399Z"
     }
 }
