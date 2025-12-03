@@ -14067,7 +14067,6 @@
         "DFIntRecommendTopProductsThrottleMaxCallsPerMinute": "15",
         "FFlagFoundationToggleDefaultPlacement": "True",
         "FFlagFoundationToggleEndPlacementJustifyContent": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagReverbFewerRaycasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:47:39",
         "FFlagInExpHistoryButtonClickLogFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:52:21",
         "DFFlagRbxStorageReportSessionErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:57:33",
@@ -14075,6 +14074,9 @@
         "DFIntRankProductsThrottleMaxCallsPerMinute_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:16:13",
         "FFlagStudioFixPluginsUnloadingSignal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:20:27",
         "FFlagReportISRInputPing": "True",
+        "DFFlagFixForAutomaticScalingBreakingFACSInACE_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:29:53",
+        "FFlagFCRouteSecondaryParts4": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15025,7 +15027,6 @@
         "FFlagPerformanceControlEnableV2MemoryModifications_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
         "FStringPerformanceControlDefaultMemoryBufferConfig_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
         "FStringPerformanceControlMemoryBufferModificationsEnabledJson_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Android_5;1444221403;flagbank",
-        "FFlagFCRouteSecondaryParts4": "True",
         "FFlagDisableAndroidLogInReleaseBuilds_IXP": "1;ConsumerPlatforms.Platform.ByUserId;ConsumerPlatforms.Platform.DisableAndroidLogInReleaseBuilds;182051492;flagbank",
         "DFFlagPowerTraceHashFix": "True",
         "FFlagEnableIsolatedAdsBacktrace": "True",
@@ -15051,9 +15052,9 @@
         "FStringOrchestratorTranscoderVersion": "4",
         "FFlagVideoEnableHevcDecode": "True",
         "FFlagEnableAecForAudioDeviceInput2": "True",
-        "FStringFlagRepoGitHashFastString": "b688e860196eb2af57e0856ae687f2c06a16430a",
-        "DFStringFlagRepoGitHashDynamicString": "b688e860196eb2af57e0856ae687f2c06a16430a",
-        "FStringFlipTimeStampFastString": "2025-12-03T18:27:06.541Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:27:06.541Z"
+        "FStringFlagRepoGitHashFastString": "84acec677cc294ef50ba693572c78e196da11a67",
+        "DFStringFlagRepoGitHashDynamicString": "84acec677cc294ef50ba693572c78e196da11a67",
+        "FStringFlipTimeStampFastString": "2025-12-03T18:32:03.773Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:32:03.773Z"
     }
 }
