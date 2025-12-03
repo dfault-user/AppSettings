@@ -14086,7 +14086,6 @@
         "FFlagUserProfileConsoleUseNewReportFlow": "True",
         "FFlagEnableLuaAccountPicker8": "True",
         "FFlagLsbOptimization_IXP": "1;Portal.Engine.Security.LuaSignatureVerification.v5-1764796104;Engine.Security.LuaSignatureVerification.v5;1674245009;flagbank",
-        "DFFlagOnlyMigrateInEditMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1660552568;2025-12-03T21:39:00",
         "FFlagNewStrengthInNumbersLua2": "True",
         "DFFlagTextGenerationTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T21:47:06",
         "AllowVideoPreRoll": "True",
@@ -14107,6 +14106,7 @@
         "FFlagDeprecateAdsApiClient_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1257911415;2025-12-03T22:38:03",
         "FFlagLuaAppCanGoBackMutedError_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1130338614;2025-12-03T22:38:54",
         "FFlagAssistantSignalRDisconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1193326033;2025-12-03T22:39:43",
+        "DFFlagOnlyMigrateInEditMode": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14604,7 +14604,6 @@
         "FFlagAXUseNewChevronIcon": "True",
         "FIntRbxStorageRemoveOnInitCleanupMiB": "10",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
-        "FFlagLuaAppChangeRecommendedGamesTitle_IXP": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.RecommendedSortTitle.V1;414334630;dev_controlled",
         "FFlagSduiActionHandlerSharedRegistry2": "True",
         "FStringSessionDataInclusionInHttpHeaders": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame",
         "FFlagLuaAppFixEmptyRecommendedGames": "True",
@@ -15088,9 +15087,9 @@
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagRenderEmissiveMask5": "False",
         "DFFlagOnlyMigrateInNonEditMode_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1260426157;2025-12-03T21:49:24",
-        "FStringFlagRepoGitHashFastString": "fc9886d897828cee1f1e3b617fd7edc000400c1d",
-        "DFStringFlagRepoGitHashDynamicString": "fc9886d897828cee1f1e3b617fd7edc000400c1d",
-        "FStringFlipTimeStampFastString": "2025-12-03T22:41:01.623Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T22:41:01.623Z"
+        "FStringFlagRepoGitHashFastString": "8a3a74505bd711e91e6d2078980732bc054399d5",
+        "DFStringFlagRepoGitHashDynamicString": "8a3a74505bd711e91e6d2078980732bc054399d5",
+        "FStringFlipTimeStampFastString": "2025-12-03T22:43:54.323Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T22:43:54.323Z"
     }
 }
