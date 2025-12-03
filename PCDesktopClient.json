@@ -14080,6 +14080,7 @@
         "FFlagInExpHistoryButtonClickLogFix": "True",
         "DFFlagRbxStorageReportSessionErrors": "True",
         "FFlagEnableGameDetailsFullViewIXP_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T19:01:59",
+        "AllowVideoPreRoll": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14623,7 +14624,6 @@
         "FFlagFMDVariableNumSubsetJoints": "True",
         "DFIntSimSleepAccelerationMultiplier_PlaceFilter": "1000;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
         "DFFlagSimSkipLowVelocityWakes": "True",
-        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15119,9 +15119,10 @@
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
         "FFlagRenderEmissiveMask5": "False",
-        "FStringFlagRepoGitHashFastString": "e7a5965727a0bdc4af5a94e10b13f3a9bfbea7dc",
-        "DFStringFlagRepoGitHashDynamicString": "e7a5965727a0bdc4af5a94e10b13f3a9bfbea7dc",
-        "FStringFlipTimeStampFastString": "2025-12-03T19:06:36.645Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T19:06:36.645Z"
+        "DFIntTriangleMeshPartMigrationTelemetryRolloutScale_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1715404516;2025-12-03T19:07:20",
+        "FStringFlagRepoGitHashFastString": "d0bac0042c9a1bb78b148616f05e63e1f4768d87",
+        "DFStringFlagRepoGitHashDynamicString": "d0bac0042c9a1bb78b148616f05e63e1f4768d87",
+        "FStringFlipTimeStampFastString": "2025-12-03T19:08:41.593Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T19:08:41.593Z"
     }
 }
