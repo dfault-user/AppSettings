@@ -14039,7 +14039,6 @@
         "DFFlagGamePassOwnershipOrchestratorEnabled": "True",
         "DFIntRobloxTelemetryGamePassOwnershipBatchingAnalyticsThrottleHundredthsPercent": "1",
         "FFlagAXActionButtonAccountForMissingItemData": "True",
-        "FFlagEnableEconomicRestrictionBulkPurchaseV4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:07:12",
         "FFlagIssueSummaryTextFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;815386306;2025-12-02T23:10:47",
         "FFlagUnifiedPurchaseGamepassAddProductUniverseId": "True",
         "FFlagAddAudioNameLengthErrorMessage": "True",
@@ -14058,6 +14057,7 @@
         "DFIntSlimControllerSessionEventThrottleHundredthsPercent": "10000",
         "FFlagIBAttributionFix": "True",
         "DFFlagDirectFieldSet": "True",
+        "FFlagEnableEconomicRestrictionBulkPurchaseV4": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15022,7 +15022,7 @@
         "FFlagEnablePowerTraceModule": "True",
         "FFlagPrefetchDeferredAssets": "True",
         "DFIntPowerTraceHashThrottleRateHundredthsPercent": "100",
-        "FFlagEnableDeferredAssets": "False",
+        "FFlagEnableDeferredAssets": "True",
         "FFlagAddDeferredAssetIndicator": "True",
         "FFlagUseConvexDecompV8Format_PlaceFilter": "False;3351674303",
         "FFlagUseAndroidPaymentsProtocolDisableThreadedCalls": "True",
@@ -15035,13 +15035,13 @@
         "FStringOrchestratorTranscoderVersion": "4",
         "FFlagVideoEnableHevcDecode": "True",
         "FFlagEnableAecForAudioDeviceInput2": "True",
-        "FFlagEnableDeferredAssets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:07:55",
         "FIntRuntimeMaxNumOfMutexes_Staged": "2900;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:15:19",
         "FIntRuntimeMaxNumOfConditions_Staged": "2900;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:19:29",
         "FFlagDisableGalleryStopGap_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T00:03:59",
-        "FStringFlagRepoGitHashFastString": "07f09b7c401e600efd0a216360aec4de30f7998f",
-        "DFStringFlagRepoGitHashDynamicString": "07f09b7c401e600efd0a216360aec4de30f7998f",
-        "FStringFlipTimeStampFastString": "2025-12-03T00:06:39.158Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T00:06:39.158Z"
+        "FFlagRenderEmissiveMask5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T00:09:52",
+        "FStringFlagRepoGitHashFastString": "9ff80f4e145705518379997690176ea9eace4b9c",
+        "DFStringFlagRepoGitHashDynamicString": "9ff80f4e145705518379997690176ea9eace4b9c",
+        "FStringFlipTimeStampFastString": "2025-12-03T00:11:38.794Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T00:11:38.794Z"
     }
 }
