@@ -14370,8 +14370,8 @@
         "DisableSendrNotificationInForeground": "True",
         "FFlagFriendsCarouseCINavigationUpdate": "True",
         "FFlagEnableBackgroundFillOptionsRelease1": "True",
-        "FIntRuntimeMaxNumOfConditions": "2400",
-        "FIntRuntimeMaxNumOfMutexes": "2400",
+        "FIntRuntimeMaxNumOfConditions": "2900",
+        "FIntRuntimeMaxNumOfMutexes": "2900",
         "FIntRenderMeshOptimizeVertexBuffer": "3",
         "FFlagEnableReportingAndroidVariant": "True",
         "FFlagEnableSignupBirthdayExperimentsRelease3": "True",
@@ -15036,13 +15036,11 @@
         "FStringOrchestratorTranscoderVersion": "4",
         "FFlagVideoEnableHevcDecode": "True",
         "FFlagEnableAecForAudioDeviceInput2": "True",
-        "FIntRuntimeMaxNumOfMutexes_Staged": "2900;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:15:19",
-        "FIntRuntimeMaxNumOfConditions_Staged": "2900;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-02T23:19:29",
         "FFlagDisableGalleryStopGap_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T00:03:59",
         "FFlagRenderEmissiveMask5_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T00:09:52",
-        "FStringFlagRepoGitHashFastString": "cfcb9c4d5c5245acf656d5aef53e244595712efe",
-        "DFStringFlagRepoGitHashDynamicString": "cfcb9c4d5c5245acf656d5aef53e244595712efe",
-        "FStringFlipTimeStampFastString": "2025-12-03T00:17:22.685Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T00:17:22.685Z"
+        "FStringFlagRepoGitHashFastString": "4cf4bbe1c2d79b136b9367353457b4bb0c3035e9",
+        "DFStringFlagRepoGitHashDynamicString": "4cf4bbe1c2d79b136b9367353457b4bb0c3035e9",
+        "FStringFlipTimeStampFastString": "2025-12-03T00:22:11.118Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T00:22:11.118Z"
     }
 }
