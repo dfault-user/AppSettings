@@ -9090,7 +9090,7 @@
         "FFlagFixDisconnectErrorCode": "True",
         "DFFlagSimOptimizeSetThrottle3": "True",
         "DFFlagFixDebounceReset": "True",
-        "FFlagLuaAppCanGoBackMutedError": "True",
+        "FFlagLuaAppCanGoBackMutedError": "False",
         "FIntAppChatNetworkingHttpRetryCount": "1",
         "FIntAppChatRoduxNetworkingHttpRetryCount": "1",
         "FIntFriendsMenuHttpRetryCount": "1",
@@ -14091,9 +14091,6 @@
         "FFlagLuauPassTypeCheckLimitsEarly": "True",
         "DFFlagSimOptimizeComputeIsSubmerged": "True",
         "FFlagConvertCameraActions3": "True",
-        "FFlagDeprecateAdsApiClient_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1257911415;2025-12-03T22:38:03",
-        "FFlagLuaAppCanGoBackMutedError_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1130338614;2025-12-03T22:38:54",
-        "FFlagAssistantSignalRDisconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1193326033;2025-12-03T22:39:43",
         "DFFlagOnlyMigrateInEditMode": "True",
         "FFlagLuaAppChangeRecommendedGamesTitle_IXP": "1;PlayerApp.GameDetailsPage.Exposure;Discovery.App.ExperienceDetails.RecommendedSortTitle.Backtest.V1;1700463266;dev_controlled",
         "DFFlagTextGenerationTelemetry": "True",
@@ -14108,6 +14105,8 @@
         "FFlagGenerationServiceEnableGenerateModel": "True",
         "FStringToolboxFiatMonetizableAssetTypesCSV2": "Plugin,Model",
         "DFFlagEnableRankProductsApi2": "True",
+        "FFlagAssistantSignalRDisconnect": "True",
+        "FFlagDeprecateAdsApiClient": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15149,9 +15148,9 @@
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
         "FFlagRenderEmissiveMask5": "False",
-        "FStringFlagRepoGitHashFastString": "568c690aef823ba87c2079190f5ffdb5beb9b19b",
-        "DFStringFlagRepoGitHashDynamicString": "568c690aef823ba87c2079190f5ffdb5beb9b19b",
-        "FStringFlipTimeStampFastString": "2025-12-03T23:36:53.709Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T23:36:53.709Z"
+        "FStringFlagRepoGitHashFastString": "b25dcb3978ce139ba8dfce895c438e2c626e9e3c",
+        "DFStringFlagRepoGitHashDynamicString": "b25dcb3978ce139ba8dfce895c438e2c626e9e3c",
+        "FStringFlipTimeStampFastString": "2025-12-03T23:42:12.807Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T23:42:12.807Z"
     }
 }
