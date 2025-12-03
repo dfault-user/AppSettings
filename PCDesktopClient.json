@@ -14072,6 +14072,7 @@
         "FFlagReportISRInputPing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:22:20",
         "FIntSceneUpdaterProcessPendingPartsBudgetMs_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:23:17",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagReverbFewerRaycasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:47:39",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14615,6 +14616,7 @@
         "FFlagTexturePriorityBasedOnDistance": "True",
         "FFlagFMDVariableNumSubsetJoints": "True",
         "DFIntSimSleepAccelerationMultiplier_PlaceFilter": "1000;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
+        "DFFlagSimSkipLowVelocityWakes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:46:58",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15111,9 +15113,9 @@
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
         "FFlagRenderEmissiveMask5": "False",
-        "FStringFlagRepoGitHashFastString": "fb8e2cdfd88d68cfa6cb1084fdc1b32f79e74654",
-        "DFStringFlagRepoGitHashDynamicString": "fb8e2cdfd88d68cfa6cb1084fdc1b32f79e74654",
-        "FStringFlipTimeStampFastString": "2025-12-03T17:30:30.314Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T17:30:30.314Z"
+        "FStringFlagRepoGitHashFastString": "aa8a38d0f1a77c4ba1d4741714bad4d897cba96f",
+        "DFStringFlagRepoGitHashDynamicString": "aa8a38d0f1a77c4ba1d4741714bad4d897cba96f",
+        "FStringFlipTimeStampFastString": "2025-12-03T17:48:59.311Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T17:48:59.311Z"
     }
 }
