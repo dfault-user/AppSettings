@@ -3594,7 +3594,7 @@
         "DFFlagDebugPhoto2AvatarReturnFullOutput": "False",
         "DFFlagDebugPhoto2AvatarReturnFullOutput_PlaceFilter": "True;18235917861;16570073256;17362271377;17745270078",
         "DFIntReportPath2DInstanceAPICallsHundrethsPercent": "100",
-        "DFIntReportPath2DRecomputeTimeHundrethsPercent": "9999",
+        "DFIntReportPath2DRecomputeTimeHundrethsPercent": "100",
         "DFIntDataStoreListPerPlayerRequestLimit_PlaceFilter": "500;166986752",
         "DFIntDataStoreListInitialBudget_PlaceFilter": "500;166986752;15254104733",
         "DFFlagReportTimeBetweenTTServerNew_DataCenterFilter": "True;361",
@@ -7039,7 +7039,7 @@
         "DFIntReportInteractivitySelectionModeSummaryEventThrottleHundrethsPercent": "10000",
         "DFFlagFixDiv0RemoteSystemLookupHashIndex": "True",
         "DFFlagWriteL1FirstRmvL2First": "True",
-        "DFIntReportGamepadUsageEventThrottleHundrethsPercent": "2500",
+        "DFIntReportGamepadUsageEventThrottleHundrethsPercent": "100",
         "FFlagSquadExperienceInviteGameParams": "True",
         "DFIntTeleportSettingVariantTrackingInvalidThrottleHundredthsPercentage": "100",
         "DFFlagSimGroundControllerIgnoreYVelocityInit": "True",
@@ -14067,8 +14067,6 @@
         "DFIntRecommendTopProductsThrottleMaxCallsPerMinute": "15",
         "FFlagFoundationToggleDefaultPlacement": "True",
         "FFlagFoundationToggleEndPlacementJustifyContent": "True",
-        "DFIntReportGamepadUsageEventThrottleHundrethsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:18:07",
-        "DFIntReportPath2DRecomputeTimeHundrethsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:18:38",
         "FFlagReportISRInputPing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:22:20",
         "FIntSceneUpdaterProcessPendingPartsBudgetMs_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:23:17",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -15985,6 +15983,7 @@
         "FFlagStudioAddAgeVerifiedInfoToUserContext": "True",
         "FFlagCleanupThemeFromRobloxMainWindow2": "True",
         "FIntAdvancedCommandBarBetaFeatureRolloutPercent_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:08:36",
+        "FFlagUGCValidationEnableFolderStructure2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:21:41",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -16445,9 +16444,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "9eb7d41fe8430450f8d3090374304243ed2b6905",
-        "DFStringFlagRepoGitHashDynamicString": "9eb7d41fe8430450f8d3090374304243ed2b6905",
-        "FStringFlipTimeStampFastString": "2025-12-03T18:21:58.686Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:21:58.686Z"
+        "FStringFlagRepoGitHashFastString": "94fefa8c510cac0c0408148c228b68ed598ae77e",
+        "DFStringFlagRepoGitHashDynamicString": "94fefa8c510cac0c0408148c228b68ed598ae77e",
+        "FStringFlipTimeStampFastString": "2025-12-03T18:22:40.942Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:22:40.942Z"
     }
 }

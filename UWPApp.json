@@ -3594,7 +3594,7 @@
         "DFFlagDebugPhoto2AvatarReturnFullOutput": "False",
         "DFFlagDebugPhoto2AvatarReturnFullOutput_PlaceFilter": "True;18235917861;16570073256;17362271377;17745270078",
         "DFIntReportPath2DInstanceAPICallsHundrethsPercent": "100",
-        "DFIntReportPath2DRecomputeTimeHundrethsPercent": "9999",
+        "DFIntReportPath2DRecomputeTimeHundrethsPercent": "100",
         "DFIntDataStoreListPerPlayerRequestLimit_PlaceFilter": "500;166986752",
         "DFIntDataStoreListInitialBudget_PlaceFilter": "500;166986752;15254104733",
         "DFFlagReportTimeBetweenTTServerNew_DataCenterFilter": "True;361",
@@ -7039,7 +7039,7 @@
         "DFIntReportInteractivitySelectionModeSummaryEventThrottleHundrethsPercent": "10000",
         "DFFlagFixDiv0RemoteSystemLookupHashIndex": "True",
         "DFFlagWriteL1FirstRmvL2First": "True",
-        "DFIntReportGamepadUsageEventThrottleHundrethsPercent": "2500",
+        "DFIntReportGamepadUsageEventThrottleHundrethsPercent": "100",
         "FFlagSquadExperienceInviteGameParams": "True",
         "DFIntTeleportSettingVariantTrackingInvalidThrottleHundredthsPercentage": "100",
         "DFFlagSimGroundControllerIgnoreYVelocityInit": "True",
@@ -14067,8 +14067,6 @@
         "DFIntRecommendTopProductsThrottleMaxCallsPerMinute": "15",
         "FFlagFoundationToggleDefaultPlacement": "True",
         "FFlagFoundationToggleEndPlacementJustifyContent": "True",
-        "DFIntReportGamepadUsageEventThrottleHundrethsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:18:07",
-        "DFIntReportPath2DRecomputeTimeHundrethsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:18:38",
         "FFlagReportISRInputPing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:22:20",
         "FIntSceneUpdaterProcessPendingPartsBudgetMs_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:23:17",
         "FFlagFCRouteSecondaryParts4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:28:55",
@@ -14077,6 +14075,7 @@
         "DFFlagRbxStorageReportSessionErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:57:33",
         "DFIntRecommendTopProductsThrottleMaxCallsPerMinute_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:14:52",
         "DFIntRankProductsThrottleMaxCallsPerMinute_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:16:13",
+        "FFlagStudioFixPluginsUnloadingSignal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:20:27",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14372,9 +14371,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "20dc449f06add94e3cd33f37297dd532cb2f805e",
-        "DFStringFlagRepoGitHashDynamicString": "20dc449f06add94e3cd33f37297dd532cb2f805e",
-        "FStringFlipTimeStampFastString": "2025-12-03T18:19:12.827Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:19:12.827Z"
+        "FStringFlagRepoGitHashFastString": "94fefa8c510cac0c0408148c228b68ed598ae77e",
+        "DFStringFlagRepoGitHashDynamicString": "94fefa8c510cac0c0408148c228b68ed598ae77e",
+        "FStringFlipTimeStampFastString": "2025-12-03T18:22:40.942Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:22:40.942Z"
     }
 }
