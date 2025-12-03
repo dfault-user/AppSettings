@@ -16005,9 +16005,6 @@
         "FIntAdvancedCommandBarBetaFeatureRolloutPercent": "10",
         "FFlagAnnotationsFontUseBuilderSans": "True",
         "FFlagLuauGetmetatableError": "True",
-        "DFFlagMigrateTriangleMeshPart702_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;919577468;2025-12-03T21:12:57",
-        "DFFlagOnlyTriggerReprocessOnEmptyNonBlockLegacyData_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;919577468;2025-12-03T21:12:57",
-        "DFFlagTriangleMeshPartMigrationOnlyMigratedTelemetry702_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;919577468;2025-12-03T21:12:57",
         "FFlagAssetQualityEngineService_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T21:22:50",
         "FFlagUGCValidationFetchQualityIsDynamicHead3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T21:27:07",
         "FFlagCleanupQtEventFromRobloxMainWindow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T21:37:41",
@@ -16016,6 +16013,10 @@
         "FFlagAmrHasMatchingTermUtil_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T21:50:40",
         "FFlagAmrUseCurrentScopeHook_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T21:52:39",
         "FFlagStudioUpdateShutdownButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T22:11:46",
+        "FFlagStudioUpdateShutdownButtonText_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T22:14:13",
+        "DFFlagMigrateTriangleMeshPart702": "True",
+        "DFFlagOnlyTriggerReprocessOnEmptyNonBlockLegacyData": "True",
+        "DFFlagTriangleMeshPartMigrationOnlyMigratedTelemetry702": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -16508,9 +16509,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "91aec5bda075a22ae4e23317bab29e31d52fbd32",
-        "DFStringFlagRepoGitHashDynamicString": "91aec5bda075a22ae4e23317bab29e31d52fbd32",
-        "FStringFlipTimeStampFastString": "2025-12-03T22:12:57.205Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T22:12:57.205Z"
+        "FStringFlagRepoGitHashFastString": "937702c1da4f699815c554374b5c488df34561b6",
+        "DFStringFlagRepoGitHashDynamicString": "937702c1da4f699815c554374b5c488df34561b6",
+        "FStringFlipTimeStampFastString": "2025-12-03T22:17:19.513Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T22:17:19.513Z"
     }
 }
