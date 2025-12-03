@@ -14843,7 +14843,7 @@
         "DFFlagUserInputServiceDeviceMotionAnalytics2": "False",
         "FFlagLuaAppEdpBackendV2HydrateLegacyIxp3": "False",
         "DFIntDeviceMotionAnalyticsThrottleHundrethsPercent": "0",
-        "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
+        "DFIntSQLiteCacheMaxBlobSizeBytes": "16000",
         "FFlagEnableCreatorSubtitleNavigation_v2_IXP": "1;PlayerApp.GameDetailsPage.Exposure;App_EDP_Creator_Subtitle_Linking_To_Profile_V1;1531928792;flagbank",
         "FFlagReportBatchedRaycastTelemetry": "True",
         "FFlagMemoizePersonButton_IXP": "1;UIEcosystem.User.Migration;User.ExperienceMenu.ReactPeoplePage.Mobile.2;1460160606;flagbank",
@@ -15102,11 +15102,10 @@
         "FFlagLuaAppEdpVideoDeviceDeny": "True",
         "FStringLuaAppEdpVideoDevicePipeDenyList": "iPhone 7|iPhone 6S|iPhone 8|iPhone XR|iPad 9.7inch 6th Gen",
         "FFlagRenderEmissiveMask5": "True",
-        "DFIntSQLiteCacheMaxBlobSizeBytes_Staged": "16000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T00:10:00",
         "FFlagRenderEmissiveMask5_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T01:05:09",
-        "FStringFlagRepoGitHashFastString": "c0bdf11b314c2b018363c7a46f2b49d198ecc121",
-        "DFStringFlagRepoGitHashDynamicString": "c0bdf11b314c2b018363c7a46f2b49d198ecc121",
-        "FStringFlipTimeStampFastString": "2025-12-03T01:06:58.024Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T01:06:58.024Z"
+        "FStringFlagRepoGitHashFastString": "928a45e90cec4a9caa6a103319f7577a65267d3b",
+        "DFStringFlagRepoGitHashDynamicString": "928a45e90cec4a9caa6a103319f7577a65267d3b",
+        "FStringFlipTimeStampFastString": "2025-12-03T01:11:27.436Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T01:11:27.436Z"
     }
 }
