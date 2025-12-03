@@ -14090,6 +14090,8 @@
         "FFlagUIDragDetectorMinMaxScaleWithReferenceUIFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T20:34:45",
         "FFlagUserProfileConsoleUseNewReportFlow": "True",
         "FFlagEnableLuaAccountPicker8": "True",
+        "FFlagNewStrengthInNumbersLua2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1121867727;2025-12-03T20:44:25",
+        "FFlagMigrateConsoleToReportingRevampFlow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T20:45:40",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15001,7 +15003,6 @@
         "FFlagEnableBackgroundPushSettingsReporting_IXP": "1;Portal.android_notifs_bg_job_dau-1762459378;android_notifs_bg_job_dau;2075480604;flagbank",
         "FFlagEnableRegisterBackgroundPushSettingsReportingOnPush_IXP": "1;Portal.android_notifs_bg_job_dau-1762459378;android_notifs_bg_job_dau;2075480604;flagbank",
         "FFlagLocalUserGameVoteCounterReducer_IXP": "1;ConsumerPlatforms.GameAchievements;ConsumerPlatforms.GameAchievements.Android.TTI.2;457212349;flagbank",
-        "FFlagNewStrengthInNumbersLua2_IXP": "1;ConsumerPlatforms.GameAchievements;ConsumerPlatforms.GameAchievements.Android.TTI.2;457212349;flagbank",
         "FFlagEnableAndroidAchievement_IXP": "1;ConsumerPlatforms.GameAchievements;ConsumerPlatforms.GameAchievements.Android.TTI.2;457212349;flagbank",
         "FFlagEnableGooglePlayGamesIntegration_IXP": "1;ConsumerPlatforms.GameAchievements;ConsumerPlatforms.GameAchievements.Android.TTI.2;457212349;flagbank",
         "FFlagLuaAppEdpVideoMaxMemoryDeny": "True",
@@ -15067,9 +15068,9 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagPersistDeferredBit": "True",
         "FFlagDeleteRoomDBEventsOnClientError": "True",
-        "FStringFlagRepoGitHashFastString": "61b6e249ca9b40c528171042b68588357185dbf9",
-        "DFStringFlagRepoGitHashDynamicString": "61b6e249ca9b40c528171042b68588357185dbf9",
-        "FStringFlipTimeStampFastString": "2025-12-03T20:41:28.591Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T20:41:28.591Z"
+        "FStringFlagRepoGitHashFastString": "0a471e95e950d026eb316dcea7eaa128622e482e",
+        "DFStringFlagRepoGitHashDynamicString": "0a471e95e950d026eb316dcea7eaa128622e482e",
+        "FStringFlipTimeStampFastString": "2025-12-03T20:46:35.011Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T20:46:35.011Z"
     }
 }
