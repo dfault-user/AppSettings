@@ -14054,7 +14054,6 @@
         "FFlagEnableEconomicRestrictionBulkPurchaseV4": "True",
         "FFlagIssueSummaryTextFix": "True",
         "FFlagUpdateThumbnailAssetDataLoaderRetryLogic": "True",
-        "DFIntISRInputPingStatsTelemetryThrottleHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T00:30:56",
         "FFlagFixGradientEditorColorSelectionOnMacOS2": "True",
         "FFlagFixNoPublishUntilOpenFileMenu": "True",
         "FFlagFixPropertiesTabFreezeOnDebugger": "True",
@@ -14067,6 +14066,7 @@
         "FFlagFoundationToggleDefaultPlacement_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;929723470;2025-12-03T00:43:41",
         "FFlagFoundationToggleEndPlacementJustifyContent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1367647873;2025-12-03T00:45:48",
         "FFlagVrCheckVrEnableBeforeDeviceInit": "True",
+        "DFIntISRInputPingStatsTelemetryThrottleHundredthsPercent": "100",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16434,9 +16434,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "6ff3879a2b97210786794c3368f9a9ef0e175f6b",
-        "DFStringFlagRepoGitHashDynamicString": "6ff3879a2b97210786794c3368f9a9ef0e175f6b",
-        "FStringFlipTimeStampFastString": "2025-12-03T01:16:58.160Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T01:16:58.160Z"
+        "FStringFlagRepoGitHashFastString": "b88aa1964ce4fda8ae956031891d8c9052c7881d",
+        "DFStringFlagRepoGitHashDynamicString": "b88aa1964ce4fda8ae956031891d8c9052c7881d",
+        "FStringFlipTimeStampFastString": "2025-12-03T01:36:28.783Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T01:36:28.783Z"
     }
 }
