@@ -14105,6 +14105,8 @@
         "DFFlagSimOptimizeComputeIsSubmerged": "True",
         "FFlagConvertCameraActions3": "True",
         "FFlagDeprecateAdsApiClient_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1257911415;2025-12-03T22:38:03",
+        "FFlagLuaAppCanGoBackMutedError_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1130338614;2025-12-03T22:38:54",
+        "FFlagAssistantSignalRDisconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1193326033;2025-12-03T22:39:43",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15086,9 +15088,9 @@
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagRenderEmissiveMask5": "False",
         "DFFlagOnlyMigrateInNonEditMode_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1260426157;2025-12-03T21:49:24",
-        "FStringFlagRepoGitHashFastString": "14c177d2d65d86c6035744df4b77d4344e448169",
-        "DFStringFlagRepoGitHashDynamicString": "14c177d2d65d86c6035744df4b77d4344e448169",
-        "FStringFlipTimeStampFastString": "2025-12-03T22:39:11.475Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T22:39:11.475Z"
+        "FStringFlagRepoGitHashFastString": "fc9886d897828cee1f1e3b617fd7edc000400c1d",
+        "DFStringFlagRepoGitHashDynamicString": "fc9886d897828cee1f1e3b617fd7edc000400c1d",
+        "FStringFlipTimeStampFastString": "2025-12-03T22:41:01.623Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T22:41:01.623Z"
     }
 }
