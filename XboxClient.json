@@ -14067,7 +14067,6 @@
         "DFIntRecommendTopProductsThrottleMaxCallsPerMinute": "5",
         "FFlagFoundationToggleDefaultPlacement": "True",
         "FFlagFoundationToggleEndPlacementJustifyContent": "True",
-        "FFlagStudioFixPluginsUnloadingSignal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:20:27",
         "FFlagReportISRInputPing": "True",
         "DFFlagFixForAutomaticScalingBreakingFACSInACE_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:29:53",
         "FFlagFCRouteSecondaryParts4": "True",
@@ -14085,6 +14084,7 @@
         "FFlagSimRuntimeContentDiskStoreEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T19:17:33",
         "DFIntRankProductsThrottleMaxCallsPerMinute": "10",
         "FFlagConnectViaConnectionInternal_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;622767962;2025-12-03T19:23:49",
+        "FFlagStudioFixPluginsUnloadingSignal": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14449,9 +14449,9 @@
         "FFlagSduiSupportClientBindingAnalytics2": "True",
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagRenderEmissiveMask5": "False",
-        "FStringFlagRepoGitHashFastString": "602ec23fdffe8258264cdb895bbfc095ee6c8ae7",
-        "DFStringFlagRepoGitHashDynamicString": "602ec23fdffe8258264cdb895bbfc095ee6c8ae7",
-        "FStringFlipTimeStampFastString": "2025-12-03T19:25:06.978Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T19:25:06.978Z"
+        "FStringFlagRepoGitHashFastString": "d7b6198b762bc863378df5b8999739d110d154ba",
+        "DFStringFlagRepoGitHashDynamicString": "d7b6198b762bc863378df5b8999739d110d154ba",
+        "FStringFlipTimeStampFastString": "2025-12-03T19:26:57.204Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T19:26:57.204Z"
     }
 }
