@@ -14081,6 +14081,7 @@
         "DFFlagRbxStorageReportSessionErrors": "True",
         "FFlagEnableGameDetailsFullViewIXP_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T19:01:59",
         "AllowVideoPreRoll": "True",
+        "DFFlagStreamQuotaTimeWeight_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T19:10:29",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -16409,6 +16410,7 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagFMDVariableNumSubsetJoints": "True",
         "DFFlagSimSkipLowVelocityWakes": "True",
+        "DFFlagSimOptimizeComputeIsSubmerged_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T19:08:23",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -16448,9 +16450,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "d0bac0042c9a1bb78b148616f05e63e1f4768d87",
-        "DFStringFlagRepoGitHashDynamicString": "d0bac0042c9a1bb78b148616f05e63e1f4768d87",
-        "FStringFlipTimeStampFastString": "2025-12-03T19:08:41.593Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T19:08:41.593Z"
+        "FStringFlagRepoGitHashFastString": "672f7205c51abd7528d6db59645442fc214d9fff",
+        "DFStringFlagRepoGitHashDynamicString": "672f7205c51abd7528d6db59645442fc214d9fff",
+        "FStringFlipTimeStampFastString": "2025-12-03T19:11:48.773Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T19:11:48.773Z"
     }
 }
