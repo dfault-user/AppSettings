@@ -14077,6 +14077,7 @@
         "DFFlagFixForAutomaticScalingBreakingFACSInACE_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:29:53",
         "FFlagFCRouteSecondaryParts4": "True",
         "FFlagClearWatchesOnPlaceOpen_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:31:49",
+        "DFFlagSimSkipLowVelocityWakes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:46:58",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -16406,7 +16407,6 @@
         "FFlagVideoEnableHevcDecode": "True",
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagFMDVariableNumSubsetJoints": "True",
-        "DFFlagSimSkipLowVelocityWakes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:46:58",
         "FLogSignalRNotification": "0",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
@@ -16446,9 +16446,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "c60b28c28492ddfb1c9734e36346ff49a4cf3d3e",
-        "DFStringFlagRepoGitHashDynamicString": "c60b28c28492ddfb1c9734e36346ff49a4cf3d3e",
-        "FStringFlipTimeStampFastString": "2025-12-03T18:32:50.399Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:32:50.399Z"
+        "FStringFlagRepoGitHashFastString": "0b9d84c919b9c8f381e9b9dc937350e32aa9f251",
+        "DFStringFlagRepoGitHashDynamicString": "0b9d84c919b9c8f381e9b9dc937350e32aa9f251",
+        "FStringFlipTimeStampFastString": "2025-12-03T18:36:47.727Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:36:47.727Z"
     }
 }
