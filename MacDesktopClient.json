@@ -14064,6 +14064,8 @@
         "FFlagAXPassScreenSizeToWidgetApiLogExposure_IXP": "1;AvatarExperience.UA.ActionBarView;AvatarMarketplace.UA.AATest;664241861;dev_controlled",
         "FStringAXPassScreenSizeToWidgetApiExposureLayer_IXP": "1;AvatarExperience.UA.ActionBarView;AvatarMarketplace.UA.AATest;664241861;dev_controlled",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "DFIntRecommendTopProductsThrottleMaxCallsPerMinute_Staged": "15;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T00:43:01",
+        "FFlagFoundationToggleDefaultPlacement_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;929723470;2025-12-03T00:43:41",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15045,9 +15047,9 @@
         "DFFlagRequestOrchestratorQueueExpirationEnabled": "True",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagRenderEmissiveMask5": "True",
-        "FStringFlagRepoGitHashFastString": "f4ff152f5e16edcb7770a2f11493585a2e2012e4",
-        "DFStringFlagRepoGitHashDynamicString": "f4ff152f5e16edcb7770a2f11493585a2e2012e4",
-        "FStringFlipTimeStampFastString": "2025-12-03T00:40:23.848Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T00:40:23.848Z"
+        "FStringFlagRepoGitHashFastString": "e9978270cd5f0cf8848fe5f73227afc6d2ef0186",
+        "DFStringFlagRepoGitHashDynamicString": "e9978270cd5f0cf8848fe5f73227afc6d2ef0186",
+        "FStringFlipTimeStampFastString": "2025-12-03T00:44:49.734Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T00:44:49.734Z"
     }
 }
