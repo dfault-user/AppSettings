@@ -13264,7 +13264,7 @@
         "FFlagUseWorkManagerForPushRegistration": "True",
         "DFFlagLoadNetAssetChildren": "True",
         "DFFlagSolverV2NoModelModeChangesFromNonWorkspaceContainer": "False",
-        "FIntSceneUpdaterProcessPendingPartsBudgetMs": "100",
+        "FIntSceneUpdaterProcessPendingPartsBudgetMs": "5000",
         "DFFlagMigratePlayerFeatureTimeoutsReads": "True",
         "FIntTooltipShowDelay": "500",
         "FFlagEnableDebugCtrTelemetry": "True",
@@ -14067,8 +14067,6 @@
         "DFIntRecommendTopProductsThrottleMaxCallsPerMinute": "15",
         "FFlagFoundationToggleDefaultPlacement": "True",
         "FFlagFoundationToggleEndPlacementJustifyContent": "True",
-        "FFlagReportISRInputPing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:22:20",
-        "FIntSceneUpdaterProcessPendingPartsBudgetMs_Staged": "5000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:23:17",
         "AllowVideoPreRoll": "True",
         "FFlagReverbFewerRaycasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:47:39",
         "FFlagInExpHistoryButtonClickLogFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:52:21",
@@ -14076,6 +14074,7 @@
         "DFIntRecommendTopProductsThrottleMaxCallsPerMinute_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:14:52",
         "DFIntRankProductsThrottleMaxCallsPerMinute_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:16:13",
         "FFlagStudioFixPluginsUnloadingSignal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:20:27",
+        "FFlagReportISRInputPing": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15110,9 +15109,9 @@
         "FFlagLuaAppEdpVideoDeviceDeny": "True",
         "FStringLuaAppEdpVideoDevicePipeDenyList": "iPhone 7|iPhone 6S|iPhone 8|iPhone XR|iPad 9.7inch 6th Gen",
         "FFlagRenderEmissiveMask5": "False",
-        "FStringFlagRepoGitHashFastString": "94fefa8c510cac0c0408148c228b68ed598ae77e",
-        "DFStringFlagRepoGitHashDynamicString": "94fefa8c510cac0c0408148c228b68ed598ae77e",
-        "FStringFlipTimeStampFastString": "2025-12-03T18:22:40.942Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:22:40.942Z"
+        "FStringFlagRepoGitHashFastString": "b688e860196eb2af57e0856ae687f2c06a16430a",
+        "DFStringFlagRepoGitHashDynamicString": "b688e860196eb2af57e0856ae687f2c06a16430a",
+        "FStringFlipTimeStampFastString": "2025-12-03T18:27:06.541Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:27:06.541Z"
     }
 }
