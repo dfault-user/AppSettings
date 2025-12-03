@@ -14107,6 +14107,7 @@
         "FFlagLuaAppCanGoBackMutedError_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1130338614;2025-12-03T22:38:54",
         "FFlagAssistantSignalRDisconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1193326033;2025-12-03T22:39:43",
         "DFFlagOnlyMigrateInEditMode": "True",
+        "FFlagDisableLargeReplicatorServerPatch_Staged": "True;SteadyState;10;30;Revert;2025-12-03T22:41:29",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15084,9 +15085,9 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagPersistDeferredBit": "True",
         "FFlagDeleteRoomDBEventsOnClientError": "True",
-        "FStringFlagRepoGitHashFastString": "8a3a74505bd711e91e6d2078980732bc054399d5",
-        "DFStringFlagRepoGitHashDynamicString": "8a3a74505bd711e91e6d2078980732bc054399d5",
-        "FStringFlipTimeStampFastString": "2025-12-03T22:43:54.323Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T22:43:54.323Z"
+        "FStringFlagRepoGitHashFastString": "aac9466913c516d6af8a2b5da79f497493eb28f2",
+        "DFStringFlagRepoGitHashDynamicString": "aac9466913c516d6af8a2b5da79f497493eb28f2",
+        "FStringFlipTimeStampFastString": "2025-12-03T22:45:27.879Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T22:45:27.879Z"
     }
 }

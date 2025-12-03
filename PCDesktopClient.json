@@ -14086,7 +14086,6 @@
         "FFlagUserProfileConsoleUseNewReportFlow": "True",
         "FFlagEnableLuaAccountPicker8": "True",
         "FFlagLsbOptimization_IXP": "1;Portal.Engine.Security.LuaSignatureVerification.v5-1764796104;Engine.Security.LuaSignatureVerification.v5;1674245009;flagbank",
-        "DFFlagOnlyMigrateInEditMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1660552568;2025-12-03T21:39:00",
         "FFlagNewStrengthInNumbersLua2": "True",
         "DFFlagTextGenerationTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T21:47:06",
         "AllowVideoPreRoll": "True",
@@ -14107,6 +14106,8 @@
         "FFlagDeprecateAdsApiClient_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1257911415;2025-12-03T22:38:03",
         "FFlagLuaAppCanGoBackMutedError_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1130338614;2025-12-03T22:38:54",
         "FFlagAssistantSignalRDisconnect_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1193326033;2025-12-03T22:39:43",
+        "DFFlagOnlyMigrateInEditMode": "True",
+        "FFlagDisableLargeReplicatorServerPatch_Staged": "True;SteadyState;10;30;Revert;2025-12-03T22:41:29",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14654,6 +14655,8 @@
         "FFlagAXGeneralizeInventoryItemsList_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;253061301;dev_controlled",
         "FFlagAXImproveSlotBasedEditorPerformance_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;193760623;dev_controlled",
         "FFlagFixFriendsLandingFilterIcon": "True",
+        "DFFlagSimCacheHumanoidScale_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T22:42:54",
+        "FStringAppChatChatBubbleUIRevampIxpLayer_Staged": "Party.ConversationPage;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T22:43:58",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15145,9 +15148,9 @@
         "FFlagIASFixResetInRollback": "True",
         "FFlagRenderEmissiveMask5": "False",
         "DFFlagOnlyMigrateInNonEditMode_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1260426157;2025-12-03T21:49:24",
-        "FStringFlagRepoGitHashFastString": "132e9f9e6c9bbbfde3b983a2cf7b80f0084babcf",
-        "DFStringFlagRepoGitHashDynamicString": "132e9f9e6c9bbbfde3b983a2cf7b80f0084babcf",
-        "FStringFlipTimeStampFastString": "2025-12-03T22:42:58.843Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T22:42:58.843Z"
+        "FStringFlagRepoGitHashFastString": "aac9466913c516d6af8a2b5da79f497493eb28f2",
+        "DFStringFlagRepoGitHashDynamicString": "aac9466913c516d6af8a2b5da79f497493eb28f2",
+        "FStringFlipTimeStampFastString": "2025-12-03T22:45:27.879Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T22:45:27.879Z"
     }
 }
