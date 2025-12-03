@@ -14067,7 +14067,6 @@
         "DFIntRecommendTopProductsThrottleMaxCallsPerMinute": "15",
         "FFlagFoundationToggleDefaultPlacement": "True",
         "FFlagFoundationToggleEndPlacementJustifyContent": "True",
-        "FFlagReverbFewerRaycasts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:47:39",
         "FFlagInExpHistoryButtonClickLogFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:52:21",
         "DFFlagRbxStorageReportSessionErrors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:57:33",
         "DFIntRecommendTopProductsThrottleMaxCallsPerMinute_Staged": "5;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:14:52",
@@ -14077,9 +14076,9 @@
         "DFFlagFixForAutomaticScalingBreakingFACSInACE_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:29:53",
         "FFlagFCRouteSecondaryParts4": "True",
         "FFlagClearWatchesOnPlaceOpen_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T18:31:49",
-        "DFFlagSimSkipLowVelocityWakes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-03T17:46:58",
-        "FFlagEnablePartyPageCarouselExperimentation3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;339662864;2025-12-03T18:39:55",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagEnablePartyPageCarouselExperimentation3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;339662864;2025-12-03T18:39:55",
+        "FFlagReverbFewerRaycasts": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14622,6 +14621,7 @@
         "FFlagTexturePriorityBasedOnDistance": "True",
         "FFlagFMDVariableNumSubsetJoints": "True",
         "DFIntSimSleepAccelerationMultiplier_PlaceFilter": "1000;102669905873657;95110357124286;74420304866897;112408689884212;126509999114328",
+        "DFFlagSimSkipLowVelocityWakes": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15118,9 +15118,9 @@
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
         "FFlagRenderEmissiveMask5": "False",
-        "FStringFlagRepoGitHashFastString": "f7792cae8b836dddb26fc320f12d79294ec655b8",
-        "DFStringFlagRepoGitHashDynamicString": "f7792cae8b836dddb26fc320f12d79294ec655b8",
-        "FStringFlipTimeStampFastString": "2025-12-03T18:40:47.186Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:40:47.186Z"
+        "FStringFlagRepoGitHashFastString": "aed1ae354fc1d5cbcd88c82e3ce5a3c3d5905c92",
+        "DFStringFlagRepoGitHashDynamicString": "aed1ae354fc1d5cbcd88c82e3ce5a3c3d5905c92",
+        "FStringFlipTimeStampFastString": "2025-12-03T18:51:49.623Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-03T18:51:49.623Z"
     }
 }
