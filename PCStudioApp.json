@@ -13765,7 +13765,6 @@
         "FFlagRemoveAEGIS2RTNFromAppChatEventReceiver": "True",
         "FFlagDisableStopAtBcUnaligned": "True",
         "FIntUserHeartbeatsPulseIntervalSeconds": "60",
-        "FFlagFCRouteSecondaryParts4_IXP": "1;Portal.FastClusterToolsOptimizationNov24-1764027935;FastClusterToolsOptimizationNov24;580599053;flagbank",
         "FFlagFCTransformsDiffCheckOnUpdateGeometry_IXP": "1;Portal.FastClusterToolsOptimizationNov24-1764027935;FastClusterToolsOptimizationNov24;580599053;flagbank",
         "CustomRewardedVideoCallToActionTimingMS": "1000",
         "FFlagLuaAppNilCheckCurrentVideoItem": "True",
@@ -14135,6 +14134,7 @@
         "FFlagLuaAppDataHydrationSupportsMultiGet": "True",
         "DFIntChatFloodCheckExpirySeconds_Staged": "120;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;354550765;2025-12-04T20:54:37",
         "DFIntChatFloodCheckLimit_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;354550765;2025-12-04T20:54:37",
+        "FFlagLuaAppDataHydrationDataCacheReplaceItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:00:07",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16564,9 +16564,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "1ac119952ab6278e26f24eaa788e7a59ba7a2e13",
-        "DFStringFlagRepoGitHashDynamicString": "1ac119952ab6278e26f24eaa788e7a59ba7a2e13",
-        "FStringFlipTimeStampFastString": "2025-12-04T20:55:46.191Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T20:55:46.191Z"
+        "FStringFlagRepoGitHashFastString": "e10fd63aa73c54a8043c8832b880971bf175aeba",
+        "DFStringFlagRepoGitHashDynamicString": "e10fd63aa73c54a8043c8832b880971bf175aeba",
+        "FStringFlipTimeStampFastString": "2025-12-04T21:00:46.012Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:00:46.012Z"
     }
 }
