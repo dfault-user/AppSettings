@@ -518,8 +518,8 @@
         "DFFlagDebugEnableInstanceUniqueIdCrashOnCollision": "True",
         "FFlagDebugEnableInstanceUniqueIdCollisionDetection": "True",
         "DFIntVideoStatsInfluxReportHundredthsPercent": "2",
-        "DFIntChatFloodCheckExpirySeconds": "180",
-        "DFIntChatFloodCheckLimit": "5",
+        "DFIntChatFloodCheckExpirySeconds": "120",
+        "DFIntChatFloodCheckLimit": "3",
         "DFFlagChatFloodCheckEnableEventCounters": "True",
         "DFFlagChatFloodCheckEnableEventIngest": "True",
         "FFlagSearchBoxOnIEWebView2": "True",
@@ -14127,8 +14127,6 @@
         "DFFlagSimSolverUseNewApplyBuoyantForce": "True",
         "DFFlagReportCriticalMemoryBufferToSessionTracking": "True",
         "FFlagLuaAppDataHydrationSupportsMultiGet": "True",
-        "DFIntChatFloodCheckExpirySeconds_Staged": "120;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;354550765;2025-12-04T20:54:37",
-        "DFIntChatFloodCheckLimit_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;354550765;2025-12-04T20:54:37",
         "FFlagLuaAppDataHydrationDataCacheReplaceItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:00:07",
         "FFlagLuaAppDataHydrationDataResolverOnClear_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:02:42",
         "FFlagMoveCredentialsProtocolCheckToDidMount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1050531199;2025-12-04T21:05:17",
@@ -14142,7 +14140,6 @@
         "FFlagFixPartyNudgeNilThunkWhenLeave": "True",
         "FFlagLuaAppDataHydrationUpdateItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:21:02",
         "FFlagLuaAppDataHydrationUserVoteFeedbackMetadataStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:23:06",
-        "DFFlagCLI178331_Staged": "True;SteadyState;10;30;Revert;2025-12-04T21:25:07",
         "FFlagLuaAppDataHydrationUserVotesStore2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:27:29",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:27:59",
         "FFlagUpdate17to18age_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:29:46",
@@ -14451,9 +14448,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "098a0748b0adc1492c81eac2909476966160d0ac",
-        "DFStringFlagRepoGitHashDynamicString": "098a0748b0adc1492c81eac2909476966160d0ac",
-        "FStringFlipTimeStampFastString": "2025-12-04T21:55:33.946Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:55:33.946Z"
+        "FStringFlagRepoGitHashFastString": "bae02fa6ea24b06571584f752706a9e1d8a0f389",
+        "DFStringFlagRepoGitHashDynamicString": "bae02fa6ea24b06571584f752706a9e1d8a0f389",
+        "FStringFlipTimeStampFastString": "2025-12-04T21:57:31.935Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:57:31.935Z"
     }
 }

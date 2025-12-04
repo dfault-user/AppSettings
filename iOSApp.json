@@ -518,8 +518,8 @@
         "DFFlagDebugEnableInstanceUniqueIdCrashOnCollision": "True",
         "FFlagDebugEnableInstanceUniqueIdCollisionDetection": "True",
         "DFIntVideoStatsInfluxReportHundredthsPercent": "2",
-        "DFIntChatFloodCheckExpirySeconds": "180",
-        "DFIntChatFloodCheckLimit": "5",
+        "DFIntChatFloodCheckExpirySeconds": "120",
+        "DFIntChatFloodCheckLimit": "3",
         "DFFlagChatFloodCheckEnableEventCounters": "True",
         "DFFlagChatFloodCheckEnableEventIngest": "True",
         "FFlagSearchBoxOnIEWebView2": "True",
@@ -14127,8 +14127,6 @@
         "DFFlagSimSolverUseNewApplyBuoyantForce": "True",
         "DFFlagReportCriticalMemoryBufferToSessionTracking": "True",
         "FFlagLuaAppDataHydrationSupportsMultiGet": "True",
-        "DFIntChatFloodCheckExpirySeconds_Staged": "120;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;354550765;2025-12-04T20:54:37",
-        "DFIntChatFloodCheckLimit_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;354550765;2025-12-04T20:54:37",
         "DFIntAnalyticsNS1CDNProbeChancePercent": "5",
         "DFFlagReportClientMemoryCat": "True",
         "FFlagMoveCredentialsProtocolCheckToDidMount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1050531199;2025-12-04T21:05:17",
@@ -14142,7 +14140,6 @@
         "FFlagFixPartyNudgeNilThunkWhenLeave": "True",
         "DFFlagLockViolationScriptCrash": "False",
         "DFFlagLockViolationInstanceCrash": "False",
-        "DFFlagCLI178331_Staged": "True;SteadyState;10;30;Revert;2025-12-04T21:25:07",
         "DFFlagGoodbyeChoiceActiveProperty": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "FFlagUpdate17to18age_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:29:46",
@@ -15178,9 +15175,10 @@
         "FFlagRemoveCentralOverlayScrimForUnifiedPurchaseModal": "True",
         "DFIntSQLiteCacheMaxBlobSizeBytes_Staged": "15000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:50:24",
         "FFlagAXCatalogSearchSupportUUID2_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogTaxonomyM20;514918795;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "098a0748b0adc1492c81eac2909476966160d0ac",
-        "DFStringFlagRepoGitHashDynamicString": "098a0748b0adc1492c81eac2909476966160d0ac",
-        "FStringFlipTimeStampFastString": "2025-12-04T21:55:33.946Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:55:33.946Z"
+        "FFlagAXUpdateTShirtTaxonomyUUID_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogTaxonomyM20;76838533;dev_controlled",
+        "FStringFlagRepoGitHashFastString": "bae02fa6ea24b06571584f752706a9e1d8a0f389",
+        "DFStringFlagRepoGitHashDynamicString": "bae02fa6ea24b06571584f752706a9e1d8a0f389",
+        "FStringFlipTimeStampFastString": "2025-12-04T21:57:31.935Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:57:31.935Z"
     }
 }
