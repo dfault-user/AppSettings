@@ -12223,7 +12223,6 @@
         "FFlagHelpPageMountVR3_IXP": "1;Experience.Menu.HelpPage.Exposure;Experience.Menu.HelpPage-v3;1880775395;dev_controlled",
         "FFlagRefactorHelpPage5_IXP": "1;Experience.Menu.HelpPage.Exposure;Experience.Menu.HelpPage-v3;1880775395;dev_controlled",
         "FIntHelpPageThrottleHundredthsPercent_IXP": "1;Experience.Menu.HelpPage.Exposure;Experience.Menu.HelpPage-v3;1880775395;dev_controlled",
-        "FFlagTopBarSignalizeHealthBar3_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;193731139;flagbank",
         "FFlagTopBarSignalizeScreenSize2_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;193731139;flagbank",
         "FFlagTopBarSignalizeSetCores_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;193731139;flagbank",
         "FFlagNetworkSchemaVersionServerBit": "True",
@@ -14110,7 +14109,7 @@
         "DFFlagEnableRecommendTopProductsApi2": "True",
         "FFlagLuaAppDerivedStackAndSwitchState_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1558020001;2025-12-04T18:17:38",
         "FFlagDisableLargeReplicatorServerPatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:23:21",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagEnableAdsMouseUnlock": "True",
         "FFlagLuaAppChangeRecommendedGamesTitle": "True",
         "FFlagGroupServiceJoinPromptEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:31:26",
         "DFFlagReportServiceRollouts": "True",
@@ -14132,9 +14131,9 @@
         "FIntAXBuyDelayMilliseconds": "650",
         "FFlagAdaptiveAnimationsBetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:05:53",
         "DFFlagSimSolverUseNewApplyBuoyantForce_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:12:34",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
-        "FFlagEnableAdsMouseUnlock": "True",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
@@ -15178,9 +15177,9 @@
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
         "FFlagRenderEmissiveMask5": "False",
-        "FStringFlagRepoGitHashFastString": "05cf03bc534ea6a7176e475b1aa2d30e4c61e8ff",
-        "DFStringFlagRepoGitHashDynamicString": "05cf03bc534ea6a7176e475b1aa2d30e4c61e8ff",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:15:33.253Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:15:33.253Z"
+        "FStringFlagRepoGitHashFastString": "8dc289510d95e4d6dc9f430acd29750a07793af7",
+        "DFStringFlagRepoGitHashDynamicString": "8dc289510d95e4d6dc9f430acd29750a07793af7",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:17:13.613Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:17:13.613Z"
     }
 }

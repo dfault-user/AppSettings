@@ -12223,7 +12223,6 @@
         "FFlagHelpPageMountVR3_IXP": "1;Experience.Menu.HelpPage.Exposure;Experience.Menu.HelpPage-v3;1880775395;dev_controlled",
         "FFlagRefactorHelpPage5_IXP": "1;Experience.Menu.HelpPage.Exposure;Experience.Menu.HelpPage-v3;1880775395;dev_controlled",
         "FIntHelpPageThrottleHundredthsPercent_IXP": "1;Experience.Menu.HelpPage.Exposure;Experience.Menu.HelpPage-v3;1880775395;dev_controlled",
-        "FFlagTopBarSignalizeHealthBar3_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;193731139;flagbank",
         "FFlagTopBarSignalizeScreenSize2_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;193731139;flagbank",
         "FFlagTopBarSignalizeSetCores_IXP": "1;InExperience.Performance;Experience.Menu.TopBar.RoduxDeprecation-v2;193731139;flagbank",
         "FFlagNetworkSchemaVersionServerBit": "True",
@@ -14133,6 +14132,8 @@
         "FFlagAdaptiveAnimationsBetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:05:53",
         "DFFlagSimSolverUseNewApplyBuoyantForce_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:12:34",
         "FFlagSduiDeprecateLogAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;348926933;2025-12-04T19:12:46",
+        "FFlagLuaAppSduiActionFiresOwnTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1606720141;2025-12-04T19:13:13",
+        "FFlagSduiSupportClientBindingAnalytics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1062851331;2025-12-04T19:13:59",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14428,9 +14429,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "05cf03bc534ea6a7176e475b1aa2d30e4c61e8ff",
-        "DFStringFlagRepoGitHashDynamicString": "05cf03bc534ea6a7176e475b1aa2d30e4c61e8ff",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:15:33.253Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:15:33.253Z"
+        "FStringFlagRepoGitHashFastString": "62ff10218ac8a25d97104051b71d6a427a14226a",
+        "DFStringFlagRepoGitHashDynamicString": "62ff10218ac8a25d97104051b71d6a427a14226a",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:17:38.375Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:17:38.375Z"
     }
 }
