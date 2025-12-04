@@ -14118,6 +14118,7 @@
         "FIntAXBuyDelayMilliseconds_Staged": "650;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:00:53",
         "FFlagFilterNewPlayerListValueStat_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:05:24",
         "FFlagLuaAppDerivedStackAndSwitchState_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1558020001;2025-12-04T18:17:38",
+        "FFlagDisableLargeReplicatorServerPatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:23:21",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16045,6 +16046,7 @@
         "FFlagSTUDIOPLAT_41579_AddMachineIdLayer": "True",
         "DFFlagNewReflectionUseReflectableAndStringableInDescriptors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T17:55:28",
         "FFlagRemoveLeftoverFromRobloxMainWindow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:10:58",
+        "FFlagLuauIncludeExplicitGenericPacks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:24:50",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "DFFlagEnableFdTracking": "True",
@@ -16475,6 +16477,7 @@
         "FFlagTelemetryAddAppBuildVariantToPointsWithCallback": "True",
         "FFlagSimAeroUseNewPresets_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T17:38:46",
         "FFlagUnifiedPurchaseFlowMarketplaceUIImprovementsV3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T17:47:08",
+        "FFlagFixLayeredClothingSpike_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:22:26",
         "FStringFeature_CookieProtocolEnabled": "496;100",
         "FFlagDebugLuaAppValidateProps": "True",
         "DFLogTrackHttpRequest": "0",
@@ -16513,9 +16516,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "8af26eec935dfd750f003e7402d64e5200c83a30",
-        "DFStringFlagRepoGitHashDynamicString": "8af26eec935dfd750f003e7402d64e5200c83a30",
-        "FStringFlipTimeStampFastString": "2025-12-04T18:18:32.355Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T18:18:32.355Z"
+        "FStringFlagRepoGitHashFastString": "5821dca51d05fe4fef494f205292d02cba75bbfa",
+        "DFStringFlagRepoGitHashDynamicString": "5821dca51d05fe4fef494f205292d02cba75bbfa",
+        "FStringFlipTimeStampFastString": "2025-12-04T18:25:43.737Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T18:25:43.737Z"
     }
 }

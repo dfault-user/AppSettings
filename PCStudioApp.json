@@ -14118,6 +14118,7 @@
         "FIntAXBuyDelayMilliseconds_Staged": "650;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:00:53",
         "FFlagFilterNewPlayerListValueStat_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:05:24",
         "FFlagLuaAppDerivedStackAndSwitchState_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1558020001;2025-12-04T18:17:38",
+        "FFlagDisableLargeReplicatorServerPatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:23:21",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16045,6 +16046,7 @@
         "FFlagSTUDIOPLAT_41579_AddMachineIdLayer": "True",
         "DFFlagNewReflectionUseReflectableAndStringableInDescriptors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T17:55:28",
         "FFlagRemoveLeftoverFromRobloxMainWindow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:10:58",
+        "FFlagLuauIncludeExplicitGenericPacks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:24:50",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
@@ -16541,9 +16543,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "4a5529b3751494b509cd775ddb60062c72013273",
-        "DFStringFlagRepoGitHashDynamicString": "4a5529b3751494b509cd775ddb60062c72013273",
-        "FStringFlipTimeStampFastString": "2025-12-04T18:23:35.912Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T18:23:35.912Z"
+        "FStringFlagRepoGitHashFastString": "5821dca51d05fe4fef494f205292d02cba75bbfa",
+        "DFStringFlagRepoGitHashDynamicString": "5821dca51d05fe4fef494f205292d02cba75bbfa",
+        "FStringFlipTimeStampFastString": "2025-12-04T18:25:43.737Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T18:25:43.737Z"
     }
 }
