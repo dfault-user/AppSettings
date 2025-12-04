@@ -14107,7 +14107,7 @@
         "FFlagDeprecateAdsApiClient": "True",
         "FFlagAppChatAdjustWidthForNewFacePile": "True",
         "DFFlagEnableRecommendTopProductsApi2": "True",
-        "FFlagVoxelGridFixUpsample": "True",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagLuaAppChangeRecommendedGamesTitle": "True",
         "FFlagGroupServiceJoinPromptEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:31:26",
         "DFFlagReportServiceRollouts": "True",
@@ -14128,7 +14128,6 @@
         "FIntAXBuyDelayMilliseconds": "650",
         "FFlagAdaptiveAnimationsBetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:05:53",
         "DFFlagSimSolverUseNewApplyBuoyantForce_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:12:34",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "FFlagEnableAdsMouseUnlock": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -16065,6 +16064,7 @@
         "FFlagUGCValidateCurveAnimMinTimeFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:15:12",
         "FFlagRemoveLeftoverFromRobloxMainWindow": "True",
         "FFlagLuauIncludeExplicitGenericPacks": "True",
+        "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
         "FFlagVoxelGridFixRegionChanged": "True",
@@ -16558,9 +16558,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "31ea3861b5f80e04c6564cb8f63dbfd13b6b9c2f",
-        "DFStringFlagRepoGitHashDynamicString": "31ea3861b5f80e04c6564cb8f63dbfd13b6b9c2f",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:29:11.027Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:29:11.027Z"
+        "FStringFlagRepoGitHashFastString": "be7d9efe6fb096dd32fb15d8a2b9fecf3c3222b9",
+        "DFStringFlagRepoGitHashDynamicString": "be7d9efe6fb096dd32fb15d8a2b9fecf3c3222b9",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:29:30.165Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:29:30.165Z"
     }
 }
