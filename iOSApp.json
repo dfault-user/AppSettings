@@ -12609,7 +12609,7 @@
         "FFlagVoiceWebrtcConnectionOperationEnabled": "True",
         "DFFlagVoiceSdpCompressionSendProtoParseErrorTelemetry": "True",
         "FFlagEnableProfilePlatformDisabledReasonText": "True",
-        "FFlagLuaAppDerivedStackAndSwitchState": "False",
+        "FFlagLuaAppDerivedStackAndSwitchState": "True",
         "FFlagNewNavBarPlacementFixSocial": "True",
         "FFlagNewNavBarPlacementFixAvatar": "True",
         "DFFlagWebSocketHttpRequestType": "True",
@@ -14107,7 +14107,6 @@
         "FFlagAssistantSignalRDisconnect": "True",
         "FFlagDeprecateAdsApiClient": "True",
         "FFlagAppChatAdjustWidthForNewFacePile": "True",
-        "FFlagLuaAppDerivedStackAndSwitchState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1558020001;2025-12-04T00:19:02",
         "DFFlagEnableRecommendTopProductsApi2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T00:23:01",
         "FIntRelayoutPerFrameLimit_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1832201734;2025-12-04T00:44:26",
         "AllowVideoPreRoll": "True",
@@ -15148,9 +15147,9 @@
         "FFlagAppChatChatBubbleUIRevampIxpEnabled_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp;1273680133;dev_controlled",
         "FFlagAppChatEnableNewChatBubbleUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp;1273680133;dev_controlled",
         "FFlagAppChatEnableNewGameCardUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp;1273680133;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "7a91378df938703417b9b1155b1750d32c9aed5e",
-        "DFStringFlagRepoGitHashDynamicString": "7a91378df938703417b9b1155b1750d32c9aed5e",
-        "FStringFlipTimeStampFastString": "2025-12-04T01:07:49.754Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T01:07:49.754Z"
+        "FStringFlagRepoGitHashFastString": "9975110db645702fca03357e626bd5abd1ddd491",
+        "DFStringFlagRepoGitHashDynamicString": "9975110db645702fca03357e626bd5abd1ddd491",
+        "FStringFlipTimeStampFastString": "2025-12-04T01:21:39.463Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T01:21:39.463Z"
     }
 }
