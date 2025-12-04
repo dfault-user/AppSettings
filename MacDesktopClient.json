@@ -14110,7 +14110,7 @@
         "FFlagFixCountersForUpsellModalShown": "True",
         "FFlagAeroNormalizeLBFGSLoss": "True",
         "FFlagPlayerListUseMobileOnSmallDisplay2": "True",
-        "FFlagAXEnableUnifiedPurchaseFlowForLooks": "False",
+        "FFlagAXEnableUnifiedPurchaseFlowForLooks": "True",
         "DFFlagSimCacheHumanoidScale": "True",
         "FIntAXBuyDelayMilliseconds": "650",
         "FFlagDisableLargeReplicatorServerPatch": "True",
@@ -14681,11 +14681,11 @@
         "FFlagSimAeroFixReducedMeshScaling": "True",
         "FFlagAXCatalogSearchSupportUUID2_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogTaxonomyM20;514918795;dev_controlled",
         "FFlagAXUpdateTShirtTaxonomyUUID_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogTaxonomyM20;76838533;dev_controlled",
-        "FFlagAXEnableUnifiedPurchaseFlowForLooks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:57:26",
         "FFlagAXHttpCatalogV2SearchItemDetails_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogTaxonomyM20;268324113;dev_controlled",
         "FFlagAXHideMenuOnScrollLogExposure_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogTaxonomyM20;197226187;dev_controlled",
         "FFlagAvatarSwitcherCounters_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1429969109;2025-12-04T22:20:31",
         "FFlagRemoveClumps": "True",
+        "DFFlagSimOptimizeHumanoidRunning_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;843900108;2025-12-04T22:58:46",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15154,9 +15154,9 @@
         "FFlagFireErrorRCCTimeoutSignal": "True",
         "FFlagLuaAppExperienceDetailsLayoutOrderConfig2": "True",
         "FFlagLuaAppEdpBackendV2SduiInterleaveIxp3": "True",
-        "FStringFlagRepoGitHashFastString": "06f35d948009fb5a6d1a91034015d00cd656cc83",
-        "DFStringFlagRepoGitHashDynamicString": "06f35d948009fb5a6d1a91034015d00cd656cc83",
-        "FStringFlipTimeStampFastString": "2025-12-04T22:57:14.861Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T22:57:14.861Z"
+        "FStringFlagRepoGitHashFastString": "30634fc43a5c984099ca8f6d856f78912d1c3a22",
+        "DFStringFlagRepoGitHashDynamicString": "30634fc43a5c984099ca8f6d856f78912d1c3a22",
+        "FStringFlipTimeStampFastString": "2025-12-04T23:01:37.598Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T23:01:37.598Z"
     }
 }
