@@ -14130,9 +14130,6 @@
         "FFlagEnableRecordJoinAttemptIdForCEV": "True",
         "FFlagPerformanceControlEnableV2MemoryModifications": "True",
         "FFlagFixPartyNudgeNilThunkWhenLeave": "True",
-        "FFlagLuaAppDataHydrationUserVotesStore2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:27:29",
-        "FFlagLuaAppEdpBackendV2LogMissingFetchEventData3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:27:59",
-        "FFlagUpdate17to18age_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:29:46",
         "FFlagFixCrashWithQTableWidget2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:30:31",
         "FFlagFixGameSettingsLabelRegression_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:31:16",
         "FFlagLuaAppSduiExperienceDetailsComponents2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:31:30",
@@ -14154,6 +14151,9 @@
         "DFIntHttpMinimumIndividualResponseTimeoutMs_PlaceFilter": "120000;109556729607510;87596615831925;115423584490747",
         "FFlagLuaAppDataHydrationUpdateItem": "True",
         "FFlagLuaAppDataHydrationUserVoteFeedbackMetadataStore": "True",
+        "FFlagLuaAppDataHydrationUserVotesStore2": "True",
+        "FFlagLuaAppEdpBackendV2LogMissingFetchEventData3": "True",
+        "FFlagUpdate17to18age": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15208,11 +15208,11 @@
         "FFlagIASFixResetInRollback": "True",
         "FFlagRenderEmissiveMask5": "False",
         "FFlagPerformanceControlBudgetSystemRollout9_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Win_6;1695949279;flagbank",
-        "FFlagLuaAppExperienceDetailsLayoutOrderConfig2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:29:49",
         "FFlagLuaAppEdpBackendV2SduiInterleaveIxp3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:39:19",
-        "FStringFlagRepoGitHashFastString": "91c2a3e2ee593fd3ade71c36d8db919a6e8308dc",
-        "DFStringFlagRepoGitHashDynamicString": "91c2a3e2ee593fd3ade71c36d8db919a6e8308dc",
-        "FStringFlipTimeStampFastString": "2025-12-04T22:27:28.060Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T22:27:28.060Z"
+        "FFlagLuaAppExperienceDetailsLayoutOrderConfig2": "True",
+        "FStringFlagRepoGitHashFastString": "e1e7ed84c353f0ac3caa26c6b515be65598416d5",
+        "DFStringFlagRepoGitHashDynamicString": "e1e7ed84c353f0ac3caa26c6b515be65598416d5",
+        "FStringFlipTimeStampFastString": "2025-12-04T22:32:09.404Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T22:32:09.404Z"
     }
 }
