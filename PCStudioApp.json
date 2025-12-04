@@ -14144,7 +14144,6 @@
         "FFlagLuaAppDataHydrationUpdateItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:21:02",
         "FFlagLuaAppDataHydrationUserVoteFeedbackMetadataStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:23:06",
         "DFFlagCLI178331_Staged": "True;SteadyState;10;30;Revert;2025-12-04T21:25:07",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "FFlagLuaAppDataHydrationUserVotesStore2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:27:29",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:27:59",
         "AxisAdornmentGrabSize": "12",
@@ -14154,9 +14153,9 @@
         "FFlagSduiEnableAssociatedItemsRow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:32:19",
         "FFlagSduiEnableChips_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:33:19",
         "FFlagLuaAppDataHydrationPlayerCountGameInfoStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:34:15",
-        "FFlagEnableAdsMouseUnlock": "True",
         "FIntUSER_VOTE_CACHE_TTL_SECONDS_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:34:49",
         "FIntGameVoteThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:35:29",
+        "FFlagUniverseFilters_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:36:19",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -16087,6 +16086,8 @@
         "FFlagUGCValidateCurveAnimMinTimeFix": "True",
         "FFlagCommandBarHangMonitor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;669308498;2025-12-04T21:11:29",
         "FFlagRefactorPluginHangMonitor1_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;669308498;2025-12-04T21:11:29",
+        "FFlagEnableAdsMouseUnlock": "True",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -16584,9 +16585,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "a03eb4da2e5439d3341fb1b9f913a320f425f661",
-        "DFStringFlagRepoGitHashDynamicString": "a03eb4da2e5439d3341fb1b9f913a320f425f661",
-        "FStringFlipTimeStampFastString": "2025-12-04T21:37:37.592Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:37:37.592Z"
+        "FStringFlagRepoGitHashFastString": "310a923a4397002b979c02ffcefd3f4c56595a06",
+        "DFStringFlagRepoGitHashDynamicString": "310a923a4397002b979c02ffcefd3f4c56595a06",
+        "FStringFlipTimeStampFastString": "2025-12-04T21:39:33.671Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:39:33.671Z"
     }
 }

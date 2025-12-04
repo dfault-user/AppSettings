@@ -14144,7 +14144,6 @@
         "FFlagLuaAppDataHydrationUpdateItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:21:02",
         "FFlagLuaAppDataHydrationUserVoteFeedbackMetadataStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:23:06",
         "DFFlagCLI178331_Staged": "True;SteadyState;10;30;Revert;2025-12-04T21:25:07",
-        "FFlagSduiDeprecateLogAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;348926933;2025-12-04T21:25:37",
         "FFlagLuaAppDataHydrationUserVotesStore2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:27:29",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:27:59",
         "FFlagUpdate17to18age_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:29:46",
@@ -14154,9 +14153,9 @@
         "FFlagSduiEnableAssociatedItemsRow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:32:19",
         "FFlagSduiEnableChips_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:33:19",
         "FFlagLuaAppDataHydrationPlayerCountGameInfoStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:34:15",
-        "FFlagLuaAppSduiActionFiresOwnTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1606720141;2025-12-04T21:34:30",
         "FIntUSER_VOTE_CACHE_TTL_SECONDS_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:34:49",
         "FIntGameVoteThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:35:29",
+        "FFlagUniverseFilters_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:36:19",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14452,9 +14451,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "a03eb4da2e5439d3341fb1b9f913a320f425f661",
-        "DFStringFlagRepoGitHashDynamicString": "a03eb4da2e5439d3341fb1b9f913a320f425f661",
-        "FStringFlipTimeStampFastString": "2025-12-04T21:37:37.592Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:37:37.592Z"
+        "FStringFlagRepoGitHashFastString": "310a923a4397002b979c02ffcefd3f4c56595a06",
+        "DFStringFlagRepoGitHashDynamicString": "310a923a4397002b979c02ffcefd3f4c56595a06",
+        "FStringFlipTimeStampFastString": "2025-12-04T21:39:33.671Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:39:33.671Z"
     }
 }
