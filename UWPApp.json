@@ -14154,6 +14154,9 @@
         "FFlagSduiEnableAssociatedItemsRow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:32:19",
         "FFlagSduiEnableChips_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:33:19",
         "FFlagLuaAppDataHydrationPlayerCountGameInfoStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:34:15",
+        "FFlagLuaAppSduiActionFiresOwnTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1606720141;2025-12-04T21:34:30",
+        "FIntUSER_VOTE_CACHE_TTL_SECONDS_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:34:49",
+        "FIntGameVoteThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:35:29",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14449,9 +14452,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "fbb616ad15f525e603505a181659b77cc8ddda84",
-        "DFStringFlagRepoGitHashDynamicString": "fbb616ad15f525e603505a181659b77cc8ddda84",
-        "FStringFlipTimeStampFastString": "2025-12-04T21:35:53.686Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:35:53.686Z"
+        "FStringFlagRepoGitHashFastString": "a03eb4da2e5439d3341fb1b9f913a320f425f661",
+        "DFStringFlagRepoGitHashDynamicString": "a03eb4da2e5439d3341fb1b9f913a320f425f661",
+        "FStringFlipTimeStampFastString": "2025-12-04T21:37:37.592Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:37:37.592Z"
     }
 }

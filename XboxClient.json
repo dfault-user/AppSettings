@@ -14144,7 +14144,7 @@
         "FFlagLuaAppDataHydrationUpdateItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:21:02",
         "FFlagLuaAppDataHydrationUserVoteFeedbackMetadataStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:23:06",
         "DFFlagCLI178331_Staged": "True;SteadyState;10;30;Revert;2025-12-04T21:25:07",
-        "AllowVideoPreRoll": "True",
+        "AxisAdornmentGrabSize": "12",
         "FFlagLuaAppDataHydrationUserVotesStore2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:27:29",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:27:59",
         "FFlagUpdate17to18age_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:29:46",
@@ -14153,7 +14153,10 @@
         "FFlagLuaAppSduiExperienceDetailsComponents2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:31:30",
         "FFlagSduiEnableAssociatedItemsRow_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:32:19",
         "FFlagSduiEnableChips_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:33:19",
-        "AxisAdornmentGrabSize": "12",
+        "FFlagLuaAppDataHydrationPlayerCountGameInfoStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:34:15",
+        "AllowVideoPreRoll": "True",
+        "FIntUSER_VOTE_CACHE_TTL_SECONDS_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:34:49",
+        "FIntGameVoteThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:35:29",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14515,9 +14518,9 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagRenderEmissiveMask5": "False",
         "FFlagSduiActionHandlerSharedRegistry2": "False",
-        "FStringFlagRepoGitHashFastString": "ac3e67e1f2cf6c735654a1d65c1af053f3463988",
-        "DFStringFlagRepoGitHashDynamicString": "ac3e67e1f2cf6c735654a1d65c1af053f3463988",
-        "FStringFlipTimeStampFastString": "2025-12-04T21:35:28.993Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:35:28.993Z"
+        "FStringFlagRepoGitHashFastString": "a03eb4da2e5439d3341fb1b9f913a320f425f661",
+        "DFStringFlagRepoGitHashDynamicString": "a03eb4da2e5439d3341fb1b9f913a320f425f661",
+        "FStringFlipTimeStampFastString": "2025-12-04T21:37:37.592Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:37:37.592Z"
     }
 }
