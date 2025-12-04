@@ -14133,6 +14133,8 @@
         "DFFlagSimSolverUseNewApplyBuoyantForce": "True",
         "DFFlagReportCriticalMemoryBufferToSessionTracking": "True",
         "FFlagLuaAppDataHydrationSupportsMultiGet": "True",
+        "DFIntChatFloodCheckExpirySeconds_Staged": "120;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;354550765;2025-12-04T20:54:37",
+        "DFIntChatFloodCheckLimit_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;354550765;2025-12-04T20:54:37",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",

@@ -14133,6 +14133,8 @@
         "DFFlagSimSolverUseNewApplyBuoyantForce": "True",
         "DFFlagReportCriticalMemoryBufferToSessionTracking": "True",
         "FFlagLuaAppDataHydrationSupportsMultiGet": "True",
+        "DFIntChatFloodCheckExpirySeconds_Staged": "120;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;354550765;2025-12-04T20:54:37",
+        "DFIntChatFloodCheckLimit_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;354550765;2025-12-04T20:54:37",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16534,9 +16536,9 @@
         "FFlagRuntimeEnabled13": "False",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "4dc073939fd9418c83433f940038c1c817d96c2e",
-        "DFStringFlagRepoGitHashDynamicString": "4dc073939fd9418c83433f940038c1c817d96c2e",
-        "FStringFlipTimeStampFastString": "2025-12-04T20:52:01.843Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T20:52:01.843Z"
+        "FStringFlagRepoGitHashFastString": "1ac119952ab6278e26f24eaa788e7a59ba7a2e13",
+        "DFStringFlagRepoGitHashDynamicString": "1ac119952ab6278e26f24eaa788e7a59ba7a2e13",
+        "FStringFlipTimeStampFastString": "2025-12-04T20:55:46.191Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T20:55:46.191Z"
     }
 }
