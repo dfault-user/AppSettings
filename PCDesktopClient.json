@@ -14132,12 +14132,12 @@
         "DFIntChatFloodCheckExpirySeconds_Staged": "120;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;354550765;2025-12-04T20:54:37",
         "DFIntChatFloodCheckLimit_Staged": "3;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;354550765;2025-12-04T20:54:37",
         "FFlagLuaAppDataHydrationDataCacheReplaceItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:00:07",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagLuaAppDataHydrationDataResolverOnClear_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:02:42",
         "FFlagMoveCredentialsProtocolCheckToDidMount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1050531199;2025-12-04T21:05:17",
         "FFlagLuaAppDataHydrationFavoritesStore2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:05:36",
         "FFlagEnableRecordJoinAttemptIdForCEV": "True",
         "FFlagLuaAppDataHydrationDataCacheUpdateItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:06:01",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -15186,9 +15186,10 @@
         "FFlagIASFixResetInRollback": "True",
         "FFlagRenderEmissiveMask5": "False",
         "FFlagPerformanceControlBudgetSystemRollout9_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Win_6;1695949279;flagbank",
-        "FStringFlagRepoGitHashFastString": "7d28dd44279394fd09027fab0e93d6f064222ac3",
-        "DFStringFlagRepoGitHashDynamicString": "7d28dd44279394fd09027fab0e93d6f064222ac3",
-        "FStringFlipTimeStampFastString": "2025-12-04T21:07:47.742Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:07:47.742Z"
+        "FStringNetStackDummyClientEnabledMinorVersions_Staged": "701;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:07:34",
+        "FStringFlagRepoGitHashFastString": "941d511c471b9d873171f70fe3989dac36fbcf51",
+        "DFStringFlagRepoGitHashDynamicString": "941d511c471b9d873171f70fe3989dac36fbcf51",
+        "FStringFlipTimeStampFastString": "2025-12-04T21:09:37.527Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:09:37.527Z"
     }
 }
