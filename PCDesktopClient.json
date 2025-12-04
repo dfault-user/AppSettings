@@ -12049,7 +12049,7 @@
         "DFFlagSeparateChildIndexReporting": "True",
         "FFlagDecoupleScreenGuiFromPurchasePromptApp": "True",
         "FFlagLuauPassBindableGenericsByReference": "True",
-        "FFlagFilterNewPlayerListValueStat": "True",
+        "FFlagFilterNewPlayerListValueStat": "False",
         "FFlagLuaAppFixSearchGameGridInitialItemsPerRow": "True",
         "FFlagEnableFixAdsClickoutPassthroughSafeArea": "True",
         "FFlagFixUninitializedMenuKeyBindings": "True",
@@ -14108,7 +14108,6 @@
         "FFlagDeprecateAdsApiClient": "True",
         "FFlagAppChatAdjustWidthForNewFacePile": "True",
         "DFFlagEnableRecommendTopProductsApi2": "True",
-        "FFlagFilterNewPlayerListValueStat_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:05:24",
         "FFlagLuaAppDerivedStackAndSwitchState_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1558020001;2025-12-04T18:17:38",
         "FFlagDisableLargeReplicatorServerPatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:23:21",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -14131,6 +14130,7 @@
         "FFlagSimDetailedThrottlingTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:09:16",
         "FFlagUGCValidateCheckHSRFileData2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:01:27",
         "FIntAXBuyDelayMilliseconds": "650",
+        "FFlagAdaptiveAnimationsBetaFeature_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:05:53",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -15177,9 +15177,9 @@
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
         "FFlagRenderEmissiveMask5": "False",
-        "FStringFlagRepoGitHashFastString": "7edaf2ad2007e3ce14b7dbd190b73075b280ba77",
-        "DFStringFlagRepoGitHashDynamicString": "7edaf2ad2007e3ce14b7dbd190b73075b280ba77",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:11:11.450Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:11:11.450Z"
+        "FStringFlagRepoGitHashFastString": "390f736259057a79c261e203ffe0cf84217609c2",
+        "DFStringFlagRepoGitHashDynamicString": "390f736259057a79c261e203ffe0cf84217609c2",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:12:25.562Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:12:25.562Z"
     }
 }

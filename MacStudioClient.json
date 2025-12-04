@@ -12049,7 +12049,7 @@
         "DFFlagSeparateChildIndexReporting": "True",
         "FFlagDecoupleScreenGuiFromPurchasePromptApp": "True",
         "FFlagLuauPassBindableGenericsByReference": "True",
-        "FFlagFilterNewPlayerListValueStat": "True",
+        "FFlagFilterNewPlayerListValueStat": "False",
         "FFlagLuaAppFixSearchGameGridInitialItemsPerRow": "True",
         "FFlagEnableFixAdsClickoutPassthroughSafeArea": "True",
         "FFlagFixUninitializedMenuKeyBindings": "True",
@@ -14108,7 +14108,6 @@
         "FFlagDeprecateAdsApiClient": "True",
         "FFlagAppChatAdjustWidthForNewFacePile": "True",
         "DFFlagEnableRecommendTopProductsApi2": "True",
-        "FFlagFilterNewPlayerListValueStat_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:05:24",
         "FFlagLuaAppDerivedStackAndSwitchState_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1558020001;2025-12-04T18:17:38",
         "FFlagDisableLargeReplicatorServerPatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:23:21",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
@@ -16530,9 +16529,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "e9e09b1be473c06755591b546d8ecc29cfcd5167",
-        "DFStringFlagRepoGitHashDynamicString": "e9e09b1be473c06755591b546d8ecc29cfcd5167",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:11:36.355Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:11:36.355Z"
+        "FStringFlagRepoGitHashFastString": "390f736259057a79c261e203ffe0cf84217609c2",
+        "DFStringFlagRepoGitHashDynamicString": "390f736259057a79c261e203ffe0cf84217609c2",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:12:25.562Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:12:25.562Z"
     }
 }
