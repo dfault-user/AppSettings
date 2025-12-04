@@ -14109,6 +14109,8 @@
         "FFlagAppChatAdjustWidthForNewFacePile": "True",
         "DFFlagEnableRecommendTopProductsApi2": "True",
         "FFlagLuaAppChangeRecommendedGamesTitle_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T17:28:42",
+        "DFFlagReportServiceRollouts_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T17:31:41",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16034,7 +16036,6 @@
         "FStringAppChatChatBubbleUIRevampIxpLayer": "Party.ConversationPage",
         "FFlagEnableRestartServersRedirectInGameSettings": "True",
         "FFlagSTUDIOPLAT_41579_AddMachineIdLayer": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -16498,6 +16499,7 @@
         "FFlagAppChatEnableNewChatBubbleUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp;1273680133;dev_controlled",
         "FFlagAppChatEnableNewGameCardUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp;1273680133;dev_controlled",
         "FFlagTelemetryAddAppBuildVariantToPointsWithCallback": "True",
+        "FFlagAddFocusNavigationToUnifiedPurchase_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T17:30:47",
         "FFlagDebugLuaAppValidateProps": "True",
         "FStringFeature_CookieProtocolEnabled": "524;100",
         "FFlagPathEditorControlPointVisualImprovements2": "True",
@@ -16531,9 +16533,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "cfe9693676bb8493b53997c2d05940037fd2578e",
-        "DFStringFlagRepoGitHashDynamicString": "cfe9693676bb8493b53997c2d05940037fd2578e",
-        "FStringFlipTimeStampFastString": "2025-12-04T17:30:20.021Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T17:30:20.021Z"
+        "FStringFlagRepoGitHashFastString": "449959e5190e5f4b1a6d0c8d890f734dc887fef4",
+        "DFStringFlagRepoGitHashDynamicString": "449959e5190e5f4b1a6d0c8d890f734dc887fef4",
+        "FStringFlipTimeStampFastString": "2025-12-04T17:33:16.066Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T17:33:16.066Z"
     }
 }
