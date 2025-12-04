@@ -14107,7 +14107,6 @@
         "FFlagDeprecateAdsApiClient": "True",
         "FFlagAppChatAdjustWidthForNewFacePile": "True",
         "DFFlagEnableRecommendTopProductsApi2": "True",
-        "FFlagDisableLargeReplicatorServerPatch_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:23:21",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "FFlagLuaAppChangeRecommendedGamesTitle": "True",
         "FFlagGroupServiceJoinPromptEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:31:26",
@@ -14134,6 +14133,7 @@
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagDisableLargeReplicatorServerPatch": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "FFlagVoxelGridFixUpsample": "True",
@@ -14679,12 +14679,12 @@
         "FFlagAppChatEnableNewChatBubbleUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp;1273680133;dev_controlled",
         "FFlagAppChatEnableNewGameCardUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp;1273680133;dev_controlled",
         "FFlagTelemetryAddAppBuildVariantToPointsWithCallback": "True",
-        "FFlagFixLayeredClothingSpike_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:22:26",
         "FFlagAddFocusNavigationToUnifiedPurchase": "True",
         "FFlagRemoveCentralOverlayScrimForUnifiedPurchaseModal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:37:02",
         "FFlagUnifiedPurchaseFlowMarketplaceUIImprovementsV3": "True",
         "DFFlagNewReflectionUseReflectableAndStringableInDescriptors": "True",
         "DFFlagSimOptimizeHumanoidRunning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:14:27",
+        "FFlagFixLayeredClothingSpike": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15176,9 +15176,9 @@
         "FFlagEnableSocialUpsellButtonMediumSize": "False",
         "FFlagIASFixResetInRollback": "True",
         "FFlagRenderEmissiveMask5": "False",
-        "FStringFlagRepoGitHashFastString": "0a0bd8a945f707e3c30d58e41d7319b2671fdc6b",
-        "DFStringFlagRepoGitHashDynamicString": "0a0bd8a945f707e3c30d58e41d7319b2671fdc6b",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:21:48.387Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:21:48.387Z"
+        "FStringFlagRepoGitHashFastString": "699e75245602ff69aa9c31ece273dc7b70db1acb",
+        "DFStringFlagRepoGitHashDynamicString": "699e75245602ff69aa9c31ece273dc7b70db1acb",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:26:48.233Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:26:48.233Z"
     }
 }
