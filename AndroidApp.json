@@ -14107,7 +14107,6 @@
         "FFlagDeprecateAdsApiClient": "True",
         "FFlagAppChatAdjustWidthForNewFacePile": "True",
         "DFFlagEnableRecommendTopProductsApi2": "True",
-        "FFlagAddConnectionErrorLocalizationKeys_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:28:44",
         "FFlagLuaAppChangeRecommendedGamesTitle": "True",
         "FFlagGroupServiceJoinPromptEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:31:26",
         "DFFlagReportServiceRollouts": "True",
@@ -14133,6 +14132,7 @@
         "FFlagSduiSupportClientBindingAnalytics2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1062851331;2025-12-04T19:13:59",
         "FFlagDisableLargeReplicatorServerPatch": "True",
         "DFFlagReportCriticalMemoryBufferToSessionTracking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:27:52",
+        "FFlagAddConnectionErrorLocalizationKeys": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15110,9 +15110,9 @@
         "FFlagPersistDeferredBit": "True",
         "FFlagDeleteRoomDBEventsOnClientError": "True",
         "FFlagCollectDeferredAssetStats": "True",
-        "FStringFlagRepoGitHashFastString": "be7d9efe6fb096dd32fb15d8a2b9fecf3c3222b9",
-        "DFStringFlagRepoGitHashDynamicString": "be7d9efe6fb096dd32fb15d8a2b9fecf3c3222b9",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:29:30.165Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:29:30.165Z"
+        "FStringFlagRepoGitHashFastString": "a46430aeea6c64d64b9856392e5d59f5ee631d25",
+        "DFStringFlagRepoGitHashDynamicString": "a46430aeea6c64d64b9856392e5d59f5ee631d25",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:32:58.612Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:32:58.612Z"
     }
 }
