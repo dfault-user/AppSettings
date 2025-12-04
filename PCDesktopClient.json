@@ -14115,7 +14115,6 @@
         "FFlagAXEnableUnifiedPurchaseFlowForLooks": "False",
         "DFFlagSimCacheHumanoidScale": "True",
         "FIntAXBuyDelayMilliseconds": "650",
-        "DFFlagSimSolverUseNewApplyBuoyantForce_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:12:34",
         "FFlagDisableLargeReplicatorServerPatch": "True",
         "DFFlagReportCriticalMemoryBufferToSessionTracking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:27:52",
         "FFlagAddConnectionErrorLocalizationKeys": "True",
@@ -14132,6 +14131,8 @@
         "FFlagUGCValidateCheckHSRFileDataFix": "True",
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagAdaptiveAnimationsBetaFeature": "True",
+        "FFlagFixPartyNudgeNilThunkWhenLeave_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T20:15:12",
+        "DFFlagSimSolverUseNewApplyBuoyantForce": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14684,10 +14685,10 @@
         "FFlagAddFocusNavigationToUnifiedPurchase": "True",
         "FFlagUnifiedPurchaseFlowMarketplaceUIImprovementsV3": "True",
         "DFFlagNewReflectionUseReflectableAndStringableInDescriptors": "True",
-        "DFFlagSimOptimizeHumanoidRunning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:14:27",
         "FFlagFixLayeredClothingSpike": "True",
         "FFlagRemoveCentralOverlayScrimForUnifiedPurchaseModal": "True",
         "FFlagEnableLocalesForExperienceLanguageSwitcher3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T20:01:53",
+        "DFFlagSimOptimizeHumanoidRunning": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15180,9 +15181,9 @@
         "FFlagIASFixResetInRollback": "True",
         "FFlagRenderEmissiveMask5": "False",
         "FFlagPerformanceControlBudgetSystemRollout9_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Win_6;1695949279;flagbank",
-        "FStringFlagRepoGitHashFastString": "9263a4ff7ca0aa9185c88f083bf307038f029f8c",
-        "DFStringFlagRepoGitHashDynamicString": "9263a4ff7ca0aa9185c88f083bf307038f029f8c",
-        "FStringFlipTimeStampFastString": "2025-12-04T20:13:09.967Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T20:13:09.967Z"
+        "FStringFlagRepoGitHashFastString": "e4b3d8e23850082f94ec2b56ed889a1d14abd866",
+        "DFStringFlagRepoGitHashDynamicString": "e4b3d8e23850082f94ec2b56ed889a1d14abd866",
+        "FStringFlipTimeStampFastString": "2025-12-04T20:16:34.096Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T20:16:34.096Z"
     }
 }
