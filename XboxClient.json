@@ -14025,7 +14025,7 @@
         "DFFlagILikeToMoveItMoveIt": "True",
         "FFlagFixPasteShirtPantsInTeamCreate": "True",
         "FFlagGameSettingsAllowInsertFreeAssets2": "True",
-        "FFlagAppChatClosedEvent": "True",
+        "FFlagAppChatClosedEvent": "False",
         "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent": "10000",
         "FFlagExpChatGetLabelAndIconFromUtilUnibarHoldout": "True",
         "FFlagUIEditorFixScrollingFrame": "True",
@@ -14110,8 +14110,6 @@
         "FFlagLuaAppChangeRecommendedGamesTitle": "True",
         "DFFlagReportServiceRollouts": "True",
         "FFlagFixCountersForUpsellModalShown": "True",
-        "FFlagAXEnableUnifiedProductPurchaseForMarketplace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:35:55",
-        "FFlagAppChatClosedEvent_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1704929988;2025-12-04T18:39:30",
         "FLogKeyValueStorage_Staged": "Verbose;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;765519498;2025-12-04T18:40:34",
         "FLogSecretsController_Staged": "Verbose;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;765519498;2025-12-04T18:40:34",
         "FFlagAeroNormalizeLBFGSLoss": "True",
@@ -14134,6 +14132,7 @@
         "FFlagPerformanceControlEnableV2MemoryModifications_Staged": "True;SteadyState;10;30;Revert;2025-12-04T19:34:54",
         "FFlagLuaAppDataHydrationSupportsMultiGet_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:35:45",
         "FFlagGroupServiceJoinPromptEnabled": "True",
+        "FFlagAXEnableUnifiedProductPurchaseForMarketplace": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -14494,9 +14493,9 @@
         "FFlagSduiSupportClientBindingAnalytics2": "True",
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagRenderEmissiveMask5": "False",
-        "FStringFlagRepoGitHashFastString": "89f27bbd6a4bb4974919966eb50ebea8ffabe974",
-        "DFStringFlagRepoGitHashDynamicString": "89f27bbd6a4bb4974919966eb50ebea8ffabe974",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:38:26.242Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:38:26.242Z"
+        "FStringFlagRepoGitHashFastString": "507e038367cf40973a0e05e9f1556381a5b35416",
+        "DFStringFlagRepoGitHashDynamicString": "507e038367cf40973a0e05e9f1556381a5b35416",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:42:11.907Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:42:11.907Z"
     }
 }

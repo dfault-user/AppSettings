@@ -14025,7 +14025,7 @@
         "DFFlagILikeToMoveItMoveIt": "True",
         "FFlagFixPasteShirtPantsInTeamCreate": "True",
         "FFlagGameSettingsAllowInsertFreeAssets2": "True",
-        "FFlagAppChatClosedEvent": "True",
+        "FFlagAppChatClosedEvent": "False",
         "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent": "10000",
         "FFlagExpChatGetLabelAndIconFromUtilUnibarHoldout": "True",
         "FFlagUIEditorFixScrollingFrame": "True",
@@ -14110,8 +14110,6 @@
         "FFlagLuaAppChangeRecommendedGamesTitle": "True",
         "DFFlagReportServiceRollouts": "True",
         "FFlagFixCountersForUpsellModalShown": "True",
-        "FFlagAXEnableUnifiedProductPurchaseForMarketplace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:35:55",
-        "FFlagAppChatClosedEvent_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1704929988;2025-12-04T18:39:30",
         "FLogKeyValueStorage_Staged": "Verbose;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;765519498;2025-12-04T18:40:34",
         "FLogSecretsController_Staged": "Verbose;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;765519498;2025-12-04T18:40:34",
         "FFlagAeroNormalizeLBFGSLoss": "True",
@@ -14134,6 +14132,7 @@
         "FFlagPerformanceControlEnableV2MemoryModifications_Staged": "True;SteadyState;10;30;Revert;2025-12-04T19:34:54",
         "CaptureCountersIntervalInMinutes": "5",
         "FFlagGroupServiceJoinPromptEnabled": "True",
+        "FFlagAXEnableUnifiedProductPurchaseForMarketplace": "True",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -15165,11 +15164,11 @@
         "FFlagAppChatChatBubbleUIRevampIxpEnabled_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp;1273680133;dev_controlled",
         "FFlagAppChatEnableNewChatBubbleUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp;1273680133;dev_controlled",
         "FFlagAppChatEnableNewGameCardUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp;1273680133;dev_controlled",
-        "FFlagRemoveCentralOverlayScrimForUnifiedPurchaseModal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:37:02",
         "FFlagUnifiedPurchaseFlowMarketplaceUIImprovementsV3": "True",
-        "FStringFlagRepoGitHashFastString": "a735c4b6225af9fb80eb3dbe43bbb0eca22affb7",
-        "DFStringFlagRepoGitHashDynamicString": "a735c4b6225af9fb80eb3dbe43bbb0eca22affb7",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:41:52.433Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:41:52.433Z"
+        "FFlagRemoveCentralOverlayScrimForUnifiedPurchaseModal": "True",
+        "FStringFlagRepoGitHashFastString": "507e038367cf40973a0e05e9f1556381a5b35416",
+        "DFStringFlagRepoGitHashDynamicString": "507e038367cf40973a0e05e9f1556381a5b35416",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:42:11.907Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:42:11.907Z"
     }
 }
