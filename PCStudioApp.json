@@ -14155,6 +14155,7 @@
         "FIntUSER_VOTE_CACHE_TTL_SECONDS_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:34:49",
         "FIntGameVoteThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:35:29",
         "FFlagUniverseFilters_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:36:19",
+        "FIntReactSessionSummaryEventThrottleHunderedthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;433553848;2025-12-04T21:51:50",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -16585,9 +16586,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "1d6b912a664c98bca101dc8c319097ed59bc7362",
-        "DFStringFlagRepoGitHashDynamicString": "1d6b912a664c98bca101dc8c319097ed59bc7362",
-        "FStringFlipTimeStampFastString": "2025-12-04T21:51:46.712Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:51:46.712Z"
+        "FStringFlagRepoGitHashFastString": "baa542e7205e54bf5be1f03fedca660c5775e3b3",
+        "DFStringFlagRepoGitHashDynamicString": "baa542e7205e54bf5be1f03fedca660c5775e3b3",
+        "FStringFlipTimeStampFastString": "2025-12-04T21:52:47.782Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:52:47.782Z"
     }
 }
