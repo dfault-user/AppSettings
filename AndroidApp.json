@@ -14122,6 +14122,9 @@
         "DFFlagReportServiceRollouts": "True",
         "FFlagFixCountersForUpsellModalShown": "True",
         "FFlagAXEnableUnifiedProductPurchaseForMarketplace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:35:55",
+        "FFlagAppChatClosedEvent_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1704929988;2025-12-04T18:39:30",
+        "FLogKeyValueStorage_Staged": "Verbose;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;765519498;2025-12-04T18:40:34",
+        "FLogSecretsController_Staged": "Verbose;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;765519498;2025-12-04T18:40:34",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15099,9 +15102,9 @@
         "FFlagPersistDeferredBit": "True",
         "FFlagDeleteRoomDBEventsOnClientError": "True",
         "FFlagCollectDeferredAssetStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T17:44:58",
-        "FStringFlagRepoGitHashFastString": "b63e1298befa3a09aea61291e499ac16e9ce1360",
-        "DFStringFlagRepoGitHashDynamicString": "b63e1298befa3a09aea61291e499ac16e9ce1360",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:03:52.330Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:03:52.330Z"
+        "FStringFlagRepoGitHashFastString": "0b4c4f9c4fad153268ebcddd19d4ba404d6a8f61",
+        "DFStringFlagRepoGitHashDynamicString": "0b4c4f9c4fad153268ebcddd19d4ba404d6a8f61",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:05:36.793Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:05:36.793Z"
     }
 }

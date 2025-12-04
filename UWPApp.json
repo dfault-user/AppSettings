@@ -14121,6 +14121,10 @@
         "FFlagGroupServiceJoinPromptEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:31:26",
         "DFFlagReportServiceRollouts": "True",
         "FFlagFixCountersForUpsellModalShown": "True",
+        "FFlagAXEnableUnifiedProductPurchaseForMarketplace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:35:55",
+        "FFlagAppChatClosedEvent_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1704929988;2025-12-04T18:39:30",
+        "FLogKeyValueStorage_Staged": "Verbose;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;765519498;2025-12-04T18:40:34",
+        "FLogSecretsController_Staged": "Verbose;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;765519498;2025-12-04T18:40:34",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14416,9 +14420,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "04af141bb7bb6c879e4f277f5b1c30a2cf739183",
-        "DFStringFlagRepoGitHashDynamicString": "04af141bb7bb6c879e4f277f5b1c30a2cf739183",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:03:26.834Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:03:26.834Z"
+        "FStringFlagRepoGitHashFastString": "0ae93c4332deb674d0b093185c7574b0bfd8df96",
+        "DFStringFlagRepoGitHashDynamicString": "0ae93c4332deb674d0b093185c7574b0bfd8df96",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:05:09.918Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:05:09.918Z"
     }
 }
