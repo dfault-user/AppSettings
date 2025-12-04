@@ -14523,6 +14523,7 @@
         "DFFlagIdempotentDevProductPurchasingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2018199466;2025-12-04T23:24:13",
         "DFFlagRequestOrchestratorQueueExpirationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2018199466;2025-12-04T23:24:13",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs_Staged": "6000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2018199466;2025-12-04T23:24:13",
+        "DFIntSQLiteCacheMaxBlobSizeBytes_Staged": "15000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T23:28:35",
         "FStringFlagRepoGitHashFastString": "114fd584aabbdc95fb79a47ef11322debd59eeaa",
         "DFStringFlagRepoGitHashDynamicString": "114fd584aabbdc95fb79a47ef11322debd59eeaa",
         "FStringFlipTimeStampFastString": "2025-12-04T23:25:12.050Z",
