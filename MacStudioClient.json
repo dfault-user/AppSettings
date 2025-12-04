@@ -14080,7 +14080,7 @@
         "DFIntModelGenerationEventsThrottleHundredthsPercent": "1000",
         "FFlagIBV2Attribution": "True",
         "DFFlagCLI178222": "True",
-        "DFFlagStreamQuotaTimeWeight": "True",
+        "DFFlagStreamQuotaTimeWeight": "False",
         "FFlagSimRuntimeContentDiskStoreEnabled": "True",
         "FFlagUserProfileConsoleUseNewReportFlow": "True",
         "FFlagEnableLuaAccountPicker8": "True",
@@ -14111,7 +14111,6 @@
         "DFFlagReportServiceRollouts": "True",
         "FFlagFixCountersForUpsellModalShown": "True",
         "FFlagAeroNormalizeLBFGSLoss": "True",
-        "DFFlagStreamQuotaTimeWeight_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:51:19",
         "FFlagPlayerListUseMobileOnSmallDisplay2": "True",
         "FFlagAXEnableUnifiedPurchaseFlowForLooks": "False",
         "DFFlagSimCacheHumanoidScale": "True",
@@ -16533,9 +16532,9 @@
         "FFlagSimDetailedThrottlingTelemetry": "True",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "e94a0c490f518ee0f641f42996ef1c4bd3d4fcd9",
-        "DFStringFlagRepoGitHashDynamicString": "e94a0c490f518ee0f641f42996ef1c4bd3d4fcd9",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:52:04.745Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:52:04.745Z"
+        "FStringFlagRepoGitHashFastString": "fb3fc565edd96066d437e5985bde4725d6625077",
+        "DFStringFlagRepoGitHashDynamicString": "fb3fc565edd96066d437e5985bde4725d6625077",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:56:20.385Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:56:20.385Z"
     }
 }
