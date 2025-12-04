@@ -14129,7 +14129,6 @@
         "FFlagLuaAppDataHydrationSupportsMultiGet": "True",
         "FFlagEnableRecordJoinAttemptIdForCEV": "True",
         "FFlagPerformanceControlEnableV2MemoryModifications": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagFixPartyNudgeNilThunkWhenLeave": "True",
         "FFlagLuaAppDataHydrationUpdateItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:21:02",
         "FFlagLuaAppDataHydrationUserVoteFeedbackMetadataStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:23:06",
@@ -14153,6 +14152,8 @@
         "FFlagLuaAppDataHydrationFavoritesStore2": "True",
         "FFlagLuaAppDataHydrationFollowingsStore": "True",
         "DFIntRuntimeContentTelemetryHundredthsPercentage": "10000",
+        "DFFlagSimOptimizeHumanoidRunning": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14706,7 +14707,6 @@
         "DFFlagNewReflectionUseReflectableAndStringableInDescriptors": "True",
         "FFlagFixLayeredClothingSpike": "False",
         "FFlagRemoveCentralOverlayScrimForUnifiedPurchaseModal": "True",
-        "DFFlagSimOptimizeHumanoidRunning": "True",
         "FFlagEnableLocalesForExperienceLanguageSwitcher3": "True",
         "FFlagRemoveClumps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:33:43",
         "FFlagAXCatalogSearchSupportUUID2_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogTaxonomyM20;514918795;dev_controlled",
@@ -14714,6 +14714,7 @@
         "FFlagAXEnableUnifiedPurchaseFlowForLooks_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:57:26",
         "FFlagAXHttpCatalogV2SearchItemDetails_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogTaxonomyM20;268324113;dev_controlled",
         "FFlagAXHideMenuOnScrollLogExposure_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogTaxonomyM20;197226187;dev_controlled",
+        "FFlagAvatarSwitcherCounters_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1429969109;2025-12-04T22:20:31",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15208,9 +15209,9 @@
         "FFlagPerformanceControlBudgetSystemRollout9_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Win_6;1695949279;flagbank",
         "FFlagLuaAppExperienceDetailsLayoutOrderConfig2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:29:49",
         "FFlagLuaAppEdpBackendV2SduiInterleaveIxp3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:39:19",
-        "FStringFlagRepoGitHashFastString": "a346487809f161ab6e5616824f1b44fc13a3e22e",
-        "DFStringFlagRepoGitHashDynamicString": "a346487809f161ab6e5616824f1b44fc13a3e22e",
-        "FStringFlipTimeStampFastString": "2025-12-04T22:21:40.651Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T22:21:40.651Z"
+        "FStringFlagRepoGitHashFastString": "d7c95525fd6652193b57dbe3005f279ec0023434",
+        "DFStringFlagRepoGitHashDynamicString": "d7c95525fd6652193b57dbe3005f279ec0023434",
+        "FStringFlipTimeStampFastString": "2025-12-04T22:22:29.292Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T22:22:29.292Z"
     }
 }

@@ -14129,7 +14129,6 @@
         "FFlagLuaAppDataHydrationSupportsMultiGet": "True",
         "FFlagEnableRecordJoinAttemptIdForCEV": "True",
         "FFlagPerformanceControlEnableV2MemoryModifications": "True",
-        "DFFlagSimOptimizeHumanoidRunning_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:16:18",
         "FFlagFixPartyNudgeNilThunkWhenLeave": "True",
         "FFlagLuaAppDataHydrationUpdateItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:21:02",
         "FFlagLuaAppDataHydrationUserVoteFeedbackMetadataStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:23:06",
@@ -14153,6 +14152,7 @@
         "FFlagLuaAppDataHydrationFavoritesStore2": "True",
         "FFlagLuaAppDataHydrationFollowingsStore": "True",
         "DFIntRuntimeContentTelemetryHundredthsPercentage": "10000",
+        "DFFlagSimOptimizeHumanoidRunning": "False",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14448,9 +14448,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "a346487809f161ab6e5616824f1b44fc13a3e22e",
-        "DFStringFlagRepoGitHashDynamicString": "a346487809f161ab6e5616824f1b44fc13a3e22e",
-        "FStringFlipTimeStampFastString": "2025-12-04T22:21:40.651Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T22:21:40.651Z"
+        "FStringFlagRepoGitHashFastString": "d7c95525fd6652193b57dbe3005f279ec0023434",
+        "DFStringFlagRepoGitHashDynamicString": "d7c95525fd6652193b57dbe3005f279ec0023434",
+        "FStringFlipTimeStampFastString": "2025-12-04T22:22:29.292Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T22:22:29.292Z"
     }
 }
