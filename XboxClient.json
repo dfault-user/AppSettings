@@ -14116,7 +14116,6 @@
         "DFFlagSimCacheHumanoidScale": "True",
         "FIntAXBuyDelayMilliseconds": "650",
         "FFlagDisableLargeReplicatorServerPatch": "True",
-        "DFFlagReportCriticalMemoryBufferToSessionTracking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:27:52",
         "FFlagAddConnectionErrorLocalizationKeys": "True",
         "FFlagLuaAppDataHydrationSupportsMultiGet_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T19:35:45",
         "FFlagGroupServiceJoinPromptEnabled": "True",
@@ -14133,6 +14132,7 @@
         "FFlagAdaptiveAnimationsBetaFeature": "True",
         "FFlagFixPartyNudgeNilThunkWhenLeave_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T20:15:12",
         "DFFlagSimSolverUseNewApplyBuoyantForce": "True",
+        "DFFlagReportCriticalMemoryBufferToSessionTracking": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14496,9 +14496,9 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagRenderEmissiveMask5": "False",
         "FFlagSduiActionHandlerSharedRegistry2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;138533940;2025-12-04T19:50:27",
-        "FStringFlagRepoGitHashFastString": "e4b3d8e23850082f94ec2b56ed889a1d14abd866",
-        "DFStringFlagRepoGitHashDynamicString": "e4b3d8e23850082f94ec2b56ed889a1d14abd866",
-        "FStringFlipTimeStampFastString": "2025-12-04T20:16:34.096Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T20:16:34.096Z"
+        "FStringFlagRepoGitHashFastString": "56c41358b1e7b02dc4617cde7b015016f206d4bc",
+        "DFStringFlagRepoGitHashDynamicString": "56c41358b1e7b02dc4617cde7b015016f206d4bc",
+        "FStringFlipTimeStampFastString": "2025-12-04T20:31:31.884Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T20:31:31.884Z"
     }
 }
