@@ -14111,8 +14111,6 @@
         "DFFlagReportServiceRollouts": "True",
         "FFlagFixCountersForUpsellModalShown": "True",
         "FFlagAeroNormalizeLBFGSLoss": "True",
-        "FFlagAudioSpatializationEnableOverride_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:46:25",
-        "FFlagRobloxTelemetryFixHostNameKey_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:50:03",
         "DFFlagStreamQuotaTimeWeight_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:51:19",
         "FFlagPlayerListUseMobileOnSmallDisplay2": "True",
         "FFlagAXEnableUnifiedPurchaseFlowForLooks": "True",
@@ -14131,6 +14129,8 @@
         "FFlagAXEnableUnifiedProductPurchaseForMarketplace": "True",
         "FLogKeyValueStorage": "Verbose",
         "FLogSecretsController": "Verbose",
+        "FFlagAudioSpatializationEnableOverride": "True",
+        "FFlagRobloxTelemetryFixHostNameKey": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14426,9 +14426,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "73c6460b8bbd2facf0be7b914370eac0284d5490",
-        "DFStringFlagRepoGitHashDynamicString": "73c6460b8bbd2facf0be7b914370eac0284d5490",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:51:21.396Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:51:21.396Z"
+        "FStringFlagRepoGitHashFastString": "e94a0c490f518ee0f641f42996ef1c4bd3d4fcd9",
+        "DFStringFlagRepoGitHashDynamicString": "e94a0c490f518ee0f641f42996ef1c4bd3d4fcd9",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:52:04.745Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:52:04.745Z"
     }
 }

@@ -14111,8 +14111,6 @@
         "DFFlagReportServiceRollouts": "True",
         "FFlagFixCountersForUpsellModalShown": "True",
         "FFlagAeroNormalizeLBFGSLoss": "True",
-        "FFlagAudioSpatializationEnableOverride_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:46:25",
-        "FFlagRobloxTelemetryFixHostNameKey_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:50:03",
         "DFFlagStreamQuotaTimeWeight_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T18:51:19",
         "FFlagPlayerListUseMobileOnSmallDisplay2": "True",
         "FFlagAXEnableUnifiedPurchaseFlowForLooks": "False",
@@ -14131,6 +14129,8 @@
         "FFlagAXEnableUnifiedProductPurchaseForMarketplace": "True",
         "FLogKeyValueStorage": "Verbose",
         "FLogSecretsController": "Verbose",
+        "FFlagAudioSpatializationEnableOverride": "True",
+        "FFlagRobloxTelemetryFixHostNameKey": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15166,9 +15166,9 @@
         "FFlagAppChatEnableNewGameCardUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp;1273680133;dev_controlled",
         "FFlagUnifiedPurchaseFlowMarketplaceUIImprovementsV3": "True",
         "FFlagRemoveCentralOverlayScrimForUnifiedPurchaseModal": "True",
-        "FStringFlagRepoGitHashFastString": "a714199a35a70aa7914dc1ad3f445304736dcdd2",
-        "DFStringFlagRepoGitHashDynamicString": "a714199a35a70aa7914dc1ad3f445304736dcdd2",
-        "FStringFlipTimeStampFastString": "2025-12-04T19:51:45.391Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:51:45.391Z"
+        "FStringFlagRepoGitHashFastString": "e94a0c490f518ee0f641f42996ef1c4bd3d4fcd9",
+        "DFStringFlagRepoGitHashDynamicString": "e94a0c490f518ee0f641f42996ef1c4bd3d4fcd9",
+        "FStringFlipTimeStampFastString": "2025-12-04T19:52:04.745Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T19:52:04.745Z"
     }
 }
