@@ -14117,7 +14117,6 @@
         "FIntAXBuyDelayMilliseconds": "650",
         "FFlagDisableLargeReplicatorServerPatch": "True",
         "FFlagAddConnectionErrorLocalizationKeys": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagGroupServiceJoinPromptEnabled": "True",
         "FFlagAXEnableUnifiedProductPurchaseForMarketplace": "True",
         "FLogKeyValueStorage": "Verbose",
@@ -14133,6 +14132,8 @@
         "FFlagFixPartyNudgeNilThunkWhenLeave_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T20:15:12",
         "DFFlagSimSolverUseNewApplyBuoyantForce": "True",
         "DFFlagReportCriticalMemoryBufferToSessionTracking": "True",
+        "FFlagLuaAppDataHydrationSupportsMultiGet": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15102,7 +15103,6 @@
         "FFlagLuaAppDataHydrationDataResolverOnClear": "True",
         "FFlagLuaAppDataHydrationFavoritesStore2": "True",
         "FFlagLuaAppDataHydrationFollowingsStore": "True",
-        "FFlagLuaAppDataHydrationSupportsMultiGet": "True",
         "FFlagLuaAppDataHydrationUpdateItem": "True",
         "FFlagLuaAppDataHydrationUserVoteFeedbackMetadataStore": "True",
         "FFlagLuaAppDataHydrationUserVotesStore2": "True",
@@ -15168,9 +15168,9 @@
         "FFlagAppChatEnableNewGameCardUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp;1273680133;dev_controlled",
         "FFlagUnifiedPurchaseFlowMarketplaceUIImprovementsV3": "True",
         "FFlagRemoveCentralOverlayScrimForUnifiedPurchaseModal": "True",
-        "FStringFlagRepoGitHashFastString": "bbfe594680710e1a149289f94f586e436830fd30",
-        "DFStringFlagRepoGitHashDynamicString": "bbfe594680710e1a149289f94f586e436830fd30",
-        "FStringFlipTimeStampFastString": "2025-12-04T20:38:44.343Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T20:38:44.343Z"
+        "FStringFlagRepoGitHashFastString": "afac6f06221319c9e9c9777cf307746619982b67",
+        "DFStringFlagRepoGitHashDynamicString": "afac6f06221319c9e9c9777cf307746619982b67",
+        "FStringFlipTimeStampFastString": "2025-12-04T20:41:30.497Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T20:41:30.497Z"
     }
 }
