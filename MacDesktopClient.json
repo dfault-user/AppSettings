@@ -14127,7 +14127,6 @@
         "DFFlagSimSolverUseNewApplyBuoyantForce": "True",
         "DFFlagReportCriticalMemoryBufferToSessionTracking": "True",
         "FFlagLuaAppDataHydrationSupportsMultiGet": "True",
-        "FFlagLuaAppDataHydrationDataCacheReplaceItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:00:07",
         "FFlagLuaAppDataHydrationDataResolverOnClear_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:02:42",
         "FFlagMoveCredentialsProtocolCheckToDidMount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1050531199;2025-12-04T21:05:17",
         "FFlagLuaAppDataHydrationFavoritesStore2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:05:36",
@@ -14153,6 +14152,7 @@
         "FIntGameVoteThrottleHundrethsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:35:29",
         "FFlagUniverseFilters_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:36:19",
         "FIntReactSessionSummaryEventThrottleHunderedthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;433553848;2025-12-04T21:51:50",
+        "FFlagLuaAppDataHydrationDataCacheReplaceItem": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15151,9 +15151,9 @@
         "FStringNetStackDummyClientEnabledMinorVersions_Staged": "701;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:07:34",
         "FFlagLuaAppExperienceDetailsLayoutOrderConfig2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:29:49",
         "FFlagLuaAppEdpBackendV2SduiInterleaveIxp3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:39:19",
-        "FStringFlagRepoGitHashFastString": "bddbe9189531b5b6e0fe022b8139e6e763a9b4b1",
-        "DFStringFlagRepoGitHashDynamicString": "bddbe9189531b5b6e0fe022b8139e6e763a9b4b1",
-        "FStringFlipTimeStampFastString": "2025-12-04T22:01:54.328Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T22:01:54.328Z"
+        "FStringFlagRepoGitHashFastString": "be29a060061a38be1f2ddca0a541b8ba77a5a3dd",
+        "DFStringFlagRepoGitHashDynamicString": "be29a060061a38be1f2ddca0a541b8ba77a5a3dd",
+        "FStringFlipTimeStampFastString": "2025-12-04T22:02:20.444Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T22:02:20.444Z"
     }
 }
