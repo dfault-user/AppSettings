@@ -14096,7 +14096,7 @@
         "FFlagLuaAppChangeRecommendedGamesTitleLogExposure": "True",
         "DFFlagTextGenerationSchemaSupport": "True",
         "DFFlagRenderMeshBulkUploadIgnoreBudget": "True",
-        "FFlagAXUnifiedLoggingThunkPcall": "True",
+        "FFlagAXUnifiedLoggingThunkPcall": "False",
         "FFlagUpdateAllButtonFade": "True",
         "FFlagGenerationServiceEnableGenerateModel": "True",
         "FStringToolboxFiatMonetizableAssetTypesCSV2": "Plugin,Model",
@@ -14121,8 +14121,6 @@
         "FLogSecretsController": "Verbose",
         "FFlagAudioSpatializationEnableOverride": "True",
         "FFlagRobloxTelemetryFixHostNameKey": "True",
-        "FFlagAXUnifiedLoggingThunkPcall_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T20:01:09",
-        "FFlagEnableRecordJoinAttemptIdForCEV_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T20:05:04",
         "FFlagPerformanceControlEnableV2MemoryModifications_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T20:09:17",
         "FFlagUGCValidateCheckHSRFileDataFix": "True",
         "FFlagSimDetailedThrottlingTelemetry": "True",
@@ -14136,6 +14134,9 @@
         "FFlagLuaAppDataHydrationDataCacheReplaceItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:00:07",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagLuaAppDataHydrationDataResolverOnClear_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:02:42",
+        "FFlagMoveCredentialsProtocolCheckToDidMount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1050531199;2025-12-04T21:05:17",
+        "FFlagLuaAppDataHydrationFavoritesStore2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:05:36",
+        "FFlagEnableRecordJoinAttemptIdForCEV": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15125,10 +15126,10 @@
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagRenderEmissiveMask5": "False",
         "DFFlagVoiceWebrtcThreadSafeSubscriptionSetup": "True",
-        "FFlagFireErrorRCCTimeoutSignal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T20:03:27",
-        "FStringFlagRepoGitHashFastString": "25846a08f62dd26aefb0a0a7289313e770534d38",
-        "DFStringFlagRepoGitHashDynamicString": "25846a08f62dd26aefb0a0a7289313e770534d38",
-        "FStringFlipTimeStampFastString": "2025-12-04T21:04:39.197Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:04:39.197Z"
+        "FFlagFireErrorRCCTimeoutSignal": "True",
+        "FStringFlagRepoGitHashFastString": "36f7b16db12e709f24b209e2c3fed564c99d4a9c",
+        "DFStringFlagRepoGitHashDynamicString": "36f7b16db12e709f24b209e2c3fed564c99d4a9c",
+        "FStringFlipTimeStampFastString": "2025-12-04T21:07:27.024Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:07:27.024Z"
     }
 }
