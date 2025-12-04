@@ -14127,12 +14127,7 @@
         "DFFlagSimSolverUseNewApplyBuoyantForce": "True",
         "DFFlagReportCriticalMemoryBufferToSessionTracking": "True",
         "FFlagLuaAppDataHydrationSupportsMultiGet": "True",
-        "FFlagMoveCredentialsProtocolCheckToDidMount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1050531199;2025-12-04T21:05:17",
-        "FFlagLuaAppDataHydrationFavoritesStore2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:05:36",
         "FFlagEnableRecordJoinAttemptIdForCEV": "True",
-        "FFlagLuaAppDataHydrationDataCacheUpdateItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:06:01",
-        "FFlagLuaAppDataHydrationFollowingsStore_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:09:46",
-        "DFIntRuntimeContentTelemetryHundredthsPercentage_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:10:06",
         "FFlagPerformanceControlEnableV2MemoryModifications": "True",
         "DFFlagSimOptimizeHumanoidRunning_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:16:18",
         "FFlagFixPartyNudgeNilThunkWhenLeave": "True",
@@ -14154,6 +14149,10 @@
         "FFlagLuaAppDataHydrationDataCacheReplaceItem": "True",
         "FFlagLuaAppDataHydrationDataResolverOnClear": "True",
         "FFlagMoveCredentialsProtocolCheckToDidMount": "True",
+        "FFlagLuaAppDataHydrationDataCacheUpdateItem": "True",
+        "FFlagLuaAppDataHydrationFavoritesStore2": "True",
+        "FFlagLuaAppDataHydrationFollowingsStore": "True",
+        "DFIntRuntimeContentTelemetryHundredthsPercentage": "10000",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14517,9 +14516,9 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagRenderEmissiveMask5": "False",
         "FFlagSduiActionHandlerSharedRegistry2": "False",
-        "FStringFlagRepoGitHashFastString": "be29a060061a38be1f2ddca0a541b8ba77a5a3dd",
-        "DFStringFlagRepoGitHashDynamicString": "be29a060061a38be1f2ddca0a541b8ba77a5a3dd",
-        "FStringFlipTimeStampFastString": "2025-12-04T22:02:20.444Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T22:02:20.444Z"
+        "FStringFlagRepoGitHashFastString": "cb82bdb64e1a0390fdb725f8a7a1c8fa99d576d5",
+        "DFStringFlagRepoGitHashDynamicString": "cb82bdb64e1a0390fdb725f8a7a1c8fa99d576d5",
+        "FStringFlipTimeStampFastString": "2025-12-04T22:12:20.320Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T22:12:20.320Z"
     }
 }
