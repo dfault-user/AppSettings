@@ -14147,6 +14147,9 @@
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagLuaAppDataHydrationUserVotesStore2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:27:29",
         "FFlagLuaAppEdpBackendV2LogMissingFetchEventData3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:27:59",
+        "FFlagUpdate17to18age_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:29:46",
+        "FFlagFixCrashWithQTableWidget2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:30:31",
+        "FFlagFixGameSettingsLabelRegression_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:31:16",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -15137,9 +15140,10 @@
         "DFFlagVoiceWebrtcThreadSafeSubscriptionSetup": "True",
         "FFlagFireErrorRCCTimeoutSignal": "True",
         "FStringNetStackDummyClientEnabledMinorVersions_Staged": "701;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:07:34",
-        "FStringFlagRepoGitHashFastString": "69087a3475dfc83ebfae34712d1f52bd7f5c4f4a",
-        "DFStringFlagRepoGitHashDynamicString": "69087a3475dfc83ebfae34712d1f52bd7f5c4f4a",
-        "FStringFlipTimeStampFastString": "2025-12-04T21:29:14.721Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:29:14.721Z"
+        "FFlagLuaAppExperienceDetailsLayoutOrderConfig2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T21:29:49",
+        "FStringFlagRepoGitHashFastString": "fc1fec2a87c5ce485b3e9cb675ea4bb04c540256",
+        "DFStringFlagRepoGitHashDynamicString": "fc1fec2a87c5ce485b3e9cb675ea4bb04c540256",
+        "FStringFlipTimeStampFastString": "2025-12-04T21:32:01.482Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T21:32:01.482Z"
     }
 }
