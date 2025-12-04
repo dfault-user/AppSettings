@@ -15185,9 +15185,12 @@
         "DFFlagCrashMetricStorageEnableBufferConstantReporting_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.iOS;728410098;flagbank",
         "DFIntPerformanceControlCrashMetricAlgorithmType_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.iOS;728410098;flagbank",
         "FFlagAvatarSwitcherCounters": "True",
-        "FStringFlagRepoGitHashFastString": "38c63e6bffc626662daabfb23d8bc4a232d2fbc8",
-        "DFStringFlagRepoGitHashDynamicString": "38c63e6bffc626662daabfb23d8bc4a232d2fbc8",
-        "FStringFlipTimeStampFastString": "2025-12-04T23:23:46.663Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-04T23:23:46.663Z"
+        "DFFlagIdempotentDevProductPurchasingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2018199466;2025-12-04T23:24:13",
+        "DFFlagRequestOrchestratorQueueExpirationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2018199466;2025-12-04T23:24:13",
+        "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs_Staged": "6000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2018199466;2025-12-04T23:24:13",
+        "FStringFlagRepoGitHashFastString": "114fd584aabbdc95fb79a47ef11322debd59eeaa",
+        "DFStringFlagRepoGitHashDynamicString": "114fd584aabbdc95fb79a47ef11322debd59eeaa",
+        "FStringFlipTimeStampFastString": "2025-12-04T23:25:12.050Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-04T23:25:12.050Z"
     }
 }
