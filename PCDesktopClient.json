@@ -15199,7 +15199,7 @@
         "FFlagFixFACSRigsCache3": "False",
         "FFlagUsePaymentsProtocolFailureMetrics": "True",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB": "200",
-        "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Win_6;1695949279;flagbank",
+        "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Win_3;1942262366;flagbank",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Win_6;1695949279;flagbank",
         "FFlagUsePaymentsProtocolPurchaseTypeDimension": "True",
@@ -15224,9 +15224,12 @@
         "FFlagPerformanceControlBudgetSystemRollout9_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Win_6;1695949279;flagbank",
         "FFlagLuaAppExperienceDetailsLayoutOrderConfig2": "True",
         "FFlagLuaAppEdpBackendV2SduiInterleaveIxp3": "True",
-        "FStringFlagRepoGitHashFastString": "4bec57436889a7705112c56491310348424dc49c",
-        "DFStringFlagRepoGitHashDynamicString": "4bec57436889a7705112c56491310348424dc49c",
-        "FStringFlipTimeStampFastString": "2025-12-05T19:01:26.589Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:01:26.589Z"
+        "DFFlagCrashMetricStorageEnableBufferConstantReporting_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
+        "DFIntPerformanceControlCrashMetricAlgorithmType_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
+        "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
+        "FStringFlagRepoGitHashFastString": "a0e25d26dc2a4326bb0143dceefa261765e71377",
+        "DFStringFlagRepoGitHashDynamicString": "a0e25d26dc2a4326bb0143dceefa261765e71377",
+        "FStringFlipTimeStampFastString": "2025-12-05T19:03:28.316Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:03:28.316Z"
     }
 }
