@@ -14171,6 +14171,7 @@
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "DFIntLoadAssetDelayDiagHundredthsPercentage_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:21:55",
         "FFlagLGCPUFixAsyncShadowReadViolation2": "True",
+        "DFIntValidateUGCThrottleEventsServer_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:36:13",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14697,12 +14698,12 @@
         "FFlagAXHideMenuOnScrollLogExposure_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogTaxonomyM20;197226187;dev_controlled",
         "FFlagRemoveClumps": "True",
         "FFlagAvatarSwitcherCounters": "True",
-        "FFlagFixGrassMaterialConstantsThreadSafety_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:32:33",
-        "FFlagFixICWedgeUVs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:33:41",
         "FIntSduiPageTimerEventHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;361950595;2025-12-05T18:52:52",
         "FFlagAEGIS2UseGuacToShowFAEUpsell_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:03:04",
         "DFFlagStreamingMetricsGroupCount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:20:19",
         "FFlagSduiClientBinding4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1673763743;2025-12-05T19:23:56",
+        "FFlagFixGrassMaterialConstantsThreadSafety": "True",
+        "FFlagFixICWedgeUVs": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15175,9 +15176,9 @@
         "DFIntPerformanceControlCrashMetricAlgorithmType_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
-        "FStringFlagRepoGitHashFastString": "e1ef018a0852773b266019bccc9897366a5051fb",
-        "DFStringFlagRepoGitHashDynamicString": "e1ef018a0852773b266019bccc9897366a5051fb",
-        "FStringFlipTimeStampFastString": "2025-12-05T19:31:25.933Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:31:25.933Z"
+        "FStringFlagRepoGitHashFastString": "a9d76408b6fa38eff115fb36f991237137941475",
+        "DFStringFlagRepoGitHashDynamicString": "a9d76408b6fa38eff115fb36f991237137941475",
+        "FStringFlipTimeStampFastString": "2025-12-05T19:37:04.375Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:37:04.375Z"
     }
 }
