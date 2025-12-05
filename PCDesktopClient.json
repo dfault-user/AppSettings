@@ -14165,12 +14165,12 @@
         "FFlagEnableMemoryFillTest_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:55:10",
         "FFlagEnableMemoryFillTestIos_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:57:26",
         "FFlagEnableMemoryFillTestAndroid_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:58:17",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagLGCPUFixAsyncShadowReadViolation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:20:46",
         "DFIntTextChatServiceMaxMessagesPerExpiryTime": "10",
         "DFIntTextChatServiceMessageRateLimitExpiryTime": "30",
         "FFlagSduiDeprecateLogAction": "True",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14731,6 +14731,7 @@
         "FFlagAvatarSwitcherCounters": "True",
         "FFlagFixGrassMaterialConstantsThreadSafety_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:32:33",
         "FFlagFixICWedgeUVs_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:33:41",
+        "FIntSduiPageTimerEventHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;361950595;2025-12-05T18:52:52",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15225,9 +15226,9 @@
         "FFlagPerformanceControlBudgetSystemRollout9_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Win_6;1695949279;flagbank",
         "FFlagLuaAppExperienceDetailsLayoutOrderConfig2": "True",
         "FFlagLuaAppEdpBackendV2SduiInterleaveIxp3": "True",
-        "FStringFlagRepoGitHashFastString": "ac5c2ee7852a15beabaa43499c2eb31d4fa697a0",
-        "DFStringFlagRepoGitHashDynamicString": "ac5c2ee7852a15beabaa43499c2eb31d4fa697a0",
-        "FStringFlipTimeStampFastString": "2025-12-05T18:52:23.580Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T18:52:23.580Z"
+        "FStringFlagRepoGitHashFastString": "cddb9c2e0b77f2e5be9d9a7c714b55e4c96a208d",
+        "DFStringFlagRepoGitHashDynamicString": "cddb9c2e0b77f2e5be9d9a7c714b55e4c96a208d",
+        "FStringFlipTimeStampFastString": "2025-12-05T18:55:10.239Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T18:55:10.239Z"
     }
 }
