@@ -14160,7 +14160,6 @@
         "DFFlagGamePassesRequestOrchestratorEnabled2": "True",
         "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
         "DFFlagTextChatCopyOutgoingMessage_PlaceFilter": "True;2872154782",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagLGCPUFixAsyncShadowReadViolation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:20:46",
         "DFIntTextChatServiceMaxMessagesPerExpiryTime": "10",
         "DFIntTextChatServiceMessageRateLimitExpiryTime": "30",
@@ -14170,6 +14169,9 @@
         "DFFlagTextChatCopyOutgoingMessage": "True",
         "FFlagTrackPPPModelsInSetState": "True",
         "FFlagMeshEnableUploadOwnership_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:07:07",
+        "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
+        "DFIntLoadAssetDelayDiagHundredthsPercentage_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:21:55",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14692,7 +14694,6 @@
         "DFIntCLI179323ReportHundredthsPercent": "10000",
         "DFFlagCLI179323Enforce": "True",
         "FFlagAvatarSwitcherUseAvatarInventoryEndpoint": "True",
-        "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "FFlagAXUseNewChevronIcon": "True",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
         "FFlagSduiActionHandlerSharedRegistry2": "True",
@@ -15230,9 +15231,9 @@
         "DFFlagCrashMetricStorageEnableBufferConstantReporting_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "DFIntPerformanceControlCrashMetricAlgorithmType_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
-        "FStringFlagRepoGitHashFastString": "d82e6bca432d3c4f15173527f8ee96ace3836b44",
-        "DFStringFlagRepoGitHashDynamicString": "d82e6bca432d3c4f15173527f8ee96ace3836b44",
-        "FStringFlipTimeStampFastString": "2025-12-05T19:21:25.592Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:21:25.592Z"
+        "FStringFlagRepoGitHashFastString": "20a750b08f809c281a148e3e4ec90fb69adee9b3",
+        "DFStringFlagRepoGitHashDynamicString": "20a750b08f809c281a148e3e4ec90fb69adee9b3",
+        "FStringFlipTimeStampFastString": "2025-12-05T19:22:38.864Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:22:38.864Z"
     }
 }
