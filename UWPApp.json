@@ -14159,7 +14159,6 @@
         "DFFlagGamePassOwnershipOrchestratorEnabled2": "True",
         "DFFlagGamePassesRequestOrchestratorEnabled2": "True",
         "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
-        "DFIntTextChatServiceMessageRateLimitExpiryTime_Staged": "30;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1574396463;2025-12-05T17:37:04",
         "DFFlagTextChatCopyOutgoingMessage_PlaceFilter": "True;2872154782",
         "FFlagSduiDeprecateLogAction_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;348926933;2025-12-05T17:42:28",
         "DFFlagTextChatCopyOutgoingMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;765440120;2025-12-05T17:53:27",
@@ -14170,6 +14169,7 @@
         "FFlagLuaAppSduiActionFiresOwnTelemetry2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1606720141;2025-12-05T18:16:06",
         "FFlagLGCPUFixAsyncShadowReadViolation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:20:46",
         "DFIntTextChatServiceMaxMessagesPerExpiryTime": "10",
+        "DFIntTextChatServiceMessageRateLimitExpiryTime": "30",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14465,9 +14465,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "65669fb6a466c5a8ae5ce434901b491e84414a1b",
-        "DFStringFlagRepoGitHashDynamicString": "65669fb6a466c5a8ae5ce434901b491e84414a1b",
-        "FStringFlipTimeStampFastString": "2025-12-05T18:34:51.249Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T18:34:51.249Z"
+        "FStringFlagRepoGitHashFastString": "75e4549a51846ff59e7cd36239adbed5ee01b2dd",
+        "DFStringFlagRepoGitHashDynamicString": "75e4549a51846ff59e7cd36239adbed5ee01b2dd",
+        "FStringFlipTimeStampFastString": "2025-12-05T18:45:06.236Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T18:45:06.236Z"
     }
 }
