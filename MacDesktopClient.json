@@ -14159,7 +14159,6 @@
         "DFFlagGamePassOwnershipOrchestratorEnabled2": "True",
         "DFFlagGamePassesRequestOrchestratorEnabled2": "True",
         "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "DFIntTextChatServiceMaxMessagesPerExpiryTime_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1574396463;2025-12-05T17:37:04",
         "DFIntTextChatServiceMessageRateLimitExpiryTime_Staged": "30;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1574396463;2025-12-05T17:37:04",
         "DFFlagTextChatCopyOutgoingMessage_PlaceFilter": "True;2872154782",
@@ -14170,6 +14169,8 @@
         "FFlagEnableMemoryFillTestIos_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:57:26",
         "FFlagEnableMemoryFillTestAndroid_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:58:17",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagLGCPUFixAsyncShadowReadViolation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:20:46",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15164,9 +15165,9 @@
         "FFlagFireErrorRCCTimeoutSignal": "True",
         "FFlagLuaAppExperienceDetailsLayoutOrderConfig2": "True",
         "FFlagLuaAppEdpBackendV2SduiInterleaveIxp3": "True",
-        "FStringFlagRepoGitHashFastString": "87eb0fe30da790b22ff112c4f6ff2f21d9d5fa7d",
-        "DFStringFlagRepoGitHashDynamicString": "87eb0fe30da790b22ff112c4f6ff2f21d9d5fa7d",
-        "FStringFlipTimeStampFastString": "2025-12-05T18:17:04.478Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T18:17:04.478Z"
+        "FStringFlagRepoGitHashFastString": "e2b780ffda9637b26d4a258a4f3f281c6ba3c4bd",
+        "DFStringFlagRepoGitHashDynamicString": "e2b780ffda9637b26d4a258a4f3f281c6ba3c4bd",
+        "FStringFlipTimeStampFastString": "2025-12-05T18:21:51.542Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T18:21:51.542Z"
     }
 }
