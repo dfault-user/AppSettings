@@ -14160,7 +14160,6 @@
         "DFFlagGamePassesRequestOrchestratorEnabled2": "True",
         "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
         "DFFlagTextChatCopyOutgoingMessage_PlaceFilter": "True;2872154782",
-        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "DFFlagTextChatCopyOutgoingMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;765440120;2025-12-05T17:53:27",
         "FFlagTrackPPPModelsInSetState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:54:05",
         "FFlagEnableMemoryFillTest_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:55:10",
@@ -14170,6 +14169,8 @@
         "FFlagLGCPUFixAsyncShadowReadViolation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:20:46",
         "DFIntTextChatServiceMaxMessagesPerExpiryTime": "10",
         "DFIntTextChatServiceMessageRateLimitExpiryTime": "30",
+        "FFlagSduiDeprecateLogAction": "True",
+        "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -14690,7 +14691,6 @@
         "FFlagEnableUnifiedProductPurchaseFlowV37": "True",
         "DFFlagCLI179323": "True",
         "DFIntCLI179323ReportHundredthsPercent": "10000",
-        "FFlagSduiDeprecateLogAction": "True",
         "DFFlagCLI179323Enforce": "True",
         "FFlagAvatarSwitcherUseAvatarInventoryEndpoint": "True",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
@@ -15225,9 +15225,9 @@
         "FFlagPerformanceControlBudgetSystemRollout9_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_Win_6;1695949279;flagbank",
         "FFlagLuaAppExperienceDetailsLayoutOrderConfig2": "True",
         "FFlagLuaAppEdpBackendV2SduiInterleaveIxp3": "True",
-        "FStringFlagRepoGitHashFastString": "75e4549a51846ff59e7cd36239adbed5ee01b2dd",
-        "DFStringFlagRepoGitHashDynamicString": "75e4549a51846ff59e7cd36239adbed5ee01b2dd",
-        "FStringFlipTimeStampFastString": "2025-12-05T18:45:06.236Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T18:45:06.236Z"
+        "FStringFlagRepoGitHashFastString": "09652bf2babd11ec677638c4f1bd0399b41fe4c7",
+        "DFStringFlagRepoGitHashDynamicString": "09652bf2babd11ec677638c4f1bd0399b41fe4c7",
+        "FStringFlipTimeStampFastString": "2025-12-05T18:48:13.852Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T18:48:13.852Z"
     }
 }
