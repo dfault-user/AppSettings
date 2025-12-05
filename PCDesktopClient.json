@@ -14934,7 +14934,7 @@
         "FFlagEnableNavBarLabels3": "True",
         "FFlagUpdateNudgeV3VoiceBanUI2": "True",
         "FIntRuntimeMaxNumOfConditions": "2400",
-        "FIntRuntimeMaxNumOfMutexes": "2400",
+        "FIntRuntimeMaxNumOfMutexes": "3500",
         "FFlagGuildedGameOverlaySupport": "True",
         "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;18973713348",
         "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
@@ -15234,11 +15234,10 @@
         "DFFlagCrashMetricStorageEnableBufferConstantReporting_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "DFIntPerformanceControlCrashMetricAlgorithmType_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
-        "FIntRuntimeMaxNumOfMutexes_Staged": "3500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:30:21",
         "FStringNetStackDummyClientEnabledMinorVersions_Staged": ";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:47:03",
-        "FStringFlagRepoGitHashFastString": "f0433ef11914813ff463c1f27013b47d3336bf39",
-        "DFStringFlagRepoGitHashDynamicString": "f0433ef11914813ff463c1f27013b47d3336bf39",
-        "FStringFlipTimeStampFastString": "2025-12-05T20:26:33.325Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T20:26:33.325Z"
+        "FStringFlagRepoGitHashFastString": "77bca665592a0c681df264cb592f40207a265100",
+        "DFStringFlagRepoGitHashDynamicString": "77bca665592a0c681df264cb592f40207a265100",
+        "FStringFlipTimeStampFastString": "2025-12-05T20:31:46.449Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T20:31:46.449Z"
     }
 }
