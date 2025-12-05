@@ -10553,7 +10553,7 @@
         "FFlagAccessibilityPageUseFoundationToggle": "True",
         "FFlagSimAeroUseConstNumGeometryBatchesPerAssembly": "True",
         "FFlagDeinitRecordingWhenMuted4": "True",
-        "FFlagEnableMemoryFillTest": "True",
+        "FFlagEnableMemoryFillTest": "False",
         "FFlagEaseInMicWhenUnmuted": "True",
         "FFlagTimeToSelectReportExtras": "True",
         "DFIntCaptureVideoBitsPerPixelTimesThousand": "76",
@@ -14160,9 +14160,6 @@
         "DFFlagGamePassesRequestOrchestratorEnabled2": "True",
         "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
         "DFFlagTextChatCopyOutgoingMessage_PlaceFilter": "True;2872154782",
-        "DFFlagTextChatCopyOutgoingMessage_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;765440120;2025-12-05T17:53:27",
-        "FFlagTrackPPPModelsInSetState_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:54:05",
-        "FFlagEnableMemoryFillTest_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:55:10",
         "FFlagEnableMemoryFillTestIos_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:57:26",
         "FFlagEnableMemoryFillTestAndroid_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:58:17",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
@@ -14171,6 +14168,9 @@
         "DFIntTextChatServiceMessageRateLimitExpiryTime": "30",
         "FFlagSduiDeprecateLogAction": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagAJUDeathBehavior_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:55:34",
+        "DFFlagTextChatCopyOutgoingMessage": "True",
+        "FFlagTrackPPPModelsInSetState": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16585,9 +16585,9 @@
         "FFlagRuntimeEnabled13": "False",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "cddb9c2e0b77f2e5be9d9a7c714b55e4c96a208d",
-        "DFStringFlagRepoGitHashDynamicString": "cddb9c2e0b77f2e5be9d9a7c714b55e4c96a208d",
-        "FStringFlipTimeStampFastString": "2025-12-05T18:55:10.239Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T18:55:10.239Z"
+        "FStringFlagRepoGitHashFastString": "5dc907790706e50c7687e679ec973d7e8f1e06eb",
+        "DFStringFlagRepoGitHashDynamicString": "5dc907790706e50c7687e679ec973d7e8f1e06eb",
+        "FStringFlipTimeStampFastString": "2025-12-05T18:56:52.280Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T18:56:52.280Z"
     }
 }
