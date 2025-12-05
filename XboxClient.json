@@ -14163,7 +14163,6 @@
         "DFIntTextChatServiceMaxMessagesPerExpiryTime": "10",
         "DFIntTextChatServiceMessageRateLimitExpiryTime": "30",
         "FFlagSduiDeprecateLogAction": "True",
-        "AllowVideoPreRoll": "True",
         "FFlagAJUDeathBehavior_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:55:34",
         "DFFlagTextChatCopyOutgoingMessage": "True",
         "FFlagTrackPPPModelsInSetState": "True",
@@ -14172,9 +14171,10 @@
         "DFIntLoadAssetDelayDiagHundredthsPercentage_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:21:55",
         "FFlagLGCPUFixAsyncShadowReadViolation2": "True",
         "DFIntValidateUGCThrottleEventsServer_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:36:13",
-        "FFlagCharacterBreakJointsOnDeath_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:48:37",
         "DFFlagLrStatsEnhance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:52:31",
         "DFFlagStreamingSolverUpdateSpatialSetsFunc_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:53:53",
+        "FFlagSduiSupportClientBindingAnalytics2": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14531,14 +14531,13 @@
         "FFlagFMDVariableNumSubsetJoints_IXP": "1;Portal.FMDVariableNumSubsetJoints-1762981571;FMDVariableNumSubsetJoints;1449756257;flagbank",
         "FFlagUnibarMenuOpenHamburgerGamepadIXP684_IXP": "1;Experience.Menu;Unibar.InExperience.Controls.ConsoleV4;1272844578;flagbank",
         "FFlagAddFriendsIgnoreAllRefactor": "True",
-        "FFlagSduiSupportClientBindingAnalytics2": "True",
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagRenderEmissiveMask5": "False",
         "FFlagSduiActionHandlerSharedRegistry2": "False",
         "FFlagAEGIS2UseGuacToShowFAEUpsell_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:03:04",
-        "FStringFlagRepoGitHashFastString": "3fd3d234556fb247a4d3d3b688c4847e3fbb7aa6",
-        "DFStringFlagRepoGitHashDynamicString": "3fd3d234556fb247a4d3d3b688c4847e3fbb7aa6",
-        "FStringFlipTimeStampFastString": "2025-12-05T19:54:50.642Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:54:50.642Z"
+        "FStringFlagRepoGitHashFastString": "8ed9936d2de6dbae4ad437fe19148f300969a1ee",
+        "DFStringFlagRepoGitHashDynamicString": "8ed9936d2de6dbae4ad437fe19148f300969a1ee",
+        "FStringFlipTimeStampFastString": "2025-12-05T19:57:25.970Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:57:25.970Z"
     }
 }
