@@ -10601,7 +10601,7 @@
         "DFFlagNoOutputFromLuau": "True",
         "FFlagLuauCollapseShouldNotCrash": "True",
         "FFlagLuaAppBootcampIntroUABOOTCAMP90": "True",
-        "FFlagEnableMemoryFillTestAndroid": "True",
+        "FFlagEnableMemoryFillTestAndroid": "False",
         "FFlagLuaAppExplicitErrorOnWidthForSeeAll2": "True",
         "FFlagWindowsNativeAdsSkipNotImplemented": "True",
         "DFFlagSimAeroClearLinearForceMeshData": "True",
@@ -10668,7 +10668,7 @@
         "FFlagEnablePreferredTextSizeGuiService": "True",
         "FFlagProfilePlatformEnablePlayedTogetherContextFrequentExperienceName": "True",
         "FFlagWebBrowserEnablePreInitializeSuspend": "True",
-        "FFlagEnableMemoryFillTestIos": "True",
+        "FFlagEnableMemoryFillTestIos": "False",
         "FFlagFixMemoryFillTestCleanupForIos": "True",
         "FFlagAvatarGenerationSelfieConsent": "True",
         "FFlagEditableMeshBinaryStringConstructorThrowOnError": "True",
@@ -14160,8 +14160,6 @@
         "DFFlagGamePassesRequestOrchestratorEnabled2": "True",
         "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
         "DFFlagTextChatCopyOutgoingMessage_PlaceFilter": "True;2872154782",
-        "FFlagEnableMemoryFillTestIos_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:57:26",
-        "FFlagEnableMemoryFillTestAndroid_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:58:17",
         "FFlagEnableAdsMouseUnlock": "True",
         "FFlagLGCPUFixAsyncShadowReadViolation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:20:46",
         "DFIntTextChatServiceMaxMessagesPerExpiryTime": "10",
@@ -16619,9 +16617,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "08a6d390b21b8306f262466269a20a4274c71506",
-        "DFStringFlagRepoGitHashDynamicString": "08a6d390b21b8306f262466269a20a4274c71506",
-        "FStringFlipTimeStampFastString": "2025-12-05T18:58:18.535Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T18:58:18.535Z"
+        "FStringFlagRepoGitHashFastString": "4bec57436889a7705112c56491310348424dc49c",
+        "DFStringFlagRepoGitHashDynamicString": "4bec57436889a7705112c56491310348424dc49c",
+        "FStringFlipTimeStampFastString": "2025-12-05T19:01:26.589Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:01:26.589Z"
     }
 }
