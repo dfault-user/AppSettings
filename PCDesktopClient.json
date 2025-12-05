@@ -14163,7 +14163,6 @@
         "DFIntTextChatServiceMaxMessagesPerExpiryTime": "10",
         "DFIntTextChatServiceMessageRateLimitExpiryTime": "30",
         "FFlagSduiDeprecateLogAction": "True",
-        "FFlagAJUDeathBehavior_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:55:34",
         "DFFlagTextChatCopyOutgoingMessage": "True",
         "FFlagTrackPPPModelsInSetState": "True",
         "FFlagMeshEnableUploadOwnership_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:07:07",
@@ -14174,6 +14173,7 @@
         "DFFlagLrStatsEnhance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:52:31",
         "DFFlagStreamingSolverUpdateSpatialSetsFunc_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:53:53",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
+        "FFlagAJUDeathBehavior": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14732,12 +14732,12 @@
         "FFlagAXHideMenuOnScrollLogExposure_IXP": "1;AvatarExperience.UA.MarketplaceView;AvatarMarketplace.UA.CatalogTaxonomyM20;197226187;dev_controlled",
         "FFlagRemoveClumps": "True",
         "FFlagAvatarSwitcherCounters": "True",
-        "FFlagAEGIS2UseGuacToShowFAEUpsell_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:03:04",
         "DFFlagStreamingMetricsGroupCount_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:20:19",
         "FFlagSduiClientBinding4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1673763743;2025-12-05T19:23:56",
         "FFlagFixGrassMaterialConstantsThreadSafety": "True",
         "FFlagFixICWedgeUVs": "True",
         "FIntSduiPageTimerEventHundredthsPercent": "10000",
+        "FFlagAEGIS2UseGuacToShowFAEUpsell": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15237,9 +15237,9 @@
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "FIntRuntimeMaxNumOfMutexes_Staged": "3500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:30:21",
         "FStringNetStackDummyClientEnabledMinorVersions_Staged": ";SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:47:03",
-        "FStringFlagRepoGitHashFastString": "d2c92d82317e6a06482fd51ee072e516dc62c4d0",
-        "DFStringFlagRepoGitHashDynamicString": "d2c92d82317e6a06482fd51ee072e516dc62c4d0",
-        "FStringFlipTimeStampFastString": "2025-12-05T20:00:10.338Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T20:00:10.338Z"
+        "FStringFlagRepoGitHashFastString": "47197ad9eaef4e5760c1e505b5e592c00e2fbdfc",
+        "DFStringFlagRepoGitHashDynamicString": "47197ad9eaef4e5760c1e505b5e592c00e2fbdfc",
+        "FStringFlipTimeStampFastString": "2025-12-05T20:06:43.618Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T20:06:43.618Z"
     }
 }

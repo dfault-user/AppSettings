@@ -14163,7 +14163,6 @@
         "DFIntTextChatServiceMaxMessagesPerExpiryTime": "10",
         "DFIntTextChatServiceMessageRateLimitExpiryTime": "30",
         "FFlagSduiDeprecateLogAction": "True",
-        "FFlagAJUDeathBehavior_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:55:34",
         "DFFlagTextChatCopyOutgoingMessage": "True",
         "FFlagTrackPPPModelsInSetState": "True",
         "FFlagMeshEnableUploadOwnership_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:07:07",
@@ -14174,6 +14173,7 @@
         "DFFlagLrStatsEnhance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:52:31",
         "DFFlagStreamingSolverUpdateSpatialSetsFunc_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:53:53",
         "FFlagSduiSupportClientBindingAnalytics2": "True",
+        "FFlagAJUDeathBehavior": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15198,12 +15198,12 @@
         "DFIntPerformanceControlCrashMetricAlgorithmType_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.iOS;728410098;flagbank",
         "FFlagAvatarSwitcherCounters": "True",
         "FFlagEnableDeepLinkHistoryWithModalAPI2": "True",
-        "FFlagAEGIS2UseGuacToShowFAEUpsell_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:03:04",
         "FFlagSduiClientBinding4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1673763743;2025-12-05T19:23:56",
         "FIntSduiPageTimerEventHundredthsPercent": "10000",
-        "FStringFlagRepoGitHashFastString": "d2c92d82317e6a06482fd51ee072e516dc62c4d0",
-        "DFStringFlagRepoGitHashDynamicString": "d2c92d82317e6a06482fd51ee072e516dc62c4d0",
-        "FStringFlipTimeStampFastString": "2025-12-05T20:00:10.338Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T20:00:10.338Z"
+        "FFlagAEGIS2UseGuacToShowFAEUpsell": "True",
+        "FStringFlagRepoGitHashFastString": "47197ad9eaef4e5760c1e505b5e592c00e2fbdfc",
+        "DFStringFlagRepoGitHashDynamicString": "47197ad9eaef4e5760c1e505b5e592c00e2fbdfc",
+        "FStringFlipTimeStampFastString": "2025-12-05T20:06:43.618Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T20:06:43.618Z"
     }
 }
