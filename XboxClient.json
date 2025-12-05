@@ -14157,10 +14157,9 @@
         "DFFlagGamePassesRequestOrchestratorEnabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T23:43:38",
         "DFFlagSimCSG4CorrectNegateUsePartColor": "True",
         "DFFlagActionsCanLiveAsChildrenOfStarterPlayer": "True",
-        "DFIntSQLiteCacheMaxBlobSizeBytes_Staged": "15000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-04T23:28:35",
+        "AllowVideoPreRoll": "True",
         "DFFlagLrStatsEnhance_Staged": "True;SteadyState;10;30;Revert;2025-12-05T00:06:57",
         "FFlagFixSettingVoiceSpeakerDevices": "True",
-        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -14523,9 +14522,10 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagRenderEmissiveMask5": "False",
         "FFlagSduiActionHandlerSharedRegistry2": "False",
-        "FStringFlagRepoGitHashFastString": "fa361c2b0e3d27d49fc803a06267d349327bb275",
-        "DFStringFlagRepoGitHashDynamicString": "fa361c2b0e3d27d49fc803a06267d349327bb275",
-        "FStringFlipTimeStampFastString": "2025-12-05T00:29:54.838Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T00:29:54.838Z"
+        "DFIntSQLiteCacheMaxBlobSizeBytes": "15000",
+        "FStringFlagRepoGitHashFastString": "64379a68713ab465434178d2a7ec956ba088b66f",
+        "DFStringFlagRepoGitHashDynamicString": "64379a68713ab465434178d2a7ec956ba088b66f",
+        "FStringFlipTimeStampFastString": "2025-12-05T00:31:59.951Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T00:31:59.951Z"
     }
 }
