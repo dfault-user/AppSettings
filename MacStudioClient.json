@@ -13928,7 +13928,7 @@
         "FFlagVoiceStartRunningOperationsOnVoiceJoin": "True",
         "FFlagLuaAppOmniRecommendationsCacheWrite1": "True",
         "DFFlagBase64NewDecodeStrict": "True",
-        "FFlagRefactorIngressFlow": "True",
+        "FFlagRefactorIngressFlow": "False",
         "FFlagSimRuntimeContentNetworkSchema": "True",
         "DFFlagBGDropPatch3": "True",
         "FFlagPerformanceControlExposeMemoryPressureLevels": "True",
@@ -14159,7 +14159,6 @@
         "DFFlagGamePassOwnershipOrchestratorEnabled2": "True",
         "DFFlagGamePassesRequestOrchestratorEnabled2": "True",
         "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
-        "FFlagRefactorIngressFlow_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T17:02:10",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "DFIntTextChatServiceMaxMessagesPerExpiryTime_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1574396463;2025-12-05T17:37:04",
         "DFIntTextChatServiceMessageRateLimitExpiryTime_Staged": "30;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1574396463;2025-12-05T17:37:04",
@@ -16577,9 +16576,9 @@
         "FFlagRuntimeEnabled13": "False",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "8782571e4794d62138212564ce5d621cc3456f2d",
-        "DFStringFlagRepoGitHashDynamicString": "8782571e4794d62138212564ce5d621cc3456f2d",
-        "FStringFlipTimeStampFastString": "2025-12-05T17:59:02.133Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T17:59:02.133Z"
+        "FStringFlagRepoGitHashFastString": "bac22be453c80b8315a871f321b2fbaf36457c73",
+        "DFStringFlagRepoGitHashDynamicString": "bac22be453c80b8315a871f321b2fbaf36457c73",
+        "FStringFlipTimeStampFastString": "2025-12-05T18:06:35.979Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T18:06:35.979Z"
     }
 }
