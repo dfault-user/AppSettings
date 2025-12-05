@@ -14173,6 +14173,7 @@
         "FFlagLGCPUFixAsyncShadowReadViolation2": "True",
         "DFIntValidateUGCThrottleEventsServer_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:36:13",
         "FFlagCharacterBreakJointsOnDeath_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:48:37",
+        "DFFlagLrStatsEnhance_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:52:31",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15177,9 +15178,9 @@
         "DFIntPerformanceControlCrashMetricAlgorithmType_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
-        "FStringFlagRepoGitHashFastString": "3837892c7c95e1cf595a14155490731381830be9",
-        "DFStringFlagRepoGitHashDynamicString": "3837892c7c95e1cf595a14155490731381830be9",
-        "FStringFlipTimeStampFastString": "2025-12-05T19:50:46.647Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:50:46.647Z"
+        "FStringFlagRepoGitHashFastString": "7d4be89ce21aa633dcb88908b6d6df86a2069a49",
+        "DFStringFlagRepoGitHashDynamicString": "7d4be89ce21aa633dcb88908b6d6df86a2069a49",
+        "FStringFlipTimeStampFastString": "2025-12-05T19:53:20.634Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:53:20.634Z"
     }
 }
