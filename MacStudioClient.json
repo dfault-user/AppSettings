@@ -14160,7 +14160,6 @@
         "DFFlagGamePassesRequestOrchestratorEnabled2": "True",
         "DFIntSQLiteCacheMaxBlobSizeBytes": "32000",
         "DFFlagTextChatCopyOutgoingMessage_PlaceFilter": "True;2872154782",
-        "FFlagLGCPUFixAsyncShadowReadViolation2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T18:20:46",
         "DFIntTextChatServiceMaxMessagesPerExpiryTime": "10",
         "DFIntTextChatServiceMessageRateLimitExpiryTime": "30",
         "FFlagSduiDeprecateLogAction": "True",
@@ -14171,6 +14170,7 @@
         "FFlagMeshEnableUploadOwnership_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:07:07",
         "FFlagLuaAppSduiActionFiresOwnTelemetry2": "True",
         "DFIntLoadAssetDelayDiagHundredthsPercentage_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-05T19:21:55",
+        "FFlagLGCPUFixAsyncShadowReadViolation2": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16597,9 +16597,9 @@
         "FFlagRuntimeEnabled13": "False",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "0dc8227d09417093a84743d4e80e23686264c3cb",
-        "DFStringFlagRepoGitHashDynamicString": "0dc8227d09417093a84743d4e80e23686264c3cb",
-        "FStringFlipTimeStampFastString": "2025-12-05T19:24:47.071Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:24:47.071Z"
+        "FStringFlagRepoGitHashFastString": "edf3e7d710bd72375479e08d61226834f08005c9",
+        "DFStringFlagRepoGitHashDynamicString": "edf3e7d710bd72375479e08d61226834f08005c9",
+        "FStringFlipTimeStampFastString": "2025-12-05T19:26:33.247Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-05T19:26:33.247Z"
     }
 }
