@@ -14215,9 +14215,6 @@
         "FFlagAXUpdateAnalyticsFiltersEnums": "True",
         "FFlagAXWidgetImpressionThemeId": "True",
         "DFFlagInputActionSystem_AnalyticsEnabled_Counters2": "True",
-        "FFlagCrashReportStudioStreamingCorrectly_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:47:14",
-        "FIntDefaultInstances2BetaFeatureRolloutPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:48:13",
-        "FFlagFoundationFixOptionSelectorGroupItemSize_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:49:02",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "FFlagExplorerFixPackageLinkIconColor": "True",
@@ -14236,6 +14233,9 @@
         "FStringContactsListEmojiSortingIxpLayer_Staged": "Social.ContactsList;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:29:31",
         "FFlagContactsListEmojiSortingIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:29:35",
         "FFlagCommandBarToggleSavedTelemetry": "True",
+        "FFlagFoundationFixOptionSelectorGroupItemSize": "True",
+        "FFlagCrashReportStudioStreamingCorrectly": "True",
+        "FIntDefaultInstances2BetaFeatureRolloutPercent": "100",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -16656,9 +16656,9 @@
         "FFlagRuntimeEnabled13": "False",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "6d2b50e29930c9954c2fbef33a8cad5e32ab3c42",
-        "DFStringFlagRepoGitHashDynamicString": "6d2b50e29930c9954c2fbef33a8cad5e32ab3c42",
-        "FStringFlipTimeStampFastString": "2025-12-08T23:46:50.566Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-08T23:46:50.566Z"
+        "FStringFlagRepoGitHashFastString": "b921edd9cce13812544a3ad596b241ef61d8e801",
+        "DFStringFlagRepoGitHashDynamicString": "b921edd9cce13812544a3ad596b241ef61d8e801",
+        "FStringFlipTimeStampFastString": "2025-12-08T23:57:30.110Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-08T23:57:30.110Z"
     }
 }
