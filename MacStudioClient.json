@@ -14184,9 +14184,7 @@
         "FFlagEnableKeyboardHeightReport": "True",
         "FFlagFixFooterInnerContentReportMobile": "True",
         "DFFlagMemoryStoreEnableStartupLocalThrottling": "True",
-        "FFlagProfilePlatformUnfriendPrimaryActionEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1277315487;2025-12-08T18:40:54",
         "FFlagUpdateJoinVoiceToastSubtitle_AEGIS2": "True",
-        "FFlagLuaAppIedpSendPoints_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T18:44:39",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagLuaAppIedpOverlayAndNavigationFix": "True",
         "FFlagSimRuntimeContentStartUpCleanUp": "True",
@@ -14202,6 +14200,9 @@
         "DFFlagSimOptimizeHumanoidPlayer": "True",
         "FFlagAXUnifiedLoggingThunkPcall_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T19:41:03",
         "FFlagD3D11TextureCrashOnDownloadOom_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T19:41:25",
+        "FFlagProfilePlatformUnfriendPrimaryActionEnabled": "True",
+        "FFlagLuaAppIedpSendPoints": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16150,7 +16151,6 @@
         "FFlagUGCValidationShadowIsDynamicHead": "True",
         "FFlagLuauRefineNoRefineAlways2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T18:49:48",
         "FFlagLuauPushTypeConstraintLambdas2_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T19:21:50",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -16624,9 +16624,9 @@
         "FFlagRuntimeEnabled13": "False",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "28cff9960e41457299fe659532d776bc7e932e76",
-        "DFStringFlagRepoGitHashDynamicString": "28cff9960e41457299fe659532d776bc7e932e76",
-        "FStringFlipTimeStampFastString": "2025-12-08T19:43:09.732Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-08T19:43:09.732Z"
+        "FStringFlagRepoGitHashFastString": "0a477416715eff14b071b843d02bc032bb9d1458",
+        "DFStringFlagRepoGitHashDynamicString": "0a477416715eff14b071b843d02bc032bb9d1458",
+        "FStringFlipTimeStampFastString": "2025-12-08T19:48:57.380Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-08T19:48:57.380Z"
     }
 }
