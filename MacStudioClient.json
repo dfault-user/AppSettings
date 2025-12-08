@@ -14196,7 +14196,6 @@
         "FFlagProfilePlatformUnfriendPrimaryActionEnabled": "True",
         "FFlagLuaAppIedpSendPoints": "True",
         "FFlagAEGIS2UseGuacToShowFAEUpsell": "True",
-        "FFlagDraggerServiceEnableSetters3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T20:03:06",
         "DFFlagEnableGetItemInStudio_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T20:05:54",
         "FFlagLuaAppOmniRecommendationsCacheClearOnLogout": "True",
         "FFlagLuaAppFixHomeGridPlaceholderFlowIssues": "True",
@@ -14208,6 +14207,7 @@
         "DFFlagFixRegisterMotors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T20:59:56",
         "FFlagEnableIECAttributionFromCurrentlyWearing": "True",
         "FFlagFixAssetIECPromptNaming2": "True",
+        "FFlagDraggerServiceEnableSetters3": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16629,9 +16629,9 @@
         "FFlagRuntimeEnabled13": "False",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "bc5aa759a395944ba2ad890b40dd8b97b5b12246",
-        "DFStringFlagRepoGitHashDynamicString": "bc5aa759a395944ba2ad890b40dd8b97b5b12246",
-        "FStringFlipTimeStampFastString": "2025-12-08T21:02:32.429Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-08T21:02:32.429Z"
+        "FStringFlagRepoGitHashFastString": "2fb622383774b39491818ee1afd26ab2086cdea2",
+        "DFStringFlagRepoGitHashDynamicString": "2fb622383774b39491818ee1afd26ab2086cdea2",
+        "FStringFlipTimeStampFastString": "2025-12-08T21:07:11.473Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-08T21:07:11.473Z"
     }
 }
