@@ -14189,6 +14189,8 @@
         "FFlagAppChatEnableNewChatBubbleUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp-V2;509308483;dev_controlled",
         "FFlagAppChatEnableNewGameCardUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp-V2;509308483;dev_controlled",
         "FFlagEnableDeepLinkHistoryWithModalAPI2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T18:14:29",
+        "FFlagLegacyRatingPromptEmitEvent_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T18:17:02",
+        "FFlagPlayerListFixLeaderstatsStacking_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T18:18:33",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -15246,9 +15248,9 @@
         "DFFlagCrashMetricStorageEnableBufferConstantReporting_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "DFIntPerformanceControlCrashMetricAlgorithmType_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
-        "FStringFlagRepoGitHashFastString": "6e7462d02972a5854cc491e7587573534998bbae",
-        "DFStringFlagRepoGitHashDynamicString": "6e7462d02972a5854cc491e7587573534998bbae",
-        "FStringFlipTimeStampFastString": "2025-12-08T18:17:13.838Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-08T18:17:13.838Z"
+        "FStringFlagRepoGitHashFastString": "711cd7b846e191bf4c498b2aa12740a1b8c18fb3",
+        "DFStringFlagRepoGitHashDynamicString": "711cd7b846e191bf4c498b2aa12740a1b8c18fb3",
+        "FStringFlipTimeStampFastString": "2025-12-08T18:19:37.675Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-08T18:19:37.675Z"
     }
 }
