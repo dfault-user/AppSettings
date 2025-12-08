@@ -14207,7 +14207,6 @@
         "FFlagDraggerServiceEnableSetters3": "True",
         "DFFlagEnableGetItemInStudio": "True",
         "DFFlagFixRegisterMotors": "True",
-        "DFFlagSimCsgFix45DegreeBoxMapping_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:07:41",
         "FFlagAXReportTryOnAnalyticsIaB_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:11:22",
         "DFIntEnableChatButtonShownThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:11:36",
         "DFIntEnableChatButtonClickedThrottlePermyriad_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:13:56",
@@ -14228,6 +14227,7 @@
         "FFlagSelectionPinning_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:55:41",
         "FFlagLuaExplorerPackages_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:00:04",
         "FFlagExplorerFixPackageLinkIconColor": "True",
+        "DFFlagSimCsgFix45DegreeBoxMapping": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -15224,9 +15224,9 @@
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
         "FFlagUseConvexDecompV8Format_PlaceFilter": "False;3351674303",
-        "FStringFlagRepoGitHashFastString": "21fa3741df8e7f9d509548c9aa6d8bb5b178387b",
-        "DFStringFlagRepoGitHashDynamicString": "21fa3741df8e7f9d509548c9aa6d8bb5b178387b",
-        "FStringFlipTimeStampFastString": "2025-12-08T23:08:27.260Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-08T23:08:27.260Z"
+        "FStringFlagRepoGitHashFastString": "8c68f630c2a82db2ed6e6024c20a674575c861de",
+        "DFStringFlagRepoGitHashDynamicString": "8c68f630c2a82db2ed6e6024c20a674575c861de",
+        "FStringFlipTimeStampFastString": "2025-12-08T23:11:54.187Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-08T23:11:54.187Z"
     }
 }
