@@ -14214,7 +14214,6 @@
         "FFlagAXUnifiedLoggingValidation3": "True",
         "FFlagAXUpdateAnalyticsFiltersEnums": "True",
         "FFlagAXWidgetImpressionThemeId": "True",
-        "FFlagCommandBarToggleSavedTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:26:21",
         "DFFlagInputActionSystem_AnalyticsEnabled_Counters2": "True",
         "FFlagCrashReportStudioStreamingCorrectly_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:47:14",
         "FIntDefaultInstances2BetaFeatureRolloutPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:48:13",
@@ -14234,6 +14233,9 @@
         "FFlagEnableAvatarGuidelinesLink_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:24:06",
         "FFlagUseAppCrashpadReporterForAndroidHangMonitor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:24:54",
         "FFlagAvatarAssetRecenterRigidAccessories": "True",
+        "FStringContactsListEmojiSortingIxpLayer_Staged": "Social.ContactsList;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:29:31",
+        "FFlagContactsListEmojiSortingIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:29:35",
+        "FFlagCommandBarToggleSavedTelemetry": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14592,9 +14594,10 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagRenderEmissiveMask5": "False",
         "FFlagSduiActionHandlerSharedRegistry2": "False",
-        "FStringFlagRepoGitHashFastString": "766640ac6ab0cb0df1ce5b72bfeae278a5c6e908",
-        "DFStringFlagRepoGitHashDynamicString": "766640ac6ab0cb0df1ce5b72bfeae278a5c6e908",
-        "FStringFlipTimeStampFastString": "2025-12-08T23:27:06.910Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-08T23:27:06.910Z"
+        "FIntRuntimeMaxNumOfMutexes_Staged": "5500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1821661256;2025-12-08T23:28:45",
+        "FStringFlagRepoGitHashFastString": "5ebd8b4753a15004454df47ebf5fb37450cd8e02",
+        "DFStringFlagRepoGitHashDynamicString": "5ebd8b4753a15004454df47ebf5fb37450cd8e02",
+        "FStringFlipTimeStampFastString": "2025-12-08T23:31:48.746Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-08T23:31:48.746Z"
     }
 }
