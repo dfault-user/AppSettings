@@ -14202,7 +14202,6 @@
         "FFlagAddFriendsFixOnTileClick": "True",
         "FFlagD3D11TextureCrashOnDownloadOom": "True",
         "FFlagAddFriendsIgnoreAllRefactor": "True",
-        "DFFlagFixRegisterMotors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T20:59:56",
         "FFlagEnableIECAttributionFromCurrentlyWearing": "True",
         "FFlagFixAssetIECPromptNaming2": "True",
         "FFlagDraggerServiceEnableSetters3": "True",
@@ -14216,6 +14215,8 @@
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "DFFlagInputActionSystem_AnalyticsEnabled_Counters2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T21:27:45",
         "FFlagSimRuntimeContentStartUpCleanUp_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T21:45:22",
+        "DFFlagFixRegisterMotors": "True",
+        "FFlagExplorerFixPackageLinkIconColor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:02:35",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
@@ -14768,6 +14769,7 @@
         "FFlagSduiClientBinding4": "True",
         "DFFlagMathUseNewReflection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T21:10:28",
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T21:56:14",
+        "FFlagLuaAppSnappingNilCheckVideoItem_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T22:01:54",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15264,9 +15266,9 @@
         "DFFlagCrashMetricStorageEnableBufferConstantReporting_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "DFIntPerformanceControlCrashMetricAlgorithmType_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
-        "FStringFlagRepoGitHashFastString": "74d35db4be6279cfae435a1682da361b4ab9ddcb",
-        "DFStringFlagRepoGitHashDynamicString": "74d35db4be6279cfae435a1682da361b4ab9ddcb",
-        "FStringFlipTimeStampFastString": "2025-12-08T21:57:27.702Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-08T21:57:27.702Z"
+        "FStringFlagRepoGitHashFastString": "8af30cc2b5ea2805a729f7c5a008f65a5683b225",
+        "DFStringFlagRepoGitHashDynamicString": "8af30cc2b5ea2805a729f7c5a008f65a5683b225",
+        "FStringFlipTimeStampFastString": "2025-12-08T22:03:34.911Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-08T22:03:34.911Z"
     }
 }
