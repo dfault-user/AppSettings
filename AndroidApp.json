@@ -14185,7 +14185,6 @@
         "FFlagFixFooterInnerContentReportMobile": "True",
         "DFFlagMemoryStoreEnableStartupLocalThrottling": "True",
         "FFlagUpdateJoinVoiceToastSubtitle_AEGIS2": "True",
-        "FFlagAEGIS2UseGuacToShowFAEUpsell_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T18:53:32",
         "FFlagLuaAppIedpOverlayAndNavigationFix": "True",
         "FFlagSimRuntimeContentStartUpCleanUp": "True",
         "FFlagEnableDeepLinkHistoryWithModalAPI2": "True",
@@ -14203,6 +14202,8 @@
         "FFlagProfilePlatformUnfriendPrimaryActionEnabled": "True",
         "FFlagLuaAppIedpSendPoints": "True",
         "FFlagAddFriendsIgnoreAllRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T19:47:21",
+        "FFlagAEGIS2UseGuacToShowFAEUpsell": "True",
+        "FFlagFixAssetIECPromptNaming2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T19:56:39",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15181,9 +15182,9 @@
         "FFlagDisableStreamingTunableMemoryTracking": "True",
         "FFlagSduiActionHandlerSharedRegistry2": "True",
         "DFFlagUseRealtimeNetworkHandlerLock_Staged": "True;SteadyState;10;30;Revert;2025-12-08T19:38:33",
-        "FStringFlagRepoGitHashFastString": "90ffb477be546d34731216b0a0eda84c8485325b",
-        "DFStringFlagRepoGitHashDynamicString": "90ffb477be546d34731216b0a0eda84c8485325b",
-        "FStringFlipTimeStampFastString": "2025-12-08T19:51:35.097Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-08T19:51:35.097Z"
+        "FStringFlagRepoGitHashFastString": "0ab849ba2696902315de063c1de5f7103aa5e0f4",
+        "DFStringFlagRepoGitHashDynamicString": "0ab849ba2696902315de063c1de5f7103aa5e0f4",
+        "FStringFlipTimeStampFastString": "2025-12-08T19:57:48.357Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-08T19:57:48.357Z"
     }
 }
