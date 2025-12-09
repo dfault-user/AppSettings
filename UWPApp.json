@@ -5744,7 +5744,7 @@
         "DFFlagEnableNewPartnerBillingPath": "True",
         "FFlagIncludeWaitingForPartyInCondition": "True",
         "FFlagEnableExpJoinMicPermAnalytics": "True",
-        "FIntScrollWheelDeltaAmount": "140",
+        "FIntScrollWheelDeltaAmount": "130",
         "FFlagVoxelBoxSBO": "True",
         "FFlagSquadAppChatRTNFixWithSquadMainFlag": "True",
         "FFlagAssetDeliveryV2FixSiteTest": "True",
@@ -14248,8 +14248,6 @@
         "FFlagEnableSocialUpsellDismissButtonFix": "True",
         "FFlagLuaAppDataHydrationVotesStoreTrackOptimisticVotes": "True",
         "FFlagLuaAppEdpBackendV2AddUserVote": "True",
-        "FFlagTypeBandwidthMetrics_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:06:24",
-        "FIntScrollWheelDeltaAmount_Staged": "130;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:07:13",
         "FFlagVideoSamplerEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:13:34",
         "FFlagRemoveClumps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:19:40",
         "FFlagPublishToRobloxAction4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:20:30",
@@ -14277,6 +14275,8 @@
         "FFlagHelpPageIXPExposure3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;805125762;2025-12-09T20:05:05",
         "DFFlagCLI178641_Staged": "True;SteadyState;10;30;Revert;2025-12-09T20:05:47",
         "FFlagStudioCrashOnScriptWithoutParent": "True",
+        "FFlagTypeBandwidthMetrics": "False",
+        "DFStringBatchLogEventSenderLinearLoggingUniverseIds_Staged": "7709344486;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T20:13:48",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14572,9 +14572,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "83a07a6edf0cd41329b4000a61b27052b5972474",
-        "DFStringFlagRepoGitHashDynamicString": "83a07a6edf0cd41329b4000a61b27052b5972474",
-        "FStringFlipTimeStampFastString": "2025-12-09T20:12:46.731Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T20:12:46.731Z"
+        "FStringFlagRepoGitHashFastString": "2dcbfaf49f3e2e9aa2e770c1656a7eacedab24e9",
+        "DFStringFlagRepoGitHashDynamicString": "2dcbfaf49f3e2e9aa2e770c1656a7eacedab24e9",
+        "FStringFlipTimeStampFastString": "2025-12-09T20:15:21.234Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T20:15:21.234Z"
     }
 }
