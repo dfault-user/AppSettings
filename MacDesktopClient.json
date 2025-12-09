@@ -14221,9 +14221,6 @@
         "DFIntEnableChatButtonClickedThrottlePermyriad": "10000",
         "DFIntEnableChatButtonShownThrottlePermyriad": "10000",
         "FFlagAXFormatPDPPriceLabel": "True",
-        "FFlagEnableComponentMapOnObject_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:23:27",
-        "FFlagEnableAvatarGuidelinesLink_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:24:06",
-        "FFlagUseAppCrashpadReporterForAndroidHangMonitor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:24:54",
         "FFlagAvatarAssetRecenterRigidAccessories": "True",
         "FStringContactsListEmojiSortingIxpLayer_Staged": "Social.ContactsList;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:29:31",
         "FFlagContactsListEmojiSortingIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:29:35",
@@ -14237,6 +14234,10 @@
         "DFIntAssetResolutionWorkflowTelemetryFailureEventThrottleHundredthsPercent": "100",
         "DFIntAssetWorkflowTelemetryEventThrottleDeferredAssetsPerMillionth": "10",
         "FFlagSentinalValueGLESExtensionReporting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T00:20:20",
+        "FFlagStickyTotalBackgroundedTime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T00:25:23",
+        "FFlagUseAppCrashpadReporterForAndroidHangMonitor": "True",
+        "FFlagEnableAvatarGuidelinesLink": "True",
+        "FFlagEnableComponentMapOnObject": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -15233,9 +15234,9 @@
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
         "FFlagUseConvexDecompV8Format_PlaceFilter": "False;3351674303",
-        "FStringFlagRepoGitHashFastString": "2588e1e57ae013591be77587ac555cdc7da06acd",
-        "DFStringFlagRepoGitHashDynamicString": "2588e1e57ae013591be77587ac555cdc7da06acd",
-        "FStringFlipTimeStampFastString": "2025-12-09T00:21:26.283Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T00:21:26.283Z"
+        "FStringFlagRepoGitHashFastString": "6d77f8f7ef65431cb284d3a2252677f216723d3d",
+        "DFStringFlagRepoGitHashDynamicString": "6d77f8f7ef65431cb284d3a2252677f216723d3d",
+        "FStringFlipTimeStampFastString": "2025-12-09T00:26:57.020Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T00:26:57.020Z"
     }
 }

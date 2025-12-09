@@ -14221,9 +14221,6 @@
         "DFIntEnableChatButtonClickedThrottlePermyriad": "10000",
         "DFIntEnableChatButtonShownThrottlePermyriad": "10000",
         "FFlagAXFormatPDPPriceLabel": "True",
-        "FFlagEnableComponentMapOnObject_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:23:27",
-        "FFlagEnableAvatarGuidelinesLink_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:24:06",
-        "AllowVideoPreRoll": "True",
         "FFlagAvatarAssetRecenterRigidAccessories": "True",
         "FStringContactsListEmojiSortingIxpLayer_Staged": "Social.ContactsList;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:29:31",
         "FFlagContactsListEmojiSortingIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:29:35",
@@ -14237,6 +14234,10 @@
         "DFIntAssetResolutionWorkflowTelemetryFailureEventThrottleHundredthsPercent": "100",
         "DFIntAssetWorkflowTelemetryEventThrottleDeferredAssetsPerMillionth": "10",
         "FFlagSentinalValueGLESExtensionReporting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T00:20:20",
+        "AllowVideoPreRoll": "True",
+        "FFlagUseAppCrashpadReporterForAndroidHangMonitor": "True",
+        "FFlagEnableAvatarGuidelinesLink": "True",
+        "FFlagEnableComponentMapOnObject": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15108,7 +15109,6 @@
         "EnableAndroidSystemTheme3": "True",
         "FFlagInGameMenuAddChatLineReporting5_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1-1761068633;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV1;1401781319;flagbank",
         "FIntReportHangStatusThrottleHundredthPercent": "200",
-        "FFlagUseAppCrashpadReporterForAndroidHangMonitor": "True",
         "FFlagFixAndroidNoMic": "False",
         "FFlagFmodFallbackAaudioToOpensl": "False",
         "UseAndroidGooglePaymentsProtocolForGrantPendingPurchases3": "false",
@@ -15216,9 +15216,9 @@
         "DFFlagUseRealtimeProtocolLock": "True",
         "FFlagTelemetryAddAppBuildVariantToPointsWithCallback": "True",
         "FIntRuntimeMaxNumOfMutexes_Staged": "5500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1821661256;2025-12-08T23:28:45",
-        "FStringFlagRepoGitHashFastString": "2588e1e57ae013591be77587ac555cdc7da06acd",
-        "DFStringFlagRepoGitHashDynamicString": "2588e1e57ae013591be77587ac555cdc7da06acd",
-        "FStringFlipTimeStampFastString": "2025-12-09T00:21:26.283Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T00:21:26.283Z"
+        "FStringFlagRepoGitHashFastString": "6d77f8f7ef65431cb284d3a2252677f216723d3d",
+        "DFStringFlagRepoGitHashDynamicString": "6d77f8f7ef65431cb284d3a2252677f216723d3d",
+        "FStringFlipTimeStampFastString": "2025-12-09T00:26:57.020Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T00:26:57.020Z"
     }
 }
