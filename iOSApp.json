@@ -14275,6 +14275,9 @@
         "FFlagEnableCreateModelWithAvatarRules_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:56:43",
         "FFlagCommandBarUpdatedButtonColors": "True",
         "FFlagExtraVectorPropsSimd": "True",
+        "FFlagHelpPageIXPExposure3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;805125762;2025-12-09T20:05:05",
+        "DFFlagCLI178641_Staged": "True;SteadyState;10;30;Revert;2025-12-09T20:05:47",
+        "FFlagStudioCrashOnScriptWithoutParent": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15290,9 +15293,11 @@
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNine;1383281894;dev_controlled",
         "FFlagLuaAppAddPlaceholderRecoveryCounter": "True",
         "FFlagSimCSGLargeAssetSolidMesh16_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1879613934;2025-12-09T19:25:39",
-        "FStringFlagRepoGitHashFastString": "e7965c669beaa6f4ee4f99c0ee6633868403fcef",
-        "DFStringFlagRepoGitHashDynamicString": "e7965c669beaa6f4ee4f99c0ee6633868403fcef",
-        "FStringFlipTimeStampFastString": "2025-12-09T20:02:29.982Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T20:02:29.982Z"
+        "FFlagLuaAppBadgesSeeAllEnabled2_IXP": "1;PlayerApp.Badges.Exposure;Discovery.App.Badges.SeeAllMigration;1542730162;dev_controlled",
+        "FFlagLuaAppBadgesSeeAllLogExposure_IXP": "1;PlayerApp.Badges.Exposure;Discovery.App.Badges.SeeAllMigration;1542730162;dev_controlled",
+        "FStringFlagRepoGitHashFastString": "f5df25ae3c5c4ac77abf5a6dd596c794049a6a87",
+        "DFStringFlagRepoGitHashDynamicString": "f5df25ae3c5c4ac77abf5a6dd596c794049a6a87",
+        "FStringFlipTimeStampFastString": "2025-12-09T20:07:19.816Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T20:07:19.816Z"
     }
 }
