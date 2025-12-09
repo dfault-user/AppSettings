@@ -14270,8 +14270,6 @@
         "FFlagRemoveClumps": "True",
         "FFlagPublishToRobloxAction4": "True",
         "FFlagAddThumbnailSelectorReport6": "True",
-        "FFlagPannerAlwaysUseCustomRolloff_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T20:50:31",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagFmodCustomRolloffAlwaysFullGain": "True",
         "FFlagConnectionRemoveLoadingTimeout": "True",
         "FFlagRepositionDropDownScrim": "True",
@@ -14286,6 +14284,9 @@
         "FFlagAXEnableBatchItemDetailsFetchV2": "True",
         "FFlagAXFix2DClothingTryOn": "True",
         "FFlagAXUseNewChevronIcon": "True",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
+        "FFlagFixFriendsLandingFilterIcon": "True",
+        "FFlagPannerAlwaysUseCustomRolloff": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14808,7 +14809,6 @@
         "FFlagAXAddInventoryItemsListProps_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;150869807;dev_controlled",
         "FFlagAXGeneralizeInventoryItemsList_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;253061301;dev_controlled",
         "FFlagAXImproveSlotBasedEditorPerformance_IXP": "1;AvatarExperience.UA.AllViews;AvatarMarketplace.UACustomizeOverhaulV2-Second-Launch;193760623;dev_controlled",
-        "FFlagFixFriendsLandingFilterIcon": "True",
         "FStringAppChatChatBubbleUIRevampIxpLayer": "Party.ConversationPage",
         "DFFlagWrapDeformerReportTelemetryStat4": "True",
         "FFlagTelemetryAddAppBuildVariantToPointsWithCallback": "True",
@@ -15338,9 +15338,9 @@
         "DFFlagIdempotentDevProductPurchasingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
         "DFFlagRequestOrchestratorQueueExpirationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs_Staged": "6000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
-        "FStringFlagRepoGitHashFastString": "40f9ef800076248f7d2a09c86ba0bad1f3b552d8",
-        "DFStringFlagRepoGitHashDynamicString": "40f9ef800076248f7d2a09c86ba0bad1f3b552d8",
-        "FStringFlipTimeStampFastString": "2025-12-09T21:49:29.240Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T21:49:29.240Z"
+        "FStringFlagRepoGitHashFastString": "4b292f6983348e91a275f7af378640ab797afc31",
+        "DFStringFlagRepoGitHashDynamicString": "4b292f6983348e91a275f7af378640ab797afc31",
+        "FStringFlipTimeStampFastString": "2025-12-09T21:56:47.998Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T21:56:47.998Z"
     }
 }

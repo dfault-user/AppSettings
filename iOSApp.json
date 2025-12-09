@@ -14270,8 +14270,6 @@
         "FFlagRemoveClumps": "True",
         "FFlagPublishToRobloxAction4": "True",
         "FFlagAddThumbnailSelectorReport6": "True",
-        "FFlagPannerAlwaysUseCustomRolloff_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T20:50:31",
-        "AllowVideoPreRoll": "True",
         "FFlagFmodCustomRolloffAlwaysFullGain": "True",
         "FFlagConnectionRemoveLoadingTimeout": "True",
         "FFlagRepositionDropDownScrim": "True",
@@ -14287,6 +14285,9 @@
         "FFlagAXFix2DClothingTryOn": "True",
         "FFlagAXUseNewChevronIcon": "True",
         "DFFlagProductInfoBatchingRequestOrchestratorEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T21:48:32",
+        "FFlagFixFriendsLandingFilterIcon": "True",
+        "FFlagPannerAlwaysUseCustomRolloff": "True",
+        "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15267,7 +15268,6 @@
         "FStringAppChatChatBubbleUIRevampIxpLayer": "Party.ConversationPage",
         "FFlagAXMoveAllTabToWidgetOnly4": "False",
         "FFlagAXPassScreenSizeToWidgetApi4": "False",
-        "FFlagFixFriendsLandingFilterIcon": "True",
         "FFlagLuaAppForumsDeeplinkFix": "True",
         "FFlagAddFriendsBannersNewUI_exp_IXP": "1;Social.AddFriendsPage;Social.AddFriends.NewConnectionChannelsUI;1676622440;dev_controlled",
         "FFlagAddFriendsOldIconForChannelsVariant_exp_IXP": "1;Social.AddFriendsPage;Social.AddFriends.NewConnectionChannelsUI;1676622440;dev_controlled",
@@ -15305,9 +15305,9 @@
         "DFFlagRequestOrchestratorQueueExpirationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs_Staged": "6000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
         "FFlagClumplessFixOptimizeAnimatedBones_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T21:40:25",
-        "FStringFlagRepoGitHashFastString": "40f9ef800076248f7d2a09c86ba0bad1f3b552d8",
-        "DFStringFlagRepoGitHashDynamicString": "40f9ef800076248f7d2a09c86ba0bad1f3b552d8",
-        "FStringFlipTimeStampFastString": "2025-12-09T21:49:29.240Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T21:49:29.240Z"
+        "FStringFlagRepoGitHashFastString": "4b292f6983348e91a275f7af378640ab797afc31",
+        "DFStringFlagRepoGitHashDynamicString": "4b292f6983348e91a275f7af378640ab797afc31",
+        "FStringFlipTimeStampFastString": "2025-12-09T21:56:47.998Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T21:56:47.998Z"
     }
 }
