@@ -14243,7 +14243,6 @@
         "FFlagSessionTrackingReportReliability": "True",
         "FFlagUIBloxUseFoundationButton3_IXP": "1;UIEcosystem.User.Migration;Foundation.Migration.Button.InApp;1636104923;flagbank",
         "FFlagFixChromeConsoleNilRefs3": "True",
-        "FFlagVoxelGridFixUpsample": "True",
         "DFFlagRM3Tier0Trigger": "True",
         "DFFlagRM3Tier0Upload": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -14272,6 +14271,7 @@
         "FFlagWrapDeformerImproveWrapSourceRemoved": "True",
         "FFlagFmodSearchOutputsWhenDisconnecting": "True",
         "FFlagAddThumbnailSelectorReport6_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:33:54",
+        "FFlagAXFixBulkPurchaseFreeItems": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16236,6 +16236,7 @@
         "DFFlagServerAuthorityPredictionEventEnabled2": "True",
         "DFFlagSessionTrackingServerAuthorityMode": "True",
         "DFIntServerAuthorityPredictionEventHundredthsPercent": "10000",
+        "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
         "FFlagVoxelGridFixRegionChanged": "True",
@@ -16627,7 +16628,6 @@
         "FFlagRefactorPeoplePage8_IXP": "1;UIEcosystem.User.Migration;IxpFlagLink;398703262;flagbank",
         "FIntRelocateMobileMenuButtonsVariant_IXP": "1;UIEcosystem.User.Migration;IxpFlagLink;398703262;flagbank",
         "FFlagAXFix2DClothingTryOn": "True",
-        "FFlagAXFixBulkPurchaseFreeItems": "True",
         "FFlagAXPurchaseFromQuantityFirst": "True",
         "FFlagMergeImpressionsViewportCalculations": "True",
         "FFlagTraversalHistoryDiscoveryTelemetry": "True",
@@ -16731,9 +16731,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "e6ebc29811aacf81f2a24c9daeafea7c031a7e5d",
-        "DFStringFlagRepoGitHashDynamicString": "e6ebc29811aacf81f2a24c9daeafea7c031a7e5d",
-        "FStringFlipTimeStampFastString": "2025-12-09T19:35:21.565Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T19:35:21.565Z"
+        "FStringFlagRepoGitHashFastString": "fffdada46a8de66020edceea4c4ea0acdad25e8b",
+        "DFStringFlagRepoGitHashDynamicString": "fffdada46a8de66020edceea4c4ea0acdad25e8b",
+        "FStringFlipTimeStampFastString": "2025-12-09T19:37:38.942Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T19:37:38.942Z"
     }
 }
