@@ -14241,7 +14241,6 @@
         "FFlagStickyTotalBackgroundedTime": "True",
         "FFlagMonotonicBackground": "True",
         "FFlagSessionTrackingReportReliability": "True",
-        "FFlagFixChromeConsoleNilRefs3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T17:14:08",
         "DFFlagRM3Tier0Trigger_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;550901731;2025-12-09T17:30:14",
         "DFFlagRM3Tier0Upload_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;550901731;2025-12-09T17:30:14",
         "FFlagEnableSocialUpsellDismissButtonFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;171324445;2025-12-09T17:52:02",
@@ -14250,6 +14249,7 @@
         "FFlagLuaAppEdpBackendV2AddUserVote_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T18:04:45",
         "FFlagLuaAppSupportTopicLayoutDataOnGamesSearchTab2_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNine;1867338300;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNine;1867338300;dev_controlled",
+        "FFlagFixChromeConsoleNilRefs3": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14545,9 +14545,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "cf95e8f1b10520c4a0c5299e31ebaddfdc3226ea",
-        "DFStringFlagRepoGitHashDynamicString": "cf95e8f1b10520c4a0c5299e31ebaddfdc3226ea",
-        "FStringFlipTimeStampFastString": "2025-12-09T18:12:57.895Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T18:12:57.895Z"
+        "FStringFlagRepoGitHashFastString": "d5df54cc7eda66777837d2bb582be558aa1addbe",
+        "DFStringFlagRepoGitHashDynamicString": "d5df54cc7eda66777837d2bb582be558aa1addbe",
+        "FStringFlipTimeStampFastString": "2025-12-09T18:16:53.033Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T18:16:53.033Z"
     }
 }
