@@ -14287,6 +14287,7 @@
         "DFStringBatchLogEventSenderLinearLoggingUniverseIds_Staged": "8316902627;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T21:09:55",
         "DFFlagMrdSimplifyStatementToTrue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T21:13:00",
         "DFFlagSusBumpFSSEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T21:31:58",
+        "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
         "FFlagEnableAvatarEditorServiceAPIErrorLogging": "True",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -15334,9 +15335,12 @@
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNine;1383281894;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNine;1383281894;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "04d81c228a9c49efba9789e9ed370295a26ca01d",
-        "DFStringFlagRepoGitHashDynamicString": "04d81c228a9c49efba9789e9ed370295a26ca01d",
-        "FStringFlipTimeStampFastString": "2025-12-09T21:32:50.267Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T21:32:50.267Z"
+        "DFFlagIdempotentDevProductPurchasingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
+        "DFFlagRequestOrchestratorQueueExpirationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
+        "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs_Staged": "6000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
+        "FStringFlagRepoGitHashFastString": "3794c6e78f5ace25fdb9d5ec9718325d3b1b510f",
+        "DFStringFlagRepoGitHashDynamicString": "3794c6e78f5ace25fdb9d5ec9718325d3b1b510f",
+        "FStringFlipTimeStampFastString": "2025-12-09T21:34:50.969Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T21:34:50.969Z"
     }
 }
