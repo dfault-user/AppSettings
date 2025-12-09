@@ -14231,8 +14231,6 @@
         "FFlagLuaAppSupportTopicLayoutDataOnGamesSearchTab2": "True",
         "DFIntAssetResolutionWorkflowTelemetryFailureEventThrottleHundredthsPercent": "100",
         "DFIntAssetWorkflowTelemetryEventThrottleDeferredAssetsPerMillionth": "10",
-        "FFlagSentinalValueGLESExtensionReporting_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T00:20:20",
-        "FFlagStickyTotalBackgroundedTime_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T00:25:23",
         "FFlagUseAppCrashpadReporterForAndroidHangMonitor": "True",
         "FFlagEnableAvatarGuidelinesLink": "True",
         "FFlagEnableComponentMapOnObject": "True",
@@ -14241,6 +14239,8 @@
         "FStringContactsListEmojiSortingIxpLayer": "Social.ContactsList",
         "FFlagContactsListEmojiSortingIXP_IXP": "1;Social.ContactList;Social.ContactList.UprankEmoji;1204931813;dev_controlled",
         "FFlagSessionTrackingReportReliability_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T00:58:25",
+        "FFlagSentinalValueGLESExtensionReporting": "True",
+        "FFlagStickyTotalBackgroundedTime": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14536,9 +14536,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "e23b36e651ba897952091810370a9f978ee2ae38",
-        "DFStringFlagRepoGitHashDynamicString": "e23b36e651ba897952091810370a9f978ee2ae38",
-        "FStringFlipTimeStampFastString": "2025-12-09T01:21:28.975Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T01:21:28.975Z"
+        "FStringFlagRepoGitHashFastString": "46b6dc6abebf4eb49ab173919263d4f82599172c",
+        "DFStringFlagRepoGitHashDynamicString": "46b6dc6abebf4eb49ab173919263d4f82599172c",
+        "FStringFlipTimeStampFastString": "2025-12-09T01:27:16.196Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T01:27:16.196Z"
     }
 }
