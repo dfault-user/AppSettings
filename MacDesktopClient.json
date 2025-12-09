@@ -14283,10 +14283,11 @@
         "DFFlagCLI178641": "True",
         "FFlagTelemetryUserCallbackReportThrottle": "True",
         "DFFlagMrdSimplifyStatementToTrue": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "DFFlagSusBumpFSSEnabled": "True",
         "FFlagSlimTranscoderUseFloatColor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2142026167;2025-12-09T22:55:59",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
+        "DFIntBatchLogEventSenderLinearLoggingByUniverseIdServerOrSessionSamplingPerMille_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:58:24",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -15283,9 +15284,9 @@
         "FFlagVoiceWebrtcOnSignalingThread6": "True",
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNine;1383281894;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNine;1383281894;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "666469df131968968e0a0e0509c966ed0cc480d8",
-        "DFStringFlagRepoGitHashDynamicString": "666469df131968968e0a0e0509c966ed0cc480d8",
-        "FStringFlipTimeStampFastString": "2025-12-09T22:57:18.830Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T22:57:18.830Z"
+        "FStringFlagRepoGitHashFastString": "768b55cc7211dd66030424bb407e1d58d653f66f",
+        "DFStringFlagRepoGitHashDynamicString": "768b55cc7211dd66030424bb407e1d58d653f66f",
+        "FStringFlipTimeStampFastString": "2025-12-09T22:59:45.509Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T22:59:45.509Z"
     }
 }
