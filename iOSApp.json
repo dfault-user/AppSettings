@@ -14248,7 +14248,6 @@
         "FFlagEnableSocialUpsellDismissButtonFix": "True",
         "FFlagLuaAppDataHydrationVotesStoreTrackOptimisticVotes": "True",
         "FFlagLuaAppEdpBackendV2AddUserVote": "True",
-        "FFlagRemoveClumps_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:19:40",
         "FFlagPublishToRobloxAction4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:20:30",
         "FFlagUnconditionallyUpdateBindingOnWrapRemoved": "True",
         "FFlagWrapDeformerImproveWrapSourceRemoved": "True",
@@ -14277,6 +14276,7 @@
         "FFlagTypeBandwidthMetrics": "False",
         "DFStringBatchLogEventSenderLinearLoggingUniverseIds_Staged": "7709344486;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T20:13:48",
         "FFlagVideoSamplerEnabled": "True",
+        "FFlagRemoveClumps": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15296,9 +15296,9 @@
         "FFlagLuaAppBadgesSeeAllLogExposure_IXP": "1;PlayerApp.Badges.Exposure;Discovery.App.Badges.SeeAllMigration;1542730162;dev_controlled",
         "FIntRuntimeMaxNumOfMutexes_Staged": "6500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;775558341;2025-12-09T20:11:45",
         "FIntRuntimeMaxNumOfConditions_Staged": "6500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;839222046;2025-12-09T20:13:22",
-        "FStringFlagRepoGitHashFastString": "5eb4f0c731451fc13e99ecbf455d920c08ade8ab",
-        "DFStringFlagRepoGitHashDynamicString": "5eb4f0c731451fc13e99ecbf455d920c08ade8ab",
-        "FStringFlipTimeStampFastString": "2025-12-09T20:17:08.122Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T20:17:08.122Z"
+        "FStringFlagRepoGitHashFastString": "8bdbd91150d233c4a0f94636e7764be02db24651",
+        "DFStringFlagRepoGitHashDynamicString": "8bdbd91150d233c4a0f94636e7764be02db24651",
+        "FStringFlipTimeStampFastString": "2025-12-09T20:21:37.874Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T20:21:37.874Z"
     }
 }
