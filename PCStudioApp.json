@@ -14290,6 +14290,8 @@
         "DFIntBatchLogEventSenderLinearLoggingByUniverseIdServerOrSessionSamplingPerMille_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:58:24",
         "DFIntRbxStorageDropCacheErrorsThreshold2_Staged": "1000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:58:46",
         "DFFlagSlimOcclusionCull_Staged": "True;SteadyState;10;30;Revert;2025-12-09T23:00:26",
+        "FFlagFoundationInternalInputSelectedStylesAndSpacing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;150738630;2025-12-09T23:31:09",
+        "FFlagFoundationInternalTextInputScrolling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T23:31:50",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16755,9 +16757,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "aecae11e1a3e86a014f3cad1695562730c24ad2f",
-        "DFStringFlagRepoGitHashDynamicString": "aecae11e1a3e86a014f3cad1695562730c24ad2f",
-        "FStringFlipTimeStampFastString": "2025-12-09T23:27:06.858Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T23:27:06.858Z"
+        "FStringFlagRepoGitHashFastString": "f0723e891c1eeea7625ea963a44541eb5283762a",
+        "DFStringFlagRepoGitHashDynamicString": "f0723e891c1eeea7625ea963a44541eb5283762a",
+        "FStringFlipTimeStampFastString": "2025-12-09T23:33:09.999Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T23:33:09.999Z"
     }
 }

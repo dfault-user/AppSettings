@@ -14290,6 +14290,8 @@
         "DFIntBatchLogEventSenderLinearLoggingByUniverseIdServerOrSessionSamplingPerMille_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:58:24",
         "DFIntRbxStorageDropCacheErrorsThreshold2_Staged": "1000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:58:46",
         "DFFlagSlimOcclusionCull_Staged": "True;SteadyState;10;30;Revert;2025-12-09T23:00:26",
+        "FFlagFoundationInternalInputSelectedStylesAndSpacing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;150738630;2025-12-09T23:31:09",
+        "FFlagFoundationInternalTextInputScrolling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T23:31:50",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -15337,8 +15339,6 @@
         "DFFlagCrashMetricStorageEnableBufferConstantReporting_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "DFIntPerformanceControlCrashMetricAlgorithmType_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
-        "FFlagIncludePowerSaverMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:26:16",
-        "DFIntPowerTraceModuleEpochOffsetSeconds_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:29:39",
         "DFFlagIdempotentDevProductPurchasingEnabled": "True",
         "DFFlagRequestOrchestratorQueueExpirationEnabled": "True",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
@@ -15347,9 +15347,11 @@
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "DFFlagPowerTraceHashFix": "True",
-        "FStringFlagRepoGitHashFastString": "aecae11e1a3e86a014f3cad1695562730c24ad2f",
-        "DFStringFlagRepoGitHashDynamicString": "aecae11e1a3e86a014f3cad1695562730c24ad2f",
-        "FStringFlipTimeStampFastString": "2025-12-09T23:27:06.858Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T23:27:06.858Z"
+        "DFIntPowerTraceModuleEpochOffsetSeconds": "1",
+        "FFlagIncludePowerSaverMode": "True",
+        "FStringFlagRepoGitHashFastString": "f0723e891c1eeea7625ea963a44541eb5283762a",
+        "DFStringFlagRepoGitHashDynamicString": "f0723e891c1eeea7625ea963a44541eb5283762a",
+        "FStringFlipTimeStampFastString": "2025-12-09T23:33:09.999Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T23:33:09.999Z"
     }
 }

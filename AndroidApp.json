@@ -14290,6 +14290,8 @@
         "DFIntBatchLogEventSenderLinearLoggingByUniverseIdServerOrSessionSamplingPerMille_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:58:24",
         "DFIntRbxStorageDropCacheErrorsThreshold2_Staged": "1000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:58:46",
         "DFFlagSlimOcclusionCull_Staged": "True;SteadyState;10;30;Revert;2025-12-09T23:00:26",
+        "FFlagFoundationInternalInputSelectedStylesAndSpacing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;150738630;2025-12-09T23:31:09",
+        "FFlagFoundationInternalTextInputScrolling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T23:31:50",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15271,9 +15273,9 @@
         "DFFlagRequestOrchestratorQueueExpirationEnabled": "True",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagClumplessFixOptimizeAnimatedBones": "True",
-        "FStringFlagRepoGitHashFastString": "37220765b2ad50fd92d998458e1528aaf4000f15",
-        "DFStringFlagRepoGitHashDynamicString": "37220765b2ad50fd92d998458e1528aaf4000f15",
-        "FStringFlipTimeStampFastString": "2025-12-09T23:31:41.933Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T23:31:41.933Z"
+        "FStringFlagRepoGitHashFastString": "f0723e891c1eeea7625ea963a44541eb5283762a",
+        "DFStringFlagRepoGitHashDynamicString": "f0723e891c1eeea7625ea963a44541eb5283762a",
+        "FStringFlipTimeStampFastString": "2025-12-09T23:33:09.999Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T23:33:09.999Z"
     }
 }
