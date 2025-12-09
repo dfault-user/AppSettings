@@ -14260,9 +14260,6 @@
         "FFlagVideoAdaptionHighestUnlessLowMemory": "True",
         "FFlagGetPartCollisionsNew": "True",
         "FFlagLuauCompileUnusedUdataFix": "True",
-        "FFlagConnectionRemoveLoadingTimeout_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:52:03",
-        "FFlagRepositionDropDownScrim_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:53:26",
-        "FFlagFmodCustomRolloffAlwaysFullGain_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:54:59",
         "DFFlagVideoAdaptionResultMetrics": "True",
         "DFFlagVideoWinHwEncoderActivateSkipUniqueVendorCheck": "True",
         "FFlagEnableCreateModelWithAvatarRules_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T19:56:43",
@@ -14282,6 +14279,10 @@
         "FFlagAXUseNewChevronIcon_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1870612359;2025-12-09T20:45:24",
         "FFlagPannerAlwaysUseCustomRolloff_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T20:50:31",
         "FFlagFixFriendsLandingFilterIcon_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T20:51:43",
+        "FFlagFmodCustomRolloffAlwaysFullGain": "True",
+        "FFlagConnectionRemoveLoadingTimeout": "True",
+        "FFlagRepositionDropDownScrim": "True",
+        "DFFlagCLI178641_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T20:56:01",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14642,9 +14643,9 @@
         "FFlagSduiActionHandlerSharedRegistry2": "False",
         "FIntRuntimeMaxNumOfMutexes_Staged": "6500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;775558341;2025-12-09T20:11:45",
         "FIntRuntimeMaxNumOfConditions_Staged": "6500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;839222046;2025-12-09T20:13:22",
-        "FStringFlagRepoGitHashFastString": "8620927f0ab12e43ace6a35d376b898d6cb84fb1",
-        "DFStringFlagRepoGitHashDynamicString": "8620927f0ab12e43ace6a35d376b898d6cb84fb1",
-        "FStringFlipTimeStampFastString": "2025-12-09T20:55:42.786Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T20:55:42.786Z"
+        "FStringFlagRepoGitHashFastString": "c06cfc9d3b24e66348c7c06ba87fb1022488f80a",
+        "DFStringFlagRepoGitHashDynamicString": "c06cfc9d3b24e66348c7c06ba87fb1022488f80a",
+        "FStringFlipTimeStampFastString": "2025-12-09T20:57:16.076Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T20:57:16.076Z"
     }
 }
