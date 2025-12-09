@@ -14013,7 +14013,7 @@
         "FFlagLuaAppRfySignalApportioningIxp4": "True",
         "FFlagAvoidSimpleTimerOutsideTaskInPublishService": "True",
         "DFFlagEnableSecureTeleport3": "False",
-        "DFFlagProductInfoBatchingRequestOrchestratorEnabled": "False",
+        "DFFlagProductInfoBatchingRequestOrchestratorEnabled": "True",
         "FFlagSlimProfileTelemetry": "True",
         "FFlagSimRuntimeContentTranscodeBlockingCall": "True",
         "FFlagSessionEventV2MigrationWithBTID": "True",
@@ -14270,8 +14270,6 @@
         "FFlagRemoveClumps": "True",
         "FFlagPublishToRobloxAction4": "True",
         "FFlagAddThumbnailSelectorReport6": "True",
-        "DFFlagProductInfoBatchingRequestOrchestratorEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T20:36:27",
-        "FFlagAXEnableBatchItemDetailsFetchV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1937231606;2025-12-09T20:38:21",
         "FFlagAXFix2DClothingTryOn_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1680018711;2025-12-09T20:41:18",
         "FFlagAXUseNewChevronIcon_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1870612359;2025-12-09T20:45:24",
         "FFlagPannerAlwaysUseCustomRolloff_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T20:50:31",
@@ -14287,6 +14285,7 @@
         "DFFlagMrdSimplifyStatementToTrue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T21:13:00",
         "DFFlagSusBumpFSSEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T21:31:58",
         "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
+        "FFlagAXEnableBatchItemDetailsFetchV2": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14649,9 +14648,9 @@
         "DFFlagIdempotentDevProductPurchasingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
         "DFFlagRequestOrchestratorQueueExpirationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs_Staged": "6000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
-        "FStringFlagRepoGitHashFastString": "d51fa90c4169caf28f28df4ecd1e068ea76d70f3",
-        "DFStringFlagRepoGitHashDynamicString": "d51fa90c4169caf28f28df4ecd1e068ea76d70f3",
-        "FStringFlipTimeStampFastString": "2025-12-09T21:37:20.657Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T21:37:20.657Z"
+        "FStringFlagRepoGitHashFastString": "1e3adc45fe408245bf8d5b1bf8cc97ada7d838b7",
+        "DFStringFlagRepoGitHashDynamicString": "1e3adc45fe408245bf8d5b1bf8cc97ada7d838b7",
+        "FStringFlipTimeStampFastString": "2025-12-09T21:41:38.198Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T21:41:38.198Z"
     }
 }

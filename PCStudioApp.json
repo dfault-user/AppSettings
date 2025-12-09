@@ -14270,9 +14270,7 @@
         "FFlagRemoveClumps": "True",
         "FFlagPublishToRobloxAction4": "True",
         "FFlagAddThumbnailSelectorReport6": "True",
-        "FFlagVoxelGridFixUpsample": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
-        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagEnableAdsMouseUnlock": "True",
         "FFlagPannerAlwaysUseCustomRolloff_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T20:50:31",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -14287,6 +14285,7 @@
         "DFFlagMrdSimplifyStatementToTrue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T21:13:00",
         "DFFlagSusBumpFSSEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T21:31:58",
         "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
+        "FFlagAXEnableBatchItemDetailsFetchV2": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16258,6 +16257,8 @@
         "FFlagLuauCodegenBaseNativeCode": "True",
         "FFlagLuauCodegenBaseNativeTypes": "True",
         "FFlagLuauCompileBaseNativeTypes": "True",
+        "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
+        "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
         "FFlagTaskSchedulerLimitTargetFpsTo2402": "True",
         "FFlagVoxelGridFixRegionChanged": "True",
@@ -16651,7 +16652,6 @@
         "FFlagAXFix2DClothingTryOn": "True",
         "FFlagMergeImpressionsViewportCalculations": "True",
         "FFlagTraversalHistoryDiscoveryTelemetry": "True",
-        "FFlagAXEnableBatchItemDetailsFetchV2": "True",
         "DFStringVideoAcrPriorityList_PlaceFilter": "(hls,1,720);105796526973604;136954310107221;95047916580305",
         "FFlagEnableInspectAndBuyV2RootFlag2_IXP": "1;UIEcosystem.User.Migration;PeoplePageWithNewInspectAndBuy;1032734099;flagbank",
         "DFIntBandwidthMetricsPointsThrottle": "0",
@@ -16750,9 +16750,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "d51fa90c4169caf28f28df4ecd1e068ea76d70f3",
-        "DFStringFlagRepoGitHashDynamicString": "d51fa90c4169caf28f28df4ecd1e068ea76d70f3",
-        "FStringFlipTimeStampFastString": "2025-12-09T21:37:20.657Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T21:37:20.657Z"
+        "FStringFlagRepoGitHashFastString": "1e3adc45fe408245bf8d5b1bf8cc97ada7d838b7",
+        "DFStringFlagRepoGitHashDynamicString": "1e3adc45fe408245bf8d5b1bf8cc97ada7d838b7",
+        "FStringFlipTimeStampFastString": "2025-12-09T21:41:38.198Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T21:41:38.198Z"
     }
 }
