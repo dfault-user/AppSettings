@@ -14241,8 +14241,6 @@
         "FFlagStickyTotalBackgroundedTime": "True",
         "FFlagMonotonicBackground": "True",
         "FFlagSessionTrackingReportReliability": "True",
-        "DFFlagRM3Tier0Trigger_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;550901731;2025-12-09T17:30:14",
-        "DFFlagRM3Tier0Upload_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;550901731;2025-12-09T17:30:14",
         "FFlagEnableSocialUpsellDismissButtonFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;171324445;2025-12-09T17:52:02",
         "FFlagUIBloxUseFoundationButton3_IXP": "1;UIEcosystem.User.Migration;Foundation.Migration.Button.InApp;1636104923;flagbank",
         "FFlagLuaAppDataHydrationVotesStoreTrackOptimisticVotes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T18:03:54",
@@ -14256,6 +14254,9 @@
         "FFlagUnconditionallyUpdateBindingOnWrapRemoved_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2037861336;2025-12-09T18:27:46",
         "FFlagWrapDeformerImproveWrapSourceRemoved_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;152574662;2025-12-09T18:29:07",
         "FFlagAXFixBulkPurchaseFreeItems_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1332723562;2025-12-09T18:33:51",
+        "DFFlagRM3Tier0Trigger": "True",
+        "DFFlagRM3Tier0Upload": "True",
+        "FFlagAXPurchaseFromQuantityFirst_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;745310950;2025-12-09T18:35:51",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15233,9 +15234,9 @@
         "DFFlagUseRealtimeProtocolLock": "True",
         "FFlagTelemetryAddAppBuildVariantToPointsWithCallback": "True",
         "FFlagUseConvexDecompV8Format_PlaceFilter": "False;3351674303",
-        "FStringFlagRepoGitHashFastString": "e80080c5b24ea4058b9afe45b83581d9cf0e9de8",
-        "DFStringFlagRepoGitHashDynamicString": "e80080c5b24ea4058b9afe45b83581d9cf0e9de8",
-        "FStringFlipTimeStampFastString": "2025-12-09T18:34:50.890Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T18:34:50.890Z"
+        "FStringFlagRepoGitHashFastString": "b388eba1b540b23b99dc141a8e959177b42619f5",
+        "DFStringFlagRepoGitHashDynamicString": "b388eba1b540b23b99dc141a8e959177b42619f5",
+        "FStringFlipTimeStampFastString": "2025-12-09T18:37:28.132Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T18:37:28.132Z"
     }
 }
