@@ -14241,7 +14241,6 @@
         "FFlagStickyTotalBackgroundedTime": "True",
         "FFlagMonotonicBackground": "True",
         "FFlagSessionTrackingReportReliability": "True",
-        "FFlagEnableSocialUpsellDismissButtonFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;171324445;2025-12-09T17:52:02",
         "FFlagUIBloxUseFoundationButton3_IXP": "1;UIEcosystem.User.Migration;Foundation.Migration.Button.InApp;1636104923;flagbank",
         "FFlagLuaAppDataHydrationVotesStoreTrackOptimisticVotes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T18:03:54",
         "FFlagLuaAppEdpBackendV2AddUserVote_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T18:04:45",
@@ -14262,6 +14261,8 @@
         "FFlagVideoAdaptionHighestUnlessLowMemory_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T18:50:01",
         "DFFlagVideoAdaptionResultMetrics_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T18:52:07",
         "DFFlagVideoWinHwEncoderActivateSkipUniqueVendorCheck_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T18:53:10",
+        "FFlagEnableSocialUpsellDismissButtonFix": "True",
+        "FFlagCommandBarUpdatedButtonColors_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T18:56:51",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -15276,9 +15277,9 @@
         "FFlagLuaAppRemoveOmniFeedDividersAndExtraPadding_IXP": "1;PlayerApp.HomePage.UX;Discovery.App.VerticalEfficiency.OmniFeedPadding.V1;1088096474;flagbank",
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNine;1383281894;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNine;1383281894;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "34be3affe1df63ac6c9161f81d4673dd2ae76f41",
-        "DFStringFlagRepoGitHashDynamicString": "34be3affe1df63ac6c9161f81d4673dd2ae76f41",
-        "FStringFlipTimeStampFastString": "2025-12-09T18:54:14.486Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T18:54:14.486Z"
+        "FStringFlagRepoGitHashFastString": "e23aa04bc0b80adc43d248b38de8b728e8544a53",
+        "DFStringFlagRepoGitHashDynamicString": "e23aa04bc0b80adc43d248b38de8b728e8544a53",
+        "FStringFlipTimeStampFastString": "2025-12-09T18:57:47.736Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T18:57:47.736Z"
     }
 }
