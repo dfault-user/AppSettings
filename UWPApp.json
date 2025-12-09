@@ -14013,7 +14013,7 @@
         "FFlagLuaAppRfySignalApportioningIxp4": "True",
         "FFlagAvoidSimpleTimerOutsideTaskInPublishService": "True",
         "DFFlagEnableSecureTeleport3": "False",
-        "DFFlagProductInfoBatchingRequestOrchestratorEnabled": "True",
+        "DFFlagProductInfoBatchingRequestOrchestratorEnabled": "False",
         "FFlagSlimProfileTelemetry": "True",
         "FFlagSimRuntimeContentTranscodeBlockingCall": "True",
         "FFlagSessionEventV2MigrationWithBTID": "True",
@@ -14283,13 +14283,11 @@
         "DFFlagCLI178641": "True",
         "FFlagTelemetryUserCallbackReportThrottle": "True",
         "DFFlagMrdSimplifyStatementToTrue": "True",
-        "DFFlagProductInfoBatchingRequestOrchestratorEnabled_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:30:28",
         "DFFlagSusBumpFSSEnabled": "True",
         "FFlagSlimTranscoderUseFloatColor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2142026167;2025-12-09T22:55:59",
         "FFlagClumplessFixOptimizeAnimatedBones_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:57:47",
         "DFIntBatchLogEventSenderLinearLoggingByUniverseIdServerOrSessionSamplingPerMille_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:58:24",
         "DFIntRbxStorageDropCacheErrorsThreshold2_Staged": "1000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:58:46",
-        "DFFlagSlimOcclusionCull_Staged": "True;SteadyState;10;30;Revert;2025-12-09T23:00:26",
         "FFlagFoundationInternalInputSelectedStylesAndSpacing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;150738630;2025-12-09T23:31:09",
         "FFlagFoundationInternalTextInputScrolling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T23:31:50",
         "FFlagFoundationOverlayMountReorder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T23:32:39",
@@ -14590,9 +14588,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "a6f1a628df1ed595a49801b1d9eee0ba2b54c820",
-        "DFStringFlagRepoGitHashDynamicString": "a6f1a628df1ed595a49801b1d9eee0ba2b54c820",
-        "FStringFlipTimeStampFastString": "2025-12-09T23:35:17.851Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T23:35:17.851Z"
+        "FStringFlagRepoGitHashFastString": "ad6d75f71d8b8e6f22e9dc67b89ab2af348057d2",
+        "DFStringFlagRepoGitHashDynamicString": "ad6d75f71d8b8e6f22e9dc67b89ab2af348057d2",
+        "FStringFlipTimeStampFastString": "2025-12-09T23:36:48.699Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T23:36:48.699Z"
     }
 }

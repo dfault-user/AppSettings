@@ -14283,13 +14283,11 @@
         "DFFlagCLI178641": "True",
         "FFlagTelemetryUserCallbackReportThrottle": "True",
         "DFFlagMrdSimplifyStatementToTrue": "True",
-        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "DFFlagSusBumpFSSEnabled": "True",
         "FFlagSlimTranscoderUseFloatColor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2142026167;2025-12-09T22:55:59",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "DFIntBatchLogEventSenderLinearLoggingByUniverseIdServerOrSessionSamplingPerMille_Staged": "10;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:58:24",
         "DFIntRbxStorageDropCacheErrorsThreshold2_Staged": "1000000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T22:58:46",
-        "DFFlagSlimOcclusionCull_Staged": "True;SteadyState;10;30;Revert;2025-12-09T23:00:26",
         "FFlagFoundationInternalInputSelectedStylesAndSpacing_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;150738630;2025-12-09T23:31:09",
         "FFlagFoundationInternalTextInputScrolling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T23:31:50",
         "FFlagFoundationOverlayMountReorder_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T23:32:39",
@@ -16267,6 +16265,7 @@
         "FFlagLuauCodegenIntegerAddSub": "True",
         "FFlagLuauCompileCallCostModel": "True",
         "FStringServerAuthorityCoreAPIBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-build-fair-responsive-games-with-server-authority/4139157",
+        "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -16733,9 +16732,9 @@
         "FFlagRuntimeEnabled13": "False",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "a6f1a628df1ed595a49801b1d9eee0ba2b54c820",
-        "DFStringFlagRepoGitHashDynamicString": "a6f1a628df1ed595a49801b1d9eee0ba2b54c820",
-        "FStringFlipTimeStampFastString": "2025-12-09T23:35:17.851Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T23:35:17.851Z"
+        "FStringFlagRepoGitHashFastString": "ad6d75f71d8b8e6f22e9dc67b89ab2af348057d2",
+        "DFStringFlagRepoGitHashDynamicString": "ad6d75f71d8b8e6f22e9dc67b89ab2af348057d2",
+        "FStringFlipTimeStampFastString": "2025-12-09T23:36:48.699Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T23:36:48.699Z"
     }
 }
