@@ -14064,7 +14064,7 @@
         "FFlagFoundationToggleDefaultPlacement": "True",
         "FFlagFoundationToggleEndPlacementJustifyContent": "True",
         "FFlagReportISRInputPing": "True",
-        "FFlagFCRouteSecondaryParts4": "True",
+        "FFlagFCRouteSecondaryParts4": "False",
         "FFlagReverbFewerRaycasts": "True",
         "FFlagInExpHistoryButtonClickLogFix": "True",
         "DFFlagRbxStorageReportSessionErrors": "True",
@@ -14275,7 +14275,6 @@
         "FFlagRepositionDropDownScrim": "True",
         "FFlagEnableCreateModelWithAvatarRules": "True",
         "FFlagHelpPageIXPExposure3": "True",
-        "DFFlagMrdSimplifyStatementToTrue_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T21:13:00",
         "DFFlagSusBumpFSSEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T21:31:58",
         "DFIntIdempotentDevProductPurchaseAnalyticsThrottleHundredthsPercent_Staged": "100;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
         "FFlagAXEnableBatchItemDetailsFetchV2": "True",
@@ -14285,6 +14284,7 @@
         "FFlagPannerAlwaysUseCustomRolloff": "True",
         "DFFlagCLI178641": "True",
         "FFlagTelemetryUserCallbackReportThrottle": "True",
+        "DFFlagMrdSimplifyStatementToTrue": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14643,13 +14643,12 @@
         "FFlagEnableAecForAudioDeviceInput2": "True",
         "FFlagRenderEmissiveMask5": "False",
         "FFlagSduiActionHandlerSharedRegistry2": "False",
-        "FFlagFCRouteSecondaryParts4_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2022280336;2025-12-09T21:13:47",
         "DFFlagIdempotentDevProductPurchasingEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
         "DFFlagRequestOrchestratorQueueExpirationEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs_Staged": "6000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1411790960;2025-12-09T21:33:40",
-        "FStringFlagRepoGitHashFastString": "2bdc4198d1d05a3a8669d6ecb4ae69264d681ce6",
-        "DFStringFlagRepoGitHashDynamicString": "2bdc4198d1d05a3a8669d6ecb4ae69264d681ce6",
-        "FStringFlipTimeStampFastString": "2025-12-09T22:15:17.556Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T22:15:17.556Z"
+        "FStringFlagRepoGitHashFastString": "c8967468088da06b36a31dbb471808ce395c5491",
+        "DFStringFlagRepoGitHashDynamicString": "c8967468088da06b36a31dbb471808ce395c5491",
+        "FStringFlipTimeStampFastString": "2025-12-09T22:17:19.604Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T22:17:19.604Z"
     }
 }
