@@ -14222,8 +14222,6 @@
         "DFIntEnableChatButtonShownThrottlePermyriad": "10000",
         "FFlagAXFormatPDPPriceLabel": "True",
         "FFlagAvatarAssetRecenterRigidAccessories": "True",
-        "FStringContactsListEmojiSortingIxpLayer_Staged": "Social.ContactsList;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:29:31",
-        "FFlagContactsListEmojiSortingIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:29:35",
         "FFlagCommandBarToggleSavedTelemetry": "True",
         "FFlagFoundationFixOptionSelectorGroupItemSize": "True",
         "FFlagCrashReportStudioStreamingCorrectly": "True",
@@ -14238,6 +14236,9 @@
         "FFlagUseAppCrashpadReporterForAndroidHangMonitor": "True",
         "FFlagEnableAvatarGuidelinesLink": "True",
         "FFlagEnableComponentMapOnObject": "True",
+        "FFlagMonotonicBackground_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T00:27:46",
+        "FFlagContactsListEmojiSortingIxpEnabled": "True",
+        "FStringContactsListEmojiSortingIxpLayer": "Social.ContactsList",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -15234,9 +15235,9 @@
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
         "FFlagUseConvexDecompV8Format_PlaceFilter": "False;3351674303",
-        "FStringFlagRepoGitHashFastString": "6d77f8f7ef65431cb284d3a2252677f216723d3d",
-        "DFStringFlagRepoGitHashDynamicString": "6d77f8f7ef65431cb284d3a2252677f216723d3d",
-        "FStringFlipTimeStampFastString": "2025-12-09T00:26:57.020Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T00:26:57.020Z"
+        "FStringFlagRepoGitHashFastString": "2e5beccf1b391e31577b62b45909cf9a90304ea2",
+        "DFStringFlagRepoGitHashDynamicString": "2e5beccf1b391e31577b62b45909cf9a90304ea2",
+        "FStringFlipTimeStampFastString": "2025-12-09T00:33:03.970Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T00:33:03.970Z"
     }
 }

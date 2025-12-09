@@ -14222,8 +14222,6 @@
         "DFIntEnableChatButtonShownThrottlePermyriad": "10000",
         "FFlagAXFormatPDPPriceLabel": "True",
         "FFlagAvatarAssetRecenterRigidAccessories": "True",
-        "FStringContactsListEmojiSortingIxpLayer_Staged": "Social.ContactsList;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:29:31",
-        "FFlagContactsListEmojiSortingIxpEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-08T23:29:35",
         "FFlagCommandBarToggleSavedTelemetry": "True",
         "FFlagFoundationFixOptionSelectorGroupItemSize": "True",
         "FFlagCrashReportStudioStreamingCorrectly": "True",
@@ -14238,6 +14236,9 @@
         "FFlagUseAppCrashpadReporterForAndroidHangMonitor": "True",
         "FFlagEnableAvatarGuidelinesLink": "True",
         "FFlagEnableComponentMapOnObject": "True",
+        "FFlagMonotonicBackground_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T00:27:46",
+        "FFlagContactsListEmojiSortingIxpEnabled": "True",
+        "FStringContactsListEmojiSortingIxpLayer": "Social.ContactsList",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14989,7 +14990,7 @@
         "FFlagEnableNavBarLabels3": "True",
         "FFlagUpdateNudgeV3VoiceBanUI2": "True",
         "FIntRuntimeMaxNumOfConditions": "2400",
-        "FIntRuntimeMaxNumOfMutexes": "3500",
+        "FIntRuntimeMaxNumOfMutexes": "5500",
         "FFlagGuildedGameOverlaySupport": "True",
         "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;18973713348",
         "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
@@ -15288,10 +15289,9 @@
         "DFFlagCrashMetricStorageEnableBufferConstantReporting_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "DFIntPerformanceControlCrashMetricAlgorithmType_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Windows;214407450;flagbank",
-        "FIntRuntimeMaxNumOfMutexes_Staged": "5500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1821661256;2025-12-08T23:28:45",
-        "FStringFlagRepoGitHashFastString": "6d77f8f7ef65431cb284d3a2252677f216723d3d",
-        "DFStringFlagRepoGitHashDynamicString": "6d77f8f7ef65431cb284d3a2252677f216723d3d",
-        "FStringFlipTimeStampFastString": "2025-12-09T00:26:57.020Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T00:26:57.020Z"
+        "FStringFlagRepoGitHashFastString": "2e5beccf1b391e31577b62b45909cf9a90304ea2",
+        "DFStringFlagRepoGitHashDynamicString": "2e5beccf1b391e31577b62b45909cf9a90304ea2",
+        "FStringFlipTimeStampFastString": "2025-12-09T00:33:03.970Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T00:33:03.970Z"
     }
 }
