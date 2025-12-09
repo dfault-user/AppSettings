@@ -14257,6 +14257,7 @@
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagExperienceStateCaptureSafetySelectionMode2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T18:41:19",
         "DFFlagLuauInstancesBatched_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T18:44:12",
+        "FFlagGetPartCollisionsNew_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T18:45:56",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16211,13 +16212,13 @@
         "DFFlagSAuthFixResimulationAnimationSlowdown": "True",
         "FFlagTextureCompressorUseRSLThread": "True",
         "FFlagAICOSilenceEmtpyResponseWarning": "True",
-        "FFlagEnableReverseDelegationPublishPlaceAs2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T17:45:29",
         "FFlagLuauNewOverloadResolver2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T17:56:34",
         "FFlagServerAuthorityCoreAPIBetaFeature2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-09T18:11:56",
         "DFFlagPerfDataServerAuthorityMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;43023188;2025-12-09T18:28:26",
         "DFFlagServerAuthorityPredictionEventEnabled2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;43023188;2025-12-09T18:28:26",
         "DFFlagSessionTrackingServerAuthorityMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;43023188;2025-12-09T18:28:26",
         "DFIntServerAuthorityPredictionEventHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;43023188;2025-12-09T18:28:26",
+        "FFlagEnableReverseDelegationPublishPlaceAs2": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
         "FFlagVoxelGridFixTerrainRegionWater": "True",
@@ -16714,9 +16715,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "ee7ec1c322b17a45553630df7daa53e0c9352d5b",
-        "DFStringFlagRepoGitHashDynamicString": "ee7ec1c322b17a45553630df7daa53e0c9352d5b",
-        "FStringFlipTimeStampFastString": "2025-12-09T18:45:26.793Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-09T18:45:26.793Z"
+        "FStringFlagRepoGitHashFastString": "ad0222ba8a5d77b3aa5a9dd2cedaa760eb569e1a",
+        "DFStringFlagRepoGitHashDynamicString": "ad0222ba8a5d77b3aa5a9dd2cedaa760eb569e1a",
+        "FStringFlipTimeStampFastString": "2025-12-09T18:47:22.569Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-09T18:47:22.569Z"
     }
 }
