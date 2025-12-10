@@ -14299,8 +14299,6 @@
         "FFlagAddGuiInsetToDisplayStore": "True",
         "FFlagLuaAppUpdateOverflowMenuItemId": "True",
         "FFlagVideoCaptureUseNewService2": "True",
-        "FFlagStudioStartPlaySoloTelemetryV2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T19:05:36",
-        "FFlagOpenUserLuaProfileFromEDP_V4_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T19:06:05",
         "DFIntDelayRewardedAdsInSeconds_UniverseFilter": "1;1202096104;184199275",
         "FFlagAvatarAssetIECUpdateInProgressPublishes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T19:25:04",
         "FFlagAvatarAssetIECGetModeratedTextResult_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T19:26:14",
@@ -14309,6 +14307,9 @@
         "FFlagNamedMutexUseRuntime2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T19:35:07",
         "FFlagVideoWinCodecRefactor_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T20:02:05",
         "FFlagOpenUserLuaProfileFromItemPage_V3": "True",
+        "FFlagStudioStartPlaySoloTelemetryV2": "True",
+        "FFlagOpenUserLuaProfileFromEDP_V4": "True",
+        "DFIntBatchLogEventSenderInfoOutputLogsUniverseSamplingPerMille_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T20:14:05",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -15305,9 +15306,9 @@
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagVoiceWebrtcOnSignalingThread6_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;608574396;2025-12-10T20:01:29",
-        "FStringFlagRepoGitHashFastString": "bebf492fc7df7a3a0a0ee0fc2aaf22733d91261b",
-        "DFStringFlagRepoGitHashDynamicString": "bebf492fc7df7a3a0a0ee0fc2aaf22733d91261b",
-        "FStringFlipTimeStampFastString": "2025-12-10T20:07:31.237Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T20:07:31.237Z"
+        "FStringFlagRepoGitHashFastString": "526599f5a5a3939b948ef012757c50a4b7bd0a26",
+        "DFStringFlagRepoGitHashDynamicString": "526599f5a5a3939b948ef012757c50a4b7bd0a26",
+        "FStringFlipTimeStampFastString": "2025-12-10T20:15:33.096Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T20:15:33.096Z"
     }
 }
