@@ -15201,7 +15201,7 @@
         "FFlagEnableEdpStoreImpressionsLogging2": "True",
         "FFlagVideoPlaybackIxpLayerEnabled_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
         "FFlagEnableMacOSHardwareDecode3_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
-        "DFIntMinSizeToCacheSharedStringBytes": "35000",
+        "DFIntMinSizeToCacheSharedStringBytes": "18000",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB": "125",
@@ -15335,10 +15335,9 @@
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagAXRemoveCategorySubcategoryId2": "True",
-        "DFIntMinSizeToCacheSharedStringBytes_Staged": "18000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T21:39:20",
-        "FStringFlagRepoGitHashFastString": "bb3fd72fda691d734cba87db0498273fa87f7991",
-        "DFStringFlagRepoGitHashDynamicString": "bb3fd72fda691d734cba87db0498273fa87f7991",
-        "FStringFlipTimeStampFastString": "2025-12-10T22:38:18.749Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:38:18.749Z"
+        "FStringFlagRepoGitHashFastString": "ce9f059aa98b531f85c78f31d09eff7e4687cea0",
+        "DFStringFlagRepoGitHashDynamicString": "ce9f059aa98b531f85c78f31d09eff7e4687cea0",
+        "FStringFlipTimeStampFastString": "2025-12-10T22:41:52.502Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:41:52.502Z"
     }
 }
