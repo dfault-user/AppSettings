@@ -14305,7 +14305,6 @@
         "FFlagOpenUserLuaProfileFromItemPage_V3": "True",
         "FFlagStudioStartPlaySoloTelemetryV2": "True",
         "FFlagOpenUserLuaProfileFromEDP_V4": "True",
-        "FFlagNewCameraControls_EnableInputLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T20:24:07",
         "FFlagAvatarAssetIECUpdateInProgressPublishes": "True",
         "FFlagAvatarAssetIECGetModeratedTextResult": "True",
         "FFlagNamedMutexUseRuntime2": "True",
@@ -14313,6 +14312,7 @@
         "FFlagDisableAndroidDialogsHybridModule_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T20:57:47",
         "FFlagVideoWinCodecRefactor": "True",
         "DFIntBatchLogEventSenderInfoOutputLogsUniverseSamplingPerMille": "1",
+        "FFlagNewCameraControls_EnableInputLogging": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14676,9 +14676,9 @@
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagSignalSubserviceVoiceChatRestrictionStatus": "True",
         "FIntRuntimeMaxNumOfMutexes_Staged": "7500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;775558341;2025-12-10T20:35:46",
-        "FStringFlagRepoGitHashFastString": "ae75c6ad8e16654da983f94664014bcf929044b4",
-        "DFStringFlagRepoGitHashDynamicString": "ae75c6ad8e16654da983f94664014bcf929044b4",
-        "FStringFlipTimeStampFastString": "2025-12-10T21:20:37.326Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T21:20:37.326Z"
+        "FStringFlagRepoGitHashFastString": "e837a91f4041d6a2688108838f435dafa3a6db44",
+        "DFStringFlagRepoGitHashDynamicString": "e837a91f4041d6a2688108838f435dafa3a6db44",
+        "FStringFlipTimeStampFastString": "2025-12-10T21:26:50.441Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T21:26:50.441Z"
     }
 }
