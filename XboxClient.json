@@ -14013,7 +14013,7 @@
         "FFlagLuaAppRfySignalApportioningIxp4": "True",
         "FFlagAvoidSimpleTimerOutsideTaskInPublishService": "True",
         "DFFlagEnableSecureTeleport3": "False",
-        "DFFlagProductInfoBatchingRequestOrchestratorEnabled": "False",
+        "DFFlagProductInfoBatchingRequestOrchestratorEnabled": "True",
         "FFlagSlimProfileTelemetry": "True",
         "FFlagSimRuntimeContentTranscodeBlockingCall": "True",
         "FFlagSessionEventV2MigrationWithBTID": "True",
@@ -14287,7 +14287,6 @@
         "FFlagSlimTranscoderUseFloatColor": "True",
         "FFlagClumplessFixOptimizeAnimatedBones": "True",
         "DFIntRbxStorageDropCacheErrorsThreshold2": "1000000",
-        "DFFlagProductInfoBatchingRequestOrchestratorEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T00:24:21",
         "FFlagFoundationOverlayMountReorder": "True",
         "FFlagFoundationPopoverFixArrowPositioning": "True",
         "FFlagFoundationInternalInputSelectedStylesAndSpacing": "True",
@@ -14657,9 +14656,9 @@
         "DFFlagIdempotentDevProductPurchasingEnabled": "True",
         "DFFlagRequestOrchestratorQueueExpirationEnabled": "True",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
-        "FStringFlagRepoGitHashFastString": "50da66ad40321d30dc20d29ed8363ddf19b39590",
-        "DFStringFlagRepoGitHashDynamicString": "50da66ad40321d30dc20d29ed8363ddf19b39590",
-        "FStringFlipTimeStampFastString": "2025-12-10T01:01:52.775Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T01:01:52.775Z"
+        "FStringFlagRepoGitHashFastString": "f7dcda20e2fc91eaf4ac55a031e6eea2e9128faa",
+        "DFStringFlagRepoGitHashDynamicString": "f7dcda20e2fc91eaf4ac55a031e6eea2e9128faa",
+        "FStringFlipTimeStampFastString": "2025-12-10T01:26:27.365Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T01:26:27.365Z"
     }
 }
