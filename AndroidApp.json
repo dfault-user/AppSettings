@@ -15296,9 +15296,10 @@
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagEnableBackgroundPushSettingsReporting2_IXP": "1;Portal.android_notifs_bg_job_dau_2-1765323922;android_notifs_bg_job_dau_2;776304974;flagbank",
         "FIntRuntimeMaxNumOfMutexes_Staged": "7500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;775558341;2025-12-10T20:35:46",
-        "FStringFlagRepoGitHashFastString": "e837a91f4041d6a2688108838f435dafa3a6db44",
-        "DFStringFlagRepoGitHashDynamicString": "e837a91f4041d6a2688108838f435dafa3a6db44",
-        "FStringFlipTimeStampFastString": "2025-12-10T21:26:50.441Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T21:26:50.441Z"
+        "DFIntMinSizeToCacheSharedStringBytes_Staged": "18000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T21:39:20",
+        "FStringFlagRepoGitHashFastString": "1e1213241ba236ccf51dbe19ecad7ae0bdd3626c",
+        "DFStringFlagRepoGitHashDynamicString": "1e1213241ba236ccf51dbe19ecad7ae0bdd3626c",
+        "FStringFlipTimeStampFastString": "2025-12-10T21:40:21.804Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T21:40:21.804Z"
     }
 }

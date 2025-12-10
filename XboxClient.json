@@ -14494,7 +14494,7 @@
         "FIntXboxInferredCrashThrottleHundredthsPercent": "10000",
         "FFlagTenFootUiSupportSortHeaderTooltip2": "True",
         "FIntRuntimeMaxNumOfConditions": "6500",
-        "FIntRuntimeMaxNumOfMutexes": "6500",
+        "FIntRuntimeMaxNumOfMutexes": "7500",
         "FFlagXboxInferredCrashUnbufferedIO": "True",
         "FFlagXboxAddHangTimerAndLKStoBT": "True",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
@@ -14675,10 +14675,10 @@
         "DFFlagRequestOrchestratorQueueExpirationEnabled": "True",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagSignalSubserviceVoiceChatRestrictionStatus": "True",
-        "FIntRuntimeMaxNumOfMutexes_Staged": "7500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;775558341;2025-12-10T20:35:46",
-        "FStringFlagRepoGitHashFastString": "e837a91f4041d6a2688108838f435dafa3a6db44",
-        "DFStringFlagRepoGitHashDynamicString": "e837a91f4041d6a2688108838f435dafa3a6db44",
-        "FStringFlipTimeStampFastString": "2025-12-10T21:26:50.441Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T21:26:50.441Z"
+        "DFIntMinSizeToCacheSharedStringBytes_Staged": "18000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T21:39:20",
+        "FStringFlagRepoGitHashFastString": "686898efeb3a234350d3f8a9e431fbe5c74e87cb",
+        "DFStringFlagRepoGitHashDynamicString": "686898efeb3a234350d3f8a9e431fbe5c74e87cb",
+        "FStringFlipTimeStampFastString": "2025-12-10T21:41:53.524Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T21:41:53.524Z"
     }
 }

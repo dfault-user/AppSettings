@@ -15061,7 +15061,7 @@
         "FFlagEnableNavBarLabels3": "True",
         "FFlagUpdateNudgeV3VoiceBanUI2": "True",
         "FIntRuntimeMaxNumOfConditions": "6500",
-        "FIntRuntimeMaxNumOfMutexes": "6500",
+        "FIntRuntimeMaxNumOfMutexes": "7500",
         "FFlagGuildedGameOverlaySupport": "True",
         "DFFlagEnableWindowsWebviewUrlWhitelisting_PlaceFilter": "True;15098120933;13398434647;14298635815;17284537980;13398230007;18973713348",
         "FFlagEnableCrossExpVoiceLaunchFeasibilityExperiment": "True",
@@ -15372,9 +15372,10 @@
         "FFlagUnibarMenuOpenHamburgerGamepadIXP684": "True",
         "FIntRuntimeMaxNumOfMutexes_Staged": "7500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;775558341;2025-12-10T20:35:46",
         "DFFlagPCGDKFixDtorCrash_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T21:19:06",
-        "FStringFlagRepoGitHashFastString": "e837a91f4041d6a2688108838f435dafa3a6db44",
-        "DFStringFlagRepoGitHashDynamicString": "e837a91f4041d6a2688108838f435dafa3a6db44",
-        "FStringFlipTimeStampFastString": "2025-12-10T21:26:50.441Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T21:26:50.441Z"
+        "DFIntMinSizeToCacheSharedStringBytes_Staged": "18000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T21:39:20",
+        "FStringFlagRepoGitHashFastString": "1e1213241ba236ccf51dbe19ecad7ae0bdd3626c",
+        "DFStringFlagRepoGitHashDynamicString": "1e1213241ba236ccf51dbe19ecad7ae0bdd3626c",
+        "FStringFlipTimeStampFastString": "2025-12-10T21:40:21.804Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T21:40:21.804Z"
     }
 }
