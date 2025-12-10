@@ -14308,11 +14308,11 @@
         "FFlagAvatarAssetIECUpdateInProgressPublishes": "True",
         "FFlagAvatarAssetIECGetModeratedTextResult": "True",
         "FFlagNamedMutexUseRuntime2": "True",
-        "FFlagDisableAndroidAnalyticsHybridModule_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T20:55:32",
-        "FFlagDisableAndroidDialogsHybridModule_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T20:57:47",
         "FFlagVideoWinCodecRefactor": "True",
         "DFIntBatchLogEventSenderInfoOutputLogsUniverseSamplingPerMille": "1",
         "FFlagNewCameraControls_EnableInputLogging": "True",
+        "FFlagDisableAndroidAnalyticsHybridModule": "True",
+        "FFlagDisableAndroidDialogsHybridModule": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15296,9 +15296,9 @@
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagEnableBackgroundPushSettingsReporting2_IXP": "1;Portal.android_notifs_bg_job_dau_2-1765323922;android_notifs_bg_job_dau_2;776304974;flagbank",
         "DFIntMinSizeToCacheSharedStringBytes_Staged": "18000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T21:39:20",
-        "FStringFlagRepoGitHashFastString": "407e6dc1e0acd21bf0d4ea0efe976642a90f1e44",
-        "DFStringFlagRepoGitHashDynamicString": "407e6dc1e0acd21bf0d4ea0efe976642a90f1e44",
-        "FStringFlipTimeStampFastString": "2025-12-10T21:55:28.321Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T21:55:28.321Z"
+        "FStringFlagRepoGitHashFastString": "505241f51f11f63876a65c862fc4b9ceccfb7a79",
+        "DFStringFlagRepoGitHashDynamicString": "505241f51f11f63876a65c862fc4b9ceccfb7a79",
+        "FStringFlipTimeStampFastString": "2025-12-10T22:01:38.355Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:01:38.355Z"
     }
 }
