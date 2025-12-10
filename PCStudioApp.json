@@ -14315,6 +14315,7 @@
         "FFlagDisableAndroidDialogsHybridModule": "True",
         "FFlagOpenXrAvoidCrashesOnHeadsetDisconnection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T22:10:56",
         "FFlagDisableTtiExperiment2025FlagCaching_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1057810519;2025-12-10T22:11:26",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16286,7 +16287,6 @@
         "FFlagLuauCompileCallCostModel": "True",
         "FStringServerAuthorityCoreAPIBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-build-fair-responsive-games-with-server-authority/4139157",
         "FFlagFixEmissiveTransformMissingContent": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -16709,7 +16709,6 @@
         "DFFlagWindowsReduceFrameCapDuringMoveSizeLoop": "True",
         "FStringSessionDataInclusionInHttpHeaders": "Home,Games,AvatarExperienceRoot,Chat,More,Landing,Startup,PlayingGame",
         "FFlagLuaAppFixEmptyRecommendedGames": "True",
-        "FFlagRefactorScrollableToModifier3": "False",
         "FFlagTexturePacksFallbackReferenceManaged": "True",
         "FFlagTexturePriorityBasedOnDistance": "True",
         "FFlagFMDVariableNumSubsetJoints": "True",
@@ -16736,7 +16735,6 @@
         "FFlagSduiClientBinding4": "True",
         "FFlagLuaAppFixSearchGridTileFlagPlayButton": "True",
         "FFlagLuaAppSnappingNilCheckVideoItem": "True",
-        "FFlagRefactorScrollableToModifier4": "False",
         "FFlagLuaAppAddPlaceholderRecoveryCounter": "True",
         "FFlagLuaAppAdjustOverflowMenuVisual": "True",
         "FFlagHighlightModePreciseSelectionEnabled3": "True",
@@ -16779,9 +16777,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "8c998179594dd69ee8da9107f169d047ae3d9e41",
-        "DFStringFlagRepoGitHashDynamicString": "8c998179594dd69ee8da9107f169d047ae3d9e41",
-        "FStringFlipTimeStampFastString": "2025-12-10T22:12:51.646Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:12:51.646Z"
+        "FStringFlagRepoGitHashFastString": "24d5fd8f8898510f294cce36dd1911789708ee6c",
+        "DFStringFlagRepoGitHashDynamicString": "24d5fd8f8898510f294cce36dd1911789708ee6c",
+        "FStringFlipTimeStampFastString": "2025-12-10T22:16:57.599Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:16:57.599Z"
     }
 }
