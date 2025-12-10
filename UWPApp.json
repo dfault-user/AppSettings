@@ -14313,6 +14313,8 @@
         "FFlagNewCameraControls_EnableInputLogging": "True",
         "FFlagDisableAndroidAnalyticsHybridModule": "True",
         "FFlagDisableAndroidDialogsHybridModule": "True",
+        "FFlagOpenXrAvoidCrashesOnHeadsetDisconnection_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T22:10:56",
+        "FFlagDisableTtiExperiment2025FlagCaching_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1057810519;2025-12-10T22:11:26",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14608,9 +14610,9 @@
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
         "FFlagUwpMigrationNextPhase": "True",
-        "FStringFlagRepoGitHashFastString": "505241f51f11f63876a65c862fc4b9ceccfb7a79",
-        "DFStringFlagRepoGitHashDynamicString": "505241f51f11f63876a65c862fc4b9ceccfb7a79",
-        "FStringFlipTimeStampFastString": "2025-12-10T22:01:38.355Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:01:38.355Z"
+        "FStringFlagRepoGitHashFastString": "8c998179594dd69ee8da9107f169d047ae3d9e41",
+        "DFStringFlagRepoGitHashDynamicString": "8c998179594dd69ee8da9107f169d047ae3d9e41",
+        "FStringFlipTimeStampFastString": "2025-12-10T22:12:51.646Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:12:51.646Z"
     }
 }
