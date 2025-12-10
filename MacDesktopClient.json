@@ -14297,8 +14297,6 @@
         "FFlagTraversalUseFocusNavLastInput": "True",
         "FFlagLuaAppFixWhyThisAdModalErrorHandling": "True",
         "FFlagAddGuiInsetToDisplayStore": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
-        "FFlagFFlagFixContextualMenu_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T18:29:55",
         "FFlagLuaAppUpdateOverflowMenuItemId": "True",
         "FFlagVideoCaptureUseNewService2": "True",
         "FFlagOpenUserLuaProfileFromItemPage_V3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T19:01:19",
@@ -14308,6 +14306,9 @@
         "DFIntDelayRewardedAdsInSeconds_UniverseFilter": "1;1202096104;184199275",
         "FFlagAvatarAssetIECUpdateInProgressPublishes_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T19:25:04",
         "FFlagAvatarAssetIECGetModeratedTextResult_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T19:26:14",
+        "FFlagFFlagFixContextualMenu": "True",
+        "FFlagExtractImpressionNavigationDep": "True",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -14755,7 +14756,6 @@
         "FFlagAvatarSwitcherFtuxTooltip_IXP": "1;UIEcosystem.User.Migration;IxpFlagLink;1312725306;flagbank",
         "FFlagEnableInExperienceAvatarSwitcher9_IXP": "1;UIEcosystem.User.Migration;IxpFlagLink;1312725306;flagbank",
         "FFlagRemoveAvatarSwitcherIfUnsupported_IXP": "1;UIEcosystem.User.Migration;IxpFlagLink;1312725306;flagbank",
-        "FFlagExtractImpressionNavigationDep": "True",
         "FFlagAddPeoplePageCardLayout4_IXP": "1;UIEcosystem.User.Migration;IxpFlagLink;398703262;flagbank",
         "FFlagIncreaseLegacyPeopleRowButtonSize_IXP": "1;UIEcosystem.User.Migration;IxpFlagLink;398703262;flagbank",
         "FFlagMoveInExperienceModeToEditProfile_V2_IXP": "1;UIEcosystem.User.Migration;IxpFlagLink;398703262;flagbank",
@@ -15304,9 +15304,9 @@
         "FFlagVoiceWebrtcOnSignalingThread6": "True",
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "167adb63bfde0a042dae30816bd601f223023f17",
-        "DFStringFlagRepoGitHashDynamicString": "167adb63bfde0a042dae30816bd601f223023f17",
-        "FStringFlipTimeStampFastString": "2025-12-10T19:31:33.133Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T19:31:33.133Z"
+        "FStringFlagRepoGitHashFastString": "202d342ec8233663b97372691e99c3aaaed635f1",
+        "DFStringFlagRepoGitHashDynamicString": "202d342ec8233663b97372691e99c3aaaed635f1",
+        "FStringFlipTimeStampFastString": "2025-12-10T19:33:02.045Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T19:33:02.045Z"
     }
 }
