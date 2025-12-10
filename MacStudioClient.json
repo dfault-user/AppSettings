@@ -14305,7 +14305,6 @@
         "FFlagOpenUserLuaProfileFromItemPage_V3": "True",
         "FFlagStudioStartPlaySoloTelemetryV2": "True",
         "FFlagOpenUserLuaProfileFromEDP_V4": "True",
-        "DFIntBatchLogEventSenderInfoOutputLogsUniverseSamplingPerMille_Staged": "1;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T20:14:05",
         "FFlagNewCameraControls_EnableInputLogging_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T20:24:07",
         "FFlagAvatarAssetIECUpdateInProgressPublishes": "True",
         "FFlagAvatarAssetIECGetModeratedTextResult": "True",
@@ -14313,6 +14312,7 @@
         "FFlagDisableAndroidAnalyticsHybridModule_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T20:55:32",
         "FFlagDisableAndroidDialogsHybridModule_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T20:57:47",
         "FFlagVideoWinCodecRefactor": "True",
+        "DFIntBatchLogEventSenderInfoOutputLogsUniverseSamplingPerMille": "1",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16749,9 +16749,9 @@
         "FFlagRuntimeEnabled13": "False",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "9ec8ed5aa045f62645f234d15b0c643a42ade496",
-        "DFStringFlagRepoGitHashDynamicString": "9ec8ed5aa045f62645f234d15b0c643a42ade496",
-        "FStringFlipTimeStampFastString": "2025-12-10T21:15:56.512Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T21:15:56.512Z"
+        "FStringFlagRepoGitHashFastString": "a780aab7e89e6dfe8a208048e7ed228bf4da32e6",
+        "DFStringFlagRepoGitHashDynamicString": "a780aab7e89e6dfe8a208048e7ed228bf4da32e6",
+        "FStringFlipTimeStampFastString": "2025-12-10T21:16:38.970Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T21:16:38.970Z"
     }
 }
