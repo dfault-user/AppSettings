@@ -14321,6 +14321,9 @@
         "FFlagAppChatNewMoreMenuIconIxpEnabled_IXP": "1;Party.ConversationPage;PartyChat.NewMoreMenu;838181377;dev_controlled",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad_UniverseFilter": "1000;6701277882",
         "FFlagFoundationSheetFixLandscapeFlicker_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1804530541;2025-12-10T22:45:39",
+        "FFlagFoundationSheetNoCenterSheetSmallScreens2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1847721814;2025-12-10T22:47:19",
+        "FFlagFoundationSheetSideSheetTopBarFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1847721814;2025-12-10T22:47:19",
+        "FFlagUsePresenceDataFromRtn_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T22:47:40",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15270,8 +15273,8 @@
         "DFIntMigrateTriangleMeshPartTestScale": "0",
         "DFIntNetStackDummyClientMaxConnectionAttempts": "10000",
         "DFIntMinSizeToCacheSharedStringBytes": "18000",
-        "FFlagEnableSharedStringCaching7_IXP": "1;Portal.WindowsMacSharedStringCaching-1762382334;WindowsMacSharedStringCaching;47481494;flagbank",
-        "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.WindowsMacSharedStringCaching-1762382334;WindowsMacSharedStringCaching;47481494;flagbank",
+        "FFlagEnableSharedStringCaching7_IXP": "1;Portal.WindowsMacSharedStringCachingIncrPercentage-1765406775;WindowsMacSharedStringCachingIncrPercentage;1529102998;flagbank",
+        "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.WindowsMacSharedStringCachingIncrPercentage-1765406775;WindowsMacSharedStringCachingIncrPercentage;1529102998;flagbank",
         "FFlagLuaAppEdpBackendV2LogUniverseIdForEvents": "True",
         "DFIntAPDecompressChunkSize": "32768",
         "DFIntAPMinBytesToMMapUncompressedAssetRegular": "10485760",
@@ -15313,9 +15316,11 @@
         "FFlagVoiceWebrtcOnSignalingThread6": "False",
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "fe16d87b7bca3779b3bcc8700bf304fba6a4af16",
-        "DFStringFlagRepoGitHashDynamicString": "fe16d87b7bca3779b3bcc8700bf304fba6a4af16",
-        "FStringFlipTimeStampFastString": "2025-12-10T22:47:58.313Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:47:58.313Z"
+        "FIntSharedStringCacheThrottleHP_Staged": "50;SteadyState;10;30;Revert;true;1529102998;2025-12-10T22:46:56",
+        "FFlagEnableSharedStringCaching7_Staged": "True;SteadyState;10;30;Revert;true;1529102998;2025-12-10T22:46:56",
+        "FStringFlagRepoGitHashFastString": "737d45bd95360ee3ab7fb1f282fae1aa43e5faf3",
+        "DFStringFlagRepoGitHashDynamicString": "737d45bd95360ee3ab7fb1f282fae1aa43e5faf3",
+        "FStringFlipTimeStampFastString": "2025-12-10T22:49:33.144Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:49:33.144Z"
     }
 }
