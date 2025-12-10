@@ -14317,6 +14317,10 @@
         "FFlagDisableTtiExperiment2025FlagCaching_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1057810519;2025-12-10T22:11:26",
         "AllowVideoPreRoll": "True",
         "FFlagEnableWhiteOverlayForRobloxIconInStreamNotifications_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T22:33:35",
+        "FFlagAppChatNewMoreMenuIcon1_Staged": "True;SteadyState;10;30;Revert;true;838181377;2025-12-10T22:34:41",
+        "FFlagAppChatNewMoreMenuIcon1_IXP": "1;Party.ConversationPage;PartyChat.NewMoreMenu;838181377;dev_controlled",
+        "FFlagAppChatNewMoreMenuIconIxpEnabled_Staged": "True;SteadyState;10;30;Revert;true;838181377;2025-12-10T22:34:41",
+        "FFlagAppChatNewMoreMenuIconIxpEnabled_IXP": "1;Party.ConversationPage;PartyChat.NewMoreMenu;838181377;dev_controlled",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15332,9 +15336,9 @@
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagAXRemoveCategorySubcategoryId2": "True",
         "DFIntMinSizeToCacheSharedStringBytes_Staged": "18000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T21:39:20",
-        "FStringFlagRepoGitHashFastString": "2a96470c4192f17a4d169a8c94b2f41b5ee139c0",
-        "DFStringFlagRepoGitHashDynamicString": "2a96470c4192f17a4d169a8c94b2f41b5ee139c0",
-        "FStringFlipTimeStampFastString": "2025-12-10T22:34:40.811Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:34:40.811Z"
+        "FStringFlagRepoGitHashFastString": "4292d1f73850c12feb468dc1be416bbad9656b67",
+        "DFStringFlagRepoGitHashDynamicString": "4292d1f73850c12feb468dc1be416bbad9656b67",
+        "FStringFlipTimeStampFastString": "2025-12-10T22:36:24.308Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:36:24.308Z"
     }
 }
