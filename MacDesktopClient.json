@@ -13585,7 +13585,6 @@
         "FFlagEmitterSharedCurvePool": "False",
         "FFlagAXSendSessionForEvents": "True",
         "FFlagSlimNoRandomSeedFromPart": "True",
-        "FFlagUsePresenceDataFromRtn_IXP": "1;Social.Presence.Frontend;Social.Presence.BackendOnlineFriendsSort.M1.V2;225515523;flagbank",
         "DFIntSQLiteFullChkpointMaxReport": "3",
         "FFlagBlockLoadWhenAdIsPlaying": "True",
         "DFFlagEnableAdsLifecycleErrorEvent": "True",
@@ -14171,7 +14170,6 @@
         "DFIntValidateUGCThrottleEventsServer": "10",
         "DFFlagStreamingSolverUpdateSpatialSetsFunc": "True",
         "DFFlagLrStatsEnhance": "True",
-        "DFIntTextChatMessageClientReceivedThrottlePermyriad_PlaceFilter": "1000;121864768012064",
         "FFlagAppChatChatBubbleUIRevampIxpEnabled_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp-V2;509308483;dev_controlled",
         "FFlagAppChatEnableNewChatBubbleUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp-V2;509308483;dev_controlled",
         "FFlagAppChatEnableNewGameCardUI_IXP": "1;Party.ConversationPage;AppChatChatBubbleUIRevamp-V2;509308483;dev_controlled",
@@ -14321,6 +14319,8 @@
         "FFlagAppChatNewMoreMenuIcon1_IXP": "1;Party.ConversationPage;PartyChat.NewMoreMenu;838181377;dev_controlled",
         "FFlagAppChatNewMoreMenuIconIxpEnabled_Staged": "True;SteadyState;10;30;Revert;true;838181377;2025-12-10T22:34:41",
         "FFlagAppChatNewMoreMenuIconIxpEnabled_IXP": "1;Party.ConversationPage;PartyChat.NewMoreMenu;838181377;dev_controlled",
+        "DFIntTextChatMessageClientReceivedThrottlePermyriad_UniverseFilter": "1000;6701277882",
+        "FFlagFoundationSheetFixLandscapeFlicker_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;1804530541;2025-12-10T22:45:39",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15313,9 +15313,9 @@
         "FFlagVoiceWebrtcOnSignalingThread6": "False",
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "bb3fd72fda691d734cba87db0498273fa87f7991",
-        "DFStringFlagRepoGitHashDynamicString": "bb3fd72fda691d734cba87db0498273fa87f7991",
-        "FStringFlipTimeStampFastString": "2025-12-10T22:38:18.749Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:38:18.749Z"
+        "FStringFlagRepoGitHashFastString": "fe16d87b7bca3779b3bcc8700bf304fba6a4af16",
+        "DFStringFlagRepoGitHashDynamicString": "fe16d87b7bca3779b3bcc8700bf304fba6a4af16",
+        "FStringFlipTimeStampFastString": "2025-12-10T22:47:58.313Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:47:58.313Z"
     }
 }
