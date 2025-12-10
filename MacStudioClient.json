@@ -14295,11 +14295,11 @@
         "FFlagRemoveLoggingHookForCorescriptGlobalEffects2_IXP": "1;InExperience.Performance;CorescriptsGlobalEffectsNoRender;1938879323;flagbank",
         "FFlagEnableNetworkTracingS1": "True",
         "FFlagTraversalUseFocusNavLastInput": "True",
-        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagEnableNetworkTracingS1_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T17:28:54",
         "FFlagLuaAppUpdateOverflowMenuItemId_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T17:29:31",
         "FFlagVideoCaptureUseNewService2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T17:51:46",
         "FFlagLuaAppFixWhyThisAdModalErrorHandling": "True",
+        "FFlagAddGuiInsetToDisplayStore": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16272,6 +16272,7 @@
         "FFlagLuauCodegenIntegerAddSub": "True",
         "FFlagLuauCompileCallCostModel": "True",
         "FStringServerAuthorityCoreAPIBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-build-fair-responsive-games-with-server-authority/4139157",
+        "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -16624,7 +16625,6 @@
         "FFlagTelemetryProtoSerializationForBatch2": "True",
         "FFlagNewPeoplePageIcons5": "True",
         "FFlagAvatarSwitcherPlayRandomEmote": "True",
-        "FFlagAddGuiInsetToDisplayStore": "True",
         "FFlagAddTraversalBackButton699v1": "True",
         "FFlagAddTraversalBackButtonAnimation699v1": "True",
         "FFlagAddTraversalHistory699v1": "True",
@@ -16739,9 +16739,9 @@
         "FFlagRuntimeEnabled13": "False",
         "FFlagPerformanceControlUseNewMacMemAvailable": "True",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "79addca460185cec43e1c5faa290956c35d301ff",
-        "DFStringFlagRepoGitHashDynamicString": "79addca460185cec43e1c5faa290956c35d301ff",
-        "FStringFlipTimeStampFastString": "2025-12-10T18:18:10.280Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T18:18:10.280Z"
+        "FStringFlagRepoGitHashFastString": "a3a541c03c3a9cb6275078046a39b50d68a5ba1f",
+        "DFStringFlagRepoGitHashDynamicString": "a3a541c03c3a9cb6275078046a39b50d68a5ba1f",
+        "FStringFlipTimeStampFastString": "2025-12-10T18:21:57.497Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T18:21:57.497Z"
     }
 }
