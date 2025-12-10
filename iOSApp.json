@@ -15206,8 +15206,8 @@
         "FFlagVideoPlaybackIxpLayerEnabled_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
         "FFlagEnableMacOSHardwareDecode3_IXP": "1;Portal.Engine.Video.iOSHardwareDecode.V4;Engine.Video.iOSHardwareDecode.V5;1076774866;dev_controlled",
         "DFIntMinSizeToCacheSharedStringBytes": "18000",
-        "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
-        "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Xbox_IOS_SharedStringCachingIXP-1762805165;Xbox_IOS_SharedStringCachingIXP;610014736;flagbank",
+        "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.IOS_Solo_SharedStringCachingIXP-1765407077;IOS_Solo_SharedStringCachingIXP;525964602;flagbank",
+        "FFlagEnableSharedStringCaching7_IXP": "1;Portal.IOS_Solo_SharedStringCachingIXP-1765407077;IOS_Solo_SharedStringCachingIXP;525964602;flagbank",
         "DFIntPerformanceControlMemoryCriticalBufferSizeMB": "125",
         "FFlagPerformanceControlBudgetSystemRollout8_IXP": "1;HarmonyExposure;Harmony_Budget_Based_IXP_IOS_3;598265948;flagbank",
         "FFlagCapturesEnableDownloadForU13": "True",
@@ -15339,9 +15339,11 @@
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagAXRemoveCategorySubcategoryId2": "True",
-        "FStringFlagRepoGitHashFastString": "dde9216ca69156dbbc7124079904d2fd620387d9",
-        "DFStringFlagRepoGitHashDynamicString": "dde9216ca69156dbbc7124079904d2fd620387d9",
-        "FStringFlipTimeStampFastString": "2025-12-10T22:53:42.459Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:53:42.459Z"
+        "FIntSharedStringCacheThrottleHP_Staged": "50;SteadyState;10;30;Revert;true;525964602;2025-12-10T22:51:57",
+        "FFlagEnableSharedStringCaching7_Staged": "True;SteadyState;10;30;Revert;true;525964602;2025-12-10T22:51:57",
+        "FStringFlagRepoGitHashFastString": "fcdc2f1a1d1fb9bf17b092c5f275b339dc985d0d",
+        "DFStringFlagRepoGitHashDynamicString": "fcdc2f1a1d1fb9bf17b092c5f275b339dc985d0d",
+        "FStringFlipTimeStampFastString": "2025-12-10T22:54:02.631Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-10T22:54:02.631Z"
     }
 }
