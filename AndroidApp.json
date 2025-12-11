@@ -14357,7 +14357,6 @@
         "FFlagAXLookDetailsThumbnailStretched": "True",
         "FFlagAXMigrateCategoryTooltip1": "True",
         "FFlagOpenXrRemoveDeviceTypeControllerCheck": "True",
-        "FIntLsbValidateMin_Staged": "512;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T21:28:05",
         "DFFlagAddRefreshHeaderToAssetDelivery": "True",
         "FFlagTelemetryUsePreFlagMutexForReliabilityCounters_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T21:38:32",
         "FFlagAXRemoveCategorySubcategoryId2": "True",
@@ -14373,6 +14372,8 @@
         "DFStringBatchLogEventSenderLinearLoggingUniverseIds_Staged": "7709344486,1686885941,8316902627;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T22:01:53",
         "DFFlagHttpUrlStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T22:08:47",
         "FFlagAssetProviderRefreshStats": "True",
+        "DFFlagNoPlayerFromCharacterSharedPtr_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T22:29:56",
+        "FIntLsbValidateMin": "512",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "CatalogPromoAssetId": "-1",
@@ -15355,9 +15356,9 @@
         "FIntVideoCaptureMaxShortSideLowMem_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.AndroidLowMem.V1;2109692424;dev_controlled",
         "DFIntVideoCaptureLowResOnLowMemThresholdMB_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.AndroidLowMem.V1;2109692424;dev_controlled",
         "FFlagFastClusterFixBoundingBoxUpdates3": "True",
-        "FStringFlagRepoGitHashFastString": "1f438fbdc1ed6ae0e91949eaf0f49947809d67d6",
-        "DFStringFlagRepoGitHashDynamicString": "1f438fbdc1ed6ae0e91949eaf0f49947809d67d6",
-        "FStringFlipTimeStampFastString": "2025-12-11T22:28:26.428Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T22:28:26.428Z"
+        "FStringFlagRepoGitHashFastString": "84a897dd1df23ad4e22b7c2d9c397b2dde08a055",
+        "DFStringFlagRepoGitHashDynamicString": "84a897dd1df23ad4e22b7c2d9c397b2dde08a055",
+        "FStringFlipTimeStampFastString": "2025-12-11T22:31:47.117Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T22:31:47.117Z"
     }
 }
