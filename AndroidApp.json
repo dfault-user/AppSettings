@@ -14335,7 +14335,6 @@
         "DFFlagVideoDynamicAcrPriorityListGeneration_PlaceFilter": "True;99358459705745",
         "DFStringVideoAcrPriorityList_PlaceFilter": "(mp4,1,main);99358459705745",
         "FFlagPPVBackgroundUse2DAsLoadingState": "True",
-        "DFFlagSimStepPhysicsUseRootBodyForBodyFilter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:15:16",
         "FFlagLuauCompileBaseNativeTypes": "True",
         "DFFlagHttpServiceOpenCloudEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:26:39",
         "FFlagVulkanTrackDeferredReleaseMemory": "True",
@@ -14353,6 +14352,8 @@
         "FFlagAXTimeToRefreshClassicShirtCategory2": "True",
         "FFlagAXRemoveUnusedKeyFromClothingCategories": "True",
         "FFlagUWPOpenCertainWebSitesAsRegularWebsites": "True",
+        "FFlagAXRestoreBackButtonForConsole_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T19:15:43",
+        "DFFlagSimStepPhysicsUseRootBodyForBodyFilter": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15335,9 +15336,9 @@
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagEnableBackgroundPushSettingsReporting2_IXP": "1;Portal.android_notifs_bg_job_dau_2-1765323922;android_notifs_bg_job_dau_2;776304974;flagbank",
         "FFlagExtractImpressionNavigationDep_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:50:50",
-        "FStringFlagRepoGitHashFastString": "92ad9c8e315dcf125e127929108e17cd88d0fb39",
-        "DFStringFlagRepoGitHashDynamicString": "92ad9c8e315dcf125e127929108e17cd88d0fb39",
-        "FStringFlipTimeStampFastString": "2025-12-11T19:11:58.939Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T19:11:58.939Z"
+        "FStringFlagRepoGitHashFastString": "15947e5339bfc88dc51acc48f845ef2ab4d9d589",
+        "DFStringFlagRepoGitHashDynamicString": "15947e5339bfc88dc51acc48f845ef2ab4d9d589",
+        "FStringFlipTimeStampFastString": "2025-12-11T19:17:06.751Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T19:17:06.751Z"
     }
 }
