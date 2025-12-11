@@ -14365,7 +14365,7 @@
         "FIntLsbValidateMin": "512",
         "DFFlagFlagRolloutTestDynamicBool0_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T22:36:44",
         "FFlagTelemetryUsePreFlagMutexForReliabilityCounters": "True",
-        "AxisAdornmentGrabSize": "12",
+        "CaptureCountersIntervalInMinutes": "5",
         "FFlagAppLifecycleStateManagerUsesRuntime": "True",
         "FFlagContentProviderPreloadContentBlockingUsesRuntime": "True",
         "FFlagDataModelPatchConfigurerIsLoadingUsesRuntime": "True",
@@ -14390,7 +14390,7 @@
         "DFIntDataStoreStandardWriteFixedRequestLimit_UniverseFilter": "1250;3666294218",
         "DFIntDataStoreStandardWritePerPlayerRequestLimit_UniverseFilter": "100;3666294218",
         "AllowVideoPreRoll": "True",
-        "CaptureCountersIntervalInMinutes": "5",
+        "AxisAdornmentGrabSize": "12",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -16850,9 +16850,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "eedb17eaa5585d0e1081724c6ee15bf0c597f31e",
-        "DFStringFlagRepoGitHashDynamicString": "eedb17eaa5585d0e1081724c6ee15bf0c597f31e",
-        "FStringFlipTimeStampFastString": "2025-12-11T23:27:11.878Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T23:27:11.878Z"
+        "FStringFlagRepoGitHashFastString": "72da19da27f0da9059c4b20552ca350f9fd2fa0b",
+        "DFStringFlagRepoGitHashDynamicString": "72da19da27f0da9059c4b20552ca350f9fd2fa0b",
+        "FStringFlipTimeStampFastString": "2025-12-11T23:29:35.266Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T23:29:35.266Z"
     }
 }
