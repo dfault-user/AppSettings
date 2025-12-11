@@ -12784,7 +12784,7 @@
         "DFIntClientSideUserHashingTelemetryThrottleHundredthsPercent": "10000",
         "DFIntAndroidActivityLifecycleHistoryMaxCount": "30",
         "FFlagInstancePickerFixBlankSpaceClick": "True",
-        "DFFlagFlagRolloutTestDynamicBool0": "False",
+        "DFFlagFlagRolloutTestDynamicBool0": "True",
         "DFFlagFlagRolloutTestDynamicBool1": "True",
         "FFlagFlagRolloutTestStaticBool0": "False",
         "FFlagFlagRolloutTestStaticBool1": "True",
@@ -14362,7 +14362,6 @@
         "FFlagAXTaxonomyWidgetImpressions2": "True",
         "FFlagAssetProviderRefreshStats": "True",
         "FIntLsbValidateMin": "512",
-        "DFFlagFlagRolloutTestDynamicBool0_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T22:36:44",
         "FFlagTelemetryUsePreFlagMutexForReliabilityCounters": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "FFlagAppLifecycleStateManagerUsesRuntime": "True",
@@ -14396,6 +14395,7 @@
         "FFlagFmodDspOfflineNotifications2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T23:36:00",
         "FFlagLuaAppInExperienceDetailsPrompt3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T23:37:22",
         "DFFlagCaptureServiceSendAssetUploadFailureTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;1928829936;2025-12-11T23:40:22",
+        "DFFlagCaptureServiceUpdateUploadTelemetry_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;false;2123676793;2025-12-11T23:42:28",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
         "DFFlagEnableRemoteProfiling": "True",
@@ -16858,9 +16858,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "cd6312ea33d99a8c1071550a09c80aebc75a63e4",
-        "DFStringFlagRepoGitHashDynamicString": "cd6312ea33d99a8c1071550a09c80aebc75a63e4",
-        "FStringFlipTimeStampFastString": "2025-12-11T23:41:24.878Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T23:41:24.878Z"
+        "FStringFlagRepoGitHashFastString": "2b36761c41f690497e8097027b8888c361ef63d3",
+        "DFStringFlagRepoGitHashDynamicString": "2b36761c41f690497e8097027b8888c361ef63d3",
+        "FStringFlipTimeStampFastString": "2025-12-11T23:43:16.078Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T23:43:16.078Z"
     }
 }
