@@ -15352,9 +15352,12 @@
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagEnableBackgroundPushSettingsReporting2_IXP": "1;Portal.android_notifs_bg_job_dau_2-1765323922;android_notifs_bg_job_dau_2;776304974;flagbank",
         "FFlagFastClusterFixBoundingBoxUpdates3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T21:25:34",
-        "FStringFlagRepoGitHashFastString": "251c5890ee83dfd87334d09c8c5bb26622bce543",
-        "DFStringFlagRepoGitHashDynamicString": "251c5890ee83dfd87334d09c8c5bb26622bce543",
-        "FStringFlipTimeStampFastString": "2025-12-11T22:21:22.125Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T22:21:22.125Z"
+        "FIntVideoCaptureMaxLongSideLowMem_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.AndroidLowMem.V1;2109692424;dev_controlled",
+        "FIntVideoCaptureMaxShortSideLowMem_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.AndroidLowMem.V1;2109692424;dev_controlled",
+        "DFIntVideoCaptureLowResOnLowMemThresholdMB_IXP": "1;Engine.Video.WinCapture;Engine.Video.Capture.AndroidLowMem.V1;2109692424;dev_controlled",
+        "FStringFlagRepoGitHashFastString": "ff2f7536b2cace92e51fe0185ae6d523dd713fa7",
+        "DFStringFlagRepoGitHashDynamicString": "ff2f7536b2cace92e51fe0185ae6d523dd713fa7",
+        "FStringFlipTimeStampFastString": "2025-12-11T22:23:40.250Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T22:23:40.250Z"
     }
 }
