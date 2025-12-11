@@ -13340,7 +13340,6 @@
         "FFlagUGCValidateMeshBBoxMinSize": "False",
         "DFIntRenderTextureMaxRetriesNonPreload": "0",
         "FFlagPPVBackgroundEnabledV2_IXP": "1;Social.ProfilePeekView.Secondary;Social.ProfilePeekView.Profile3DCharacters;460092599;dev_controlled",
-        "FFlagPPVBackgroundUse2DAsLoadingState_IXP": "1;Social.ProfilePeekView.Secondary;Social.ProfilePeekView.Profile3DCharacters;460092599;dev_controlled",
         "FFlagEnableRecommendationService": "True",
         "DFFlagEnableCaptureUpload": "True",
         "DFFlagEnableCapturesGalleryRetrieval2": "True",
@@ -14340,6 +14339,8 @@
         "FFlagVulkanTrackDeferredReleaseMemory_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T17:27:53",
         "FFlagLuauCodegenInterruptIsNotForWrites_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T17:36:31",
         "FFlagLuaSetPurchaseRobuxDialogMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T17:36:34",
+        "FFlagPPVBackgroundUse2DAsLoadingState": "True",
+        "FFlagPPVEnable3DBackground_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T17:40:15",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15321,9 +15322,9 @@
         "DFFlagRequestOrchestratorQueueExpirationEnabled": "True",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagEnableBackgroundPushSettingsReporting2_IXP": "1;Portal.android_notifs_bg_job_dau_2-1765323922;android_notifs_bg_job_dau_2;776304974;flagbank",
-        "FStringFlagRepoGitHashFastString": "11c54739ab4ba6de7ba0d2a97a7a9eea9406206e",
-        "DFStringFlagRepoGitHashDynamicString": "11c54739ab4ba6de7ba0d2a97a7a9eea9406206e",
-        "FStringFlipTimeStampFastString": "2025-12-11T17:37:33.955Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T17:37:33.955Z"
+        "FStringFlagRepoGitHashFastString": "03401fe3df89b529c4cbf472222e3410a884b16e",
+        "DFStringFlagRepoGitHashDynamicString": "03401fe3df89b529c4cbf472222e3410a884b16e",
+        "FStringFlipTimeStampFastString": "2025-12-11T17:41:18.731Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T17:41:18.731Z"
     }
 }
