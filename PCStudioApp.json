@@ -14334,8 +14334,6 @@
         "FFlagEnableTtiExperiment2025": "True",
         "DFFlagVideoDynamicAcrPriorityListGeneration_PlaceFilter": "True;99358459705745",
         "DFStringVideoAcrPriorityList_PlaceFilter": "(hls,1,720);105796526973604;136954310107221;95047916580305",
-        "AxisAdornmentGrabSize": "12",
-        "FFlagVulkanTrackDeferredReleaseMemory_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T17:27:53",
         "AllowVideoPreRoll": "True",
         "FFlagLuaSetPurchaseRobuxDialogMode_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T17:36:34",
         "FFlagPPVBackgroundUse2DAsLoadingState": "True",
@@ -14349,6 +14347,9 @@
         "FFlagUWPOpenCertainWebSitesAsRegularWebsites_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:04:31",
         "DFFlagSimStepPhysicsUseRootBodyForBodyFilter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:15:16",
         "FFlagLuauCompileBaseNativeTypes": "True",
+        "AxisAdornmentGrabSize": "12",
+        "FFlagVulkanTrackDeferredReleaseMemory": "True",
+        "FFlagLuauCodegenBlockSafeEnv": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -16306,7 +16307,6 @@
         "DFFlagServerAuthorityPredictionEventEnabled2": "True",
         "DFFlagSessionTrackingServerAuthorityMode": "True",
         "DFIntServerAuthorityPredictionEventHundredthsPercent": "10000",
-        "FFlagLuauCodegenBlockSafeEnv": "True",
         "FFlagLuauCodegenFloatLoadStoreProp": "True",
         "FFlagLuauCodegenInterruptIsNotForWrites": "True",
         "FFlagLuauCodegenBaseNativeCode": "True",
@@ -16808,9 +16808,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "43ed64598089adaa56587ea60719e58e95a05cb5",
-        "DFStringFlagRepoGitHashDynamicString": "43ed64598089adaa56587ea60719e58e95a05cb5",
-        "FStringFlipTimeStampFastString": "2025-12-11T18:27:32.761Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T18:27:32.761Z"
+        "FStringFlagRepoGitHashFastString": "0da0d3c96f017d57edf53de290200d73c671d5a3",
+        "DFStringFlagRepoGitHashDynamicString": "0da0d3c96f017d57edf53de290200d73c671d5a3",
+        "FStringFlipTimeStampFastString": "2025-12-11T18:31:53.765Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T18:31:53.765Z"
     }
 }
