@@ -14345,14 +14345,14 @@
         "FFlagUWPOpenCertainWebSitesAsRegularWebsites_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:04:31",
         "DFFlagSimStepPhysicsUseRootBodyForBodyFilter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:15:16",
         "FFlagLuauCompileBaseNativeTypes": "True",
-        "AllowVideoPreRoll": "True",
+        "AxisAdornmentGrabSize": "12",
         "FFlagVulkanTrackDeferredReleaseMemory": "True",
         "FFlagLuauCodegenBlockSafeEnv": "True",
         "FIntRbxStorageRemoveLargeWalThresholdMB_Staged": "50;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:33:57",
         "DFIntBatchLogEventSenderLinearLoggingUniverseSamplingPerMille_Staged": "2;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:34:56",
         "FFlagLuaSetPurchaseRobuxDialogMode": "True",
         "FFlagLuauCodegenInterruptIsNotForWrites": "True",
-        "AxisAdornmentGrabSize": "12",
+        "AllowVideoPreRoll": "True",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
         "DFFlagCyclicExecutiveThrottlingCancelWorldStepAccum": "False",
@@ -16320,6 +16320,7 @@
         "FStringServerAuthorityCoreAPIBetaFeatureUrl": "https://devforum.roblox.com/t/studio-beta-build-fair-responsive-games-with-server-authority/4139157",
         "FFlagFixEmissiveTransformMissingContent": "True",
         "FFlagLuauGenericCounterStepsInsteadOfCount": "True",
+        "DFFlagFontProviderContentPriority_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:43:20",
         "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
@@ -16810,9 +16811,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "b08a8a26209312208ddd2c381c2ecb1f4bfa2118",
-        "DFStringFlagRepoGitHashDynamicString": "b08a8a26209312208ddd2c381c2ecb1f4bfa2118",
-        "FStringFlipTimeStampFastString": "2025-12-11T18:41:54.170Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T18:41:54.170Z"
+        "FStringFlagRepoGitHashFastString": "24bafa93a0d358ca72e35af9ef8c001f771c3d50",
+        "DFStringFlagRepoGitHashDynamicString": "24bafa93a0d358ca72e35af9ef8c001f771c3d50",
+        "FStringFlipTimeStampFastString": "2025-12-11T18:44:31.789Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T18:44:31.789Z"
     }
 }
