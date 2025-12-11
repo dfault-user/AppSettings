@@ -14362,6 +14362,7 @@
         "FFlagOpenXrRemoveDeviceTypeControllerCheck": "True",
         "FFlagAssetProviderRefreshStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T21:21:00",
         "DFFlagNoPlayerFromCharacterSharedPtr_Staged": "True;SteadyState;10;30;Revert;2025-12-11T21:23:21",
+        "FIntLsbValidateMin_Staged": "512;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T21:28:05",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15343,9 +15344,9 @@
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagEnableBackgroundPushSettingsReporting2_IXP": "1;Portal.android_notifs_bg_job_dau_2-1765323922;android_notifs_bg_job_dau_2;776304974;flagbank",
         "FFlagFastClusterFixBoundingBoxUpdates3_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T21:25:34",
-        "FStringFlagRepoGitHashFastString": "ca65042fc0ccb0fe721bc945c3b13c38d4fe8447",
-        "DFStringFlagRepoGitHashDynamicString": "ca65042fc0ccb0fe721bc945c3b13c38d4fe8447",
-        "FStringFlipTimeStampFastString": "2025-12-11T21:27:05.915Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T21:27:05.915Z"
+        "FStringFlagRepoGitHashFastString": "93a899dfcf1d3b380050e7ebaf98d9740753d343",
+        "DFStringFlagRepoGitHashDynamicString": "93a899dfcf1d3b380050e7ebaf98d9740753d343",
+        "FStringFlipTimeStampFastString": "2025-12-11T21:29:06.645Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T21:29:06.645Z"
     }
 }
