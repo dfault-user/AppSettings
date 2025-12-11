@@ -14353,7 +14353,6 @@
         "FIntRbxStorageRemoveLargeWalThresholdMB": "50",
         "FFlagLuauCodegenFloatLoadStoreProp": "True",
         "FFlagAXRestoreBackButtonForConsole": "True",
-        "DFFlagAddRefreshHeaderToAssetDelivery_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T20:31:08",
         "DFIntMaximimumInflightRequestsPerRequestorDefault": "500",
         "FFlagAXLookDetailsThumbnailStretched": "True",
         "FFlagAXMigrateCategoryTooltip1": "True",
@@ -14363,6 +14362,7 @@
         "FFlagAssetProviderRefreshStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T21:21:00",
         "DFFlagNoPlayerFromCharacterSharedPtr_Staged": "True;SteadyState;10;30;Revert;2025-12-11T21:23:21",
         "FIntLsbValidateMin_Staged": "512;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T21:28:05",
+        "DFFlagAddRefreshHeaderToAssetDelivery": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15374,9 +15374,9 @@
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagAXRemoveCategorySubcategoryId2": "True",
-        "FStringFlagRepoGitHashFastString": "bc4d65946d2cef9c2f5912387edefc35f22b9edc",
-        "DFStringFlagRepoGitHashDynamicString": "bc4d65946d2cef9c2f5912387edefc35f22b9edc",
-        "FStringFlipTimeStampFastString": "2025-12-11T21:34:02.895Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T21:34:02.895Z"
+        "FStringFlagRepoGitHashFastString": "876ffddfe4d2558f08760f5a735cbce5f7f414fa",
+        "DFStringFlagRepoGitHashDynamicString": "876ffddfe4d2558f08760f5a735cbce5f7f414fa",
+        "FStringFlipTimeStampFastString": "2025-12-11T21:37:32.204Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T21:37:32.204Z"
     }
 }
