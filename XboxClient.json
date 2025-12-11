@@ -14312,9 +14312,6 @@
         "FFlagAppChatNewMoreMenuIconIxpEnabled_IXP": "1;Party.ConversationPage;PartyChat.NewMoreMenu;838181377;dev_controlled",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad_UniverseFilter": "1000;6701277882",
         "DFIntTextChatMessageClientReceivedThrottlePermyriad_PlaceFilter": "1000;121864768012064",
-        "FFlagMigrateAwayFromBundleDetails_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;188098908;2025-12-10T23:10:36",
-        "FFlagDontValidateCenteringInExperience_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;534382424;2025-12-10T23:11:25",
-        "FFlagUwpClearDatFileOnLogin_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-10T23:12:15",
         "FFlagDisableTtiExperiment2025FlagCaching": "True",
         "FFlagOpenXrAvoidCrashesOnHeadsetDisconnection": "True",
         "FFlagMergeImpressionsViewportCalculations": "True",
@@ -14332,6 +14329,9 @@
         "FFlagFoundationInternalTextInputScrolling_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T00:10:14",
         "FIntOmniRecommendationsMetadataEventThrottlingHundredthsPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T00:13:43",
         "FFlagLuaAppLogOmniRecommendationsMetadata_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T00:14:17",
+        "FFlagDontValidateCenteringInExperience": "True",
+        "FFlagMigrateAwayFromBundleDetails": "True",
+        "FFlagUwpClearDatFileOnLogin": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14694,9 +14694,9 @@
         "DFFlagRequestOrchestratorQueueExpirationEnabled": "True",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagSignalSubserviceVoiceChatRestrictionStatus": "True",
-        "FStringFlagRepoGitHashFastString": "5af406d6987d1d46c110e5a2faa4b380928d316e",
-        "DFStringFlagRepoGitHashDynamicString": "5af406d6987d1d46c110e5a2faa4b380928d316e",
-        "FStringFlipTimeStampFastString": "2025-12-11T00:15:07.607Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T00:15:07.607Z"
+        "FStringFlagRepoGitHashFastString": "0787d99dca78e40cc5d750bb4de9586f4f8144ed",
+        "DFStringFlagRepoGitHashDynamicString": "0787d99dca78e40cc5d750bb4de9586f4f8144ed",
+        "FStringFlipTimeStampFastString": "2025-12-11T00:18:54.472Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T00:18:54.472Z"
     }
 }
