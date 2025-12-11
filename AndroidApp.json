@@ -14334,6 +14334,7 @@
         "FIntOmniRecommendationsMetadataEventThrottlingHundredthsPercent": "10000",
         "FFlagEnableTtiExperiment2025": "True",
         "DFFlagVideoDynamicAcrPriorityListGeneration_PlaceFilter": "True;99358459705745",
+        "DFStringVideoAcrPriorityList_PlaceFilter": "(mp4,1,main);136954310107221;105796526973604;95047916580305",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15251,7 +15252,6 @@
         "DFIntMinSizeToCacheSharedStringBytes": "18000",
         "FIntSharedStringCacheThrottleHP_IXP": "1;Portal.Android_SharedStringCaching_IXP-1762987228;Android_SharedStringCaching_IXP;1641168062;flagbank",
         "FFlagEnableSharedStringCaching7_IXP": "1;Portal.Android_SharedStringCaching_IXP-1762987228;Android_SharedStringCaching_IXP;1641168062;flagbank",
-        "DFStringVideoAcrPriorityList_PlaceFilter": "(mp4,1,main);136954310107221;105796526973604;95047916580305",
         "FFlagUseAndroidPaymentsProtocolMetricsPurchaseType": "True",
         "FFlagUsePaymentsProtocolFailureMetrics": "True",
         "FFlagUsePaymentsProtocolPurchaseTypeDimension": "True",
@@ -15316,9 +15316,9 @@
         "DFFlagRequestOrchestratorQueueExpirationEnabled": "True",
         "DFIntIdempotentDevProductPurchaseMaxTimeInQueueMs": "6000",
         "FFlagEnableBackgroundPushSettingsReporting2_IXP": "1;Portal.android_notifs_bg_job_dau_2-1765323922;android_notifs_bg_job_dau_2;776304974;flagbank",
-        "FStringFlagRepoGitHashFastString": "d15ad794c9d7567aa765a8544f730b26d2ede275",
-        "DFStringFlagRepoGitHashDynamicString": "d15ad794c9d7567aa765a8544f730b26d2ede275",
-        "FStringFlipTimeStampFastString": "2025-12-11T17:09:17.162Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T17:09:17.162Z"
+        "FStringFlagRepoGitHashFastString": "8aafbcfc88443f3844cd5fec8f9462f23d89a454",
+        "DFStringFlagRepoGitHashDynamicString": "8aafbcfc88443f3844cd5fec8f9462f23d89a454",
+        "FStringFlipTimeStampFastString": "2025-12-11T17:20:19.040Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T17:20:19.040Z"
     }
 }
