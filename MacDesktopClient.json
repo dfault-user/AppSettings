@@ -14325,7 +14325,6 @@
         "FFlagMigrateAwayFromBundleDetails": "True",
         "FFlagUwpClearDatFileOnLogin": "True",
         "FIntNetworkSchemaVersion": "3",
-        "FFlagEnableTtiExperiment2025_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T00:34:51",
         "FFlagAQCodeRefactor": "True",
         "FFlagUwpMigrationNextPhase": "True",
         "FFlagUwpMigrationDialogHelpLink": "True",
@@ -14333,6 +14332,7 @@
         "FFlagAcousticSimQualityCutoff": "True",
         "FFlagLuaAppLogOmniRecommendationsMetadata": "True",
         "FIntOmniRecommendationsMetadataEventThrottlingHundredthsPercent": "10000",
+        "FFlagEnableTtiExperiment2025": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -15326,9 +15326,9 @@
         "FFlagVoiceWebrtcOnSignalingThread6": "False",
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
-        "FStringFlagRepoGitHashFastString": "621b85fa24aed3177f901dda2dfec4684378d9f1",
-        "DFStringFlagRepoGitHashDynamicString": "621b85fa24aed3177f901dda2dfec4684378d9f1",
-        "FStringFlipTimeStampFastString": "2025-12-11T01:16:49.371Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T01:16:49.371Z"
+        "FStringFlagRepoGitHashFastString": "07854ea3738bf07b45b148323a125cbad2be8767",
+        "DFStringFlagRepoGitHashDynamicString": "07854ea3738bf07b45b148323a125cbad2be8767",
+        "FStringFlipTimeStampFastString": "2025-12-11T01:36:31.903Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T01:36:31.903Z"
     }
 }
