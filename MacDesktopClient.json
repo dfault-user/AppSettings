@@ -14335,8 +14335,6 @@
         "DFFlagVideoDynamicAcrPriorityListGeneration_PlaceFilter": "True;99358459705745",
         "DFStringVideoAcrPriorityList_PlaceFilter": "(hls,1,720);105796526973604;136954310107221;95047916580305",
         "FFlagPPVBackgroundUse2DAsLoadingState": "True",
-        "FFlagAXRemoveUnusedKeyFromClothingCategories_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:03:12",
-        "FFlagUWPOpenCertainWebSitesAsRegularWebsites_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:04:31",
         "DFFlagSimStepPhysicsUseRootBodyForBodyFilter_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:15:16",
         "FFlagLuauCompileBaseNativeTypes": "True",
         "DFFlagHttpServiceOpenCloudEnabled_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:26:39",
@@ -14353,6 +14351,8 @@
         "FFlagAXUpdateTShirtTaxonomyUUID": "True",
         "FFlagAXUseConstForRecommendedCategoryId": "True",
         "FFlagAXTimeToRefreshClassicShirtCategory2": "True",
+        "FFlagAXRemoveUnusedKeyFromClothingCategories": "True",
+        "FFlagUWPOpenCertainWebSitesAsRegularWebsites": "True",
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
@@ -15347,9 +15347,9 @@
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagVoiceChatEnablePersistentSessionStats_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-11T18:49:44",
-        "FStringFlagRepoGitHashFastString": "4b1ed2c4caeb85ef229391097aa3b491645cc865",
-        "DFStringFlagRepoGitHashDynamicString": "4b1ed2c4caeb85ef229391097aa3b491645cc865",
-        "FStringFlipTimeStampFastString": "2025-12-11T19:05:21.898Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-11T19:05:21.898Z"
+        "FStringFlagRepoGitHashFastString": "7a798d4bd8343cd9e62ed04373c2bfea9dd45599",
+        "DFStringFlagRepoGitHashDynamicString": "7a798d4bd8343cd9e62ed04373c2bfea9dd45599",
+        "FStringFlipTimeStampFastString": "2025-12-11T19:07:32.977Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-11T19:07:32.977Z"
     }
 }
