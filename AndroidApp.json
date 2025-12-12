@@ -14416,6 +14416,7 @@
         "DFIntRbxStorageCapacityHighMB_Staged": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:08:42",
         "DFIntRbxStorageCapacityLowMB_Staged": "1024;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:09:11",
         "FFlagLuaAppAddSocialLinkClickTelemetryToEdp": "True",
+        "FFlagLuaAppFixSearchGridTileFlagPlayButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:13:15",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15407,9 +15408,9 @@
         "FIntRenderTextureOrphanBudgetMB_Staged": "8;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:21:47",
         "FFlagTM2SkipMipsForUnstreamable2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:22:24",
         "FStringGraphicsTextureManager2DenyPattern_Staged": ".*:.*:.*:1|.*:.*:.*:2|.*:.*:.*:3|.*:.*:.*:4;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:29:56",
-        "FStringFlagRepoGitHashFastString": "1ed48527f56a3d54f0e86a26cdbe5e35f7defa5c",
-        "DFStringFlagRepoGitHashDynamicString": "1ed48527f56a3d54f0e86a26cdbe5e35f7defa5c",
-        "FStringFlipTimeStampFastString": "2025-12-12T19:12:18.377Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-12T19:12:18.377Z"
+        "FStringFlagRepoGitHashFastString": "7fa42d59e31a4dd2f7ec44cdb49f8329303d2d3c",
+        "DFStringFlagRepoGitHashDynamicString": "7fa42d59e31a4dd2f7ec44cdb49f8329303d2d3c",
+        "FStringFlipTimeStampFastString": "2025-12-12T19:14:14.621Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-12T19:14:14.621Z"
     }
 }
