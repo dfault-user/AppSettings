@@ -14409,6 +14409,7 @@
         "FFlagRenderEnableGlobalInstancingMetal": "True",
         "DFFlagHttpServiceOpenCloudOnlyDoubleDotsBlocked_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:24:26",
         "FFlagExperienceDetailsPrompt": "True",
+        "FFlagPrefetchReadOnlySharedBufferForTextures_Staged": "True;SteadyState;10;30;Revert;2025-12-12T18:45:06",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -15405,9 +15406,9 @@
         "FFlagJDIDeque": "True",
         "FFlagRenderUseTextureManager224": "True",
         "FIntReportHangStatusThrottleHundredthPercent_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;320426028;2025-12-12T18:01:32",
-        "FStringFlagRepoGitHashFastString": "e4b31f150b015d9274ce9c5679e81fef9354897d",
-        "DFStringFlagRepoGitHashDynamicString": "e4b31f150b015d9274ce9c5679e81fef9354897d",
-        "FStringFlipTimeStampFastString": "2025-12-12T18:42:15.004Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-12T18:42:15.004Z"
+        "FStringFlagRepoGitHashFastString": "a4cdd90c6633f678f6069c2e9c2bc997b614dfd6",
+        "DFStringFlagRepoGitHashDynamicString": "a4cdd90c6633f678f6069c2e9c2bc997b614dfd6",
+        "FStringFlipTimeStampFastString": "2025-12-12T18:45:55.215Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-12T18:45:55.215Z"
     }
 }
