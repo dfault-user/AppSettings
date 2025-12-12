@@ -14400,9 +14400,6 @@
         "DFFlagDataStoreEnableModernRequestThrottling_UniverseFilter": "True;3666294218;9343843562",
         "DFFlagMathUseNewReflection": "True",
         "DFStringCLI132890EnabledRegions": "SA",
-        "FFlagFCRouteSecondaryKeepCompositeInPrimary_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;613978998;2025-12-12T18:21:36",
-        "FFlagFCSendPrimaryCompleteSignal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;627360511;2025-12-12T18:22:27",
-        "DFFlagHttpServiceOpenCloudOnlyDoubleDotsBlocked_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:24:26",
         "FFlagExperienceDetailsPrompt": "True",
         "FFlagGraphicsD3D11SwapBufferAsNeeded_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:49:17",
         "FFlagGraphicsGLSwapBufferAsNeeded_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:49:52",
@@ -14418,6 +14415,10 @@
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:13:15",
         "FFlagTextChatCompressTooMuchWhitespace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;960167258;2025-12-12T19:19:23",
         "FFlagTextureCompressorUseRSLThread_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:21:22",
+        "FFlagFCRouteSecondaryKeepCompositeInPrimary": "True",
+        "FFlagFCSendPrimaryCompleteSignal": "True",
+        "DFFlagHttpServiceOpenCloudOnlyDoubleDotsBlocked": "True",
+        "FFlagAssetProviderDisablePriorityAwareDeferredWritesTaskFactory_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:26:54",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14711,9 +14712,9 @@
         "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
-        "FStringFlagRepoGitHashFastString": "ccd2cdfce161cd57494a41313faa3c66f0808870",
-        "DFStringFlagRepoGitHashDynamicString": "ccd2cdfce161cd57494a41313faa3c66f0808870",
-        "FStringFlipTimeStampFastString": "2025-12-12T19:22:36.179Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-12T19:22:36.179Z"
+        "FStringFlagRepoGitHashFastString": "0994b8024ff3c36e8f49da8ed8beb4e4b9eea82e",
+        "DFStringFlagRepoGitHashDynamicString": "0994b8024ff3c36e8f49da8ed8beb4e4b9eea82e",
+        "FStringFlipTimeStampFastString": "2025-12-12T19:27:41.193Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-12T19:27:41.193Z"
     }
 }
