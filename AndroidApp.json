@@ -14407,7 +14407,6 @@
         "DFIntUvMetricMethod": "2",
         "FFlagHandheldDoesntUpdateInsets": "True",
         "FFlagLuaAppAddSocialLinkClickTelemetryToEdp": "True",
-        "FFlagTextureCompressorUseRSLThread_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:21:22",
         "FFlagFCRouteSecondaryKeepCompositeInPrimary": "True",
         "FFlagFCSendPrimaryCompleteSignal": "True",
         "DFFlagHttpServiceOpenCloudOnlyDoubleDotsBlocked": "True",
@@ -14420,6 +14419,7 @@
         "DFIntRbxStorageCapacityLowMB": "2500",
         "FFlagTextChatCompressTooMuchWhitespace": "True",
         "FFlagPurchasePromptPriceShouldUseProductInfoPrice3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T20:24:44",
+        "FFlagTextureCompressorUseRSLThread": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15411,9 +15411,9 @@
         "FStringRenderTextureBudgetByRam": "1024,64,2048,115,3072,154,4096,210,8192,680,16384,1536",
         "FStringGraphicsTextureManager2DenyPattern": ".*:.*:.*:1|.*:.*:.*:2|.*:.*:.*:3|.*:.*:.*:4",
         "FFlagRenderUseTextureManager224_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:57:51",
-        "FStringFlagRepoGitHashFastString": "f757fcb831a9263bb986a5a31406015226d9adfb",
-        "DFStringFlagRepoGitHashDynamicString": "f757fcb831a9263bb986a5a31406015226d9adfb",
-        "FStringFlipTimeStampFastString": "2025-12-12T20:25:28.601Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-12T20:25:28.601Z"
+        "FStringFlagRepoGitHashFastString": "f69e7b5eb8fe9f9807c0deb0fd975703d6269943",
+        "DFStringFlagRepoGitHashDynamicString": "f69e7b5eb8fe9f9807c0deb0fd975703d6269943",
+        "FStringFlipTimeStampFastString": "2025-12-12T20:26:40.357Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-12T20:26:40.357Z"
     }
 }
