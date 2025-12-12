@@ -14417,6 +14417,7 @@
         "FFlagLuaAppAddSocialLinkClickTelemetryToEdp": "True",
         "AllowVideoPreRoll": "True",
         "FFlagTextChatCompressTooMuchWhitespace_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;960167258;2025-12-12T19:19:23",
+        "FFlagTextureCompressorUseRSLThread_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:21:22",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -15426,15 +15427,15 @@
         "FFlagDurationAlertOnlyForLongFlows2": "True",
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
-        "FIntRenderTextureProcessingBudgetMilliseconds_Staged": "16;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:15:37",
         "FStringRenderTextureBudgetByRam_Staged": "1024,64,2048,115,3072,154,4096,210,8192,680,16384,1536;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:21:40",
         "FIntRenderTextureOrphanBudgetMB_Staged": "8;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:21:47",
         "FFlagTM2SkipMipsForUnstreamable2_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:22:24",
         "FFlagEnableTM2DenyList": "True",
         "FStringGraphicsTextureManager2DenyPattern": ".*:Apple.*:.*:1|.*:Apple.*:.*:2|.*:Apple.*:.*:3",
-        "FStringFlagRepoGitHashFastString": "9473f02ed9830c5538906225ab4c80b27a0d3577",
-        "DFStringFlagRepoGitHashDynamicString": "9473f02ed9830c5538906225ab4c80b27a0d3577",
-        "FStringFlipTimeStampFastString": "2025-12-12T19:21:52.150Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-12T19:21:52.150Z"
+        "FIntRenderTextureProcessingBudgetMilliseconds": "16",
+        "FStringFlagRepoGitHashFastString": "ccd2cdfce161cd57494a41313faa3c66f0808870",
+        "DFStringFlagRepoGitHashDynamicString": "ccd2cdfce161cd57494a41313faa3c66f0808870",
+        "FStringFlipTimeStampFastString": "2025-12-12T19:22:36.179Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-12T19:22:36.179Z"
     }
 }
