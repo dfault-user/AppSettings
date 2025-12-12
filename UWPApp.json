@@ -14396,7 +14396,6 @@
         "DFFlagCaptureServiceSendAssetUploadFailureTelemetry": "True",
         "DFFlagCaptureServiceUpdateUploadTelemetry": "True",
         "FFlagPurchasePromptPriceShouldUseProductInfoPrice3": "True",
-        "FFlagExperienceDetailsPrompt_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T17:36:37",
         "FFlagLuaAppNavBarPlacementOrientationFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2068576588;2025-12-12T17:45:48",
         "FFlagLuaAppAddSocialLinkImpressionsTelemetryToEdp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;5617681;2025-12-12T17:49:17",
         "FFlagLuaAppSnappingNilCheckVideoItem": "True",
@@ -14407,9 +14406,9 @@
         "FFlagLuaAppAddSocialLinkClickTelemetryToEdp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:10:16",
         "DFStringCLI132890EnabledRegions": "SA",
         "FFlagFCRouteSecondaryKeepCompositeInPrimary_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;613978998;2025-12-12T18:21:36",
-        "FFlagAXCatalogCategoriesStore6_Staged": "True;SteadyState;10;30;Revert;2025-12-12T18:22:10",
         "FFlagFCSendPrimaryCompleteSignal_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;627360511;2025-12-12T18:22:27",
         "DFFlagHttpServiceOpenCloudOnlyDoubleDotsBlocked_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:24:26",
+        "FFlagExperienceDetailsPrompt": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -14703,9 +14702,9 @@
         "FFlagInGameMenuAddChatLineReporting6_IXP": "1;Portal.EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2-1762883952;EducationAndReform.ReportMenu.ChatLineReportingIntegrationV2-2;1769291416;flagbank",
         "FFlagUwpAlwaysLinkToSlashDownload": "False",
         "FIntUwpDeprecationDate": "1763672400",
-        "FStringFlagRepoGitHashFastString": "17bde0c0797003c3981ae0f87b27061bec077211",
-        "DFStringFlagRepoGitHashDynamicString": "17bde0c0797003c3981ae0f87b27061bec077211",
-        "FStringFlipTimeStampFastString": "2025-12-12T18:33:49.056Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-12T18:33:49.056Z"
+        "FStringFlagRepoGitHashFastString": "e4b31f150b015d9274ce9c5679e81fef9354897d",
+        "DFStringFlagRepoGitHashDynamicString": "e4b31f150b015d9274ce9c5679e81fef9354897d",
+        "FStringFlipTimeStampFastString": "2025-12-12T18:42:15.004Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-12T18:42:15.004Z"
     }
 }
