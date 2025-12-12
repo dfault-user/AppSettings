@@ -14403,6 +14403,7 @@
         "FFlagLuaAppNavBarPlacementOrientationFix_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;2068576588;2025-12-12T17:45:48",
         "FFlagLuaAppAddSocialLinkImpressionsTelemetryToEdp_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;5617681;2025-12-12T17:49:17",
         "FFlagLuaAppSnappingNilCheckVideoItem": "True",
+        "DFFlagDataStoreEnableModernRequestThrottling_UniverseFilter": "True;3666294218",
         "FFlagVoiceChatStopSendingIceCandidate": "False",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
@@ -15400,9 +15401,10 @@
         "DFFlagCLI132890Enabled": "True",
         "FFlagJDIDeque": "True",
         "FFlagRenderUseTextureManager224": "True",
-        "FStringFlagRepoGitHashFastString": "8f7ca9c02a8ebcb79ed7a093406e495bb621aad7",
-        "DFStringFlagRepoGitHashDynamicString": "8f7ca9c02a8ebcb79ed7a093406e495bb621aad7",
-        "FStringFlipTimeStampFastString": "2025-12-12T18:01:47.305Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-12T18:01:47.305Z"
+        "FIntReportHangStatusThrottleHundredthPercent_Staged": "500;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;true;320426028;2025-12-12T18:01:32",
+        "FStringFlagRepoGitHashFastString": "3b10182b4fcf4eff45a3c1e984c23cb4ff51e1f0",
+        "DFStringFlagRepoGitHashDynamicString": "3b10182b4fcf4eff45a3c1e984c23cb4ff51e1f0",
+        "FStringFlipTimeStampFastString": "2025-12-12T18:02:32.006Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-12T18:02:32.006Z"
     }
 }
