@@ -14413,6 +14413,7 @@
         "FFlagLuaAppAddSocialLinkImpressionsTelemetryToEdp": "True",
         "FFlagLuaAppNavBarPlacementOrientationFix": "True",
         "FFlagClearTexturePacksOnNewCP_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:53:19",
+        "FFlagUseConvexDecompV8Format_PlaceFilter": "False;3351674303",
         "FFlagEnableTempFixCollectibleBundlePurchase": "True",
         "FFlagFixAvatarUtilCharacter_PlaceFilter": "True;16818255141;6295939019",
         "FFlagEnableAdsMouseUnlock": "True",
@@ -14927,6 +14928,7 @@
         "FFlagFCRouteSecondaryKeepCompositeInPrimary": "True",
         "FFlagFCSendPrimaryCompleteSignal": "True",
         "FFlagTextChatCompressTooMuchWhitespace": "True",
+        "DFFlagRenderFastClusterOcclusionCulling3_Staged": "False;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:03:43",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -15399,7 +15401,6 @@
         "DFIntPerformanceControlCrashMetricAlgorithmType_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
         "FFlagCrashMetricStorageInitialize3_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
         "FStringPerformanceControlExperimentName_IXP": "1;HarmonyExposure;HarmonyExposure.FreeOsMemLastCrashExperiment.Mac;673300814;flagbank",
-        "FFlagUseConvexDecompV8Format_PlaceFilter": "False;3351674303",
         "FFlagVoiceWebrtcOnSignalingThread6": "False",
         "FFlagLuaAppFixSearchGridTileFlagPlayButton_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
         "FFlagLuaAppSearchGridTiles_IXP": "1;PlayerApp.OmniSearchResultsPage.UX.Exposure;P13N.OmniSearch.SixteenByNineTiles;614297598;dev_controlled",
@@ -15409,9 +15410,9 @@
         "FFlagJDIDeque": "True",
         "FFlagRenderUseTextureManager224": "True",
         "FIntReportHangStatusThrottleHundredthPercent_Staged": "10000;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T19:01:12",
-        "FStringFlagRepoGitHashFastString": "6911180ef06507ecd34d766b98e3ca9a3675b019",
-        "DFStringFlagRepoGitHashDynamicString": "6911180ef06507ecd34d766b98e3ca9a3675b019",
-        "FStringFlipTimeStampFastString": "2025-12-12T19:02:14.522Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-12T19:02:14.522Z"
+        "FStringFlagRepoGitHashFastString": "addfd9787510ae423d27507e4d99a94b4626bfdc",
+        "DFStringFlagRepoGitHashDynamicString": "addfd9787510ae423d27507e4d99a94b4626bfdc",
+        "FStringFlipTimeStampFastString": "2025-12-12T19:04:38.952Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-12T19:04:38.952Z"
     }
 }
