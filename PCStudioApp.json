@@ -14410,6 +14410,8 @@
         "AllowVideoPreRoll": "True",
         "FFlagExperienceDetailsPrompt": "True",
         "FFlagPrefetchReadOnlySharedBufferForTextures_Staged": "True;SteadyState;10;30;Revert;2025-12-12T18:45:06",
+        "FFlagGraphicsD3D11SwapBufferAsNeeded_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:49:17",
+        "FFlagGraphicsGLSwapBufferAsNeeded_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:49:52",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
         "CaptureQTStudioCountersEnabled": "True",
@@ -16382,6 +16384,7 @@
         "FFlagFmodClampCyclicMix": "True",
         "FFlagJDIDeque": "True",
         "FFlagTexture4kBetaFeature": "True",
+        "FFlagRenderUseTextureManager224_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-12T18:49:27",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
         "FFlagVoxelGridFixUpsample": "True",
@@ -16870,9 +16873,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "a4cdd90c6633f678f6069c2e9c2bc997b614dfd6",
-        "DFStringFlagRepoGitHashDynamicString": "a4cdd90c6633f678f6069c2e9c2bc997b614dfd6",
-        "FStringFlipTimeStampFastString": "2025-12-12T18:45:55.215Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-12T18:45:55.215Z"
+        "FStringFlagRepoGitHashFastString": "66fb5c7bf98699ce59ea6847c085cd4dc563688f",
+        "DFStringFlagRepoGitHashDynamicString": "66fb5c7bf98699ce59ea6847c085cd4dc563688f",
+        "FStringFlipTimeStampFastString": "2025-12-12T18:51:00.190Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-12T18:51:00.190Z"
     }
 }
