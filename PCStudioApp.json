@@ -14423,6 +14423,7 @@
         "FIntRenderTextureLoadingMinMB": "16",
         "FFlagFixStreamingTextureMaxMipCount": "True",
         "FFlagFixDownsizingCalculation_Staged": "True;SteadyState;10;15;Rollout;100;30;SteadyState;100;15;Promote;2025-12-19T19:30:43",
+        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "AllowVideoPreRoll": "True",
         "AxisAdornmentGrabSize": "12",
         "CaptureCountersIntervalInMinutes": "5",
@@ -16401,7 +16402,6 @@
         "FFlagStudioPublishEligibilityDialog": "True",
         "FFlagRemoveGameSettingsPermissionsPage2": "True",
         "FFlagFixOldRibbonCollaborateIcon": "True",
-        "FFlagRenderEnableGlobalInstancingD3D11": "True",
         "FFlagEnableAdsMouseUnlock": "True",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent_PlaceFilter": "45;920587237",
         "DFIntExperienceStateCaptureHighlightTransparencyPercent": "60",
@@ -16887,9 +16887,9 @@
         "DFFlagHttp2AllInternalReqs": "False",
         "FFlagMiCollectOnCommitMemoryPressure_IXP": "1;Engine.Harmony;WindowsMiCollectOnCommitMemoryPressureIXP;2078364741;flagbank",
         "FFlagNotificationRedesignM1Q42025": "True",
-        "FStringFlagRepoGitHashFastString": "71009ef72f07e06e43e8be5ccd439bf6656c3a77",
-        "DFStringFlagRepoGitHashDynamicString": "71009ef72f07e06e43e8be5ccd439bf6656c3a77",
-        "FStringFlipTimeStampFastString": "2025-12-19T19:31:28.483Z",
-        "DFStringFlipTimeStampDynamicString": "2025-12-19T19:31:28.483Z"
+        "FStringFlagRepoGitHashFastString": "6ddd06e841c64ee05a54221d48bd6a2d5d5c0f1b",
+        "DFStringFlagRepoGitHashDynamicString": "6ddd06e841c64ee05a54221d48bd6a2d5d5c0f1b",
+        "FStringFlipTimeStampFastString": "2025-12-19T19:43:14.697Z",
+        "DFStringFlipTimeStampDynamicString": "2025-12-19T19:43:14.697Z"
     }
 }
